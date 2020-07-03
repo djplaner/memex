@@ -1,20 +1,43 @@
-# Foam
+# PKM, SecondBrain, Zettelkasten and other
 
-👋 Welcome to your new Foam Workspace!
+Experiment in trying to use [Foam](https://foambubble.github.io/foam/recipes) as a medium for notetaking, sensemaking and generally engaging in [Personal Knowledge Management (PKM)](http://jarche.com/pkm/) etc.
 
-## Getting started
+Sparked by @downes sharing of [details about Foam](http://www.downes.ca/cgi-bin/page.cgi?post=71058)
 
-This documentation assumes that you have a GitHub account and have [Visual Studio Code](https://code.visualstudio.com/) installed on your Linux/MacOS/Windows machine.
+And intended/hoped to solve the problem I've suffered from (and done nothing about) for a long time a lack of discipline to organise and utilise all the "thinking" I do. Yea, technology is going to help with discipline!!
 
-1. If you haven't yet, browse over to the main [Foam documentation workspace](https://foambubble.github.io/foam) to get an idea of what Foam is and how to use it.
-2. Press "Use this template" button at [foam-template](https://github.com/foambubble/foam-template/generate) (that's this repository!) to fork it to your own GitHub account. If you want to keep your thoughts to yourself, remember to set the repository private.
-3. [Clone the repository to your local machine](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository) and open it in VS Code.
-4. When prompted to install recommended extensions, click **Install all** (or **Show Recommendations** if you want to review and install them one by one)
+## How to do it?
 
-After setting up the repository, open [.vscode/settings.json](.vscode/settings.json) and edit, add or remove any settings you'd like for your Foam workspace.
+The technology seems to be working, but that won't be enough. What will be the process? Can the technology effectively support the process?
 
-To learn more about how to use **Foam**, read the [Recipes](https://foambubble.github.io/foam/recipes) bubbles of the Foam documentation workspace.
+The problem is that I can already see some limits of Foam. For example, common advice appears to be to avoid hierarchical categories and move to non-hierarchical network of nodes using tags. But Foam relies on github, which in turn relies on hierarchical directory/file structures!
 
+The advantage is that being based on github & VSCode enables Foam to better kludged into the whatever assemblage I think I need to help. For example, if I want to: 
+
+- Publish notes from Foam (PKM's share stage) to my [blog](https://djon.es/blog) 
+  This [might help to Sync github & wordpress](https://github.com/mAAdhaTTah/wordpress-github-sync). 
+- Import notes from Zotero (PKM's Seek/Sense stage)
+  There's a [Pyton Zotero api](https://pypi.org/project/Pyzotero/) which I could use to write some scripts to update content in this repository 
+- Import bookmarks from Diigo (PKM's Seek/Sense stage)
+  Another [Python module](https://pypi.org/project/pydiigo/)
+- Is there an alternative for markdown 
+  I can use it, but it has never felt right
+
+And I've not even touched on the VSCode ecosystem
+
+Moving away from the technology, I need a process that I can stick to. I've used 
+
+### PKM + SecondBrain 
+
+Early ideas here to combine bits of [Seek > Sense > Share](http://jarche.com/2014/02/the-seek-sense-share-framework/) from Jarche's PKM with the PARA idea from [SecondBrain](https://www.keepproductive.com/blog/how-to-build-a-second-brain)
+
+- Seek - curate a network of information flowing in
+  Twitter, Diigo, Zotero, journals, websites, colleagues etc. These will need to be connected into this secondBrain.
+- Sense - organise, reflect and make sense of all that's flowing in
+  - PARA to structure information
+    This is where SecondBrain's PARA system might help. Divide the flow into
+
+    - Projecs
 
 ## Using Foam
 
