@@ -53,6 +53,7 @@ Early ideas here to combine bits of [Seek > Sense > Share](http://jarche.com/201
 1. Organise the following into a PARA structure - read [more about it](https://fortelabs.co/blog/para/)
 1. Read more about writing/connecting content stored here e.g. [this](https://medium.com/swlh/how-i-use-my-second-brain-b5300d68e83a) and revisit some of the SFW/Wikity work
 1. Play with the [backlinking](https://foambubble.github.io/foam/backlinking) and [graph visualisation](https://foambubble.github.io/foam/graph-visualisation) 
+1. Automate the github repo update 
 1. Think about how to connect up the various seek tools into this repo
 1. Give more thought to how to implement [POSSE](https://indieweb.org/POSSE)
 1. Explore more about VSCode and the various recommended plugins added here
