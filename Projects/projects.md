@@ -1,6 +1,6 @@
 # Projects
 
-Organising note showing all projects.  Will be explicitly linked to from (Inbox)[../inbox]
+Organising note showing all projects.  Will be explicitly linked to from [Inbox](../inbox.md)
 
 ## Current projects
 
