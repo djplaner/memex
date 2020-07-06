@@ -7,9 +7,11 @@ Currently organised around a three step process
 1. [Seek](seek/index.md)
 
   Nascent notes on the way into memex via various tools.
+
 2. [Sense](sense/)
 
   Notes that have been formally organised and connected into rambles.
+
 3. [Share](share/index.md)
 
   Various artifacts (being) produced from the notes.
@@ -21,6 +23,7 @@ As this is all new the following documents current methods to keep all this work
 - Publish to github
 
   VSCode - CTRL-P - Git Commit
+
 - Create github issue (todo)
 
   VSCode - type _TODO_ into file and follow prompts
