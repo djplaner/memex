@@ -19,4 +19,4 @@ The hope is that the [Wordpress <--> GitHub sync plugin](https://github.com/mAAd
 
 Installation seems to have worked, but I've decided not to import existing posts here. Start afresh. 
 
-May as well test this now.
+Is it working? That is the question.
