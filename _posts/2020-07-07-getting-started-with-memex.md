@@ -38,7 +38,9 @@ There is an [option with Python][5] but it's even longer since it was last updat
 
 I'm currently in the process of adding a featured image for each post. Which I'll do manually to start the post. I need a script that's going to: read the markdown file, extract config about which post/page it's related to, and then update that page.
 
-(Kludgy)
+That's done. Sufficient for now, but a huge kludge.
+
+Needs some tidying up, but that's tomorrow's job.
 
  [1]: https://djplaner.github.io/memex/
  [2]: http://wikity.djon.es/
