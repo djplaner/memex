@@ -1,7 +1,7 @@
 ---
 post_title: 'Getting started with memex'
 layout: post
-published: false
+published: true
 ---
 
 So [memex](https://djplaner.github.io/memex/) is up and going. Time to start using it and as I go figuring out the workflow and toolchain to use.
