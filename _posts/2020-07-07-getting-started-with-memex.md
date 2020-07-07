@@ -9,38 +9,19 @@ permalink: >
 published: true
 post_date: 2020-07-07 11:20:22
 ---
-So [memex][1] is up and going. Time to start using it and as I go figuring out the workflow and toolchain to use.
-
-Aims for this post include
-
+So [memex][1] is up and going. Time to start using it and as I go figuring out the workflow and toolchain to use. Aims for this post include 
 1.  Writing this post in memex and syncing to my blog
 2.  Adding some "zettels" to sense taken from [my wikity][2]
 
-## Writing blog posts in memex
+## Writing blog posts in memex One of the assumptions of Foam is that the authoing environment (VSCode/markdown) can be a positive writing experience. I'm not such a fan of markedown. Writing blog posts in Foam will help me explore/change that in addition to all the benefits of 
 
-One of the assumptions of Foam is that the authoing environment (VSCode/markdown) can be a positive writing experience. I'm not such a fan of markedown. Writing blog posts in Foam will help me explore/change that in addition to all the benefits of [POSSE][3] and Foam.
+[POSSE][3] and Foam. 
+### Wordpress <--> GitHub sync (failure to launch) The hope is that the 
 
-### Wordpress <--> GitHub sync (failure to launch)
+[Wordpress <--> GitHub sync plugin][4] for Wordpress will help. Installation seems to have worked, but I've decided not to import existing posts here. Start afresh. Is it working? That is the question. After a bit of fiddling it works. However, it is removing files that Foam uses. Mmmm, not good. It's not 100% clear to me how and when its removing and moving files in the repo. This is making me nervous. It's also 3 years since the last update to the repo, which include a call for maintainers. Moving on. 
+### Python python-wordpress.xmlrpc There is an 
 
-The hope is that the [Wordpress <--> GitHub sync plugin][4] for Wordpress will help.
-
-Installation seems to have worked, but I've decided not to import existing posts here. Start afresh. 
-
-Is it working? That is the question.
-
-After a bit of fiddling it works. However, it is removing files that Foam uses. Mmmm, not good. It's not 100% clear to me how and when its removing and moving files in the repo. This is making me nervous.
-
-It's also 3 years since the last update to the repo, which include a call for maintainers. Moving on.
-
-### Python python-wordpress.xmlrpc
-
-There is an [option with Python][5] but it's even longer since it was last updated. But it works. There's also a [Python markdown module] to convert markdown to HTML.
-
-I'm currently in the process of adding a featured image for each post. Which I'll do manually to start the post. I need a script that's going to: read the markdown file, extract config about which post/page it's related to, and then update that page.
-
-That's done. Sufficient for now, but a huge kludge.
-
-Needs some tidying up, but that's tomorrow's job.
+[option with Python][5] but it's even longer since it was last updated. But it works. There's also a [Python markdown module] to convert markdown to HTML. I'm currently in the process of adding a featured image for each post. Which I'll do manually to start the post. I need a script that's going to: read the markdown file, extract config about which post/page it's related to, and then update that page. That's done. Sufficient for now, but a huge kludge. Needs some tidying up, but that's tomorrow's job.
 
  [1]: https://djplaner.github.io/memex/
  [2]: http://wikity.djon.es/
