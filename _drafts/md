@@ -1,10 +1,10 @@
 ---
-ID: 17861
+ID: 17868
 post_title: ""
 author: admin
 post_excerpt: ""
 layout: default
-permalink: https://djon.es/blog/?p=17861
+permalink: https://djon.es/blog/?p=17868
 published: false
 ---
 {{ content }} // Hack: Replace page-link with "Page Title" document.querySelectorAll(".markdown-body a[title]").forEach((a) => { a.innerText = a.title; });
