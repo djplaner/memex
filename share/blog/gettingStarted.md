@@ -61,6 +61,7 @@ One of the problems I face is that I doubt I ever used Wikity all that well. And
 [Cardbox:Affordances](http://wikity.djon.es/why-the-web-scales/?cardbox=Affordances) contains two cards. It shows that a CardBox is essentially only links to other cards.  The content is shown in the left hand nav bar. The content of this Wordpress post is two wiki links to the cards e.g.
 > `[[Why the web scales]]`
 > `[[Blackboard tweaks]]`
+
 It appears that the only sign that it's a CardBox is that inclusion of _CardBox::_ in the title.
 
 Suggesting it should just be a matter of extracting the content of each post and writing it to a proper place and all should be good?

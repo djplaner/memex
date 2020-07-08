@@ -49,7 +49,8 @@ def getFile( markDownFile ):
 
 def updatePost( config, content ):
 
-    blog = Client(settings.blogXmlRpc, username, password )
+    blog = Client(settings.blogXmlRpc, settings.blogUsername, 
+	                        settings.blogPassword )
 
     post = WordPressPost()
 
@@ -65,26 +66,23 @@ def updatePost( config, content ):
 #-----------------------------------------------------------
 
 def main(): 
-    if len(sys.argv)==2: 
-        username=settings.blogUsername
-        password=settings.blogPassword
-        markDownFile=sys.argv[1]
-
-        (config, content ) = getFile( markDownFile )
-
-    	print( "CONFIG\n%s" %config )
-    	print( "Content\n%s" %content )
-
-    	updatePost( config, content )
-
+	if len(sys.argv)==2: 
+		markDownFile=sys.argv[1] 
+		
+		(config, content ) = getFile( markDownFile ) 
+		print( "CONFIG\n%s" %config ) 
+		print( "Content\n%s" %content ) 
+		
+		updatePost( config, content ) 
+		
 		return False
 
-    	myposts = blog.call(posts.GetPosts())
+#    	myposts = blog.call(posts.GetPosts())
 
-    	for post in myposts:
-        	print("XXXXXXXXXXXXXXXXXXXX ")
-        	print("Id: %s. TITLE %s" % ( post.id,post.title))
-        	print("Link: %s " % post.link )
+#    	for post in myposts:
+#        	print("XXXXXXXXXXXXXXXXXXXX ")
+#        	print("Id: %s. TITLE %s" % ( post.id,post.title))
+#        	print("Link: %s " % post.link )
 
 
 if __name__=="__main__":
