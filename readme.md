@@ -5,11 +5,14 @@ An on-going experiment in creating and leveraging a personal memex using [Foam](
 Currently organised around a three step process
 
 1. [[Seek]] 
-   Nascent notes on the way into memex via various tools.
+    
+    Nascent notes on the way into memex via various tools.
 2. [[Sense]]
-   Notes that have been formally organised and connected into rambles.
+
+    Notes that have been formally organised and connected into rambles.
 3. [[Share]] 
-  Various artifacts (being) produced from the notes.
+
+    Various artifacts (being) produced from the notes.
 
 ## How it works 
 
