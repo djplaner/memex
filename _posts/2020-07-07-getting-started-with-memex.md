@@ -62,7 +62,9 @@ One of the problems I face is that I doubt I ever used Wikity all that well. And
 
 [Cardbox:Affordances][10] contains two cards. It shows that a CardBox is essentially only links to other cards. The content is shown in the left hand nav bar. The content of this Wordpress post is two wiki links to the cards e.g.
 
-> `[[Why the web scales]]` `[[Blackboard tweaks]]` It appears that the only sign that it's a CardBox is that inclusion of *CardBox::* in the title.
+> `[[Why the web scales]]` `[[Blackboard tweaks]]`
+
+It appears that the only sign that it's a CardBox is that inclusion of *CardBox::* in the title.
 
 Suggesting it should just be a matter of extracting the content of each post and writing it to a proper place and all should be good?
 
@@ -79,6 +81,15 @@ Since Wikity uses markdown (as does Foam/memex) there is no immediate need to tr
 Plan is to insert the wikity cards and card boxes into the Sense section of memex. At some level the cards have already been 'sensed', just not very well. The question in my mind is how to do this? What structure to use?
 
 The Foam community to the rescue with [this example][11] found on Twitter. A concrete example to explore. The [concepts directory][12] is holding the equivalent of card boxes. Semi-equivalent to the sense directory in memex. Each "card box" then has its own ["index"][13] and directory for cards
+
+Steps: 
+
+*   [ ] Get a list of Cards and CardBoxes in Wikity
+*   [ ] Make directories in sense for each of the card boxes
+*   [ ] Save card boxes to files in sense directory
+*   [ ] Save each card ito the appropriate directory (card box or "loose")
+*   [ ] Add a list of card boxes to sense/index.md
+*   [ ] Add a list of "loose" cards to sense/index.md
 
 *
 
