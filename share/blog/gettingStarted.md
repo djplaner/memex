@@ -82,14 +82,13 @@ The Foam community to the rescue with [this example](https://tslim.github.io/con
 
 Steps: 
 
-1. Get a list of Cards and CardBoxes in Wikity
-2. Make directories in sense for each of the card boxes
-3. Save card boxes to files in sense directory
-4. Save each card ito the appropriate directory (card box or "loose")
-5. Add a list of card boxes to sense/index.md
-6. Add a list of "loose" cards to sense/index.md
+- [X] Get a list of Cards and CardBoxes in Wikity
+- [ ] Make directories in sense for each of the card boxes
+- [ ] Save card boxes to files in sense directory
+- [ ] Save each card ito the appropriate directory (card box or "loose")
+- [ ] Add a list of card boxes to sense/index.md
+- [ ] Add a list of "loose" cards to sense/index.md
 
-Step
 
 
 - 

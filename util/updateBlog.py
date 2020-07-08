@@ -7,14 +7,14 @@
 #
 # Markdown files for blog posts need to begin with some TOML config
 # surrounded by --- e.g.
-# ---
+# ```
 # post_title='Getting started with memex'
 # layout="post"
 # published=false
 # id=17864
 # link="https://djon.es/blog/2020/07/07/getting-started-with-memex/"
 # category="memex"
-# ---
+# ```    
 
 import sys
 import markdown
@@ -38,7 +38,7 @@ def getFile( markDownFile ):
     print("--------------- HTML -------------")
     print(markdown.markdown(markDownData))
 
-    x = re.match("^---(.*)---(.*)", markDownData, re.M | re.S  )
+    x = re.match("^```(.*)```(.*)", markDownData, re.M | re.S  )
     print(x)
     print(x[1])
 
