@@ -33,22 +33,68 @@ def getFile( markDownFile ):
     return (postConfig, postContent )
 
 def getPost( id ):
-
     blog = Client(settings.wikityXmlRpc, settings.wikityUsername, 
                  settings.wikityPassword )
 
     post = blog.call(GetPost(id))
 
     return post
+    
+#-----------------------------------------------------
+# getPosts
+# - extract all of the posts from the blog
+# - divide the into two arrays cards and cardBoxes and
+#   return the two arrays
+
+def getPosts(  ):
+    blog = Client(settings.wikityXmlRpc, settings.wikityUsername, 
+                 settings.wikityPassword )
+
+    cards = []
+    cardBoxes = []
+
+    offset = 0
+    increment = 20
+    while True:
+        print("Getting from %s to %s" % ( offset, offset+increment))
+        postList = blog.call(posts.GetPosts({'number': increment, 'offset': offset}))
+        if len(postList) == 0: 
+            break  # no more posts returned
+        for post in postList:
+            if post.title.startswith("CardBox::" ):
+                cardBoxes.append(post)
+            else:
+                cards.append(post)
+        offset = offset + increment
+
+    return( cardBoxes, cards)
+
+#-----------------------------------------------------------
+# displayPosts( posts)
+# - given an array of posts disply their titles and contents
+
+def displayPosts( posts ):
+
+    for post in posts:
+        print("_____________________")
+        print("id %s title %s"%(post.id,post.title))
+        print(post.content)
 
 #-----------------------------------------------------------
 
 def main(): 
 
-    post = getPost( 154)
+#    post = getPost( 154)
+#    print(post)
+#    print(post.content)
 
-    print(post)
-    print(post.content)
+    (cardBoxes, cards) = getPosts()
+
+    print("------------------- card boxes")
+    displayPosts(cardBoxes)
+    print("------------------- cards")
+    displayPosts(cards)
+
 
 if __name__=="__main__":
 	main()

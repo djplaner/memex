@@ -1,11 +1,11 @@
----
+```
 post_title='Getting started with memex'
 layout="post"
 published=false
 id=17864
 link="https://djon.es/blog/2020/07/07/getting-started-with-memex/"
 category="memex"
----
+```
 
 So [memex](https://djplaner.github.io/memex/) is up and going. Time to start using it and as I go figuring out the workflow and toolchain to use.
 
@@ -80,6 +80,16 @@ Plan is to insert the wikity cards and card boxes into the Sense section of meme
 
 The Foam community to the rescue with [this example](https://tslim.github.io/concepts/) found on Twitter. A concrete example to explore. The [concepts directory](https://github.com/tslim/concepts/tree/master/concepts) is holding the equivalent of card boxes. Semi-equivalent to the sense directory in memex. Each "card box" then has its own ["index"](https://github.com/tslim/concepts/blob/master/concepts/cloud-computing.md) and directory for cards
 
+Steps: 
+
+1. Get a list of Cards and CardBoxes in Wikity
+2. Make directories in sense for each of the card boxes
+3. Save card boxes to files in sense directory
+4. Save each card ito the appropriate directory (card box or "loose")
+5. Add a list of card boxes to sense/index.md
+6. Add a list of "loose" cards to sense/index.md
+
+Step
 
 
 - 
