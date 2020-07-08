@@ -84,7 +84,7 @@ The Foam community to the rescue with [this example][11] found on Twitter. A con
 
 Steps: 
 
-*   [ ] Get a list of Cards and CardBoxes in Wikity
+*   [X] Get a list of Cards and CardBoxes in Wikity
 *   [ ] Make directories in sense for each of the card boxes
 *   [ ] Save card boxes to files in sense directory
 *   [ ] Save each card ito the appropriate directory (card box or "loose")
