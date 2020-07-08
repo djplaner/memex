@@ -6,10 +6,8 @@ Currently organised around a three step process
 
 1. [[Seek]] 
    Nascent notes on the way into memex via various tools.
-  
 2. [[Sense]]
    Notes that have been formally organised and connected into rambles.
-  
 3. [[Share]] 
   Various artifacts (being) produced from the notes.
 
