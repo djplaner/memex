@@ -2,6 +2,6 @@
 
 ## Path
 
-- [[Quality.md]] 
+- [[Quality]] 
 - [[Teaching quality.md]]
 - [[Quality enhancement.md]]
