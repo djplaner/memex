@@ -25,7 +25,4 @@ As this is all new the following documents current methods to keep all this work
 
   VSCode - type _TODO_ into file and follow prompts
 
-[//begin]:
-
-[//end]:
 
