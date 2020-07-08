@@ -10,7 +10,7 @@ Currently organised around a three step process
 2. [sense]
 
     Notes that have been formally organised and connected into rambles.
-3. [[share]] 
+3. [share/index.md]
 
     Various artifacts (being) produced from the notes.
 
