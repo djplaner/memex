@@ -2,6 +2,7 @@
 # - extract contents of wikity and insert into memex (eventually)
 
 import sys
+import os
 import markdown
 import toml
 import re
@@ -81,19 +82,101 @@ def displayPosts( posts ):
         print(post.content)
 
 #-----------------------------------------------------------
+# makeCardBoxDirectories
+# - given a list of posts with card boxes
+# - create directories in memexHome/sense/ for each cardBox
+#   using the title
+# - This is where cards matching that cardBox will be placed
+
+def makeCardBoxDirectories(cardBoxes):
+    rex = re.compile("CardBox:: (.*)")
+    for box in cardBoxes: 
+        m = rex.search( box.title) 
+        if m: 
+            print("Title %s directory %s" % (box.title, 
+                    "%ssense/%s" % (settings.memexHome,m[1]))) 
+                    
+            try:
+               os.mkdir("%ssense/%s" % (settings.memexHome,m[1]))
+            except OSError:
+                print("Failed making directory")
+        
+
+#-----------------------------------------------------------
+# makeCardBoxNotes
+# - given a list of posts with card boxes
+# - add files into sense that contain the contents using following
+#   format
+# # Title (path)
+#
+# ## Description
+#
+# TODO
+#
+# ## Path
+#
+# - first card link
+# - second card link
+#
+
+CARD_BOX_TOP="""\
+# TITLE
+
+## Path
+"""
+
+def makeCardBoxNotes(cardBoxes):
+    rex = re.compile("CardBox:: (.*)")
+    for box in cardBoxes: 
+        m = rex.search( box.title) 
+        if m: 
+            print("Title %s directory %s" % (box.title, 
+                    "%ssense/%s" % (settings.memexHome,m[1]))) 
+            
+            path = "%ssense/%s.md" % ( settings.memexHome,
+                                m[1])
+
+#            with open(path, 'w') as f:
+#                f.write(CARD_BOX_TOP)
+
+            content = CARD_BOX_TOP.replace("TITLE", m[1])
+
+            print(content)
+
+            rex = re.compile("\[\[(.*)]]$", re.M)
+            matches = re.findall(rex, box.content)
+
+            for match in matches:
+                print( "- [[%s]]" %match)
+                
+            
+                    
+
+
+#-----------------------------------------------------------
 
 def main(): 
 
-#    post = getPost( 154)
-#    print(post)
-#    print(post.content)
+    post = getPost( 71 )
+    print(post)
+    print(post.content)
+    cardBoxes = []
+    cardBoxes.append(post)
+    makeCardBoxNotes( cardBoxes)
 
-    (cardBoxes, cards) = getPosts()
+#    (cardBoxes, cards) = getPosts()
 
-    print("------------------- card boxes")
-    displayPosts(cardBoxes)
-    print("------------------- cards")
-    displayPosts(cards)
+#    makeCardBoxDirectories( cardBoxes)
+
+    #makeCardNotes( cards)
+
+    #addCardBoxList( cardBoxes)
+    #addLooseCards(cards)
+
+#    print("------------------- card boxes")
+#    displayPosts(cardBoxes)
+#    print("------------------- cards")
+#    displayPosts(cards)
 
 
 if __name__=="__main__":
