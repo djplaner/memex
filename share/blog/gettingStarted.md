@@ -36,8 +36,49 @@ There is an [option with Python](https://pypi.org/project/python-wordpress-xmlrp
 
 I'm currently in the process of adding a featured image for each post. Which I'll do manually to start the post.  I need a script that's going to: read the markdown file, extract config about which post/page it's related to, and then update that page.
 
-That's done. Sufficient for now, but a huge kludge.
+That's done. Sufficient for now, but a huge kludge. But that's nothing new to what I do.
 
-Needs some tidying up, but that's tomorrow's job.
+Needs some tidying up, but that's tomorrow's (which never comes?) job.
+
+## Zettels from wikity?
+
+From previous experimentations I have a [Wikity install](https://wikity.djon.es/) that contains a collection (not very big) of candidate "zettels". The idea is that importing those into memex should provide a good collection of zettels to experiment with using Foam. Giving some insights into if and how Foam can work managing such a collection.
+
+The plan here is:
+
+1. Check out the format of the Wikity entries.
+2. Develop method to programatically extract them from Wikity. 
+3. Transform and insert them into memex
+
+### Wikity entry format
+
+[Wikity](https://github.com/michaelarthurcaulfield/wikity-zero) (I believe) was based on the idea of Cards and [CardBoxes](https://hapgood.us/2016/09/20/wikity-updates-0-4/). Cards are the equivalent of zettels (which is German for a small piece of paper) and CardBoxes are the equivalent of structure notes (memex's paths). 
+
+One of the problems I face is that I doubt I ever used Wikity all that well. And what is there seems to have broken links
+
+[Card:Three types of decentralisation](https://wikity.djon.es/three-types-of-decentralisation/) as some wonky content but does include a "see" link that is meant to point to a Cardbox. The content is in markdown and the "see" link is a wiki link `[[BAD]]`
+
+[Cardbox:Affordances](http://wikity.djon.es/why-the-web-scales/?cardbox=Affordances) contains two cards. It shows that a CardBox is essentially only links to other cards.  The content is shown in the left hand nav bar. The content of this Wordpress post is two wiki links to the cards e.g.
+> `[[Why the web scales]]`
+> `[[Blackboard tweaks]]`
+It appears that the only sign that it's a CardBox is that inclusion of _CardBox::_ in the title.
+
+Suggesting it should just be a matter of extracting the content of each post and writing it to a proper place and all should be good?
+
+### Extract content from Wikity
+
+Wikity is a theme on top of Wordpress. Hence the python-wordpress.xmlrpc package used above should be able to grab the cards.
+
+And it can.  Quite easily.  The question now is how to insert it into memex.
+
+### Transform and insert into memex
+
+Since Wikity uses markdown (as does Foam/memex) there is no immediate need to transform.  The question will be if there are any specific additional transformations (e.g. links) that need to be made to make it all work in Foam.
+
+Plan is to insert the wikity cards and card boxes into the Sense section of memex. At some level the cards have already been 'sensed', just not very well. The question in my mind is how to do this? What structure to use?
+
+The Foam community to the rescue with [this example](https://tslim.github.io/concepts/) found on Twitter. A concrete example to explore. The [concepts directory](https://github.com/tslim/concepts/tree/master/concepts) is holding the equivalent of card boxes. Semi-equivalent to the sense directory in memex. Each "card box" then has its own ["index"](https://github.com/tslim/concepts/blob/master/concepts/cloud-computing.md) and directory for cards
 
 
+
+- 

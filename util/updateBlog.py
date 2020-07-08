@@ -1,3 +1,21 @@
+# updateBlog.py
+# - Update blog posts on djon.es/blog from markdown files
+#   in share/blog
+# - still hard coded
+# - TODO change to do "cached" updates of blog posts
+
+#
+# Markdown files for blog posts need to begin with some TOML config
+# surrounded by --- e.g.
+# ---
+# post_title='Getting started with memex'
+# layout="post"
+# published=false
+# id=17864
+# link="https://djon.es/blog/2020/07/07/getting-started-with-memex/"
+# category="memex"
+# ---
+
 import sys
 import markdown
 import toml
@@ -44,25 +62,30 @@ def updatePost( config, content ):
 
     myposts = blog.call(EditPost(post.id, post ))
 
+#-----------------------------------------------------------
 
-if len(sys.argv)==2: 
-    username=settings.blogUsername
-    password=settings.blogPassword
-    markDownFile=sys.argv[1]
+def main(): 
+    if len(sys.argv)==2: 
+        username=settings.blogUsername
+        password=settings.blogPassword
+        markDownFile=sys.argv[1]
 
-    (config, content ) = getFile( markDownFile )
+        (config, content ) = getFile( markDownFile )
 
-    print( "CONFIG\n%s" %config )
-    print( "Content\n%s" %content )
+    	print( "CONFIG\n%s" %config )
+    	print( "Content\n%s" %content )
 
-    updatePost( config, content )
-    print(XX)
+    	updatePost( config, content )
+
+		return False
+
+    	myposts = blog.call(posts.GetPosts())
+
+    	for post in myposts:
+        	print("XXXXXXXXXXXXXXXXXXXX ")
+        	print("Id: %s. TITLE %s" % ( post.id,post.title))
+        	print("Link: %s " % post.link )
 
 
-
-    myposts = blog.call(posts.GetPosts())
-
-    for post in myposts:
-        print("XXXXXXXXXXXXXXXXXXXX ")
-        print("Id: %s. TITLE %s" % ( post.id,post.title))
-        print("Link: %s " % post.link )
+if __name__=="__main__":
+	main()
