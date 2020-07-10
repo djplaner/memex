@@ -87,11 +87,15 @@ Steps:
 - Make directories in sense for each of the card boxes
   Done. More simple processes
 - Save card boxes to files in sense directory
-  Simple to write the files. The question is about whether writing the files with Python means not using the wiki links functionality in vs-code breaks operation.
+  Now it gets harder. More detail below.
 - Save each card ito the appropriate directory (card box or "loose")
 - Add a list of card boxes to sense/index.md
 - Add a list of "loose" cards to sense/index.md
 
+#### Generating md files using Python
 
+It's simple to write the files using Python. But doing so bypasses VS-Code so doesn't run the plugins that enable wiki links to work. 
 
+1. Figure out how to call the plugin from Python (or other means)
+2. Write normal markdown links using Python
 - 

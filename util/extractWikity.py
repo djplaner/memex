@@ -134,10 +134,11 @@ def makeCardBoxNotes(cardBoxes):
             print("Title %s directory %s" % (box.title, 
                     "%ssense/%s" % (settings.memexHome,m[1]))) 
             
+            title = m[1]
             path = "%ssense/%s.md" % ( settings.memexHome,
-                                m[1])
+                                title)
 
-            content = CARD_BOX_TOP.replace("TITLE", m[1])
+            content = CARD_BOX_TOP.replace("TITLE", title)
 
             print(content)
 
@@ -145,7 +146,7 @@ def makeCardBoxNotes(cardBoxes):
             matches = re.findall(rex, box.content)
 
             for match in matches:
-                content = content + "- [[%s]]\n" %match
+                content = content + "- [%s](%s/%s)\n" %( match, title, match )
 
             content = content + "\n"
 
