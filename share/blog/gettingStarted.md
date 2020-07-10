@@ -82,12 +82,15 @@ The Foam community to the rescue with [this example](https://tslim.github.io/con
 
 Steps: 
 
-- [X] Get a list of Cards and CardBoxes in Wikity
-- [X] Make directories in sense for each of the card boxes
-- [ ] Save card boxes to files in sense directory
-- [ ] Save each card ito the appropriate directory (card box or "loose")
-- [ ] Add a list of card boxes to sense/index.md
-- [ ] Add a list of "loose" cards to sense/index.md
+- Get a list of Cards and CardBoxes in Wikity
+  Done. Simple Python code.
+- Make directories in sense for each of the card boxes
+  Done. More simple processes
+- Save card boxes to files in sense directory
+  Simple to write the files. The question is about whether writing the files with Python means not using the wiki links functionality in vs-code breaks operation.
+- Save each card ito the appropriate directory (card box or "loose")
+- Add a list of card boxes to sense/index.md
+- Add a list of "loose" cards to sense/index.md
 
 
 
