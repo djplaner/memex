@@ -4,7 +4,7 @@ An on-going experiment in creating and leveraging a personal memex using [Foam](
 
 Currently organised around a three step process
 
-1. [seek/index]
+1. [seek/index.md]
     
     Nascent notes on the way into memex via various tools.
 2. [sense]
