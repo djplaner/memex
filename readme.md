@@ -4,17 +4,17 @@ An on-going experiment in creating and leveraging a personal memex using [Foam](
 
 Currently organised around a three step process
 
-1. [seek/index.md]
+1. [[seek]](seek)
     
     Nascent notes on the way into memex via various tools.
 2. [[sense]](sense)
 
     Notes that have been formally organised and connected into rambles.
-3. [[share/index.md]]
+3. [share](share)
 
     Various artifacts (being) produced from the notes.
 
-[[tmp]]
+
 
 ## How it works 
 
