@@ -1,0 +1,25 @@
+# Why the web scales
+
+The [citation for Tim Berners-Lee's Turing award](https://amturing.acm.org/award_winners/berners-lee_8087960.cfm) reads (emphasis added)
+
+> For inventing the World Wide Web, the first web browser, and the fundamental protocols and algorithms allowing the **Web to scale**.
+
+It cites "initimately tied in with the Unix operating system" and a "whole approach reflected the distinctive Unix philosophy of building new system capabilities by recombining existing tools". 
+
+Not to mention "achieving compatibility through communications protocols rather than standard code, hardware, or operating systems" ... The Internet philosophy.
+
+But also - in comparison to the hypermedia community and Ted Nelson in particular - since he only had a few months this led to
+> Rather than attack intractable problems, Berners-Lee used proven technologies as the building blocks of a system intended to be powerful and immediately useful rather than perfect.
+
+And there's **distribution**
+> This technological minimalism made the Web easy to scale, with no indexing system or central database to overload.
+
+It also points out
+> Yet the ACM’s 1991 Hypertext conference had rejected Berners-Lee’s paper describing the World Wide Web.
+
+
+
+
+### Related categories
+
+- [Affordances](../Affordances)

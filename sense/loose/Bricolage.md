@@ -1,0 +1,14 @@
+# Bricolage
+
+Layton and Brown (2011) talk about an action learning process based on bricolage and cite Turkle and Papert (1991)....may good things to follow up there.
+
+
+### Sources
+
+Layton, C., & Brown, C. (2011). Striking a balance: supporting teaching excellence award applications. International Journal for Academic Development, 16(2), 163–174. http://doi.org/10.1080/1360144X.2011.568736
+
+Turkle, S., & Papert, S. (1991). [Epistemological pluralism and the revaluation of the concrete](http://www.papert.org/articles/EpistemologicalPluralism.html). In I. Harel & S. Papert (Eds.), Constructionism (pp. 161–191). Norwood, NJ: Ablex.
+
+### Related categories
+
+- [loose](../loose)

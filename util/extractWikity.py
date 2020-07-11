@@ -2,6 +2,7 @@
 # - extract contents of wikity and insert into memex (eventually)
 
 import sys
+from slugify import slugify
 import os
 import markdown
 import toml
@@ -133,8 +134,10 @@ CARD_BOX_TOP="""\
 """
 
 def makeCardBoxNotes(cardBoxes):
+    print("-------------- make Card Box notes")
     rex = re.compile("CardBox:: (.*)")
     for box in cardBoxes: 
+        print("---- %s" % box.title)
         m = rex.search( box.title) 
         if m: 
             print("Title %s directory %s" % (box.title, 
@@ -147,8 +150,8 @@ def makeCardBoxNotes(cardBoxes):
 
             print(content)
 
-            rex = re.compile("\[\[(.*)]]$", re.M)
-            matches = re.findall(rex, box.content)
+            crex = re.compile("\[\[(.*)]]$", re.M)
+            matches = re.findall(crex, box.content)
 
             for match in matches:
                 content = content + "- [%s](%s/%s)\n" %( match, title, match )
@@ -160,6 +163,8 @@ def makeCardBoxNotes(cardBoxes):
             with open(path, 'w') as f:
                f.write(content)
                f.close()
+
+    print("------------------------ FINISH ")
                 
             
 #-----------------------------------------------------------
@@ -176,26 +181,64 @@ CONTENT
 
 """
 
-def writePosts(category, posts):
+def writePosts(membership, posts):
 
     for post in posts:
         #-- get HTML
+        print("----- TITLE %s" %post.title)
+
         content = POST_TEMPLATE.replace("TITLE", post.title)
         content = content.replace("CONTENT", post.content)
+
+        #-- calculate category
+        category = 'loose'
+        if post.title in membership:
+            category = membership[post.title]
 
         #-- add the category "backlink"
         content = content + "- [%s](../%s)\n"%(category,category)
 
         #-- open and write file
-        path = "%ssense/%s/%s.md" % ( settings.memexHome, category, post.title)
+        path = "%ssense/%s/%s.md" % ( settings.memexHome, category, post.title.replace("/",""))
 
-#        print("Path is %s"%path)
+#        print("  --- Path is %s"%path)
 #        print( content )
+#        print("---------------")
         with open(path, 'w') as f:
            f.write(content)
            f.close()
                     
 
+#-----------------------------------------------------------
+# displayCardBoxes( posts )
+
+def displayCardBoxes( posts):
+
+    for box in posts:
+        print( "%s"%box.title)
+
+#-------------------------------
+# categoriseCards( cardBoxes)
+# - return hash keyed on card titles which indicates which card boxes they belong to
+
+def categoriseCards( cardBoxes ):
+
+    categories = {}
+    rex = re.compile("CardBox:: (.*)")
+    for box in cardBoxes: 
+        print("---- %s" % box.title)
+        m = rex.search( box.title) 
+        if m: 
+            title = m[1]
+
+            #-- get the names of the cards in the box
+            crex = re.compile("\[\[(.*)]]$", re.M)
+            matches = re.findall(crex, box.content)
+
+            for match in matches:
+                categories[match] = title
+
+    return categories
 
 #-----------------------------------------------------------
 
@@ -211,20 +254,27 @@ def main():
 
     #-- want card ids for Quality 39, Quality enhancement 42, Teaching quality 72
 
-    posts = getPostList( [39, 42, 72])
+#    posts = getPostList( [39, 42, 72])
     #displayPosts(posts)
 
-    writePosts( "Quality and teaching", posts)
-#    makeCardBoxDirectories( cardBoxes) # DONE
-#    makeCardBoxNotes( cardBoxes) # DONE
     #makeCardNotes( cards)
     #addCardBoxList( cardBoxes)
     #addLooseCards(cards)
 
-#    (cardBoxes, cards) = getPosts()
+    (cardBoxes, cards) = getPosts()
+
+    #-- get hash of card titles that belong to categories
+    membership = {}
+    membership = categoriseCards( cardBoxes)
+
+    print(membership)
+
+    writePosts( membership, cards)
 
 #    print("------------------- card boxes")
-#    displayPosts(cardBoxes)
+#    displayCardBoxes(cardBoxes) # DONE
+ #   makeCardBoxDirectories( cardBoxes) # DONE
+#    makeCardBoxNotes( cardBoxes) # DONE
 #    print("------------------- cards")
 #    displayPosts(cards)
 

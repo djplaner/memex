@@ -1,0 +1,11 @@
+# Three obstacles to getting started with programming
+
+Tony Hirst describes 3 obstacles people have to overcome when thinking about getting started with programming.
+
+> I’ve often thought that there are several obstacles to getting started with programming. Firstly, there’s the rationale or context: why bother/what could I possibly use programming for? Secondly, there are the practical difficulties: to write and execute programmes, you need to get an programming environment set up. Thirdly, there’s the so what: “okay, so I can programme now, but how do I use this in the real world?” [source](https://blog.ouseful.info/2016/04/26/want-to-get-started-with-open-data-looking-for-an-introductory-programming-course/)
+
+The 3rd - "how do I use this in the real world?" - connects with the problem of most digital technologies still being [[Concrete Lounges]] i.e. they aren't [[Protean Digital Technologies]]
+
+### Related categories
+
+- [loose](../loose)

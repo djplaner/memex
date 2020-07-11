@@ -89,7 +89,9 @@ Steps:
 - Save card boxes to files in sense directory
   Now it gets harder. More detail below. But not using wiki links
 - Save each card ito the appropriate directory (card box or "loose")
+  Another case of a bit of markdown linking, rather than wiki-links
 - Add a list of card boxes to sense/index.md
+  Will do this one manually, with a bit of help
 - Add a list of "loose" cards to sense/index.md
 
 #### Generating md files using Python

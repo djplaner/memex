@@ -1,0 +1,21 @@
+# Engineering the Right
+
+Why are so many followers of radical strains of Islam engineers? A new work searches for (and finds) some answers. Roughly, the traits of engineers and extremists overlap.
+
+&gt; What the book finds is that engineers are also significantly represented among far right groups, while humanities and social sciences graduates dominate the far left; and the authors argue that the ideology of Islamist radicals, stripped of its religious components, overlaps far more with that of extreme right-wingers than with that of radical left-wingers.
+&gt;
+&gt; They suggest that the traits that make Islamism attractive to some engineers could also be what makes right-wing extremism attractive to other graduates.
+&gt;
+&gt; “Political psychology research links a number of personality traits to right-wing attitudes: a propensity to be easily disgusted, a desire to draw rigid social boundaries and a preference for order, structure, and certainty known as ‘need for cognitive closure’,” Dr Hertog said.
+&gt;
+&gt; “We find that, on average, indicators for these traits are stronger among engineers compared with graduates in general, while they are weaker among students of humanities and social science.” [source](https://www.timeshighereducation.com/news/engineers-more-likely-be-violent-extremists-book-claims)
+
+--------------
+
+Maybe engineers just like things tidy? See [[The Ideology of Disgust]]
+
+Belief that there is a single answer and that you have the "right answer" seem to contribute to [[The New System Will Solve Everything Disease]]
+
+### Related categories
+
+- [loose](../loose)

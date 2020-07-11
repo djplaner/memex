@@ -1,0 +1,21 @@
+# Blackboard tweaks
+
+The Blackboard LMS (9.1) is an enterprise system. A LMS seen as very unmodifiable. However it has been.  Two building blocks offer direct support
+
+1. [jsHack](https://github.com/AllTheDucks/jshack-v1/wiki) which appears targetted to help an institution/administrators create and implement hacks across the institution.
+2. [Blackboard Tweaks](http://tweaks.github.io/Tweaks/) designed "for academics, deigners and programmers"
+
+### Related
+
+- [[CardBox:: Affordances]]
+- [[CardBox:: Distribution]]
+
+
+
+
+
+
+
+### Related categories
+
+- [Distribution](../Distribution)
