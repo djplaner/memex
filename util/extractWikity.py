@@ -33,13 +33,19 @@ def getFile( markDownFile ):
 
     return (postConfig, postContent )
 
-def getPost( id ):
+#-----------------------------------------------
+# get a list of posts
+def getPostList( idList ):
     blog = Client(settings.wikityXmlRpc, settings.wikityUsername, 
                  settings.wikityPassword )
 
-    post = blog.call(GetPost(id))
+    posts = []
 
-    return post
+    for id in idList: 
+        post = blog.call(GetPost(id))
+        posts.append(post)
+
+    return posts
     
 #-----------------------------------------------------
 # getPosts
@@ -135,8 +141,7 @@ def makeCardBoxNotes(cardBoxes):
                     "%ssense/%s" % (settings.memexHome,m[1]))) 
             
             title = m[1]
-            path = "%ssense/%s.md" % ( settings.memexHome,
-                                title)
+            path = "%ssense/%s.md" % ( settings.memexHome, title)
 
             content = CARD_BOX_TOP.replace("TITLE", title)
 
@@ -149,8 +154,7 @@ def makeCardBoxNotes(cardBoxes):
                 content = content + "- [%s](%s/%s)\n" %( match, title, match )
 
             content = content + "\n"
-
-            print( content )
+            #print( content )
 
             print("Path is %s"%path)
             with open(path, 'w') as f:
@@ -158,6 +162,38 @@ def makeCardBoxNotes(cardBoxes):
                f.close()
                 
             
+#-----------------------------------------------------------
+# writePosts( Category, posts)
+# - given a list of posts and the category to which they belong
+#   output individual markdown files for each card in the category folder
+
+POST_TEMPLATE="""\
+# TITLE
+
+CONTENT
+
+### Related categories
+
+"""
+
+def writePosts(category, posts):
+
+    for post in posts:
+        #-- get HTML
+        content = POST_TEMPLATE.replace("TITLE", post.title)
+        content = content.replace("CONTENT", post.content)
+
+        #-- add the category "backlink"
+        content = content + "- [../%s]\n"%category
+
+        #-- open and write file
+        path = "%ssense/%s/%s.md" % ( settings.memexHome, category, post.title)
+
+#        print("Path is %s"%path)
+#        print( content )
+        with open(path, 'w') as f:
+           f.write(content)
+           f.close()
                     
 
 
@@ -165,21 +201,27 @@ def makeCardBoxNotes(cardBoxes):
 
 def main(): 
 
-    post = getPost( 71 )
-    print(post)
-    print(post.content)
-    cardBoxes = []
-    cardBoxes.append(post)
-    makeCardBoxNotes( cardBoxes)
+# --- get an initial cardbox
+#    posts = getPostList( [71] )
+#    post = posts[0]
+#    print(post)
+#    print(post.content)
+#    cardBoxes = []
+#    cardBoxes.append(post)
 
-#    (cardBoxes, cards) = getPosts()
+    #-- want card ids for Quality 39, Quality enhancement 42, Teaching quality 72
 
-#    makeCardBoxDirectories( cardBoxes)
+    posts = getPostList( [39, 42, 72])
+    #displayPosts(posts)
 
+    writePosts( "Quality and teaching", posts)
+#    makeCardBoxDirectories( cardBoxes) # DONE
+#    makeCardBoxNotes( cardBoxes) # DONE
     #makeCardNotes( cards)
-
     #addCardBoxList( cardBoxes)
     #addLooseCards(cards)
+
+#    (cardBoxes, cards) = getPosts()
 
 #    print("------------------- card boxes")
 #    displayPosts(cardBoxes)
