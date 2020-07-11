@@ -6,13 +6,10 @@ Benkler & Nissenbaum (2006) define common-based peer production as
 They go onto propose
 > The central thesis of this paper is that socio-technical systems of commons-based peer production offer not only a remarkable medium of production for various kinds of information goods but serve as a context for positive character formation.
 
-### Reference
+## Reference
 
 Benkler, Y., & Nissenbaum, H. (2006). Commons‐based Peer Production and Virtue* - Benkler - 2006 - Journal of Political Philosophy - Wiley Online Library. The Journal of Political Philosopy, 14(4), 394–419.
 
+## Related categories
 
-
-
-### Related categories
-
-- [Distribution](../Distribution)
+- [[Distribution]]

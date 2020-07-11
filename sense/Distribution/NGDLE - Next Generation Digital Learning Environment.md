@@ -8,10 +8,6 @@ In part, because of the inherent variety
 
 Raising the question of who decides what supplements are allowed?
 
-
-
-
-
-### Related categories
+## Related categories
 
 - [Distribution](../Distribution)

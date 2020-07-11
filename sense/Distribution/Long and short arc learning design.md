@@ -8,15 +8,10 @@ Goodyear (2009) proposes two contrasting images (recognising that there are many
 He suggests that the short arc teacher will be working with some tools and
 > the route to influencing their practice, with the highest probability of success, is to embed good ideas _in_ these tools
 
-### References
+## References
 
-Goodyear, P. (2009). Teaching, technology and educational design: The architecture of productive learning environments (pp. 1–37). Sydney. Retrieved from http://www.olt.gov.au/system/files/resources/Goodyear%2C P ALTC Fellowship report 2010.pdf
+Goodyear, P. (2009). Teaching, technology and educational design: The architecture of productive learning environments (pp. 1–37). Sydney.
 
-
-
-
-
-
-### Related categories
+## Related categories
 
 - [Distribution](../Distribution)

@@ -10,10 +10,6 @@ From a common on [this post](https://computinged.wordpress.com/2019/01/21/standa
 
 Which [this] by Steve Wheeler talks about Bruner's work on the scaffolding of learning. Links Bruner's work with Vygotsky and the Zone of Proximal Devellopment
 
-
-
-
-
-### Related categories
+## Related categories
 
 - [Know thy student](../Know thy student)

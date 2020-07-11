@@ -4,7 +4,7 @@ The [citation for Tim Berners-Lee's Turing award](https://amturing.acm.org/award
 
 > For inventing the World Wide Web, the first web browser, and the fundamental protocols and algorithms allowing the **Web to scale**.
 
-It cites "initimately tied in with the Unix operating system" and a "whole approach reflected the distinctive Unix philosophy of building new system capabilities by recombining existing tools". 
+It cites "initimately tied in with the Unix operating system" and a "whole approach reflected the distinctive Unix philosophy of building new system capabilities by recombining existing tools".
 
 Not to mention "achieving compatibility through communications protocols rather than standard code, hardware, or operating systems" ... The Internet philosophy.
 
@@ -17,9 +17,6 @@ And there's **distribution**
 It also points out
 > Yet the ACM’s 1991 Hypertext conference had rejected Berners-Lee’s paper describing the World Wide Web.
 
-
-
-
-### Related categories
+## Related categories
 
 - [Affordances](../Affordances)

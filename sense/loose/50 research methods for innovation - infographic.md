@@ -5,6 +5,6 @@
 tag: lxdesign
 tags: bad
 
-### Related categories
+## Related categories
 
 - [loose](../loose)
