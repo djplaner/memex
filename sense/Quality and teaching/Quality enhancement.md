@@ -36,4 +36,4 @@ Raban, C. (2007). Assurance versus enhancement: less is more? Journal of Further
 
 ### Related categories
 
-- [../Quality and teaching]
+- [Quality and teaching](../Quality and teaching)

@@ -184,7 +184,7 @@ def writePosts(category, posts):
         content = content.replace("CONTENT", post.content)
 
         #-- add the category "backlink"
-        content = content + "- [../%s]\n"%category
+        content = content + "- [%s](../%s)\n"%(category,category)
 
         #-- open and write file
         path = "%ssense/%s/%s.md" % ( settings.memexHome, category, post.title)

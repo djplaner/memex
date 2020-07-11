@@ -31,4 +31,4 @@ Biggs, J. (2001). The Reflective Institution: Assuring and Enhancing the Quality
 
 ### Related categories
 
-- [../Quality and teaching]
+- [Quality and teaching](../Quality and teaching)
