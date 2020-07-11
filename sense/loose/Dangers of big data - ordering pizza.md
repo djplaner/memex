@@ -4,6 +4,6 @@
 
 > And while I re-used several slides and media  from previous presentations (I can’t get enough of the 2006 ACLU Pizza video) [source](http://bavatuesdays.com/on-next-generation-digital-learning-environments/)
 
-### Related categories
+## Related categories
 
 - [loose](../loose)
