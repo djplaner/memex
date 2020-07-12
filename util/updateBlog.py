@@ -38,7 +38,7 @@ def getFile( markDownFile ):
     print("--------------- HTML -------------")
     print(markdown.markdown(markDownData))
 
-    x = re.match("^```(.*)```(.*)", markDownData, re.M | re.S  )
+    x = re.match("#.*^```toml(.*)```(.*)", markDownData, re.MULTILINE | re.DOTALL  )
     print(x)
     print(x[1])
 
