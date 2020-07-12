@@ -138,8 +138,6 @@ Also removing colons from filenames.
 
 It does appear to be working
 
-[Why the web scales]: ../../sense/Affordances/Why the web scales "Why the web scales"
-
  [1]: https://djplaner.github.io/memex/
  [2]: http://wikity.djon.es/
  [3]: http://jarche.com/2014/02/the-seek-sense-share-framework/
