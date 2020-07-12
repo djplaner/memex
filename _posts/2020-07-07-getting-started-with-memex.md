@@ -16,6 +16,14 @@ Aims for this post included
 1.  Writing this post in memex and syncing to my blog
 2.  Adding some "zettels" to sense taken from [my wikity][2]
 
+### What's there now
+
+Based on [Jarche's Seek > Sense > Share framework][3] [the home page][1] points off to three main sections: 
+
+1.  [seek][4] A work in progress. 
+2.  [sense][5] Where you'll find clost to 100 notes imported from my old Wikity site. These are organised into categories, including a "loose" category.
+3.  [share][6] Another work in progress, but does point to the original markdown file for this blog post.
+
 ## Reflections
 
 Having more content here has really started to highlight the functionality of Foam and its potential benefits. The auto-complete on Wiki links is very usable and appears likely to help understanding. e.g. it's already encouraged me to spend more time on naming of notes which means spending more time on thinking about how all this fits together.
@@ -27,14 +35,6 @@ It's also reinforced that the very act of using Foam is a form of sharing.
 It's also reinforced the benefit of the "best-of-breed" ecosystem approach to the way Foam is constructed. Each of the VSCode extensions adding a necessary and useful functionality. There's also been some of the complications of getting disparate systems to talk together. e.g. the aborted first attempt to sync this post and Wordpress. 
 
 Different bits of the ecosystem introducing unexpected side effects. e.g. if there's not a blank line before the auto-generated wiki links, it doesn't display on github.
-
-### What's there now
-
-Based on [Jarche's Seek > Sense > Share framework][3] [the home page][1] points off to three main sections: 
-
-1.  [seek][4] A work in progress. 
-2.  [sense][5] Where you'll find clost to 100 notes imported from my old Wikity site. These are organised into categories, including a "loose" category.
-3.  [share][6] Another work in progress, but does point to the original markdown file for this blog post.
 
 ### What's next?
 
