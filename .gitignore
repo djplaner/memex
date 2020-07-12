@@ -4,3 +4,4 @@ site/
 _site/
 Gemfile*
 .*swp
+.sass-cache/
