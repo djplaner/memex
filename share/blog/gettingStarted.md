@@ -28,18 +28,26 @@ It's also reinforced the benefit of the "best-of-breed" ecosystem approach to th
 
 Different bits of the ecosystem introducing unexpected side effects. e.g. if there's not a blank line before the auto-generated wiki links, it doesn't display on github.
 
+### What's there now
+
+Based on [Jarche's Seek > Sense > Share framework](http://jarche.com/2014/02/the-seek-sense-share-framework/) [the home page](https://djplaner.github.io/memex/) points off to three main sections: 
+
+1. [seek](https://djplaner.github.io/memex/seek/seek)
+   A work in progress. 
+2. [sense](https://djplaner.github.io/memex/sense/sense)
+   Where you'll find clost to 100 notes imported from my old Wikity site. These are organised into categories, including a "loose" category.
+3. [share](https://djplaner.github.io/memex/share/share)
+   Another work in progress, but does point to the original markdown file for this blog post.
+
+### What's next?
+
 There are a few limitations/changes to workflow that I haven't yet figured out/got to
 
 - Adapting the Foam/Wordpress sync script to maintaining blog pages
 - Explore options for making the interface more visually appealing and easier to navigate
-- Spend a bit more time on the [seek](https://djplaner.github.io/memex/seek/seek)
+- Spend a bit more time on the [seek](https://djplaner.github.io/memex/seek/seek) process
 
-### What's there now
-
-Based on [Jarche's Seek > Sense > Share framework](http://jarche.com/2014/02/the-seek-sense-share-framework/) [the home page](https://djplaner.github.io/memex/) points off to three main sections: 
-[seek](https://djplaner.github.io/memex/seek/seek)
-[sense]
-[share]
+And generally start embedding this into how I work.
 
 ## Writing blog posts in memex
 
