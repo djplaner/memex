@@ -16,19 +16,30 @@ Aims for this post included
 1. Writing this post in memex and syncing to my blog
 2. Adding some "zettels" to sense taken from [my wikity](http://wikity.djon.es/)
 
-### Reflections
+## Reflections
 
 Having more content here has really started to highlight the functionality of Foam and its potential benefits.  The auto-complete on Wiki links is very usable and appears likely to help understanding. e.g. it's already encouraged me to spend more time on naming of notes which means spending more time on thinking about how all this fits together.
 
-At the start, I hadn't fully grokked the importance of naming files. The wiki-links autocompletion feature means that the location in the file hierarchy isn't has important as the name. 
+At the start, I hadn't fully grokked the importance of naming files. The wiki-links autocompletion feature means that the location in the file hierarchy isn't has important as the name.
 
-It's also reinforced the benefit of the "best-of-breed" ecosystem approach to the way Foam is constructed.  Each of the VSCode extensions adding a necessary and useful functionality. There's also been some of the complications of getting disparate systems to talk together. e.g. the aborted first attempt to sync this post and Wordpress. Different bits of the ecosystem introducing unexpected side effects.
+It's also reinforced that the very act of using Foam is a form of sharing.
+
+It's also reinforced the benefit of the "best-of-breed" ecosystem approach to the way Foam is constructed.  Each of the VSCode extensions adding a necessary and useful functionality. There's also been some of the complications of getting disparate systems to talk together. e.g. the aborted first attempt to sync this post and Wordpress. 
+
+Different bits of the ecosystem introducing unexpected side effects. e.g. if there's not a blank line before the auto-generated wiki links, it doesn't display on github.
 
 There are a few limitations/changes to workflow that I haven't yet figured out/got to
 
-- Using Jekyll to build this site locally
-- Adapting the Foam/Wordpress sync for maintaining pages
-- Figuring out a method for finding notes moved into paths, but not on path lists
+- Adapting the Foam/Wordpress sync script to maintaining blog pages
+- Explore options for making the interface more visually appealing and easier to navigate
+- Spend a bit more time on the [seek](https://djplaner.github.io/memex/seek/seek)
+
+### What's there now
+
+Based on [Jarche's Seek > Sense > Share framework](http://jarche.com/2014/02/the-seek-sense-share-framework/) [the home page](https://djplaner.github.io/memex/) points off to three main sections: 
+[seek](https://djplaner.github.io/memex/seek/seek)
+[sense]
+[share]
 
 ## Writing blog posts in memex
 
