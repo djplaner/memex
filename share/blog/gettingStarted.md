@@ -11,10 +11,24 @@ category="memex"
 
 So [memex](https://djplaner.github.io/memex/) is up and going. Time to start using it and as I go figuring out the workflow and toolchain to use.
 
-Aims for this post include
+Aims for this post included
 
 1. Writing this post in memex and syncing to my blog
 2. Adding some "zettels" to sense taken from [my wikity](http://wikity.djon.es/)
+
+### Reflections
+
+Having more content here has really started to highlight the functionality of Foam and its potential benefits.  The auto-complete on Wiki links is very usable and appears likely to help understanding. e.g. it's already encouraged me to spend more time on naming of notes which means spending more time on thinking about how all this fits together.
+
+??? visualisation ???
+
+It's also reinforced the benefit of the "best-of-breed" ecosystem approach to the way Foam is constructed.  Each of the VSCode extensions adding a necessary and useful functionality. There's also been some of the complications of getting disparate systems to talk together. e.g. the aborted first attempt to sync this post and Wordpress.
+
+There are a few limitations/changes to workflow that I haven't yet figured out/got to
+
+- Using Jekyll to build this site locally
+- Adapting the Foam/Wordpress sync for maintaining pages
+- Figuring out a method for finding notes moved into paths, but not on path lists
 
 ## Writing blog posts in memex
 
