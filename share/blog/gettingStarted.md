@@ -20,9 +20,9 @@ Aims for this post included
 
 Having more content here has really started to highlight the functionality of Foam and its potential benefits.  The auto-complete on Wiki links is very usable and appears likely to help understanding. e.g. it's already encouraged me to spend more time on naming of notes which means spending more time on thinking about how all this fits together.
 
-??? visualisation ???
+At the start, I hadn't fully grokked the importance of naming files. The wiki-links autocompletion feature means that the location in the file hierarchy isn't has important as the name. 
 
-It's also reinforced the benefit of the "best-of-breed" ecosystem approach to the way Foam is constructed.  Each of the VSCode extensions adding a necessary and useful functionality. There's also been some of the complications of getting disparate systems to talk together. e.g. the aborted first attempt to sync this post and Wordpress.
+It's also reinforced the benefit of the "best-of-breed" ecosystem approach to the way Foam is constructed.  Each of the VSCode extensions adding a necessary and useful functionality. There's also been some of the complications of getting disparate systems to talk together. e.g. the aborted first attempt to sync this post and Wordpress. Different bits of the ecosystem introducing unexpected side effects.
 
 There are a few limitations/changes to workflow that I haven't yet figured out/got to
 
