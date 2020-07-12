@@ -1,5 +1,7 @@
 # Affordances
 
+Update 1
+
 ## Path
 
 - [[Why the web scales]] 
