@@ -1,3 +1,7 @@
+---
+layout: default
+title: Home
+---
 # DJ's personal memex
 
 An on-going experiment in creating and leveraging a personal memex using [Foam](https://foambubble.githubio/). Some background on rationale and design.
