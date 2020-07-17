@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
 encoding: UTF-8
 markdown: kramdown
+plugins:
+    - jekyll-optional-front-matter
