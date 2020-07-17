@@ -5,7 +5,7 @@ Things just floating around unconnected to the broader hierarchy
 - [[2 Sigma Problem]]
 - [[50 research methods for innovation - infographic]]
 - [[5 points for teaching anything in the digital age]]
-- [[Blame is the enemy of .....]]
+- [[Blame is the enemy of]]
 - [[Characteristics of successful Professional DevelopmentLearning]]
 - [[Critical pedagogy?]]
 - [[Dangers of big data - ordering pizza]]
@@ -30,7 +30,6 @@ Things just floating around unconnected to the broader hierarchy
 [2 Sigma Problem]: loose/2 Sigma Problem "2 Sigma Problem"
 [50 research methods for innovation - infographic]: loose/50 research methods for innovation - infographic "50 research methods for innovation - infographic"
 [5 points for teaching anything in the digital age]: loose/5 points for teaching anything in the digital age "5 points for teaching anything in the digital age"
-[Blame is the enemy of .....]: loose/Blame is the enemy of ..... "Blame is the enemy of"
 [Characteristics of successful Professional DevelopmentLearning]: loose/Characteristics of successful Professional DevelopmentLearning "Characteristics of successful Professional Development/Learning"
 [Critical pedagogy?]: loose/Critical pedagogy? "Critical pedagogy"
 [Dangers of big data - ordering pizza]: loose/Dangers of big data - ordering pizza "Dangers of big data - ordering pizza"
