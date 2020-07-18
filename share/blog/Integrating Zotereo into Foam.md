@@ -20,6 +20,11 @@ In terms of the second aim, I'm wondering if it's possible to integrate/replicat
 
 **_summary here_**
 
+Next steps might include
+
+1. Improving the look and feel of memex.
+2. ??
+
 ## What needs to happen
 
 Necessary steps to the stated goals seem to include:
@@ -30,6 +35,23 @@ Necessary steps to the stated goals seem to include:
 - If and how to extract existing notes 
 - If and how to extract notes/highlights the PDFs within my Zotero library.
 - Integrating all this into my PKM process.
+
+## But first, build errors
+
+There were times when github-pages was failing to build memex - ```Page build failed```. Something in the naming or content of the markdown files wasn't playing nice.  The issue is that github-pages doesn't provide any indication of where the problem is happening.
+
+The solution is to [test the github pages locally with Jekylly](https://docs.github.com/en/github/working-with-github-pages/testing-your-github-pages-site-locally-with-jekyll). For some reason, this took me quite some time to set up. In the end, the process was
+
+- [Install ruby and the github-pages gem](https://kbroman.org/simple_site/pages/local_test.html)
+- [Install and configure the Jekyll Optional Front Matter gem](https://github.com/benbalter/jekyll-optional-front-matter#one-potential-gotcha)
+- build memex locally using Jekyll
+
+Together this quickly identified the two problems
+
+1. A filename that included a colon.
+2. A note that included some text using a Liquid syntax, left over from Wikity.
+
+Problem fixed.
 
 ## Removing duplicates from my Zotero library
 
@@ -86,6 +108,12 @@ The simple PyZotero test works. So what from Zotero would be nice to have in Mem
 The plan is that these are automatically updated via Python scripts that are run periodically.  I just keep using Zotero for various tasks and it get integrated into memex. 
 
 ### Publications page
+
+The [publications page](https://djplaner.github.io/memex/share/My%20Publications) on memex is now being built using [a Python script](https://github.com/djplaner/memex/blob/master/util/zotero/publicationsPage.py) that 
+- Get's a list  from publications
+- Checks the date of updates
+- If updates writes the whole thing again
+
 
 
 ### Extracting notes from Zotero
