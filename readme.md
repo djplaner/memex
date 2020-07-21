@@ -4,5 +4,8 @@ An on-going experiment in creating and leveraging a personal memex using [Foam](
 
 Currently organised around a three step process
 
+- [seek]
+- [sense]
+- [share]
 
 
