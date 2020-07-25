@@ -1,20 +1,20 @@
 
 # My Publications
 
-A list of 32 formal academic publications. My [Google Scholar Profile](http://scholar.google.com/citations?user=k8DkjXIqUl4J) has more detail
+A list of 30 formal academic publications. My [Google Scholar Profile](http://scholar.google.com/citations?user=k8DkjXIqUl4J) has more detail
 
 | Publication Type | Total |
 | ---------------- | ----- |
 | Book Chapter | 2 |
 | PhD Thesis | 1 |
 | Refereed Journal Paper | 3 |
-| Refereed Conference Paper | 18 |
-| Presentation | 5 |
+| Refereed Conference Paper | 17 |
+| Presentation | 4 |
 
 ## 2019
 <?xml version="1.0"?>
 <div class="csl-bib-body" style="line-height: 2; padding-left: 1em; text-indent:-1em;">
-  <div class="csl-entry">Jones, D. (2019). Exploring knowledge reuse in design for digital learning: tweaks, H5P, CASA and constructive templates. In Y. W. Chew, K. M. Chan, &amp; A. Alphonso (Eds.), <i>Personalised Learning. Diverse Goals. One Heart. ASCILITE 2019</i> (pp. 139&#x2013;148).</div>
+  <div class="csl-entry">Jones, D. (2019). Exploring knowledge reuse in design for digital learning: tweaks, H5P, CASA and constructive templates. In Y. W. Chew, K. M. Chan, &amp; A. Alphonso (Eds.), <i>Personalised Learning. Diverse Goals. One Heart. ASCILITE 2019</i> (pp. 139&#x2013;148). https://djon.es/blog/2019/08/08/exploring-knowledge-reuse-in-design-for-digital-learning-tweaks-h5p-constructive-templates-and-casa/</div>
 </div>
 
 
@@ -53,10 +53,6 @@ A list of 32 formal academic publications. My [Google Scholar Profile](http://sc
 ## 2012
 <?xml version="1.0"?>
 <div class="csl-bib-body" style="line-height: 2; padding-left: 1em; text-indent:-1em;">
-  <div class="csl-entry">Jones, D. (2012). The life and death of Webfuse: principles for learning and leading into the future. <i>Future Challenges, Sustainable Futures. Proceedings Ascilite Wellington 2012</i>, 414&#x2013;423. https://eprints.usq.edu.au/23093/2/Jones_ascilite_2012_PV.pdf</div>
-</div>
-<?xml version="1.0"?>
-<div class="csl-bib-body" style="line-height: 2; padding-left: 1em; text-indent:-1em;">
   <div class="csl-entry">Beer, C., Jones, D., &amp; Clark, D. (2012). Analytics and complexity&#x202F;: Learning and leading for the future. In M. Brown, M. Hartnett, &amp; T. Stewart (Eds.), <i>Future Challenges, Sustainable Futures. Proceedings of ascilite Wellington 2012</i> (pp. 78&#x2013;87). http://www.ascilite2012.org/images/custom/beer,colin_-_analytics_and_complexity.pdf</div>
 </div>
 
@@ -64,7 +60,7 @@ A list of 32 formal academic publications. My [Google Scholar Profile](http://sc
 ## 2011
 <?xml version="1.0"?>
 <div class="csl-bib-body" style="line-height: 2; padding-left: 1em; text-indent:-1em;">
-  <div class="csl-entry">Jones, D. (2011). <i>An Information Systems Design Theory for E-learning</i>. http://hdl.handle.net/1885/8370</div>
+  <div class="csl-entry">Jones, D. (2011). <i>An Information Systems Design Theory for E-learning</i> [PhD]. http://hdl.handle.net/1885/8370</div>
 </div>
 
 
@@ -96,11 +92,11 @@ A list of 32 formal academic publications. My [Google Scholar Profile](http://sc
 ## 2007
 <?xml version="1.0"?>
 <div class="csl-bib-body" style="line-height: 2; padding-left: 1em; text-indent:-1em;">
-  <div class="csl-entry">Jones, D. (2007). <i>Blogs, reflective journals and aggregation: An initial experiment</i>. Blogs for Learning. https://web.archive.org/web/20070220095228/http://blogsforlearning.msu.edu/articles/view.php?id=11</div>
+  <div class="csl-entry">Gregor, S., &amp; Jones, D. (2007). The anatomy of a design theory. <i>Journal of the Association for Information Systems</i>, <i>8</i>(5), 312&#x2013;335.</div>
 </div>
 <?xml version="1.0"?>
 <div class="csl-bib-body" style="line-height: 2; padding-left: 1em; text-indent:-1em;">
-  <div class="csl-entry">Gregor, S., &amp; Jones, D. (2007). The anatomy of a design theory. <i>Journal of the Association for Information Systems</i>, <i>8</i>(5), 312&#x2013;335.</div>
+  <div class="csl-entry">Jones, D. (2007). <i>Blogs, reflective journals and aggregation: An initial experiment</i>. Blogs for Learning. https://web.archive.org/web/20070220095228/http://blogsforlearning.msu.edu/articles/view.php?id=11</div>
 </div>
 
 
@@ -121,7 +117,7 @@ A list of 32 formal academic publications. My [Google Scholar Profile](http://sc
 ## 1995
 <?xml version="1.0"?>
 <div class="csl-bib-body" style="line-height: 2; padding-left: 1em; text-indent:-1em;">
-  <div class="csl-entry">Chernich, R., Jamieson, B., &amp; Jones, D. (1995). <i>RCOS: Yet another teaching operating system</i>.</div>
+  <div class="csl-entry">Jones, D. (1995). <i>1000 users on a 486</i>.</div>
 </div>
 <?xml version="1.0"?>
 <div class="csl-bib-body" style="line-height: 2; padding-left: 1em; text-indent:-1em;">
@@ -129,19 +125,15 @@ A list of 32 formal academic publications. My [Google Scholar Profile](http://sc
 </div>
 <?xml version="1.0"?>
 <div class="csl-bib-body" style="line-height: 2; padding-left: 1em; text-indent:-1em;">
-  <div class="csl-entry">Jones, D. (1995). <i>1000 users on a 486</i>.</div>
+  <div class="csl-entry">Carter, B., Lockwood, J., O&#x2019;Kelly, S., Parry, C., Atkinson, S., Manderson, T., &amp; Jones, D. (1995). <i>CQ-PAN: Putting schools into cyberspace</i>.</div>
 </div>
 <?xml version="1.0"?>
 <div class="csl-bib-body" style="line-height: 2; padding-left: 1em; text-indent:-1em;">
-  <div class="csl-entry">Carter, B., Lockwood, J., O&#x2019;Kelly, S., Parry, C., Atkinson, S., Manderson, T., &amp; Jones, D. (1995). <i>CQ-PAN: Putting schools into cyberspace</i>.</div>
+  <div class="csl-entry">Chernich, R., Jamieson, B., &amp; Jones, D. (1995). <i>RCOS: Yet another teaching operating system</i>.</div>
 </div>
 
 
 ## 1994
-<?xml version="1.0"?>
-<div class="csl-bib-body" style="line-height: 2; padding-left: 1em; text-indent:-1em;">
-  <div class="csl-entry">Chernich, R., &amp; Jones, D. (1994). <i>The design and construction of a simulated operating system</i>.</div>
-</div>
 <?xml version="1.0"?>
 <div class="csl-bib-body" style="line-height: 2; padding-left: 1em; text-indent:-1em;">
   <div class="csl-entry">Jones, D. (1994). <i>A workstation in every home!</i></div>
@@ -153,6 +145,10 @@ A list of 32 formal academic publications. My [Google Scholar Profile](http://sc
 <?xml version="1.0"?>
 <div class="csl-bib-body" style="line-height: 2; padding-left: 1em; text-indent:-1em;">
   <div class="csl-entry">Boggs, R., &amp; Jones, D. (1994). Lessons learnt in connecting schools to the Internet. <i>Australian Educational Computing</i>, <i>9</i>(2).</div>
+</div>
+<?xml version="1.0"?>
+<div class="csl-bib-body" style="line-height: 2; padding-left: 1em; text-indent:-1em;">
+  <div class="csl-entry">Chernich, R., &amp; Jones, D. (1994). <i>The design and construction of a simulated operating system</i>.</div>
 </div>
 
 
