@@ -102,12 +102,17 @@ def getPubsOutput( pubs):
 
     itemKeys = getPubsField( pubs, "key")
     print("ITem keys %s" %itemKeys)
-    zot.add_parameters( format="bib", style="apa")
-    output = zot.items( itemKey= itemKeys, format="bib", style="apa")
+
+    outputString = ""
+    for key in itemKeys:
+        #zot.add_parameters( format="bib", style="apa")
+        output = zot.items( itemKey= key, format="bib", style="apa")
+        outputString = outputString + output.decode("utf-8")
 
     print("------------- ouput")
-    print(output)
-    return "Had %s pubs" % len(pubs)
+    print(outputString)
+    return outputString
+#    return "Had %s pubs" % len(pubs)
 
 #--------------------------------------------------------------
 # updateFile( types)
