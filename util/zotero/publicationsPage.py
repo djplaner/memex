@@ -153,14 +153,12 @@ def updateFile( pubs, types ):
         markDown = markDown + getPubsOutput( yearPubs)
         markDown = markDown + "\n\n"
 
-    print("----------")
-
     #-- write to the file
-#    with open( settings.myPubsFile, "w") as f:
-#        f.write( markDown)
-#    f.close()
+    with open( settings.myPubsFile, "w") as f:
+        f.write( markDown)
+    f.close()
 
-    print( markDown )
+#    print( markDown )
 
 
 
