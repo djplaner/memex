@@ -1,5 +1,5 @@
 ```toml
-post_title='What help do we provide for moving online?'
+post_title='What help do we provide for moving to online teaching?'
 layout="post"
 published=false
 id=

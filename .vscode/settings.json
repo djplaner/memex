@@ -9,5 +9,11 @@
   },
   "git.enableSmartCommit": true,
   "git.postCommitCommand": "sync",
-  "vscodeMarkdownNotes.noteCompletionConvention": "noExtension"
+  "vscodeMarkdownNotes.noteCompletionConvention": "noExtension",
+  "files.exclude": {
+      "**/_site" : true
+  }, 
+  "watcher.exclude" : {
+      "**/_site" : true
+  }
 }
