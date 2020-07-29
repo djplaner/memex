@@ -2,9 +2,10 @@
 
 ## TODO
 
-1. Can the magic script be used in a Blackboard page
-1. Should Card/Content Interface be refactored to this approach?
-2. How can this be done?
+1. Can the magic script be used in a Blackboard page - **YES**
+2. How to integrate this into authoring in Bb?
+   1. Bryan's [wordpress hack](https://t.co/LJAGiHU1AZ?amp=1)?
+   2. Content/Card Interface?
 
 ## PSU Context
 
