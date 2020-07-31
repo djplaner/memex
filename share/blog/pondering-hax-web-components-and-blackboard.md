@@ -40,9 +40,11 @@ To do this I would (and did) add the following HTML to my Blackboard page.
   imageurl="https://media0.giphy.com/media/nDSlfqf0gn5g4/giphy.gif" 
   toptext="happy dance GIF by SpongeBob SquarePants"></p>
 ```
-Which produces the following.
+Which produces the following (all on the same Blackboard page).
 
 ![Hello World Happy Dance](haxImages/HelloWorldHappyDance.gif)
+
+**Note:** The _meme-maker_ tag wouldn't work without the _p_ tag around it. Perhaps a Blackboard thing, or perhaps an artefact of the kludge I've used to get it to work in Blackboard.
 
 The **meme-maker** web component includes code that knows how to take the values I've placed in the **top-text** and **bottom-text** attributes and overlay them onto the image I've specified in **image-url**.  Change those attributes and I can create a new "meme".  For example, something a little more HAX.
 
@@ -57,6 +59,12 @@ Thanks to [the magic script](https://dev.to/btopro/uwc-part-3-the-magic-script-1
 ![It's Magic - Magic | Make a Meme](https://media.makeameme.org/created/its-magic-5c9ab8.jpg)
 
 **TODO** I do need to find out if and where the docs are for the various components. The NPM pages and git repo aren't doing it for a lowly end user.
+
+## And it works anywhere on the web
+
+Web components are based on web standards that are supported by all modern web browsers. Meaning that the magic script and the bit of content I've written above will work in any HTML hosted by any "content management system".
+
+e.g. view the content from Blackboard in [this page from my personal website](https://djon.es/hax.html)
 
 ## How it works in Blackboard, currently
 
@@ -73,13 +81,63 @@ The kludge is to
 
 This allows the magic script to do its magic.
 
-## Options for making this more widespread
+All this proves is that the magic script can work. Question now is
+
+## How to better use this within Blackboard
 
 The method described above is usable for just about no-one. A better approach is required for broader, effective adoption. As web components work in any browser this approach can be integrated into most platforms (e.g. Drupal and Wordpress). **list of what HAX has been integrated into**
 
-**talk about the HAX wordpress thing**
+###  ?? Hax the editor
 
-**But can it be integrated into Blackboard ??**
+**talk about the HAX wordpress thing**
+https://plugins.trac.wordpress.org/browser/haxtheweb/tags/3.9.4/js/hax-the-press.js
+
+Something like this might be possible with Blackboard. [JSHack](https://github.com/AllTheDucks/jshack-v1/wiki) is a Blackboard building block that enabled the injection of HTML/Javascript into Blackboard pages. Beyond what is possible by manually including HTML/Javascript via TinyMCE.
+
+I don't have the ability to install Building Blocks into the institutional Blackboard. I'm not even going to try to make the case.
+
+Without this ability, I can't see how the **"hax editor"** approach can work. I need alternatives.
+
+### Make a Black(board) magic script
+
+One potential approach might be to write an extension to the magic script specifically for Blackboard that would work something like this:
+
+1. Add the magic script to any Blackboard page via the Blackboard editor.
+2. Author adds any of the web components by typing HTML into the Blackboard editor.
+   And here's the first problem. It requires the authors to write HTML manually. High knowledge requirement, not widespread.
+3. When saved the web component HTML would be encoded to HTML entities.
+4. But on page load, the magic script would search the content items for any web component HTML entities and decode them.
+   Not sure how challenging correctly finding all the HTML entities will be.
+5. At this stage, the original magic script takes over and magic happens.
+
+**talk about problems with this approach**
+
+### The Content Interface approach
+
+use Word styles to indicate which are web component HTML and have the Content Interface include the magic script 
+
+This makes it easy to find the web components.  But still requires HTML
+
+### The Card Interface approach
+
+Rather than enter HTML (or use the HAX editor).  Use existing Blackboard items to configure the web components and have another magic script translate
+
+In essence what happens with card interface
+
+Explain how the card interface works.
+
+No longer requires HTML.  But only works for specific things.
+
+### Rewrite the card and content interfaces
+
+Rewrite the card/content interfaces to use web components. 
+
+Both could have restricted magic scripts.  A set of different possible representations for cards/content.  Enabling quicker development of alternative views.  Fixing the primitive spaghetti code that these interfaces currently rely upon 
+
+
+
+
+
 
 **Move onto the Card Content Interface approach**
 
