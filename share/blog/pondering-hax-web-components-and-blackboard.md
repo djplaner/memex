@@ -9,7 +9,7 @@ category="casa"
 
 So look what I've done inside my [Blackboard Learn](https://en.wikipedia.org/wiki/Blackboard_Learn) sandpit site.
 
-** replace with animated gif **
+![Initial example of magic script web components in Blackboard](haxImages/happyDance.gif)
 
 It probably doesn't look that exciting. A bit of HTML and a couple of animated GIFS. Anyone could do that, right?
 
@@ -27,7 +27,7 @@ The core of this image is enabled by four different [web components](https://dev
 
 A web component is a nicely encapsulated bit of code. Code that provides some specific functionality. For example, the ability to make a meme. i.e. take any image on the web and overlay words of my choosing on that image. (e.g. the three times SpongeBob's happy dance gif was used in the image above. 
 
-No online meme maker was used in the construction of the above content in Blackboard.
+No online meme maker was used in the construction of the above Blackboard-based content.
 
 Instead - like all web components - I used a specially created HTML tag. Just like any other HTML tag, but provide this unique meme making functionality. What's more I could use this functionality as many times as I want. For example, I could add a meme with happy dance SpongeBob saying ["hello world"](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program)
 
