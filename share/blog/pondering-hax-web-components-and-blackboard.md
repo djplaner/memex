@@ -42,11 +42,11 @@ To do this I would (and did) add the following HTML to my Blackboard page.
 ```
 Which produces the following.
 
-*** insert image sponge bob hello world ***
+![Hello World Happy Dance](haxImages/HelloWorldHappyDance.gif)
 
 The **meme-maker** web component includes code that knows how to take the values I've placed in the **top-text** and **bottom-text** attributes and overlay them onto the image I've specified in **image-url**.  Change those attributes and I can create a new "meme".  For example, something a little more HAX.
 
-***insert image of joker hello world***
+![Joker Hello World](haxImages/JokerHelloWorld.png)
 
 ## But wait, there's more
 
