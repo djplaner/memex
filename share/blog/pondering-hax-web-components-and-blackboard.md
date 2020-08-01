@@ -122,20 +122,23 @@ There are two problems with this approach:
 2. Can it be done.
    I'm not 100% convinced I could write Javascript to find all web component HTML entities and correctly decode them.
 
-### The Content Interface approach
+### The Content Interface approach - partly implemented
 
 [The Content Interface](https://djon.es/blog/2019/08/08/exploring-knowledge-reuse-in-design-for-digital-learning-tweaks-h5p-constructive-templates-and-casa/#contentInterface) is the attempted soluton to the content authoring problem as part of [another attempt to share design knowledge for digital learning](https://djon.es/blog/2019/11/28/how-to-share-design-knowledge-in-design-for-digital-learning/). 
 
 With the Content Interface authors use Microsoft Word (a tool many are comfortable with and which provides various authoring functionality) to create course materials. They use Word styles to semantically mark up the objects in their materials. The Word document is converted to HTML and pasted into Blackboard. A Javascript then transforms the semantically marked up HTML in various ways.
 
-#### The simple approach
+#### The simple approach - Implemented
 
 One of the styles supported by the Content Interface is the _embed_ style. It's used to include HTML (e.g. the embed code for a YouTube video) in the Word document which is then turned into HTML in Blackboard that is displayed (e.g. the YouTube video). If the magic script Javascript is added to the Content Interface javascript then it should be possible to embed web component HTML in the Word document and have it displayed via the Content Interface.
 
+**insert screenshots of word doc and Blackboard page**
 
+#### The more useful approach - not yet
 
-#### The more useful approach
-This makes it easy to find the web components.  But still requires HTML
+The Content Interface Javascript is currently hard coded to translate Word content with specific styles (e.g. _Reading_) into a specific collection of HTML and CSS. What is a web component but a way to package up code (Javascript), HTML and CSS into a more reusable form? Suggesting that parts of the Content Interface could be re-written to rely on the magic script and the associated web components. Bringing to the Content Interface all the advantages of web components.
+
+In fact, the Content Interface itself could be rewritten as a web component.
 
 ### The Card Interface approach
 
