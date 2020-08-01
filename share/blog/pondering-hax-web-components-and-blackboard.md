@@ -132,64 +132,37 @@ With the Content Interface authors use Microsoft Word (a tool many are comfortab
 
 One of the styles supported by the Content Interface is the _embed_ style. It's used to include HTML (e.g. the embed code for a YouTube video) in the Word document which is then turned into HTML in Blackboard that is displayed (e.g. the YouTube video). If the magic script Javascript is added to the Content Interface javascript then it should be possible to embed web component HTML in the Word document and have it displayed via the Content Interface.
 
-**insert screenshots of word doc and Blackboard page**
+![Magic script, web components and the Content Interface working together](haxImages/WebComponentsInContentInterface.gif)
 
 #### The more useful approach - not yet
 
 The Content Interface Javascript is currently hard coded to translate Word content with specific styles (e.g. _Reading_) into a specific collection of HTML and CSS. What is a web component but a way to package up code (Javascript), HTML and CSS into a more reusable form? Suggesting that parts of the Content Interface could be re-written to rely on the magic script and the associated web components. Bringing to the Content Interface all the advantages of web components.
 
-In fact, the Content Interface itself could be rewritten as a web component.
+In fact, the Content Interface itself could be rewritten as a web component.  Enabling there to be multiple different Content Interface components designed to suit specific purposes. For example, as shown above the Content Interface currently used jQuery accordions to navigate through large course materials. Different components could be written to support different navigation styles. e.g. a [parallax scrolling page](https://mytasker.com/blog/parallax-scrolling-website) or a choice like Microsoft Swa offers between vertical and horizontal navigation.
 
-### The Card Interface approach
+### Same for the Card Interface - partially implemented
 
-Rather than enter HTML (or use the HAX editor).  Use existing Blackboard items to configure the web components and have another magic script translate
+[The Card Interface](https://djon.es/blog/2019/08/08/exploring-knowledge-reuse-in-design-for-digital-learning-tweaks-h5p-constructive-templates-and-casa/#cardInterface) complements the Content Interface in the act of displaying modules of course materials. The Card Interface generates the "table of contents" of the modules. The Content Interface generates the module content. Given their common origins the two approaches for integrating the magic script with the Content Interface also work for the Card Interface.
 
-In essence what happens with card interface
+#### The simple approach - sort of implemented
 
-Explain how the card interface works.
+i.e. include the magic script with the Card Interface code and embed a web component. The problem with this approach is that the web component HTML has to be entered via TinyMCE (details about Cards are entered via TinyMCE into Blackboard content items) leading to the HTML entity problem...but it doesn't. As shown in the following image.
 
-No longer requires HTML.  But only works for specific things.
+![Web components in the Card Interface](haxImages/WebComponentsInCardInterface.gif)
 
-### Rewrite the card and content interfaces
+This is actually an unexpected outcome. A bit of tidying up would enable this to work somewhat.  But of questionable value.
 
-Rewrite the card/content interfaces to use web components. 
+#### The more useful approach - Card Interface as web component(s) - not yet
 
-Both could have restricted magic scripts.  A set of different possible representations for cards/content.  Enabling quicker development of alternative views.  Fixing the primitive spaghetti code that these interfaces currently rely upon 
+As with the Content Interface, the Card Interface could be reimplemented as a web component. Improving its structure and reusability. There could then be potentially a collection of related web components that provide different interfaces and functionality for the purpose of navigating between collection of objects.
 
+## What next?
 
+HAX as an editing experience isn't something I'll be able to support in Blackboard. However, web components do offer great promise and require more exploration. 
 
+I need to 
 
-
-
-**Move onto the Card Content Interface approach**
-
-
-
-
-
-## Broader implications: the NGDLE and the VLE 
-
-The rise of the idea of the Next Generation Digital Learning Environment (NGDLE) is a recognition that no single system can meet the requirements of learning and teaching. Instead, there needs to be an ecosystem of components available that “allow individuals and institutions the opportunity to construct learning environments tailored to their requirements and goals” (Brown et al., 2015, p. 1). This "lego approach" to constructing an ecosystem of technologies requires standards that specify how the lego pieces connect. Otherwise there will be a disconnected user experience.
-
-For institutions the standard de jour is [Learning Tools Interoperability (LTI)](https://en.wikipedia.org/wiki/Learning_Tools_Interoperability). And it sort of works. A lot of educational technology vendors and their tools (sort of) support it. One of the problems is that the individual "blocks" in LTI lego tend to be individual applications. You use LTI to connect Blackboard with the portfolio system. 
-
-LTI typically doesn't support and/or get used for the what was originally proposed as a model for the NGDLE, the mash-up.
-> the model for the NGDLE architecture may be the mash-up. A mash-up is a web page or application that “uses content from more than one source to create a single new service displayed in a single graphical interface (Brown et al., 2015, p. 3)
-
-Being based on standard web standards and implemented by all modern web browsers web components appear to provide the best approach to supporting the mash-up model of the NGDLE. As illustrated above (in a not very educational example) I've been able to combine content and services from various sources into a single interface. Creating web components - like those produced by the folk at Penn State University when developing HAX and the magic script - enable sharing and reuse. 
-
-Web components provide lego blocks at a smaller scale than LTI. And perhaps enable the curation of more seamless learning environments.
-
-### Magic script as permeable membrane
-
-Entropy will kill a closed system. An open system is needed and web components provide such an open system. But institutions also tend not to want a system that is too open. For many reasons, some good. They'd like to be able to define a permeable membrane that enables them to specify how open the system is.
-
-The [magic script approach](https://dev.to/btopro/uwc-part-3-the-magic-script-122a)  provides a permeamble membrane. It only recognises the web components specified in [the JSON registry file](https://cdn.webcomponents.psu.edu/cdn/wc-registry.json). Suggesting something for the institution to control. (Though it wouldn't be difficult to create my own registry and point the script there)
-
-### Unbundling as being platform agnostic
-
-The folk behind this are using an [unbundled approach](https://dev.to/btopro/part-1-how-penn-state-unbundles-web-components-for-cdn-deployments-20di) to web components.
-
-HAX promises to transform "authorship so faculty can focus on instruction rather than HTML in order to accurately represent their expertise" ([Ollendyke, 2018](https://psu.app.box.com/s/gk6013odcl3115j3ibfzudj3bqar059v)). **Card and content interface** do something similar but take a different approach...
-
-Something here about breaking out of the LMS...but what about my work with tweaks and links to the design principles of CASA and/or my ISDT
+- Learn more about developing web components.
+- Figure out how to roll out a CDN/magic script specific to my institution/work.
+- Start thinking about productive ways to integrate web components into my daily work.
+- Ponder the implications of web components in terms of the NGDLE/VLE and local strategic directions.
