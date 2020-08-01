@@ -1,5 +1,5 @@
 ```toml
-post_title='Pondering if/how Hax & web components fit in Blackboard'
+post_title='Pondering if and how Hax & web components fit in Blackboard'
 layout="post"
 published=false
 id=
@@ -13,7 +13,7 @@ So look what I've done inside my [Blackboard Learn](https://en.wikipedia.org/wik
 
 It probably doesn't look that exciting. A bit of HTML and a couple of animated GIFS. Anyone could do that, right?
 
-Not quite.
+Not quite. Following explains why this is a bit of game changer and explores how it might be leveraged in work with Blackboard.
 
 ## It's not the what, it's the how
 
@@ -56,7 +56,7 @@ But I'm not limited to those four tags/web components. I can use any of the 560+
 
 Thanks to [the magic script](https://dev.to/btopro/uwc-part-3-the-magic-script-122a) I just include the right HTML tags and it all happens as if by magic.
 
-![It's Magic - Magic | Make a Meme](https://media.makeameme.org/created/its-magic-5c9ab8.jpg)
+![It is Magic - Magic | Make a Meme](https://media.makeameme.org/created/its-magic-5c9ab8.jpg)
 
 **TODO** I do need to find out if and where the docs are for the various components. The NPM pages and git repo aren't doing it for a lowly end user.
 
