@@ -2,8 +2,8 @@
 post_title='Pondering if and how Hax & web components fit in Blackboard'
 layout="post"
 published=false
-id=
-link=""
+id=17900
+link="https://djon.es/blog/"
 category="casa"
 ```
 

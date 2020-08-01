@@ -28,6 +28,7 @@ from wordpress_xmlrpc.methods import posts
 from wordpress_xmlrpc.methods.posts import EditPost
 from wordpress_xmlrpc import WordPressPost
 
+
 def getFile( markDownFile ):
     with open(markDownFile) as f:
         markDownData = f.read()
@@ -35,12 +36,17 @@ def getFile( markDownFile ):
 
     print("--------------- original -------------")
     print(markDownData)
-    print("--------------- HTML -------------")
-    print(markdown.markdown(markDownData))
+#    print("--------------- HTML -------------")
+#    print(markdown.markdown(markDownData))
 
-    x = re.match("#.*^```toml(.*)```(.*)", markDownData, re.MULTILINE | re.DOTALL  )
+    #x = re.match(".*^toml(.*)```(.*)", markDownData, re.MULTILINE | re.DOTALL  )
+    #x = re.match("#.*^```toml(.*)```", markDownData, re.DOTALL  )
+    x = re.match("```toml([^`]*)```(.*)", markDownData, re.MULTILINE | re.DOTALL  )
+    #x = re.match("#^```(toml)", markDownData, re.MULTILINE  )
     print(x)
+    print("TOML")
     print(x[1])
+    print("TOML")
 
     postConfig = toml.loads( x[1] )
     postContent = x[2] 
@@ -70,8 +76,8 @@ def main():
 		markDownFile=sys.argv[1] 
 		
 		(config, content ) = getFile( markDownFile ) 
-		print( "CONFIG\n%s" %config ) 
-		print( "Content\n%s" %content ) 
+#		print( "CONFIG\n%s" %config ) 
+#		print( "Content\n%s" %content ) 
 		
 		updatePost( config, content ) 
 		
