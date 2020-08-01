@@ -64,58 +64,77 @@ Thanks to [the magic script](https://dev.to/btopro/uwc-part-3-the-magic-script-1
 
 Web components are based on web standards that are supported by all modern web browsers. Meaning that the magic script and the bit of content I've written above will work in any HTML hosted by any "content management system".
 
-e.g. view the content from Blackboard in [this page from my personal website](https://djon.es/hax.html)
+e.g. view the content from Blackboard in [this page from my personal website](https://djon.es/hax.html) or view the original inspiration in [this CodePen](https://codepen.io/btopro/pen/yLNmVbw)
 
 ## How it works in Blackboard, currently
 
-It's a currently a horrendous [kludge](https://en.wikipedia.org/wiki/Kludge) that's not really usable. I certainly wouldn't be using it as it stands (but more on that below).
+It's a currently a horrendous [kludge](https://en.wikipedia.org/wiki/Kludge) that's not really usable. I certainly wouldn't be using it as it stands (but more on that below). And I wouldn't expect the average academic or educational developer to be lining up to use it as stands.
 
-The main problem is the configuration of the TinyMCE editor in Blackboard. Configuration which ends up encoding the web components HTML elements into [HTML entities](https://www.w3schools.com/html/html_entities.asp). Meaning the web components don't work.
+The main problem with how it works is the configuration of the TinyMCE editor in Blackboard. Configuration that ends up encoding the HTML elements for the web components into [HTML entities](https://www.w3schools.com/html/html_entities.asp). Meaning the web components don't work.
 
-The kludge is to
+The kludge to get the magic script to work goes like this
 
-1. Use TinyMCE to enter the web components HTML into a Javascript string.
-   When saved the web components HTML is encoded.
-2. Add a [Javascript function](https://stackoverflow.com/questions/7394748/whats-the-right-way-to-decode-a-string-that-has-special-html-entities-in-it/7394787#7394787) to decode the string.
-3. Add some more Javascript that injects the decoded string into the DOM (the Blackboard page).
+1. Add the magic script code into a Blackboard content item using TinyMCE.
+2. Use TinyMCE to add the web component HTML into a Javascript string (which will get encoded as HTML entities by TinyMCE when saved).
+3. Add a [Javascript function](https://stackoverflow.com/questions/7394748/whats-the-right-way-to-decode-a-string-that-has-special-html-entities-in-it/7394787#7394787) to decode the string into the item.
+4. Call that function and injectsthe decoded string into a specific DOM element. 
 
-This allows the magic script to do its magic.
+Together this means that the magic script does it magic when the Blackboard page is viewed.
 
-All this proves is that the magic script can work. Question now is
+All this proves is that the magic script can work. Question now is...
 
-## How to better use this within Blackboard
+## How to better use this within Blackboard?
 
-The method described above is usable for just about no-one. A better approach is required for broader, effective adoption. As web components work in any browser this approach can be integrated into most platforms (e.g. Drupal and Wordpress). **list of what HAX has been integrated into**
+The method described above is usable for just about no-one. A better approach is required for broader, effective adoption. 
 
-###  ?? Hax the editor
+###  HAX as a way of editing content (not currently possible)
 
-**talk about the HAX wordpress thing**
-https://plugins.trac.wordpress.org/browser/haxtheweb/tags/3.9.4/js/hax-the-press.js
+[HAX](https://haxtheweb.org) is the broader project from which the "magic script" originates. There is an 8 minute video that explains [what and why HAX is](https://www.youtube.com/watch?v=9Mq6J6U9K9Q&list=PLJQupiji7J5eTqv8JFiW8SZpSeKouZACH&index=11&t=0s). It describes HAX as providing a way to edit course material in a way that the editor understands what type of content/object is being edited and uses that knowledge to provide content appropriate editing operations. HAX is a way of embedding more design knowledge into the technology thereby reducing the amount of knowledge required of teachers and students.
 
-Something like this might be possible with Blackboard. [JSHack](https://github.com/AllTheDucks/jshack-v1/wiki) is a Blackboard building block that enabled the injection of HTML/Javascript into Blackboard pages. Beyond what is possible by manually including HTML/Javascript via TinyMCE.
+All of this is enabled through the use of web components. HAX uses the magic script to know about what type of content it is editing and what it can do to that content. HAX itself is a component that can be added to any page, including within Blackboard. 
 
-I don't have the ability to install Building Blocks into the institutional Blackboard. I'm not even going to try to make the case.
+For example, the following screenshot shows the use of HAX to add a horizontal line into the Blackboard page from above. 
 
-Without this ability, I can't see how the **"hax editor"** approach can work. I need alternatives.
+![Adding a horizontal line to Blackboard using HAX](haxImages/haxEditingBlackboardPage.png)
 
-### Make a Black(board) magic script
+Of course, the edit I'm making to the Blackboard page is only visible to me while I'm looking at the page. Any change I make is not saved for later use. For that to happen HAX needs to be integrated into the authing process of the content management system (in this case Blackboard). The [What is HAV?](https://youtu.be/9Mq6J6U9K9Q?t=429) includes examples of this happening in various different content management systems including Grav, Drupal and variations of Wordpress. This is achieved via changes to the content management systems editing process. For example, [this Javascript for Wordpress](https://plugins.trac.wordpress.org/browser/haxtheweb/tags/3.9.4/js/hax-the-press.js).
+
+Something like this might be possible with Blackboard. [JSHack](https://github.com/AllTheDucks/jshack-v1/wiki) is a Blackboard building block that enabled the injection of HTML/Javascript into Blackboard pages. Beyond what is possible by manually including HTML/Javascript via TinyMCE that I've used above.
+
+But, I don't have the ability to install Building Blocks into the institutional Blackboard. I'm not even going to try to make the case.
+
+Without this ability, I can't see how I can make the "HAX as editor" approach work. What follows are some other alternatives.
+
+### Make a Black(board) magic script (unlikely)
 
 One potential approach might be to write an extension to the magic script specifically for Blackboard that would work something like this:
 
-1. Add the magic script to any Blackboard page via the Blackboard editor.
+1. Add the magic script etc. to any Blackboard page via the Blackboard editor.
 2. Author adds any of the web components by typing HTML into the Blackboard editor.
-   And here's the first problem. It requires the authors to write HTML manually. High knowledge requirement, not widespread.
-3. When saved the web component HTML would be encoded to HTML entities.
 4. But on page load, the magic script would search the content items for any web component HTML entities and decode them.
    Not sure how challenging correctly finding all the HTML entities will be.
 5. At this stage, the original magic script takes over and magic happens.
 
-**talk about problems with this approach**
+There are two problems with this approach:
+
+1. High levels of knowledge.
+   It requires authors to write HTML manually. Maybe some educational developers. But not many. 
+2. Can it be done.
+   I'm not 100% convinced I could write Javascript to find all web component HTML entities and correctly decode them.
 
 ### The Content Interface approach
 
-use Word styles to indicate which are web component HTML and have the Content Interface include the magic script 
+[The Content Interface](https://djon.es/blog/2019/08/08/exploring-knowledge-reuse-in-design-for-digital-learning-tweaks-h5p-constructive-templates-and-casa/#contentInterface) is the attempted soluton to the content authoring problem as part of [another attempt to share design knowledge for digital learning](https://djon.es/blog/2019/11/28/how-to-share-design-knowledge-in-design-for-digital-learning/). 
 
+With the Content Interface authors use Microsoft Word (a tool many are comfortable with and which provides various authoring functionality) to create course materials. They use Word styles to semantically mark up the objects in their materials. The Word document is converted to HTML and pasted into Blackboard. A Javascript then transforms the semantically marked up HTML in various ways.
+
+#### The simple approach
+
+One of the styles supported by the Content Interface is the _embed_ style. It's used to include HTML (e.g. the embed code for a YouTube video) in the Word document which is then turned into HTML in Blackboard that is displayed (e.g. the YouTube video). If the magic script Javascript is added to the Content Interface javascript then it should be possible to embed web component HTML in the Word document and have it displayed via the Content Interface.
+
+
+
+#### The more useful approach
 This makes it easy to find the web components.  But still requires HTML
 
 ### The Card Interface approach
