@@ -8,6 +8,10 @@ In part, because of the inherent variety
 
 Raising the question of who decides what supplements are allowed?
 
-## Related categories
+## Representations
+
+![The NGDLE: We Are the Architects | EDUCAUSE](https://er.educause.edu/-/media/images/articles/2017/7/erm17411figure1large144.jpg?la=en&hash=284C4C558ACAE1D49E20CCAAC1A9ABBD7A94FE3E)
+
+## Related
 
 - [Distribution](../Distribution)
