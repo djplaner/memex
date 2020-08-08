@@ -1,4 +1,4 @@
-theme: jekyll-theme-hacker
+theme: jekyll-theme-midnight
 encoding: UTF-8
 markdown: kramdown
 plugins:
