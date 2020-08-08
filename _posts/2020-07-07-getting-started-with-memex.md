@@ -1,3 +1,5 @@
+# 2020 07 07 Getting Started with Memex
+
 ---
 ID: 17864
 post_title: Getting started with memex
@@ -140,23 +142,3 @@ It does appear to be working
 
 [Why the web scales]: ../../sense/Affordances/Why the web scales "Why the web scales" [Blackboard tweaks]: ../../sense/Distribution/Blackboard tweaks "Blackboard tweaks"
 
- [1]: https://djon.es/blog/2020/07/06/designing-a-personal-memex-with-foam/
- [2]: https://foambubble.github.io/foam/
- [3]: http://wikity.djon.es/
- [4]: https://djplaner.github.io/memex/
- [5]: http://jarche.com/2014/02/the-seek-sense-share-framework/
- [6]: https://djplaner.github.io/memex/seek/seek
- [7]: https://djplaner.github.io/memex/sense/sense
- [8]: https://djplaner.github.io/memex/share/share
- [9]: https://indieweb.org/POSSE
- [10]: https://github.com/mAAdhaTTah/wordpress-github-sync
- [11]: https://pypi.org/project/python-wordpress-xmlrpc/1.4/
- [12]: https://wikity.djon.es/
- [13]: https://github.com/michaelarthurcaulfield/wikity-zero
- [14]: https://hapgood.us/2016/09/20/wikity-updates-0-4/
- [15]: https://wikity.djon.es/three-types-of-decentralisation/
- [16]: http://wikity.djon.es/why-the-web-scales/?cardbox=Affordances
- [17]: https://tslim.github.io/concepts/
- [18]: https://github.com/tslim/concepts/tree/master/concepts
- [19]: https://github.com/tslim/concepts/blob/master/concepts/cloud-computing.md
- [20]: https://kortina.nyc/essays/suping-up-vs-code-as-a-markdown-notebook/

@@ -1,10 +1,13 @@
+# Pondering Hax Web Components and Blackboard
+
 ```toml
 post_title='Pondering if and how Hax & web components fit in Blackboard'
 layout="post"
-published=false
+published=true
 id=17900
-link="https://djon.es/blog/"
+link="https://djon.es/blog/2020/08/01/pondering-if-and-how-hax-web-components-fit-in-blackboard/"
 category="casa"
+img_base_url="https://djplaner.github.io/memex/share/blog/"
 ```
 
 So look what I've done inside my [Blackboard Learn](https://en.wikipedia.org/wiki/Blackboard_Learn) sandpit site.
@@ -20,6 +23,7 @@ Not quite. Following explains why this is a bit of game changer and explores how
 ...And what the how makes possible
 
 The core of this image is enabled by four different [web components](https://developer.mozilla.org/en-US/docs/Web/Web_Components)
+
 1. [grid-place](https://www.npmjs.com/package/@lrnwebcomponents/grid-plate) - provides an easy way to display the three SpongeBob images in a grid
 2. [meme-maker](https://www.npmjs.com/package/@lrnwebcomponents/meme-maker) - overlays the meme-like words (i.e. ARE, YOU, READY?) onto the SpongeBob images (no image manipulation required)
 3. [hax-logo](https://www.npmjs.com/package/@lrnwebcomponents/hax-logo)

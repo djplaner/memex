@@ -1,3 +1,5 @@
+# 2020 08 01 Pondering if and How Hax Web Components Fit in Blackboard
+
 ---
 ID: 17900
 post_title: 'Pondering if and how Hax &#038; web components fit in Blackboard'
@@ -77,27 +79,4 @@ toptext="happy dance GIF by SpongeBob SquarePants"></p>` Which produces the foll
 *   Start thinking about productive ways to integrate web components into my daily work.
 *   Ponder the implications of web components in terms of the NGDLE/VLE and local strategic directions.
 
- [1]: https://en.wikipedia.org/wiki/Blackboard_Learn
- [2]: https://developer.mozilla.org/en-US/docs/Web/Web_Components
- [3]: https://www.npmjs.com/package/@lrnwebcomponents/grid-plate
- [4]: https://www.npmjs.com/package/@lrnwebcomponents/meme-maker
- [5]: https://www.npmjs.com/package/@lrnwebcomponents/hax-logo
- [6]: https://www.npmjs.com/package/@lrnwebcomponents/type-writer
- [7]: https://en.wikipedia.org/wiki/%22Hello,_World!%22_program
- [8]: https://cdn.webcomponents.psu.edu/cdn/wc-registry.json
- [9]: https://dev.to/btopro/uwc-part-3-the-magic-script-122a
- [10]: https://djon.es/hax.html
- [11]: https://codepen.io/btopro/pen/yLNmVbw
- [12]: https://en.wikipedia.org/wiki/Kludge
- [13]: https://www.w3schools.com/html/html_entities.asp
- [14]: https://stackoverflow.com/questions/7394748/whats-the-right-way-to-decode-a-string-that-has-special-html-entities-in-it/7394787#7394787
- [15]: https://haxtheweb.org
- [16]: https://www.youtube.com/watch?v=9Mq6J6U9K9Q&list=PLJQupiji7J5eTqv8JFiW8SZpSeKouZACH&index=11&t=0s
- [17]: https://djplaner.github.io/memex/share/blog/haxImages/haxEditingBlackboardPage.png
- [18]: https://youtu.be/9Mq6J6U9K9Q?t=429
- [19]: https://plugins.trac.wordpress.org/browser/haxtheweb/tags/3.9.4/js/hax-the-press.js
- [20]: https://github.com/AllTheDucks/jshack-v1/wiki
- [21]: https://djon.es/blog/2019/08/08/exploring-knowledge-reuse-in-design-for-digital-learning-tweaks-h5p-constructive-templates-and-casa/#contentInterface
- [22]: https://djon.es/blog/2019/11/28/how-to-share-design-knowledge-in-design-for-digital-learning/
- [23]: https://mytasker.com/blog/parallax-scrolling-website
- [24]: https://djon.es/blog/2019/08/08/exploring-knowledge-reuse-in-design-for-digital-learning-tweaks-h5p-constructive-templates-and-casa/#cardInterface
+ 

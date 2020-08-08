@@ -1,3 +1,5 @@
+# 2013 10 03 the Irac Framework Locating the Performance Zone for Learning Analytics
+
 ---
 ID: 5157
 post_title: 'The IRAC framework: Locating the performance zone for learning analytics'
@@ -104,10 +106,3 @@ Villachica, S., Stone, D., & Endicott, J. (2006). Performance Suport Systems. In
 
 Young, M. F., Barab, S. A., & Garrett, S. (2000). Agent as detector: An ecological psychology perspective on learning by perceiving-acting systems. In D. Jonassen & S. Land (Eds.), *Theoretical foundations of learning environments* (pp. 143–173). Mahwah, New Jersey: Lawrence Erlbaum Associates.
 
- [1]: www.ascilite.org.au/conferences/sydney13/
- [2]: http://www.slideshare.net/davidj/avoiding-the-fad-example-applications-version-2
- [3]: http://beerc.wordpress.com/
- [4]: http://damosworld.wordpress.com/
- [5]: http://beerc.wordpress.com/2013/03/06/identifying-at-risk-students-is-the-easy-bit/
- [6]: http://damosworld.wordpress.com/2013/08/30/the-moodle-activity-viewer-mav-heatmaps-of-student-activity/
- [7]: https://djon.es/blog/research/bam-blog-aggregation-management/
