@@ -1,5 +1,3 @@
-# Visualising and Pruning My Memex
-
 ```toml
 post_title='Visualising and pruning my Memex'
 layout="post"
@@ -22,15 +20,19 @@ The image below illustrates the utility of Foam. It shows me using [Foam's graph
 6. Add in a appropriate connection to the note.
 7. See the graph visualisation change to represent the new connection.
 
+![Visualising and pruning my memex](gifs/Pruning%20my%20memex.gif)
+
 ## Further reflections 
 
 ### Breaking down categories
 
-From the visualisation, I've also been able to make some observations reflect on my PKM process. For example, the network shows my use of Seek > Sense > Share as an initial organising metaphor limits connections. Strongly reinforced by the fact that the blog posts I've written have yet to connect back to the other notes in memex (e.g. those connected to [[sense]]). Given [Foam's link auto-completion feature](https://foambubbasle.github.io/foam/link-formatting-and-autocompletion) this is actually quite easy to do. e.g. [[seek]] > [[sense]] > [[share]]
+From the visualisation, I've also been able to make some observations reflect on my PKM process. For example, the network shows my use of Seek > Sense > Share as an initial organising metaphor limits connections. Strongly reinforced by the fact that the blog posts I've written have yet to connect back to the other notes in memex (e.g. those connected to [[sense]]). Given [Foam's link auto-completion feature](https://foambubble.github.io/foam/link-formatting-and-autocompletion) this is actually quite easy to do. e.g. [[seek]] > [[sense]] > [[share]]
+
+Or at least I thought. It doesn't. More on this below.
 
 Illustrating my IT nerdish tendency to be categorising notes as I place them into memex. Starting with seek/sense/share and flowing from there. Even though I've argued against hierarchical (tree-like) structures (e.g. [[set-mindset]]). I've still not yet fully grasped the advantage of [associative ontologies to hierarchical taxonomies](https://notes.andymatuschak.org/%C2%A7Note-writing_systems?stackedNotes=z29hLZHiVt7W2uss2uMpSZquAX5T6vaeSF6Cy)
 
-Foam's ability to produce a public "secondbrain" on github pages (e.g. [memex](https://djplaner.github.io/memex/)) further breaks down the [original conceptions of seek > sense > share](https://jarche.com/2014/02/the-seek-sense-share-framework/). Rather than [[share]] being the focus for "exchanging resources, ideas, and experiences with our networks" this is happening with [[seek]] and [[share]] as well
+Foam's ability to produce a public "secondbrain" on github pages (e.g. [memex](https://djplaner.github.io/memex/)) further breaks down the [original conceptions of seek > sense > share](https://jarche.com/2014/02/the-seek-sense-share-framework/). Rather than [[../share]] being the focus for "exchanging resources, ideas, and experiences with our networks" this is happening with [[seek]] and [[share]] as well
 
 ### Mindtools, concept maps and learning
 
@@ -38,7 +40,7 @@ All of which appears to be a perfect example of the graph visualisation of Memex
 
 ### An important technical difference (affordance) between Foam, Smallest Federated Wiki and Wikity
 
-All of what is happening in the GIF is occuring within [Visual Studio Code](https://code.visualstudio.com/) Microsoft's open source code editor. It's VSCode's open architecture and its [marketplace of extensions](https://marketplace.visualstudio.com/VSCode) that enable Foam's development and functionality. For example, it's [the Markdown links extension](https://marketplace.visualstudio.com/items?itemName=tchayen.markdown-links) that provides the functionality to visualise the graph and use it to navigate through the notes. It's not something that the Foam community had to develop!
+All of what is happening in the GIF is occuring within [Visual Studio Code](https://code.visualstudio.com/) Microsoft's open source code editor. It's VSCode's open architecture and its [marketplace of extensions](https://marketplace.visualstudio.com/VSCode) that enable Foam's development and functionality. For example, it's [the Markdown links extension](https://marketplace.visualstudio.com/items?itemName=tchayen.markdown-links) that provides the functionality to visualise the graph and use it to navigate through the notes. It's not something that the Foam community had to develop.
 
 In addition, while I am not a fan of [Markdown](https://en.wikipedia.org/wiki/Markdown) it does provide a very good interoperability platform. For example, the *Markdown* links extension enabling the visualisation. Hence there being [Python module for markdown](https://python-markdown.github.io/) that will convert markdown to HTML. Allowing me to convert [this Markdown file in memex](https://djplaner.github.io/memex/share/blog/visualising-and-pruning-my-memex) into [this blog post](https://djon.es/blog/2020/08/09/visualising-and-pruning-my-memex/).
 
@@ -48,11 +50,16 @@ Foam appears more inherently more protean. More protean with how the tool itself
 
 Though *appears* is the important word in the previous paragraph. YMMV. The protean nature of Foam is an affordance that arises from the combination of the technology, who I am, and my environment/assemblage. If you've not done much web development and through that developed knowledge of markdown, github and other technologies...YMMV.
 
+### The cost of protean flexibility
+
+The protean nature comes at a cost. The different tools being cobbled together here have different expectations. Differing expectations that clash. e.g. Foam's [link autocompletion](https://foambubble.github.io/foam/link-formatting-and-autocompletion) works a little differently than a normal markdown link. Differently enough that the Python markdown converter doesn't know how to handle it.  Hence the broken [[seek]] type links above.
+
+Can it be fixed? Not a question I can answer now. 
+
 ## References
 
 Jonassen, D. H. (1996). Computers in the Classroom: Mindtools for Critical Thinking. Merrill.
 
-![Visualising and pruning my memex](gifs/Pruning%20my%20memex.gif)
 
 [//begin]: # "Autogenerated link references for markdown compatibility"
 [sense]: ../../sense/sense "Sense"
