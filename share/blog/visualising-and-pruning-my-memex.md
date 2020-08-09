@@ -12,7 +12,7 @@ Just [over a month ago](https://djon.es/blog/2020/07/06/designing-a-personal-mem
 
 Foam has only been under development for just over a month and not surprisingly this brings with a few rough edges. Rough edges are the quickly being sanded down by a combination of the rapidly growing Foam community, the nature of the technologies underpinning Foam, and increasing knowledge on my part. Foam is quickly becoming core to my practice e.g. I'm writing this blog post in Foam ([here's the Foam/Memex version](https://djplaner.github.io/memex/share/blog/visualising-and-pruning-my-memex) of the post). 
 
-The image below illustrates the utility of Foam. It shows me using [Foam's graph visualisation](https://foambubble.github.io/foam/graph-visualisation) feature to 
+The animated GIF below illustrates the utility of Foam. It shows me using [Foam's graph visualisation](https://foambubble.github.io/foam/graph-visualisation) feature to 
 1. View the network of connections between the notes I've placed into Memex.
 2. Identify an outlier note that isn't connected to anything (the first blog post I wrote in Foam/memex).
 3. Click on the graph node to view the content of the associated file.
