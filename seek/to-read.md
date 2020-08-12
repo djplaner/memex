@@ -20,6 +20,10 @@ Collection of articles, web pages etc that I need to read.
 
 ## Related to [[problems-with-modular-thinking]]
 
+- [Modularity in the design of complex engineering systms](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.466.513&rep=rep1&type=pdf)
+  - [The transformation of learning with technology: Learner-centricity, content and tool malleability and network effects](https://www-jstor-org.libraryproxy.griffith.edu.au/stable/44429655?seq=1#metadata_info_tab_contents)
+    - [Design, standards and reusability](http://www.downes.ca/cgi-bin/page.cgi?post=54)
+
 - [Towards a CAS roadmap for information systems research](https://eprints.qut.edu.au/111590/)
 - [Infrastructure as a complex adaptive system](https://www.hindawi.com/journals/complexity/2018/3427826/)
   Five key theoretical propertise of CAS
