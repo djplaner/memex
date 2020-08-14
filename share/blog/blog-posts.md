@@ -18,7 +18,7 @@ Maybe this will enable me to complete more of the posts I start.
   Documents a new idea about how the HAX editor can be integrated with Blackboard content items
 - [ ] [[broader-implications-hax-web-compontents]]
   Reflective piece trying to pull out the implications of the HAX, the NGDLE and system integration
-- [ ] [[supporting-the-design-of-context-specific-learning-spaces]]
+- [ ] [[supporting-the-design-of-discipline-specific-learning-spaces]]
 
 ### Completed
 
@@ -34,7 +34,7 @@ Maybe this will enable me to complete more of the posts I start.
 [what-help-do-we-provide-for-online-teaching]: what-help-do-we-provide-for-online-teaching "What Help Do We Provide for Online Teaching"
 [integrating-hax-editor-with-blackboard]: integrating-hax-editor-with-blackboard "Integrating Hax Editor with Blackboard"
 [broader-implications-hax-web-compontents]: broader-implications-hax-web-compontents "Broader Implications Hax Web Compontents"
-[supporting-the-design-of-context-specific-learning-spaces]: supporting-the-design-of-context-specific-learning-spaces "supporting-the-design-of-context-specific-learning-spaces"
+[supporting-the-design-of-discipline-specific-learning-spaces]: supporting-the-design-of-discipline-specific-learning-spaces "supporting-the-design-of-discipline-specific-learning-spaces"
 [gettingstarted]: gettingstarted "Getting started with memex"
 [pondering-hax-web-components-and-blackboard]: pondering-hax-web-components-and-blackboard "Pondering Hax Web Components and Blackboard"
 [visualising-and-pruning-my-memex]: visualising-and-pruning-my-memex "visualising-and-pruning-my-memex"
