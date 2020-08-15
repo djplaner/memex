@@ -2,9 +2,9 @@
 post_title='Supporting the design of discipline-specific digital learning activities'
 layout="post"
 published=false
-id=17918
-link="https://djon.es/blog/2020/08/09/visualising-and-pruning-my-memex/"
-category="memex"
+id=17939
+link="https://djon.es/blog/2020/08/09/supporting-the-design-of-discipline-specific-digital-learning-activities/"
+category="casa"
 img_base_url="https://djplaner.github.io/memex/share/blog/"
 ```
 
@@ -18,7 +18,7 @@ This post will
 1. Introduce a discipline specific learning activity.
 2. Describe - in all its flaws - the learner and teacher experiences of engaging with current common implementations of that learning activity.
 3. Illustrate some of the ways the learner and teacher experience is improved by the ability to better support discipline specific learning activities.
-4. Explore some of the ways this might be done sustainably.
+4. Explore some of the implications and next steps for this approach.
 
 ## Watching films - a discipline-specific activity
 
@@ -60,24 +60,95 @@ Answering question #4 requires knowledge of learner activity, learner outcomes, 
 
 ## *Film Watching Options* - a CASA solution
 
-The following describes the Context-Appropriate Scaffolding Assemblage we've developed. It's called *Film Watching Options*
+The following describes the [[casa]] approach we've developed. Currently labelled - *Film Watching Options*. As the same suggestions this approach is specific to this learning activity. It aims to embed good answers to the four questions outlined above into a collection of technology and practices that make it easier for the teacher to design, use and maintain a better quality learning space. 
 
-[[casa]]
+This isn't a perfect solution. The current solution provides some ok answers to the first three questions, but doesn't really offer any insight on the fourth questions. There is work to do. But it's looking better than existing solutions. 
 
 ### Learner perspective
 
-It's week 2 of term, the learner visits the week 1 online site and sees something like the following. 
+With the *Film Watching Options* approach, the learner doesn't just see the list of films as shown above. Instead they see the following showing off three different options
+1. An embedded, ready to stream version of <em>Animal Kingdom</em> as provided by the institution.
+2. A link to a streaming version of <em>Tokyo Story</em> available in an online Film Collection.
+3. A link to [a JustWatch search](https://www.justwatch.com/au/search?q=Toy%20Story) of streaming services available in Australia for <em>Toy Story</em>.
 
-**inert image of Content Interface with a couple of films - justwatch and embedded** 
+Option #3 illustrating what happens when the institution can't provide access to a film and the learner has to go searching.
 
-From the week 1 material the learner can see that there are two films to watch this week. The first - *insert filmname* - is available to students as an embed ready to start playing. The second - *insert filename* - isn't available via the institution. For this film there's a link to a search on [the site JustWatch](https://justwatch.com). This link will perform a search of all the Australian online options for watching that film as shown in the following image.
-
-**insert image of justwatch**
+![What the student sees with "Film Watch Options"](images/filmWatchOptions.png)
 
 ### Teacher perspective
 
+Currently the *Film Watching Options* feature is implemented as part of the [Content Interface](https://djon.es/blog/2019/08/08/exploring-knowledge-reuse-in-design-for-digital-learning-tweaks-h5p-constructive-templates-and-casa/#contentInterface) a [[casa]] approach to using Microsoft Word to create and maintain course content. In this context, the teacher designing this learning space sees the following Word document when authoring. Notice the similarity between the Word document in the above below and the web page in the image above?
 
+![Word document with Film Watching Options](images/filmWatchOptionsWord.png)
 
-## Plusses and minuses of this approach
+The idea is that when the teacher wants to provide film watching options to the learner they write (in Microsoft Word) the title of the film and then apply the *Film Watching Options* style. That's why the film names in the above image are green. Prior to this the teacher, in collaboration with the library, will have create an Excel spreadsheet that has a table listing all the films in the course and if and where they are available online. 
 
+### The technology perspective - how it works
 
+From here the *Film Watching Options* and Content Interface CASA take over.
+
+The *Content Interface* will translate the Word document edited by the teacher into the following HTML and embed it in the course site.
+
+```HTML
+<h1>Film Watch Options - CASA</h1>
+
+<p>This week watch and take note of the following films.</p> 
+
+<h3><em>Animal Kingdom</em> (Michôd, 2009)</h3>t
+<div class="filmWatchingOptions">Animal Kingdom</div>
+
+<h3><em>Tokyo Story</em> (Ozu, 1953)</h3>
+<div class="filmWatchingOptions">Tokyo Story</div>
+
+<h3><em>Toy Story</em> (Lasseter, 1995)</h3>
+<div class="filmWatchingOptions">Toy Story</div>
+```
+
+When a learner views this page the *Content Interface* will find all the **filmWatchingOptions** elements and for each element
+1. Call a web service to discover what options exist for watching this films (by checking the Excel spreadsheet maintained by the teacher). 
+2. Update the element to display the correct option.
+
+**Note:** There wasn't a "technology perspective" section for the current solution because it doesn't actually do anything specific for this learning activity.
+
+## Next steps
+
+Implementation within the Content Interface needs to be refined a touch. In particular, a lot more attention needs to be paid to figuring out if and how this approach can better help teachers answer question #4 above - How well did those films/activities work and what do I need to change for next time?
+
+Longer term, I think there's significant benefit from being gained implementing this type of approach using unbundled web components. Meaning I have to find time to engage with @btopro's [advice](https://djon.es/blog/2020/08/01/pondering-if-and-how-hax-web-components-fit-in-blackboard/#comment-18263) on learning more about web components.
+
+## Early implications
+
+Even at this early stage there are two obvious early implications.
+
+First, this makes it easier for the teacher to develop and improved learning space.
+
+Second, these improvements provide affordances that generate unexpected outcomes. For example, the provision of the film specific JustWatch search helped me identify an oversight in a course. The course content listed a film as unavailable. The JustWatch search showed that the film was available via an institutional means. I was able to update the course content.
+
+## Broader possible implications
+
+Design patterns have been suggested as a solution to the problem of educational design i.e.
+> There is a substaintial unmet demand for usable forms of guidance. In general, the demand from academic staff is for help with design - for customisable, re-usable ideas, not fixed, pre-packaged solutions. (Goodyear, 2005, p. 83)
+One of the benefits of pattern languages is that they provide "a common language by which practitioners can share and discuss ideas" (Jones et al, 1999) associated with design. The object-oriented software design community is perhaps the best example of this. A community where practitioners use pattern names in design discussions.
+
+Design patterns haven't really entered mainstream practice in educational design practice. Perhaps because design patterns are bit too abstract/difficult for practitioners to embed in everyday practice. Perhaps picking up on Goodyear's (2005) distinction between [[long-and-short-arc-learning-design]]. Some of the hypermedia design literature has previously made the connection between design patterns and constructive templates (Nanard, Nanard & Kahn, 1998). Constructive templates help make the connection between design and implementation. Perhaps this is (part of) the missing connection for design patterns in educational design?
+
+What's slowly evolving as part of the above work is the ability to start using names. In this case, *film watching options* is a nascent example of a name that is used to talk about this particular design/implementation solution. If it were implemented as an unbundled web component this would be reinforced further. Not to mention it would become even more customisable and reusable - echoing Goodyear's description of the demand from teachers.
+
+Might an approach like this implemented as web components help better bridge the gap between educational design and implementation? Might it provide a shared language that helps improve educational design? Might it help encourage the adoption of design patterns?
+
+## References
+
+Biggs, J. (2012). What the student does: Teaching for enhanced learning. *Higher Education Research & Development*, *31*(1), 39--55\. <https://doi.org/10.1080/07294360.2012.642839>
+
+Goodyear, P. (2005). Educational design and networked learning: Patterns, pattern languages and design practice. *Australasian Journal of Educational Technology*, *21*(1). <https://doi.org/10.14742/ajet.1344>
+
+Goodyear, P. (2009). *Teaching, technology and educational design: The architecture of productive learning environments* (pp. 1--37). <http://www.olt.gov.au/system/files/resources/Goodyear%2C P ALTC Fellowship report 2010.pdf>
+
+Jones, D., Stewart, S., & Power, L. (1999). Patterns: Using Proven Experience to Develop Online Learning. *Proceedings of ASCILITE'1999*. <https://djon.es/blog/publications/patterns-using-proven-experience-to-develop-online-learning/>
+
+Nanard, M., Nanard, J., & Kahn, P. (1998). *Pushing Reuse in Hypermedia Design: Golden Rules, Design Patterns and Constructive Templates*. 11--20.
+
+[//begin]: # "Autogenerated link references for markdown compatibility"
+[casa]: ../../sense/casa "Contextually Appropriate Scaffolding Assemblages (CASA)"
+[long-and-short-arc-learning-design]: ../../sense/Distribution/long-and-short-arc-learning-design "Long and short arc learning design"
+[//end]: # "Autogenerated link references"
