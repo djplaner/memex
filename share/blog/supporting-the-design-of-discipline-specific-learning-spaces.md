@@ -8,16 +8,17 @@ category="casa"
 img_base_url="https://djplaner.github.io/memex/share/blog/"
 ```
 
-It's widely accepted that the most important part of learning and teaching is **what the student does** @biggsWhatStudentDoes2012. The spaces, tools and tasks in and through which students "do stuff" (i.e. learning, or not) takes place are in some way designed by a teacher but are subsequently adapted by learners @goodyearDesignCoconfigurationHybrid2020. This post attempt to illustrate a limitation of how universities currently help support teachers design digital learning spaces, tools and tasks (from now on I'll use *learning activity* to capture all this). i.e. how current approaches fail to support the design, use and maintenance of contextually and discipline specific learning activities. The suggestion is that doing this may bring significant benefits. 
+It's widely accepted that the most important part of learning and teaching is **what the student does** (Biggs, 2012). The spaces, tools and tasks in and through which students "do stuff" (i.e. learning, or not) are in some way designed by a teacher with subsequent learner adaptation (Goodyear, 2020). 
 
-Designing learning spaces, tools and tasks is not easy. Especially when digital technologies are involved. Especially when the [low digital fluency of teachers](https://djon.es/blog/2014/09/12/you-want-digitally-fluent-faculty/) is seen as a (for some **the**) significant challenge @johnsonNMCHorizonReport2014. Hence the big focus on solutions such as requiring all teachers to have a formal teaching qualification. Formal "certification" programs such as the HEA. Or the focus on running workshops and producing online "how-to" support material. The focus on teacher knowledge, in many cases a deficit model of teacher knowledge, tends to ignore the distributed nature of the knowledge required. It doesn't just reside in the heads of the teachers but is distributed amongst the other agents (people, technologies, policies etc) in the institutional learning and teaching system @jonesTPACKSharedPractice2015a.  
+Designing learning spaces, tools and tasks is not easy. Especially when digital technologies are involved. The [low digital fluency of teachers](https://djon.es/blog/2014/09/12/you-want-digitally-fluent-faculty/) is seen as a (for some **the**) significant challenge (Johnson et al, 2014). Hence the big focus on solutions such as requiring all teachers to have a formal teaching qualification. Formal "certification" programs such as the HEA. Or the focus on running workshops and producing online "how-to" support material. The focus on teacher knowledge tends to ignore the distributed and contextual nature of the knowledge required. It doesn't just reside in the heads of the teachers but is distributed amongst the other agents (people, technologies, policies etc) in the institutional learning and teaching system (Jones et al, 2015).
 
-When knowledge is distributed, it is also situated and highly contextual. As such, know the details of any learning and teaching model or theory is of limited practical value. **pick up on Goodyear's post about the value of models and point to Stommel's post about the limitations of models** But more than this the knowledge of models still has to be translated into the design of learning activities within a specific learning and teaching context. The model's suggestions needs to be adapted and customised to the specifics of the learning activity, including the specific discipline, the specific set of digital technology, the specific set of institutional policies, the specific student cohort etc. This is the real wicked design problem of design for learning. Where **Jesse's discussion about difficult problems** occurs.
+When knowledge is distributed, it is also situated and highly contextual. As such, knowing the details of any learning and teaching model or theory [has value](https://petergoodyear.net/2020/07/29/working-with-the-universities-we-have-not-the-universities-we-wish-we-had/) still has to be translated into the design of learning activities within a specific learning and teaching context. The model's suggestions needs to be adapted and customised to the specifics of the learning activity, including the specific discipline, the specific digital technologies, the specific institutional policies, the specific student cohort etc. This is hard and I don't know of any institution that is helping meaningfully and sustainably make this problem easier in contextually and discipline specific ways.
 
 This post will
+
 1. Introduce a discipline specific learning activity.
-2. Describe - in all its flaws - the learner and teacher experiences of engaging with current common implementations of that learning activity.
-3. Illustrate some of the ways the learner and teacher experience is improved by the ability to better support discipline specific learning activities.
+2. Describe the learner and teacher experiences of engaging with current common implementations of that learning activity.
+3. Illustrate how the learner and teacher experience is changed by a more discipline specific approach.
 4. Explore some of the implications and next steps for this approach.
 
 ## Watching films - a discipline-specific activity
@@ -41,6 +42,7 @@ Consequently, learners typically expend a fair bit of cognitive effort and time 
 ### The teacher experience
 
 The teacher of such a course faces four broad questions. Answering these questions is not sequential. My answer to question #1 may change depending on the answer to question #2. The four questions are: 
+
 1. Which films should the students engage with?
 2. Can I provide access to those films?
 3. How to point students to those films and what they need to do?
@@ -67,6 +69,7 @@ This isn't a perfect solution. The current solution provides some ok answers to 
 ### Learner perspective
 
 With the *Film Watching Options* approach, the learner doesn't just see the list of films as shown above. Instead they see the following showing off three different options
+
 1. An embedded, ready to stream version of <em>Animal Kingdom</em> as provided by the institution.
 2. A link to a streaming version of <em>Tokyo Story</em> available in an online Film Collection.
 3. A link to [a JustWatch search](https://www.justwatch.com/au/search?q=Toy%20Story) of streaming services available in Australia for <em>Toy Story</em>.
@@ -89,22 +92,21 @@ From here the *Film Watching Options* and Content Interface CASA take over.
 
 The *Content Interface* will translate the Word document edited by the teacher into the following HTML and embed it in the course site.
 
-```HTML
-<h1>Film Watch Options - CASA</h1>
+    <h1>Film Watch Options - CASA</h1>
 
-<p>This week watch and take note of the following films.</p> 
+    <p>This week watch and take note of the following films.</p> 
 
-<h3><em>Animal Kingdom</em> (Michôd, 2009)</h3>t
-<div class="filmWatchingOptions">Animal Kingdom</div>
+    <h3><em>Animal Kingdom</em> (Michôd, 2009)</h3>t
+    <div class="filmWatchingOptions">Animal Kingdom</div>
 
-<h3><em>Tokyo Story</em> (Ozu, 1953)</h3>
-<div class="filmWatchingOptions">Tokyo Story</div>
+    <h3><em>Tokyo Story</em> (Ozu, 1953)</h3>
+    <div class="filmWatchingOptions">Tokyo Story</div>
 
-<h3><em>Toy Story</em> (Lasseter, 1995)</h3>
-<div class="filmWatchingOptions">Toy Story</div>
-```
+    <h3><em>Toy Story</em> (Lasseter, 1995)</h3>
+    <div class="filmWatchingOptions">Toy Story</div>
 
 When a learner views this page the *Content Interface* will find all the **filmWatchingOptions** elements and for each element
+
 1. Call a web service to discover what options exist for watching this films (by checking the Excel spreadsheet maintained by the teacher). 
 2. Update the element to display the correct option.
 
@@ -127,7 +129,8 @@ Second, these improvements provide affordances that generate unexpected outcomes
 ## Broader possible implications
 
 Design patterns have been suggested as a solution to the problem of educational design i.e.
-> There is a substaintial unmet demand for usable forms of guidance. In general, the demand from academic staff is for help with design - for customisable, re-usable ideas, not fixed, pre-packaged solutions. (Goodyear, 2005, p. 83)
+> There is a substaintial unmet demand for usable forms of guidance. In general, the demand from academic staff is for help with design - for customisable, re-usable ideas, not fixed, pre-packaged solutions. (Goodyear, 2005, p. 83) 
+
 One of the benefits of pattern languages is that they provide "a common language by which practitioners can share and discuss ideas" (Jones et al, 1999) associated with design. The object-oriented software design community is perhaps the best example of this. A community where practitioners use pattern names in design discussions.
 
 Design patterns haven't really entered mainstream practice in educational design practice. Perhaps because design patterns are bit too abstract/difficult for practitioners to embed in everyday practice. Perhaps picking up on Goodyear's (2005) distinction between [[long-and-short-arc-learning-design]]. Some of the hypermedia design literature has previously made the connection between design patterns and constructive templates (Nanard, Nanard & Kahn, 1998). Constructive templates help make the connection between design and implementation. Perhaps this is (part of) the missing connection for design patterns in educational design?
@@ -144,7 +147,13 @@ Goodyear, P. (2005). Educational design and networked learning: Patterns, patter
 
 Goodyear, P. (2009). *Teaching, technology and educational design: The architecture of productive learning environments* (pp. 1--37). <http://www.olt.gov.au/system/files/resources/Goodyear%2C P ALTC Fellowship report 2010.pdf>
 
+Goodyear, P. (2020). Design and co-configuration for hybrid learning: Theorising the practices of learning space design. *British Journal of Educational Technology*, *51*(4), 1045--1060\. <https://doi.org/10.1111/bjet.12925>
+
+Johnson, L., Adams Becker, S., Estrada, V., & Freeman, A. (2014). *NMC Horizon Report: 2014 Higher Education Edition* (No. 9780989733557). <http://www.nmc.org/publications/2014-horizon-report-higher-ed>
+
 Jones, D., Stewart, S., & Power, L. (1999). Patterns: Using Proven Experience to Develop Online Learning. *Proceedings of ASCILITE'1999*. <https://djon.es/blog/publications/patterns-using-proven-experience-to-develop-online-learning/>
+
+Jones, D., Heffernan, A., & Albion, P. R. (2015). TPACK as shared practice: Toward a research agenda. In D. Slykhuis & G. Marks (Eds.), *Proceedings of Society for Information Technology & Teacher Education International Conference 2015* (pp. 3287--3294). AACE. <http://www.editlib.org/p/150454/>
 
 Nanard, M., Nanard, J., & Kahn, P. (1998). *Pushing Reuse in Hypermedia Design: Golden Rules, Design Patterns and Constructive Templates*. 11--20.
 

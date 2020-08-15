@@ -153,7 +153,7 @@ def main():
         if len(wikiLinks)>0: 
             html = changeWikiLinks( html, wikiLinks)
 
-#        print(html)
+        print(html)
 #        print(content)
 
 #        print("=================================")
@@ -164,38 +164,9 @@ def main():
             html = changeImgURL( html, config['img_base_url'] )
 #        print( "HTML content \n %s" % html )
         updatePost(config,html)
-#		print( "CONFIG\n%s" %config )
-#		print( "Content\n%s" %content )
-
-#		updatePost( config, content )
 
         return False
-
-#    	myposts = blog.call(posts.GetPosts())
-
-#    	for post in myposts:
-#        	print("XXXXXXXXXXXXXXXXXXXX ")
-#        	print("Id: %s. TITLE %s" % ( post.id,post.title))
-#        	print("Link: %s " % post.link )
-
 
 if __name__ == "__main__":
     main()
 
-
-# --------------
-# Planning adding auto-translate of wiki-links into proper links
-# e.g. to include links in blogs
-
-# What's in the raw markdown and what should it be on my blog
-
-# readme.md
-#- [[seek]]
-# - But there is the [//begin] auto generate stuff that include
-#  - [seek]: seek/seek "Seek"
-#    - which gets translated into https://djplaner.github.io/memex/seek/seek
-#
-# Process is
-# 1. Get the [//begin] section and parse it into associated array
-#   The [ ]: stuff are comments
-# 1. Find all occurences of wiki links and replace with value + BASE_URL
