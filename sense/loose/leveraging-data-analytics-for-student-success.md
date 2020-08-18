@@ -2,7 +2,6 @@
 
 Webinar ran by UTS. Titled - Arizona State University: Leveraging Data Analytics for Student Success.
 
-
 ## Implications
 
 1. Need to measure current PAM report usage
