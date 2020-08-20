@@ -1,0 +1,12 @@
+# Kafkaesque and Orwellian Technology Design
+
+[Post](https://jondron.ca/kafkaesque-and-orwellian-technology-design/) from Jon Dron starts off with pointers to examples of hard technologies from the Romanian legal system and moves ito talking about
+- The  misapplication of [[hard-technology]]
+  Picks up the difference between human-based hard technologies which are more scrutable and those embedded in machines (in algorithms) e.g. the recent debacle in the UK re: A-Level mark calculations. Algorithms are required and easy to embed. His solution to make his software "as visible, scrutable, and customizable as possible"
+- Finding the right balance.
+  But finding the balance is hard.  Some harness in technologies is required e.g. "constraint is vital to creation, and many things are better done by machines". Individual needs vary. And hardness has benefits "do things that are otherwise impossible" and makes other things 'easier, quicker, more reliable, and more consistent"
+- Openness and control
+  To deal with this "a fundamental starting point...is knowing what and how things are being hardened, and to be capable of softening them if necessary". But softening (by messing with algorithms is hard) and perhaps there are times when we shouldn't (e.g. crowd-based systems would break if we all changed it)
+
+
+
