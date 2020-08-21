@@ -17,7 +17,7 @@ See a list of blgo posts for [my public descriptions and reflections on using Fo
 - [ ] Finish work on [[integrating-zotero-into-memex]]
 - [ ] Explore better themes for memex
 - [ ] Figure out a better structure than the current PKM focus
-- [ ] Get Google searching memex
+- [X] Get Google searching memex - done, processing
 
 And of course the on-going process
   
