@@ -102,7 +102,7 @@ return html`
 
 In operation, this illustrates how components are updated dynamically in response to changes to properties.
 
-![Dynamically changing component display](webComponentButton.png)
+![Dynamically changing component display](webComponentButton.gif)
 
 ### Styling
 
