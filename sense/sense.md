@@ -13,6 +13,7 @@ And unallocated notes in [[loose]]
 - [[digital-literacy]]
 - [[herding-cats]]
 - [[know-thy-student]]
+- [[learning]]
 - [[nodt]]
 - [[paper-ideas]]
 - [[python]]
@@ -31,6 +32,7 @@ And unallocated notes in [[loose]]
 [digital-literacy]: digital-literacy "Digital Literacy"
 [herding-cats]: herding-cats "Herding Cats"
 [know-thy-student]: know-thy-student "Know thy student"
+[learning]: learning "Learning"
 [nodt]: nodt "Nature of Digital Technology"
 [paper-ideas]: paper-ideas "Paper Ideas"
 [python]: python "Python"
