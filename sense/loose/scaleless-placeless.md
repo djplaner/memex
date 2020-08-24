@@ -6,28 +6,38 @@ Phrase used by [Peter Calthorpe](https://en.wikipedia.org/wiki/Peter_Calthorpe) 
 
 ## Why did it resonate?
 
-The commmon digital learning spaces created in contemporary higher education strike me as increasingly
+The commmon digital education spaces created in contemporary higher education strike me as increasingly
 - **placeless**; and,
 > Indistinguishable from other places. Devoid of the character of its purpose, people, discipline. 
 - **scaleless**
 > Unable to respond well enough to the needs of individuals and small groups.
     
-Outcomes created by vanilla-isation forces including:
+## What forces contribute to this?
 
-- consistent institutional livery;
+Vanilla-isation forces including:
+
+- consistent institutional, marketing-driven livery;
 - digital technologies designed by vendors to be used (as cheaply as possible) by everyone; and,
 - the mantra of corporate management and information technology folk that "any solution has to scale". i.e. be usable cheaply by the broadest possible number of people. 
 
 It strikes me that each of the vanilla-isation forces are built upon numerous "common-sense" principles, including (but not limited to)
 - *consistency*;
-    "to scale" in part means minimising support resources. Which - following "common-sense" - that everything looking the same (i.e. *consistent*) is a good thing because this minimises confusion which minimises support costs.
+> "to scale" in part means minimising support resources. Which - following "common-sense" - that everything looking the same (i.e. *consistent*) is a good thing because this minimises confusion which minimises support costs.
 - *sterile* (Zittrain) or *hard* (Dron) technology.
-    i.e. technologies that can't be changed by people who aren't allowed to. With the move to cloud-hosted services the population of "allowed" people is diminishingly small. 
+> i.e. technologies that can't be changed by people who aren't allowed to. With the move to cloud-hosted services the population of "allowed" people is diminishingly small. Also Zittrain's point about generative technologies - that can be changed - raising costs/dangers.
 
+But the narrow focus of "in my box" means that the bigger picture is lost. i.e. that the resulting learning environments are scaleless and placeless. The emergent properties that rise from all these common-sense decisions are lost. At least to those not directly involved in the day to day use of these digital spaces.
 
+## What does placeless and scaleless look like in digital education?
+
+To be continued, but some earlier ideas, include
+
+- [Starvation](https://djon.es/blog/2012/04/01/learning-analytics-starvation-and-telling-us-what-we-already-know/)
+- [Workarounds](https://djon.es/blog/2019/12/20/theory-of-workarounds/)
 
 ## References
 
+There's gotta be some good stuff out there.
 
 ## Related bubbles
 
