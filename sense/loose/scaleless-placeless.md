@@ -16,6 +16,7 @@ The commmon digital education spaces created in contemporary higher education st
 
 Vanilla-isation forces including:
 
+- [functional stupidy](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1467-6486.2012.01072.x) probably fits in here somehow
 - consistent institutional, marketing-driven livery;
 - digital technologies designed by vendors to be used (as cheaply as possible) by everyone; and,
 - the mantra of corporate management and information technology folk that "any solution has to scale". i.e. be usable cheaply by the broadest possible number of people. 
@@ -34,6 +35,16 @@ To be continued, but some earlier ideas, include
 
 - [Starvation](https://djon.es/blog/2012/04/01/learning-analytics-starvation-and-telling-us-what-we-already-know/)
 - [Workarounds](https://djon.es/blog/2019/12/20/theory-of-workarounds/)
+- [Product-market fit](https://eliterate.us/how-to-dig-a-billion-dollar-edtech-hole/) "in education is extremely hard to achieve even for the very best product designers"
+> Vendors tend to solve the problem that their customers articulate to them. If the customers are in denial about the true nature of the problem that they need to solve, then vendors provide solutions which reinforce underlying problems, 
+Linking this to wicked problems that aren't tractable to the define/analysis/solution process may get at why there is a problem
+
+## Research ideas
+
+- What are the characteristics of a digital education space that has place/scale?
+- If you find, such spaces, how did they come about? Normal insitutional processes, or not?
+- What are the causes for this? What are the solutions?
+
 
 ## References
 
