@@ -10,6 +10,7 @@ And unallocated notes in [[loose]]
   - [[bricolage]]
   - [[affordances]]
   - [[distribution]]
+- [design](Design/index.md)
 - [[digital-literacy]]
 - [[herding-cats]]
 - [[know-thy-student]]
