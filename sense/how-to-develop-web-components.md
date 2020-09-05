@@ -16,11 +16,11 @@ A summary of Bryan's recommendations [from this comment](https://djon.es/blog/20
 ### To do
 
 - [ ] Are there alternatives to LitElement and OpenWC
-- [ ] Create a simple component with LitElement - [[my-first-litelement-web-component]]
-- [ ] Develop *University Date* as web component
-- [ ] Integrate *University Date* with the Content Interface
-- [ ] Integrate *University Date* with the Card Interface
-- [ ] Integrate *University Date* with the any Blackboard (web) page
+- [X] Create a simple component with LitElement - [[my-first-litelement-web-component]]
+  - [ ] Develop *Trimester Date* as web component
+  - [ ] Integrate *University Date* with the Content Interface
+  - [ ] Integrate *University Date* with the Card Interface
+  - [ ] Integrate *University Date* with the any Blackboard (web) page
 
 ## LitElement
 
