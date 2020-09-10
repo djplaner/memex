@@ -20,6 +20,7 @@ Maybe this will enable me to complete more of the posts I start.
   Reflective piece trying to pull out the implications of the HAX, the NGDLE and system integration
 - [ ] [[supporting-the-design-of-discipline-specific-learning-spaces]]
 - [ ] [[digital-education-conservation-complexity]]
+- [ ] [[learning-design-conservation_complexity]] - 
 
 ### Completed
 
@@ -36,6 +37,8 @@ Maybe this will enable me to complete more of the posts I start.
 [integrating-hax-editor-with-blackboard]: integrating-hax-editor-with-blackboard "Integrating Hax Editor with Blackboard"
 [broader-implications-hax-web-compontents]: broader-implications-hax-web-compontents "Broader Implications Hax Web Compontents"
 [supporting-the-design-of-discipline-specific-learning-spaces]: supporting-the-design-of-discipline-specific-learning-spaces "supporting-the-design-of-discipline-specific-learning-spaces"
+[digital-education-conservation-complexity]: digital-education-conservation-complexity "digital-education-conservation-complexity"
+[learning-design-conservation_complexity]: learning-design-conservation_complexity "Digital learning activities and issues with the conservation of complexity"
 [gettingstarted]: gettingstarted "Getting started with memex"
 [pondering-hax-web-components-and-blackboard]: pondering-hax-web-components-and-blackboard "Pondering Hax Web Components and Blackboard"
 [visualising-and-pruning-my-memex]: visualising-and-pruning-my-memex "visualising-and-pruning-my-memex"
