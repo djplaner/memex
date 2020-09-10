@@ -19,6 +19,7 @@ Maybe this will enable me to complete more of the posts I start.
 - [ ] [[broader-implications-hax-web-compontents]]
   Reflective piece trying to pull out the implications of the HAX, the NGDLE and system integration
 - [ ] [[supporting-the-design-of-discipline-specific-learning-spaces]]
+- [ ] [[learning-design-conservation_complexity]] - 
 
 ### Completed
 
