@@ -2,6 +2,8 @@
 
 Resources around how to encourage people (teachers) undergo change
 
+Hello Zach
+
 ## Path
 
 - [[mindlessly-eating-better]]
