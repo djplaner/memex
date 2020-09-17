@@ -15,7 +15,14 @@ pathway-planner
    2. *credit-point-progress*
    3. *program-paths*
 
+## Data structures
+
+### program-structure
+
+Could be a collection of three arrays. Year 1, 2, and 3.  Each array containing objects representing a course. 
+
 ## Current status/plans
+
 
 ### Implement pathway-planner custom element to encapsulate app
 
