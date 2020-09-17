@@ -2,6 +2,34 @@
 
 Docs for the development of the pathway-planner component.
 
+pathway-planner
+1. Choose major/minor
+   1. *select-major-minor*
+2. Courses Done
+   1. *select-major-minor*
+   2. *credit-point-progress*
+   3. *program-structure*
+      1. List of *course-progress*
+3. Courses to do
+   1. *select-major-minor*
+   2. *credit-point-progress*
+   3. *program-paths*
+
+## Current status/plans
+
+### Implement pathway-planner custom element to encapsulate app
+
+Use a [router](https://www.kevinsimper.dk/posts/single-page-app-with-webcomponents-and-router) between the different states, including local storage
+
+
+## Look for other components for elements
+
+- [heavy-navbar](https://github.com/HeavyLightStudios/heavy-navbar)
+
+## Use generic HTML and CSS for styling. 
+
+[how to](https://www.thinktecture.com/en/web-components/native-web-components-without-framework/#how-to-style-your-web-component)
+
 ## To do
 
 - [X] Create repo - code/griffith/2020/pathway-planner
