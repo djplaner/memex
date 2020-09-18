@@ -3,7 +3,7 @@
 Docs for the development of the pathway-planner component.
 
 pathway-planner
-1. Choose major/minor
+1. Choose major/minor 
    1. *select-major-minor*
 2. Courses Done
    1. *select-major-minor*
@@ -16,6 +16,32 @@ pathway-planner
    3. *program-paths*
 
 ## Data structures
+
+Required data structures
+- Years, Majors and Minors
+- Program structure for each major/minor/year
+  - Including course categories
+- Course code, names, credit point, labels and offerings
+
+### TaffyDb
+
+Simple object-based "database-like" retrieval.
+
+Some early planning
+- select major
+  - majors({year:*default_year*}) .. major to populate list of majors
+  - majors({year:*default_year*,major:*selected_major*}) ... minor to get minor
+- "credit points" - would select from program structure (in memory) those completed courses and count credit points/counts
+- taffDb has a method .store() which writes to localStorage 
+- program structure 
+  - Originally loaded from Javascript without user fields (or perhaps these are programmaticlly added the first time up -)
+  - can add new fields as we go
+
+### Implementation
+
+1. Source Data
+2. Get it checked
+3. Put it in code
 
 ### program-structure
 
@@ -40,13 +66,7 @@ Use a [router](https://www.kevinsimper.dk/posts/single-page-app-with-webcomponen
 ## To do
 
 - [X] Create repo - code/griffith/2020/pathway-planner
-- [ ] Decide on "look and feel" - [material](https://material.io/develop/web/docs/getting-started)
-> There's a [choice here](https://stackoverflow.com/questions/57752189/material-web-components-vs-material-components-web) between Material Web Components and [Material Components Web](https://material.io/develop/web)
-> But the mwc stuff. Which is working.  Is still beta. But it is the wrapper around the former.
-- [ ] Implement "look and feel" within shadow dom
-- [ ] Revisit the react version
-- [ ] Plan out the structure of web component version
-- [ ] Implement hard wired initial version
+- [X] Implement hard wired initial version
 
 ## Resources
 
