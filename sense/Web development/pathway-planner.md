@@ -70,9 +70,11 @@ Use a [router](https://www.kevinsimper.dk/posts/single-page-app-with-webcomponen
 
 ## Resources
 
+- [build wc with lit-html](https://dev.to/bennypowers/lets-build-web-components-part-5-litelement-906) - decent detailed overview/process
 - [open-wc codelabs #2](https://open-wc.org/codelabs/basics/lit-html.html?index=/codelabs/#2)
 - [open-wc code examples](https://open-wc.org/developing/code-examples.html) - good collection of short examples
 - [Building componets (Google)](https://developers.google.com/web/fundamentals/web-components/)
+- [All things lit-html](https://github.com/web-padawan/awesome-lit-html)
 
 ### Interface decisions and information
 

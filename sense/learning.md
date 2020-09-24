@@ -12,6 +12,10 @@
 
 - [[know-what-and-when]]
 
+### Programming and CS
+
+- [[carpentaries-training]]
+
 ## Path
 
 - [[overcoming-one-size-fits-all-learning]]
@@ -30,6 +34,7 @@
 [head-first-design]: Learning/head-first-design "Head First Design"
 [chunking-lectures]: Learning/chunking-lectures "Chunking lectures"
 [know-what-and-when]: Learning/know-what-and-when "Help the learner know what, when and why to do something"
+[carpentaries-training]: Learning/carpentaries-training "carpentaries-training"
 [overcoming-one-size-fits-all-learning]: Learning/overcoming-one-size-fits-all-learning "Overcoming one size fits all learning"
 [requirements-for-meaning]: Learning/requirements-for-meaning "Requirements for meaning"
 [self-efficacy]: Learning/self-efficacy "Self-efficacy"
