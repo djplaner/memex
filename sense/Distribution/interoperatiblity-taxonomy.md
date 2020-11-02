@@ -4,7 +4,11 @@ Based on Cory Doctrow's [Interoperaability: Fix the Internet, Not the Tech Compa
 
 The argument is that fixing big problems with the tech companies needs to allow adversarial interoperability so that new players can come in, rather than trust the existing big players (e.g. facebook)
 
-This is perhaps going to play out in digital education due to platforms.  e.g. O365 where not just the vendor is going to be limiting interoperability, but also the local folk in charge of those platforms.
+This is perhaps going to play out in digital education due to platforms.  e.g. O365 where not just the vendor is going to be limiting interoperability, but also the local folk in charge of those platforms. Where the shadow systems and efficiency/safety trap drives the desire to limit this capability.
+
+This is the space where interoperability has to become than just using the plug and err toward the side of protean technology
+
+
 
 ## Indifferent interoperability
 
