@@ -9,7 +9,11 @@ link=""
 category="bad"
 ```
 
-Thinking about this post started weeks ago when I read Lawrie Phipps’ post - “[People wanted help, we gave them guidance](https://lawriephipps.co.uk/reflections-week-twelve-people-wanted-help-we-gave-them-guidance/)”. A post reflecting on the types of requests for help being asked as people try to make the COVID "move online". For me, there's a suggestion that there are some help requests that were being answered well. e.g. Questions that lead to a “push this button” answer. But trouble begins as the questions begin to deepen into questions that don’t have easy answers (e.g. “how do I get student engagement?). Given the current context Lawrie’s worry is “that in some places we are more concerened with providing sound guidance around pedagogical theory than we are with providing help”.
+- Freeing up brain space
+
+
+
+Thinking about this post started months ago when I read Lawrie Phipps’ post - “[People wanted help, we gave them guidance](https://lawriephipps.co.uk/reflections-week-twelve-people-wanted-help-we-gave-them-guidance/)”. A post reflecting on the types of requests for help being asked as people try to make the COVID "move online". For me, there's a suggestion that there are some help requests that were being answered well. e.g. Questions that lead to a “push this button” answer. But trouble begins as the questions begin to deepen into questions that don’t have easy answers (e.g. “how do I get student engagement?). Given the current context Lawrie’s worry is “that in some places we are more concerened with providing sound guidance around pedagogical theory than we are with providing help”.
 This is something I struggle with. I agree with Lawrie. There is a tendency in higher ed to provide guidance around difficult questions (e.g. how do I get student engagement?), rather than help. I agree with Lawrie that providing guidance is a “get out of jail free card” for the people providing it. It’s much easier to explain the “5 principles for encouraging student engagement” than it is to work with someone to figure out how to sustainably adapt and apply those principles within a specific course context (including consideration of learners, teachers, agency, knowledge, content & learning aims, available technologies, time and other constraints etc). Especially, if as at most institutions, you have to do this in at least a few thousand different course contexts. 
 As I commented on Twitter, 
 
