@@ -10,6 +10,7 @@ Maybe this will enable me to complete more of the posts I start.
 
 ### Work in progress
 
+- [ ] [[reflections-on-design-systems-talk]]
 - [ ] [[integrating-zotero-into-memex]]
   Documenting exploration and plans for integrating Zotero into my PKM with memex
 - [ ] [[what-help-do-we-provide-for-online-teaching]]
@@ -40,6 +41,7 @@ Maybe this will enable me to complete more of the posts I start.
 [supporting-the-design-of-discipline-specific-learning-spaces]: supporting-the-design-of-discipline-specific-learning-spaces "supporting-the-design-of-discipline-specific-learning-spaces"
 [digital-education-conservation-complexity]: digital-education-conservation-complexity "digital-education-conservation-complexity"
 [learning-design-conservation_complexity]: learning-design-conservation_complexity "Learning activities and issues with the conservation of complexity"
+[twitter-memex-wordpress]: twitter-memex-wordpress "Twitter Memex Wordpress"
 [gettingstarted]: gettingstarted "Getting started with memex"
 [pondering-hax-web-components-and-blackboard]: pondering-hax-web-components-and-blackboard "Pondering Hax Web Components and Blackboard"
 [visualising-and-pruning-my-memex]: visualising-and-pruning-my-memex "visualising-and-pruning-my-memex"
