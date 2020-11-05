@@ -21,6 +21,7 @@ Maybe this will enable me to complete more of the posts I start.
 - [ ] [[supporting-the-design-of-discipline-specific-learning-spaces]]
 - [ ] [[digital-education-conservation-complexity]]
 - [ ] [[learning-design-conservation_complexity]] - 
+- [ ] [[twitter-memex-wordpress]]
 
 ### Completed
 
@@ -38,7 +39,7 @@ Maybe this will enable me to complete more of the posts I start.
 [broader-implications-hax-web-compontents]: broader-implications-hax-web-compontents "Broader Implications Hax Web Compontents"
 [supporting-the-design-of-discipline-specific-learning-spaces]: supporting-the-design-of-discipline-specific-learning-spaces "supporting-the-design-of-discipline-specific-learning-spaces"
 [digital-education-conservation-complexity]: digital-education-conservation-complexity "digital-education-conservation-complexity"
-[learning-design-conservation_complexity]: learning-design-conservation_complexity "Digital learning activities and issues with the conservation of complexity"
+[learning-design-conservation_complexity]: learning-design-conservation_complexity "Learning activities and issues with the conservation of complexity"
 [gettingstarted]: gettingstarted "Getting started with memex"
 [pondering-hax-web-components-and-blackboard]: pondering-hax-web-components-and-blackboard "Pondering Hax Web Components and Blackboard"
 [visualising-and-pruning-my-memex]: visualising-and-pruning-my-memex "visualising-and-pruning-my-memex"
