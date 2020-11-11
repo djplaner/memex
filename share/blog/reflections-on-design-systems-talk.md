@@ -28,6 +28,13 @@ Joyce's solution to this scaling problem is [design systems](http://www.designbe
 
 The fundamental idea behind design systems is not new. Manufacturing, industrial design, and architecture (e.g. Alexander et al, 1977) have been using collection of modular components to share the knowledge required to construct large scale products for quite a while. Suarez et al ([n.d](https://www.designbetter.co/design-systems-handbook)) cite McIlroy's (1968) proposal for software components as a solution to the (first?) software crisis as inspiration for design systems. [Tesler's Law of the Conservation of Complexity](https://humanist.co/blog/law-of-conservation-of-complexity/) arises from addressing a similar problem 20 years later in dealing with the production of GUI software. The hypermedia community was talking about patterns and constructive templates in the late 1990s (Nanard, Nanard & Khan, 1998). Echoing work in object oriented programming (Gamma et al, 1995) that had significant impact on practice, and later work with design patterns for educational design and network learning (Jones, 1999; Goodyear, 2005) - that had less impact on practice.
 
+#### What is a design system?
+
+I was looking for a definition of a design system to use in this post. A task more difficult than I thought it should be. The first definition that started to resonate [I found here](https://uxdesign.cc/everything-you-need-to-know-about-design-systems-54b109851969)
+> A Design System is the single source of truth which groups all the elements that will allow the teams to design, realize and develop a product.
+
+A source that has a nice image outlining some common elements of a design system, including: identity spec; principles; best practices; components & patterns; tools; style guide and pattern library etc.
+
 ### Learning Design Systems
 
 Design systems for the web don't having anything to say about design for learning. Raising the question about what makes for a learnign design system?  Joyce's answer appears to answer this by adding fairly common contemporary practices in higher education, including: adopting a collection of learning design principles and standards; and, a focus on a collection of activity types.
@@ -54,21 +61,73 @@ And now onto the questions I have.
 
 I've seen examples
 
-### Where are the components?
-
-
+Also link to the ideas of outsourcing - private providers doing known things well - and point to ASCILITE special issue on unbundling - the Huijser paper?
 
 ### What about the reusability paradox?
 
+Look at the activity types, but make the connection to epistmeic fluency/practices or industry ready or some such.  Need to drill down to something more useful
+
+### What about a forward-oriented design perspective
+
+Mention the citation of the Goodyear text, but ask how do courses evolve?  Is there a need for a new project? Can the teachign team make changes? Does the initial project design affordances to help with evaluation and review?
+
+What about orchestration? What is designed to help with teaching beyond the standard LMS tools (i.e. suffering reusability)
+
 ### What about when design for learning doesn't/can't occur?
 
-More courses and teaching than designers. 
+More courses and teaching than designers.  **More to do with increasing production line/complexity/unbundling - link to AJET article https://ajet.org.au/index.php/AJET/issue/view/144
 
 Design system can help speed up the process of design.
 
 Goodyear quote about short-term design and comment that others don't design
 
 Provision of components that others can use
+
+### Where are the components?
+
+Just about everything I've read about design systems mentions components as a key ingredient.
+
+This apparent lack of components at the level of learning activity appears to extend into the Future Learn design systems - one of the more concrete and available learning related design systems. For example, the [higher level molecules](https://design-system.futurelearn.com/molecules) of their design system tend to be user interface elements (e.g. [card](https://design-system.futurelearn.com/molecules/card), [feedback message](https://design-system.futurelearn.com/molecules/feedback-message), and [timeline](https://design-system.futurelearn.com/molecules/timeline)). Where are the higher level components that could be used to construct a learning environment?
+
+The Future Learn systems uses the Atomic Design Methodology which has [five (non-linear) stages of design](https://atomicdesign.bradfrost.com/chapter-2/)
+1. Atoms 
+   > Basic HTML elements that can be broken down any further. Fairly abstract.
+2. Molecules
+   > Simple groups of atoms (e.g. search form) that have a specific purpose.
+3. Organisms
+   > Complex collections of atoms, molecules and other organisms (e.g. a header that includes a search form). Apparently, organisms provide "an important sense of context" and used to form specific sections of an interface.
+4. Templates
+   > A collection of components placed into a layout to specify a content structure. i.e. there is a focus on structure, rather than content.
+5. Pages
+   > Specific instances of templates.
+
+Folk at Future Learn [describe the confusion](https://www.futurelearn.com/info/blog/atomic-design-molecules-organisms) they had drawing the line between molecules and organisms. Hence they dropped organisms.
+
+Where would learning activity components fit in the Atomic Design Methodology? Would defining organisms as molecules that enable a specific learning activity/task be a place to add in an explicit learning and teaching focus?  Or is that just too low a level for an activity that might involve numerous people, completing quite complex tasks, extended over a lengthy time period? 
+
+### If and how do existing learning tools fit? Web and app-based?
+
+If and how can the functionality provided by Learning Management Systems and stand-alone systems (e.g. PebblePad, Echo360) fit into a design system? 
+
+Such systems generally don't play all that well together and when they do play together are limited to [LTI lego block integration](https://djon.es/blog/2020/01/30/three-mashup-types-for-digital-learning-and-teaching/#lti-the-problematic-lego-approach-metaphor-of-integration). There isn't a lot of ability to customise the look and feel to meet a particular design system.
+
+One answer would be that not everything should be part of the learning design system. Learner experiences should move beyond the defined learning environment into different personal and public spaces beyond learning. A model that suggests that the learning design system provides the organising back bone of the learner experience. Drawing in external tools and data where appropriate and pointing learners out into the broader world.
+
+
+
+Mention components as somethign that actually helps do something - Perhaps Ellis quote
+
+Is this presence of components that helps move beyond?
+
+### What might be some useful ways forward?
+
+
+One suggestion - linked to the Atom Design Methodology - is [collaboratively naming existing practices](https://alistapart.com/article/language-of-modular-design/) to develop a pattern language (Alexander cropping up again) of components. This idea starts with what is done at the moment, but aims to build a language that can be reused. One reservation I have is context. This process is suggested in the context of a web design house. A very different context than what generally passes for digital learning design in contempoary higher education. i.e. a mish mash of document files and ill-used discussion forums created because the affordances of the existing tools don't lend itself to effective design.
+
+This could lead into creation of Web components
+
+
+
 
 ## References
 
