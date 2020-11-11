@@ -10,6 +10,8 @@ The literature ([Jones, 2019](https://djon.es/blog/2019/08/08/exploring-knowledg
 
 I'm not sure what was described offers a complete solution. But that's probably more to do with my limitations and the limitations of a 60 minute webinar on a complex topic, than on inherent limitations in the approach. The following is my attempt to reflect on the webinar and identifying the outstanding questiions I'm thinking about.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iBU76mlA0_w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## A summary
 
 First, my summary of what was discussed with some broader connections made.
