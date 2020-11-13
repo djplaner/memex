@@ -1,20 +1,21 @@
 # Reflections on Design Systems Talk
 
 
-On October 30 I watched a [webinar](https://twitter.com/COL4D/status/1321838452271271936) given by Joyce Seitzinger ([@catspyjamasnz](https://twitter.com/catspyjamasnz)) and hosted by the [Commonwealth of Learning](https://www.col.org/) - "How Learning Design Systems can help scale and accelerate learning design". If you work in higher education helping with the practice of digital or [post-digital education](https://www.springer.com/journal/42438) - which is a bigger group of folk than it was 12 months ago - then I highly recommend the talk and the approach. (Though it appears that the CoL has yet made available a recording of the webinar.)
+On October 30 I watched a [webinar](https://twitter.com/COL4D/status/1321838452271271936) (recording below) given by Joyce Seitzinger ([@catspyjamasnz](https://twitter.com/catspyjamasnz)) and hosted by the [Commonwealth of Learning](https://www.col.org/). It was titled, "How Learning Design Systems can help scale and accelerate learning design". If you work in higher education helping with the practice of digital (or [post-digital education](https://www.springer.com/journal/42438)) - which is a bigger group of folk than it was 12 months ago - then I highly recommend the talk and the approach. 
 
 I consider this important work because it engages with one of the more challenging and important questions facing higher education
 > How might the diverse knowledge required for effective design for digital learning be shared and used sustainably and at scale?
+Or to put it more concretely how do Universities [move beyond providing guidance and actually help](https://lawriephipps.co.uk/reflections-week-twelve-people-wanted-help-we-gave-them-guidance/) with the provision of digital education.
 
-The literature ([Jones, 2019](https://djon.es/blog/2019/08/08/exploring-knowledge-reuse-in-design-for-digital-learning-tweaks-h5p-constructive-templates-and-casa/)) recognises this question as essential to higher education, but also identifies significant problems with existing solutions. Buying new technology, running PD sessions outlining the 5 guidelines for X aren't cutting it, or doing ad hoc design projects aren't cutting it. The work Joyce and her colleagues are doing with Learning Design Systems draws on successful practices from a different realm in an attempt to systematically answer the question.
-
-I'm not sure what was described offers a complete solution. But that's probably more to do with my limitations and the limitations of a 60 minute webinar on a complex topic, than on inherent limitations in the approach. The following is my attempt to reflect on the webinar and identifying the outstanding questiions I'm thinking about.
+The literature (e.g. the intro of [Jones, 2019](https://djon.es/blog/2019/08/08/exploring-knowledge-reuse-in-design-for-digital-learning-tweaks-h5p-constructive-templates-and-casa/)) recognises this question as essential to higher education, but also identifies significant problems with existing solutions. Buying new technology, running PD sessions outlining the "5 guidelines for X", or doing ad hoc instructional design projects aren't cutting it. The work Joyce and her colleagues are doing with Learning Design Systems draws on successful practices from a different realm in an attempt to systematically answer the question.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iBU76mlA0_w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+However, after listening to and reflecting on Joyce's talk I have some questions. I'm wondering if there are missing bits. Perhaps these bits are missing due to my limitations and the limitations of a (less than) 60 minute webinar on a complex topic. The following is my attempt to reflect on the webinar and identify the questiions I have about Joyce's approach and what it means for what I do. Feel free to let me know what I'm missing.
+
 ## A summary
 
-First, my summary of what was discussed with some broader connections made.
+First, my summary of the talk. With some connections to related resources.
 
 ### A familiar problem
 
@@ -61,37 +62,24 @@ And now onto the questions I have.
 
 ### Is it just a better conceptualised version of common practice?
 
-I've seen examples
+Much of what was discussed in the talk - a focus on activity types, constructive alignment, course recipe type abstractions, course development teams, course standards or principles - I have seen in use elsewhere. For example, [ABC Learning Design](https://abc-ld.org/) and the practices adopted by groups similar to RMIT Online (where Joyce works). Though in my experience those examples were perhaps as not complete and as consistently implemented as Joyce described.
 
-Also link to the ideas of outsourcing - private providers doing known things well - and point to ASCILITE special issue on unbundling - the Huijser paper?
+Beyond good implementation, I'm wondering what makes this work an example of a "design system" rather than an instructional design process/team?
 
-### What about the reusability paradox?
+Which brings me to the next question.
 
-Look at the activity types, but make the connection to epistmeic fluency/practices or industry ready or some such.  Need to drill down to something more useful
+### Where are the components? The learning activity components?
 
-### What about a forward-oriented design perspective
+In introducting design systems for the web, [Suarez et al (n.d)](https://www.designbetter.co/design-systems-handbook/introducing-design-systems) argue that design systems rely on the combination of 2 concepts: standards; and, **components**. Where they define components as
+> portions of reusable code within your system and they serve as the building blocks of your application’s interface.
 
-Mention the citation of the Goodyear text, but ask how do courses evolve?  Is there a need for a new project? Can the teachign team make changes? Does the initial project design affordances to help with evaluation and review?
+The Future Learn design system - fairly typically for a web design systems and cite by Joyce - provides a [collection of components](https://design-system.futurelearn.com/molecules). As Suarez et al (n.d) the benefit components provide is that they reduce "technical overhead". They do this by packaging necessary design knowledge into a reusable package. The presence of a wide collection of components that can be creatively mixed to build new designs is what makes it easier to scale design. 
 
-What about orchestration? What is designed to help with teaching beyond the standard LMS tools (i.e. suffering reusability)
+I didn't recognise any mention of components in Joyce's talk. The closest perhaps being the activity types. But I didn't see anything like the Future Learn catalogue of components.
 
-### What about when design for learning doesn't/can't occur?
+Even the Future Learn catalogue is also somewhat limited. All of the components appear to be fairly typical web interface (content) components. For example, [card](https://design-system.futurelearn.com/molecules/card), [feedback message](https://design-system.futurelearn.com/molecules/feedback-message), and [timeline](https://design-system.futurelearn.com/molecules/timeline)). None of which I'd consider learning activities. Hence the Future Learn system appears likely to help with scaling the design of the web pages/sites, but not so much help with scaling learning design.
 
-More courses and teaching than designers.  **More to do with increasing production line/complexity/unbundling - link to AJET article https://ajet.org.au/index.php/AJET/issue/view/144
-
-Design system can help speed up the process of design.
-
-Goodyear quote about short-term design and comment that others don't design
-
-Provision of components that others can use
-
-### Where are the components?
-
-Just about everything I've read about design systems mentions components as a key ingredient.
-
-This apparent lack of components at the level of learning activity appears to extend into the Future Learn design systems - one of the more concrete and available learning related design systems. For example, the [higher level molecules](https://design-system.futurelearn.com/molecules) of their design system tend to be user interface elements (e.g. [card](https://design-system.futurelearn.com/molecules/card), [feedback message](https://design-system.futurelearn.com/molecules/feedback-message), and [timeline](https://design-system.futurelearn.com/molecules/timeline)). Where are the higher level components that could be used to construct a learning environment?
-
-The Future Learn systems uses the Atomic Design Methodology which has [five (non-linear) stages of design](https://atomicdesign.bradfrost.com/chapter-2/)
+The Future Learn systems is based on the Atomic Design Methodology for web design systems.  Atomic Design has [five (non-linear) stages of design](https://atomicdesign.bradfrost.com/chapter-2/)
 1. Atoms 
    > Basic HTML elements that can be broken down any further. Fairly abstract.
 2. Molecules
@@ -106,6 +94,37 @@ The Future Learn systems uses the Atomic Design Methodology which has [five (non
 Folk at Future Learn [describe the confusion](https://www.futurelearn.com/info/blog/atomic-design-molecules-organisms) they had drawing the line between molecules and organisms. Hence they dropped organisms.
 
 Where would learning activity components fit in the Atomic Design Methodology? Would defining organisms as molecules that enable a specific learning activity/task be a place to add in an explicit learning and teaching focus?  Or is that just too low a level for an activity that might involve numerous people, completing quite complex tasks, extended over a lengthy time period? 
+
+Somewhere in here is also where [the PSU web component work](https://webcomponents.psu.edu/styleguide/?path=/story/about-getting-started--using-penn-state-cdn) enters the picture. This is a collection of web components which you can use now thanks to [their unbundled approach](https://dev.to/btopro/part-1-how-penn-state-unbundles-web-components-for-cdn-deployments-20di). An approach which I think is potentially very useful for a design system.  Though, at the moment, their components are also more focused on content than learning activities.
+
+### What about a forward-oriented design perspective?
+
+Dimitriadis and Goodyear ([2013](https://journal.alt.ac.uk/index.php/rlt/article/view/1402)) argue that design for learning (aka learning design) needs to be more forward-oriented.  That is, there's a need to move away from the view of design as producing a course (learning task/environment etc) so it's ready for the start of semester. To move away from the idea that design is somehow separate from the other stages in the lifecycle of a course. Instead, when designing, there's a need to actively consider what will be required during configuration, orchestration, evaluation, and reflection and respond to that. 
+
+Extending that to components, a learning activity component should not only embody design knowledge that helps with creating an effective, consistent interface. It needs to offer functionality that embodies design knowledge that helps learners and teachers during learntime (orchestration) etc. As a simple example, a component that [displays options for watching films](https://djon.es/blog/2020/08/15/supporting-the-design-of-discipline-specific-digital-learning-activities/) within learning material in a consistent, effective way (see image below) depending on how the institution has been able to provide access. A component that recognises the film availability changes and hence the learning materials need to be kept up to date. A process that can be painful if the film is mentioned multiple times. A component that supports configuration by drawing film availability from a spreadsheet. Allowing the teacher to change a single line and have that automatically applied throughout the learning materials.
+
+![](images/filmWatchOptions.png)
+
+### What about when learning design doesn't/can't occur?
+
+The RMIT online design system involves a team of five people with different skills helping with the design of each course. The literature has identified that this is a resource intensive approach and that such resources are not always possible. Joyce explains how their design system has reduced the required resources, enabling more scale. However, there is a limit to that. It's not possible (yet, perhaps) in all contexts. It's certainly not possible in the context in which I currently work. Nor has it been possible in any university in which I've worked over the last 30 years. Even where it was nominally possible - early 90s distance education - what passed for a team was very limited by a standardised "design system".
+
+Consequently, a lot of the development of digital education is the responsibility of teachers. No designer in sight. Goodyear ([2009](https://ltr.edu.au/resources/Goodyear%2C%20P%20ALTC%20Fellowship%20report%202010.pdf)) introduces two images of teachers: long arc; and, short arc. The long arc teacher takes time to think about designing a course and associated tasks. A short arc teacher doesn't have that time. Arguably, the prevalence of short arc teachers is increasing. Goodyear's (2009) suggestion to help short arc teachers - who won't make use of traditional support measures - is to "embed good ideas __in__ these tools" (p. 16). i.e. the tools the short arc teacher uses day to day.
+
+The short arc teacher resonates with the idea of a bricoleur. Someone when faced with a project does not engage in strategic analysis and design, but rather figures out how to achieve the project with the tools already at hand. A concept that has been previously applied to teachers (Hatton, 1989). A conception that suggests that if what teachers are currently doing with digital education is less than stellar, then the issue may be to do with the tools that they have at hand.
+
+I'm wondering if an effective learning activity design system that is available to teachers might help improve the quality of digital education/
+
+** insert card interface???**
+
+
+Design system can help speed up the process of design.
+
+This is also where bricolage comes into it
+
+Goodyear quote about short-term design and comment that others don't design
+
+Provision of components that others can use
 
 ### If and how do existing learning tools fit? Web and app-based?
 
@@ -137,13 +156,19 @@ Alexander, C., Ishikawa, S., & Silverstein, M. (1977). *A Pattern Language: Town
 
 Churchill, E. F. (2019). Scaling UX with design systems. *Interactions*, *26*(5), 22--23\. <https://doi.org/10.1145/3352681>
 
+Dimitriadis, Y., & Goodyear, P. (2013). Forward-oriented design for learning: Illustrating the approach. *Research in Learning Technology*, *21*, 1--13.
+
 Ellis, R. A., & Goodyear, P. (2019). *The Education Ecology of Universities: Integrating Learning, Strategy and the Academy*. Routledge.
 
 Gamma, E., Helm, R., Johnson, R., & Vlissides, J. (1995). *Design Patterns: Elements of Reusable Object-Oriented Software* (B. Kernighan, Ed.). Addison-Wesley.
 
 Goodyear, P. (2005). Educational design and networked learning: Patterns, pattern languages and design practice. *Australasian Journal of Educational Technology*, *21*(1). <https://doi.org/10.14742/ajet.1344>
 
+Goodyear, P. (2009). *Teaching, technology and educational design: The architecture of productive learning environments* (pp. 1--37). <https://ltr.edu.au/resources/Goodyear%2C%20P%20ALTC%20Fellowship%20report%202010.pdf>
+
 Goodyear, P. (2015). [Teaching As Design](http://www.herdsa.org.au/herdsa-review-higher-education-vol-2/27-50). *HERDSA Review of Higher Education*, *2*, 27-50.
+
+Hatton, E. (1989). Levi-Strauss's Bricolage and Theorizing Teachers' Work. *Anthropology and Education Quarterly*, *20*(2), 74--96.
 
 Jones, D., Stewart, S., & Power, L. (1999). Patterns: Using Proven Experience to Develop Online Learning. *ASCILITE*, 155-162\. <https://djon.es/blog/publications/patterns-using-proven-experience-to-develop-online-learning/>
 
