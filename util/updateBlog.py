@@ -36,8 +36,8 @@ def getFile(markDownFile):
         markDownData = f.read()
     f.close()
 
-#    print("--------------- original -------------")
-#    print(markDownData)
+    print("--------------- original -------------")
+    print(markDownData)
 #    print("--------------- HTML -------------")
 #    print(markdown.markdown(markDownData))
 
@@ -46,10 +46,10 @@ def getFile(markDownFile):
     x = re.match("```toml([^`]*)```(.*)", markDownData,
                  re.MULTILINE | re.DOTALL)
     # x = re.match("#^```(toml)", markDownData, re.MULTILINE  )
-#    print(x)
-#    print("TOML")
-#    print(x[1])
-#    print("TOML")
+    print(x)
+    print("TOML")
+    print(x[1])
+    print("TOML")
 
     postConfig = toml.loads(x[1])
     postContent = x[2]
