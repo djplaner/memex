@@ -22,6 +22,7 @@ Maybe this will enable me to complete more of the posts I start.
 - [ ] [[digital-education-conservation-complexity]]
 - [ ] [[learning-design-conservation_complexity]] - 
 - [ ] [[twitter-memex-wordpress]]
+- [ ] [[peak-homogenisation-in-post-digital-education]]
 
 ### Completed
 
@@ -42,6 +43,7 @@ Maybe this will enable me to complete more of the posts I start.
 [digital-education-conservation-complexity]: digital-education-conservation-complexity "digital-education-conservation-complexity"
 [learning-design-conservation_complexity]: learning-design-conservation_complexity "Learning activities and issues with the conservation of complexity"
 [twitter-memex-wordpress]: twitter-memex-wordpress "Twitter Memex Wordpress"
+[peak-homogenisation-in-post-digital-education]: peak-homogenisation-in-post-digital-education "Peak Homogenisation in Post Digital Education"
 [gettingstarted]: gettingstarted "Getting started with memex"
 [pondering-hax-web-components-and-blackboard]: pondering-hax-web-components-and-blackboard "Pondering Hax Web Components and Blackboard"
 [visualising-and-pruning-my-memex]: visualising-and-pruning-my-memex "visualising-and-pruning-my-memex"
