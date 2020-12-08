@@ -37,6 +37,7 @@ And unallocated notes in [[loose]]
 [learning]: learning "Learning"
 [nodt]: nodt "Nature of Digital Technology"
 [paper-ideas]: paper-ideas "Paper Ideas"
+[paper-summaries]: paper-summaries "Paper Summaries"
 [python]: python "Python"
 [quality-and-teaching]: quality-and-teaching "Quality and teaching"
 [recipes]: recipes "Recipes"
