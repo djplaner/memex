@@ -4,7 +4,6 @@ Collection of articles, web pages etc that I need to read.
 
 - Manzini E (2015) Design, when everybody designs: an introduction to design for social innovation
 
-- [Shaping spaces - Peter Goodyear keynote ALTC 2017](https://www.youtube.com/watch?v=bpG87z6MXrI)
 - [Computation notebook HCI/PL presentation](https://onedrive.live.com/view.aspx?resid=23A98B32CC5D3F92!164971&ithint=file%2cpptx&authkey=!AEJf_FUrs2QcomQ)
   Includes a research methodology for exploring what the challenges are for computational notebooks. Might be interesting/inspirational for educational technology research
 - [Enacting accountability in IS research after the sociomaterial turn(ing)](https://aisel.aisnet.org/jais/vol21/iss4/10/) 
