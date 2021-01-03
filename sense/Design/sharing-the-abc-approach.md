@@ -2,6 +2,16 @@
 
 Hasenknopf, B., Michou, V., Milani, M., Perovic, N., & Young, C. (n.d.). [Sharing the ABC approach to learning design across three European Universities](https://eua.eu/downloads/content/2019.39_hasenknopf_michou_milani_perovic_young.pdf). *European University Association (EUA), 2019 European Learning & Teaching Forum*.
 
+## Early thoughts
+
+The [ABC learning design approach](https://abc-ld.org/) has a lot going for it, but it's not perfect nor universal. The authors report on the experience of rolling it out at two new institutions and the gaps that needed to be filled. Largely around better contextualisation into the specifics of the institution and its people.
+
+### Questions I have 
+
+1. How and with what impacts the concepts and artefacts produced by engaging with the ABC Learning Design approach can be better integrated across the entire life cycle? i.e. not just design, but also implementation, orchestration, reflection and re-design. i.e. a more [[forward-oriented-design]] approach. 
+2. Can [Laurilard's six learning types](https://abc-ld.org/6-learning-types/) be used to identify, discuss, and curate the "manageably small set of particularly valued activity systems" identified by Ellis and Goodyear (2019, p. 188)? They argue that a focus on such a set is a sustainable way to bring together education, technology, and facilitities management into a useful collaboration to improve learning. But what activity systems are required/valued? Does a process like the ABC approach and its focus on the 6 activity types help to identify those?
+3. If and how would Goodyear's (2019) "short arc" academics engage in something like the ABC approach? "Short arc" academics are time pressed, reactive and tend not to engage in more formal design of learning and teaching. For better or worse, they make up a significant proportion of the population.
+
 ## Abstract
 
 The European universities wanted digitally rich learning experiences but not all teachers had "the design skills, technology knowledge and time to remodel their courses".  The ABC approach was rolled out and successfully used at two institutions.
