@@ -6,6 +6,7 @@ Bubble holding misc. thoughts about design.
 
 - [[conservation-of-complexity]]
 - [[goodyear-shaping-spaces]]
+
 ## Design systems
 
 - [[atomic-design]]
