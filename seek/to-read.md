@@ -22,9 +22,9 @@ Collection of articles, web pages etc that I need to read.
 
 ## How to help improve teaching and learning
 
-- [The challenge of teachers' design practice](https://www.google.com.au/books/edition/Rethinking_Pedagogy_for_a_Digital_Age/F7On-O2VrYUC?hl=en&gbpv=1&pg=PA64&printsec=frontcover) - Okay, there are design tools but how do they fit with how teachers actually design? The implications and conclusions look **very** interesting.
+- Joshi, M., & Alavaikko, M. (2020). Service design approaches and applications in higher education: A thematic literature review. *Art, Design & Communication in Higher Education*, *19*(2), 241--255\. <https://doi.org/10.1386/adch_00025_1>
 - [A mixed-method study of how instructors design for learning in online and distance education](https://learning-analytics.info/index.php/JLA/article/view/6807) - use of analytics and surveys "for a better understanding of the complex design process in online distance higher education"
-- [Design as a discipline for Postdigital learnign and Teaching: Bricolage and Actor-Network Theory](https://link-springer-com.libraryproxy.griffith.edu.au/article/10.1007/s42438-019-00036-z) - more general but interesting theoretical perspective
+- [Design as a discipline for Postdigital learning and Teaching: Bricolage and Actor-Network Theory](https://link-springer-com.libraryproxy.griffith.edu.au/article/10.1007/s42438-019-00036-z) - more general but interesting theoretical perspective
 ## Related to [[problems-with-modular-thinking]]
 
 - [Modularity in the design of complex engineering systms](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.466.513&rep=rep1&type=pdf)
