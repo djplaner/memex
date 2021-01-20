@@ -9,6 +9,17 @@ Ivan Illich - _Tools for Convivality_
 > "...The crisis can be solved only ... if we give people tools that guarantee their right to work with high, independent efficiency, thus simultaneously eliminating the need for either slaves or masters and enhancing each person's range of freedom. People need new tools to work with rather than tools that "work" for them.
 
 @voineaDesigningConviviality2018
+## Computing Convivality
+
+[Blog post](http://dailyimprovisation.blogspot.com/2021/01/computing-conviviality.html) by Mark Johnson.
+
+_Marked up in hypothes.is_
+
+- Offers a description of Convivality
+- Identifies some of the factors causing problems in achieving this related to SET mindset
+- Identifies how/why digital technologies are not convivial and suggests some possible solutions
+
+
 
 ## Convivial design heuristics for software systems
 
