@@ -22,6 +22,7 @@ Collection of articles, web pages etc that I need to read.
 
 ## How to help improve teaching and learning
 
+- Goodyear, P., Carvalho, L., & Yeoman, P. (2021). Activity-Centred Analysis and Design (ACAD): Core purposes, distinctive qualities and current developments. *Educational Technology Research and Development*. <https://doi.org/10.1007/s11423-020-09926-7>
 - Reeves, T. C., & Lin, L. (2020). The research we have is not the research we need. *Educational Technology Research and Development*, *68*(4), 1991--2001\. <https://doi.org/10.1007/s11423-020-09811-3>
 - Wasson, B., & Kirschner, P. A. (2020). Learning Design: European Approaches. *TechTrends*, *64*(6), 815--827\. <https://doi.org/10.1007/s11528-020-00498-0>
 - Zimmerman, W., Altman, B., Simunich, B., Shattuck, K., & Burch, B. (2020). Evaluating Online Course Quality: A Study on Implementation of Course Quality Standards. *Online Learning*, *24*(4), Article 4\. <https://doi.org/10.24059/olj.v24i4.2325>

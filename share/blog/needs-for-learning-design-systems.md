@@ -1,9 +1,28 @@
 # Needs for Learning Design Systems
 
-Like many others working in "learning design" roles in higher education
-I currently face a problem at work that is being consider
-Need/push/interest in adopting more formal approaches to learning design in higher education
-_give examples_ Tim, Joyce, ABC learning design 
+The 2020 rush to emergency online teaching...
+- We got thru it.
+- but showed issues - even the nature of the Swinburne add showing student complainign "all we do is watch videos"
+
+Universities do a lot to improve the quality of learnign and teaching - emplying instructional designers, providing professional development, sourcing technologies, adopting institutional policies and procedures (Bennet et al 2017; ??Ellis and Goodyear 2019??).   
+
+But limited attention is paid to how teachers design learning and more importantly if and how institutions encourage and enable the quality of that design work.
+
+I've been following with interest the work of Joyce and Tim toward the adoption of activity-based design systems and processes. But my interest is slightly different.  Both Joyce and Tim lead design teams. i.e. the "instructional designers" that Bennett et al explain above as one of the strategies adopted by organisations. Engagement with those teams can produce good quality learning and teaching, but engagement with those teams doesn't scale to every course. A lot of teachers are still left to their own devices to engage in design.
+
+My question here is 
+> What are the systems and processes provided by an institutional L&T environment to help teachers (not working with design teams) engage in design for learning?
+
+Bennett et al (2017) suggest that 
+> A first step in building teacher design capacity, though, is to understand teachers’ current design practice.
+
+My question takes an ecological perspective on understanding teacher's design practice and how to build design capacity. The environment in which this work takes place can enable or hinder this work. My fear is that the current environment is more likely to hinder than enable. Does it? If it does, what might be done to improve it? In particular, how might it be changed to encourage a more activity based and forward-oriented approach to design?
+
+By _design for learning_ I mean 
+
+- forward-oriented design, linked to bennet's over time stuff
+- developing a new course, designing an offering of a course
+- informed by my current institution but also including experiences at other institutions
 
 I'm interested.
 
