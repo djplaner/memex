@@ -21,6 +21,7 @@ Bubble holding misc. thoughts about design.
 
 - [[challenge-of-teachers-design-practice]]
 - [[understanding-university-teachers-design-work]]
+
 ## Future thinking
 
 - [[three-horizons-model]]
