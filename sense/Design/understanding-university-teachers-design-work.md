@@ -4,9 +4,49 @@ Bennett, S., Agostinho, S., & Lockyer, L. (2017). [The process of designing for 
 
 ## Summary
 
-Collection of experienced teachers are interviewed to extract a descriptive model of how teachers go about designing student learning experiences (courses).
+Collection of experienced teachers are interviewed to extract a descriptive model (see below) of how teachers go about designing student learning experiences (courses). Major points highlighted in section headings in the *results* section, include:
+
+- The starting point depended on the nature of the design problem
+- Design moved from broad considerations to specific detail
+- Design occurred before, during, and after a unit's implementation
 
 ![](2021-01-26-08-31-51.png)
+*A descriptive model of university teacher's design processes (adapted from Bennett et. al., 2017)*
+
+### Thoughts
+
+#### Fit with current practice: "curriculum" design and "learning" design...but!
+
+Resonates with existing institutional practice with the course profile somewhat filling the *broad design* activity and with delivery prep more focused on *specific design*.  
+
+Though it's not a 100% neat fit. The question of where to draw the line.
+
+Importantly, "specific design" involves an iterative process of "continuously reflecting on both their broad and specific design decisions to ensure that all unit components aligned".
+
+**Questions** How well do existing institutional systems support an iterative process?
+
+#### Starting point dependent on nature of the design problem
+
+One of they key observations is that there are two broad, but very different, starting points
+
+1. Design of a new unit; and,
+2. Redesign of an existing unit. (e.g. significant changes in content topics or changes in delivery mechanism, but typically not involving changes in learning outcomes) 
+
+The first is typically what instructional designers assume they are doing. But a fair bit of what we're doing is more the second point.
+
+**Questions** How well do existing institutional systems support this distinction?
+
+#### Forward oriented design
+
+Participants describe a design process extending over multiple offerings (whilst they remain involved with a course) "rather than being a more tightly defined 'project'" 
+
+**Questions** How do you support design beyond projects? How do you encourage/support on-going reflection and re-design? i.e. how do you support a forward oriented design approach.
+
+#### Shortage of relevant practical and conceptual supports for teacher design
+
+Early on suggests that building design capacity of teachers "is critical" (citing Goodyear). Findings said to support similar findings from other others (Mor and Craft, 2012; Goodear, 2015) that there is an absence of support.
+
+Argue that such supports "are more likely to be adopted if they first seek to connect with teachers' existing practices". i.e. meet immediate needs, address familiar problems to encourage adoption and from there "seek to enhance and extend teachers' design practice".
 
 ## Extracted Annotations (1/26/2021, 8:22:37 AM)
 
