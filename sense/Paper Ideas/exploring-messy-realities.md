@@ -9,7 +9,11 @@ Fawns (2019, p. 138)
 - Historically little adoption has happened and where it has it hasn't changed practice of teachers
 - The post-digital lens suggests that this is because little attention is paid to the context (e.g. quote above)
 - CASA approach is explicitly targetted at/arises from the contextual
-- How does this change how it is adopted and used
+- Research questions - what does this type of adoption and development look like?
+  - What was the reality that drove the adoption of the CASA
+  - What was the experience of using it
+  - What issues did it arise
+  - What was its future?
 - Multi-method research to explore if and how the two existing CASA have been used
   - Quantiative studies of usage
   - Case study descriptions of development and spread
