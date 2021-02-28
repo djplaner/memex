@@ -22,6 +22,8 @@ Collection of articles, web pages etc that I need to read.
 
 ## How to help improve teaching and learning
 
+- Carvalho, L., & Yeoman, P. (2021). Performativity of Materials in Learning: The Learning-Whole in Action. *Journal of New Approaches in Educational Research*, *10*(1), 28--42\. <https://doi.org/10.7821/naer.2021.1.627>
+- Yeoman, P., & Carvalho, L. (2019). Moving between material and conceptual structure: Developing a card-based method to support design for learning. *Design Studies*, *64*, 64--89\. <https://doi.org/10.1016/j.destud.2019.05.003>
 - Goodyear, P., Carvalho, L., & Yeoman, P. (2021). Activity-Centred Analysis and Design (ACAD): Core purposes, distinctive qualities and current developments. *Educational Technology Research and Development*. <https://doi.org/10.1007/s11423-020-09926-7>
 - Carvalho, L., & Yeoman, P. (2019). Connecting the dots: Theorizing and mapping learning entanglement through archaeology and design. *British Journal of Educational Technology*, *50*(3), 1104--1117\. <https://doi.org/10.1111/bjet.12761>
 - Reeves, T. C., & Lin, L. (2020). The research we have is not the research we need. *Educational Technology Research and Development*, *68*(4), 1991--2001\. <https://doi.org/10.1007/s11423-020-09811-3>
