@@ -39,18 +39,19 @@ My thinking is bundled up with the [CASA design princples](https://djon.es/blog/
 
 The Card Interface address an unfulfilled need. The default Blackboard Learn interface is ugly and people want it to look better. But there isn't much help coming from elsewhere.
 
+The Content Interface isn't as widely used. I wonder if part of that is because the _activity_ it helps with is broader and more widely interpreted. i.e. what people think of as "online content", how they develop it, and what they see as necessary covers a very wide spectrum. Meaning seeing the Content Interface as a solution to how I develop online content is much harder.
+
 > 2. CASA should be built using and result in _generative technologies_
 
 Early versions of the Card Interface didn't do much. But over the years its evolved and added features. Perhaps making it more useful?
 
 I think a key point is that the Card Interface is generative for the designer. It provides some scope for the designer to change how it works. The most obvious example being the easy inclusion of images.
 
-> 4. CASA should package appropriate design knowledge to enable (re-)user by teachers and students.
+It would be interesting to explore more if and how people have used the Card Interface in different and unexpected ways. Or, have they stuck to the minimum.
 
-No need for people 
+> 4. CASA should package appropriate design knowledge to enable (re-)use by teachers and students.
 
-How have they used them? What for?
+To [paraphrase Stephen Downes](https://www.downes.ca/post/72056) this is where a CASA does things right thereby "allowing designers to focus on the big things". Just the ability to implement a card interface is a good first start, but I also wonder how much some of the more contextual design knowledge built into the Card and Content Interface influence use? e.g. the [university date feature](https://djon.es/blog/2021/03/06/do-the-little-things-matter-in-design-for-learning/) of both.
 
-## Broader implications?
-
+It would be good to test this hypotheses.
 
