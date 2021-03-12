@@ -8,7 +8,9 @@ category="casa"
 img_base_url="https://djplaner.github.io/memex/share/blog/"
 ```
 
-In late 2018 I started work at an institution using [Blackboard Learn](https://en.wikipedia.org/wiki/Blackboard_Learn). My first project helping "put online" a group of 7 courses highlighted just how ugly Blackboard sites could be and how hard it was to do anything about it. By January 2019 [I shared the solution](https://djon.es/blog/2019/01/30/improving-reuse-of-design-knowledge-in-a-lms/) I'd developed - [the Card Interface](https://github.com/djplaner/Card-Interface-Tweak). Below is a before/after image illustrating how the Card Interface 'tweaks' a standard Blackboard Learn content area into something more visual and contemporary. To do this you add some provided Javascript to the page and then add some card meta data to the other items.
+In late 2018 I started work at an institution using [Blackboard Learn](https://en.wikipedia.org/wiki/Blackboard_Learn). One of my first projects was helping "put online" a group of 7 courses. That project highlighted just how ugly Blackboard sites could be and how hard it was make them pretty.  By January 2019, I'd developed and [shared one solution](https://djon.es/blog/2019/01/30/improving-reuse-of-design-knowledge-in-a-lms/) I'd developed - [the Card Interface](https://github.com/djplaner/Card-Interface-Tweak). 
+
+The following image is a before/after image. Before is a standard (actually pretty good) Blackboard content area. After is the same content area with the Card Interface. To do this you add an item including [some provided Javascript](https://raw.githubusercontent.com/djplaner/Card-Interface-Tweak/master/tweak.js) and then add some card meta data to the other items.
 
 ![](images/2021-03-12-05-20-10.png)
 
@@ -18,26 +20,24 @@ Since 2019, the work has since grown in three ways:
 2. Conceptually through the [development of some design principles](https://djon.es/blog/2019/08/08/exploring-knowledge-reuse-in-design-for-digital-learning-tweaks-h5p-constructive-templates-and-casa/#initial-design-principles-adr-stage-4) for this type of artefact (dubbed Contextually Appropriate Scaffolding Assemblages - CASA). 
 3. Uptake of the Card Interface (and to a lesser extent the Content Interface) within my institution and beyond.
 
+The aim here is to reflect on that uptake.
+
 ## The spread - Card Interface Usage - Jan-March 2021
 
-The following graph illustrates the number of unique Blackboard sites that have requested the Card Interface javascript file in the first few months of 2021. In the same time frame, the Content Interface has been used by a bit over 70 Griffith University sites.
+The following graph illustrates the number of unique Blackboard sites that have requested the Card Interface javascript file in the first few months of 2021. During the same period, the Content Interface has been used by just over 70 Griffith University sites.
 
 ![](images/2021-03-12-05-31-00.png)
 
-The heaviest use is within the institution where this all started. Usage this year is up from the original 7 courses at the same time in 2019. What's surprising about this spread is that this work is not an officially approved technology. It's just a kludgge developed by some guy that works for one of the L&T areas in the institution. Uptake appears to have largely happened through word of mouth.
+The heaviest use is within the institution where this all started. Up from the original 7 courses during the same time in 2019. What's surprising about the uptake is that this work is not institutionally  approved. It's just a kludge developed by some guy working for one of the L&T areas. Uptake appears to have largely happened through word of mouth.
 
-Adoption beyond the original institution - especially in Ireland - was sparked by 
-[this chance encounter on Twitter](https://twitter.com/djplaner/status/1281688249753165824?ref_src=twsrc%5Etfw") (for the life of me I can't figure out to embed a good visual of this tweet, it used to be easy). Right person, right time. More on that below.
+Adoption beyond the original institution - especially in Ireland - was sparked by [this chance encounter on Twitter](https://twitter.com/djplaner/status/1281688249753165824?ref_src=twsrc%5Etfw"). Definitely a case of right person ([@iainmacl](https://twitter.com/iainmacl?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)), right time, right need. More on that below.
+
+(For the life of me I can't figure out to embed a good visual of this tweet, it used to be easy). 
 
 ![](images/2021-03-12-11-42-53.png)
 ## Reflections
 
-So why has it played out this way? 
-
-What follows are my current reflections bundled up with the [CASA design princples](https://djon.es/blog/2019/08/08/exploring-knowledge-reuse-in-design-for-digital-learning-tweaks-h5p-constructive-templates-and-casa/#initial-design-principles-adr-stage-4). 
-
-Would be interesting (to me at least) to actually ask and find out.
-
+So why has it played out this way? What follows are my current reflections bundled up with the [CASA design princples](https://djon.es/blog/2019/08/08/exploring-knowledge-reuse-in-design-for-digital-learning-tweaks-h5p-constructive-templates-and-casa/#initial-design-principles-adr-stage-4). Would be interesting (to me at least) to actually ask and find out.
 ### 1. A CASA should address a specific _contextual_ need within a specific _activity_
 
 The Card Interface address an unfulfilled need. The default Blackboard Learn interface is ugly and people want it to look better. And there isn't much help coming from elsewhere. The Irish adoption of the Card Interface that this isn't a problem restricted to my institution.

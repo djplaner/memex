@@ -10,7 +10,6 @@ Maybe this will enable me to complete more of the posts I start.
 
 ### Work in progress
 
-- [ ] [[growth-of-the-card-interface]]
 - [ ] [[needs-for-learning-design-systems]]
 - [ ] [[integrating-zotero-into-memex]]
   Documenting exploration and plans for integrating Zotero into my PKM with memex
@@ -28,6 +27,7 @@ Maybe this will enable me to complete more of the posts I start.
 
 ### Completed
 
+- [x] [[growth-of-the-card-interface]]
 - [x] [[do-little-things-matter]]
 - [X] [[gettingstarted]]
   Connecting memex with my blog and inserting content from wikity
