@@ -10,7 +10,7 @@ img_base_url="https://djplaner.github.io/memex/share/blog/"
 
 In late 2018 I started work at an institution using [Blackboard Learn](https://en.wikipedia.org/wiki/Blackboard_Learn). My first project helping "put online" a group of 7 courses highlighted just how ugly Blackboard sites could be and how hard it was to do anything about it. By January 2019 [I shared the solution](https://djon.es/blog/2019/01/30/improving-reuse-of-design-knowledge-in-a-lms/) I'd developed - [the Card Interface](https://github.com/djplaner/Card-Interface-Tweak). Below is a before/after image illustrating how the Card Interface 'tweaks' a standard Blackboard Learn content area into something more visual and contemporary. To do this you add some provided Javascript to the page and then add some card meta data to the other items.
 
-![](2021-03-12-05-20-10.png)
+![](images/2021-03-12-05-20-10.png)
 
 Since 2019, the work has since grown in three ways:
 
@@ -22,14 +22,14 @@ Since 2019, the work has since grown in three ways:
 
 The following graph illustrates the number of unique Blackboard sites that have requested the Card Interface javascript file in the first few months of 2021. In the same time frame, the Content Interface has been used by a bit over 70 Griffith University sites.
 
-![](2021-03-12-05-31-00.png)
+![](images/2021-03-12-05-31-00.png)
 
 The heaviest use is within the institution where this all started. Usage this year is up from the original 7 courses at the same time in 2019. What's surprising about this spread is that this work is not an officially approved technology. It's just a kludgge developed by some guy that works for one of the L&T areas in the institution. Uptake appears to have largely happened through word of mouth.
 
 Adoption beyond the original institution - especially in Ireland - was sparked by 
 [this chance encounter on Twitter](https://twitter.com/djplaner/status/1281688249753165824?ref_src=twsrc%5Etfw") (for the life of me I can't figure out to embed a good visual of this tweet, it used to be easy). Right person, right time. More on that below.
 
-![](2021-03-12-11-42-53.png)
+![](images/2021-03-12-11-42-53.png)
 ## Reflections
 
 So why has it played out this way? 
