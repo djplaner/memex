@@ -9,6 +9,7 @@
 ### Indian
 
 - [[chilli-chicken]]
+- [Serious Eats' Lamb Biryani](https://www.seriouseats.com/recipes/2020/07/lamb-biryani.html)
 
 ### Baking
 
