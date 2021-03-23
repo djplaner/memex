@@ -15,6 +15,7 @@ Bubble holding misc. thoughts about design.
 
 ## ABC Learning design
 
+- [[abc-learning-design-explained]]
 - [[sharing-the-abc-approach]]
 
 ## Teacher practice
@@ -32,6 +33,7 @@ Bubble holding misc. thoughts about design.
 [atomic-design]: atomic-design "Atomic Design"
 [design-systems]: design-systems "Design Systems"
 [joyce-learning-design-systems]: joyce-learning-design-systems "Joyce Learning Design Systems"
+[abc-learning-design-explained]: abc-learning-design-explained "abc-learning-design-explained"
 [sharing-the-abc-approach]: sharing-the-abc-approach "Sharing the ABC Approach"
 [challenge-of-teachers-design-practice]: challenge-of-teachers-design-practice "Challenge of Teachers Design Practice"
 [understanding-university-teachers-design-work]: understanding-university-teachers-design-work "Understanding University Teachers Design Work"
