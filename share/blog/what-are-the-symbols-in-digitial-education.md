@@ -1,4 +1,3 @@
-
 ```toml
 post_title='What are the symbols in digital education/design for learning?'
 layout="post"
@@ -29,15 +28,21 @@ Which seem to beg questions like
 2. What are the symbols that those digital technologies encode, input, process and output?
 3. How do those symbols and tasks evolve over time and contribute to the "continuing and evolving entanglement" of the L&T sociotechnical system?
 
-It's not hard to find literature talking about the traditional, one-ring-to-rule-them-all Learning Management System as being focused largely on "management" i.e. administration. Indeed, the one universal set of tasks supported by digital technology in higher education appears to be focused on student enrolment, grade management, and timetabling. Perhaps because courses, programs, grades, and timetbales are the only symbols that are consistent across the institution.
+## Symbol systems in L&T - focus on management
+
+It's not hard to find literature talking about the traditional, one-ring-to-rule-them-all Learning Management System as being focused largely on "management" i.e. administration. Indeed, the one universal set of tasks supported by digital technology in higher education appears to be focused on student enrolment, grade management, and timetabling. Perhaps because courses, programs, grades, and timetables are the only symbols that are consistent across the institution.
 
 When you enter the nitty, gritty of learning and teaching in specific disiplines you leave consistency behind and enter a diverse world of competing traditions, pedagogies, and ways of seeing the world. A world where perhaps the most commonly accepted symbols are lectures, tutorials, assignments, exams, grades. Again somewhat removed from the actual practice of learning and teaching.
+
+## The NGDLE
 
 To deal with this diversity institutions are moving to [Tech Ecoysystems](https://teaching-resources.griffith.edu.au/technology-ecosystem/) aka Next-Generation Digital Learning Environments (NGDLE). The NGDLE rationale is that no one digital technology (e.g. the LMS) can provide it all. You'll need an ecosystem that will "allow individuals and institutions the opportunity to construct learning environments tailored to their requirements and goals” (Brown et al., 2015, p. 1).
 
 Recent personal experience suggests, however, that what currently passes for such an ecosystem is a collection of disaparte tools. Where each tool has its own set of symbols to represent what it does. Symbols that typically aren't those assumed by other tools in the ecosystem, or commonly in use by the individuals and organisations using the tools. The main current solution to this symbolic tower of babel is the LTI standard, which defines a standard way for these disparate tools to share information. Information that is pretty much the same standard symbols identified above. i.e. student identity, perhaps membership, and marks/grades.
 
 Consquently, the act of constructing a learning environment tailored to the requirements of an individual or a course is achieved by somehow understanding and cobbling together these disaparate symbol systems and the technologies that embody them. Not surprisingly, a pretty difficult task.
+
+## Constructing learning environments
 
 At the other end, there are projects like [ABC Learning Design](https://abc-ld.org/) that provide symbols and increasingly digitial technologies for manipulating those symbols for design for learning that could be integrated into sociotechnical systems. For example, work [at University of Sydney](https://educational-innovation.sydney.edu.au/teaching@sydney/doing-learning-design-for-online-while-online/) or [ways of using digital technology](https://medium.com/i3hs-hub/designing-and-planning-your-online-course-with-trello-ad0ce1637fad) to harness these symbols to marry curriculum design with project management. Which appears to finally provide digital technology that is supporting symbol computation that is directly related to learning and teaching and can be used across a variety of tasks and contexts.
 
