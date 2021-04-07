@@ -22,7 +22,7 @@ Given this mismatch, is it any surprise that there are concerns and signs that a
 
 My argument is that actually improving learning and teaching requires moving to [level 3 of improving teaching](https://djon.es/blog/2009/02/26/improving-university-teaching-learning-from-constructive-alignment-by-not-mandating-it/#3-levels-of-improving-teaching) - "What the teacher does". What Biggs (2001) suggests as focusing on teaching, not individual teachers. Ensuring that the institutional systems, processes, policies etc. all encourage and enable effective teaching practice and move toward [a distributive view of learning and knowledge](https://djon.es/blog/2015/01/06/tpack-as-shared-practice-toward-a-research-agenda/#a-distributive-view-of-learning-and-knowledge).
 
-This is not a simle task. It is complex. It is [a wicked problem](https://en.wikipedia.org/wiki/Wicked_problem). There is no simple solution. There is no silver bullet. Formal teaching qualifications might be part of the broader solution, but I can't see it being **the** solution. I'm not convinced it is even likely to be the most beneficial contributor.
+This is not a simple task. It is complex. It is [a wicked problem](https://en.wikipedia.org/wiki/Wicked_problem). There is no simple solution. There is no silver bullet. Formal teaching qualifications might be part of the broader solution, but I can't see it being **the** solution. I'm not convinced it is even likely to be the most beneficial contributor.
 
 ## References
 
