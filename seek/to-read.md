@@ -2,9 +2,6 @@
 
 Collection of articles, web pages etc that I need to read.
 
-- Designing for Deep and Meaningful Student-to-Content Interactions. (2007). TechTrends, 51(4), 20–31. https://doi.org/10.1007/s11528-007-0052-6
-- Manzini E (2015) Design, when everybody designs: an introduction to design for social innovation
-
 - [Computation notebook HCI/PL presentation](https://onedrive.live.com/view.aspx?resid=23A98B32CC5D3F92!164971&ithint=file%2cpptx&authkey=!AEJf_FUrs2QcomQ)
   Includes a research methodology for exploring what the challenges are for computational notebooks. Might be interesting/inspirational for educational technology research
 - [Enacting accountability in IS research after the sociomaterial turn(ing)](https://aisel.aisnet.org/jais/vol21/iss4/10/) 
@@ -23,6 +20,10 @@ Collection of articles, web pages etc that I need to read.
 
 ## How to help improve teaching and learning
 
+- Brooker, P. (2019). My unexpectedly militant bots: A case for Programming-as-Social-Science. *The Sociological Review*, *67*(6), 1228--1248\. <https://doi.org/10.1177/0038026119840988>`
+- Designing for Deep and Meaningful Student-to-Content Interactions. (2007). TechTrends, 51(4), 20–31. https://doi.org/10.1007/s11528-007-0052-6
+- Manzini E (2015) Design, when everybody designs: an introduction to design for social innovation
+- Designing for Deep and Meaningful Student-to-Content Interactions. (2007). TechTrends, 51(4), 20–31. https://doi.org/10.1007/s11528-007-0052-6
 - Yeung, K. L., Carpenter, S. K., & Corral, D. (2021). A Comprehensive Review of Educational Technology on Objective Learning Outcomes in Academic Contexts. *Educational Psychology Review*. <https://doi.org/10.1007/s10648-020-09592-4>
 - Dimitriadis, Y., Martínez-Maldonado, R., & Wiley, K. (2021). Human-Centered Design Principles for Actionable Learning Analytics. In T. Tsiatsos, S. Demetriadis, A. Mikropoulos, & V. Dagdilelis (Eds.), *Research on E-Learning and ICT in Education* (pp. 277--296). Springer International Publishing. <https://doi.org/10.1007/978-3-030-64363-8_15>
 - Carvalho, L., & Yeoman, P. (2021). Performativity of Materials in Learning: The Learning-Whole in Action. *Journal of New Approaches in Educational Research*, *10*(1), 28--42\. <https://doi.org/10.7821/naer.2021.1.627>
