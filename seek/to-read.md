@@ -2,6 +2,7 @@
 
 Collection of articles, web pages etc that I need to read.
 
+- Designing for Deep and Meaningful Student-to-Content Interactions. (2007). TechTrends, 51(4), 20–31. https://doi.org/10.1007/s11528-007-0052-6
 - Manzini E (2015) Design, when everybody designs: an introduction to design for social innovation
 
 - [Computation notebook HCI/PL presentation](https://onedrive.live.com/view.aspx?resid=23A98B32CC5D3F92!164971&ithint=file%2cpptx&authkey=!AEJf_FUrs2QcomQ)
@@ -22,7 +23,6 @@ Collection of articles, web pages etc that I need to read.
 
 ## How to help improve teaching and learning
 
-- Designing for Deep and Meaningful Student-to-Content Interactions. (2007). TechTrends, 51(4), 20–31. https://doi.org/10.1007/s11528-007-0052-6
 - Yeung, K. L., Carpenter, S. K., & Corral, D. (2021). A Comprehensive Review of Educational Technology on Objective Learning Outcomes in Academic Contexts. *Educational Psychology Review*. <https://doi.org/10.1007/s10648-020-09592-4>
 - Dimitriadis, Y., Martínez-Maldonado, R., & Wiley, K. (2021). Human-Centered Design Principles for Actionable Learning Analytics. In T. Tsiatsos, S. Demetriadis, A. Mikropoulos, & V. Dagdilelis (Eds.), *Research on E-Learning and ICT in Education* (pp. 277--296). Springer International Publishing. <https://doi.org/10.1007/978-3-030-64363-8_15>
 - Carvalho, L., & Yeoman, P. (2021). Performativity of Materials in Learning: The Learning-Whole in Action. *Journal of New Approaches in Educational Research*, *10*(1), 28--42\. <https://doi.org/10.7821/naer.2021.1.627>
@@ -36,12 +36,15 @@ Collection of articles, web pages etc that I need to read.
 - Kimmons, R. (2020). Current Trends (and Missing Links) in Educational Technology Research and Practice. *TechTrends*, *64*(6), 803--809\. <https://doi.org/10.1007/s11528-020-00549-6>
 - [A mixed-method study of how instructors design for learning in online and distance education](https://learning-analytics.info/index.php/JLA/article/view/6807) - use of analytics and surveys "for a better understanding of the complex design process in online distance higher education"
 - [Design as a discipline for Postdigital learning and Teaching: Bricolage and Actor-Network Theory](https://link-springer-com.libraryproxy.griffith.edu.au/article/10.1007/s42438-019-00036-z) - more general but interesting theoretical perspective
+
 ## Related to [[problems-with-modular-thinking]]
 
 - [Modularity in the design of complex engineering systms](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.466.513&rep=rep1&type=pdf)
-  - [The transformation of learning with technology: Learner-centricity, content and tool malleability and network effects](https://www-jstor-org.libraryproxy.griffith.edu.au/stable/44429655?seq=1#metadata_info_tab_contents)
-    - [Design, standards and reusability](http://www.downes.ca/cgi-bin/page.cgi?post=54)
+- [The transformation of learning with technology: Learner-centricity, content and tool malleability and network effects](https://www-jstor-org.libraryproxy.griffith.edu.au/stable/44429655?seq=1#metadata_info_tab_contents)
+- [Design, standards and reusability](http://www.downes.ca/cgi-bin/page.cgi?post=54)
+
 ## Misc other
+
 - [Towards a CAS roadmap for information systems research](https://eprints.qut.edu.au/111590/)
 - [Infrastructure as a complex adaptive system](https://www.hindawi.com/journals/complexity/2018/3427826/)
   Five key theoretical propertise of CAS
