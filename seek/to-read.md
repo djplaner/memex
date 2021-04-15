@@ -20,6 +20,7 @@ Collection of articles, web pages etc that I need to read.
 
 ## How to help improve teaching and learning
 
+- Markauskaite, L., & Goodyear, P. (2017). Creating Epistemic Environments: Learning, Teaching and Design. In L. Markauskaite & P. Goodyear (Eds.), Epistemic Fluency and Professional Education: Innovation, Knowledgeable Action and Actionable Knowledge (pp. 595–614). Springer Netherlands. https://doi.org/10.1007/978-94-007-4369-4_20
 - Brooker, P. (2019). My unexpectedly militant bots: A case for Programming-as-Social-Science. *The Sociological Review*, *67*(6), 1228--1248\. <https://doi.org/10.1177/0038026119840988>`
 - Designing for Deep and Meaningful Student-to-Content Interactions. (2007). TechTrends, 51(4), 20–31. https://doi.org/10.1007/s11528-007-0052-6
 - Manzini E (2015) Design, when everybody designs: an introduction to design for social innovation
