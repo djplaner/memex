@@ -22,6 +22,7 @@ Collection of articles, web pages etc that I need to read.
 
 ## How to help improve teaching and learning
 
+- Brooker, P. (2019). My unexpectedly militant bots: A case for Programming-as-Social-Science. *The Sociological Review*, *67*(6), 1228--1248\. <https://doi.org/10.1177/0038026119840988>`
 - Designing for Deep and Meaningful Student-to-Content Interactions. (2007). TechTrends, 51(4), 20–31. https://doi.org/10.1007/s11528-007-0052-6
 - Yeung, K. L., Carpenter, S. K., & Corral, D. (2021). A Comprehensive Review of Educational Technology on Objective Learning Outcomes in Academic Contexts. *Educational Psychology Review*. <https://doi.org/10.1007/s10648-020-09592-4>
 - Dimitriadis, Y., Martínez-Maldonado, R., & Wiley, K. (2021). Human-Centered Design Principles for Actionable Learning Analytics. In T. Tsiatsos, S. Demetriadis, A. Mikropoulos, & V. Dagdilelis (Eds.), *Research on E-Learning and ICT in Education* (pp. 277--296). Springer International Publishing. <https://doi.org/10.1007/978-3-030-64363-8_15>

@@ -15,6 +15,16 @@ The method would take different conceptions of technology (e.g. Dron, [postdigit
  
 This could be a full paper with a traditional 20/25 minute presentation. Or,  In 2019 ASCILITE did trial more interactive (and longer) sessions which didn't have a full paper. But focused more on active participation with the audience. e.g. a sequence of activities where others apply these newly introduced conceptions and derive their own implications
 
+## Introduction
+
+The web came with all sorts of promise (Berners-Lee)
+[From here](https://dighum.ec.tuwien.ac.at/dighum-manifesto/) the great digitisation of society is failing - "monopolisation of the Web, rise of extermist opinions and behaviour" etc. Echoes of this in higher education - with proctoring services, copy detection etc.
+
+Could make the point that we're into the second wave
+- First wave followed the dot com boom in the 90s. With online learning exploding and seen as something that would revolutionise higher education
+- Second wave - post-COVID - where it became a necessity, not a choice, to go online around the same time when University management explicitly killing off the lecture.
+
+As illustrated by the second wave, the first wave never really took off (with some exceptions) ...mention references...By the time the second wave is launching there are issues.
 
 ## References
 
