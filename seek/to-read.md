@@ -20,6 +20,9 @@ Collection of articles, web pages etc that I need to read.
 
 ## How to help improve teaching and learning
 
+- Martínez, C., & Olsson, T. (2021). Domestication outside of the domestic: Shaping technology and child in an educational moral economy. *Media, Culture & Society*, *43*(3), 480--496\. <https://doi.org/10.1177/0163443720948011>
+- Ovetz, R. (2020). The Algorithmic University: On-Line Education, Learning Management Systems, and the Struggle over Academic Labor. *Critical Sociology*, 0896920520948931\. <https://doi.org/10.1177/0896920520948931>*Ovetz---2020---The Algorithmic University On-Line Education, Lea.pdf*. (n.d.).*Selwyn et al. - 2021---A necessary evil The rise of online exam proctori.pdf*. (n.d.).
+- Selwyn, N., O'Neill, C., Smith, G., Andrejevic, M., & Gu, X. (2021). A necessary evil? The rise of online exam proctoring in Australian universities. *Media International Australia*, 1329878X211005862\. <https://doi.org/10.1177/1329878X211005862>
 - Markauskaite, L., & Goodyear, P. (2017). Creating Epistemic Environments: Learning, Teaching and Design. In L. Markauskaite & P. Goodyear (Eds.), Epistemic Fluency and Professional Education: Innovation, Knowledgeable Action and Actionable Knowledge (pp. 595–614). Springer Netherlands. https://doi.org/10.1007/978-94-007-4369-4_20
 - Brooker, P. (2019). My unexpectedly militant bots: A case for Programming-as-Social-Science. *The Sociological Review*, *67*(6), 1228--1248\. <https://doi.org/10.1177/0038026119840988>`
 - Designing for Deep and Meaningful Student-to-Content Interactions. (2007). TechTrends, 51(4), 20–31. https://doi.org/10.1007/s11528-007-0052-6
