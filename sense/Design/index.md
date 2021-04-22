@@ -26,6 +26,7 @@ Bubble holding misc. thoughts about design.
 ## Interations, CoI etc.
 
 - [[types-of-content-interaction]]
+
 ## Future thinking
 
 - [[three-horizons-model]]

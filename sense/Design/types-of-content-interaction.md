@@ -1,12 +1,12 @@
-# types-of-content-interaction
+# Taxonomy of student-to-content interactions strategies
 
-Taken from Dunlap et al (2007)
+Dunlap et al (2007) combine Bloom's taxonomy with Stouppe's (1998) categorization of content-specific interaction, and Garrison, Anderson, and Archer’s Community of Inquiry framework (1999, 2001). They identify 10 content interaction types and then map them against Bloom's.  
 
-## Taxonomy of student-to-content interactions strategies
+Not sure of the use of Bloom's is all that useful, but the interaction types might be useful for analysing different types of content media and associated authoring assemblages. 
 
-The authors combine Bloom's taxonomy with Stouppe's (1998) categorization of content-specific interaction, and Garrison, Anderson, and Archer’s Community of Inquiry framework (1999, 2001). They identify 10 content interaction types and then map them against Bloom's.  The mapping perhaps isn't that useful.
+## 10 Content Interaction types 
 
-The 10 interaction types are described as (p. 23)
+The 10 interaction types are described as (Dunlap et al, 2007, p. 23)
 
 1. *Enriching* interactions enable students to access information but do not convey information.
    - e.g. pop-ups, hot-words, links, forward and back buttons 
@@ -20,7 +20,7 @@ The 10 interaction types are described as (p. 23)
 6. *Exploration* interactions encourage students to follow their own paths through content, delving deeper into areas of itnerest, accessing elaborative details, and so on. 
 7. *Integration* interactions allow students to connect ideas and create solutions.
 8. *Resolution* interactions involve students in the applicaiton of new ideas and the assessment of solutions.
-9.  *Reflective inquiry* interactions involve students in deliberation and action, such as having them ask penetrating questions, challenge assumptions, and carefully examine the implications of their actions.
+9. *Reflective inquiry* interactions involve students in deliberation and action, such as having them ask penetrating questions, challenge assumptions, and carefully examine the implications of their actions.
 10. *Metacognitive* interactions encourage students to reflect on their own cognitive proces rather than the content of the processes, and use that self-awareness to control and improve cognitive processes.
 
 ## References
