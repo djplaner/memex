@@ -51,7 +51,9 @@ Give a summary of these.
 
 e.g Sways being stand alone, not manipuable. Versus what might be done in BJourn OUA project
 
-At the wrong level of assembly??
+At the wrong level of assembly?? Or is it a case that Sway aims to try to make assembly into something pretty fairly easy and interactive. But by becoming a more closed/hard technology.  At one level it makes reuse in other contexts very easy, but as brick that can't be changed. Hitting the reusability level.
+
+The Content Interface by focusing on semantic Word documents/HTML with a University specific semantic layer allows for manipulation and repurposing. e.g. as simple as changing university dates.
 
 ## References
 
