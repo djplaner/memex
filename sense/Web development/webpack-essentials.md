@@ -16,7 +16,7 @@ Start with a npm project
    3. Individual loader configuration (e.g. babel)
    4. Output - where the bundle goes
    5. Mode - production or dev
-   6. How to run webpack: npm run build | npm run start
+   6. How to run webpack: npm run build OR npm run start
 
 ### Installation
 
