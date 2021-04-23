@@ -40,7 +40,7 @@ Initially focus on three conceptions
 
 1. Dron and Arthur - Technology as orchestrating phenomena for a purpose
 2. Nature of digital technology - NoDT + the IS idea that digital is ubiqutous
-3. Post-digital - beyond digital
+3. Post-digital and the material view - beyond digital e.g. [Goodyear's blog post](https://petergoodyear.net/2021/04/23/where-is-no-longer-a-simple-question/)
 
 Give a summary of these.
 
