@@ -29,6 +29,9 @@ Start with a npm project
    4. npm install html-webpack-plugin --save-dev
 4. Dev server
    1. npm install webpack-dev-server --save-dev
+5. babel https://www.robinwieruch.de/webpack-babel-setup-tutorial
+   1. npm i -D @babel/core @babel/present-env
+   2. npm i -D babel-loader    (the webpack loader for babel)
 
 
 ### Configuration file
