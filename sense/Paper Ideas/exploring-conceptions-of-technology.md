@@ -57,6 +57,9 @@ The aim is you want to enable more assembly, but not require it, and support orc
 ### Misc. stuff from literature, twitter etc.
 
 - [Reports from MLPs](https://twitter.com/BrianCHolt/status/1387064997470117891) about how most faculty development is "how to use a tool like Canvas"
+  These development sessions show how to assemble technologies into usable assemblies. They are too low level to provide specific assemblies. Hence require a lot of work and knowledge, too much for people who don't see the need.
+- We never teach how to teach 
+  Because teaching is actually assembly of activity systems. Hence when you teach you have to teach at the level of phenomena (essentially, but not always, the same as "how to use Canvas") 
 
 ### Tyranny of integrated systems and limited form of integration
 ### Increasing calls for Modularity
