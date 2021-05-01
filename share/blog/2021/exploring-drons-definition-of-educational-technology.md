@@ -18,14 +18,19 @@ The following is my attempt to explore and understand Dron's (2021) definition o
 
 ## A practical learning and teaching example
 
-Imagine you're responsible for a tutorial for a course. You've just rocked up to the tutorial room for the first time and you're looking one of the following layouts. How and what does Dron's definition of educational technology help you and othes analyse the challenge you face? What is the technology in this room? What can/will you do with it? What knowledge do you need? How might the designers of the room make it more useful for learning and teaching?
+Imagine you're responsible for running a tutorial for a course. You've just rocked up to the tutorial room for the first time and you're looking at one of the following room layouts. How does Dron's definition of educational technology help analyse the learning and teaching activity and experience you and your students are about to embark upon? How might it help students, teachers, and the people from facilities management and your institution's learning and teaching centre.
 
-| Example One | Example Two |
+|  |  |
 | --- | --- |
-|![https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Workshop_for_librarians_2019-06-04_JVK_%C4%8CBu_03.jpg/640px-Workshop_for_librarians_2019-06-04_JVK_%C4%8CBu_03.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Workshop_for_librarians_2019-06-04_JVK_%C4%8CBu_03.jpg/640px-Workshop_for_librarians_2019-06-04_JVK_%C4%8CBu_03.jpg | width=50%)
-Czeva, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) via Wikimedia Commons | |
+|![https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Workshop_for_librarians_2019-06-04_JVK_%C4%8CBu_03.jpg/640px-Workshop_for_librarians_2019-06-04_JVK_%C4%8CBu_03.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Workshop_for_librarians_2019-06-04_JVK_%C4%8CBu_03.jpg/320px-Workshop_for_librarians_2019-06-04_JVK_%C4%8CBu_03.jpg) | ![](images/2021-05-01-07-25-50.png) |
+| [Czeva](https://commons.wikimedia.org/wiki/File:Workshop_for_librarians_2019-06-04_JVK_%C4%8CBu_03.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) via Wikimedia Commons | [Thedofc](https://commons.wikimedia.org/wiki/File:SWW-classroom1.jpg), Public domain, via Wikimedia Commons |
 
+Before going any further, it might help
+What is the technology in this room? What can/will you all do with it? What knowledge do you need? What insights can it provide the people responsible for designing the room? What about the people responsible for learning and teaching?
 
+### What is the (educational) technology in the room?
+
+### What if we use Dron's definition?
 
 ## A shopping list of possible applications and implications
 
