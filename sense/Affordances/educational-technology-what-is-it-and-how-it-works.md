@@ -35,7 +35,7 @@ Definition of education as
 Argues that education "may usefully be seen as a technological phenomenon" (p. 1)
 
 That this perpective 
-> has some very far-reachign consequences for research and practice, explaining some hitherto puzzling phenomena, and challenging some of the fundamental beliefs held by many educators and researchers in education (p. 1)
+> has some very far-reaching consequences for research and practice, explaining some hitherto puzzling phenomena, and challenging some of the fundamental beliefs held by many educators and researchers in education (p. 1)
 
 ## The nature of technology
 
