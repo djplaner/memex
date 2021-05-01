@@ -12,7 +12,7 @@ There's wide acceptance that educational technology - in particular, digital tec
 
 ![Drake Hotline Bling Meme - Imgflip](https://i.imgflip.com/4lusc0.jpg)
 
-This is not all that surprising. Obviously a rapid transformation made whilst responding to a pandemic was never going be our best work. There just wasn't time to engage in significant questioning of current assumptions and practices to develop effective, context specific responses. Especially when most pre-2020 individual and organisational assumptions and practices around learning, teaching and technology were built on fairly limited conceptual foundations. As individuals, institutions, and [vendors](https://edublog.microsoft.com/en-au/2021/02/higher-ed-reimagined-navigating-the-three-rs-to-build-agility-and-resilience/) (thanks Microsoft?) being to (re-)imagine what's next for learning and teaching in higher education, now is probably a good time to explore and improve those faily limited conceptual foundations.
+This is not all that surprising. Obviously a rapid transformation made whilst responding to a pandemic was never going be our best work. There just wasn't time to engage in significant questioning of current assumptions and practices to develop effective, context specific responses. Especially when most pre-2020 individual and organisational assumptions and practices around learning, teaching and technology were built on fairly limited conceptual foundations. As individuals, institutions, and [vendors](https://edublog.microsoft.com/en-au/2021/02/higher-ed-reimagined-navigating-the-three-rs-to-build-agility-and-resilience/) (thanks Microsoft?) begin to (re-)imagine what's next for learning and teaching in higher education, now is probably a good time to explore and improve those faily limited conceptual foundations.
 
 The following is my attempt to explore and understand [Dron's (2021)](https://jondron.ca/my-latest-paper-educational-technology-what-it-is-and-how-it-works/) definition of educational technology and how it works. It starts with giving a common practical example of an educational context which I think use to apply Dron's definition. It finishes with a quick look at if and how Dron's definition might be have useful implications for the assumptions and practices that I see everyday from practitioners, researchers and leaders. 
 
@@ -22,7 +22,7 @@ Would be interesting in hearing alternate thoughts on Dron's definition and the 
 
 Imagine you're responsible for running a tutorial for a course. You've just rocked up to the tutorial room for the first time and you're looking at one of the following room layouts. How does Dron's definition of educational technology help analyse the learning and teaching activity and experience you and your students are about to embark upon? How might it help students, teachers, and the people from facilities management and your institution's learning and teaching centre.
 
-|  |  |
+|Computer lab | Classroom  |
 | --- | --- |
 |![https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Workshop_for_librarians_2019-06-04_JVK_%C4%8CBu_03.jpg/640px-Workshop_for_librarians_2019-06-04_JVK_%C4%8CBu_03.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Workshop_for_librarians_2019-06-04_JVK_%C4%8CBu_03.jpg/320px-Workshop_for_librarians_2019-06-04_JVK_%C4%8CBu_03.jpg) | ![](images/2021-05-01-07-25-50.png) |
 | [Czeva](https://commons.wikimedia.org/wiki/File:Workshop_for_librarians_2019-06-04_JVK_%C4%8CBu_03.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) via Wikimedia Commons | [Thedofc](https://commons.wikimedia.org/wiki/File:SWW-classroom1.jpg), Public domain, via Wikimedia Commons |
@@ -63,10 +63,25 @@ In part, this is also because the purpose to which these rooms serve is much mor
 
 The room on the right is much more flexible and potentially implicitly embodies a number of different pedagogical assumptions. The chairs and tables can be moved. They could be pushed to sides of the room to open up a space for all sorts of large group and collaborative pedagogies. The shapes of the desks suggest that it would be possible to push four of them together to support small group pedagogies. Pedagogies that seek to harness a very different set of mental and learning phenomena.
 
-### Hard and soft technologies
+### Use and particpation: hard and soft 
 
+For Dron (2021) students and teachers are "not just _users_ but _participants_ in the orchestration of technologies" (p. 3). In the technology of the tutorial you're running in one of the room shown  above, you and your students must perform various tasks for the technology to work. For example, organise the room for the particular activities, use the whiteboard/projector to show relevant task information, use language to share a particular message, and use digital or physical notebooks etc. Individuals perform these tasks in different ways, with lesser or greater success, with different definitions of what is required, and with different preferences.
 
-### Assembly
+Some technologies heavily pre-deterimine/restrict what activities can be done. For example, the rigidity of the seating arrangements in the computer lab image above. The constraints this type of technology places on our behaviour leads Dron to label these as **hard** technologies. There is no capacity to creatively orchestrate the seating arrangement in the computer lab to achieve some specific purpose.
+
+Other technologies allow and perhaps require more active and creative orchestration. The classroom has seating that can be creatively arranged to fit a particular activity. It is a **soft** technology. Soft technology allows, perhaps even requires, additional knowledge, processes and techniques (i.e additional technology) to be useful. Dron (2021) identifies "teaching methods, musical instruments and computers" as further examples of soft technologies. Technologies that require more from us in terms of orchestration.
+
+### Hard is easy, soft is hard
+
+Hard technologies don't require additional knowledge, processes and techniques. What participation hard technologies require from you is constrained and (hopefully) fairly obvious. i.e. Hard technologies are typically easy to use.  Soft technologies require additional knowledge, processes and techniques. The more you know the more creatively you can orchestrate them. Soft technologies are hard to use.
+
+| Hard is easy |  Soft is hard |
+| --- | --- |
+|![](images/paintByNumbers.png) | ![](blankCanvas.png) |
+|[Aleksander Fedyanin](https://commons.wikimedia.org/wiki/File:%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D1%8B_%D0%BF%D0%BE_%D0%BD%D0%BE%D0%BC%D0%B5%D1%80%D0%B0%D0%BC.jpg), [CC0](http://creativecommons.org/publicdomain/zero/1.0/), via Wikimedia Commons | [Small easel with a blank canvas](https://www.publicdomainpictures.net/en/view-image.php?image=62975&picture=small-easel-with-a-blank-canvas), [CC0](http://creativecommons.org/publicdomain/zero/1.0/)   |
+
+Softness is not universally available. It can only be used if you have the awareness, permission, knowledge, and self-efficacy necessary to make use of it. Since I know I "can't paint", I'd almost certainly never make use of a blank canvas. As a brand new tutor entering the classroom shown above, you may not feel confident enough to re-arrange the chairs. You may also not be aware of certain learning activites that require moving the chairs.
+### Assembly ?and orchestrtion?
 
 ### Coparticipants, not just users
 
