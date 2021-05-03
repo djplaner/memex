@@ -85,12 +85,50 @@ Softness is not universally available. It can only be used if you have the aware
 
 ### Coparticipants, not just users
 
-### Hard is easy, soft is hard
 
 ## A shopping list of possible applications and implications
 
 [Dron (2021)](https://jondron.ca/my-latest-paper-educational-technology-what-it-is-and-how-it-works/) applies his definition of educational technology to some of the big educational research questions including: the no significant different phenomena; learning styles; and the impossibility of replication studies for educational interventions. The following is an ad hoc shopping list of applications of his definition to my practitioner experience with educational technology within Australian Higher Education. It's more a list of questionable possibilities to explore further than anything firmly held to be correct.
 
+### LMS is too soft (difficult)
+
+Constraints to in course - too hard.  But also too blank a canvas - too soft.
+
+Both can be gotten around, but doing so requires a variety of knowledge.
+
+### LMS is too hard (easy)
+
+Various forms of constraint
+
+Some decisions are baked in - no/very limited external access
+
+Path dependent - assemblies are 
+
+### Integration (e.g. LTI) is a limited form of assembly
+
+### Soft / Hard pendulum
+
+### Focused on phenomena, not assembly
+
+Hear about academics not being digitally fluent and academics not having teaching qualifications. A lot of what institutions do are focused on addressing those two issues. The trouble is that quality learnign and teaching is an assembly of both.
+Issues which focus on the phenomena that need to be assembled for quality learning and
+
+Qualifications in both and I find it hard (perhaps saying more about me, but perhaps it's more)
+
+**Link to ellis and goodyear work**
+
+### Focused on goals, not on how to get there
+
+Standards and strategic plans and assume project management will get you there
+
+There should be more modularisation.  More blended learning.
+
+### The difficulty of scale
+
+Resort of project maanagement and hard technologies
+### The hard to soft pendulum
+
+The noticable swinging between hard technologies and soft.
 ### Soft, hard, the difficulty and constraint of assembly
 
 A path dependent future
