@@ -62,6 +62,13 @@ The aim is you want to enable more assembly, but not require it, and support orc
   Because teaching is actually assembly of activity systems. Hence when you teach you have to teach at the level of phenomena (essentially, but not always, the same as "how to use Canvas") 
 
 ### Tyranny of integrated systems and limited form of integration
+
+### Link between productivity paradox and how digital technology is treated
+
+[Why productivity growth has stalled since 2005](https://theconversation.com/why-productivity-growth-has-stalled-since-2005-and-isnt-about-to-improve-soon-159706)
+
+Has a comment about moving toward "generalisation" which might be because traditional IT is unable to deal with assemblies that aren't general
+
 ### Increasing calls for Modularity
 
 e.g Sways being stand alone, not manipuable. Versus what might be done in BJourn OUA project
