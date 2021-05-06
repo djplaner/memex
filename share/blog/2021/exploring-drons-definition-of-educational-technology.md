@@ -90,6 +90,17 @@ Softness is not universally available. It can only be used if you have the aware
 
 [Dron (2021)](https://jondron.ca/my-latest-paper-educational-technology-what-it-is-and-how-it-works/) applies his definition of educational technology to some of the big educational research questions including: the no significant different phenomena; learning styles; and the impossibility of replication studies for educational interventions. The following is an ad hoc shopping list of applications of his definition to my practitioner experience with educational technology within Australian Higher Education. It's more a list of questionable possibilities to explore further than anything firmly held to be correct.
 
+### Is a good learning task is a good technology/assmebly?
+
+Replace learning task with whatever Goodyear and friends use.  ACAD learning task is an assembly of technologies.  The better that assembly fits the intended purpose the better.  This includes enabling learners to further assemble the learning task into another technology that is fit for their purpose.
+
+### Are institutional attempts to improve L&T focused on the wrong level of technology?
+
+Ellis and Goodyear quote about activity systems.  THese are assemblies.  
+
+LTI could go in here
+
+### 
 ### LMS is too soft (difficult)
 
 Constraints to in course - too hard.  But also too blank a canvas - too soft.
