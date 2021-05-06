@@ -34,6 +34,11 @@ Could make the point that we're into the second wave
 
 As illustrated by the second wave, the first wave never really took off (with some exceptions) ...mention references...By the time the second wave is launching there are issues.
 
+### Importance of digital technology
+
+[Aust government launches $1.2bn digital strategy](https://ia.acs.org.au/content/ia/article/2021/govt-adds--1-2b-digital-strategy-to-budget.html?ref=newsletter), including quotes from the PM 
+> Every business in Australia is now a digital business,” he said.  “This transformation is not merely a national one that needs to happen – it’s a global one that is happening.  “We must keep our foot on the digital accelerator to secure our economic recovery from COVID-19.”
+
 ## Conceptualisations of Technology: Digital and beyond
 
 Initially focus on three conceptions
