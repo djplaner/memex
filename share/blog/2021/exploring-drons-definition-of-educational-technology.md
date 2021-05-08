@@ -8,100 +8,160 @@ category="casa"
 img_base_url="https://djplaner.github.io/memex/share/blog/"
 ```
 
-There's wide acceptance that educational technology - in particular, digital technology - was essential to enabling higher education across the world to respond to all that was 2020. Common experience also seems to be that most of that response was not that great. There was some good work, there was a lot of a "good enough for the context" work, but there remained a significant proportion of the work that really sucked. 
+Pre-COVID the role of technology in learning and teaching in higher education was important. It was core to the response to COVID.  But, it seems most of that response was not that great. There was some good work. There was a lot of a "good enough for the situation" work. There was a lot of work that really sucked.
 
-![Drake Hotline Bling Meme - Imgflip](https://i.imgflip.com/4lusc0.jpg)
+![Drake Hotline Bling Meme](images/privacy_proctoring.png)
 
-This is not all that surprising. Obviously a rapid transformation made whilst responding to a pandemic was never going be our best work. There just wasn't time to engage in significant questioning of current assumptions and practices to develop effective, context specific responses. Especially when most pre-2020 individual and organisational assumptions and practices around learning, teaching and technology were built on fairly limited conceptual foundations. As individuals, institutions, and [vendors](https://edublog.microsoft.com/en-au/2021/02/higher-ed-reimagined-navigating-the-three-rs-to-build-agility-and-resilience/) (thanks Microsoft?) begin to (re-)imagine what's next for learning and teaching in higher education, now is probably a good time to explore and improve those faily limited conceptual foundations.
+Arugably, not that different from pre-COVID. The main difference being the overall use of digital technology was by necessity much larger. A rapid transformation made whilst responding to a pandemic was never going be our best work. There just wasn't time to engage in significant questioning of current assumptions and practices to develop effective, context specific responses. Especially when most pre-2020 individual and organisational assumptions and practices around learning, teaching and technology were built on fairly limited conceptual foundations. As individuals, institutions, and [vendors](https://edublog.microsoft.com/en-au/2021/02/higher-ed-reimagined-navigating-the-three-rs-to-build-agility-and-resilience/) (thanks Microsoft?) begin to (re-)imagine what's next for learning and teaching in higher education, now is probably a good time to explore and improve those limited conceptual foundations.
 
-The following is my attempt to explore and understand [Dron's (2021)](https://jondron.ca/my-latest-paper-educational-technology-what-it-is-and-how-it-works/) definition of educational technology and how it works. It starts with giving a common practical example of an educational context which I think use to apply Dron's definition. It finishes with a quick look at if and how Dron's definition might be have useful implications for the assumptions and practices that I see everyday from practitioners, researchers and leaders. 
+The following is an attempt to understand [Dron's (2021)](https://jondron.ca/my-latest-paper-educational-technology-what-it-is-and-how-it-works/) definition of educational technology and how it works. The following starts by applying Dron's definition to a common practical example. It finishes with a list of questions that Dron's definition might raise for the assumptions and practices that I see in everyday practice.
 
-Would be interesting in hearing alternate thoughts on Dron's definition and the implications I've drawn from it.
+## Analysing a tutorial room
 
-## A practical learning and teaching example
-
-Imagine you're responsible for running a tutorial for a course. You've just rocked up to the tutorial room for the first time and you're looking at one of the following room layouts. How does Dron's definition of educational technology help analyse the learning and teaching activity and experience you and your students are about to embark upon? How might it help students, teachers, and the people from facilities management and your institution's learning and teaching centre.
+Imagine you're responsible for running a tutorial for a course. You've just rocked up to the tutorial room for the first time and you're looking at one of the following room layouts: computer lab, or classroom. How does Dron's definition of educational technology help understand the learning and teaching activity and experience you and your students are about to embark upon? How might it help students, teachers, and the people from facilities management and your institution's learning and teaching centre?
 
 |Computer lab | Classroom  |
 | --- | --- |
 |![https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Workshop_for_librarians_2019-06-04_JVK_%C4%8CBu_03.jpg/640px-Workshop_for_librarians_2019-06-04_JVK_%C4%8CBu_03.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Workshop_for_librarians_2019-06-04_JVK_%C4%8CBu_03.jpg/320px-Workshop_for_librarians_2019-06-04_JVK_%C4%8CBu_03.jpg) | ![](images/2021-05-01-07-25-50.png) |
 | [Czeva](https://commons.wikimedia.org/wiki/File:Workshop_for_librarians_2019-06-04_JVK_%C4%8CBu_03.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) via Wikimedia Commons | [Thedofc](https://commons.wikimedia.org/wiki/File:SWW-classroom1.jpg), Public domain, via Wikimedia Commons |
 
-Before going any further, it might help
-What is the technology in this room? What can/will you all do with it? What knowledge do you need? What insights can it provide the people responsible for designing the room? What about the people responsible for learning and teaching?
+Before going any further, it might help to ponder the following questions
+
+1. What is the technology you would see during your tutorial in the rooms above?
+2. What is the nature of the work you and your students will need to do during the tutorial?
+3. Which of the rooms above would be "best" for your tutorial? Why?
+4. How could the rooms above be modified to be better for tutorials? Why?
 
 ### What is the (educational) technology in the room?
 
-If you were asked to list all the technology you see in the images above, what would be on your list?
+Considering question 1, what would be on your list?
 
 A typical list might include chairs, tables, computers, whiteboards (interactive/smart and static), clock, notice boards, doors, windows, walls, floors, cupboards, water bottles, phones, books, notepads etc.
-
-Now imagine that the images show you, your students and your tutorial in full flow. Does this change your list of the technolgy you see in the room? How?
 
 Maybe you add more of the technologies that you and your students brought with you. Laptops, phones, backpacks etc. What else?
 
 How do you delineate between what is and isn't technology? How would you define technology?
-### What if we use Dron's definition of (educational) technology?
+### Dron's definition of (educational) technology?
 
-Dron (2021) starts by acknowledging that defining technology is hard. One of the reasons for our vague and often contradictory understanding of the term. Dron builds his work on Arthur's (2009) definition of technology as
+Dron (2021) starts by acknowledging that defining technology is hard. That most definitions a vague, incomplete, and often contradictory. Dron builds his definition on [Arthur's (2009)](http://tuvalu.santafe.edu/~wbarthur/thenatureoftechnology.htm) definition of technology as
 > the orchestration of phenomena for some purpose (Arthur, 2009, p. 51)
+Or, as [this page](http://tuvalu.santafe.edu/~wbarthur/thenatureoftechnology.htm) puts it (emphasis added)
+> A technology then is a programming or **orchestration** of **phenomena** to **our use**
 
-The phenomena harnessed by technology includes stuff that is "real or imagined, mental or physical, designed or existing in the natural world" (Dron, 2021, p. 2). The furniture in the images above harness physical and material phenomena. Electricity is harnessed by a variety of the technologies in the images above. In the right hand image above - and in your imagined use of the rooms for your tutorial - various mental phenemona are being harnessed to read, write and speak. In this definition, language and certain mental processes are technologies. An extrapolation of this is that **pedagogies are a type of technology**.
+The phenomena harnessed by technology includes stuff that is "real or imagined, mental or physical, designed or existing in the natural world" (Dron, 2021, p. 2). This means that the phenomena organised by a technology includes other technologies. Some examples from the classrooms above, might include:
 
-With Arthur's definition, the teaching activity illustrated in the image above is a type of technology and should be added to your list of technologies.
+- Manufacturers of furniture orchestrated various physical and material phenomena to produce the chairs, desks and other furniture.
+- During a tutorial you and your students will orchestrate various phenomena into the technologies of reading, writing and speaking.
+- During a tutorial you and your students will orchestrate or assemble both these physical and mental phenomena/technologies into specific learning activities.
+
+For Arthur and Dron, **pedagogies are a type of technology**. 
 
 ![Them's fighting words](images/2021-05-01-13-18-26.png)
 
 ### What is educational technology?
 
-This leads to Dron's (2021) argument that
+Building on this Dron's (2021) position is that
 > educational technology, or learning technology, may tentatively be defined as one that, deliberately or not, includes pedagogies among the technologies it orchestrates.
 
-Arguably, following from this both the images above are examples of educational technologies. The inclusion of pedagogies in the image of an empty classroom is somewhat more implicit than in the image of the classroom being used. I'd argue that the empty classroom implicitly illustrates some teacher-driven pedagogical assumptions in terms of how it is laid out. Teacher-driven pedagogical assumptions that are more explicitly obvious in the image where teaching is taking place.
+Arguably, following from this both the images above are examples of educational technologies. The inclusion of pedagogies in the empty classroom is more implicit than in the computer lab which shows people apparently engaged in a learning activity. The empty classroom implicitly illustrates some teacher-driven pedagogical assumptions in terms of how it is laid out. With the chairs and desks essentially in rows facing front. 
 
-In part, this is also because the purpose to which these rooms serve is much more explicit in the image where teaching is taking place. Not only because you can see the teacher up the front and the students apparently following along. But also because the teacher-driven pedagogical assumptions are a more fixed in the image where teaching is taking place. The desks in that image aren't designed to be moved. The seating positions for students is almost always going to be facing toward the teacher at the front of the room. There are even partitions between each student making collaboration and sharing more difficult.
+The teacher-driven pedagogical assumptions in the computer lab is more explicit. Not only because you can see the teacher up the front and the students apparently following along. But also because the teacher-driven pedagogical assumptions are enshrined in the computer lab. The rows in the computer lab are not designed to be moved. The seating positions for students is almost always going to be facing toward the teacher at the front of the room. There are even partitions between each student making collaboration and sharing more difficult.
 
-The room on the right is much more flexible and potentially implicitly embodies a number of different pedagogical assumptions. The chairs and tables can be moved. They could be pushed to sides of the room to open up a space for all sorts of large group and collaborative pedagogies. The shapes of the desks suggest that it would be possible to push four of them together to support small group pedagogies. Pedagogies that seek to harness a very different set of mental and learning phenomena.
+The classroom, however, is more flexible. It implicitly enables a number of different pedagogical assumptions. A number of different orchetrations of different phenomna. The chairs and tables can be moved. They could be pushed to sides of the room to open up a space for all sorts of large group and collaborative pedagogies. The shapes of the desks suggest that it would be possible to push four of them together to support small group pedagogies. Pedagogies that seek to assemble or orchestrate a very different set of mental and learning phenomena. 
+
+The classroom is designed to be assembled in different ways.
 
 ### Use and particpation: hard and soft 
 
-For Dron (2021) students and teachers are "not just _users_ but _participants_ in the orchestration of technologies" (p. 3). In the technology of the tutorial you're running in one of the room shown  above, you and your students must perform various tasks for the technology to work. For example, organise the room for the particular activities, use the whiteboard/projector to show relevant task information, use language to share a particular message, and use digital or physical notebooks etc. Individuals perform these tasks in different ways, with lesser or greater success, with different definitions of what is required, and with different preferences.
+For Dron (2021) students and teachers are "not just _users_ but _participants_ in the orchestration of technologies" (p. 3). The technology that is the tutorial you are running, requires participation from **both** teacher and students. For example, organise the room for particular activities, use the whiteboard/projector to show relevant task information, use language to share a particular message, and use digital or physical notebooks etc. Individuals perform these tasks in different ways, with lesser or greater success, with different definitions of what is required, and with different preferences.
 
-Some technologies heavily pre-deterimine/restrict what activities can be done. For example, the rigidity of the seating arrangements in the computer lab image above. The constraints this type of technology places on our behaviour leads Dron to label these as **hard** technologies. There is no capacity to creatively orchestrate the seating arrangement in the computer lab to achieve some specific purpose.
+Some technologies heavily pre-deterimine/restrict what activities can be done. For example, the rigidity of the seating arrangements in the computer lab. The constraints this type of technology places on our behaviour leads Dron to label them as **hard** technologies. There is no capacity to creatively orchestrate the seating arrangement in the computer lab to achieve some specific purpose.
 
 Other technologies allow and perhaps require more active and creative orchestration. The classroom has seating that can be creatively arranged to fit a particular activity. It is a **soft** technology. Soft technology allows, perhaps even requires, additional knowledge, processes and techniques (i.e additional technology) to be useful. Dron (2021) identifies "teaching methods, musical instruments and computers" as further examples of soft technologies. Technologies that require more from us in terms of orchestration.
 
 ### Hard is easy, soft is hard
 
-Hard technologies don't require additional knowledge, processes and techniques. What participation hard technologies require from you is constrained and (hopefully) fairly obvious. i.e. Hard technologies are typically easy to use.  Soft technologies require additional knowledge, processes and techniques. The more you know the more creatively you can orchestrate them. Soft technologies are hard to use.
+Hard technologies don't require additional knowledge, processes and techniques. What participation hard technologies require is constrained and (hopefully) fairly obvious. Hard technologies are typically easy to use. Soft technologies require additional knowledge, processes and techniques. The more you know the more creatively you can orchestrate them. Soft technologies are hard to use.
 
 | Hard is easy |  Soft is hard |
 | --- | --- |
 |![](images/paintByNumbers.png) | ![](blankCanvas.png) |
 |[Aleksander Fedyanin](https://commons.wikimedia.org/wiki/File:%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D1%8B_%D0%BF%D0%BE_%D0%BD%D0%BE%D0%BC%D0%B5%D1%80%D0%B0%D0%BC.jpg), [CC0](http://creativecommons.org/publicdomain/zero/1.0/), via Wikimedia Commons | [Small easel with a blank canvas](https://www.publicdomainpictures.net/en/view-image.php?image=62975&picture=small-easel-with-a-blank-canvas), [CC0](http://creativecommons.org/publicdomain/zero/1.0/)   |
 
-Softness is not universally available. It can only be used if you have the awareness, permission, knowledge, and self-efficacy necessary to make use of it. Since I know I "can't paint", I'd almost certainly never make use of a blank canvas. As a brand new tutor entering the classroom shown above, you may not feel confident enough to re-arrange the chairs. You may also not be aware of certain learning activites that require moving the chairs.
-### Assembly ?and orchestrtion?
+Softness is not universally available. It can only be used if you have the awareness, permission, knowledge, and self-efficacy necessary to make use of it. Since I "know" I "can't paint", I'd almost certainly never even think of using of a blank canvas. As a brand new tutor entering the classroom shown above, you may not feel confident enough to re-arrange the chairs. You may also not be aware of certain beneficial learning activites that require moving the chairs. If you've never taught a particular tutorial or topic with a particular collection of students, you may not be aware that different orchestratiosn of technologies may be required.
+### Assembly and orchestration
 
-### Coparticipants, not just users
+It's easy to look at the layout of the computer lab and the classroom and make judgements about the room. That classroom is X. It encourages Y. If we're to encourage better learning and teaching we need to design more of rooms like room Z. Dron's (2021) argument is that the object (i.e. the physical layout of the room) is not the most important educational technology, instead
+> The technology that matters most is that object _plus_ the orchestrated assembly of which it is a part, including soft technologies added by its participants (p. 6)
 
+And that _orchestrated assembly_ is not limited to just what the teacher does. Yes, teaching does require the orchestration of "many phenomena...from hard organization of content to soft facilitation of interaction" (Dron, 2021, p. 6). But that's not the full picture. The quality of the learning that occurs as a result of any educational technology is reliant on "the further (soft) orchestration of phenomena by the learners" (Dron, 2021, p. 6). 
 
-## A shopping list of possible applications and implications
+As above, softness is not universally available. Learners enter your tutorial from different backgrounds, different preparation, different personal lives, different resources and different capabilities to orchestrate. Regardless of how much "(soft) orchestration" your tutorial requires (or even intends to allow) from the learner, each learner will make different choices about how to orchestrate what you've designed.
 
-[Dron (2021)](https://jondron.ca/my-latest-paper-educational-technology-what-it-is-and-how-it-works/) applies his definition of educational technology to some of the big educational research questions including: the no significant different phenomena; learning styles; and the impossibility of replication studies for educational interventions. The following is an ad hoc shopping list of applications of his definition to my practitioner experience with educational technology within Australian Higher Education. It's more a list of questionable possibilities to explore further than anything firmly held to be correct.
+### It's assemblies all the way down
 
-### Is a good learning task is a good technology/assmebly?
+The assembly work done by teachers and students "are just the obvious visible tips of the iceberg" (Dron, 2021, p. 7). Teaching a tutorial in one of the rooms above draws on other the work of others orchestrating phenomena to create the educational technologies that influence and are part of your tutorial assembly. The collection of different people responsible for organising the timetable that has your tutorial in that room at 5pm on Friday have contributed to the phenomena you and your students are orchestrating to create your tutorial. Not to mention the facilities management people who designed the classroom, the designers of the whiteboards, or the authors of the set text.
 
-Replace learning task with whatever Goodyear and friends use.  ACAD learning task is an assembly of technologies.  The better that assembly fits the intended purpose the better.  This includes enabling learners to further assemble the learning task into another technology that is fit for their purpose.
+### Hard technologies are first and structural
 
-### Are institutional attempts to improve L&T focused on the wrong level of technology?
+When it comes to assemblying your tutorial Dron (2021) argues that because hard technologies take more time to change. That hard technologies are more likely to structure/constrain how you assemble your tutorial than soft technologies. Meaning that the first consideration in any learning design is the hard technologies. You can't think of the pedagogy (a very soft technology) before considering the other harder technologies that will be part of your assembly. 
 
-Ellis and Goodyear quote about activity systems.  THese are assemblies.  
+You assemble the tutorial within a web of other technologies. As the number of hard technologies and interconnections between hard technologies increases, the web in which you're working becomes harder to change. Various policies, requirements and decisions are made before you start assembling the tutorial. You might be a casual paid for 1 hour to take a tutorial in the computer lab shown above on Friday at 5pm. You might be required to use a common, pre-determined set of topics/questions. To ensure a common learning experience for students across all tutorials you might be required to use a specific pedagogical approach.
 
-LTI could go in here
+More on this below.
+## Possible questions, applications, and implications
 
-### 
-### LMS is too soft (difficult)
+[Dron (2021)](https://jondron.ca/my-latest-paper-educational-technology-what-it-is-and-how-it-works/) applies his definition of educational technology to some of the big educational research questions including: the no significant different phenomena; learning styles; and the impossibility of replication studies for educational interventions. The following is an ad hoc list of questions, applications, and implications arising from his definition to my practitioner experience with educational technology within Australian Higher Education. A list for further consideration.
+
+### Is the main problem the purpose of contemporary universities?
+
+[Mark Johnson's answer](https://postpandemicuniversity.net/2021/04/05/technology-and-conversation/) to the question "Why don't your Zoom lectures Dance?" he doesn't critique Zoom and its limitations. i.e. he doesn't critique the technological object. Instead he looks at the orchestrated assembly within which this technological object is used. But the orchestrated assembly he examines is not your Zoom lecture, instead he focuses on the orchestrated assembly within which your Zoom lecture occurs. He focuses on the technology (aka orchestrated assembly) that is the Unviersity.
+
+His argument is that the _purpose_ to which various _phenomena_ are being _orchestrated_ to create the technology of a Unviersity is the problem. He describes the current problematic purpose of contemporary unviersities as the "transactional 'delivery of learning' and its measurement" and to "make profits and pay vice-chancellors obscene salaries". He suggests that is the purpose of this particular technology was "creating the contexts for new conversations" is needed to really make your Zoom lectures dance.
+
+Arthur's (2009) conceptualisation of technology and Dron's (2021) definition of educational technology aren't used in Johnson's argument. But it is does seem that there is some resonance. A resonance that does seem to suggest that we should...
+
+### Focus on assembly and fit for (whose) purpose, rather than pedagogy before technology?
+
+I don't ever seem myself being in a position to change the purpose of higher education, but I do think Arthur, Dron and Johnson are onto a useful way of understanding how to influence the quality of learning and teaching at a practitioner level. That is to eschew less than helpful arguments about precedence between pedagogy and technology (see [Google Scholar](https://scholar.google.com/scholar?q=%22pedagogy+before+technology%22)). Instead focus on something along the lines of how easy it is for students and teachers to assemble technologies for their purposes.
+
+Educationalists have been quite rightly arguing against technological "silver bullets" to education for quite some time. As argued above, a single technological object (e.g. Microsoft Teams, O365, Blackboard Ultra etc.) is not what matters. The problem for the "pedagogy before technology" folk is that (depending on your definition) pedagogy is just another technological object. The quality of a learning and teaching experience will most influenced about how well the participants in that experience are able to assemble the necessary technologies to achieve their collective and individual purpose(s).
+
+### Common hard assemblies as a barrier?
+
+All universities appear to already have a common set of core learning and teaching assemblies: lectures, tutorials, workshops, assignments, exams, course sites etc. These common assemblies are well understood within universities. Most participants in higher education quickly form an understanding of the types of orchestrations they are expected to perform within these assemblies. These assemblies are difficult to change because they are enmeshed in interconnected webs of different technologies. Position titles (lecturer, tutor), time-tabling, workload allocation, enterprise bargaining agreements, room design, accreditation requirements of governments and professional bodies, and many more all work to enshrine these technologies as "the way we do things around here".
+
+Isn't any surprise that during the rapid COVID response the most common questions were: How do I move my (lecture|tutorial|final exam) online?
+
+These common hard assemblies appear to be barriers to change. Can far-reaching changes in pedagogical practice occur without changing these hard assemblies? Will mandating that all academic staff must have formal pedagogical credentials change these hard assemblies?
+
+### The LMS is both too soft (difficult) and too hard
+
+The LMS is not a single technology. It contains multiple tools - discussion board, gradebook, content authoring etc - that can be assembled in many different ways. In most institutions that I'm aware of a course site within the Learning Management Systems is a mixture technologies that are both too hard and too soft. Some of this distinction is baked into the LMS, some of it is enshrined by institutional practice and policy.  
+
+For example, most LMS ensure that only authorised people are able to access a course site. Institutional policy determines specifically who is authorised. Hard limitations that can make it difficult to assemble open educational practices. 
+
+An LMS can also come with its equivalent to a blank canvas, the ultimate soft technology. Below is an image of a blank Blackboard Content Area. The blank canvas where a teacher is expected to create a wonderful learning and teaching experience. Exactly what they do is entirely up to them and their knowledge of learning, teaching, Blackboard, web design and other technical knowledge. It's hard. Not many academics have the necessary knowledge. That's why there are so many [ugly](https://djon.es/blog/2019/01/30/improving-reuse-of-design-knowledge-in-a-lms/#the-initial-problem-ugly-text) and badly designed LMS course sites.
+
+| Blank Canvas | Blank Blackboard Content Area |
+| --- | --- |
+| ![](blankCanvas.png) | ![Blank Blackboard Learn Content Area](images/BlankBlackboardContentArea.png) |
+| [Small easel with a blank canvas](https://www.publicdomainpictures.net/en/view-image.php?image=62975&picture=small-easel-with-a-blank-canvas), [CC0](http://creativecommons.org/publicdomain/zero/1.0/) | Another blank canvas [CC0](http://creativecommons.org/publicdomain/zero/1.0/) |
+
+### Softening and hardening the LMS with contextual assemblies
+
+But the LMS - both hard and soft - like other technologies can be orchestrated into other assemblies. As Dron (2021) points out "almost any LMS may be orchestrated into assemblies that soften its default behaviours" (p. 6). For example,  e.g. using hyperlinks. But soft is hard.
+**insert sexample of netgl**
+
+Talk about the default course site - echo edc3100 experiences
+
+Talk about GO assemblies
+
+Lead into CASA
+
+Some institutions define a common "default course structure" which defines some com
+
+Most institutions define some form of "default course structure"
 
 Constraints to in course - too hard.  But also too blank a canvas - too soft.
 
@@ -117,35 +177,9 @@ Path dependent - assemblies are
 
 ### Integration (e.g. LTI) is a limited form of assembly
 
-### Soft / Hard pendulum
-
-### Focused on phenomena, not assembly
-
-Hear about academics not being digitally fluent and academics not having teaching qualifications. A lot of what institutions do are focused on addressing those two issues. The trouble is that quality learnign and teaching is an assembly of both.
-Issues which focus on the phenomena that need to be assembled for quality learning and
-
-Qualifications in both and I find it hard (perhaps saying more about me, but perhaps it's more)
-
-**Link to ellis and goodyear work**
-
-### Focused on goals, not on how to get there
-
-Standards and strategic plans and assume project management will get you there
-
-There should be more modularisation.  More blended learning.
-
 ### The difficulty of scale
 
 Resort of project maanagement and hard technologies
-### The hard to soft pendulum
-
-The noticable swinging between hard technologies and soft.
-### Soft, hard, the difficulty and constraint of assembly
-
-A path dependent future
-
-- Digital platforms seek to limit/control assembly
-- Being of the Web is better for assembly
 
 ## References
 
