@@ -141,41 +141,29 @@ The LMS is not a single technology. It contains multiple tools - discussion boar
 
 For example, most LMS ensure that only authorised people are able to access a course site. Institutional policy determines specifically who is authorised. Hard limitations that can make it difficult to assemble open educational practices. 
 
-An LMS can also come with its equivalent to a blank canvas, the ultimate soft technology. Below is an image of a blank Blackboard Content Area. The blank canvas where a teacher is expected to create a wonderful learning and teaching experience. Exactly what they do is entirely up to them and their knowledge of learning, teaching, Blackboard, web design and other technical knowledge. It's hard. Not many academics have the necessary knowledge. That's why there are so many [ugly](https://djon.es/blog/2019/01/30/improving-reuse-of-design-knowledge-in-a-lms/#the-initial-problem-ugly-text) and badly designed LMS course sites.
+An LMS can also come with its equivalent to a blank canvas, a very soft technology. Below is an image of a blank Blackboard Content Area. The blank canvas where a teacher is expected to create a wonderful learning and teaching experience. Exactly what they do is entirely up to them and their knowledge of learning, teaching, Blackboard, web design and other technical knowledge. It's hard. Not many academics have the necessary knowledge. That's why there are so many [ugly](https://djon.es/blog/2019/01/30/improving-reuse-of-design-knowledge-in-a-lms/#the-initial-problem-ugly-text), badly designed LMS course sites, and a tendency for academics to use the LMS as a content repository for PowerPoints, Word docs, and PDF files (Bartuskova et al., 2015).
 
 | Blank Canvas | Blank Blackboard Content Area |
 | --- | --- |
 | ![](blankCanvas.png) | ![Blank Blackboard Learn Content Area](images/BlankBlackboardContentArea.png) |
 | [Small easel with a blank canvas](https://www.publicdomainpictures.net/en/view-image.php?image=62975&picture=small-easel-with-a-blank-canvas), [CC0](http://creativecommons.org/publicdomain/zero/1.0/) | Another blank canvas [CC0](http://creativecommons.org/publicdomain/zero/1.0/) |
 
-### Softening and hardening the LMS with contextual assemblies
+### Using assemblies to make the soft (difficult) hard (easy) and the hard soft
 
-But the LMS - both hard and soft - like other technologies can be orchestrated into other assemblies. As Dron (2021) points out "almost any LMS may be orchestrated into assemblies that soften its default behaviours" (p. 6). For example,  e.g. using hyperlinks. But soft is hard.
-**insert sexample of netgl**
+Dron (2021) points out that hard technologies can be made soft, and soft technologies can be made hard by orchestrating them into other assemblies. For example, a previous institution had the practice of creating different course sites for different offerings of a course. Meaning that students in each offering were starting from a clean slate. Any [residue of experience](https://djon.es/blog/2014/08/15/joining-the-swarm-what-a-course-might-be/#evaporating-residue-of-their-experiences) (Riel and Polin, 2004) from earlier offerings is lost. In [this example](https://djon.es/blog/2014/08/15/joining-the-swarm-what-a-course-might-be/#some-examples-of-the-residue-of-experience) the LMS-based course site was orchestrated into a broader assembly of technologies that includes an external social bookmarking and annotation tool (Diigo). Softening the LMS and enabling some development of a shared residue of experience.
 
-Talk about the default course site - echo edc3100 experiences
+Most universities seek to harden the soft (make the difficult, easier) technology of a LMS site through the development of a institutional standard course shell/look and feel. A specific assembly of features that provide a consistent set of features across all courses with the ultimate aim of increase the quality of the learner experience while reducing the workload required to provide it. In what many see as the best scenario course development is not done by the teacher, but instead course development is orchestrated into a broader assembly that includes on a team of people with expertise in content, learning design, and technology that use a systematic design process to develop the course.
+
+But these resulting assemblies (technologies) then have limitations that then lead to different types of assemblies. Generic default course sites suffer from the [[reusability-paradox]]
+
+
+### Swinging from hard to soft
 
 Talk about GO assemblies
 
 Lead into CASA
 
 Some institutions define a common "default course structure" which defines some com
-
-Most institutions define some form of "default course structure"
-
-Constraints to in course - too hard.  But also too blank a canvas - too soft.
-
-Both can be gotten around, but doing so requires a variety of knowledge.
-
-### LMS is too hard (easy)
-
-Various forms of constraint
-
-Some decisions are baked in - no/very limited external access
-
-Path dependent - assemblies are 
-
-### Integration (e.g. LTI) is a limited form of assembly
 
 ### The difficulty of scale
 
@@ -185,4 +173,12 @@ Resort of project maanagement and hard technologies
 
 Arthur, W. B. (2009). *The Nature of Technology: What it is and how it evolves*. Free Press.
 
+Bartuskova, A., Krejcar, O., & Soukal, I. (2015). Framework of Design Requirements for E-learning Applied on Blackboard Learning System. In M. Núñez, N. T. Nguyen, D. Camacho, & B. Trawiński (Eds.), *Computational Collective Intelligence* (pp. 471--480). Springer International Publishing.
+
 Dron, J. (2021). Educational technology: What it is and how it works. *AI & SOCIETY*. <https://doi.org/10.1007/s00146-021-01195-z>
+
+Riel, M., & Polin, L. (2004). Online learning communities: Common ground and critical differences in designing technical environments. In S. A. Barab, R. Kling, & J. Gray (Eds.), *Designing for Virtual Communities in the Service of Learning* (pp. 16--50). Cambridge University Press.
+
+[//begin]: # "Autogenerated link references for markdown compatibility"
+[reusability-paradox]: ../../../sense/Bricolage/reusability-paradox "Reusability Paradox"
+[//end]: # "Autogenerated link references"
