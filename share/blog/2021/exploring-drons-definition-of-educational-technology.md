@@ -109,7 +109,29 @@ When it comes to assemblying your tutorial Dron (2021) argues that because hard 
 You assemble the tutorial within a web of other technologies. As the number of hard technologies and interconnections between hard technologies increases, the web in which you're working becomes harder to change. Various policies, requirements and decisions are made before you start assembling the tutorial. You might be a casual paid for 1 hour to take a tutorial in the computer lab shown above on Friday at 5pm. You might be required to use a common, pre-determined set of topics/questions. To ensure a common learning experience for students across all tutorials you might be required to use a specific pedagogical approach.
 
 More on this below.
+
+### Technologies mediate all formal education and intentional learning
+
+Based on Arthur's definition of technology Dron (2021) argues that 
+> All teachers use technologies, and technologies mediate all formal education (p. 2)
+Everyone involved in education has to be involved in the orchestration of new assemblies of technology. e.g. as you enter one of the rooms above as the teacher, you will orchestrate the available technologies **including** your chose explicit/implicit pedagogical approaches into a learning experience. If you enter one of the rooms as the learner, you will orchestrate the assembly presented to you by the teacher and institution with you technologies, for your purpose.  Dron (2021) does argue that "learning, in contrast, is not a technology" (p. 3) but instead something that naturally (and not so naturally) is done by babies and non-human entities. However, humans commence engaging intentially in learning we start orchestrating assemblies of technologies that include technologies such as language, writing, theories, models etc. 
+ 
+- Dron actively positions learners/teachers as _coparticipants_ in technologies
+- Those technologies require different types of participation
+- Some have to be followed as is, others require us to fill gaps with novel orchestrations 
+- Most are a mix of the two and that mix depends on context, participant, and use
+- Thus education is deeply, fundamentally, irreucibly human, complex, situated an social - it is ungeneralizabel in their effects 
+  
+
+> Like all technological interventions - and hence all education - it is generative and inductive, a process of imaginitive synthesis, on the part of all co-participants, especially including the learner (p. 10)
+
+> It is the ways the machine is orchestrated by humans, with humans, and for humans that makes it educational. (p. 10)
+
+
+
 ## Possible questions, applications, and implications
+
+A "coparticipation model"
 
 [Dron (2021)](https://jondron.ca/my-latest-paper-educational-technology-what-it-is-and-how-it-works/) applies his definition of educational technology to some of the big educational research questions including: the no significant different phenomena; learning styles; and the impossibility of replication studies for educational interventions. The following is an ad hoc list of questions, applications, and implications arising from his definition to my practitioner experience with educational technology within Australian Higher Education. A list for further consideration.
 
@@ -123,6 +145,10 @@ Arthur's (2009) conceptualisation of technology and Dron's (2021) definition of 
 
 ### Focus on assembly and fit for (whose) purpose, rather than pedagogy before technology?
 
+Dron argues for viewing education as "a coparticipative technological processes" and that such a conceptualisation is profound.
+
+**Old stuff below here in this section**
+
 I don't ever seem myself being in a position to change the purpose of higher education, but I do think Arthur, Dron and Johnson are onto a useful way of understanding how to influence the quality of learning and teaching at a practitioner level. That is to eschew less than helpful arguments about precedence between pedagogy and technology (see [Google Scholar](https://scholar.google.com/scholar?q=%22pedagogy+before+technology%22)). Instead focus on something along the lines of how easy it is for students and teachers to assemble technologies for their purposes.
 
 Educationalists have been quite rightly arguing against technological "silver bullets" to education for quite some time. As argued above, a single technological object (e.g. Microsoft Teams, O365, Blackboard Ultra etc.) is not what matters. The problem for the "pedagogy before technology" folk is that (depending on your definition) pedagogy is just another technological object. The quality of a learning and teaching experience will most influenced about how well the participants in that experience are able to assemble the necessary technologies to achieve their collective and individual purpose(s).
@@ -135,6 +161,11 @@ Isn't any surprise that during the rapid COVID response the most common question
 
 These common hard assemblies appear to be barriers to change. Can far-reaching changes in pedagogical practice occur without changing these hard assemblies? Will mandating that all academic staff must have formal pedagogical credentials change these hard assemblies?
 
+### Universities are trying to use the same assemblies
+
+All those existing hard assemblies surrounding learning and teaching were orchestrated into being to support face-to-face learning and teaching. Part of the challenge now is that those assemblies arguably don't work as effectively for significant uses of digital technology. Digital technology is a new phenomena (technology) that the University technology is trying to use. It works differently to face-to-face technology. Different technologies as different phenomena create and foreclose different different opportunities (Zuboff, 1985). Different technologies have different affordances. Different technologies enable and perhaps enable different types of orchestration and produce different types of assembly.
+
+Evidence for this difference is visible in the history for Australian higher education where there have been universities that were on-campus only, primarily print-based distance education, dual mode, and primarily online.
 ### The LMS is both too soft (difficult) and too hard
 
 The LMS is not a single technology. It contains multiple tools - discussion board, gradebook, content authoring etc - that can be assembled in many different ways. In most institutions that I'm aware of a course site within the Learning Management Systems is a mixture technologies that are both too hard and too soft. Some of this distinction is baked into the LMS, some of it is enshrined by institutional practice and policy.  
@@ -181,6 +212,8 @@ Dron, J. (2021). Educational technology: What it is and how it works. *AI & SOCI
 Riel, M., & Polin, L. (2004). Online learning communities: Common ground and critical differences in designing technical environments. In S. A. Barab, R. Kling, & J. Gray (Eds.), *Designing for Virtual Communities in the Service of Learning* (pp. 16--50). Cambridge University Press.
 
 Walsh, C., Mital, A., Ratcliff, M., Yap, A., & Jamaleddine, Z. (2020). A public-private partnership to transform online education through high levels of academic student support. *Australasian Journal of Educational Technology*, *36*(5), 30--45\. <https://doi.org/10.14742/ajet.6107>
+
+Zuboff, S. (1985). Automate-informate: The two faces of intelligent technology. Organizational Dynamics, 14(2), 5–18. https://doi.org/10.1016/0090-2616(85)90033-6
 
 [//begin]: # "Autogenerated link references for markdown compatibility"
 [reusability-paradox]: ../../../sense/Bricolage/reusability-paradox "Reusability Paradox"
