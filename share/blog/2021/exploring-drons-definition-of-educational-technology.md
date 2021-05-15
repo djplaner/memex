@@ -197,6 +197,14 @@ Lead into CASA
 
 Some institutions define a common "default course structure" which defines some com
 
+### Some practical issues
+
+- pedagogy before technology
+- Technologies that don't allow assemblies  
+  - Stream doesn't allow download of videos
+  - Sway doesn't allow embedding of non-Microsoft approved embeds
+- Learning analytics dashboards versus SRES/OnTask type tools - automate versus informate
+
 ### The difficulty of scale
 
 Resort of project maanagement and hard technologies
