@@ -207,6 +207,7 @@ Resort of project maanagement and hard technologies
 
 - Purpose and orchestration over Pedagogy before technology
   - P before T is the start of hurtful decomposition
+  - It lends itself to the type of instrumentalism that the neo-liberal corporate approach to education loves - the generalisation stuff that Dron talks about
     - It separates things that should be separated: p into their sections and t in theirs
     - those separations start becoming the purpose of the people behind them
       - Hence "project/product manager" roles
@@ -215,7 +216,8 @@ Resort of project maanagement and hard technologies
     - Hard versus soft would be a better separation
     - 
   - Ignores the value of purpose and orchestration
-    - If purpoes is seen as specific context/discipline allows greater concentration on the specific activity
+    - If purpose is seen as specific context/discipline allows greater concentration on the specific activity
+    - Better values Dron's contigent, local, contextual etc view of education (or at least is more likely)
 ### Some practical issues
 
 - pedagogy before technology
