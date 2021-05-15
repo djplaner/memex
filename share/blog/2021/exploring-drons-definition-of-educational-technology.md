@@ -196,7 +196,26 @@ Talk about GO assemblies
 Lead into CASA
 
 Some institutions define a common "default course structure" which defines some com
+### The difficulty of scale
 
+Resort of project maanagement and hard technologies
+
+
+## some ways forward
+
+### An abstract structure
+
+- Purpose and orchestration over Pedagogy before technology
+  - P before T is the start of hurtful decomposition
+    - It separates things that should be separated: p into their sections and t in theirs
+    - those separations start becoming the purpose of the people behind them
+      - Hence "project/product manager" roles
+      - But also a focus on hardening specific pedagogies
+      - But also the idea of abstract standards (perhaps)
+    - Hard versus soft would be a better separation
+    - 
+  - Ignores the value of purpose and orchestration
+    - If purpoes is seen as specific context/discipline allows greater concentration on the specific activity
 ### Some practical issues
 
 - pedagogy before technology
@@ -205,9 +224,6 @@ Some institutions define a common "default course structure" which defines some 
   - Sway doesn't allow embedding of non-Microsoft approved embeds
 - Learning analytics dashboards versus SRES/OnTask type tools - automate versus informate
 
-### The difficulty of scale
-
-Resort of project maanagement and hard technologies
 
 ## References
 
