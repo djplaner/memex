@@ -196,6 +196,7 @@ Talk about GO assemblies
 Lead into CASA
 
 Some institutions define a common "default course structure" which defines some com
+
 ### The difficulty of scale
 
 Resort of project maanagement and hard technologies
@@ -225,6 +226,7 @@ Resort of project maanagement and hard technologies
   - Stream doesn't allow download of videos
   - Sway doesn't allow embedding of non-Microsoft approved embeds
 - Learning analytics dashboards versus SRES/OnTask type tools - automate versus informate
+
 
 
 ## References

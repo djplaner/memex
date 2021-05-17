@@ -33,6 +33,7 @@ Could make the point that we're into the second wave
 - Second wave - post-COVID - where it became a necessity, not a choice, to go online around the same time when University management ex1Gplicitly killing off the lecture.
 
 As illustrated by the second wave, the first wave never really took off (with some exceptions) ...mention references...By the time the second wave is launching there are issues.
+Australian surveys of the COVID experience wasn't great.
 
 ### Importance of digital technology
 
