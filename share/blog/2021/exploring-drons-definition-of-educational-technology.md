@@ -218,6 +218,18 @@ Resort of project maanagement and hard technologies
   - Ignores the value of purpose and orchestration
     - If purpose is seen as specific context/discipline allows greater concentration on the specific activity
     - Better values Dron's contigent, local, contextual etc view of education (or at least is more likely)
+
+  - Underestimating the cost and difficulty of orchestration & need for re-assembly
+    - Transformation from harnessing one set of phenomena to another (e.g. f-t-f to online; print to online) potentially requires the orchestration of entirely new assemblies of technologies across the institution
+      - Not just teachers, but beyond
+      - e.g. the IS conceptions of what's required from IT support
+    - It's not just as simple as providing minimal standards
+    - Raise questions about the validity of best practice and bench marking??
+
+  - Examining different types of orchestration and assemblies
+    - Swinburne public/private, GO/DDCE, acadmeics + ad hoc meso-level practitioenrs
+    - What about the idea of focused orchestration of generative assemblages??
+
 ### Some practical issues
 
 - pedagogy before technology
