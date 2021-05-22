@@ -40,6 +40,21 @@ Australian surveys of the COVID experience wasn't great.
 [Aust government launches $1.2bn digital strategy](https://ia.acs.org.au/content/ia/article/2021/govt-adds--1-2b-digital-strategy-to-budget.html?ref=newsletter), including quotes from the PM 
 > Every business in Australia is now a digital business,” he said.  “This transformation is not merely a national one that needs to happen – it’s a global one that is happening.  “We must keep our foot on the digital accelerator to secure our economic recovery from COVID-19.”
 
+## Conceptual Framework
+
+- technology, pedagogy, meso-level practitioners/educational developers
+
+
+### MLP, educational developers
+
+Aitchison et al (2020)
+> Central to this expansion are educational developers, staﬀ who support teaching and learning improvement in courses they do not themselves teach (p. 171)
+> Their expertise may include – but is not limited to – knowledge of curriculum design, teaching practice, learning theories, data and learning analytics, technologies for teaching and learning, online learning design, the role of language in learning, and the learning experiences of students from par- ticular cohorts (p. 172)
+
+They also identify a split in the educational developers among: Academic Developers; Academic Language and Learning Developers; and Online Educational Designers (p. 172).  We are seen more as online educational designers, but tend to discuss and engage in most of those (thought perphaps more academic deveolpment). **QUestions** What do the boys think about this? What does a reading of Dron suggest?
+
+Aitichison et al (2020) also find that across the board there is a movement away from developing people to developing products. Arguably connected to the idea of Johnson and the purpose of higher education
+> a central theme was the tension arising from a perceived shift in institutional priorities from ‘people development’ to ‘product development’: that is, from building human (educator) capacity towards curriculum resource development, particularly for the online environment. (p. 171)
 ## Conceptualisations of Technology: Digital and beyond
 
 Initially focus on three conceptions
@@ -88,6 +103,8 @@ The Content Interface by focusing on semantic Word documents/HTML with a Univers
 - Sean Michael Morris - [Pedagogy is not technology](https://www.seanmichaelmorris.com/technology-is-not-pedagogy/)
 - Various forms of _pedagogy before technology_
 ## References
+
+Aitchison, C., Harper, R., Mirriahi, N., & Guerin, C. (2020). Tensions for educational developers in the digital university: Developing the person, developing the product. *Higher Education Research & Development*, *39*(2), 171--184\. <https://doi.org/10.1080/07294360.2019.1663155>
 
 Dunlap, J., Sobel, D., & Sands, D. (2007). Designing for Deep and Meaningful Student-to-Content Interactions. TechTrends, 51(4), 20–31. https://doi.org/10.1007/s11528-007-0052-6
 - Provide some description from almost 15 years ago about the explosion of online education "skyrocketed in popularity"
