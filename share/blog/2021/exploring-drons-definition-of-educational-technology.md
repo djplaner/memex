@@ -240,6 +240,19 @@ Resort of project maanagement and hard technologies
 - Learning analytics dashboards versus SRES/OnTask type tools - automate versus informate
 
 
+#### Lecture as hard technology, versus study guide
+
+Orchestration from the students perspective
+
+[Article from conversation](https://theconversation.com/good-riddance-to-boring-lectures-technology-isnt-the-answer-understanding-good-teaching-is-158217?) titled "Good riddance to boring lectures: Technology isn't the answer - understanding good teacing is" is at first glance a good candidate for unpicking
+
+- Suggests that "understanding good teaching is" the answer
+  - But this brings up the question of purpose - teaching, rather than learning
+  - But that doesn't mean it should be wishy-washy learner focused, it needs to be focused on both, because education is a participatiatory technology orchestration
+- Doesn't recognise the lecture as a technology
+- Also appears to be an example of "technology first" sticking with the idea of the specific assumption of all being in the room at the same time
+
+
 
 ## References
 
