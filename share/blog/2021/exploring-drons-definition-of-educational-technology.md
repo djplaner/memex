@@ -127,6 +127,28 @@ Everyone involved in education has to be involved in the orchestration of new as
 
 > It is the ways the machine is orchestrated by humans, with humans, and for humans that makes it educational. (p. 10)
 
+### Important questions: purpose: who and what, orchestration: who and how
+
+Given Dron's definition of technology 
+> the orchestration of phenomena for some purpose (Arthur, 2009, p. 51)
+and his positioning of education as a participative technological process, what then are some important questions for practitioners in education arising from Dron's conception?  
+
+What about these 
+1. Purpose: whose purpose and what is their purpose?
+2. Orchestration: who is orchestrating, and how can they orchestrate
+4. Phenemona: what phenomena/assemblies are they orchestrating, how well do they support the purpose/orchestration
+
+How much of the third does a practitioner need to know?
+
+With the above tutorial rooms, the students and teacher are going to be enter with specific, complex, and different purposes. The teacher will want the students to learn, but what that means will vary due to discipline, context, the people etc. The teacher may also want students to feel comfortable, engaged, not stressed etc.  Different teachers will have very different purposes.
+
+Students will have their different purposes. What's on the exam? How does this work? Keep quiet and don't get called upon.
+
+In terms of orchestration both students and teacher will need to orchestrate the rooms. As well as what ever other resources and knowledge they bring into the room. The computer lab is a harder technology. There is less capacity to move tables, chairs, computers around. Thus it's easier, but also more constraining to use. The other room is softer. The teacher and students will have to use a bit more knowledge to do things. But they can move to adapt to different circumstances.
+
+The computer lab assembly has certain purposes built into it. As a hard technology it will be more difficult for the teacher and students to orchestrate the room for different purposes.  They will be more constrained.
+
+
 
 
 ## Possible questions, applications, and implications
