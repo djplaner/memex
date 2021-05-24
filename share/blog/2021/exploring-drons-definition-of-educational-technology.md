@@ -134,9 +134,25 @@ Given Dron's definition of technology
 and his positioning of education as a participative technological process, what then are some important questions for practitioners in education arising from Dron's conception?  
 
 What about these 
-1. Purpose: whose purpose and what is their purpose?
-2. Orchestration: who is orchestrating, and how can they orchestrate
-4. Phenemona: what phenomena/assemblies are they orchestrating, how well do they support the purpose/orchestration
+    Purpose: whose purpose and what is the purpose?
+    Orchestration: how can orchestration happen and who is able orchestrate?
+    Phenomena: what phenomena/assemblies are they orchestration?
+
+If a learning activity/session (e.g. tutorial) is a participative technological process, then do these questions give useful ways to understand and improve what is happening?
+
+Participative means that everyone brings their purpose. Students and teachers.  What are those purposes?
+
+Each of those participants will orchestrate their own assembly (i.e. technology) to achieve their purpose. How hard is it for that to happen? What can/can't they orchestration? What knowledge do they need in order to orchestrate phenomena to create their assembly? 
+
+What is being orchestrated by the participants includes other technologies/assemblies and through those assemblies eventually natual phenomena. Those other assemblies will include the formal learning environments, technologies, tasks etc provided by the teacher/institution, but also their own technologies. What do they have?
+
+So what? How well does current practice help orchestration?
+
+For a teacher or a student to achieve their purpose, they need to orchestrate the available phenomena.
+
+How well does what GO, LF, DS, and we do help with this?
+
+How well does a product manager announcing the latest release of Echo360 help students/teachers orchestrate their assemblies.
 
 How much of the third does a practitioner need to know?
 
