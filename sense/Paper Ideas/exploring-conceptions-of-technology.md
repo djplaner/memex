@@ -65,6 +65,15 @@ Initially focus on three conceptions
 
 Give a summary of these.
 
+## There is no technological solution
+
+Start with the problems with technological silver bullets, but argue that Dron's conception also highlights that this includes pedagogical, institutional strategies, organisational structures etc. The need for certainty, cost efficiency and RoI shown by neo-liberal corporate approaches are likely to be forever thrwarted.
+
+Pick up on some recent publications that report empirical findings and conclusions that might illustrate this
+- Centralised course designs - (Berman et al 2021)
+- institutional strategic projects - (Huang et al 2021)
+
+
 ## Situations facing Meso-level practitioners
 
 ### Pedagogy has nothing to teach us
@@ -106,8 +115,12 @@ The Content Interface by focusing on semantic Word documents/HTML with a Univers
 
 Aitchison, C., Harper, R., Mirriahi, N., & Guerin, C. (2020). Tensions for educational developers in the digital university: Developing the person, developing the product. *Higher Education Research & Development*, *39*(2), 171--184\. <https://doi.org/10.1080/07294360.2019.1663155>
 
+Bearman, M., Lambert, S., & O'Donnell, M. (2021). How a centralised approach to learning design influences students: A mixed methods study. *Higher Education Research & Development*, *40*(4), 692--705\. <https://doi.org/10.1080/07294360.2020.1792849>
+
 Dunlap, J., Sobel, D., & Sands, D. (2007). Designing for Deep and Meaningful Student-to-Content Interactions. TechTrends, 51(4), 20–31. https://doi.org/10.1007/s11528-007-0052-6
 - Provide some description from almost 15 years ago about the explosion of online education "skyrocketed in popularity"
+
+Huang, J., Matthews, K. E., & Lodge, J. M. (2021). 'The university doesn't care about the impact it is having on us': Academic experiences of the institutionalisation of blended learning. *Higher Education Research & Development*, *0*(0), 1--15\. <https://doi.org/10.1080/07294360.2021.1915965>
 
 Pedagogy has nothing to teach us. (2020, November 26). The Times Higher Education Supplement.  http://global.factiva.com/redir/default.aspx?P=sa&an=TTHDS00020201125egbq00012&cat=a&ep=ASEE
 
