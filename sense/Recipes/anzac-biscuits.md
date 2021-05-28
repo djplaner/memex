@@ -7,7 +7,7 @@
 - 1 cup sugar
 - .75 cups coconut
 - 1 tablespoon golden syrup
-- 4 ounces butter
+- 4 ounces (113 grams/125 grams) butter
 - 2 tablespoons boiling water
 - 1.5 teaspoon bicarbonate soda
 
