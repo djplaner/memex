@@ -8,6 +8,8 @@ The assumption is that pedagogical value arises from a high level of contextual 
 
 ![Increasing pedagogical value reduces reusability](https://djon.es/blog/wp-content/uploads/2020/07/reusabilityParadox.gif "Reusability and pedagogical value are completely orthogonal")
 
+
+
 ## Related
 
 - [[bricolage]]

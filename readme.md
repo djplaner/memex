@@ -12,14 +12,14 @@ And some [[work-todo]]
 
 ## Progress to date
 
-See a list of blgo posts for [my public descriptions and reflections on using Foam to develop memex](https://djon.es/blog/tag/memex/)
+See a list of blog posts for [my public descriptions and reflections on using Foam to develop memex](https://djon.es/blog/tag/memex/)
 
 ## To do
 
 - [ ] Finish work on [[integrating-zotero-into-memex]]
 - [ ] Explore better themes for memex
 - [ ] Figure out a better structure than the current PKM focus
-- [X] Get Google searching memex - done, processing
+- [X] Get Google searching memex - done
 
 And of course the on-going process
   
