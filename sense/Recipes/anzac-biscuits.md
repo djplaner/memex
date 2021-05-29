@@ -19,7 +19,7 @@
 4. Add to the dry ingredients and stir until mixed
 5. Brush flat oven tray with melted butter
 6. Spoon dessertspoonful of mixture onto trays about 2 inches apart
-7. Bake in 180<sup>o</sup>C oven for 20 minutes
+7. Bake in 180<sup>o</sup>C oven for 20 minutes (but keep an eye out so they don't burn)
 
 
 ## Original
