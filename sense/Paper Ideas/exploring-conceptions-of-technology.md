@@ -40,6 +40,10 @@ Australian surveys of the COVID experience wasn't great.
 [Aust government launches $1.2bn digital strategy](https://ia.acs.org.au/content/ia/article/2021/govt-adds--1-2b-digital-strategy-to-budget.html?ref=newsletter), including quotes from the PM 
 > Every business in Australia is now a digital business,” he said.  “This transformation is not merely a national one that needs to happen – it’s a global one that is happening.  “We must keep our foot on the digital accelerator to secure our economic recovery from COVID-19.”
 
+### But we aren't doing it well
+
+> Over recent decades, Western universities have been very good at picking up and reproducing modish language about their purposes and methods – engaged enquiry, T-shaped graduates, being and becoming, and so on. They have been less good at ‘tooling up’ to deal with the complexity of analysing how their educational ecosystems actually function and of systematically redesigning for sustainable improvement. (Ellis & Goodyear, 2019, p. 242)
+
 ## Conceptual Framework
 
 - technology, pedagogy, meso-level practitioners/educational developers
