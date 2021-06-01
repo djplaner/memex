@@ -85,6 +85,8 @@ Pick up on some recent publications that report empirical findings and conclusio
 
 ## Situations facing Meso-level practitioners
 
+Whiting et al (2020) on digi-housekeeping as the type of orchestration work required - perhaps getting at how there isn't enough attention made to the orchestration that people (e.g. sessionals) need to undertake and not being recompensed.  e.g. sessionals starting from scratch
+
 ### Pedagogy has nothing to teach us
 
 The _Times Higher Ed_ piece that has a lecturer bemoaning "holier than thou educationalists" mandating how they teach under the "feared" umbrella term _pedagogy_.  Hints at PCK and TPACK as a response indicating the importance of thinking of the assembly. Of not talking just about pedagogy, but about how that will be assembled within a specific sport. Reducing the effort of the lecturer in having to orchestrate and assemble.
