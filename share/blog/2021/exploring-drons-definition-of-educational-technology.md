@@ -165,6 +165,8 @@ Last week I listened to [this episode](https://teachlabpodcast.com/episodes/fail
 
 Dron argues for viewing education as "a coparticipative technological processes" and that such a conceptualisation is profound.
 
+It's the ability to engage in orchestrations that are important, but which are linked to individual purposes.  But it's also how the pedagogical and the technology and the ??? are orchestrated.  Not enough attention paid there.
+
 **Old stuff below here in this section**
 
 I don't ever seem myself being in a position to change the purpose of higher education, but I do think Arthur, Dron and Johnson are onto a useful way of understanding how to influence the quality of learning and teaching at a practitioner level. That is to eschew less than helpful arguments about precedence between pedagogy and technology (see [Google Scholar](https://scholar.google.com/scholar?q=%22pedagogy+before+technology%22)). Instead focus on something along the lines of how easy it is for students and teachers to assemble technologies for their purposes.
