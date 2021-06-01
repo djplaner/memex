@@ -140,18 +140,34 @@ Though, as a coparticipant in this technological process, I assume I could orche
 
 [Dron (2021)](https://jondron.ca/my-latest-paper-educational-technology-what-it-is-and-how-it-works/) applies his definition of educational technology to some of the big educational research questions including: the no significant different phenomena; learning styles; and the impossibility of replication studies for educational interventions. The following is an ad hoc list of questions, applications, and implications arising from his definition to my practitioner experience with educational technology within Australian Higher Education. A list for further consideration.
 
-
 ### Important questions: purpose, orchestration, and phenomena
 
-Given Dron's definition of technology 
+How might Given Dron's definition of technology 
 > the orchestration of phenomena for some purpose (Arthur, 2009, p. 51)
 and his positioning of education as a participative technological process, what then are some important questions for practitioners in education arising from Dron's conception?  
 
 Pulling apart the definition seems to suggest
-
 1. Purpose: whose purpose and what is the purpose?
 2. Orchestration: how can orchestration happen and who is able orchestrate?
-3. Phenomena: what phenomena/assemblies are they orchestration?
+3. Phenomena: what phenomena/assemblies are being orchestrated?
+
+Can those three questions help analyse the following?
+
+#### What's wrong with proctoring software?
+
+Arguably, problems with proctoring software start with purpose. Proctoring software assumes that students might cheat and that it's important that this be prevented. This purpose is not unique to proctoring software. It's a primary purpose behind any form of invigilated exam. The problem is that COVID destroyed one of the key phenomena required for the invigilated exam technology - physical co-location. The change in phenomena that could be orchestrated contributed to the upsurge in proctoring software adoption by educational institutions. Educational institutions and individual teachers caught in a web of technologies arising from prior practice, but also driven by professional bodies wanting to be certain of student learning (aka that they didn't cheat).
+
+The replacement phenomena being orchestrated by proctoring software are digital technologies. The Internet, personal computers, and "machine learning" etc. In the abstract, it could be argued that these technologies are not inherently bad. However, the jury might still be out on "machine learning", especially the flavours used in proctoring software. Problems arise because of the purpose and how these phenomena are orchestrated essentially becoming malware and then futher orchestrated with various practices within the vendor and educational institutions.
+
+The orchestration decisions made by the vendor (and the institutions) create a hard technology that requires certain types of orchestration on the part of the student. Particularly problematic orchestrations, largely because the purpose of the technology and thus its nature is to be hard (and "safe" from cheating).  The types of exam assessment being taken by students under the auspices of proctoring software also embody certain types of orchestration. Types of orchestration considered by many to be educationally suspect.
+
+It would appear that decisions to adopt proctoring software pay limited attention to the type of orchestration required of students.
+
+Coming up with alternatives to proctoring software might arise from varying any of purpose, orchestration, and phenomena. For example, [interactive orals](https://app.secure.griffith.edu.au/exlnt/entry/9569/view) have been used. These tend to keep the same 
+
+
+
+### Too much phenemona, not enough orchestration?
 
 My quick reflection on my experience is that too much of what is done to help learning and teaching is focused on the phenomena and not enough on the orchestration and purpose. Echoing my recollections of discussion in Ellis and Goodyear (2019) where the functional areas of a university - learning & teaching; information technology; and, facilitiates management - have a focus on specific different phenemona but see challenges in meaningfully orchestrating those phenomena. Where institutions consider orchestration it is usually to develop "outcome measures at the expense of understanding the proceses that generate those outcomes" (Ellis and Goodyear 2019, p. 2).
 

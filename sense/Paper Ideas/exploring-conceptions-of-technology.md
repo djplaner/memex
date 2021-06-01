@@ -54,6 +54,8 @@ Australian surveys of the COVID experience wasn't great.
 
 ### MLP, educational developers
 
+McGrath (2019) may be useful both for definitions and apparently arguing for a more distributed approach
+
 Aitchison et al (2020)
 > Central to this expansion are educational developers, staﬀ who support teaching and learning improvement in courses they do not themselves teach (p. 171)
 > Their expertise may include – but is not limited to – knowledge of curriculum design, teaching practice, learning theories, data and learning analytics, technologies for teaching and learning, online learning design, the role of language in learning, and the learning experiences of students from par- ticular cohorts (p. 172)
