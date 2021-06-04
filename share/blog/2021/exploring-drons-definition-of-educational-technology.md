@@ -59,11 +59,13 @@ For example, in the classrooms above manufacturers of furniture orchestrated var
 
 When the tutorial participants enter the room they start the next stage of orchestration for different, more learning and teaching specific purposes. Both students and teachers will have their own individual purposes in mind. Purposes that may change in respone to what happens in the tutorial. Those diverse purposes will drive them to orchestrate different phenomena in different ways. To achieve a particular learning outcome, a teacher will orchestrate different phenomena and technology. They will combine the technologies in the room with certain pedagogies to create specific learning tasks. The students then orchestrate how the learning tasks - purposeful orchestrations of phenomena - are integrated into their individual purposes.
 
+Some assemblies of technologies are easier to orchestrate than others. Collaborative small group pedagogies would probably be easier in the classroom, than the computer lab. The design of the furniture technology in the classroom has been orchestrated with the purpose of enabling this type of flexibility. Not so the computer lab.
+
 For Arthur and Dron, **pedagogies are a technology** and **education is a technology**.
 
 ![Them's fighting words](images/2021-05-01-13-18-26.png)
 
-Some assemblies of technologies are easier to orchestrate than others. Collaborative small group pedagogies would probably be easier in the classroom, than the computer lab. The design of the furniture technology in the classroom has been orchestrated with the purpose of enabling this type of flexibility. Not so the computer lab.
+IMHO the plus side of this perspective is that it reduces the value of terms like e-learning, digital learning, technology-enhanced learning, and online learning; or, calls to put pedagogy before technology. Phrases that tend to elevate one of the phenomena (digital, online, "e-", or pedagogy) that may be orchestrated for the purpose of learning and teaching onto an unhelpful pedestal.
 
 ### What is educational technology?
 
@@ -140,6 +142,8 @@ Though, as a coparticipant in this technological process, I assume I could orche
 
 [Dron (2021)](https://jondron.ca/my-latest-paper-educational-technology-what-it-is-and-how-it-works/) applies his definition of educational technology to some of the big educational research questions including: the no significant different phenomena; learning styles; and the impossibility of replication studies for educational interventions. The following is an ad hoc list of questions, applications, and implications arising from his definition to my practitioner experience with educational technology within Australian Higher Education. A list for further consideration.
 
+At this stage, I'm drawn to how this conception of educational technology breaks down the duality between technology and pedagogy. Instead, it positions pedagogy and technology as "just" phenomena that the coparticipants in education will orchestrate for their purposes. Echoing the sociomaterial and postdigital turns.  The notions of hard and soft technologies and what they mean for orchestration also seem to offer an interesting lens to understand and guide institutional attempts to improve learning and teaching.
+
 ### Important questions: purpose, orchestration, and phenomena
 
 How might Given Dron's definition of technology 
@@ -163,9 +167,25 @@ The orchestration decisions made by the vendor (and the institutions) create a h
 
 It would appear that decisions to adopt proctoring software pay limited attention to the type of orchestration required of students.
 
-Coming up with alternatives to proctoring software might arise from varying any of purpose, orchestration, and phenomena. For example, [interactive orals](https://app.secure.griffith.edu.au/exlnt/entry/9569/view) have been used. These tend to keep the same 
+### The unhelpful duality of pedagogy and technology
+
+Many people - including me (McCormack & Jones, 1996) - have argued that the best way to approach learning and teaching is to "focus on pedagogy not technology" ([Sharples (2019)](https://oeb.global/oeb-insights/to-improve-education-focus-on-pedagogy-not-technology/)) or "putting the pedagogic horse in front of the technology cart" ([Sankey, 2019](https://blog.ascilite.org/putting-the-pedagogic-horse-in-front-of-the-technology-cart/)). Dron's (2021) definition of educational technology suggests that pedagogy is technology meaning that such advice translates into "focus on technology not technology" and "putting the technologic horse in front of the technology cart". i.e. redundantly tautological and somewhat less than useful.  But worse than that, pedagogy before technology can be just as harmful and constraining as technology before pedagogy.  [Fawns (2020)](https://www.teaching-matters-blog.ed.ac.uk/pedagogy-and-technology-from-a-postdigital-perspective/) identifies the more common issue where a method (e.g. lecture or tutorial) is chosen first and results in the same type of inappropriate choices and unsuitable experiences that arise when a specific digital technology is chosen first. 
+
+[Fawns (2020)](https://www.teaching-matters-blog.ed.ac.uk/pedagogy-and-technology-from-a-postdigital-perspective/) defines pedagogy as 
+> pedagogy is the thoughtful combination of methods, technologies, social and physical designs and on-the-fly interactions to produce learning environments, student experiences,...
+A definition that seems to position pedagogy as the orchestration of phenomena for purpose. For example, the orchestration you and your students do during a tutorial in one of the rooms above.There appears a similar connection between Dron's conceptions and Fawns' (2020) postdigital view in the recognition of the situated nature of technolgy. For Fawns this is the integration of the technologies with the social and material environment. For Dron it's how the web of different technologies in a tutorial room and the broader institutional setting are orchestrated.  
+
+Further resonance is evident in Fawns' suggestion that 
+> (context + purpose) drives (pedagogy [ which includes actual uses of technology])
+and Arthur's definition of technology as the orchestration of phenomena for a purpose. The question of the best phenomena and orchestration is measured against how well it helps achieve the purpose.
+
+This separation of pedagogy and technology into two separate worlds is evident in the institutional practice of learning and teaching. The most explicit evidence of this are organisational structures that creates separate organisational units responsible for pedagogy and digital technology. Leading to the units and their members becoming increasingly focused on their respective phenomena. The pedagogy folk become experts in the principles of the latest pedagogical focus (e.g. employability, work integrated learning etc.) as the digital technology folk become experts in the nature of the latest technological focus (e.g. O365). But further removed from the specific contexts and purposes of individual teachers and students.
+
+### Soft technologies, digital fluency, and teaching qualifications
 
 
+
+![](images/blankCanvasContentArea.png)
 
 ### Too much phenemona, not enough orchestration?
 
@@ -180,10 +200,6 @@ His argument is that the _purpose_ to which various _phenomena_ are being _orche
 Arthur's (2009) conceptualisation of technology and Dron's (2021) definition of educational technology aren't used in Johnson's argument. But it is does seem that there is some resonance.
 
 I don't know many people who are in a position to change the purpose of a university. Suggested you have to live with it, or move outside the university. Living with it perhaps doesn't mean blindly accepting it. If education is a coparticipative technological process, then perhaps living with it could include engaging in different acts of orchestration to assemble the university technology for more interesting purposes?
-
-### Exam proctoring software as a symptom of an older purpose mismatch (and more)
-
-Last week I listened to [this episode](https://teachlabpodcast.com/episodes/failure-to-disrupt-book-club-with-antero-garcia-s1!da6aa) of the [TeachLab podcast](https://teachlabpodcasts.com). It includes discussion of the dangers of exam proctoring software. Discussion included mention of how exam proctoring software assumes that students are cheaters and how that is not the message many teachers wish to send.
 
 ### Focus on assembly and fit for (whose) purpose, rather than pedagogy before technology?
 
