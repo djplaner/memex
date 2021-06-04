@@ -25,6 +25,7 @@
 ## Pasta
 
 - [[nats-bolognaise]]
+- [Chicken Cacciatore](https://www.foodnetwork.com/recipes/ree-drummond/chicken-cacciatore-2300958)
 
 ## Sauce
 
