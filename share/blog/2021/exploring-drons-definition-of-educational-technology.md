@@ -2,9 +2,9 @@
 post_title='Exploring Dron's definition of educational technology'
 layout="post"
 published=false
-id=18044
-link="https://djon.es/blog/???"
-category="casa"
+id=18075
+link="https://djon.es/blog/2021/06/04/exploring-drons-definition-of-educational-technology"
+category="nodt"
 img_base_url="https://djplaner.github.io/memex/share/blog/"
 ```
 
@@ -18,7 +18,13 @@ It is even less likely if - as I believe - most pre-COVID individual and organis
 
 That's where this post comes in. It is an attempt to understand and apply [Dron's (2021)](https://jondron.ca/my-latest-paper-educational-technology-what-it-is-and-how-it-works/) definition of educational technology and how it works. There are other conceptual/theoretical framings that could be used. For example, postdigital ([Fawns, 2019](https://doi.org/10.1007/s42438-018-0021-8)). That's for other posts. The intent here it to consider Dron's definition of educational technology and if/how it might help improve the conceptual foundations of institutional practices with educational technology. 
 
-At the end of writing this post, I think it offers some interesting insights. You?
+By the end of writing this post, I'm seeing some interesting implications arising, including:
+
+- Another argument for limitations in the "pedagogy before technology" argument.
+- A possible explanation for why most L&T professional development is attended by the "usual suspects".  
+- Thoughts on the problems created by the separation of pedagogy and technology into two organisational universities.
+- One explanation why the "blank canvas" (soft) nature of the LMS (& why the NGDLE only makes this worse) is a big challenge for quality learning and teaching.
+- Why improving digital fluency or the teaching qualifications of teaching staff are unlikely to address this challenge.
 
 ## Analysing a tutorial room
 
@@ -144,192 +150,28 @@ Though, as a coparticipant in this technological process, I assume I could orche
 
 At this stage, I'm drawn to how this conception of educational technology breaks down the duality between technology and pedagogy. Instead, it positions pedagogy and technology as "just" phenomena that the coparticipants in education will orchestrate for their purposes. Echoing the sociomaterial and postdigital turns.  The notions of hard and soft technologies and what they mean for orchestration also seem to offer an interesting lens to understand and guide institutional attempts to improve learning and teaching.
 
-### Important questions: purpose, orchestration, and phenomena
-
-How might Given Dron's definition of technology 
+Pulling apart Dron's (2021) definition 
 > the orchestration of phenomena for some purpose (Arthur, 2009, p. 51)
-and his positioning of education as a participative technological process, what then are some important questions for practitioners in education arising from Dron's conception?  
-
-Pulling apart the definition seems to suggest
+seems to suggest the following questions about L&T as being important
 1. Purpose: whose purpose and what is the purpose?
 2. Orchestration: how can orchestration happen and who is able orchestrate?
 3. Phenomena: what phenomena/assemblies are being orchestrated?
 
-Can those three questions help analyse the following?
-
-#### What's wrong with proctoring software?
-
-Arguably, problems with proctoring software start with purpose. Proctoring software assumes that students might cheat and that it's important that this be prevented. This purpose is not unique to proctoring software. It's a primary purpose behind any form of invigilated exam. The problem is that COVID destroyed one of the key phenomena required for the invigilated exam technology - physical co-location. The change in phenomena that could be orchestrated contributed to the upsurge in proctoring software adoption by educational institutions. Educational institutions and individual teachers caught in a web of technologies arising from prior practice, but also driven by professional bodies wanting to be certain of student learning (aka that they didn't cheat).
-
-The replacement phenomena being orchestrated by proctoring software are digital technologies. The Internet, personal computers, and "machine learning" etc. In the abstract, it could be argued that these technologies are not inherently bad. However, the jury might still be out on "machine learning", especially the flavours used in proctoring software. Problems arise because of the purpose and how these phenomena are orchestrated essentially becoming malware and then futher orchestrated with various practices within the vendor and educational institutions.
-
-The orchestration decisions made by the vendor (and the institutions) create a hard technology that requires certain types of orchestration on the part of the student. Particularly problematic orchestrations, largely because the purpose of the technology and thus its nature is to be hard (and "safe" from cheating).  The types of exam assessment being taken by students under the auspices of proctoring software also embody certain types of orchestration. Types of orchestration considered by many to be educationally suspect.
-
-It would appear that decisions to adopt proctoring software pay limited attention to the type of orchestration required of students.
-
-### The unhelpful duality of pedagogy and technology
-
-Many people - including me (McCormack & Jones, 1996) - have argued that the best way to approach learning and teaching is to "focus on pedagogy not technology" ([Sharples (2019)](https://oeb.global/oeb-insights/to-improve-education-focus-on-pedagogy-not-technology/)) or "putting the pedagogic horse in front of the technology cart" ([Sankey, 2019](https://blog.ascilite.org/putting-the-pedagogic-horse-in-front-of-the-technology-cart/)). Dron's (2021) definition of educational technology suggests that pedagogy is technology meaning that such advice translates into "focus on technology not technology" and "putting the technologic horse in front of the technology cart". i.e. redundantly tautological and somewhat less than useful.  But worse than that, pedagogy before technology can be just as harmful and constraining as technology before pedagogy.  [Fawns (2020)](https://www.teaching-matters-blog.ed.ac.uk/pedagogy-and-technology-from-a-postdigital-perspective/) identifies the more common issue where a method (e.g. lecture or tutorial) is chosen first and results in the same type of inappropriate choices and unsuitable experiences that arise when a specific digital technology is chosen first. 
-
-[Fawns (2020)](https://www.teaching-matters-blog.ed.ac.uk/pedagogy-and-technology-from-a-postdigital-perspective/) defines pedagogy as 
-> pedagogy is the thoughtful combination of methods, technologies, social and physical designs and on-the-fly interactions to produce learning environments, student experiences,...
-A definition that seems to position pedagogy as the orchestration of phenomena for purpose. For example, the orchestration you and your students do during a tutorial in one of the rooms above.There appears a similar connection between Dron's conceptions and Fawns' (2020) postdigital view in the recognition of the situated nature of technolgy. For Fawns this is the integration of the technologies with the social and material environment. For Dron it's how the web of different technologies in a tutorial room and the broader institutional setting are orchestrated.  
-
-Further resonance is evident in Fawns' suggestion that 
+Questions that echo [Fawn's (2020) argument](https://www.teaching-matters-blog.ed.ac.uk/pedagogy-and-technology-from-a-postdigital-perspective/) using a postdigital perspective to argue against the pedagogy before technology purpose and landing on the following
 > (context + purpose) drives (pedagogy [ which includes actual uses of technology])
-and Arthur's definition of technology as the orchestration of phenomena for a purpose. The question of the best phenomena and orchestration is measured against how well it helps achieve the purpose.
 
-This separation of pedagogy and technology into two separate worlds is evident in the institutional practice of learning and teaching. The most explicit evidence of this are organisational structures that creates separate organisational units responsible for pedagogy and digital technology. Leading to the units and their members becoming increasingly focused on their respective phenomena. The pedagogy folk become experts in the principles of the latest pedagogical focus (e.g. employability, work integrated learning etc.) as the digital technology folk become experts in the nature of the latest technological focus (e.g. O365). But further removed from the specific contexts and purposes of individual teachers and students.
+A tutorial in one of the rooms above has to start with the content and purpose. In this case the context is the web of existing technologies that have led you and your students being in the room ready for a tutorial. The purpose includes the espoused learning goals of the tutorial, but also the goals of all the other participants, including those that emerge during the orchestration of the tutorial. This context and purpose is then what ought to drive the orchestration of various phenomena (which Fawn labels "pedagogy") for that purpose.
 
-### Soft technologies, digital fluency, and teaching qualifications
+Suggesting that it might be useful if the focus for institutional attempts to improve learning and teaching aimed to improve the quality of that orchestration. The challenge is that the quality of that orchestration has to be driven by context and purpose, which are inherently diverse and situated. A challenge which I don't think current common practices are able to effectively deal with. Which is perhaps why discussions of quality learning and teaching in higher education "privileges outcome measures at the expense of understanding the processes that generate those outcomes" (Ellis and Goodyear, 2019, p. 2). 
 
+It's easier to deal with abstract outcomes (very soft technologies) than with the specifics of how to help with the orchestration of how to achieve those outcomes. In part, because many of the technologies that contribute to institutional L&T are so hard to reassemble. Hence it's easier to put the blame on teaching staff (e.g. lack of teaching qualifications or digital fluency), than think about how the assembly of technologies that make up an institution should be rethought (e.g. [this thread](https://twitter.com/neilmosley5/status/1360272360088117248)).
 
-
-![](images/blankCanvasContentArea.png)
-
-### Too much phenemona, not enough orchestration?
-
-My quick reflection on my experience is that too much of what is done to help learning and teaching is focused on the phenomena and not enough on the orchestration and purpose. Echoing my recollections of discussion in Ellis and Goodyear (2019) where the functional areas of a university - learning & teaching; information technology; and, facilitiates management - have a focus on specific different phenemona but see challenges in meaningfully orchestrating those phenomena. Where institutions consider orchestration it is usually to develop "outcome measures at the expense of understanding the proceses that generate those outcomes" (Ellis and Goodyear 2019, p. 2).
-
-### Is the main problem the purpose of contemporary universities?
-
-[Mark Johnson's answer](https://postpandemicuniversity.net/2021/04/05/technology-and-conversation/) to the question "Why don't your Zoom lectures Dance?" isn't a critique of Zoom. He doesn't critique what most see as the technology in a Zoom lecture. Instead he looks at the orchestrated assembly within which this technological object is used. He focuses on the technology (aka orchestrated assembly) that is the Unviersity.
-
-His argument is that the _purpose_ to which various _phenomena_ are being _orchestrated_ to create the technology of a Unviersity is the problem. He describes the current problematic purpose of contemporary unviersities as the "transactional 'delivery of learning' and its measurement" and to "make profits and pay vice-chancellors obscene salaries". He suggests that is the purpose of this particular technology was "creating the contexts for new conversations" is needed to really make your Zoom lectures dance.
-
-Arthur's (2009) conceptualisation of technology and Dron's (2021) definition of educational technology aren't used in Johnson's argument. But it is does seem that there is some resonance.
-
-I don't know many people who are in a position to change the purpose of a university. Suggested you have to live with it, or move outside the university. Living with it perhaps doesn't mean blindly accepting it. If education is a coparticipative technological process, then perhaps living with it could include engaging in different acts of orchestration to assemble the university technology for more interesting purposes?
-
-### Focus on assembly and fit for (whose) purpose, rather than pedagogy before technology?
-
-Dron argues for viewing education as "a coparticipative technological processes" and that such a conceptualisation is profound.
-
-It's the ability to engage in orchestrations that are important, but which are linked to individual purposes.  But it's also how the pedagogical and the technology and the ??? are orchestrated.  Not enough attention paid there.
-
-**Old stuff below here in this section**
-
-I don't ever seem myself being in a position to change the purpose of higher education, but I do think Arthur, Dron and Johnson are onto a useful way of understanding how to influence the quality of learning and teaching at a practitioner level. That is to eschew less than helpful arguments about precedence between pedagogy and technology (see [Google Scholar](https://scholar.google.com/scholar?q=%22pedagogy+before+technology%22)). Instead focus on something along the lines of how easy it is for students and teachers to assemble technologies for their purposes.
-
-Educationalists have been quite rightly arguing against technological "silver bullets" to education for quite some time. As argued above, a single technological object (e.g. Microsoft Teams, O365, Blackboard Ultra etc.) is not what matters. The problem for the "pedagogy before technology" folk is that (depending on your definition) pedagogy is just another technological object. The quality of a learning and teaching experience will most influenced about how well the participants in that experience are able to assemble the necessary technologies to achieve their collective and individual purpose(s).
-
-### Common hard assemblies as a barrier?
-
-All universities appear to already have a common set of core learning and teaching assemblies: lectures, tutorials, workshops, assignments, exams, course sites etc. These common assemblies are well understood within universities. Most participants in higher education quickly form an understanding of the types of orchestrations they are expected to perform within these assemblies. These assemblies are difficult to change because they are enmeshed in interconnected webs of different technologies. Position titles (lecturer, tutor), time-tabling, workload allocation, enterprise bargaining agreements, room design, accreditation requirements of governments and professional bodies, and many more all work to enshrine these technologies as "the way we do things around here".
-
-Isn't any surprise that during the rapid COVID response the most common questions were: How do I move my (lecture|tutorial|final exam) online?
-
-These common hard assemblies appear to be barriers to change. Can far-reaching changes in pedagogical practice occur without changing these hard assemblies? Will mandating that all academic staff must have formal pedagogical credentials change these hard assemblies?
-
-### Universities are trying to use the same assemblies
-
-All those existing hard assemblies surrounding learning and teaching were orchestrated into being to support face-to-face learning and teaching. Part of the challenge now is that those assemblies arguably don't work as effectively for significant uses of digital technology. Digital technology is a new phenomena (technology) that the University technology is trying to use. It works differently to face-to-face technology. Different technologies as different phenomena create and foreclose different different opportunities (Zuboff, 1985). Different technologies have different affordances. Different technologies enable and perhaps enable different types of orchestration and produce different types of assembly.
-
-Evidence for this difference is visible in the history for Australian higher education where there have been universities that were on-campus only, primarily print-based distance education, dual mode, and primarily online.
-### The LMS is both too soft (difficult) and too hard
-
-The LMS is not a single technology. It contains multiple tools - discussion board, gradebook, content authoring etc - that can be assembled in many different ways. In most institutions that I'm aware of a course site within the Learning Management Systems is a mixture technologies that are both too hard and too soft. Some of this distinction is baked into the LMS, some of it is enshrined by institutional practice and policy.  
-
-For example, most LMS ensure that only authorised people are able to access a course site. Institutional policy determines specifically who is authorised. Hard limitations that can make it difficult to assemble open educational practices. 
-
-An LMS can also come with its equivalent to a blank canvas, a very soft technology. Below is an image of a blank Blackboard Content Area. The blank canvas where a teacher is expected to create a wonderful learning and teaching experience. Exactly what they do is entirely up to them and their knowledge of learning, teaching, Blackboard, web design and other technical knowledge. It's hard. Not many academics have the necessary knowledge. That's why there are so many [ugly](https://djon.es/blog/2019/01/30/improving-reuse-of-design-knowledge-in-a-lms/#the-initial-problem-ugly-text), badly designed LMS course sites, and a tendency for academics to use the LMS as a content repository for PowerPoints, Word docs, and PDF files (Bartuskova et al., 2015).
-
-| Blank Canvas | Blank Blackboard Content Area |
-| --- | --- |
-| ![](blankCanvas.png) | ![Blank Blackboard Learn Content Area](images/BlankBlackboardContentArea.png) |
-| [Small easel with a blank canvas](https://www.publicdomainpictures.net/en/view-image.php?image=62975&picture=small-easel-with-a-blank-canvas), [CC0](http://creativecommons.org/publicdomain/zero/1.0/) | Another blank canvas [CC0](http://creativecommons.org/publicdomain/zero/1.0/) |
-
-### Using assemblies to make the soft (difficult) hard (easy) and the hard soft
-
-Dron (2021) points out that hard technologies can be made soft, and soft technologies can be made hard by orchestrating them into other assemblies. For example, a previous institution had the practice of creating different course sites for different offerings of a course. Meaning that students in each offering were starting from a clean slate. Any [residue of experience](https://djon.es/blog/2014/08/15/joining-the-swarm-what-a-course-might-be/#evaporating-residue-of-their-experiences) (Riel and Polin, 2004) from earlier offerings is lost. In [this example](https://djon.es/blog/2014/08/15/joining-the-swarm-what-a-course-might-be/#some-examples-of-the-residue-of-experience) the LMS-based course site was orchestrated into a broader assembly of technologies that includes an external social bookmarking and annotation tool (Diigo). Softening the LMS and enabling some development of a shared residue of experience.
-
-Most universities seek to harden the soft (make the difficult, easier) technology of a LMS site through the development of a institutional standard course shell/look and feel. A specific assembly of features that provide a consistent set of features across all courses with the ultimate aim of increase the quality of the learner experience while reducing the workload required to provide it. In what many see as the best scenario course development is not done by the teacher, but instead course development is orchestrated into a broader assembly that includes on a team of people with expertise in content, learning design, and technology that use a systematic design process to develop the course.
-
-But these resulting assemblies (technologies) then have limitations that then lead to different types of assemblies. Generic default course sites suffer from the [[reusability-paradox]]
-
-Walsh et al (2020) as an example of a very specific type of assembly that is being used to produce high quality learning experieences.  Public/private with very specific/different teams - unbundling - but as perhaps the worst example of what Johnson is talking about. Raisign questions of how normal unviersities can achieve this and enable the sspace for the conversations that Johnson talks about. Perhaps the shared assmebly/CASA approach can work here. With a focus on conversations and on generativity
-
-### Swinging from hard to soft
-
-Talk about GO assemblies
-
-Lead into CASA
-
-Some institutions define a common "default course structure" which defines some com
-
-### The difficulty of scale
-
-Resort of project maanagement and hard technologies
-
-
-## some ways forward
-
-### An abstract structure
-
-- Purpose and orchestration over Pedagogy before technology
-  - P before T is the start of hurtful decomposition
-  - It lends itself to the type of instrumentalism that the neo-liberal corporate approach to education loves - the generalisation stuff that Dron talks about
-    - It separates things that should be separated: p into their sections and t in theirs
-    - those separations start becoming the purpose of the people behind them
-      - Hence "project/product manager" roles
-      - But also a focus on hardening specific pedagogies
-      - But also the idea of abstract standards (perhaps)
-    - Hard versus soft would be a better separation
-    - 
-  - Ignores the value of purpose and orchestration
-    - If purpose is seen as specific context/discipline allows greater concentration on the specific activity
-    - Better values Dron's contigent, local, contextual etc view of education (or at least is more likely)
-
-  - Underestimating the cost and difficulty of orchestration & need for re-assembly
-    - Transformation from harnessing one set of phenomena to another (e.g. f-t-f to online; print to online) potentially requires the orchestration of entirely new assemblies of technologies across the institution
-      - Not just teachers, but beyond
-      - e.g. the IS conceptions of what's required from IT support
-    - It's not just as simple as providing minimal standards
-    - Raise questions about the validity of best practice and bench marking??
-
-  - Examining different types of orchestration and assemblies
-    - Swinburne public/private, GO/DDCE, acadmeics + ad hoc meso-level practitioenrs
-    - What about the idea of focused orchestration of generative assemblages??
-
-### Some practical issues
-
-- pedagogy before technology
-- Technologies that don't allow assemblies  
-  - Stream doesn't allow download of videos
-  - Sway doesn't allow embedding of non-Microsoft approved embeds
-- Learning analytics dashboards versus SRES/OnTask type tools - automate versus informate
-
-
-#### Lecture as hard technology, versus study guide
-
-Orchestration from the students perspective
-
-[Article from conversation](https://theconversation.com/good-riddance-to-boring-lectures-technology-isnt-the-answer-understanding-good-teaching-is-158217?) titled "Good riddance to boring lectures: Technology isn't the answer - understanding good teacing is" is at first glance a good candidate for unpicking
-
-- Suggests that "understanding good teaching is" the answer
-  - But this brings up the question of purpose - teaching, rather than learning
-  - But that doesn't mean it should be wishy-washy learner focused, it needs to be focused on both, because education is a participatiatory technology orchestration
-- Doesn't recognise the lecture as a technology
-- Also appears to be an example of "technology first" sticking with the idea of the specific assumption of all being in the room at the same time
-
-
+More to come.
 
 ## References
 
 Arthur, W. B. (2009). *The Nature of Technology: What it is and how it evolves*. Free Press.
 
-Bartuskova, A., Krejcar, O., & Soukal, I. (2015). Framework of Design Requirements for E-learning Applied on Blackboard Learning System. In M. Núñez, N. T. Nguyen, D. Camacho, & B. Trawiński (Eds.), *Computational Collective Intelligence* (pp. 471--480). Springer International Publishing.
-
 Dron, J. (2021). Educational technology: What it is and how it works. *AI & SOCIETY*. <https://doi.org/10.1007/s00146-021-01195-z>
 
 Fawns, T. (2019). Postdigital Education in Design and Practice. Postdigital Science and Education, 1(1), 132–145. https://doi.org/10.1007/s42438-018-0021-8
-
-Riel, M., & Polin, L. (2004). Online learning communities: Common ground and critical differences in designing technical environments. In S. A. Barab, R. Kling, & J. Gray (Eds.), *Designing for Virtual Communities in the Service of Learning* (pp. 16--50). Cambridge University Press.
-
-Walsh, C., Mital, A., Ratcliff, M., Yap, A., & Jamaleddine, Z. (2020). A public-private partnership to transform online education through high levels of academic student support. *Australasian Journal of Educational Technology*, *36*(5), 30--45\. <https://doi.org/10.14742/ajet.6107>
-
-Zuboff, S. (1985). Automate-informate: The two faces of intelligent technology. Organizational Dynamics, 14(2), 5–18. https://doi.org/10.1016/0090-2616(85)90033-6
-
-[//begin]: # "Autogenerated link references for markdown compatibility"
-[reusability-paradox]: ../../../sense/Bricolage/reusability-paradox "Reusability Paradox"
-[//end]: # "Autogenerated link references"
