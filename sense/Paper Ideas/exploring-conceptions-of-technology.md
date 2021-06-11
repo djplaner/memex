@@ -54,6 +54,8 @@ Australian surveys of the COVID experience wasn't great.
 
 ### MLP, educational developers
 
+Bellaby, A., Sankey, M., & Albert, L. (2020). Rising to the occasion: Exploring the changing emphasis on educational design during COVID-19. ASCILITE’s First Virtual Conference. Proceedings ASCILITE 2020 in Armidale, 145–155. https://doi.org/10.14742/ascilite2020.0137
+
 McGrath (2019) may be useful both for definitions and apparently arguing for a more distributed approach
 
 Aitchison et al (2020)
