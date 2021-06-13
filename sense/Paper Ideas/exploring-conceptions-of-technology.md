@@ -51,6 +51,13 @@ Australian surveys of the COVID experience wasn't great.
 
 - technology, pedagogy, meso-level practitioners/educational developers
 
+### Other conceptions of technology
+
+[Ursula Franklin - Technological society](https://en.wikipedia.org/wiki/Ursula_Franklin#Technological_society)
+
+[Franklin and apparently Illich](https://twitter.com/mwjtweet/status/1403370235051315202) have the notion of "technology as the way things are done around here"
+
+Also opening up Illich as another avenue.
 
 ### MLP, educational developers
 
