@@ -78,6 +78,8 @@ Give a summary of these.
 
 ## There is no technological solution
 
+(**No free lunch theorem**)[https://jimruttshow.blubrry.net/the-jim-rutt-show-transcripts/transcript-of-episode-130-ken-stanley-on-why-greatness-cannot-be-planned/] 
+
 Start with the problems with technological silver bullets, but argue that Dron's conception also highlights that this includes pedagogical, institutional strategies, organisational structures etc. The need for certainty, cost efficiency and RoI shown by neo-liberal corporate approaches are likely to be forever thrwarted.
 
 Pick up on some recent publications that report empirical findings and conclusions that might illustrate this
