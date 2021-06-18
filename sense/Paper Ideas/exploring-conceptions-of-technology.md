@@ -49,6 +49,11 @@ Australian surveys of the COVID experience wasn't great.
 
 ## Conceptual Framework
 
+- Johnson (2015) good for talking about theory use in ed tech
+- Hannon and Al-Mahmood (2014) have an ascilite paper that should be quoted
+  - Do a word count to those that theory/theories/theoretical are mentioned minscule numbers of time (3 and 1) in titles
+  - Make mention of the relational perspectives rise from Goodyear et al and compares against the dualistic perspective traditionall used in the field.  Even sites one of the co-authors own publications that points to the orchestration side of things
+
 - technology, pedagogy, meso-level practitioners/educational developers
 
 ### Other conceptions of technology
@@ -58,6 +63,13 @@ Australian surveys of the COVID experience wasn't great.
 [Franklin and apparently Illich](https://twitter.com/mwjtweet/status/1403370235051315202) have the notion of "technology as the way things are done around here"
 
 Also opening up Illich as another avenue.
+
+> Even the basic term technology, which is often used as a kind of shorthand for computing and related technologies, gestures implicitly to the socialtechnical binary, a long-standing cause for much debate and confusion in the field that can still be found in many publications. (Bigum, Bulfin & Johnson, 2015, p. 10)
+
+#### Assemblies as heterogenous temporalities and spaces?
+
+Bigum, Bulfin & Johnson 2015 quote Latour and Venn (2002)
+> The hammer that I find on my workbench is not contemporary to my action today: it keeps folded heterogenous temporalities, one of which has the antiquity of the planet, because of the mineral from which it has been moulded, while another has that of the age of the oak which provided the handle, while still another has the age of the 10 years since it came out of the German factory which produced it for the market. When I grab the handle, I insert my gesture in a “garland of time” as Michel Serres (1995) has put it, which allows me to insert myself in a variety of temporalities or time differentials, which account for (or rather imply) the relative solidity which is often associated with technical action. What is true of time holds for space as well, for this humble hammer holds in place quite heterogenous spaces that nothing, before the technical action, could gather together: the forests of the Ardennes, the mines of the Ruhr, the German factory, the tool van which offers discounts every Wednesday on Bourbonnais streets, and finally the workshop of a particularly clumsy Sunday bricoleur. (p. 249)
 
 ### MLP, educational developers
 
@@ -289,16 +301,30 @@ Orchestration from the students perspective
 - Doesn't recognise the lecture as a technology
 - Also appears to be an example of "technology first" sticking with the idea of the specific assumption of all being in the room at the same time
 
+## conclusions
+
+### An evolution in ASCILITE practice?
+
+Hannon et al (2014)
+> Sims (2004), who found a thematic shift in the concerns of conference papers: from the particulars of technologies and their production, to issues of pedagogical effectiveness and the participants in learning
+Arguing here is moving beyond pedagogy and technology and looking at practice/at orchestrations
+
 ## References
 
 Aitchison, C., Harper, R., Mirriahi, N., & Guerin, C. (2020). Tensions for educational developers in the digital university: Developing the person, developing the product. *Higher Education Research & Development*, *39*(2), 171--184\. <https://doi.org/10.1080/07294360.2019.1663155>
 
 Bearman, M., Lambert, S., & O'Donnell, M. (2021). How a centralised approach to learning design influences students: A mixed methods study. *Higher Education Research & Development*, *40*(4), 692--705\. <https://doi.org/10.1080/07294360.2020.1792849>
 
+Bigum, C., Bulfin, S., & Johnson, N. F. (2015). Critical Is Something Others (Don’t) Do: Mapping the Imaginative of Educational Technology. In S. Bulfin, N. F. Johnson, & C. Bigum (Eds.), Critical Perspectives on Technology and Education (pp. 1–13). Palgrave Macmillan US. https://doi.org/10.1057/9781137385451_1
+
 Dunlap, J., Sobel, D., & Sands, D. (2007). Designing for Deep and Meaningful Student-to-Content Interactions. TechTrends, 51(4), 20–31. https://doi.org/10.1007/s11528-007-0052-6
 - Provide some description from almost 15 years ago about the explosion of online education "skyrocketed in popularity"
 
+Hannon, J., & Al-Mahmood, R. (2014). The place of theory in educational technology research. Rhetoric and Reality: Critical Perspectives on Educational Technology. Proceedings Ascilite Dunedin 2014, 745–750.
+
 Huang, J., Matthews, K. E., & Lodge, J. M. (2021). 'The university doesn't care about the impact it is having on us': Academic experiences of the institutionalisation of blended learning. *Higher Education Research & Development*, *0*(0), 1--15\. <https://doi.org/10.1080/07294360.2021.1915965>
+
+Johnson, N. (2015). The Work of Theory in Ed-Tech Research (pp. 35–50). https://doi.org/10.1057/9781137385451_3
 
 Pedagogy has nothing to teach us. (2020, November 26). The Times Higher Education Supplement.  http://global.factiva.com/redir/default.aspx?P=sa&an=TTHDS00020201125egbq00012&cat=a&ep=ASEE
 
