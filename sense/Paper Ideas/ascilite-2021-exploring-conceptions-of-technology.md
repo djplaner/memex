@@ -51,46 +51,67 @@ The orchestration of phenomena for a purpose
 
 Establish this definition as the main lenses that will be used to analyse our experiences below
 
+## __Plan for the rest of the paper__
+
+The idea is the main content of the paper is three sections: purpose; orchestration; and phenomena. The three important bits from Arthur's definition. 
+
+The idea is that each section includes a number of sub-sections. Each sub-section has two broad parts
+- Illustration - description of our experience in our pre/during COVID work 
+- Implications - discussion of how Dron's ed tech definition helps understand and reframe that experience to suggest different understandings/approaches
+
+
 ## Purpose
 
 ### Purpose, context and unhelpful pedagogy/technology binaries
 
-Calls to put pedagogy before technology – unhelpful binary – Dron’s take mirrors (Fawns, 2020) (context+purpose) drives pedagogy which includes use of technology 
+pedagogy before technology is just wrong. Fails to grasp the full complexity and that neither is the most important - purpose/context is.
 
-Perhaps definitional. But
+**Illustration**
+- Illustrate this from our practice.  Colleagues driven by pedagogical concerns e.g. constructive alignment, a type of technology, lets start by revisiting the learning outcomes. Rather than being driven by purpose/context of project. _this might be the better hook_
 
-Dron’s definition can be seen to mirror the move away from binaries to relational – Bigum, Goodyear, Fawn etc. Long established that 
+_This might be good as an implication that is picked up later, but gets a mention here_
 
-Illustrate this from our practice.  Colleagues driven by pedagogical concerns e.g. constructive alignment, a type of technology, lets start by revisiting the learning outcomes. Rather than being driven by purpose/context of project.
-
-Illustrations
 -	Reality that hard technologies (timetabling etc) actually do come first and constraint what is possible.
-
 Some of those assemblies are quite hard. E.g. lecturer in job title. Timetabling system UA Chief Executive Catriona Jackson explaining (Zhou, 2021)
 
 “When universities do their timetables and their curriculum, they do them months out,” she says. “Really strict lockdown requirements were very much in force in December and January. They made those curriculums in December and January. You cannot change a curriculum mid-term. You just can’t.”
 
+**Implication??**
+
+Calls to put pedagogy before technology – unhelpful binary – Dron’s take mirrors (Fawns, 2020) (context+purpose) drives pedagogy which includes use of technology 
+Dron’s definition can be seen to mirror the move away from binaries to relational – Bigum, Goodyear, Fawn etc. Long established that 
+
+- Context is the assemblage of technologies that we have to deal with e.g. timetabling. which cause problems that a focus on pedagogy is never going to help with
+- Purpose is also important..covered in the next point
+
 
 ### What is the purpose of universities?
 
-(Macgilchrist et al., 2019) and the three future ‘histories’ of education. More commercial
-Matching surveys work of MLPs (Aitchison et al., 2020) showing a move away from developing people to developing products.
+**Illustration** Matching surveys work of educational developers (Aitchison et al., 2020) reveal a move away from developing people to developing products. An increase in focus on products to sell. e.g. recent government push for micro-credentials and an earlier emphasis on modularisation to enable reuse
 
-Touch on the difficulty MLPs have in making any change in that outcome.
+**Implication** Purpose is important. We can either be complicit or make moves to fight back against increasing commercialisation. Outline some possibilities from literature
 
-Illustration?
+(Macgilchrist et al., 2019) and the three future ‘histories’ of education. Which do we want to encourage?
+
+We can't do much, but should do something. Rather than just be complicit. mention some suggestions from literature
 
 ### Purpose proxies and purpose pushers
 
-Dron’s take is that the individuals involved in learning tasks bring and work toward their own individual purposes. Arguably that the best work is done helping with those specific purposes
+Due to stepwise refinement our organisations get broken down hierarchically into different boxes with different responsibilities...with different purposes. Creating a tendency to lose the "purpose of the whole" and focus on our little important bit.
 
-Jasmine Huang, Kelly Matthews and Jason Lodge (all Uni Queensland) make this clear in a study of staff experience when management of an unnamed Australian university rolled out 16 large-enrolment blended-learning courses in 2019. Staff involved, “perceived institutional drivers for blending to be misaligned towards indiscriminately translating all courses, necessary or not, to an online format akin to a polished massive open online course product” the authors report (CMM May 28).
-
-Illustrations
+**Illustrations**
+- Trying to figure out how to provide access to videos from SBS - playing rounders between different parts o the library etc 
 -	Professional bodies requiring “certification” of student’s own work (almost) requiring use of exam proctoring software
 -	Institutions who focus more on establishing outcomes – graduate attributes, course design standards etc – rather than knowing how to help individuals orchestrate pheneomena for their own purpose
 -	Project and product managers
--	
+
+Jasmine Huang, Kelly Matthews and Jason Lodge (all Uni Queensland) make this clear in a study of staff experience when management of an unnamed Australian university rolled out 16 large-enrolment blended-learning courses in 2019. Staff involved, “perceived institutional drivers for blending to be misaligned towards indiscriminately translating all courses, necessary or not, to an online format akin to a polished massive open online course product” the authors report (CMM May 28).
+
+**Implication**
+
+Ellis and Goodyear (2019) institutions should focus on a small set of activity systems where the different expertises work together.
+
+_not sure about this one_ Dron’s take is that the individuals involved in learning tasks bring and work toward their own individual purposes. Arguably that the best work is done helping with those specific purposes
 
 ## Phenomena
 
@@ -98,36 +119,58 @@ Illustrations
 
 ### The (im)possibilities of modality agnostic and phenomena independent
 
-The idea of HyFlex and others suggesting that L&T should be prepared in modality independent ways. (Turnbull et al., 2021)
+**Illustration**
 
-Perhaps link to (Stokoe, 2021) and similar points about in-person and online being very different phenomena. But also link to the point below about conversation of complexity. i.e. harnessing certain phenomena have a lot of “libraries” collected together to help.
+Calls for learning resources/activities that are independent of modality. e.g. Hybrid learning but also modularisation and the idea of HyFlex and others suggesting that L&T should be prepared in modality independent ways. (Turnbull et al., 2021)
 
-### Hidden elephants ?? hard, implicit phenomena
+Experiences during COVID of the students not turning on videos. Not engaging fully with online lectures
 
-Idea that ??? something about how we don't even see these things??
+**Implications**
 
-### Is training the only solution?
-### Primitive assemblies of technologies / Conversation of Complexity
+These modes are different contexts. They harness different phenemona. They are different.
+
+Perhaps link to (Stokoe, 2021) and similar points about in-person and online being very different phenomena. But also link to the point below about [conservation of complexity](https://humanist.co/blog/law-of-conservation-of-complexity/). i.e. harnessing certain phenomena have a lot of “libraries” collected together to help.
+
+### Primitive assemblies of technologies / Conservation of Complexity
+
+**Illustration**
+
+- The CYO studios being great assemblies for producing video, but little advice about what to do next? Or about design and broader considerations.
+- The card and content interface stuff
 
 The lack of digital fluency amongst students and especially staff have often been idenetified as a factor limiting the quality of online learning and teaching. (horizon report) Common recommendations has been the provision of e-learning training support for faculty (Turnbull et al., 2021) but…
 
+Pellaby et al (2020) found a lot of people developing L&T resources etc
+
+When was the last time you ran PD on how to use a lecture room? Maybe when new audio-visual equipment was added.  Why don't they need training for that, but...
+
+**Implications**
+
 Phenomena are assemblies of other technologies. Over a long history unviersities have developed quite complex assemblies of technologies designed to support face-to-face learning and teaching.  Very different modes require different assemblies of technologies. What 
 
-Illustrations
--	Blank canvas that is the LMS
--	The CYO studios being great assemblies for producing video, but little advice about what to do next? Or about design and broader considerations.
+The nature of the pheneomna for face-to-face has significantly less complexity for vast majority than online. Significantly underestimated the complexity required  [conservation of complexity](https://humanist.co/blog/law-of-conservation-of-complexity/)
+
+Our digital learning and teaching environments are crap. We need higher level phenomena to help learners and teachers to orchestrate.  Ellis and Goodyear (2019)
 
 ## Orchestration
 
+_Link to Dillenbourg (2013)_
+
 ### Which University account are you using?
 
-Best of Breed versus integrated system. #ngdle/VLE.  Fragmented digital learning experiences
+**Illustrations**
 
 Illustrations
 -	Unable to access Stream and other O365 resources, even though you’re logged in.
 -	PebblePad language/conceptions being very difficult
+-	Echo360 lecture embedding the new hated technology
 
-???
+**Implications**
+
+Orchestration is key, but support for that orchestration is at a very low level.
+
+Best of Breed versus integrated system. #ngdle/VLE.  Fragmented digital learning experiences
+
 
 
 ## Implications and conclusions
