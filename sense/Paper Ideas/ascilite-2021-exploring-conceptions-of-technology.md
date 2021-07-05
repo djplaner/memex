@@ -156,6 +156,27 @@ Our digital learning and teaching environments are crap. We need higher level ph
 
 _Link to Dillenbourg (2013)_
 
+### The reality of orchestrating digital platforms
+
+**Illustrations**
+
+- The lack of clean integration (and in places duplication) between all of the Microsoft products: Teams, Outlook, SharePoint, OneDrive etc. i.e. o365 is not an integrated system but a disparate patchwork platform that is slowly getting better
+- The promise of Graph API and Citizen Development enabling appropriate development but that being shut off by questions of security, but at the same time recommending SharePoint Lists for data storage
+- PAM atendance Power Automate where issues with scalability and wireless
+- Sway not allowing embedding of Location Explorer and Response Tool
+
+**Implications**
+
+These platforms are not just given, finished products. They need significant orchestration at multiple levels in the institution. The competing purposes of those orchestrations (purpopse proxies) lead to decisions that hamstring other practices. Decisions that can be made at the level of Microsoft excluding what we can do locally.
+
+Who is  making the decision to harden our technologies? Microsoft? Security? Learning and teaching?
+
+Benefits of open standards (softer technologies) WWW, etc. But that these benefits come with costs (more knowledge required) but that's compared to the cost of others making decisions about what we can/can't do
+
+
+
+...
+
 ### Which University account are you using?
 
 **Illustrations**
