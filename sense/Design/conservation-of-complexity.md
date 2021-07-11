@@ -4,11 +4,23 @@
 
 > All processes have a core of complexity that cannot be designed away. The only question is what handles it: the system, or the user. [Medium post](https://medium.com/@odannyboy/controls-are-choices-7de90363d0dd)
 
+[Tweet rephrasing as](https://twitter.com/dean_frey/status/1230303093373292544)
+> Every application has an inherent amount of irreducible complexity. The only question is: Who will have to deal with it - the user, the application developer, or the platform developer"
 
+Raising the question of how those layers apply to educational technology.
 
 ## Misc mentions
 
 > Larry Tesler argues that there are always some complications in the design. These complications exist in every aspect of the design. These complications cannot be simplified and must be converged in a reasonable way [[10](https://link-springer-com.libraryproxy.griffith.edu.au/chapter/10.1007/978-3-319-91806-8_59#CR10 "View reference")].
+
+[Tweet with image quote](https://twitter.com/rafael_luque/status/862958884750848002)
+> As you make the user interaction simpler you make things more complicated for the designer or engineer
+
+### [Complexity has to live somewhere](https://ferd.ca/complexity-has-to-live-somewhere.html)
+
+Link requisite variety and complexity. Norman's ideas of knowledge in the head and knowledge in the world.
+
+The phrase **complexity has to live somewhere** is a good one
 
 ## References
 
