@@ -1,6 +1,24 @@
 # Orchestration
 
 > We define orchestraiton as the real-time management of multi-plane scenarios under multiple constraints (Dillenbourg et al 2018, p. 181)
+- Multiple constraints: cognitive mechanisms of learning, limitations of the human brain, the epistemology of each field, constraints of formal education.
+- Multiple planes - difficulty of orchestration occurs especially when activity transitions include plane shifts. e.g. output of individual task used as input to collaborative task
+
+Evolution
+- investigated in the context of designing technologies with high "classroom usability"
+- evolved to modelling the process of classroom orchestration with novel analytics methods
+
+Other investigations
+- most efective ways to structure classroom activities to maiximise learning
+- logistics of the classroom - ways to support teachers but also into system level
+
+## Quotes
+
+> Usability, at any plane, remains an art, a quest to find the sweet spot in design trade-offs.
+
+> We often hear that the poor spread of learning technologies is due to either teachers’ resistance to technologies or lack of proper teacher training. While the latter is certainly true, another explanation is that any rational person—teacher or not—does not like tools that make his or her job more difficult. It has often been the case that learning technologies make classroom orchestration more difficult. (p. 188)
+
+> We don’t think that any learning scientist would deny the importance of the teacher role, but this role has for the most part been neglected in learning technologies. It is common to state that the designed learning environment should be learner-centric. It would be an overstatement to claim that it should instead be teacher-centric, especially if this was understood as synonymous to “more lec- turing.” But, as Study 1 illustrated, learner-centric technology also has to be teacher-centric to be used effectively in formal education.  
 
 ## Origins of orchestration
 
@@ -8,6 +26,7 @@ Dillenbourg et al (2018) link it to CSCL and the rise of collaboration scripts
 > The goal of collaboration scripts is to structure the tasks or tools assigned to teams in a way that maximizes the probability that productive interactions emerge (Dillenbourg & Hong, 2008). Productive interactions are interactions that produce learning effects such as conflict solving, explanation, argumentation, or mutual regulation. (p. 180)
 
 Define micro (internal to an activity) and macro scripts (sequence and transition between activities).  Macro script==classroom script
+
 
 ## Design principles for orchestration
 
