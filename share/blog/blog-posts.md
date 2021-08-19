@@ -10,7 +10,7 @@ Maybe this will enable me to complete more of the posts I start.
 
 ### Work in progress
 
-- [ ] [[exploring-drons-definition-of-educational-technology]]
+- [ ] [[conceptualising-teaching-activity]]
 - [ ] [[the-importance-of-orchestration-to-quality-learning-and-teaching]]
 - [ ] [[on-formal-qualifications-and-improving-learning-and-teaching]]
 - [ ] [[needs-for-learning-design-systems]]
@@ -30,6 +30,7 @@ Maybe this will enable me to complete more of the posts I start.
 
 ### Completed
 
+- [X] [[exploring-drons-definition-of-educational-technology]]
 - [x] [[what-are-the-symbols-in-digitial-education]]
 - [x] [[growth-of-the-card-interface]]
 - [x] [[do-little-things-matter]]
