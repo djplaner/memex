@@ -19,3 +19,5 @@ Above and beyond what the teacher/teaching team is doing the student also has to
 - made only harder with the rise of the VLE
 
 Grade's as the common technology.
+
+Robot's as a start...but limitations
