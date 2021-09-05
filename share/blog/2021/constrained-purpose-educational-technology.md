@@ -15,23 +15,40 @@ The argument below is that this is because all of the technologies (administrati
 ## Concrete examples
 
 The following are a couple of concrete examples. There are many others I could have added. Much of what I've been doing has been working around this difficulty. While there's a contextual uniqueness to much of this difficulty, these types of difficulties are present in other contexts
-### Concrete example #1 - distributing and introductory video
+
+### Concrete example #1 - entirely face-to-face - the control
+
+This is not an example I've been involved with for quite some time. Consider it almost a control group to compare against the following examples that have had the "treatment" of contempory Australian higher education applied.
+
+....
+
+### Concrete example #2 - Face-to-face - introductory video
 
 One of the most successful re-designs I've involved with has created a course getting feedback like this (all of the credit for this goes to the teaching staff)
 > ...my 19th unit...undisputably the best one, unparalleledon every level...with lots of interactive, interesting and entertaining content
 
-One example of the "entertaining content" are the introductory videos. Short, scripted videos introducing a week. Shot in a variety of unique situations that the script links interestingly to the week's important concepts or tasks. So good they've been used by another section of the university as examplars in professional development. However, the production and distribution of these videos required a significant amount of additional orchestration.
+One example of the "entertaining content" are the _face-to-face_ introductory videos. Short, scripted videos introducing a week. Shot in a variety of unique situations that the script links interestingly to the week's important concepts or tasks. So good they've been used by another section of the university as examplars in professional development. However, the production and distribution of these videos required a significant amount of additional orchestration.
 
 Video production required significant orchestration. Jury rigging a phone with external, a tripod, and an IPad into a variety of locales. Orchestration that was done without any institutional support. However, if you took note of the title of this section, then you know the focus here isn't on the production side. The focus is on distributing the video.
 
-Once a video is produced, how hard can it be to distribute it? How long has streaming video been around?
+Once a video is produced, how hard can it be to distribute it? How long has streaming video been around?  Leaving aside some historical complextiy. The current encouraged institutional option is Microsoft Stream, which comes free with the institution's adoption of Office 365. Stream is integrated with the institution's authentication system, Teams etc. Problem solved. But it's not.
 
-There are at least three streaming video services in use at my current university: YouTube, Vimeo and Microsoft Stream. Each with its advantages and disadvantages. YouTube has the lowest bar
+The following image is a screen-shot of a face-to-face learning activity. It's hosted in a Blackboard course site. To access this page you have to login to the institution's single-sign on (SSO) authentication system. The same system that O365 and Stream are apparently integrated with. But as you can see, it's not a _single_ sign on system, it's a _same_ sign on system. You have to login again (with your institutional O365 account) before the video will be ready to stream.
 
-- his physical set up and use of grandson
-- use of Stream - institutionally mandated - but make the point that institution still doesn't have a a perfect video hosting service
-- SSO that is same sign-on, requiring work arounds
-- e.g. link to video site and explanation on how to login
+Not ideal, but not that big of a problem, surely?
+
+Perhaps, unless you have more than one O365 account. It is increasingly common for people to have more than one O365 account. They often have a personal or work O365 account. Then they enrol at University and get another O365 account. If they have a personal account, they'll often be using that all the time. They'll always be logged in. They won't be logged into their University O365 account. Only their University O365 account will work with Stream.
+
+Then there are other possible issues with using Stream. All of a sudden sharing a streaming video on the web isn't all that easy. Students can have problems, get frustrated...meaning the teacher needs to include handling this in the course.
+
+![Face-to-face, but sign-in](images/stream-sign-in.png)
+
+In the above image you may be able to see near the bottom an accordion with the title _Transcript_. This course and its sister courses are often taken by incarcerated students. Students who are not allowed to access the streaming video. Just one reason to provide a transcript of videos.
+
+Good news, Microsoft Stream provides a pretty good [automatic caption generating functionality](https://docs.microsoft.com/en-us/stream/portal-autogenerate-captions).
+
+
+
 
 **insert diagram that shows the hierarchy of the technologies that combine to form the hosted video, echo the Arthur stuff**
 
