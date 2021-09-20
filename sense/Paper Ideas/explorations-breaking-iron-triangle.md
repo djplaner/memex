@@ -15,3 +15,8 @@ Idea for an abstract/paper for Theta'2022
 ## Ideas
 
 Downes pulls apart ALT ethical framework, including priority given to the autonomy of others
+
+### Against User Centered Design - more systems
+
+[Beyond the lens of UCD](https://alexis.medium.com/camera-obscura-beyond-the-lens-of-user-centered-design-631bb4f37594) makes three points against UCD, including "obscuring possibility"
+
