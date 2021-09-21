@@ -20,3 +20,22 @@ Downes pulls apart ALT ethical framework, including priority given to the autono
 
 [Beyond the lens of UCD](https://alexis.medium.com/camera-obscura-beyond-the-lens-of-user-centered-design-631bb4f37594) makes three points against UCD, including "obscuring possibility"
 
+### Learning technology and COVID
+
+[How learning technology can help?](https://educationimp.wordpress.com/2021/09/16/how-learning-technology-can-help/?utm_source=sendgrid.com&utm_medium=email&utm_campaign=website)
+
+Description of technologists involvement in generating a Scottish Government report around COVID. With a particular focus on what it says about learning technology.
+
+With particular quotes/recommendations including
+- "Institutions will need to explore increased support for teaching staff"
+  Which doesn't mention anything about "multi discplinary teams to support learning"  
+- "We expect institutions to explore internal efficiency measures, for example, increasing class sizes, reducing the percentage of income spent on staffing, ensuring support staff arrangements are appropriate to the size of the institution..."
+
+The author concludes
+> What started with the Scottish Government looking for ways to utilise support staff expertise in the development and delivery of online & blended learning ultimately narrows to educators having to take on more responsibility, and support staff being cut....Or perhaps more likely a middle ground, where the use of multi-disciplinary teams of subject specialists, learning techs/developers, admin & IT all come together to deliver teaching and support learning?
+
+Highlighting the failed focus on the activity system/ecosystem?
+
+[Response to the above](https://educationimp.wordpress.com/2021/09/19/response-to-how-learning-technology-can-help/) a follow up blog post that distills a twitter thread of responses.  
+
+Highlighting different perspectives, including the challenge of educators wanting some sense of ownership of their work and also the challenge of clashes of perspective/purpose/goal
