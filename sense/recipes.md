@@ -13,6 +13,7 @@
 
 - [Crispy Chilli Beef](https://www.kitchensanctuary.com/crispy-chilli-beef/#wprm-recipe-container-9946)
 - [[stir-fried-pork-fillets]]
+- [[fried-green-beans-chilli]]
 
 ## Indian
 
@@ -36,6 +37,8 @@
 [ginger-nuts]: Recipes/ginger-nuts "ginger-nuts"
 [anzac-biscuits]: Recipes/anzac-biscuits "Anzac Biscuits"
 [lamb-massaman-curry]: Recipes/lamb-massaman-curry "Massaman Lamb Curry"
+[stir-fried-pork-fillets]: Recipes/stir-fried-pork-fillets "stir-fried-pork-fillets"
+[fried-green-beans-chilli]: Recipes/fried-green-beans-chilli "fried-green-beans-chilli"
 [chilli-chicken]: Recipes/chilli-chicken "Chilli Chicken"
 [gloria-hyatts-scone-recipe]: Recipes/gloria-hyatts-scone-recipe "Gloria Hyatt’s scone recipe"
 [nats-bolognaise]: Recipes/nats-bolognaise "Nat's What I Reckon - bolagnaise"
