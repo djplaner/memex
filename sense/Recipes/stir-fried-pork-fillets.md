@@ -3,24 +3,24 @@
 
 ### Ingredients
 
-600gm pork fillets cut into 5mm pieces
-¼ cup vegetable oil
-6 spring onions, trimmed and cut into 10cm pieces
-1 tbsp malt vinegar
-1 tbsp light soy sauce
-1 tbsp water
-2 limes, halved
+- 600gm pork fillets cut into 5mm pieces
+- .25 cup vegetable oil
+- 6 spring onions, trimmed and cut into 10cm pieces
+- 1 tbsp malt vinegar
+- 1 tbsp light soy sauce
+- 1 tbsp water
+- 2 limes, halved
 
 ### Marinade
 
-2 tbsp honey
-2 tbsp light soy sauce
-2 tbsp shao hsing wine or dry sherry
-2 tbsp finely diced ginger
-1 tbsp oyster sauce
-2 tsp dark soy sauce
-2 tsp five-spice powder
-½ tsp sesame oil
+- 2 tbsp honey
+- 2 tbsp light soy sauce
+- 2 tbsp shao hsing wine or dry sherry
+- 2 tbsp finely diced ginger
+- 1 tbsp oyster sauce
+- 2 tsp dark soy sauce
+- 2 tsp five-spice powder
+- .5 tsp sesame oil
 
 ### Method
 

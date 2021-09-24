@@ -2,13 +2,13 @@
 
 ### Ingredients
 
-Vegetable oil for deep-frying
-150g green beans
-1.5 Tablespoons hoisin sauce
-.5 teaspoon finely diced garlic
-.25 teaspoon sea salt
-.25 teaspoon vegetable oil, extra
-2 large red chillies, cut in half lengthways and seeds scraped
+- Vegetable oil for deep-frying 
+- 150g green beans 
+- 1.5 Tablespoons hoisin sauce 
+- .5 teaspoon finely diced garlic
+- .25 teaspoon sea salt 
+- .25 teaspoon vegetable oil, extra 
+- 2 large red chillies, cut in half lengthways and seeds scraped
 
 ### Directions
 
