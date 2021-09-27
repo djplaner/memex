@@ -16,6 +16,46 @@ Idea for an abstract/paper for Theta'2022
 
 Downes pulls apart ALT ethical framework, including priority given to the autonomy of others
 
+### Linkages to other practices 
+
+### Dx
+
+[EDUCASE's Dx push](https://www.educause.edu/showcase-series/how-dx-powers-the-post-pandemic-institution?utm_source=sendgrid.com&utm_medium=email&utm_campaign=website)
+
+Some of the [same drivers](https://docs.google.com/presentation/d/1xlJ9YL7hnrlqJU_gZVqlukQyDxpeiHai/edit#slide=id.p3)
+- The pandemic
+- Pervasive adoption of technology across colleges and universities
+- New expectations about technology from students
+- Increased skepticism about higher education
+- Reduced public funding
+- Advances in technology
+- Increased emphasis on data as institutional strategic asset
+- …and many other factors
+
+Largely the [same intended outcomes](https://docs.google.com/presentation/d/1xlJ9YL7hnrlqJU_gZVqlukQyDxpeiHai/edit#slide=id.p6) that drive student success
+- Improving the student experience
+- Improving retention
+- Improving faculty teaching and advising
+- Improving students’ course performance
+- Reducing students’ time to completion
+
+And mentions some other potentially important points
+- Involves a foundational shift such as changes to the underlying business model and approach
+- Requires changes that are holistic in nature
+- Enables an institution to differentiate itself
+- Involves continuing effort–it’s not a “once and done” solution
+- [Areas of impact](https://docs.google.com/presentation/d/1xlJ9YL7hnrlqJU_gZVqlukQyDxpeiHai/edit#slide=id.p11) **Shift from risk avoidance to risk management** though I imagine IT guys interpret this differently than I
+- AoI - **New levels of cross-organisational collaboration** - Ellis & Goodyear - activity systems could fit here.
+- AoI - **Rapid decision-making adaptation to changing circumstances and new opportunities** allowing local change, CAS et
+
+But seems mostly focused on what management does. Defined [actionable steps for campus leaders](https://docs.google.com/presentation/d/1xlJ9YL7hnrlqJU_gZVqlukQyDxpeiHai/edit#slide=id.p12) end up with
+- Define transformation goals and set up matrixed response teams to execute on transformations
+
+No description (yet seen) of how and what transformations those teams work on. Also has heavy focus on key institutional goals and ambitions.
+
+
+
+
 ### Against User Centered Design - more systems
 
 [Beyond the lens of UCD](https://alexis.medium.com/camera-obscura-beyond-the-lens-of-user-centered-design-631bb4f37594) makes three points against UCD, including "obscuring possibility"
