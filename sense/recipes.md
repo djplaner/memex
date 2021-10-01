@@ -20,6 +20,9 @@
 - [[chilli-chicken]]
 - [Serious Eats' Lamb Biryani](https://www.seriouseats.com/recipes/2020/07/lamb-biryani.html)
 
+## Stews
+
+- [Spicy Pork Stew with Peppers and Potatoes](https://www.finecooking.com/recipe/spicy-pork-stew-with-peppers-and-potatoes)
 ## Baking
 
 - [[gloria-hyatts-scone-recipe]]
