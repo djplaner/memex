@@ -9,7 +9,15 @@ Idea for an abstract/paper for Theta'2022
 - Paper reports on explorations from GU using combinations of alternate theoretical conceptualisations of educational technology, entangled pedagogy etc...and contemporary technologies such as RPA, web components and citizen development
 - Talk about the outcomes - widespread adoption of the Card Interface
 
+Ryan et al (2021) 
+
+- establish key issue as maintain quality while at scale ([[iron-triangle]]) not even taking into account increasing scope due to COVID
+- identify "Offloading administrative and technical support" as a method for dealing but focus on "learner support" thru "smart" tools. Apparently ignoring the idea of providing tools and processes that actively help with the challenge of teaching
+
+
 ## Abstract
+
+Already facing massification, reduction in funds, with COVID higher ed is facing increasing need for flexibility and scope (micro-credentials etc)
 
 
 ## Ideas
