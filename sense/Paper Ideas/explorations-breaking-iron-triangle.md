@@ -18,6 +18,10 @@ Downes pulls apart ALT ethical framework, including priority given to the autono
 
 ### Linkages to other practices 
 
+### Technological change
+
+> All the numerous technology studies of the 20th century share one conclusion: it is simply wrong to conceptualise technological evolution according to a simple, linear model, no matter how appealing the simplification. Technological evolution is neither simple nor linear. Its four major characteristics are instead that it is uncertain, dynamic, systemic and cumulative. (Grubler 2003, p. 21)
+
 ### Dx
 
 [EDUCASE's Dx push](https://www.educause.edu/showcase-series/how-dx-powers-the-post-pandemic-institution?utm_source=sendgrid.com&utm_medium=email&utm_campaign=website)
