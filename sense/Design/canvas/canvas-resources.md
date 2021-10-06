@@ -26,6 +26,8 @@ Curated list of Community and open source contributions. A fair number out of da
 
 ## Course design
 
+- [How can I...structure my Canvas subject effectively?](https://lx.uts.edu.au/collections/examples-canvas-sites/resources/how-can-i-structure-my-canvas-subject-site-effectively/) - USyd page with some good content
+
 ### [Canvas course design overview](https://miracosta.instructure.com/courses/7500)
 
 A focus on rebuilding a Bb course in Canvas, includes
