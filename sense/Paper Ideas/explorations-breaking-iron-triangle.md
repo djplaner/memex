@@ -1,5 +1,47 @@
 # Breaking the iron triangle
 
+## Submission 
+
+
+### Presentation title of no more than 50 words
+
+Explorations in breaking the iron triangle: Alternate conceptualisations and contemporary technologies for moving beyond the pivot
+
+### Abstract of between 300 and 350 words
+
+Prior to 2020 breaking the iron triangle - ?? - was a key challenge for higher education. A challenge that has only grown with the pandemic enforced, rapid, and en masse "pivot" online. While there remains uncertainty about what happens "beyond the pivot" it appears certain to involve a need to increase flexibility, quality and scale. To break the iron triangle.  There will be no simple, certain answers to this complex challenge. Though it is not likely to arise from continuing existing conceptualisations and practice.
+
+This session will share experiences from within one Australian university as we explored alternate conceptualisations of the challenge and the innovative application of contemporary technologies to break the iron triangle. _something about the success_
+
+Conceptualisations
+- complex adaptive systems, law or requisite variety, and Tesler's law
+- Dron's definition of educational technology and entangled model _get name_
+- task oriented design with the task being forward-oriented design for learning
+- middle out and bottom up, rather than top-down
+
+Alternate technologies
+- citizen development
+- robot process Automation
+- web components
+
+
+### Author details 
+
+> including name, title, affiliation and a biography of 200 to 250 words for all named authors
+
+David Jones
+Learning & Teaching Consultant (Design)
+Griffith University
+
+David has worked in higher education for almost 30 years. Most of that time has been spent figuring out how to improve and transform learning and teaching, including the use of digital technologies. A tinkerer with a love for kludges and bricolage...awards etc.
+
+### Alignment with sub-themes
+
+> A statement of no more than 50 words outlining how your submission aligns with one of the sub-themes for the conference
+
+The explicit aim of the session will be to share ideas and generate discussion around how universities can move "Beyond the 'Pivot'". With particular focus on how to improve and transform "emergency remote instruction" sustainably and at scale.
+
+
 ## Titles
 
 Explorations in breaking the iron triangle: Alternate conceptualisations and contemporary technologies
