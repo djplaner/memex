@@ -88,6 +88,23 @@ Downes pulls apart ALT ethical framework, including priority given to the autono
 
 ### Linkages to other practices 
 
+### Ellis and Goodyear 
+
+I'm wondering if what we saw today was Rob's response to the following from Ellis & Gooyear (2019)
+
+- "most of the effort by L&T centres is directed to a small minority of willing academics" (p. 202) 
+> e.g. Rob's 20% who use the LMS, know how to integrate different bits of the VLE, and probably have courses with strong constructive alignment.
+- such “centres are not equipped or motivated to operate strategically, at scale” (p. 202)
+> How we help that 20% is never going to impact the remaining 80%.
+- and thus institutional strategy around learning and teaching should shift “to infrastructures and service interfaces for a manageably small set of particularly valued activity systems” (p. 188)
+> e.g. is the migration process (labs, CoPs etc) the best "infrastructure and service interfaces" we can hope for?
+
+I also like Goodyear's (2009) suggestion for the "short arc teacher" (i.e. Rob's 60%) "embed good ideas in these tools"
+
+### Technological change
+
+> All the numerous technology studies of the 20th century share one conclusion: it is simply wrong to conceptualise technological evolution according to a simple, linear model, no matter how appealing the simplification. Technological evolution is neither simple nor linear. Its four major characteristics are instead that it is uncertain, dynamic, systemic and cumulative. (Grubler 2003, p. 21)
+
 ### Dx
 
 [EDUCASE's Dx push](https://www.educause.edu/showcase-series/how-dx-powers-the-post-pandemic-institution?utm_source=sendgrid.com&utm_medium=email&utm_campaign=website)
