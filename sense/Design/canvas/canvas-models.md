@@ -2,6 +2,13 @@
 
 Attempt to distill the models that underpin Canvas
 
+## Canvas limitations/concerns
+
+- Rich Text Editor (RTE) configuration 
+    - Currently removes all Javascript, non-standard HTML (e.g. web components) and "advanced" CSS (inline or not)
+- Javascript can be added at admin/account level (i.e. IT department) - will they?
+- Will we have access to the Canvas REST  and other APIs
+
 ## Misc notes
 
 - Canvas does not have folders - uses Modules and Pages to organise content and assessments
@@ -26,6 +33,9 @@ Intended to make organisation and navigation easier [source](https://sites.rmit.
 
 ## Templates
 
+Canvas has the ["Ready-Made Template" suite](https://community.canvaslms.com/t5/Canvas-Instructional-Designer/2020-Course-Design-Essentials-Ready-Made-Template-Refresh/td-p/278763)
+> help reduce stress load, encourage growth and help course creators design an engaging Canvas experience by turning a blank course shell into a fill-in-the-blank Canvas course.
+
 - [Canvas style guides (deprecated?)](https://griffith.instructure.com/styleguide) being replaced by [some REACT thing](https://instructure.design/)
 - [Three approaches to creating a Canvas template](https://www.unicon.net/insights/articles/three-approaches-to-creating-a-canvas-template)
 - e.g. [USyd](https://lx.uts.edu.au/collections/examples-canvas-sites/resources/how-can-i-structure-my-canvas-subject-site-effectively/) provides templates for pages in Canvas
@@ -36,6 +46,7 @@ Intended to make organisation and navigation easier [source](https://sites.rmit.
 ## Work arounds
 
 - Apparently embedding web pages from a secure server is one workaround [source](https://wordpress.miracosta.edu/joyfulteaching/2017/07/22/lisas-dozen-tips-for-canvas/)
+- [Embedding javascript](https://community.canvaslms.com/t5/Canvas-Question-Forum/How-do-I-add-javascript-in-the-HTML-editor/m-p/120884/highlight/true#M41789) - Laura's published workaround.  JS and call to JS in a page, included in an iframe
 
 ## User scripts
 
