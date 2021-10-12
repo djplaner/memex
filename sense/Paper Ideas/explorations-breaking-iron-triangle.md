@@ -1,5 +1,6 @@
 # Breaking the iron triangle
 
+[[iron-triangle]]
 ## Submission 
 
 
