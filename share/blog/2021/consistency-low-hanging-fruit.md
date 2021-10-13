@@ -8,6 +8,25 @@ category="casa"
 img_base_url="https://djplaner.github.io/memex/share/blog/2021/"
 ```
 
+#### Tweet 
+
+Perhaps the problem isn't freedom. Maybe course site design doesn't vary due to whim, but because no person has all the knowledge necessary for great design for learning. It is hard & our tools & methods suck.  Making everything the same gives the illusion of quality but...1/7
+
+Suffers from problems. e.g. the reusability paradox. https://course.oeru.org/ds4oer/learning-pathways/orientation/the-reusability-paradox/ A design that applies to all, is rarely the best for any specific case 2/?
+
+By being unable to respond to design for learnings inherent diversity you get an environment with "...less variety than a bad fast food restaurant" https://drive.google.com/file/d/16_DVNva7q4Jd_sD2Dsl5t29qGAb5QXga/view (Dede, 2008) 3/7
+
+Minimum standards tend to become the maximum standard. If you use the template you can't get in "trouble". You're doing the "right thing". Responding effectively to contextual need by breaking the standard is seen as a "sin".  https://djon.es/blog/2009/06/19/why-minimium-standards-probably-wont-work-and-will-probably-become-maximum-standards/ 4/7
+
+Perhaps the problem we face is providing the appropriate knowledge for contextual design for learning sustainably and at scale. Consistency is better than the status quo. But I don't think it's enough. Please don't stop there. 5/7
+
+A couple of designers (i.e. not organisation) are trying one approach that has resulted in an increase in consistency. But, that was a side effect of providing access to appropriate design knowledge that allowed for contextualisation. Early description here https://djon.es/blog/2019/08/08/exploring-knowledge-reuse-in-design-for-digital-learning-tweaks-h5p-constructive-templates-and-casa/ 6/7
+
+Not **the** solution, but a small project now used **voluntarily** in hundreds of courses across multiple institutions e.g. https://twitter.com/iainmacl/status/1446219223785672706 
+
+
+###
+
 Chances are that your university has had, currently has, or will very soon have a _consistency_ project. A project intended to respond to the problem [@neilmosley05](https://twitter.com/neilmosley5) raised in this tweet
 https://twitter.com/neilmosley5/status/1446167271039242253
 
