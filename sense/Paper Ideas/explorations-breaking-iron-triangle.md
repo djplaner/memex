@@ -12,7 +12,24 @@ Explorations in breaking the iron triangle: Alternate conceptualisations and con
 
 flexibility, quality, scale?
 
-Breaking the iron triangle - ?? - has long been a key challenge for learning and teaching in higher education. ??A challenge that has only grown with the pandemic enforced, rapid, and en masse "pivot" online??. While there remains uncertainty about what happens "beyond the pivot" it appears certain to involve a need to increase flexibility, quality and scale. To break the iron triangle.  There are no simple answers to this complex challenge. ??Though it is not likely to arise from continuing existing conceptualisations and practice??.
+Projects can be usefully seen as having three constraints that are inextricably linked and form an iron triangle. 
+
+With learning and teaching in higher education the most commonly discussed constraints are: cost of provision; quality of experience; and scale and diversity of access. 
+
+Attempts to change one of those constraints inevitably impacts the other constraints. 
+
+For some time, a key challenge for higher education has been how to maintain quality whilst increasing scale and diversity.
+
+The pandemic enforce pivot online led to a rapid, change to 
+
+
+
+Providing access to high quality L&T via various modes to a large and diverse student body
+Trying to change one of those constraints inevitably impacts the other constraints.
+- ?? - has long been a key challenge for learning and teaching in higher education. 
+**defined as??**
+The pandemic's enforced mass pivot online 
+A challenge accelerated ienced that has only grown with the pandemic enforced, rapid, and en masse "pivot" online??. While there remains uncertainty about what happens "beyond the pivot" it appears certain to involve a need to increase flexibility, quality and scale. To break the iron triangle.  There are no simple answers to this complex challenge. ??Though it is not likely to arise from continuing existing conceptualisations and practice??.
 
 This session will share the approaches, questions, challenges, and successes from within one Australian university as we explored how to break the iron triangle before, during and  after the pivot. It will explain how we've drawn on alternate conceptualisations (e.g. the Law of Requisite Variety, Tesler's Law, activity-centered design, Dron's definition of educational technology, Fawn's entangled model, Goodyear's forward-oriented approach to design for learning...?IS dig tech, NoDT?) and harnessed contemporary technologies (e.g. web components, citizen development, robot process automation etc.) to chip away at the iron triangle ??using middle-out and bottom-up strategies??. It will demonstrate practices developed for our projects. Practices that address strategic priorities more sustainably and scaleably than available enterprise solutions based on more accepted conceptualisations and technologies. ??Some of which have subsequently been adopted for use in hundreds of courses beyond our unit and our institution.??
 
