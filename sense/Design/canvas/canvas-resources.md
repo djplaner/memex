@@ -23,6 +23,11 @@ Collection point for misc Canvas resources - see also [[canvas-models]] and [[ca
 
 Curated list of Community and open source contributions. A fair number out of date/broken links
 
+## Examples
+
+Lists
+- [Sample layouts from NorthWestern](https://canvas.northwestern.edu/courses/44486/pages/sample-canvas-course-layouts?module_item_id=520943)
+- [Collection of home page designs](https://community.canvaslms.com/t5/Canvas-Instructional-Designer/Template-for-Canvas-Homepage/m-p/79770/highlight/true#M2523)
 
 ## Course design
 
