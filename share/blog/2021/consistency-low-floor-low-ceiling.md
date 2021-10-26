@@ -6,7 +6,8 @@ For higher education institutions working with an LMS _consistency_ is seen as i
 
 In summary, I think a focus on consistency ends up with learning environments that are the equivalent of a "bad fast-food restaraunt" (see this quote from Dron**link**). To a large extent this is because the results of most consistency projects is a L&T environment that helpfully has a low floor. It makes it easier to do the right thing. But the environment also has a low ceiling. It makes it harder and much less likely that anything more can or will be done. Hence bad fast food. 
 
-My argument is this largely arises because consistency projects are based on limited conceptualisation of the task. _content editing rather than design for learning_
+***??? question about this point*** My argument is this largely arises because consistency projects are (in my experience) typically based on limited conceptualisation of the task. _content editing rather than design for learning_
+
 
 
 
