@@ -2,7 +2,7 @@
 
 # Consistency: Low floor and low ceiling
 
-For higher education institutions working with an LMS _consistency_ is seen as important. For more detail on the arugment for consistency see **mosley's post**. The institution I currently work for is embarking on an LMS migration. "Consistency projects" are seen as an important part of that migration. I'm part of one of those projects. I'm not a fan of consistency (see **this twitter thread**). I don't think it works.  The following explains what I think consistency gets right, what it gets wrong, and argues for a different approach.
+For higher education institutions working with an LMS _consistency_ is seen as important. For more detail on the arugment for consistency see ["Freedom and the Learning Management System"](https://www.neilmosley.com/blog/freedom-and-the-lms) from Neil Mosley. **mosley's post**. The institution I currently work for is embarking on an LMS migration. "Consistency projects" are seen as an important part of that migration. I'm part of one of those projects. I'm not a fan of consistency (see **this twitter thread**). I don't think it works.  The following explains what I think consistency gets right, what it gets wrong, and argues for a different approach.
 
 _low hanging fruit tweet quote_
 

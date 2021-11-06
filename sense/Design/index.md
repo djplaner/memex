@@ -7,6 +7,7 @@ Bubble holding misc. thoughts about design.
 - [[conservation-of-complexity]]
 - [[goodyear-shaping-spaces]]
 - [[iron-triangle]]
+- [[]]
 
 ## Design systems
 
