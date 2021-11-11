@@ -7,7 +7,10 @@ Bubble holding misc. thoughts about design.
 - [[conservation-of-complexity]]
 - [[goodyear-shaping-spaces]]
 - [[iron-triangle]]
-- [[]]
+
+## Activity Centered Design
+
+- [[norman-activity-centered-design]]
 
 ## Design systems
 
@@ -45,6 +48,7 @@ Bubble holding misc. thoughts about design.
 [conservation-of-complexity]: conservation-of-complexity "The Law of Conservation of Complexity"
 [goodyear-shaping-spaces]: goodyear-shaping-spaces "Shaping Spaces - Peter Goodyear ALTC 2017 Keynote"
 [iron-triangle]: iron-triangle "Iron Triangle"
+[norman-activity-centered-design]: norman-activity-centered-design "norman-activity-centered-design"
 [atomic-design]: atomic-design "Atomic Design"
 [design-systems]: design-systems "Design Systems"
 [joyce-learning-design-systems]: joyce-learning-design-systems "Joyce Learning Design Systems"
