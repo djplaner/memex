@@ -2,6 +2,8 @@
 
 Attempt to distill the models that underpin Canvas
 
+- [UTS' glossary of Canvas terms](https://lx.uts.edu.au/collections/planning-your-canvas-course/resources/glossary-of-canvas-terms/)
+
 ## Canvas limitations/concerns
 
 - Rich Text Editor (RTE) configuration 
