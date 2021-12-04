@@ -1,5 +1,9 @@
 # Iron Triangle
 
+## Old engineer's saying
+
+Quote from Norman (1998) - [chapter 10](https://www.nngroup.com/articles-want-human-centered-development-reorganize/)
+> What do you want for your product? Good quality? Inexpensive? Quick to get to the market?  Good, cheap, quick: pick any two. 
 ## Definition
 
 Where three constraints are used to identify project success. The three constraints form the vertices that form a triangle. The triangle represents that attempting to move one of the constraints (e.g. improving quality) will require the other two points to change (e.g. cost will increase)

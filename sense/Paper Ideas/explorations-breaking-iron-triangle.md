@@ -3,7 +3,6 @@
 [[iron-triangle]]
 ## Submission 
 
-
 ### Presentation title of no more than 50 words
 
 Explorations in breaking the iron triangle: Alternate conceptualisations and contemporary technologies for moving beyond the pivot
