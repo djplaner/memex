@@ -1,5 +1,24 @@
 ## Canvas LMS API
 
+### Canvas API wrappers
+
+#### Python
+
+- [Canvasapi 2.20](https://pypi.org/project/canvasapi/) - UC Florida Open
+    - Used in over 100+ repos
+    - [file class](https://github.com/ucfopen/canvasapi/blob/develop/canvasapi/file.py) 
+    - [Uploader class](https://github.com/ucfopen/canvasapi/blob/develop/canvasapi/upload.py)
+
+#### Javascript
+
+- [neurotech/canvas-api](https://github.com/ucfopen/canvasapi/blob/develop/canvasapi/file.py)
+    - For npjs - could be example of good way to do this.
+        - [unpkg](https://unpkg.com/browse/canvas-api@3.6.0/) and [git](https://github.com/neurotech/canvas-api)
+    - no files
+- [harvard-edtech/caccl](https://github.com/harvard-edtech/caccl) - more a app generator for Canvas JS apps
+
+
+
 ### Resources
 
 - [Canvas LMS API documentation](https://canvas.instructure.com/doc/api/)
