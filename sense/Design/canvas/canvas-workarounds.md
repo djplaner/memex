@@ -2,6 +2,13 @@
 
 Collecting various existing workarounds for Canvas
 
+## Canvas Issues
+
+- [Accruate bredcrumb trail in Modules](https://community.canvaslms.com/t5/Idea-Conversations/Accurate-Breadcrumb-Trail-in-Modules/idi-p/379129/page/4)
+- Modules collapse by default
+- No next page on last item of module
+- No nested modules
+- [bulk upload of pages outside HTML editor](https://community.canvaslms.com/t5/Idea-Conversations/Bulk-upload-of-pages-created-in-an-outside-HTML-editor/idi-p/450488) - includes a comment with a Python script to do it
 
 ## Modules
 

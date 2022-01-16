@@ -5,3 +5,9 @@
 - [Learning Javascript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) - O'Reilly book
 - [Comprehensive Javascript patters](https://www.toptal.com/javascript/comprehensive-guide-javascript-design-patterns)
 
+### es6
+
+- [es6-design-patterns](https://loredanacirstea.github.io/es6-design-patterns/)
+- [7 most useful es6 design patterns](https://www.velotio.com/engineering-blog/design-patterns-in-es6)
+    - Module basic Javascript usage - Explore for canvas-collections
+    - Factory - c-c
