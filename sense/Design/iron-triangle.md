@@ -1,5 +1,7 @@
 # Iron Triangle
 
+[[iron-triangle-reusability-paradox]]
+
 ## Old engineer's saying
 
 Quote from Norman (1998) - [chapter 10](https://www.nngroup.com/articles-want-human-centered-development-reorganize/)
