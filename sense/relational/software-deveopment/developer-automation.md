@@ -1,6 +1,10 @@
 # Developer automation
 
-Ideas about how, why, and perspectives on software developers automating tasks
+Ideas about how, why, and perspectives on software developers automating tasks.
+
+## See also
+
+- [[three-great-virtues-programmer]]
 
 
 ## Themes
@@ -8,8 +12,23 @@ Ideas about how, why, and perspectives on software developers automating tasks
 - Robots/automation will replace software developers
 - 
 
-## Larry Wall - [Three great virtues of a programmer](https://wiki.c2.com/?LazinessImpatienceHubris)
 
+## xkcd
+
+[Automation](https://xkcd.com/1319/) - with the reveal - and read a [deeper explanation](https://www.explainxkcd.com/wiki/index.php/1319:_Automation)
+> 'Automating' comes from the roots 'auto-' meaning 'self-', and 'mating', meaning 'screwing'
+
+![Automation](xkcd-automation.png)
+
+[Is it worth the time?](https://xkcd.com/1205/) - with the reveal
+> Don't forget the time you spend finding the chart to look up what you save. And the time spent reading this reminder about the time spent. And the time trying to figure out if either of those actually make sense. Remember, every second counts toward your life total, including these right now.
+
+[The general problem](https://xkcd.com/974/)
+> I find that when someone's taking time to do something right in the present, they're a perfectionist with no ability to prioritize, whereas when someone took time to something right in the past, they're a master artisan of great foresight.
+
+![](xkcd-generalProblem.png)
+
+![](xkcd-worthTime.png)
 
 
 
