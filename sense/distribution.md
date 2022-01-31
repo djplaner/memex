@@ -22,7 +22,7 @@
 [blackboard-tweaks]: Distribution/blackboard-tweaks "Blackboard tweaks"
 [commons-based-peer-production]: Distribution/commons-based-peer-production "Commons-based peer production"
 [interoperatiblity-taxonomy]: Distribution/interoperatiblity-taxonomy "Interoperability Taxonomy"
-[instrumental-gensis]: Distribution/instrumental-gensis "instrumental-gensis"
+[instrumental-gensis]: Distribution/instrumental-gensis "Instrumental Genesis"
 [ngdle---next-generation-digital-learning-environment]: Distribution/ngdle---next-generation-digital-learning-environment "NGDLE - Next Generation Digital Learning Environment"
 [situated-cognition]: Distribution/situated-cognition "Situated cognition"
 [social-pedagogies]: Distribution/social-pedagogies "Social Pedagogies"

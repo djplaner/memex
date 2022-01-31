@@ -2,6 +2,13 @@
 
 Collecting various existing workarounds for Canvas
 
+## UserScripts and other scripts
+
+- [Greasy Fork's list of userscripts for instructure](https://greasyfork.org/en/scripts/by-site/instructure.com)
+- [Canvas course section on userscripts](https://learn.canvas.net/courses/1176/pages/1-dot-3-1-userscripts-and-script-managers)
+- [Canvancements - Canvas Enhancements](https://community.canvaslms.com/t5/Higher-Ed-Canvas-Users/Canvancements-Canvas-Enhancements/ba-p/246997)
+    List of resources from the one guy. 
+
 ## Canvas Issues
 
 - [Accruate bredcrumb trail in Modules](https://community.canvaslms.com/t5/Idea-Conversations/Accurate-Breadcrumb-Trail-in-Modules/idi-p/379129/page/4)
