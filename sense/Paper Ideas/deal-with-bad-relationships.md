@@ -16,6 +16,12 @@ A case study of an LMS migration
 - BAD to encapsulate broader/deeper theoretical viewpoints
 - But with a tendency toward action - how to do things as MLPs
 
+## [Fawn's entangled relationship of technology and pedagogy](https://open.ed.ac.uk/an-entangled-pedagogy-views-of-the-relationship-between-technology-and-pedagogy/)
+
+The "actual" column from Fawn's entangled view of the relationship provides the core (perhaps) of the conceptual framework. Puts relational design and orchestration as the key skill.
+
+![](Fawns-entangled-relationship.png)
+
 ## Example bad relationships
 
 - organisations with technology - technology as established
