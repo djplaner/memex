@@ -2,6 +2,9 @@
 
 Placeholder for all sorts of information related to developing for //community.canvaslms.com/t5/Canvas
 
+## [artevelde-uas/canvas-lms-app](https://github.com/artevelde-uas/canvas-lms-app)
+
+App "template" with webpack confic etc and approach for developing apps for Canvas - similar to what's evolving with the [[word-to-canvas]] project.
 ## Interface
 
 - [Canvas Icons](https://instructure.design/#iconography)
