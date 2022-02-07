@@ -16,7 +16,13 @@ A case study of an LMS migration
 - BAD to encapsulate broader/deeper theoretical viewpoints
 - But with a tendency toward action - how to do things as MLPs
 
-## [Fawn's entangled relationship of technology and pedagogy](https://open.ed.ac.uk/an-entangled-pedagogy-views-of-the-relationship-between-technology-and-pedagogy/)
+## Possible sources/theories etc 
+
+### Implement H5P online interactive activities at scale
+
+[ascilite paper](https://www.researchgate.net/publication/356816265_Implementing_H5P_Online_Interactive_Activities_at_Scale/link/61aec9fefb3b7258a0a25765/download) from VU talking about scaling h5p.  Quick skim suggests it focuses on the curriculum design side of things, doesn't talk about technological, or forward-design requirements.  i.e. a good example? of a very atomistic approach, not the whole picture.
+
+### [Fawn's entangled relationship of technology and pedagogy](https://open.ed.ac.uk/an-entangled-pedagogy-views-of-the-relationship-between-technology-and-pedagogy/)
 
 The "actual" column from Fawn's entangled view of the relationship provides the core (perhaps) of the conceptual framework. Puts relational design and orchestration as the key skill.
 
