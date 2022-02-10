@@ -1,5 +1,6 @@
 # A taxonomy of bad edtech relationships
 
+Tie in with Dede's eating, sleeping, bonding analogy
 
 ## Nascent scratch space
 
@@ -15,7 +16,9 @@ e.g. Ellis and Goodyear (2019) argument that instituitons can identify the what,
 
 i.e. I'm not a technology person, so i can't possibly do that
 
+### All relationships are the same
 
+i.e. lets be consistent
 
 ## See also
 
