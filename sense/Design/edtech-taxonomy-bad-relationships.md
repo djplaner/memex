@@ -1,5 +1,7 @@
 # A taxonomy of bad edtech relationships
 
+Or - Can you break the iron triangle with bad relationships: Observations from an LMS migration
+
 Tie in with Dede's eating, sleeping, bonding analogy
 
 ## Nascent scratch space
