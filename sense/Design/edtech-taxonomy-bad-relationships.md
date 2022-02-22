@@ -1,6 +1,8 @@
 # A taxonomy of bad edtech relationships
 
-Or - Can you break the iron triangle with bad relationships: Observations from an LMS migration
+Or 
+- Can you break the iron triangle with bad relationships: Observations from an LMS migration
+- The role of relationships in breaking the iron triangle: Observations from an LMS migration
 
 Tie in with Dede's eating, sleeping, bonding analogy
 
