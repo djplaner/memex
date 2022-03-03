@@ -14,11 +14,13 @@ How do you break the iron triangle?
 This paper users a collection of theoretical views that emphasise a relational perspective to examine a collection of case studies from institutional LMS migrations to reveal observations that suggest institutions will continue to struggle to break the iron triangle whilst they retain practices based on  atomist perspectives that fail to pay attention to and harness the full power of all relationships
 
 
-Breaking the iron triangle is a key strategic need for contemporary higher education. Increasingly every institution is trying to figure out how to offer better quality learning opportunitites to more people in more ways at a cheaper cost. But such attempts challenge the widely accepted project management maxim that there exists "iron" constraints between quality, cost, and access. A maxim that suggests any change in one - expanding access - inevitably requires a change in the other two.
+It has become strategically important for universities to offer better quality learning opportunitites to more people in more ways at a cheaper cost. Such attempts must break the Iron Triangle. A long acknowledged project management maxim that there exists "iron" constraints between quality, cost, and access. Changing one constraint inevitably requires change in the other two.  Current attempts to break the iron triangle - improving the digital fluency or pedagogical skills of academics; adopting a new LMS or a new curriculum management system; adopting a new pedagogy; developing a new set of course design principles -  tend to focus on the objects involved in learning and teaching. An atomist view, rather than a view focused on the relationships between the objects.  This exploratory case study seeks to answer the question: "What is the role of relationships in breaking the iron triangle?" 
 
-Most attempts to improve learning and teaching - improving the digital fluency or pedagogical skills of academics; adopting a new LMS or a new curriculum management system; adopting a new pedagogy; developing a new set of course design principles -  tend to focus on the objects involved in learning and teaching - at atomist view.
-
-This exploratory case study seeks to answer the question: "What is the role of relationships in breaking the iron triangle?"
+Drawing on experiences from a MLP at a single institution during a LMS migration the paper 
+- identifies a collection of relationship types
+- describes the observed characteristics of those relationships that enshrine the iron triangle
+- analyse how being able to improve those relationships and orchestrate relationships between objects may be key to breaking the iron triangle
+- consider what might be required if unviersities are to break the iron triangle
 
 
 ## Case studies
