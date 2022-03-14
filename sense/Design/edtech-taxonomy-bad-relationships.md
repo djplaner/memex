@@ -22,9 +22,23 @@ Drawing on experiences from a MLP at a single institution during a LMS migration
 - analyse how being able to improve those relationships and orchestrate relationships between objects may be key to breaking the iron triangle
 - consider what might be required if unviersities are to break the iron triangle
 
+## Supporting literature
+
+Krause (2022)
+> institutional diversity will be more important than ever to meet the diverse needs of students and the labour market (np)
+Krause (2022, p12) goes into detail about why this is the case. Work that can be adapted here.
+
+Krause (2022) - may link to the idea that assemblages/activity systems are relationships across silos
+> To operate ecosystemically requires a boundary-spanning mindset on the part of leaders, policy makers and the broader community if we are to traverse traditional siloes
 
 ## Case studies
 
+Actual assemblage development
+- Echo360 embed mapping
+- CARs and word2Canvas
+- canvas-collections
+
+Theoretical/conceptual
 - I'm not a technology person
 - Consistency, confusion and constraint
 - Perspectives on design: big-up front, forward-oriented and design-in-use
@@ -47,6 +61,10 @@ i.e. I'm not a technology person, so i can't possibly do that
 ### All relationships are the same
 
 i.e. lets be consistent
+
+## References
+
+Krause, K.-L. (2022). Higher education sector institutional diversity: An Australian case study. *Journal of Higher Education Policy and Management*, *0*(0), 1--18\. <https://doi.org/10.1080/1360080X.2022.2051221>
 
 ## See also
 
