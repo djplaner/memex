@@ -87,6 +87,12 @@ Reflections/implications
 - Long history of Canvas not giving people what they wanted, even at simple levels
 - This oversight clashed directly with espoused aims of the strategic project
 
+## Discussion and reflections
+
+### Ed design needs a relational view of technology
+
+"design" is often seen as non-technical. Knowing which buttons to press is often looked upon askance by senior designers, academics and institutional leaders. If there must be a hierarchy, then perhaps it is the naive atomistic view that separates pedagogy and technology that should be at the bottom for when it comes to breaking the iron triangle. It is not about how good your pedagogy is, or how good your technology is. Instead, what's important is how well you can orchestrate these different phenomena into a technology the better serves your specific purpose. If "fit-for-purpose" is the stated goal (c.f. Krause 2022) then it is this orchestration capability that is key to achieving that goal. Especially if you're looking for diversity, quality and reduced cost.
+
 ## Nascent scratch space
 
 ### Laissez-faire relationship
