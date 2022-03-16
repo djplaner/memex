@@ -65,13 +65,27 @@ Reflections/implications
 - It does not fit with the purpose of moving between LMS, purpose mismatch leading to a lot of work for people
 - Common in IT for human beings to be called upon to manually modify and move data from one system to another because those technologies don't support the required purpose
 - This is where RPA enters the picture - include the workflow automation levels from van der Aalst et al (2018)
+- Something about the impact on staffing and skills - low level helpdesk versus folk a few rungs up the ladder
 
 ### CARs and word2Canvas
 
+Wonder how the local development here of word2Canvas might be a good thing.  Get the MLOs/Designers involved.
+
 Reflections/implications
 
+- SCORM packages are another example of standards for moving from one system to another
+- To do this they have to target the lowest level denominator
+- Do not recogise the systems can have very different structures/approaches
+- Don't allow anyspace for the user to input effort
+- Again no recognition that the purpose here is different, want the designer/the MLO to have a chance to embed 
+- Also a need to respond creatively to different learning designs (e.g. Content Interface)
 
 ### canvas-collections
+
+Reflections/implications
+- Program or be programmed
+- Long history of Canvas not giving people what they wanted, even at simple levels
+- This oversight clashed directly with espoused aims of the strategic project
 
 ## Nascent scratch space
 
