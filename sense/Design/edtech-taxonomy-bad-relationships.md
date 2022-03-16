@@ -97,6 +97,23 @@ Reflections/implications
 
 Somethign about RPA responding/enabling local agency. It's not about central control. Teleological processess are not sufficient
 
+### Activity Systems
+
+Ellis and Goodyear (2019) quote about a minimal set of ??
+
+But what's important is the process of creating and maintaing those
+
+[Tweet thread on XP](https://twitter.com/ekapic/status/1503649925137149953)
+> An excellent metaphor to define XP:
+> "Driving is not about getting the car going in the right direction. Driving is about constantly paying attention, making a little correction this way, a little correction that way." 
+> This is the paradigm for XP. Stay aware. Adapt. Change.
+> ----
+> CHANGE, AWARENESS and ADAPTABILITY are the key factors here.
+>   Change = always happening
+>   Awareness = a trigger
+>   Adaptability = an answer to the change
+> Result: "Software...developed at lower cost, with fewer defects, with higher productivity, and with much higher ROI"
+
 
 ## Nascent scratch space
 
