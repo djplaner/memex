@@ -21,6 +21,7 @@ Drawing on experiences from a MLP at a single institution during a LMS migration
 - describes the observed characteristics of those relationships that enshrine the iron triangle
 - analyse how being able to improve those relationships and orchestrate relationships between objects may be key to breaking the iron triangle
 - consider what might be required if unviersities are to break the iron triangle
+- suggests that limitations of digital fluency/capability is not limited to academics, but to institutions
 
 ## Supporting literature
 
@@ -30,6 +31,18 @@ Krause (2022, p12) goes into detail about why this is the case. Work that can be
 
 Krause (2022) - may link to the idea that assemblages/activity systems are relationships across silos
 > To operate ecosystemically requires a boundary-spanning mindset on the part of leaders, policy makers and the broader community if we are to traverse traditional siloes
+
+## Method 
+
+Explroatory case study?? Three cases
+
+## Conceptual Framework
+
+Should this go here or be embedded in the cases
+
+- Atomist versus relational - general stuff
+- Fawn's entangled model
+- Dron's educational technology
 
 ## Case studies
 
@@ -43,6 +56,22 @@ Theoretical/conceptual
 - Consistency, confusion and constraint
 - Perspectives on design: big-up front, forward-oriented and design-in-use
 - Mindsets aka the light-weight development name for this
+
+### Echo360 embed mapping
+
+Reflections/implications
+
+- LTI is an example of a technology for the specific purpose of connecting two pieces of software Echo360 to an LMS
+- It does not fit with the purpose of moving between LMS, purpose mismatch leading to a lot of work for people
+- Common in IT for human beings to be called upon to manually modify and move data from one system to another because those technologies don't support the required purpose
+- This is where RPA enters the picture - include the workflow automation levels from van der Aalst et al (2018)
+
+### CARs and word2Canvas
+
+Reflections/implications
+
+
+### canvas-collections
 
 ## Nascent scratch space
 
@@ -65,6 +94,8 @@ i.e. lets be consistent
 ## References
 
 Krause, K.-L. (2022). Higher education sector institutional diversity: An Australian case study. *Journal of Higher Education Policy and Management*, *0*(0), 1--18\. <https://doi.org/10.1080/1360080X.2022.2051221>
+
+van der Aalst, W. M. P., Bichler, M., & Heinzl, A. (2018). Robotic Process Automation. *Business & Information Systems Engineering*, *60*(4), 269--272\. <https://doi.org/10.1007/s12599-018-0542-4>
 
 ## See also
 
