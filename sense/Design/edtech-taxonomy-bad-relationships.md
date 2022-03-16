@@ -65,6 +65,7 @@ Reflections/implications
 - It does not fit with the purpose of moving between LMS, purpose mismatch leading to a lot of work for people
 - Common in IT for human beings to be called upon to manually modify and move data from one system to another because those technologies don't support the required purpose
 - This is where RPA enters the picture - include the workflow automation levels from van der Aalst et al (2018)
+- Allow workers to orchestrate phenemona for their own purpose
 - Something about the impact on staffing and skills - low level helpdesk versus folk a few rungs up the ladder
 
 ### CARs and word2Canvas
@@ -79,6 +80,7 @@ Reflections/implications
 - Don't allow anyspace for the user to input effort
 - Again no recognition that the purpose here is different, want the designer/the MLO to have a chance to embed 
 - Also a need to respond creatively to different learning designs (e.g. Content Interface)
+- technology gets better as it is assembled into broader hierarchies (Dron)
 
 ### canvas-collections
 
