@@ -6,6 +6,11 @@ Or
 
 Tie in with Dede's eating, sleeping, bonding analogy
 
+## To do
+
+- Get and read Vertesi (2014) seamfulness
+- See what Dron (2006) might have to contribute 
+
 ## Abstract
 
 The iron triangle is a big problem for higher education. Especially in COVID
@@ -43,6 +48,47 @@ Should this go here or be embedded in the cases
 - Atomist versus relational - general stuff
 - Fawn's entangled model
 - Dron's educational technology
+
+### Practice Theory and Sociomaterial perspectives
+
+Fawns et al (2021, p. 361)
+> In contrast, practice theory and sociomaterial perspectives (Fenwick, Edwards, and Sawchuck 2011) see learning as embedded in, and shaped by, situated relations between people, discourses and materials. These perspectives have helped researchers cast new light on otherwise mundane phenomena (Sedlačko 2017) by attending to ‘the physicality of human doing, the routine aspects of behaviour, the relevance of tacit knowledge, the significance of material artefacts for behaviour and the effects of explicit and implicit rules’ (Jonas, Littig, and Wroblewski 2017, xv)....they differ radically in their conceptualisations of action, foregrounding the challenge of translating practices of learning, knowing and doing, across complex systems and working environments (Mulcahy 2013). They show that learning is not a commodity that can be mobilised or transferred from one setting to another, since new situations always require new learning, and the adaptation and re-contextualisation of previous knowledge (Hager and Hodkinson 2009).
+
+Touching on the atomistic/individualistic approaches the linkage here is that these perspective not just underpin ideas around learning, but also around how organisational work should be done -- a particular knowledge regime...setting up the idea of lightweight IT as a different knowledge regime and its connection with what's required...Fawns et al (2021, p. 363)
+> Our analysis was underpinned by practice theory and sociomaterial perspectives, outlined in the Introduction, enabling understanding emergent forms of learning in complex, fluid settings, within which possible actions are shaped and constrained (Schatzki, Knorr-Cetina, and Von Savigny 2001; Fenwick, Edwards, and Sawchuck 2011). These perspectives trouble the individualist, cognitivist standpoints that have dominated educational approaches (Mulcahy 2014), instead encompassing the collective and relational practices through which professionals enact learning (Fenwick 2014). This orientation helped us to understand the ongoing negotiation and reconciliation of multiple contexts, and forms of academic and practical knowledge, as participants navigated complex environments.
+
+And definitely echoing the simple/complex and predictable/emergent challenge with IT...Fawns et al (2021, p. 370)
+> Yet Gough (2013, 1223) warns that constructively aligned curricula will be based on notions of an ‘isolated simple system’. In consequence, what is learned is measured in terms of expected behaviour, rather than in relation to the emergent practices required of unpredictable and complex situations....
+> We suggest that routinised disciplinary knowledge (e.g. competencies) is still a crucial aspect of academic professional education, and should contribute to professional accountability. Rather than accepting competencies as guarantees of safe or successful performance in complex practice, however, they might be understood as a necessary basis from which learners must diverge, in ways that are attuned to their varied practice contexts. Accountability, in other words, should encompass the contextualised adaptation of routinised knowledge.
+
+### Focus on Seams
+
+Fawns et al (2021, p. 363)
+> we borrowed Vertesi’s (2014) metaphor of seams to represent the messy, often hidden or unarticulated ways of patching together multiple infrastructures and systems. Vertesi (2014) developed her conception of seams from the work of computing design theorists Chalmers and Galani (2004), who proposed that, rather than aiming for seamlessness, in which the different working elements of a system are made invisible (Ratto 2007), exposing the seams between elements could encourage examinations of interdependence, and of ongoing processes of appropriation to suit particular situations. Literature on professional practice and education from sociomaterial and practice theory perspectives (e.g. Fenwick, Edwards, and Sawchuck 2011; Rooney et al. 2015) helped us to relocate Vertesi’s work from a remote context (a space station) to the professional education contexts of our participants....
+> For us, seams imply a less stable and clear-cut interface than boundaries. They are contingent on the work of people, in conjunction with materials and devices, to align and make sense of multiple contexts (Vertesi 2014). Accordingly, we came to consider the negotiation of academic and professional contexts as ‘less a question of boundary work as…a kind of ad hoc patchwork’ (269). However, as Vertesi observed, people still use seams to construct temporary boundaries via various exclusions and inclusions, achieved through technological and social means. This produces sub-spaces of localised and constrained activity (Vertesi 2014, 276).
+
+Link to bricolage Fawns et al (2021, p. 371)
+> In using seamfulness as an analytic concept, Vertesi (2014) recommended thinking through the constraints of infrastructures, while observing how people, rather than producing stable and coherent systems, craft ‘fleeting moments of alignment suited to particular tasks with materials ready-to-hand’ (268).
+
+And a possible link to Dron's view of educational technology 
+> On the other hand, Vertesi suggested that failures to knot systems together successfully can illuminate the otherwise obscured infrastructural elements and relations essential to the task at hand. Jane’s lack of a ‘chair to sit on’ or an accessible computer constitute more than a problem to be solved by finding resources. These challenges are entangled in the wider infrastructural provision of space and resources, social hierarchies, the preparation of professionals and the working environment for the incorporation of new, junior colleagues
+
+### Good teaching as subversion of the system - perhaps in the discussion
+
+[Fawns tweet](https://twitter.com/timbocop/status/1504746260405932034) about education "an ever-increasingly bureaucratic system of fixes to other fixes (each intervention or change is a response to a problem caused by a previous change)" and subsequent discussion.  Position this work - light-weight IT - as an echo of that.  Adoption of limited technology (e.g. Canvas, Echo360 etc) is an example
+
+But also echoes of what people within education systems are already doing. With a particular focus on educating the professions and how much of this experience is what they see happening and actually necessary to happen within the professions. Suggesting that universities - in their own practice - also need to demonstrate this, recognise it and integrate it (see below)..Fawns et al (2021, p. 368)
+> Students, practitioners and educators all spoke of improvisations and uses of technologies as inadvertent learning tools, and how this was caught up in learning and practising as a professional.
+> ..._and now p 369_ Our participants described complex forms of skill or knowledge involved in dealing with
+available or imposed technologies.
+
+Fawns et al (2021, p. 360)
+> Somewhere between developing pre-specified, discipline-based skills and knowledge, and adapting to situated, contextualised conditions, there must be a capacity for dynamically developing unpredictable practices
+
+Fawns et al (2021, p. 369) talks about what is required of graduates of professional education
+> They recognised that this required going beyond competence, to the development of what might be called _adaptive capacity_. Where competence is a clearly-bound, individualised, prescriptive and demonstrable accomplishment of a performance standard, adaptive capacity is an _always-developing_ potential to integrate into, and shape, teams, systems and settings. It is distinguished from notions of adaptive expertise (e.g. Hatano and Inagak 1986) by its emphasis on collective and relational practice. In adaptive capacity, relational agency is prioritised over performances. It is what allows learners to negotiate new sociomaterial situations, by being accomplished not only in predictable, regular patterns of practice but also in developing emergent practices as required
+
+
 
 ## Case studies
 
@@ -136,6 +182,8 @@ i.e. I'm not a technology person, so i can't possibly do that
 i.e. lets be consistent
 
 ## References
+
+Fawns, T., Mulherin, T., Hounsell, D., & Aitken, G. (2021). Seamful learning and professional education. *Studies in Continuing Education*, *43*(3), 360--376\. <https://doi.org/10.1080/0158037X.2021.1920383>
 
 Krause, K.-L. (2022). Higher education sector institutional diversity: An Australian case study. *Journal of Higher Education Policy and Management*, *0*(0), 1--18\. <https://doi.org/10.1080/1360080X.2022.2051221>
 
