@@ -30,12 +30,20 @@ Drawing on experiences from a MLP at a single institution during a LMS migration
 
 ## Supporting literature
 
+### Higher Education
+
 Krause (2022)
 > institutional diversity will be more important than ever to meet the diverse needs of students and the labour market (np)
 Krause (2022, p12) goes into detail about why this is the case. Work that can be adapted here.
 
 Krause (2022) - may link to the idea that assemblages/activity systems are relationships across silos
 > To operate ecosystemically requires a boundary-spanning mindset on the part of leaders, policy makers and the broader community if we are to traverse traditional siloes
+
+### Knowledge about IT, algorithms etc 
+
+Cotter (2022) summarises research around "knowledge of algorithms" and moves on to describe "practial knowledge" of algorithms. The linkage here is what do those involved in the migration project (and thus broader ed tech) know about algorithms and technology? How do they approach it as located by this previous work? What implications does this have for how we work and how we break the iron triangle?
+
+Linking at some level with the different knowledge regimes between heavyweight and lightweight IT.
 
 ## Method 
 
@@ -182,6 +190,8 @@ i.e. I'm not a technology person, so i can't possibly do that
 i.e. lets be consistent
 
 ## References
+
+Cotter, K. (2022). Practical knowledge of algorithms: The case of BreadTube. *New Media & Society*, 14614448221081802\. <https://doi.org/10.1177/14614448221081802>
 
 Fawns, T., Mulherin, T., Hounsell, D., & Aitken, G. (2021). Seamful learning and professional education. *Studies in Continuing Education*, *43*(3), 360--376\. <https://doi.org/10.1080/0158037X.2021.1920383>
 

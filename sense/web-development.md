@@ -19,6 +19,7 @@ Resources on all things developing web applications
 - [[my-first-litelement-web-component]]
 - [[third-age-of-javascript]]
 - [[javascript-design-patterns]]
+- [[api-request-design]]
 
 ### Javascript dev and build
 
@@ -40,6 +41,7 @@ Resources on all things developing web applications
 [my-first-litelement-web-component]: <Web development/my-first-litelement-web-component> "My First LitElement Web Component"
 [third-age-of-javascript]: <Web development/third-age-of-javascript> "Third age of Javascript"
 [javascript-design-patterns]: javascript-design-patterns "javascript-design-patterns"
+[api-request-design]: <Web development/api-request-design> "api-request-design"
 [npm-projects]: <Web development/npm-projects> "NPM Projects - How to"
 [webpack-essentials]: <Web development/webpack-essentials> "Webpack essentials"
 [learning-webpack]: <Web development/webpack/learning-webpack> "Learning Webpack"
