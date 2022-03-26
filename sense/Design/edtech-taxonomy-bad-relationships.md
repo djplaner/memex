@@ -39,13 +39,50 @@ Krause (2022, p12) goes into detail about why this is the case. Work that can be
 Krause (2022) - may link to the idea that assemblages/activity systems are relationships across silos
 > To operate ecosystemically requires a boundary-spanning mindset on the part of leaders, policy makers and the broader community if we are to traverse traditional siloes
 
+### Learning Objects
+
+Parrish (2004) uses situated perspectives of knowledge to critique the early boosterish views of learning objects. Learning objects are a two decade old attempt to break the iron triangle that were also apparently limited by limited views of knowledge and L&T practice. i.e. the need for and value of customisation. 
+
+Illustration of how the ed tech sphere has not learned from history.
+
+Could bring in discussions about the modularisation of learning materials as having a similar perspective and similar failings.
+
 ### Knowledge about IT, algorithms etc 
 
 Cotter (2022) summarises research around "knowledge of algorithms" and moves on to describe "practial knowledge" of algorithms. The linkage here is what do those involved in the migration project (and thus broader ed tech) know about algorithms and technology? How do they approach it as located by this previous work? What implications does this have for how we work and how we break the iron triangle?
 
+There is also some apparent linkage to the idea of "knowledge located in practices"
+
 Linking at some level with the different knowledge regimes between heavyweight and lightweight IT.
 
+From Cotter (2022)
+> Through situated encounters, Bucher (2018) suggests, “people learn what they need to know in order to engage meaningfully with and find their way around an algorithmically mediated world” (p. 98). The concept of the algorithmic imaginary, thus, brings together “know that” and “know how,” but further specifies the importance of the specific conditions under which people experience algorithms
+
+There's a lot more here about different ways of knowing and how it involves knowing how "to be". There's an argument to explore here about how inherently most ed designers do not see themselves as technical people. The habitus they work within (more heavyweight IT) is not conducive to the type of activity required to break the iron triangle
+
+
 ## Method 
+
+The aim here is to explore the experience, the context, of a particular situation and in particular explore the relational views of ???
+
+Tsang (2013) - typology of theorizign from case studies - _contextualised explanation_ (Q4) is seen as strong on contextualising and strong on theory development.  Seems a good fit. Tsang uses Ferner et al (2005) as an example of this. The idea is that such a case study offers a good explanation of the observed empirical behaviour, but it is limited to the context.  That could be the focus, but then questions asked about how well the theories involved offers explanatory power for other insights.
+
+Wynn and Williams (2020)
+> Critical Realism has been adopted across the social sciences as a means of providing mechanism-based explanations for phenomena involving human societies and organizations.
+
+Wynn and Williams (2020) most CR-based case studies "coalesce around the search for mechanisms, which implies that there is a corresponding search for structures as well" (p. 54). Which matches the aim here. To explore mechanisms for how the "iron triangle" was broken here. They have more on how 'structure' in CR studies is "the relational conditions underlying behaviour".  The composition and interactions within a context result in "an emergent set of possible actions" which contain/enable the outcomes that may occur
+
+Wynn and Williams (2020) also explain various proposed broad methods and then examine CR case study research in IS
+- Almost all focuse on "how" or "why" questions
+- 
+
+Cotter (2022)
+> I employed an inductive qualitative approach informed by constructivist grounded theory (Charmaz, 2014). That is, while I did not conduct a grounded theory study, I adopted many of its techniques and tenets. This approach served my aim of investigating and giving depth to an underdeveloped domain of empirical inquiry
+
+What data to be used 
+- Notes on meetings, experiences
+- github commits
+- Teams discussions??
 
 Explroatory case study?? Three cases
 
@@ -196,6 +233,8 @@ Cotter, K. (2022). Practical knowledge of algorithms: The case of BreadTube. *Ne
 Fawns, T., Mulherin, T., Hounsell, D., & Aitken, G. (2021). Seamful learning and professional education. *Studies in Continuing Education*, *43*(3), 360--376\. <https://doi.org/10.1080/0158037X.2021.1920383>
 
 Krause, K.-L. (2022). Higher education sector institutional diversity: An Australian case study. *Journal of Higher Education Policy and Management*, *0*(0), 1--18\. <https://doi.org/10.1080/1360080X.2022.2051221>
+
+Parrish, P. E. (2004). The Trouble with Learning Objects. *Educational Technology Research and Development*, *52*(1), 49--67.
 
 van der Aalst, W. M. P., Bichler, M., & Heinzl, A. (2018). Robotic Process Automation. *Business & Information Systems Engineering*, *60*(4), 269--272\. <https://doi.org/10.1007/s12599-018-0542-4>
 
