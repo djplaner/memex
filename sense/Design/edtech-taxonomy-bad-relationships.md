@@ -65,6 +65,29 @@ There's a lot more here about different ways of knowing and how it involves know
 
 The aim here is to explore the experience, the context, of a particular situation and in particular explore the relational views of ???
 
+Thomas (2011) identifies two elements of a case study
+1. The subject "a practical, historical unity" of the case study - in this case ed designers experience of migration and the challenge of breaking the iron triangle - the aim to illuminate and explicate something interesting
+2. The object of the study "an analytical of theoretical frame" - in this case a relational view broadly defined as situated, entangled, and Dron's view of ed tech?
+
+**I may not correctly understand this distinction, I need more thinking**  The next para might be closer to the notion of object
+
+Dron's view of ed tech may provide a way of describing the case - the object. The three "technologies" are orchestration of phenomena for a purpose. Unravel the orchestration of those phenomena may reveal interesting and useful insights about the case. And how, in this case, we broke the iron triangle.
+
+This subject is interesting (me and Griffith migration)
+- migration is perhaps the peak time for needing to break the iron triangle, or at least the need for scale 
+- I have certain abilities (useful idiot, not a programmer but...) that are somewhat unique but highlight the differences that are possible with a relational view
+- it takes advantage of what Thomas (2011) calls "a local knowledge case" providing opportunities for insight but also a need to care.
+- arguably it is also an example of Thomas' "outlier case". My skills/abilities are somewhat deviant. An opportunity to see something different.  Thomas (2011) argues that a case study can't be typical or reprentative.
+
+Thomas (2011) uses George and Bennet's (2005) six types of case study. This might be an example of
+> 2. Disciplined configurative case studies, where established theories are used to explain a case; 
+> 3. Heuristic case studies wherein new causal paths are identified. Outlier cases may be especially valuable here;
+
+Heuristic case studies "can be about arriving at notions of problems to solve" (Thomas 2011). Align with Yin's "representative" case study
+
+A snapshot case study - "examined in one defined period of time: a current event..." in this case first and second dev windows for Griffith's migration.
+
+
 Tsang (2013) - typology of theorizign from case studies - _contextualised explanation_ (Q4) is seen as strong on contextualising and strong on theory development.  Seems a good fit. Tsang uses Ferner et al (2005) as an example of this. The idea is that such a case study offers a good explanation of the observed empirical behaviour, but it is limited to the context.  That could be the focus, but then questions asked about how well the theories involved offers explanatory power for other insights.
 
 Wynn and Williams (2020)
@@ -235,6 +258,8 @@ Fawns, T., Mulherin, T., Hounsell, D., & Aitken, G. (2021). Seamful learning and
 Krause, K.-L. (2022). Higher education sector institutional diversity: An Australian case study. *Journal of Higher Education Policy and Management*, *0*(0), 1--18\. <https://doi.org/10.1080/1360080X.2022.2051221>
 
 Parrish, P. E. (2004). The Trouble with Learning Objects. *Educational Technology Research and Development*, *52*(1), 49--67.
+
+Thomas, G. (2011). A Typology for the Case Study in Social Science Following a Review of Definition, Discourse, and Structure. *Qualitative Inquiry*, *17*(6), 511--521\. <https://doi.org/10.1177/1077800411409884>
 
 van der Aalst, W. M. P., Bichler, M., & Heinzl, A. (2018). Robotic Process Automation. *Business & Information Systems Engineering*, *60*(4), 269--272\. <https://doi.org/10.1007/s12599-018-0542-4>
 
