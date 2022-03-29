@@ -32,12 +32,18 @@ Drawing on experiences from a MLP at a single institution during a LMS migration
 
 ### Higher Education
 
+#### Diversity
+
 Krause (2022)
 > institutional diversity will be more important than ever to meet the diverse needs of students and the labour market (np)
 Krause (2022, p12) goes into detail about why this is the case. Work that can be adapted here.
 
 Krause (2022) - may link to the idea that assemblages/activity systems are relationships across silos
 > To operate ecosystemically requires a boundary-spanning mindset on the part of leaders, policy makers and the broader community if we are to traverse traditional siloes
+
+#### Third space practitioners
+
+Whitchurch (2008) defines the notion and discusses how its relational, across boundaries etc.  Good framing...to make the point perhaps about crossing boundaries with technology and the nature of orchestration. Sharif et al (2019) touch on the nature of third space professional role as moving through functional and organisational boundaries (breaking the hierarical nature of typical relationships) and "negotiate competing interests, identities, and requiremetns associated with the diverse range of their projects..."
 
 ### Learning Objects
 
@@ -111,11 +117,17 @@ Explroatory case study?? Three cases
 
 ## Conceptual Framework
 
-Should this go here or be embedded in the cases
+this will go early on - perahps in the research method, section before it, or in the introduction 
 
 - Atomist versus relational - general stuff
-- Fawn's entangled model
-- Dron's educational technology
+- Talk about some specific relational views as applied to educational technology
+    - Fawn's entangled model
+    - Dron's educational technology
+- both these get at the idea that orchestration, the assemblage of these different elements and the relationships between them are important
+- if applied to the challenge of the iron triangle, then the purpose is lower cost, higher quality, etc.
+- how well you're able to orchestrate the phenomena will be important.
+- For a LMS migration to "break the iron triangle" then the people involved need to be able to orchestrate the phenomena.
+- This is often the job of third space practitioners/ MLPs hence the value in examining this type of case study
 
 ### Practice Theory and Sociomaterial perspectives
 
