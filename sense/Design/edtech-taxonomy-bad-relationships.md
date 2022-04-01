@@ -242,6 +242,35 @@ But what's important is the process of creating and maintaing those
 >   Adaptability = an answer to the change
 > Result: "Software...developed at lower cost, with fewer defects, with higher productivity, and with much higher ROI"
 
+## Reflections
+
+Scratch space for the types of major reflections I might want to takes
+
+### Technology standards: The paucity of relationships: 
+
+Relationships between technologies are typically defined by standards e.g. LTI and SCORM. These are commonly relied upon during tasks such as LMS migration. Illustrations of those limitations
+- Echo360 LTI only talk between one LMS and echo360, not portable between them
+- SCORM decontextualises and provides little or no capability for adaptation or easy customisation (e.g. the word2canvas question)...this links into orchestration
+
+### Primitive, manual orchestration - limited insitutional digital fluency
+
+The relationships typically relied upon - e.g. technology standards - end up requiring a lot of manual orchestration.
+
+Educational technology is the ability to orchestrate the different technologies (pedagogy etc) into something that is fit-for-purpose. The cases above illustrate where manual orchestration has led to situations where the resulting technology is somewhat less than fit-for-purpose.
+
+Whereas the ability to use technology to automate orchestration leads to better resulting technology...should make a point in here about technology being hierarchical.
+
+...this is also where RPA could be brought in to illustrate how the digital fluency or organisational L&T is somewhat less than what is observered elsewhere e.g. Griffith's projects
+
+### hard and soft technologies: a major hold on breaking the iron triangle
+
+Connect with Dron's identification of hard technologies. In the absence of the ability to orchestrate we see these constraints being put on the quality of what can be achieved. e.g. Canvas collections and findability....and more
+
+Could also bring Zittrains generarative and sterile technologies. And also ?? "Program or be programmed" to explain the direction higher education is taken.  This also connects to Macgilchrist et al's critique embedded in envisioning likely futures.
+
+### What's required? Light-weight orchestration IT development??
+
+Riff on the different knowledge regime. The iterative nature of this. The need to empower.
 
 ## Nascent scratch space
 
