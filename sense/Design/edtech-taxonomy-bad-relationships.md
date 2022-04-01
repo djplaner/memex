@@ -267,6 +267,7 @@ Whereas the ability to use technology to automate orchestration leads to better 
 Connect with Dron's identification of hard technologies. In the absence of the ability to orchestrate we see these constraints being put on the quality of what can be achieved. e.g. Canvas collections and findability....and more
 
 Could also bring Zittrains generarative and sterile technologies. And also ?? "Program or be programmed" to explain the direction higher education is taken.  This also connects to Macgilchrist et al's critique embedded in envisioning likely futures.
+And also [this tweet](https://twitter.com/thomhillman/status/1509773871901196289)
 
 ### What's required? Light-weight orchestration IT development??
 
