@@ -1,4 +1,4 @@
-# A taxonomy of bad edtech relationships
+# The role of relationships in breaking the iron triangle
 
 Or 
 - Can you break the iron triangle with bad relationships: Observations from an LMS migration
@@ -9,7 +9,7 @@ Tie in with Dede's eating, sleeping, bonding analogy
 ## To do
 
 - Get and read Vertesi (2014) seamfulness
-- See what Dron (2006) might have to contribute 
+- See what Dron (2021) might have to contribute 
 
 ## Abstract
 
@@ -17,7 +17,6 @@ The iron triangle is a big problem for higher education. Especially in COVID
 The need to improve access (diversity), while improving quality and constraining/reducing costs. Iron triangle says you can't do it.
 How do you break the iron triangle?
 This paper users a collection of theoretical views that emphasise a relational perspective to examine a collection of case studies from institutional LMS migrations to reveal observations that suggest institutions will continue to struggle to break the iron triangle whilst they retain practices based on  atomist perspectives that fail to pay attention to and harness the full power of all relationships
-
 
 It has become strategically important for universities to offer better quality learning opportunitites to more people in more ways at a cheaper cost. Such attempts must break the Iron Triangle. A long acknowledged project management maxim that there exists "iron" constraints between quality, cost, and access. Changing one constraint inevitably requires change in the other two.  Current attempts to break the iron triangle - improving the digital fluency or pedagogical skills of academics; adopting a new LMS or a new curriculum management system; adopting a new pedagogy; developing a new set of course design principles -  tend to focus on the objects involved in learning and teaching. An atomist view, rather than a view focused on the relationships between the objects.  This exploratory case study seeks to answer the question: "What is the role of relationships in breaking the iron triangle?" 
 
@@ -294,6 +293,8 @@ i.e. lets be consistent
 ## References
 
 Cotter, K. (2022). Practical knowledge of algorithms: The case of BreadTube. *New Media & Society*, 14614448221081802\. <https://doi.org/10.1177/14614448221081802>
+
+Dron, J. (n.d.). Technology, technique, and culture in educational systems: Breaking the iron triangle. In *Distance Education in China* (pp. 37--49).
 
 Fawns, T., Mulherin, T., Hounsell, D., & Aitken, G. (2021). Seamful learning and professional education. *Studies in Continuing Education*, *43*(3), 360--376\. <https://doi.org/10.1080/0158037X.2021.1920383>
 
