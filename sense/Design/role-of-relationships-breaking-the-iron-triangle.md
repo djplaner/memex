@@ -44,6 +44,11 @@ Krause (2022) - may link to the idea that assemblages/activity systems are relat
 
 Whitchurch (2008) defines the notion and discusses how its relational, across boundaries etc.  Good framing...to make the point perhaps about crossing boundaries with technology and the nature of orchestration. Sharif et al (2019) touch on the nature of third space professional role as moving through functional and organisational boundaries (breaking the hierarical nature of typical relationships) and "negotiate competing interests, identities, and requiremetns associated with the diverse range of their projects..."
 
+[Murray (2022)](https://teledvisors.net/blog/2022/04/07/acting-as-bridges/)
+> One suggestion was the way in which third-space professionals (or whichever term makes most sense to you for these roles) move between different parts of the university community. One definition is that “working in The Third Space involves traversals across the threshold of the established order, challenging and subverting existing practices and hierarchies” (Hawley, McDougall, Potter and Wilkinson, 2019), which suggests a value in moving across spaces, boundaries, and groups....
+>  Possibly most importantly, we bring an ability to ‘translate’ – many of the issues in universities arise from a lack of understanding about the concerns, and priorities, of different groups
+Perhaps pointing at the idea of assemblage, seeing/building relationships
+
 ### Learning Objects
 
 Parrish (2004) uses situated perspectives of knowledge to critique the early boosterish views of learning objects. Learning objects are a two decade old attempt to break the iron triangle that were also apparently limited by limited views of knowledge and L&T practice. i.e. the need for and value of customisation. 
