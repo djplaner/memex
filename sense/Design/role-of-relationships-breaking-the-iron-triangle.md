@@ -74,6 +74,40 @@ There's a lot more here about different ways of knowing and how it involves know
 
 Fawns (2022) - entangled pedagogy. Dron (2022)
 
+#### Fawns - entangled pedagogy
+
+From this [tweet thread](https://twitter.com/timbocop/status/1510542642492358660)
+> The main argument is that pedagogy can’t drive technology because they are inseparably entangled. More than that, technology is part of pedagogy, along with methods, purposes, values and context. Each of these elements shapes the others.
+
+Perhaps my argument is that the methods (in particular) used by MLPs and perhaps instituions is missing something. A point to come out in the case analysis OR perhaps as the bigger finding of the paper (e.g. in the abstract). Because of the simplistic linear goal-drive perspective we've chosen methods that are illsuited to breaking the iron triangle. This case highlights one set of methods (light-weight IT development) that provide a different set of capabilities. i.e the ability to better orchestrate and assemble new technologies required to break the iron triangle.
+
+Which links to the following.  Outcomes are limited by the paucity of the relationships that currently exist between the actors within higher education.
+
+> Education's always an entangled mix of mutually shaping elements. Outcomes are emergent, depending on relationships betw tech methods purposes values & context. Teacher’s skill is knowing what can be configured & designed in advance, how, + how to respond to emergent activity.
+
+> Technology is dancing not with pedagogy but with methods, context, purposes and values....  Pedagogy *is* the dance.
+
+> Entangled pedagogy is distributed, not just done by teachers but also by students, learning technologists, librarians, administrators, IT staff, policymakers and more. Nobody has full control, there must be ongoing negotiation.
+
+> Technology is pervasive and inevitable. It’s not just digital platforms but also paper, pens, chairs, desks and much more. Technology is always an assembly of multiple things (thx @jondron) Pedagogy can’t come before technology because technology is always already there.
+
+> Technology is relational—it is best understood not by its properties and functions but by how it is situated in social and material context. How people actually use it, integrate it into practices and cultures, make meaning with it.
+
+> Tech can’t come before pedagogy either. Even when a technology is imposed on teachers and students, it too must be integrated into what’s already there (inc. infrastructure, other tech, traditions, cultures, methods, purposes, values, other contextual elements).
+
+> Pedagogy involves seeing technological possibilities and risks, and reconciling these with established practices, cultures and students’ and teachers’ values and circumstances.
+
+> The aspirational view (column 4 of the diagram) shows how we can emphasise purpose, values and context while still recognising that methods and tech are in the mix, each element inevitably shaping the others.
+
+Perhaps connecting to the MacGilchrist (2020) and the purpose of institutions and what those institutions rush to the platform approaches to education and the future that they will create. Whether or not a more punk/bricolage approach is more purposeful, ethical and more effective
+
+> We can embrace uncertainty, imperfection, openness and honesty in teaching and learning rather than trying to assert control by closing down possibilities for thinking and acting.
+
+> We can see pedagogical knowledge as distributed across stakeholders, responsive to emergent, situated activity, and ethical.
+
+> Ethics is "more than following ‘a linear chain of events’ (Barad); it means tracing relations to see where they lead.” We can use distributed knowledge to trace side effects, unintended consequences & complex entanglements of tech-related decisions at course & institutional level
+
+
 #### Dron and educational technology
 
 [Tweet](https://twitter.com/jondron/status/1511812961458810880)
@@ -325,6 +359,8 @@ Fawns, T. (2022). An Entangled Pedagogy: Looking Beyond the Pedagogy---Technolog
 Fawns, T., Mulherin, T., Hounsell, D., & Aitken, G. (2021). Seamful learning and professional education. *Studies in Continuing Education*, *43*(3), 360--376\. <https://doi.org/10.1080/0158037X.2021.1920383>
 
 Krause, K.-L. (2022). Higher education sector institutional diversity: An Australian case study. *Journal of Higher Education Policy and Management*, *0*(0), 1--18\. <https://doi.org/10.1080/1360080X.2022.2051221>
+
+Macgilchrist, F., Allert, H., & Bruch, A. (2020). Students and society in the 2020s. Three future 'histories' of education and technology. *Learning, Media and Technology*, *45*(0), 76--89\. <https://doi.org/10.1080/17439884.2019.1656235>
 
 Parrish, P. E. (2004). The Trouble with Learning Objects. *Educational Technology Research and Development*, *52*(1), 49--67.
 
