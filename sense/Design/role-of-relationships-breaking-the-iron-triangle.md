@@ -276,9 +276,15 @@ Reflections/implications
 
 "design" is often seen as non-technical. Knowing which buttons to press is often looked upon askance by senior designers, academics and institutional leaders. If there must be a hierarchy, then perhaps it is the naive atomistic view that separates pedagogy and technology that should be at the bottom for when it comes to breaking the iron triangle. It is not about how good your pedagogy is, or how good your technology is. Instead, what's important is how well you can orchestrate these different phenomena into a technology the better serves your specific purpose. If "fit-for-purpose" is the stated goal (c.f. Krause 2022) then it is this orchestration capability that is key to achieving that goal. Especially if you're looking for diversity, quality and reduced cost.
 
-### Emergent/ateleological/contextual??/lightweight
+### Emergent/ateleological/contextual??/lightweight - Teaspoon languages
+
+The idea here is perhaps that we need methods that enable this type or orchestration for local/contextual purposes, but which also enable breaking the iron triangle.
 
 Somethign about RPA responding/enabling local agency. It's not about central control. Teleological processess are not sufficient
+
+Teaspoon languages (Guzdial 2022) might also be useful to mention
+
+Dron's (2020??) take might also be useful
 
 ### Activity Systems
 
@@ -357,6 +363,8 @@ Dron, J. (2022). Educational technology: What it is and how it works. *AI & SOCI
 Fawns, T. (2022). An Entangled Pedagogy: Looking Beyond the Pedagogy---Technology Dichotomy. *Postdigital Science and Education*. <https://doi.org/10.1007/s42438-022-00302-7>
 
 Fawns, T., Mulherin, T., Hounsell, D., & Aitken, G. (2021). Seamful learning and professional education. *Studies in Continuing Education*, *43*(3), 360--376\. <https://doi.org/10.1080/0158037X.2021.1920383>
+
+Guzdial, M. (2022). Teaspoon Languages for Integrating Programming into Social Studies, Language Arts, and Mathematics Secondary Courses. *Proceedings of the 53rd ACM Technical Symposium on Computer Science Education V. 2*. <https://dl-acm-org.libraryproxy.griffith.edu.au/doi/abs/10.1145/3478432.3499240>
 
 Krause, K.-L. (2022). Higher education sector institutional diversity: An Australian case study. *Journal of Higher Education Policy and Management*, *0*(0), 1--18\. <https://doi.org/10.1080/1360080X.2022.2051221>
 
