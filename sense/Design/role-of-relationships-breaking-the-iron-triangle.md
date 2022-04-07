@@ -70,6 +70,23 @@ From Cotter (2022)
 
 There's a lot more here about different ways of knowing and how it involves knowing how "to be". There's an argument to explore here about how inherently most ed designers do not see themselves as technical people. The habitus they work within (more heavyweight IT) is not conducive to the type of activity required to break the iron triangle
 
+### Conceptual Framework
+
+Fawns (2022) - entangled pedagogy. Dron (2022)
+
+#### Dron and educational technology
+
+[Tweet](https://twitter.com/jondron/status/1511812961458810880)
+> Economic, organizational, and political technology is also part of ed tech, as much as the pedagogical and the digital, and it both influences and is reinforced by its parts. Thousands of fixes exist, but cannot find niches in the context of the big, slow containers.
+
+[Tweet](https://twitter.com/jondron/status/1512132132600094720)
+> T,P & C are all T, IMHO.  Path dependencies shape everything, but mostly to enable or constrain, rarely to entail or prevent.  So, yes, deep entanglement hardens, but there’s nothing hard that can't be softened, at least by assembling it with something else to make something new.
+
+[Tweet](https://twitter.com/jondron/status/1512081092861333514)
+> All these replies are true: a paradigm, not a theory. For me, pedagogies *are* technologies, and all technologies are assemblies. We all participate in them, and they participate in us, so it’s complex, emergent, human, connected, recursive, at every scale.
+
+[Tweet](https://twitter.com/jondron/status/1511802514563223553)
+> Yes exactly. We find other ways to understand and use what is already invented, and invent ways to fix what it breaks, always building on and from what exists, not replacing it. Technology, not science.
 
 ## Method 
 
@@ -300,6 +317,10 @@ i.e. lets be consistent
 Cotter, K. (2022). Practical knowledge of algorithms: The case of BreadTube. *New Media & Society*, 14614448221081802\. <https://doi.org/10.1177/14614448221081802>
 
 Dron, J. (n.d.). Technology, technique, and culture in educational systems: Breaking the iron triangle. In *Distance Education in China* (pp. 37--49).
+
+Dron, J. (2022). Educational technology: What it is and how it works. *AI & SOCIETY*, *37*, 155--166\. <https://doi.org/10.1007/s00146-021-01195-z>
+
+Fawns, T. (2022). An Entangled Pedagogy: Looking Beyond the Pedagogy---Technology Dichotomy. *Postdigital Science and Education*. <https://doi.org/10.1007/s42438-022-00302-7>
 
 Fawns, T., Mulherin, T., Hounsell, D., & Aitken, G. (2021). Seamful learning and professional education. *Studies in Continuing Education*, *43*(3), 360--376\. <https://doi.org/10.1080/0158037X.2021.1920383>
 
