@@ -184,6 +184,11 @@ this will go early on - perahps in the research method, section before it, or in
 - For a LMS migration to "break the iron triangle" then the people involved need to be able to orchestrate the phenomena.
 - This is often the job of third space practitioners/ MLPs hence the value in examining this type of case study
 
+Anna Tsing 
+> "Our first step is to bring back curiosity. Unencumbered by the simplifications of progress narratives, the knots and pulses of patchiness are there to explore" (p6)
+
+The aim here is to explore the pulses of patchiness in a migration
+
 ### Practice Theory and Sociomaterial perspectives
 
 Fawns et al (2021, p. 361)
