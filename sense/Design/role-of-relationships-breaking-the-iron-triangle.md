@@ -291,6 +291,14 @@ Teaspoon languages (Guzdial 2022) might also be useful to mention
 
 Dron's (2020??) take might also be useful
 
+### Tinkering around the edges whilst Rome burns
+
+The LMS and many other practices associated with the contemporay corporate university are seen as highly questionable. Contributing to the "university in ruins".
+
+- This is where the mushroom approach - living within a broken systems and building something would be useful
+- Also where the Macgilchrist stuff might fit
+
+
 ### Activity Systems
 
 Ellis and Goodyear (2019) quote about a minimal set of ??
