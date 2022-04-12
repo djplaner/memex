@@ -175,6 +175,11 @@ Explroatory case study?? Three cases
 this will go early on - perahps in the research method, section before it, or in the introduction 
 
 - Atomist versus relational - general stuff
+    - Tsing's (2015) ideas of [[mushroom-at-the-end-of-the-world]]
+        - "collaboration as working across diversity"
+        - the role of contamination
+        - assemblage
+        - living in the ruins of progress - accepting the capitialist issues
 - Talk about some specific relational views as applied to educational technology
     - Fawn's entangled model
     - Dron's educational technology
@@ -386,6 +391,8 @@ Macgilchrist, F., Allert, H., & Bruch, A. (2020). Students and society in the 20
 Parrish, P. E. (2004). The Trouble with Learning Objects. *Educational Technology Research and Development*, *52*(1), 49--67.
 
 Thomas, G. (2011). A Typology for the Case Study in Social Science Following a Review of Definition, Discourse, and Structure. *Qualitative Inquiry*, *17*(6), 511--521\. <https://doi.org/10.1177/1077800411409884>
+
+Tsing, A. L. (2015). *The Mushroom at the End of the World: On the Possibility of Life in Capitalist Ruins*. Princeton University Press.
 
 van der Aalst, W. M. P., Bichler, M., & Heinzl, A. (2018). Robotic Process Automation. *Business & Information Systems Engineering*, *60*(4), 269--272\. <https://doi.org/10.1007/s12599-018-0542-4>
 
