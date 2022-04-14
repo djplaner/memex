@@ -202,7 +202,7 @@ Tsing's (2015) ideas of [[mushroom-at-the-end-of-the-world]]
 - assemblage
 - living in the ruins of progress - accepting the capitialist issues
 
-Also has the idea of buyers/field agents etc as translators that help with the scaling.  The CASA stuff I'm doing here is perhaps an example of that type of translator.  Just as Tsing says these are necessary to help scale mushroom picking, perhaps breaking the iron triangle requires higher education to have CASA
+Also has the idea of buyers/field agents etc as translators that help with the scaling.  The CASA stuff I'm doing here is perhaps an example of that type of translator.  Just as Tsing says these are necessary to help scale mushroom picking, perhaps breaking the iron triangle requires higher education to have CASA.... This was particularly evident with the variety of practices in Bb courses sites of the list of CAR requests just before my rec leave.  Required new work to "scale" to become numbers
 
 ### Practice Theory and Sociomaterial perspectives
 
