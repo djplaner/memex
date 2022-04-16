@@ -16,7 +16,14 @@ Tie in with Dede's eating, sleeping, bonding analogy
 The iron triangle is a big problem for higher education. Especially in COVID
 The need to improve access (diversity), while improving quality and constraining/reducing costs. Iron triangle says you can't do it.
 How do you break the iron triangle?
-This paper users a collection of theoretical views that emphasise a relational perspective to examine a collection of case studies from institutional LMS migrations to reveal observations that suggest institutions will continue to struggle to break the iron triangle whilst they retain practices based on  atomist perspectives that fail to pay attention to and harness the full power of all relationships
+This paper uses a collection of theoretical views that emphasise a relational perspective to examine work done by a MLP during an institutional LMS migration. 
+_perhaps somethign connecting the LMS migration or my work to breakign the iron triangle_   
+The intent being to explore answers to the nature and role of different/less traditional relationships in achieving this work and breaking the iron triangle.
+It suggests that an over reliance on atomistic, linear perspectives (e.g. pedagogy before technology) - embeded in the espoused way institutions and projects like an LMS migration are conceptualised, planned and managed - are overly simplistic and may well struggle to break the iron triangle.
+Instead educational technology is more entangled and requires greater and more varied attention paid to the relationships within that entanglement.
+The paper/case uses "Tsing stuff, entangled views, ed tech, emerging technology practices" to highlight a particular  type of attention that is oft overlooked but may be essential to successfully breaking the iron triangle.
+
+to reveal observations that suggest institutions will continue to struggle to break the iron triangle whilst they retain practices based on  atomist perspectives that fail to pay attention to and harness the full power of all relationships
 
 It has become strategically important for universities to offer better quality learning opportunitites to more people in more ways at a cheaper cost. Such attempts must break the Iron Triangle. A long acknowledged project management maxim that there exists "iron" constraints between quality, cost, and access. Changing one constraint inevitably requires change in the other two.  Current attempts to break the iron triangle - improving the digital fluency or pedagogical skills of academics; adopting a new LMS or a new curriculum management system; adopting a new pedagogy; developing a new set of course design principles -  tend to focus on the objects involved in learning and teaching. An atomist view, rather than a view focused on the relationships between the objects.  This exploratory case study seeks to answer the question: "What is the role of relationships in breaking the iron triangle?" 
 
