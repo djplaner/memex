@@ -82,7 +82,7 @@ Illustration of how the ed tech sphere has not learned from history.
 
 Could bring in discussions about the modularisation of learning materials as having a similar perspective and similar failings.
 
-### Knowledge about IT, algorithms etc 
+### Knowledge about IT, algorithms etc -- and links with lightweight IT
 
 Cotter (2022) summarises research around "knowledge of algorithms" and moves on to describe "practial knowledge" of algorithms. The linkage here is what do those involved in the migration project (and thus broader ed tech) know about algorithms and technology? How do they approach it as located by this previous work? What implications does this have for how we work and how we break the iron triangle?
 
@@ -98,6 +98,11 @@ There's a lot more here about different ways of knowing and how it involves know
 ### Conceptual Framework
 
 Fawns (2022) - entangled pedagogy. Dron (2022)
+
+#### Relational view or Relational approach
+
+Bygstad (2017, p. 183) in talking about generativity writes
+> This calls for a relational approach to the object of study; it is neither the specific attributes of the technology nor the attributes of people and organisations we wish to understand, but the emerging relationships between them. It is clear from this that generativity is an emergent phenomenon (Elder-Vass, 2007); it is not an attribute of an object (such as technology), but rather the potential outcome of the interaction of different entities. That is, the outcome is dependent on, but not reducible to the entities
 
 #### Fawns - entangled pedagogy
 
@@ -386,6 +391,7 @@ And also [this tweet](https://twitter.com/thomhillman/status/1509773871901196289
 ### What's required? Light-weight orchestration IT development??
 
 Riff on the different knowledge regime. The iterative nature of this. The need to empower.
+
 
 ## Nascent scratch space
 
