@@ -7,10 +7,21 @@ _generative technology_
 
 A "technology's capacity for leverage across a range of tasks, adaptability to a range of different tasks, easy of mastery and accessibility" (Bygstad, 2017, p. 183)
 
+Zittrain (2008) identifies five principal factors influencing how generative a system is
+1. leverage
+2. adaptation
+3. ease of mastery
+4. accessibility
+5. transferability
+
 
 ## Bygstad (2017)
 
 uses generativity as a theoretical lens
+
+### Definition
+
+> In our context we take generativity to mean the outcome of the interaction between knowledgeable people and flexible information technologies (p. 183)
 
 ### Origins and other uses
 

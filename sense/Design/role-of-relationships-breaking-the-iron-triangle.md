@@ -10,6 +10,11 @@ Tie in with Dede's eating, sleeping, bonding analogy
 
 - Get and read Vertesi (2014) seamfulness
 - See what Dron (2021) might have to contribute 
+- Summary of 
+    - post-digital
+    - iron triangle - education
+    - Fawns 2022 paper
+- Explore the literature in IS around digital infrastructure to see if it's relational (apparently) and how it connects with Fawn's entangled model 
 
 ## Abstract
 
@@ -42,7 +47,11 @@ It has become strategically important for universities to offer better quality l
 
 **universities know what, not how, perhaps because atomist over emphasis and other issues, diversity**
 
+Arguments about digitally illiterate academics, a focus on graduate attributes, selection of individidual technology systems all tending toward atomistics views. This is perhaps where mention of the learning objects literature might be useful as the archteypal example of the call for it.  Also modularisation as slightly less refined way of pushing the same agenda.
+
 **third space and MLPs, maybe LMS migrations**
+
+mlps inherently relational
 
 **Research question**
 
@@ -278,9 +287,9 @@ Fawns et al (2021, p. 369) talks about what is required of graduates of professi
 ## Case studies
 
 Actual assemblage development
-- Echo360 embed mapping
-- CARs and word2Canvas
-- canvas-collections
+- CARs and echo360 embed mapping - from Blackboard
+- word2Canvas - to Canvas
+- canvas-collections - in Canvas
 
 Theoretical/conceptual
 - I'm not a technology person
@@ -321,6 +330,20 @@ Reflections/implications
 - This oversight clashed directly with espoused aims of the strategic project
 
 ## Discussion and reflections
+
+### Generativity and malleability
+
+Stuff from Bygstad (2017) about the definition of generativity being the relations and the capability to leverage those.  Which starts with the "technical malleability" i.e. the protean nature of digital technology.  But it requires the affordance to be seen - itself a relational concept. i.e. I could do this because of my background, but also the history and the "platform" I'd built up for doing this stuff.
+
+Why couldn't IT do this. They had the technical skill. Quite possibly much better technical skill than I. But the connections/the relationships didn't allow this
+- they didn't have my "platform"
+- because they weren't working at that level
+- in part because heavyweight IT was different
+- the institutional digital infrastructure did not have the generativity to be able to generate these solutions
+- however they did provide the digital infrastructure that I could use to do this.
+
+Why didn't the project do these things? Was it because they could not conceive of this being possible, being plausible, being needed?
+
 
 ### Ed design needs a relational view of technology OR Design is technical orchestration?
 
