@@ -27,7 +27,10 @@ This paper uses a collection of theoretical views that emphasise a relational pe
 
 Focusing on the work done to fill the gaps between a key strategic project and the messy reality of implementation the paper seeks to explore the entangled relationships necessary to maximise accessibility, quality, and cost effectiveness.
 
+> we must look beyond isolated ideas of technologies or teaching methods, to the situated, entangled combinations of diverse elements involved in educational activity (Fawns, 2022)
+
 Findings
+- use Fawns idea of "educators susceptible to an inadequate appreciation of complexity relating to how it is entangled in educational activity"...leading to the idea of the missing "lightweight IT"/digital infrastructure
 - atomistic, standardised views create a capability
 - an inability to effectively deal with the entangled related of educational technology (insert Fawns term?)
 
