@@ -18,11 +18,21 @@ Tie in with Dede's eating, sleeping, bonding analogy
 
 ## Abstract
 
-The iron triangle is a big problem for higher education. Especially in COVID
-The need to improve access (diversity), while improving quality and constraining/reducing costs. Iron triangle says you can't do it.
-How do you break the iron triangle?
-This paper uses a collection of theoretical views that emphasise a relational perspective to examine work done by a MLP during an institutional LMS migration. 
-_perhaps somethign connecting the LMS migration or my work to breakign the iron triangle_   
+Breaking the iron triangle - figuring out how to maximise the accessibility, quality, and cost effectiveness of learning and teaching - has been a significant challenge for higher education for some time. A challenge only becoming more difficult in these (post-)pandemic times.
+
+- Universities still struggle with knowing how to break the iron triangle
+- Arguably because of the overly atomistic lenses informed by limited theoretical understanding of technology used to analyse, plan and take action.
+
+This paper uses a collection of theoretical views that emphasise a relational perspective to examine work done by a third space practitioner during an institutional LMS migration. Perhaps one of the best examples of a strategic project that must deal with the iron triangle.
+
+Focusing on the work done to fill the gaps between a key strategic project and the messy reality of implementation the paper seeks to explore the entangled relationships necessary to maximise accessibility, quality, and cost effectiveness.
+
+Findings
+- atomistic, standardised views create a capability
+- an inability to effectively deal with the entangled related of educational technology (insert Fawns term?)
+
+_Other scratch work_ 
+
 The intent being to explore answers to the nature and role of different/less traditional relationships in achieving this work and breaking the iron triangle.
 It suggests that an over reliance on atomistic, linear perspectives (e.g. pedagogy before technology) - embeded in the espoused way institutions and projects like an LMS migration are conceptualised, planned and managed - are overly simplistic and may well struggle to break the iron triangle.
 Instead educational technology is more entangled and requires greater and more varied attention paid to the relationships within that entanglement.
@@ -44,6 +54,8 @@ Drawing on experiences from a MLP at a single institution during a LMS migration
 **The iron triangle with connections to recent practice**
 
 It has become strategically important for universities to offer better quality learning opportunitites to more people in more ways at a cheaper cost. Such attempts must break the Iron Triangle. A long acknowledged project management maxim that there exists "iron" constraints between quality, cost, and access. Changing one constraint inevitably requires change in the other two.  Current attempts to break the iron triangle - improving the digital fluency or pedagogical skills of academics; adopting a new LMS or a new curriculum management system; adopting a new pedagogy; developing a new set of course design principles -  tend to focus on the objects involved in learning and teaching. An atomist view, rather than a view focused on the relationships between the objects.  This exploratory case study seeks to answer the question: "What is the role of relationships in breaking the iron triangle?" 
+
+Dawson, Charman & Kilpatrick (2013) mention the challenge of massification and diversification of students. Long history of multiple pathways
 
 **universities know what, not how, perhaps because atomist over emphasis and other issues, diversity**
 
@@ -162,6 +174,11 @@ Perhaps connecting to the MacGilchrist (2020) and the purpose of institutions an
 > Yes exactly. We find other ways to understand and use what is already invented, and invent ways to fix what it breaks, always building on and from what exists, not replacing it. Technology, not science.
 
 ## Method 
+
+- who participated
+- type of study
+- data used
+- how it was analysed
 
 The aim here is to explore the experience, the context, of a particular situation and in particular explore the relational views of ???
 
