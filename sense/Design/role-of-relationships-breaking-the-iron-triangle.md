@@ -18,12 +18,14 @@ Tie in with Dede's eating, sleeping, bonding analogy
 
 ## Abstract
 
-Breaking the iron triangle - figuring out how to maximise the accessibility, quality, and cost effectiveness of learning and teaching - has been a significant challenge for higher education for some time. A challenge only becoming more difficult in these (post-)pandemic times.
+Breaking the iron triangle - figuring out how to maximise the accessibility, quality, and cost effectiveness of learning and teaching - has been a significant challenge for higher education for some time. A challenge only becoming more difficult and central in these (post-)pandemic times.
 
 - Universities still struggle with knowing how to break the iron triangle
 - Arguably because of the overly atomistic lenses informed by limited theoretical understanding of technology used to analyse, plan and take action.
 
-This paper uses a collection of theoretical views that emphasise a relational perspective to examine work done by a third space practitioner during an institutional LMS migration. Perhaps one of the best examples of a strategic project that must deal with the iron triangle.
+Much research and action has been informed by atomistic and deterministic (both pedagogical and technological) perspectives that are ...misleading, fail to grasp the true complexity of the entangled nature...
+
+This paper uses a collection of theoretical views that emphasise a relational perspective **perhaps put more explicit Fawns language here** to examine work done by a third space practitioner during an institutional LMS migration. Perhaps one of the best examples of a strategic project that must deal with the iron triangle.
 
 Focusing on the work done to fill the gaps between a key strategic project and the messy reality of implementation the paper seeks to explore the entangled relationships necessary to maximise accessibility, quality, and cost effectiveness.
 
@@ -59,6 +61,8 @@ Drawing on experiences from a MLP at a single institution during a LMS migration
 It has become strategically important for universities to offer better quality learning opportunitites to more people in more ways at a cheaper cost. Such attempts must break the Iron Triangle. A long acknowledged project management maxim that there exists "iron" constraints between quality, cost, and access. Changing one constraint inevitably requires change in the other two.  Current attempts to break the iron triangle - improving the digital fluency or pedagogical skills of academics; adopting a new LMS or a new curriculum management system; adopting a new pedagogy; developing a new set of course design principles -  tend to focus on the objects involved in learning and teaching. An atomist view, rather than a view focused on the relationships between the objects.  This exploratory case study seeks to answer the question: "What is the role of relationships in breaking the iron triangle?" 
 
 Dawson, Charman & Kilpatrick (2013) mention the challenge of massification and diversification of students. Long history of multiple pathways
+
+For at least 20+ years it has been argued that digital technologies can help maximise the accessibility, quality, and cost effectiveness of learning experiences (Kanuka, 2008).
 
 **universities know what, not how, perhaps because atomist over emphasis and other issues, diversity**
 
@@ -467,6 +471,8 @@ Fawns, T. (2022). An Entangled Pedagogy: Looking Beyond the Pedagogy---Technolog
 Fawns, T., Mulherin, T., Hounsell, D., & Aitken, G. (2021). Seamful learning and professional education. *Studies in Continuing Education*, *43*(3), 360--376\. <https://doi.org/10.1080/0158037X.2021.1920383>
 
 Guzdial, M. (2022). Teaspoon Languages for Integrating Programming into Social Studies, Language Arts, and Mathematics Secondary Courses. *Proceedings of the 53rd ACM Technical Symposium on Computer Science Education V. 2*. <https://dl-acm-org.libraryproxy.griffith.edu.au/doi/abs/10.1145/3478432.3499240>
+
+Kanuka, H. (2008). *Understanding e-learning technologies-in-practice through philosophies-in-practice* (T. Anderson, Ed.; 2nd ed., pp. 91--118). AU Press.
 
 Krause, K.-L. (2022). Higher education sector institutional diversity: An Australian case study. *Journal of Higher Education Policy and Management*, *0*(0), 1--18\. <https://doi.org/10.1080/1360080X.2022.2051221>
 
