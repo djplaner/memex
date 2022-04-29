@@ -111,6 +111,9 @@ Krause (2022) - may link to the idea that assemblages/activity systems are relat
 
 Whitchurch (2008) defines the notion and discusses how its relational, across boundaries etc.  Good framing...to make the point perhaps about crossing boundaries with technology and the nature of orchestration. Sharif et al (2019) touch on the nature of third space professional role as moving through functional and organisational boundaries (breaking the hierarical nature of typical relationships) and "negotiate competing interests, identities, and requiremetns associated with the diverse range of their projects..."
 
+White et al (2021, p. 161)
+> the role of technology in accounts of third space activity remains under-explored
+
 [Murray (2022)](https://teledvisors.net/blog/2022/04/07/acting-as-bridges/)
 > One suggestion was the way in which third-space professionals (or whichever term makes most sense to you for these roles) move between different parts of the university community. One definition is that “working in The Third Space involves traversals across the threshold of the established order, challenging and subverting existing practices and hierarchies” (Hawley, McDougall, Potter and Wilkinson, 2019), which suggests a value in moving across spaces, boundaries, and groups....
 >  Possibly most importantly, we bring an ability to ‘translate’ – many of the issues in universities arise from a lack of understanding about the concerns, and priorities, of different groups
@@ -217,6 +220,8 @@ Perhaps connecting to the MacGilchrist (2020) and the purpose of institutions an
 - type of study
 - data used
 - how it was analysed
+
+Perhaps use the assemblage/relational model to analyse? to look at the how it was assembled, what relationships were required
 
 The aim here is to explore the experience, the context, of a particular situation and in particular explore the relational views of ???
 
@@ -520,6 +525,8 @@ Thomas, G. (2011). A Typology for the Case Study in Social Science Following a R
 Tsing, A. L. (2015). *The Mushroom at the End of the World: On the Possibility of Life in Capitalist Ruins*. Princeton University Press.
 
 van der Aalst, W. M. P., Bichler, M., & Heinzl, A. (2018). Robotic Process Automation. *Business & Information Systems Engineering*, *60*(4), 269--272\. <https://doi.org/10.1007/s12599-018-0542-4>
+
+White, S., White, S., & Borthwick, K. (2021). Blended professionals, technology and online learning: Identifying a socio-technical third space in higher education. *Higher Education Quarterly*, *75*(1), 161--174\. <https://doi.org/10.1111/hequ.12252>
 
 ## See also
 

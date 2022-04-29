@@ -1,5 +1,51 @@
 # Third space
 
+## Blended professionals, technology and online learning: Identifying a socio-technical third space in higher education
+
+White, White & Borthwick (2021)
+
+### Annotations (4/29/2022, 1:23:19 PM)
+
+"Abstract" (White et al., 2021, p. 161)
+
+"However, the role of technology in accounts of third space activity remains under-explored." (White et al., 2021, p. 161)
+
+"it is argued that both social and technical factors must be considered to understand, plan for and manage the third space roles and structures which emerge in such initiatives." (White et al., 2021, p. 161)
+
+"it also proposes the concept of a socio-technical third space in which blended professionals act as hubs in a metaphorical network of activity, using social and technical means to shape their own roles and those of others" (White et al., 2021, p. 161)
+
+"INTRODUCTION" (White et al., 2021, p. 162)
+
+"Studies of British, American and Australian universities have identified the concept of third space roles in higher education which straddle academic and professional functions (Whitchurch, 2008, 2009, 2013)" (White et al., 2021, p. 162)
+
+"These projects are frequently identified as sites of third space activity, yet research in this area has yet to focus on the role of technology within these social contexts" (White et al., 2021, p. 162)
+
+"Such research reveals how technologies become embedded and configured in their context of use and is invaluable in resisting technologically determinist characterisations of technologies as fixed entities which bring with them inevitable social effects (Selwyn, 2010)" (White et al., 2021, p. 162)
+
+"Using 'concise characterizations of technology' alongside 'relevant social theory' (Kling, Rosenbaum, & Sawyer, 2005, p. 59), this multi-site case study of three UK universities produces nuanced depictions of MOOC development and the evolving roles of those involved" (White et al., 2021, p. 163)
+
+"The findings reveal that learning designers carve out a significant hub-like role in MOOC development, in an environment characteristic of Whitchurch's third space, yet constructed via both social and technological means. It is argued, therefore, that it is useful to conceive of a 'socio-technical third space', developed via skilled negotiation of roles and the strategic embedding and configuration of technology" (White et al., 2021, p. 163)
+
+"ONLINE LEARNING DEVELOPMENT AS A SITE OF THIRD SPACE ACTIVITY" (White et al., 2021, p. 164)
+
+"Significantly for this paper, both studies highlight technology as having a part to play in many of these new roles" (White et al., 2021, p. 164)
+
+"These observations also resonate with studies of conventional (non-MOOC) online learning roles such as Oliver's identification of 'hidden negotiation' in online learning projects (2002, p. 246)" (White et al., 2021, p. 164)
+
+"Indeed, research from the field of social informatics has long argued that technologies and their social contexts of use have a complex and co-constructive relationship (Kling et al., 2005; Sanfillipo & Fichman, 2013)." (White et al., 2021, p. 164)
+
+"RESEARCHING TECHNOLOGY IN CONTEXT" (White et al., 2021, p. 165)
+
+"In attempting to gain a nuanced view of technology in its social context, a multi-site case study approach is used. This primarily qualitative approach focuses on construction of meaning and experience in the complex context of educational organisations (Kirkwood & Price, 2014)." (White et al., 2021, p. 165)
+
+"Following social informatics studies by Meyer (2006) and Villar-Onrubia (2014), data collection was initially guided by the STIN analytic strategy. Using a set of seven heuristics,1 the strategy aims to balance concerns with social and technical factors, allowing researchers to generate nuanced depictions of 'a network that includes people (money, skill, status), documents and messages, legal arrangements, enforcement mechanisms, and resource flows' (Kling, McKim, & King, 2003, p. 48)." (White et al., 2021, p. 165)
+
+"hus, in line with Ashwin's methodological thinking in education (2012, p. 944), the qualitative data and 'concise descriptions of technology' are used to 'knock against' socio-technical and third space theoretical concepts in order test or refine understandings of them." (White et al., 2021, p. 166)
+
+"Learning designers as hubs in a network of human and non-human actors" (White et al., 2021, p. 170)
+
+"Although the online learning literature frequently highlights collaboration and teamwork as fundamental in course development, the STIN analysis reveals the role of learning designer as hub within a complex, dynamic network of social actors and non-human actants (see Figure 1)" (White et al., 2021, p. 170)
+
 ## Understanding and debating the third space
 
 Hall (2022)
@@ -76,8 +122,22 @@ Mcintosh & Nutt (2022) identify four main themes from their book
 
 "Whitchurch suggested that "binary assumptions about "academic" and "non-academic" roles and identities are becoming increasingly unstable" (p. 137)." (McIntosh and Nutt, 2022, p. 275)
 
+## Building bridges and connections
+
+Denney 2022
+
+### Annotations (4/29/2022, 12:40:59 PM)
+
+"For the purpose of this chapter, the term "educational development" is used to describe those members of staff who work across their institution to support systems, processes, and individuals in order to enhance the educational experience of students." (Denney, 2022, p. 50)
+
+"Whitchurch defines third space professionals as "hybrid workers" in higher education who work across functional boundaries and tend to work mainly on projects (Whitchurch, 2006)." (Denney, 2022, p. 51)
+
 ## References
+
+Denney, F. (2022). Building bridges and connections. In E. McIntosh & D. Nutt, *The Impact of the Integrated Practitioner in Higher Education* (1st ed., pp. 50--62). Routledge. <https://doi.org/10.4324/9781003037569-7>
 
 Hall, J. (2022). Understanding and debating the third space. In E. McIntosh & D. Nutt, *The Impact of the Integrated Practitioner in Higher Education* (1st ed., pp. 26--32). Routledge. <https://doi.org/10.4324/9781003037569-4>
 
 McIntosh, E., & Nutt, D. (2022). *Third spaces and integrated practice -- concluding reﬂections*. In E. McIntosh & D. Nutt, *The Impact of the Integrated Practitioner in Higher Education* (1st ed., pp. 265--277). Routledge. <https://doi.org/10.4324/9781003037569-4>
+
+White, S., White, S., & Borthwick, K. (2021). Blended professionals, technology and online learning: Identifying a socio-technical third space in higher education. *Higher Education Quarterly*, *75*(1), 161--174\. <https://doi.org/10.1111/hequ.12252>
