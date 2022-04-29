@@ -56,13 +56,23 @@ Drawing on experiences from a MLP at a single institution during a LMS migration
 
 ## Introduction
 
-**The iron triangle with connections to recent practice**
+**Expand on the iron triangle with connections to recent practice**
+
+Also include expanded references for why we need to break the iron triangle. e.g. uncertainty about funding, massification and diversification, pandemic, micro-credentials etc.
+
+Hark back to historical connections - **what was the early 90s article I used to quote that vaguely had something like this**
 
 It has become strategically important for universities to offer better quality learning opportunitites to more people in more ways at a cheaper cost. Such attempts must break the Iron Triangle. A long acknowledged project management maxim that there exists "iron" constraints between quality, cost, and access. Changing one constraint inevitably requires change in the other two.  Current attempts to break the iron triangle - improving the digital fluency or pedagogical skills of academics; adopting a new LMS or a new curriculum management system; adopting a new pedagogy; developing a new set of course design principles -  tend to focus on the objects involved in learning and teaching. An atomist view, rather than a view focused on the relationships between the objects.  This exploratory case study seeks to answer the question: "What is the role of relationships in breaking the iron triangle?" 
 
 Dawson, Charman & Kilpatrick (2013) mention the challenge of massification and diversification of students. Long history of multiple pathways
 
 For at least 20+ years it has been argued that digital technologies can help maximise the accessibility, quality, and cost effectiveness of learning experiences (Kanuka, 2008).
+
+**What is being done is problematic**
+
+> a need to revisit the organising principles of the academy, not least to account for the huge shift in focus caused by the Covid19 pandemic and the emergency pivot to blended learning and working. (McIntosh & Nutt, 2022, p. 265)
+
+Bring up the precarity of much work
 
 **universities know what, not how, perhaps because atomist over emphasis and other issues, diversity**
 
@@ -71,6 +81,10 @@ Arguments about digitally illiterate academics, a focus on graduate attributes, 
 **third space and MLPs, maybe LMS migrations**
 
 mlps inherently relational
+Whitchurch's definiton of "third space" includes "the pivotal role of relationships"
+
+McIntosh and Nutt (2022, p. 271) _which is also the aim here_
+> to make more visible the work that takes place quite invisibly in third spaces and to consider the complexity, challenges, and value of blended working and to highlight the great potential of boundary crossing in contemporary higher education settings.
 
 **Research question**
 
@@ -102,6 +116,8 @@ Whitchurch (2008) defines the notion and discusses how its relational, across bo
 >  Possibly most importantly, we bring an ability to ‘translate’ – many of the issues in universities arise from a lack of understanding about the concerns, and priorities, of different groups
 Perhaps pointing at the idea of assemblage, seeing/building relationships
 
+> but third spaces are likely to become even more important post-pandemic and in a fast-changing world; they are creative spaces where responses, actions, and solutions can be explored (McIntosh & Nutt, 2022, p. 274)
+:want
 ### Learning Objects
 
 Parrish (2004) uses situated perspectives of knowledge to critique the early boosterish views of learning objects. Learning objects are a two decade old attempt to break the iron triangle that were also apparently limited by limited views of knowledge and L&T practice. i.e. the need for and value of customisation. 
@@ -477,6 +493,8 @@ Kanuka, H. (2008). *Understanding e-learning technologies-in-practice through ph
 Krause, K.-L. (2022). Higher education sector institutional diversity: An Australian case study. *Journal of Higher Education Policy and Management*, *0*(0), 1--18\. <https://doi.org/10.1080/1360080X.2022.2051221>
 
 Macgilchrist, F., Allert, H., & Bruch, A. (2020). Students and society in the 2020s. Three future 'histories' of education and technology. *Learning, Media and Technology*, *45*(0), 76--89\. <https://doi.org/10.1080/17439884.2019.1656235>
+
+McIntosh, E., & Nutt, D. (2022). *Third spaces and integrated practice -- concluding reﬂections*. 13.
 
 Parrish, P. E. (2004). The Trouble with Learning Objects. *Educational Technology Research and Development*, *52*(1), 49--67.
 
