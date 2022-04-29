@@ -117,7 +117,22 @@ Whitchurch (2008) defines the notion and discusses how its relational, across bo
 Perhaps pointing at the idea of assemblage, seeing/building relationships
 
 > but third spaces are likely to become even more important post-pandemic and in a fast-changing world; they are creative spaces where responses, actions, and solutions can be explored (McIntosh & Nutt, 2022, p. 274)
-:want
+
+> At a time when universities were reaching out for e-learning like never before and when big business was indicating the huge investment potential of technology enhanced learning, this advisor reported feeling constrained, rather bored, and demotivated because her time was no longer her own and she was expected to work in a wholly strategic way to ensure that lecturers met the university’s virtual learning environment expectations. Rather than being excited by the opportunities to bring e-learning centre stage, this advisor felt constrained by the strategic imperative, the involvement of senior colleagues, **and pressure to drive change at scale**. (Hall, 2022, p. 27)
+
+_QUestions_
+- Is the inability to do the type of automated orchestration I do a contribution to the demotivation? Or better yet the inability and limtiations of the technolgoies to enable this?
+
+> Second, the race to create technologically rich learning environments at speed has prised open the Pandora’s Box of corporate e-learning, leaving universities vulnerable like never before and casting into the shadows any sense of a slow or creeping hegemony of neo-liberalism, neo-conservatism, and new managerialism within higher education (Cowden and Singh, 2013; Van Heertum, 2006).  from (Hall, 2022, p. 28)
+
+> In 2021 marketisation is truly with us, budgets are under greater pressure, metrics are more dominant and layered across these challenges, “third space professionals” or “para-academics” are caught in a web of commodified, commercialised education, often implicated in the use of high-cost tools to track and measure and “deliver” teaching....from (Hall, 2022, p. 30)
+
+_The above may provide a link to Tsing and the need to live within the ruins_
+
+> We have to ask what our universities can become at the same time as recognising or resisting a marketised, digitised future where there is even less control of the curricula and how learning happens, managed by learning platforms and privately created learning packages, monitored through data flows...from (Hall, 2022, p. 30).....As a DVC of a modern university, **education must be about the creation of agency**
+
+_The above perhaps links to the Macgilchrist optimisitic future_
+
 ### Learning Objects
 
 Parrish (2004) uses situated perspectives of knowledge to critique the early boosterish views of learning objects. Learning objects are a two decade old attempt to break the iron triangle that were also apparently limited by limited views of knowledge and L&T practice. i.e. the need for and value of customisation. 
@@ -487,6 +502,8 @@ Fawns, T. (2022). An Entangled Pedagogy: Looking Beyond the Pedagogy---Technolog
 Fawns, T., Mulherin, T., Hounsell, D., & Aitken, G. (2021). Seamful learning and professional education. *Studies in Continuing Education*, *43*(3), 360--376\. <https://doi.org/10.1080/0158037X.2021.1920383>
 
 Guzdial, M. (2022). Teaspoon Languages for Integrating Programming into Social Studies, Language Arts, and Mathematics Secondary Courses. *Proceedings of the 53rd ACM Technical Symposium on Computer Science Education V. 2*. <https://dl-acm-org.libraryproxy.griffith.edu.au/doi/abs/10.1145/3478432.3499240>
+
+Hall, J. (2022). Understanding and debating the third space. In E. McIntosh & D. Nutt, *The Impact of the Integrated Practitioner in Higher Education* (1st ed., pp. 26--32). Routledge. <https://doi.org/10.4324/9781003037569-4>
 
 Kanuka, H. (2008). *Understanding e-learning technologies-in-practice through philosophies-in-practice* (T. Anderson, Ed.; 2nd ed., pp. 91--118). AU Press.
 
