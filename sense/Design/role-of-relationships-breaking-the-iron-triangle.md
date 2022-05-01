@@ -64,6 +64,9 @@ Hark back to historical connections - **what was the early 90s article I used to
 
 It has become strategically important for universities to offer better quality learning opportunitites to more people in more ways at a cheaper cost. Such attempts must break the Iron Triangle. A long acknowledged project management maxim that there exists "iron" constraints between quality, cost, and access. Changing one constraint inevitably requires change in the other two.  Current attempts to break the iron triangle - improving the digital fluency or pedagogical skills of academics; adopting a new LMS or a new curriculum management system; adopting a new pedagogy; developing a new set of course design principles -  tend to focus on the objects involved in learning and teaching. An atomist view, rather than a view focused on the relationships between the objects.  This exploratory case study seeks to answer the question: "What is the role of relationships in breaking the iron triangle?" 
 
+> Learning management system (LMS) migration is one of the most complex and labor-intensive initiatives that a university might undertake.” (Cottam, 2021, p. 66)
+> It is impossible to predict challenges accurately in a one- to two-year migration project, given the diversity of courses, instructional formats, and faculty and student preferences. (Cottam, 2021, p. 66)
+
 Dawson, Charman & Kilpatrick (2013) mention the challenge of massification and diversification of students. Long history of multiple pathways
 
 For at least 20+ years it has been argued that digital technologies can help maximise the accessibility, quality, and cost effectiveness of learning experiences (Kanuka, 2008).
@@ -73,6 +76,10 @@ For at least 20+ years it has been argued that digital technologies can help max
 > a need to revisit the organising principles of the academy, not least to account for the huge shift in focus caused by the Covid19 pandemic and the emergency pivot to blended learning and working. (McIntosh & Nutt, 2022, p. 265)
 
 Bring up the precarity of much work
+
+Hannon (2014) also has a lot of literature on the problems with institutional implementation.
+
+> It aims to shift from studying the what of organisation to the how of organising and identify the points at which network ties and connections are established and assembled, making visible the objects that put these arrangements into place. (Hannon, 2014, p. 69)
 
 **universities know what, not how, perhaps because atomist over emphasis and other issues, diversity**
 
@@ -87,6 +94,12 @@ McIntosh and Nutt (2022, p. 271) _which is also the aim here_
 > to make more visible the work that takes place quite invisibly in third spaces and to consider the complexity, challenges, and value of blended working and to highlight the great potential of boundary crossing in contemporary higher education settings.
 
 **Research question**
+
+During an LMS migration 
+- what type of entangled relations/assemblages usefully help break the iron triangle?
+- what role do entangled relationships play in breaking the iron triangle?
+
+
 
 **overview**
 
@@ -157,11 +170,16 @@ From Cotter (2022)
 
 There's a lot more here about different ways of knowing and how it involves knowing how "to be". There's an argument to explore here about how inherently most ed designers do not see themselves as technical people. The habitus they work within (more heavyweight IT) is not conducive to the type of activity required to break the iron triangle
 
+> Once again, consider the LMS, which offers a very limited palette: most of the important design decisions have already been made by the developers, and these decisions tend to embody particular pedagogies—specifically, those that are readily quantified—and to support and replicate existing hierarchies of knowledge and power within the institution. In short, by the time they come to us, these technologies are far from neutral (Rose, 2017, pp 375)
+
 ### Conceptual Framework
 
 Fawns (2022) - entangled pedagogy. Dron (2022)
 
 #### Relational view or Relational approach
+
+Hannon (2014, p. 73)
+> Orlikowski and Scott described this inherent inseparability of the social and material as a relational ontology such that “people and things only exist in relation to each other” (p. 456). Indeed, Law (2009) proposes that “nothing has reality or form outside the enactment of those relations” (p. 141). The notion of objects as actors draws on these sociomaterial perspectives, in particular ANT (Latour, 1987, 2005; Law, 2004), in recognising the role of nonhuman participants in the configurations of everyday life
 
 Bygstad (2017, p. 183) in talking about generativity writes
 > This calls for a relational approach to the object of study; it is neither the specific attributes of the technology nor the attributes of people and organisations we wish to understand, but the emerging relationships between them. It is clear from this that generativity is an emergent phenomenon (Elder-Vass, 2007); it is not an attribute of an object (such as technology), but rather the potential outcome of the interaction of different entities. That is, the outcome is dependent on, but not reducible to the entities
@@ -502,6 +520,8 @@ i.e. lets be consistent
 
 ## References
 
+Cottam, M. E. (2021). An Agile Approach to LMS Migration. *Journal of Online Learning Research and Practice*, *8*(1). <https://doi.org/10.18278/jolrap.8.1.5>
+
 Cotter, K. (2022). Practical knowledge of algorithms: The case of BreadTube. *New Media & Society*, 14614448221081802\. <https://doi.org/10.1177/14614448221081802>
 
 Dron, J. (n.d.). Technology, technique, and culture in educational systems: Breaking the iron triangle. In *Distance Education in China* (pp. 37--49).
@@ -516,6 +536,8 @@ Guzdial, M. (2022). Teaspoon Languages for Integrating Programming into Social S
 
 Hall, J. (2022). Understanding and debating the third space. In E. McIntosh & D. Nutt, *The Impact of the Integrated Practitioner in Higher Education* (1st ed., pp. 26--32). Routledge. <https://doi.org/10.4324/9781003037569-4>
 
+Hannon, J. (2014). Making the Right Connections: Implementing the Objects of Practice into a Network for Learning. In V. Hodgson, M. de Laat, D. McConnell, & T. Ryberg (Eds.), *The Design, Experience and Practice of Networked Learning* (pp. 67--85). Springer International Publishing. <https://doi.org/10.1007/978-3-319-01940-6_4>
+
 Kanuka, H. (2008). *Understanding e-learning technologies-in-practice through philosophies-in-practice* (T. Anderson, Ed.; 2nd ed., pp. 91--118). AU Press.
 
 Krause, K.-L. (2022). Higher education sector institutional diversity: An Australian case study. *Journal of Higher Education Policy and Management*, *0*(0), 1--18\. <https://doi.org/10.1080/1360080X.2022.2051221>
@@ -527,6 +549,8 @@ McIntosh, E., & Nutt, D. (2022). *Third spaces and integrated practice -- conclu
 Nørgård, R. T., Mor, Y., & Bengtsen, S. S. E. (2019). Networked Learning in, for, and with the World. In A. Littlejohn, J. Jaldemark, E. Vrieling-Teunter, & F. Nijland (Eds.), *Networked Professional Learning: Emerging and Equitable Discourses for Professional Development* (pp. 71--88). Springer International Publishing. <https://doi.org/10.1007/978-3-030-18030-0_5>
 
 Parrish, P. E. (2004). The Trouble with Learning Objects. *Educational Technology Research and Development*, *52*(1), 49--67.
+
+Rose, E. (2017). Cause for Optimism: Engaging in a Vital Conversation About Online Learning. *Foundations of Science*, *22*(2), 373--376\. <https://doi.org/10.1007/s10699-015-9445-8>
 
 Thomas, G. (2011). A Typology for the Case Study in Social Science Following a Review of Definition, Discourse, and Structure. *Qualitative Inquiry*, *17*(6), 511--521\. <https://doi.org/10.1177/1077800411409884>
 
