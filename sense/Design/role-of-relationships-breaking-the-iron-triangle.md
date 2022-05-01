@@ -464,6 +464,12 @@ Whereas the ability to use technology to automate orchestration leads to better 
 
 ...this is also where RPA could be brought in to illustrate how the digital fluency or organisational L&T is somewhat less than what is observered elsewhere e.g. Griffith's projects
 
+And also limitations of what the future of universities can be - MacGilchrist and Norgard (2019)
+
+> As such, hybridity strives to cut across, fuse, entangle, or circumvent traditional dichotomies within higher education such as online-onsite, digital-physical, formal-unformal, university-society, learning-teaching, study-work, individual-collective, and so forth. To do so, there is a push against the closed ontology and geography framing teaching and learning at the mode 1 and mode 2 university, as processes of indeterminacy, open-endedness, exploration, experimentation, dialogue, and co-creativity are highlighted (p. 76)
+
+> Overall, teaching and learning in and through hybrid networks carry the potential to resist and push against the managerialism and standardisation of the commodified competence factory. (p. 76)
+
 ### hard and soft technologies: a major hold on breaking the iron triangle
 
 Connect with Dron's identification of hard technologies. In the absence of the ability to orchestrate we see these constraints being put on the quality of what can be achieved. e.g. Canvas collections and findability....and more
@@ -517,6 +523,8 @@ Krause, K.-L. (2022). Higher education sector institutional diversity: An Austra
 Macgilchrist, F., Allert, H., & Bruch, A. (2020). Students and society in the 2020s. Three future 'histories' of education and technology. *Learning, Media and Technology*, *45*(0), 76--89\. <https://doi.org/10.1080/17439884.2019.1656235>
 
 McIntosh, E., & Nutt, D. (2022). *Third spaces and integrated practice -- concluding reﬂections*. 13.
+
+Nørgård, R. T., Mor, Y., & Bengtsen, S. S. E. (2019). Networked Learning in, for, and with the World. In A. Littlejohn, J. Jaldemark, E. Vrieling-Teunter, & F. Nijland (Eds.), *Networked Professional Learning: Emerging and Equitable Discourses for Professional Development* (pp. 71--88). Springer International Publishing. <https://doi.org/10.1007/978-3-030-18030-0_5>
 
 Parrish, P. E. (2004). The Trouble with Learning Objects. *Educational Technology Research and Development*, *52*(1), 49--67.
 
