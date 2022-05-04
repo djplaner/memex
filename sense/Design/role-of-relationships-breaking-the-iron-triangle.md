@@ -375,7 +375,9 @@ Theoretical/conceptual
 - Perspectives on design: big-up front, forward-oriented and design-in-use
 - Mindsets aka the light-weight development name for this
 
-### Echo360 embed mapping
+### What is in a course site? CARs
+
+#### Echo360 embed mapping
 
 Reflections/implications
 
@@ -386,7 +388,13 @@ Reflections/implications
 - Allow workers to orchestrate phenemona for their own purpose
 - Something about the impact on staffing and skills - low level helpdesk versus folk a few rungs up the ladder
 
-### CARs and word2Canvas
+But there's also the question of academic practice (re: naming of videos) and the issues that this creates at scale. e.g. how many videos are calls 'vocabulary' or 'lecture' or some other name that is meaningful within a specific course context but make it difficult when working across contexts. e.g. Steven's list
+
+This type of cross context moving goes against the IT approach to dealing with it. Which is all about loose coupling
+
+## Migrate to Canvas: CAR and word2canvas
+
+#### CARs and word2Canvas
 
 Wonder how the local development here of word2Canvas might be a good thing.  Get the MLOs/Designers involved.
 
@@ -400,7 +408,7 @@ Reflections/implications
 - Also a need to respond creatively to different learning designs (e.g. Content Interface)
 - technology gets better as it is assembled into broader hierarchies (Dron)
 
-### canvas-collections
+## Refine Canvas - canvas-collections
 
 Reflections/implications
 - Program or be programmed
