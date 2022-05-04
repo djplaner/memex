@@ -377,6 +377,10 @@ Theoretical/conceptual
 
 ### What is in a course site? CARs
 
+#### Early (& on-going) issue - course and teacher identification
+
+To generate the CARs it's helpful to know which courses, which course sites and also the relevant teaching staff (perhaps, given already in Blackboard). Early on the list of courses the centre had was not clear or complete. This information also had no connection with course sites e.g. if different offerings had different sites, if they were joined, joined with completely different Courses.
+
 #### Echo360 embed mapping
 
 Reflections/implications
