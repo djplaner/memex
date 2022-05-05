@@ -176,6 +176,19 @@ There's a lot more here about different ways of knowing and how it involves know
 
 Fawns (2022) - entangled pedagogy. Dron (2022)
 
+#### Neo-STS
+
+Winter et al (2014) define and re-examine the socio-technical systems view of Information Systems - which has echoes of Fawns and Dron's views - and identify some limitations of the assumptions underpinning STS. These may apply  here.  e.g. that an organisation is not the containter for all, that the purely nested view may not work.  This has interesting resonances with the Canvas community
+
+Winter et al (2014) also touch on the digital infrastrcuture idea including mention of generativity...also useful here
+
+Premises
+1. Work systems are necessarily encapsulated within one or more, potentially overlapping, sociotechnical systems.
+2. Work systems have interrelated, possibly complementary, redundant, competing, or conflicting, social and technical elements that may co-exist without ever being fully reconcileda (critiquing the idea of alignment etc)
+3. Work systems can derive purpose, meaning, and structure from the multiple contexts in which elements are embedded and they may pass on purpose, meaning and structure to the sociotechnical systems that emerge around them.
+4. Creation and continued existence of work systems involves simultaneous support for both performance of work and ongoing negotiation of goals, values, and meaning. **important very relevant here discsses this in depth**
+
+
 #### Relational view or Relational approach
 
 Hannon (2014, p. 73)
@@ -571,6 +584,8 @@ Tsing, A. L. (2015). *The Mushroom at the End of the World: On the Possibility o
 van der Aalst, W. M. P., Bichler, M., & Heinzl, A. (2018). Robotic Process Automation. *Business & Information Systems Engineering*, *60*(4), 269--272\. <https://doi.org/10.1007/s12599-018-0542-4>
 
 White, S., White, S., & Borthwick, K. (2021). Blended professionals, technology and online learning: Identifying a socio-technical third space in higher education. *Higher Education Quarterly*, *75*(1), 161--174\. <https://doi.org/10.1111/hequ.12252>
+
+Winter, S., Berente, N., Howison, J., & Butler, B. (2014). Beyond the organizational 'container': Conceptualizing 21st century sociotechnical work. *Information and Organization*, *24*(4), 250--269\. <https://doi.org/10.1016/j.infoandorg.2014.10.003>
 
 ## See also
 
