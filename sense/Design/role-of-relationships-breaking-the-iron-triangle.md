@@ -230,6 +230,47 @@ Perhaps connecting to the MacGilchrist (2020) and the purpose of institutions an
 
 > Ethics is "more than following ‘a linear chain of events’ (Barad); it means tracing relations to see where they lead.” We can use distributed knowledge to trace side effects, unintended consequences & complex entanglements of tech-related decisions at course & institutional level
 
+#### Carvalho and Yeoman 2018
+
+They are focused on developing "creating tangible **analytical tools** to facilitate the work of educational designers" what I'm doing is orchestrating assemblages of technologies for the purpose of LMS migration > moving between levels of scale.
+
+> Fenwick et al. (2011) note that sociomaterial studies of education challenge the centrality of human processes in learning, in favour of the materiality of learning. This claim, they say, does not come at the expense of the personal but seeks to treat the material and the human symmetrically in order to explain how entities, knowledge, other actors and relations of mediation and activity converge in learning....What becomes clear, through the lens of a sociomaterial approach, is that increased connectivity and participation in networked structures gives rise to an increased dependence, which drives the need to understand the relations between constituent parts. (p. 1134)
+
+Core to understanding of this is Hodder's (2012) **theory of entanglement**. Which offers a reasonable way of structuring the cases but with additional consideration to the evolmenet.  Part of the fixing/selection stuff is about diving down below and back up the scales.
+
+![](pics/hodder_entanglement_theory.png)  
+
+> Key aspects of design for learning include the careful alignment of theory and practice, and correspondence across dimensions of design (set, social and epistemic) and scale levels (macro, meso and micro). (p. 1135) _the point about correspondence about scale is important and perhaps gets at some of the issues faced (eg. LTI stuck at the middle level and unable to work at scale, relying on manual work)
+
+> As a consequence, the dualisms of agency and structure, human and non-human, knowledge and power, before and after, material and social are no longer taken as given or fixed, but as the effects or outcomes of assemblages. (p. 1128) _this is perhaps important summary of the difference - the preceding brings up work from archeology, actor-network theory_
+
+> Moreover, having untangled our small bit of the world, we should always remember the intention is not to pull things apart but to ‘explore entanglement itself, engaging in thick, rich, contextual analysis’ (Hodder, 2012, p. 218).
+> 
+> That is, many of these relational approaches to materiality work within a shallow or use-value notion of ecological or systems thinking. Rather than networks or meshworks, Hodder (2012) proposes a dialectical tension between enabling dependence and constraining dependency, resulting in what he calls sticky entrapment—a state in which choices, once made, limit the range of subsequent opportunities for future action. (p. 1128) _this resontates eith the generative thign?_
+
+> What is more, deterministic accounts of tools and spaces for learning tend to focus on identifying generic and decontextualised properties of tools or spaces, without considering the qualities of the objects themselves, and how these, in turn, may influence people, their values and purposeful action. (p. 1121)
+
+> we argue that those involved in educational design (e.g. teachers, space planners, architects, instructional designers) need analytical tools capable of increasing the correspondence between (a) pedagogy, place and people and (b) theory, design and practice. (p. 1121) _this being a nod toward, but not quite the same as the need for educational designers to have CARs to reveal what is embedded within a course site.  Becuese we don't have the analytical tools the authors discuss_
+
+> First, our work is deeply rooted in material accounts of situated learning activity, which means we are not satisfied by descriptions of learning in which the role of materials is either absent or overly deterministic. (p. 1121)
+
+> That is, our focus is on the learning whole (people, place and pedagogy) and our aim is to support the analysis and design of complex networked learning environments. (p. 1122) _which is also the aim of migration, courses are not black boxes to easily move, they are complex entangled environments)_
+
+> Our intention is to support correspondence between dimensions of design (left to right) and scale levels (top to bottom). (p. 1127) _perhaps the project (and LMS and SCORM and LTI) fails to effective go from top to bottom, the atomistic tends to stick at the middle layer and fails to effectively represent and detail with the complexity of the lower/micro level.  Does my case illustrate that difficulty? Perhaps this is part of the problem with loose coupling, it assumes you don't need to know the detail or the entanglement_
+
+They use Alexander's definitions of Macro, Meso, and Micro to identify differrent types of scale i.e.
+- Macro - region - "broad context for the design and are built through cumulative acts of a community over time"
+- Meso - shape - "the shape or structure of things, or groups of things, and the spaces between them"
+- Micro - detail - "the details for Level II patterns and can be built in a single act by an invididual"
+
+Does that then become
+- Macro - the insttitutional context, the VLE, LMS, CMS etc
+- Meso - course profile, learning outcomes
+- Micro - learning activities.
+
+![](pics/acad_wireframe.png)  
+
+> However, reaching consensus about a shared epistemology of learning in these diverse teams is the crucial first step, and failing to do so often results in dissonance across scale levels and/or dimensions of design. A common example of this type of dissonance arises when, instead of clearly articulating epistemologies of learning upfront, project user groups start with aspirational visions of newness (macro-epistemic) that drive design briefs for innovative buildings and technology (macro-set) which, if enacted in the presence of hierarchical organisational forms (macro-social), can result in aesthetically pleasing environments that speak of newness but fail to give rise to the desired quality of learning activity. That is, when working towards coherence, everything is on the table, and a desire for collaboration and a need for compliance are often at the heart of dissonance. We argue that this challenge can be addressed through an exploration of the material properties of the designed environment and the quality of learning activity they support.
 
 #### Dron and educational technology
 
