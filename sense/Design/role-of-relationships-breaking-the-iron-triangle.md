@@ -32,6 +32,12 @@ Focusing on the work done to fill the gaps between a key strategic project and t
 > we must look beyond isolated ideas of technologies or teaching methods, to the situated, entangled combinations of diverse elements involved in educational activity (Fawns, 2022)
 
 Findings
+- suggestions of a meso-level hole in institutions approach to education which fails to effieicently and effectively form the relationships necessary to break the iron triangle
+- based on macro and micro having very different mindsets (e.g. language from lightweight development) that is increasingly getting bridged by meso-level practitioners but their "mindsets" aren't up to the job
+
+   “Abstraction is the elimination of the irrelevant and the amplification of the essential.”
+      ― Robert C. Martin, Agile Principles, Patterns, and Practices in C# 
+
 - use Fawns idea of "educators susceptible to an inadequate appreciation of complexity relating to how it is entangled in educational activity"...leading to the idea of the missing "lightweight IT"/digital infrastructure
 - atomistic, standardised views create a capability
 - an inability to effectively deal with the entangled related of educational technology (insert Fawns term?)
@@ -74,6 +80,8 @@ For at least 20+ years it has been argued that digital technologies can help max
 **What is being done is problematic**
 
 > a need to revisit the organising principles of the academy, not least to account for the huge shift in focus caused by the Covid19 pandemic and the emergency pivot to blended learning and working. (McIntosh & Nutt, 2022, p. 265)
+
+The media quote about universities struggling to be flexible moving back onto campus post covid because timetabling/room allocation takes too long.
 
 Bring up the precarity of much work
 
