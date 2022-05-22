@@ -305,6 +305,13 @@ Does that then become
 - data used
 - how it was analysed
 
+#### Griffith detail
+
+- 4500 course sites (noted in VLE overview draft document)
+- ?? how many AEL
+
+#### other stuff
+
 Perhaps use the assemblage/relational model to analyse? to look at the how it was assembled, what relationships were required
 
 The aim here is to explore the experience, the context, of a particular situation and in particular explore the relational views of ???
