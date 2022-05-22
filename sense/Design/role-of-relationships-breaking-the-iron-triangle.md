@@ -37,6 +37,10 @@ Findings
 
    “Abstraction is the elimination of the irrelevant and the amplification of the essential.”
       ― Robert C. Martin, Agile Principles, Patterns, and Practices in C# 
+    
+- link to the comments in Moore & Piety 2022 about systemic problems rather than individual - this could link to entanglement. The idea is that the systems in an university are unable to deal with the entanglement.  That's the problem
+
+- The fact that some claim that "digital technologies are the primary source of innovation" suggests that the hole in the ability to leverage digital technologies is a big problem
 
 - use Fawns idea of "educators susceptible to an inadequate appreciation of complexity relating to how it is entangled in educational activity"...leading to the idea of the missing "lightweight IT"/digital infrastructure
 - atomistic, standardised views create a capability
@@ -368,6 +372,10 @@ this will go early on - perahps in the research method, section before it, or in
 - For a LMS migration to "break the iron triangle" then the people involved need to be able to orchestrate the phenomena.
 - This is often the job of third space practitioners/ MLPs hence the value in examining this type of case study
 
+Moore and Piety (2022)
+> Most online planning starts with the resources or tools in the form of selecting a learning management system that will serve as the online learning environment. While they are an important element, they are only one component in the online learning ecosystem, and selection of these may be greatly informed by mapping out needs for other components of the system. ***One key aspect to systemic planning is not only that there are different components but that these components interact with other components***
+> Generally, lack of resources or support tools is one of the most commonly cited barriers to performance (Bacow et al., 2012;O’Doherty, 2018);
+> 
 Anna Tsing 
 > "Our first step is to bring back curiosity. Unencumbered by the simplifications of progress narratives, the knots and pulses of patchiness are there to explore" (p6)
 
@@ -619,6 +627,8 @@ Krause, K.-L. (2022). Higher education sector institutional diversity: An Austra
 Macgilchrist, F., Allert, H., & Bruch, A. (2020). Students and society in the 2020s. Three future 'histories' of education and technology. *Learning, Media and Technology*, *45*(0), 76--89\. <https://doi.org/10.1080/17439884.2019.1656235>
 
 McIntosh, E., & Nutt, D. (2022). *Third spaces and integrated practice -- concluding reﬂections*. 13.
+
+Moore, S. L., & Piety, P. J. (2022). Online learning ecosystems: Comprehensive planning and support for distance learners. *Distance Education*. <http://www.tandfonline.com/doi/abs/10.1080/01587919.2022.2064820>
 
 Nørgård, R. T., Mor, Y., & Bengtsen, S. S. E. (2019). Networked Learning in, for, and with the World. In A. Littlejohn, J. Jaldemark, E. Vrieling-Teunter, & F. Nijland (Eds.), *Networked Professional Learning: Emerging and Equitable Discourses for Professional Development* (pp. 71--88). Springer International Publishing. <https://doi.org/10.1007/978-3-030-18030-0_5>
 
