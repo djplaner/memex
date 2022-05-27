@@ -2,6 +2,8 @@
 
 There are two orgins for the iron triangle concept. The broader orgin is project management - scope, cost, and speed. The narrower, more specific is that proposed by Daniels et al - access, quality, cost.  Or latterly accessibility, quality, efficiency which gets at "widening access to higher education for the same or lower cost without compromising outcomes" (Lane, 2014, p. 2)
 
+The latter version also appears to be used in health
+
 [[iron-triangle-reusability-paradox]]
 
 ## Visualisation
