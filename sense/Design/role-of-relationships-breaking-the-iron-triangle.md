@@ -498,6 +498,19 @@ Reflections/implications
 
 ## Discussion and reflections
 
+Another sequence approach
+- Some assemblage required
+
+    Analyse above to reveal that all deal with assembling collections of different "technologies" for specific purposes. Use Dron's view the the default "technologies" (IMS, LTIs, Canvas etc) were all designed for purposes very different than what was required to do our job. Hence the need to develop different assemblages of technologies. Dig somewhat into the differences.  This may also be where Tsing's piece work type stuff gets a brief mention. Also the learning objects stuff, resuability paradox etc. Dron's stuff also allows touching on how the Canvas community uses scripts to make the technology more malleable
+
+- Some automation preferable
+
+    Start to touch on the need for RPA/lightweight IT development. Typical approah requires lots of manual labour. It assumes that the MLOs and the LTCs will figure out how to meet the institutional needs but often end up having to do lots of manual labour, unless they have the capacity and the skills to do lightweight development.  Link to the RPA type map as an example of how this need has been recognised elsewhere but is missing here.
+
+- Implications for breaking the iron triangle
+
+    Draw all the above into an argument that means this sort of capability is required to break the iron triangle of migration. **perhaps link to productivity literature around IT**
+
 ### Generativity and malleability
 
 Stuff from Bygstad (2017) about the definition of generativity being the relations and the capability to leverage those.  Which starts with the "technical malleability" i.e. the protean nature of digital technology.  But it requires the affordance to be seen - itself a relational concept. i.e. I could do this because of my background, but also the history and the "platform" I'd built up for doing this stuff.
