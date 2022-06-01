@@ -188,6 +188,8 @@ There's a lot more here about different ways of knowing and how it involves know
 
 Fawns (2022) - entangled pedagogy. Dron (2022)
 
+[Recent Cradle based paper](https://www.tandfonline.com/doi/full/10.1080/02602938.2022.2077910) taking a socio-material approach - description resonates here. Esp. in terms of the emergent activity of the local socio and material. Highlighting the lightweight IT development - the useful idiot - is an unusual but useful local resource that is missing for many. Suggestion more of it could be useful.  They also use the idea of `arrangement` from assoicated literature - **How is this related to assemblage??**
+
 #### Neo-STS
 
 Winter et al (2014) define and re-examine the socio-technical systems view of Information Systems - which has echoes of Fawns and Dron's views - and identify some limitations of the assumptions underpinning STS. These may apply  here.  e.g. that an organisation is not the containter for all, that the purely nested view may not work.  This has interesting resonances with the Canvas community
