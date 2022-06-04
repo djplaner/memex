@@ -1,6 +1,7 @@
 # Automation
 
 - [[rpa-suitable-tasks]]
+
 ## Machine learning's crumbling foundations
 
 [Article](https://doctorow.medium.com/machine-learnings-crumbling-foundations-bd11efa22b0) article from Cory Doctrow.
