@@ -6,42 +6,47 @@ This ecosystem of tools brings many good things. For example, content is availab
 
 Maybe this will enable me to complete more of the posts I start.
 
-## 2020
-
-### Work in progress
+## Work in progress
 
 - [ ] [[ignoring-the-entangled-nature-of-education]]
 - [ ] [[constrained-purpose-educational-technology]]
 - [ ] [[conceptualising-teaching-activity]]
 - [ ] [[the-importance-of-orchestration-to-quality-learning-and-teaching]]
-- [ ] [[on-formal-qualifications-and-improving-learning-and-teaching]]
 - [ ] [[needs-for-learning-design-systems]]
 - [ ] [[integrating-zotero-into-memex]]
-  Documenting exploration and plans for integrating Zotero into my PKM with memex
+
+    Documenting exploration and plans for integrating Zotero into my PKM with memex
 - [ ] [[what-help-do-we-provide-for-online-teaching]]
-  Attempt to use "theory" to analyse the nature and limitations of the assistance provided to university teaching staff as they engage in online teaching
+
+    Attempt to use "theory" to analyse the nature and limitations of the assistance provided to university teaching staff as they engage in online teaching
 - [ ] [[integrating-hax-editor-with-blackboard]]
-  Documents a new idea about how the HAX editor can be integrated with Blackboard content items
+
+    Documents a new idea about how the HAX editor can be integrated with Blackboard content items
 - [ ] [[broader-implications-hax-web-compontents]]
-  Reflective piece trying to pull out the implications of the HAX, the NGDLE and system integration
+
+    Reflective piece trying to pull out the implications of the HAX, the NGDLE and system integration
 - [ ] [[supporting-the-design-of-discipline-specific-learning-spaces]]
 - [ ] [[digital-education-conservation-complexity]]
 - [ ] [[learning-design-conservation_complexity]] - 
 - [ ] [[twitter-memex-wordpress]]
 - [ ] [[peak-homogenisation-in-post-digital-education]]
 
-### Completed
+## Published
 
+- [X] [[on-formal-qualifications-and-improving-learning-and-teaching]]
 - [X] [[exploring-drons-definition-of-educational-technology]]
 - [x] [[what-are-the-symbols-in-digitial-education]]
 - [x] [[growth-of-the-card-interface]]
 - [x] [[do-little-things-matter]]
 - [X] [[gettingstarted]]
-  Connecting memex with my blog and inserting content from wikity
+
+    Connecting memex with my blog and inserting content from wikity
 - [X] [[pondering-hax-web-components-and-blackboard]] 
-  Documents initial combination of web components and Blackboard.
+
+    Documents initial combination of web components and Blackboard.
 - [X] [[visualising-and-pruning-my-memex]] 
-  Showing and thinking about the ability of Foam to manipulate my "memex" and enable new activities/learning
+
+    Showing and thinking about the ability of Foam to manipulate my "memex" and enable new activities/learning
 - [X] [[reflections-on-design-systems-talk]]
 
 
@@ -50,10 +55,10 @@ Maybe this will enable me to complete more of the posts I start.
 [constrained-purpose-educational-technology]: 2021/constrained-purpose-educational-technology "Problems with the constrained purpose of educational technologies and their orchestration"
 [conceptualising-teaching-activity]: 2021/conceptualising-teaching-activity "Conceptutalising the complexity of teaching activity"
 [the-importance-of-orchestration-to-quality-learning-and-teaching]: the-importance-of-orchestration-to-quality-learning-and-teaching "the-importance-of-orchestration-to-quality-learning-and-teaching"
-[on-formal-qualifications-and-improving-learning-and-teaching]: on-formal-qualifications-and-improving-learning-and-teaching "on-formal-qualifications-and-improving-learning-and-teaching"
 [needs-for-learning-design-systems]: needs-for-learning-design-systems "Needs for Learning Design Systems"
 [integrating-zotero-into-memex]: integrating-zotero-into-memex "Integrating Zotero into Foam"
 [what-help-do-we-provide-for-online-teaching]: what-help-do-we-provide-for-online-teaching "What Help Do We Provide for Online Teaching"
+[on-formal-qualifications-and-improving-learning-and-teaching]: on-formal-qualifications-and-improving-learning-and-teaching "on-formal-qualifications-and-improving-learning-and-teaching"
 [integrating-hax-editor-with-blackboard]: integrating-hax-editor-with-blackboard "Integrating Hax Editor with Blackboard"
 [broader-implications-hax-web-compontents]: broader-implications-hax-web-compontents "Broader Implications Hax Web Compontents"
 [supporting-the-design-of-discipline-specific-learning-spaces]: supporting-the-design-of-discipline-specific-learning-spaces "supporting-the-design-of-discipline-specific-learning-spaces"
