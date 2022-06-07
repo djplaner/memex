@@ -500,6 +500,8 @@ Reflections/implications
 
 ## Discussion and reflections
 
+What about the work on IT enhancing the human - the stuff that the USyd guy wrote about with his OnTask like system?
+
 Another sequence approach
 - Some assemblage required
 
