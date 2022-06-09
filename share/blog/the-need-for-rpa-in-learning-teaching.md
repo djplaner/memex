@@ -56,6 +56,8 @@ Where I currently work we're in the process of migrating from Blackboard Learn t
 
 What the following illustrates is that the heavyweight IT approach is insufficient for an effective and efficient migration. Echoing the enterprise automation/RPA figure above the following illustrates that migrating an LMS migration involves a "long tail" of work. That heavyweight IT approaches work fine for part of the tail, but not so good elsewhere. As I stand in the middle of an LMS migration, I'd also argue that the part of the "long tail" covered by heavyweight IT is significantly smaller than what is represented in the diagram above. The following illustrates the lightweight IT work we're doing to fill the gap.
 
+The notion of [umwelt](https://pluralistic.net/2022/06/07/more-than-human/#umwelt) from cybernetics. The idea that enterprise software's umwelt is for a certain type of problem. Perhaps the not type of problem that we now need to solve in L&T.  Or pointing at the type of problem which enterprise L&T has ignored/been incapable of dealing with e.g. the following
+
 ## Problem: Migrating echo360 embeds from Blackboard to Canvas
 
 Currently we're working on migrating ~500 Blackboard course sites. [Echo360](https://echo360.com/) is used in these course sites for lecture capture and for recording and embedding other videos.  Echo360 is an external tool, it's not part of the LMS (Blackboard or Canvas). Instead, the Learning Tools Interoperability (LTI) standard is used to embed and link echo360 videos into the LMS. You might assume that because of LTI and common cartridge exports you could just export content from Blackboard, import it to Canvas, and through the magic of LTI all would still work. You would be wrong.

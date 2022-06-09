@@ -505,7 +505,7 @@ What about the work on IT enhancing the human - the stuff that the USyd guy wrot
 Another sequence approach
 - Some assemblage required
 
-    Analyse above to reveal that all deal with assembling collections of different "technologies" for specific purposes. Use Dron's view the the default "technologies" (IMS, LTIs, Canvas etc) were all designed for purposes very different than what was required to do our job. Hence the need to develop different assemblages of technologies. Dig somewhat into the differences.  This may also be where Tsing's piece work type stuff gets a brief mention. Also the learning objects stuff, resuability paradox etc. Dron's stuff also allows touching on how the Canvas community uses scripts to make the technology more malleable
+    Analyse above to reveal that all deal with assembling collections of different "technologies" for specific purposes. Use Dron's view the the default "technologies" (IMS, LTIs, Canvas etc) were all designed for purposes very different than what was required to do our job. Hence the need to develop different assemblages of technologies. Dig somewhat into the differences.  This may also be where Tsing's piece work type stuff gets a brief mention. Also the learning objects stuff, resuability paradox etc. Dron's in_a_dndMixin_dragstuff also allows touching on how the Canvas community uses scripts to make the technology more malleable
 
 - Some automation preferable
 

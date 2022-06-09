@@ -8,6 +8,7 @@ Maybe this will enable me to complete more of the posts I start.
 
 ## Work in progress
 
+- [ ] [[the-need-for-rpa-in-learning-teaching]]
 - [ ] [[ignoring-the-entangled-nature-of-education]]
 - [ ] [[constrained-purpose-educational-technology]]
 - [ ] [[conceptualising-teaching-activity]]
@@ -58,7 +59,6 @@ Maybe this will enable me to complete more of the posts I start.
 [needs-for-learning-design-systems]: needs-for-learning-design-systems "Needs for Learning Design Systems"
 [integrating-zotero-into-memex]: integrating-zotero-into-memex "Integrating Zotero into Foam"
 [what-help-do-we-provide-for-online-teaching]: what-help-do-we-provide-for-online-teaching "What Help Do We Provide for Online Teaching"
-[on-formal-qualifications-and-improving-learning-and-teaching]: on-formal-qualifications-and-improving-learning-and-teaching "on-formal-qualifications-and-improving-learning-and-teaching"
 [integrating-hax-editor-with-blackboard]: integrating-hax-editor-with-blackboard "Integrating Hax Editor with Blackboard"
 [broader-implications-hax-web-compontents]: broader-implications-hax-web-compontents "Broader Implications Hax Web Compontents"
 [supporting-the-design-of-discipline-specific-learning-spaces]: supporting-the-design-of-discipline-specific-learning-spaces "supporting-the-design-of-discipline-specific-learning-spaces"
@@ -66,6 +66,7 @@ Maybe this will enable me to complete more of the posts I start.
 [learning-design-conservation_complexity]: learning-design-conservation_complexity "Learning activities and issues with the conservation of complexity"
 [twitter-memex-wordpress]: twitter-memex-wordpress "Twitter Memex Wordpress"
 [peak-homogenisation-in-post-digital-education]: peak-homogenisation-in-post-digital-education "Peak consistency in Digital Education"
+[on-formal-qualifications-and-improving-learning-and-teaching]: on-formal-qualifications-and-improving-learning-and-teaching "on-formal-qualifications-and-improving-learning-and-teaching"
 [exploring-drons-definition-of-educational-technology]: 2021/exploring-drons-definition-of-educational-technology "exploring-drons-definition-of-educational-technology"
 [what-are-the-symbols-in-digitial-education]: what-are-the-symbols-in-digitial-education "what-are-the-symbols-in-digitial-education"
 [growth-of-the-card-interface]: growth-of-the-card-interface "growth-of-the-card-interface"
