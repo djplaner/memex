@@ -507,6 +507,8 @@ Another sequence approach
 
     Analyse above to reveal that all deal with assembling collections of different "technologies" for specific purposes. Use Dron's view the the default "technologies" (IMS, LTIs, Canvas etc) were all designed for purposes very different than what was required to do our job. Hence the need to develop different assemblages of technologies. Dig somewhat into the differences.  This may also be where Tsing's piece work type stuff gets a brief mention. Also the learning objects stuff, resuability paradox etc. Dron's in_a_dndMixin_dragstuff also allows touching on how the Canvas community uses scripts to make the technology more malleable
 
+    Schophuizen & Kalz (2020) talk about coping theory with two processes: _appraisal_ and _coping efforts_. A sign of the "broken relationships" evident here is that atomistic approaches don't effectively support either process. They aren't aware of (or don't give sufficient priority) to a particular problem - linked to purpose. And don't have limited capacity to cope.  The assemblages they create tend to be top down type of things.
+
 - Some automation preferable
 
     Start to touch on the need for RPA/lightweight IT development. Typical approah requires lots of manual labour. It assumes that the MLOs and the LTCs will figure out how to meet the institutional needs but often end up having to do lots of manual labour, unless they have the capacity and the skills to do lightweight development.  Link to the RPA type map as an example of how this need has been recognised elsewhere but is missing here.
