@@ -160,10 +160,24 @@ Figure 4 still has a pretty significant whiff of the 'scroll of death' but that'
 | ------------------- | -------------- |
 | ![Canvas course site created by migrating via CAR](images/canvas-via-car.png) | ![Canvas files migrated via CAR](images/files-car.png)  |
 
-## LMS: Generic, no context functionality, constrained by the vendor
+## LMS: Information architecture, usability and visual identity
 
-One of the apparent advantages of Canvas is it looks prettier than the competitors. People using Canvas generally get a cleaner feel from the user interface.
 
+### Linear, visual unappealing, context-free Generic, no context functionality, constrained by the vendor
+
+One of the apparent advantages of Canvas is it looks prettier than the competitors. People using Canvas generally get a cleaner feel from the user interface. However, as illustrated above by Figures 2 and 4 that Modules view is known widely (e.g. [University of Oxford](https://canvas.ox.ac.uk/courses/12009/pages/course-presentation-and-navigation-tool?module_item_id=894826)) to be very linear, involve lots of vertical scrolling, and is not very visually appealing. There are numerous requests to provide and suggested workarounds for how to
+
+1. Group Modules, rather than one single list.
+
+    e.g. a [2015 request](https://community.canvaslms.com/t5/Canvas-Question-Forum/Module-groupings/td-p/115610), an [idea suggestion in 2016](https://community.canvaslms.com/t5/Idea-Conversations/Modules-within-Modules/idi-p/357681) to allow modules within modules, and [another grouping modules request in 2019](https://community.canvaslms.com/t5/Canvas-Question-Forum/Is-there-a-way-to-group-modules-together/m-p/179757). The last of which [includes a comment](https://community.canvaslms.com/t5/Canvas-Question-Forum/Is-there-a-way-to-group-modules-together/m-p/179757/highlight/true#M84952) touching on the shortcomings of most of the existing workarounds.
+
+2. Provide options for more visually appealing and more usable representations.
+
+    The scrolling, text-based table of contents representation of the Modules page fails on a number of levels both visually and from a usability/findability perspective. As evidenced by the widespread advice for teachers to **manually** create visual course home pages (e.g. [2015](https://community.canvaslms.com/t5/Canvas-Instructional-Designer/Creating-an-inviting-course-home-page/ba-p/267236), [Northwestern U](https://canvas.northwestern.edu/courses/44486/pages/home-pages-in-canvas?module_item_id=516292), [UTS](https://lx.uts.edu.au/collections/examples-canvas-sites/resources/how-can-i-structure-my-canvas-subject-site-effectively/) )
+
+As Figure 1 demonstrates, we've been able to do aspects of this since 2019 in **Blackboard Learn**, but we can't do in Canvas. In 2021, Instructure (the Canvas vendor) [stated they have no plans to support nested modules](https://community.canvaslms.com/t5/Idea-Conversations/Modules-within-Modules/idc-p/461383/highlight/true#M50428). The on-going widespread use of manually created home pages 10+ years into Canvas' availability suggests that we shouldn't be holding our breath.
+
+### ???the right way to do it???
 
 ## References
 
