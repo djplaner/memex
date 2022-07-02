@@ -10,44 +10,19 @@ img_base_url="https://djplaner.github.io/memex/share/blog/"
 
 ## Introduction
 
-All university strategies for learning and teaching (e.g. micro-credentials, employability and WIL, modularisation, universal design for learning, emergency COVID responses, adopting a new LMS etc) aim to maximise accessibility (as many people as possible can participate - feel the scale - in as many ways as possible), quality (it's good), and cost effectiveness (it's cheap to produce and offer). Ryan et al (2021) argue that this is a "key issue for contemporary higher education" (p. 1383) due to inevitable cost constraints, the benefits of increased access to higher education, and requirements to maintain quality standards. However, the literature on the "iron triangle" in higher education (Daniel et al, 2009; Mulder, 2013; Ryan et al, 2021) suggests that maximising all three is difficult, if not impossible. As illustrated in Figure 1 (adapted from Mulder, 2013, p. 100), the iron triangle suggests that changes in one quality (e.g. changing accessibility due to COVID) will have negatively impact at least one of the other qualities (e.g. the COVID response involving increase in workload for staff and resulting in less than happy participants). 
+All university strategies for learning and teaching by necessity are variations on maximising to different levels accessibility (as many people as possible can participate - feel the scale - in as many ways as possible), quality (it's good), and cost effectiveness (it's cheap to produce and offer). Seeking to maximise all three is argued by Ryan et al (2021) as a "key issue for contemporary higher education" (p. 1383) due to inevitable cost constraints, the benefits of increased access to higher education, and requirements to maintain quality standards. However, the literature on the "iron triangle" in higher education formed by these three vectors (Daniel et al, 2009; Mulder, 2013; Ryan et al, 2021) suggests that maximising all three is difficult, if not impossible. As illustrated in Figure 1 (adapted from Mulder, 2013, p. 100), the iron triangle suggests that changes in one quality (e.g. changing accessibility due to COVID) will have negatively impact at least one of the other qualities (e.g. the COVID response involving increase in workload for staff and resulting in less than happy participants). 
 
 | Figure 1: Illustrating the iron triangle (adapted from Mulder, 2013, p. 100) |
 |-----------------------------------------------------------------------------|
 | ![Illustration of the iron triangle](images/mulder-iron-triangle.png)  |
 
-Much of the iron triangle literature identifies different strategies to breaking the iron triangle. Mulder (2013) suggests OER. Daniel et al (2009) suggest open and distance eLearning. Ryan et al (2021) suggest high-quality large group teaching and learning; alternative curriculum structures; and automation of assessment and feedback. I'm not convinced that any of these will work. Not due to the inherent validity of the specific solutions, but rather how such suggestions would be implemented in contemporary higher education. My suspicion is that the the very methods that would be used by to implement these strategies are likely to hinder any attempts to break the iron triangle. Largely because those methods are based on naive, atomistic, and deterministic understandings of education, technology, and organisations. My question is whether or not more entangled views of pedagogy (Fawns 2022) and educational technology (Dron, 2022) might suggest alternative.  Using three separate examples taken from recent work on a LMS migration (Blackboard to Canvas) this post seeks to explore this.
+Much of the iron triangle literature identifies different strategies to breaking the iron triangle. Mulder (2013) suggests OER. Daniel et al (2009) suggest open and distance eLearning. Ryan et al (2021) suggest high-quality large group teaching and learning; alternative curriculum structures; and automation of assessment and feedback. I'm not convinced that any of these will work. Not due to the inherent validity of the specific solutions (though there are questions), instead my doubts arise from how such suggestions would be implemented in contemporary higher education. Each would be implemented via variations on common methods. My suspicion is that these  methods are likely to hinder any attempts to break the iron triangle. Largely because those methods are based on naive, atomistic, and deterministic understandings of education, technology, and organisations. I don't believe that these types are method are sufficiently able to efficiently or effectively orchestrate the entangled relations that - as suggested by entangled views of pedagogy (Fawns 2022) and educational technology (Dron) - are central to learning and teaching. A belief illustrated below using three separate examples taken from recent work on a LMS migration (Blackboard to Canvas).
 
-What I think it shows is how standard organisational methods - based on practices like [stepwise refinement](http://sunnyday.mit.edu/16.355/wirth-refinement.html) and [loose coupling](https://en.wikipedia.org/wiki/Loose_coupling) - may be necessary but aren't sufficient for breaking the iron triangle. These methods decompose problems into smaller black boxes (e.g. pedagogy before technology; requirements and implementation; enrolment, finance, and HR; learning objects etc.) for easier and separate resolution and assume that solving the larger problem happens simply by combining and re-combining the black boxes like lego blocks. What is evident below (IMHO) is that these methods as implemented in common approaches to an LMS migration (e.g. Common Cartridge, LTI, and the LMS) create abstract black boxes. All similar with no entanglement with anything else. Re-entangling these black boxes with the broader context is necessary for quality learning and teaching, but common methods rely individual, manual effort. But there are alternatives.
+What see below is evidence of how standard methods - based on practices like [stepwise refinement](http://sunnyday.mit.edu/16.355/wirth-refinement.html) and [loose coupling](https://en.wikipedia.org/wiki/Loose_coupling) - may be necessary but aren't sufficient for breaking the iron triangle. These methods decompose problems into smaller black boxes (e.g. pedagogy before technology; requirements and implementation; enrolment, finance, and HR; learning objects etc.) for easier and separate resolution and assume that solving larger problems (e.g. designing a quality learning experience) is a simply a matter of combining and re-combining the black boxes like lego blocks into a solution. What is evident below (IMHO) is that these methods as implemented in common approaches to an LMS migration (e.g. Common Cartridge, LTI, and the LMS) succeed in creating abstract black boxes with no entanglement with anything else. Solving larger problems (e.g. effectively migrating courses between LMSs or designing a quality learning experience) requires re-entangling and combining those black boxes with other boxes and the broader context - orchestration of entangled relations. Without doing this re-entangling the end product is disjointed and poor quality. Common means of re-entangling require significant manual effect. But there are alternatives.
 
-The alternatives described below embody a different socio-technical knowledge regime (Bygstad 2017) that leverages digital technology to re-entangle the black boxes in ways that are more flexible (access) and cheaper (efficiency). These practices aren't new. Pre-designed templates (Perämäki, 2021) are an increasingly common, simple example. Another example is the common practice within the Canvas community of [developing and sharing userscripts](https://community.canvaslms.com/t5/Canvas-Developers-Group/UserScript-development-help-request/td-p/119615). More surprisingly, many Universities have significant enterprise projects - in the form of [Robotic Process Automation](https://en.wikipedia.org/wiki/Robotic_process_automation) (e.g. the [University of Melbourne](https://www.automationanywhere.com/resources/customer-stories/university-of-melbourne), the [Australian National University](https://services.anu.edu.au/information-technology/software-systems/robotic-process-automation), [Griffith University](https://intranet.secure.griffith.edu.au/work/robotic-process-automation), and the [University of Auckland](https://www.uipath.com/resources/automation-case-studies/university-of-auckland)) - encouraging the application of this different socio-technical knowledge regime to administrative processes. Without much evidence of institutional consideration of how this might apply to learning and teaching, leaving that to the tinkerers.
+The alternatives described below all arise from a different socio-technical knowledge regime than traditional enterprise approaches (Bygstad 2017). This alternative leverages digital technology to re-entangle the black boxes in ways that are more flexible (access) and cheaper (efficiency). These practices aren't new. Pre-designed templates (Perämäki, 2021) are an increasingly common, simple example. The common practice within the Canvas community of [developing and sharing userscripts](https://community.canvaslms.com/t5/Canvas-Developers-Group/UserScript-development-help-request/td-p/119615) is another example. A more surprising examples is that many Universities have significant enterprise projects in the form of [Robotic Process Automation](https://en.wikipedia.org/wiki/Robotic_process_automation) (e.g. the [University of Melbourne](https://www.automationanywhere.com/resources/customer-stories/university-of-melbourne), the [Australian National University](https://services.anu.edu.au/information-technology/software-systems/robotic-process-automation), [Griffith University](https://intranet.secure.griffith.edu.au/work/robotic-process-automation), and the [University of Auckland](https://www.uipath.com/resources/automation-case-studies/university-of-auckland)). These significant enterprise projects are designed to develop the capability to more efficiently and effectively re-entangle the black boxes of enterprise IT as applied to administrative processes such as HR, Finance, and student enrolment. What's surprising is that I'm not aware of any evidence of institutional proejcts explicitly focused on applying these methods to learning and teaching. Instead, leaving it to us tinkerers.
 
-My argument is that orchestrating entangled relations the core problem with breaking the iron 
-
-care actively seeking to enable these alternatives in their administrative processes
-
-
-with the local context. and inter-connectionconnection with context ability to sustainably at scale inject any contextuality into learning and teaching. 
-
-
-**and mention lightweight IT develoment**
-
-This post seeks to demonstrate that the cost of these approaches is that they an ignorance of the relationships alternaframeworks - such  - at least in the c  briefly mention frameworks and the connection betwe
-
-**And link to the learning objects paper**
-
-**links to approches like templates and the broader canvas community, but universities need to think about how they actively support this - e.g. RPA**  **and perhaps light weight IT development**
-
-**table that tries to map the iron triangle vectors to the limitations of the standard approaches and my solutions**
-
-This is a problem because entangled views of pedagogy suggest that breaking the iron triangle is reliant on the ability to efficiently and effectively orchestrate the diverse relationships in order to assemble contextually appropriate learning environments and experiences. Something which current methods are not designed to do.
-Consequently universities are unable to effectively and efficiently 
-
-LTI
-IMS/SCORM
-LMS
-
--- mention orchestrating entangled relationships
+My argument is that more effective orchestration of entangled relations is a necessary (though probably not sufficient) enabler for breaking the iron triangle.
 
 ## LMS Migration - some common approaches, how they break, and can be done better
 
@@ -121,17 +96,17 @@ Of course it's not as simple as that, there are known problems, including:
 
     e.g. it's quite common for the "content collection" area of Blackboard courses to collect a large number of files. Many of these files are no longer used. Some are mistaken left overs, some are just no longer used. Most of the time the content collection is one long list of files with names like _lecture 1.pptx_, _lecture 1-2019.pptx_, _lectures 1a.pptx_. The common cartridge approach to migration, migrates any bad practice to the new LMS.
 
-All these problems contribute to the initial migration outcome not being all that good. For example, the following images. Figure 1 is the original Blackboard course site. A common cartridge of that Blackboard course site was created and imported into Canvas. Figure 2 is the result.
+All these problems contribute to the initial migration outcome not being all that good. For example, the following images. Figure 2 is the original Blackboard course site. A common cartridge of that Blackboard course site was created and imported into Canvas. Figure 3 is the result.
 
-It's a mess and that's just the visible structure. What was separate "modules" are now all combined together, because common cartridge is ignorant of that design. Some elements that were not needed in Canvas have been imported. Some information (_Staff Information_) was lost. And did you notice the default "scroll of death" in Canvas (Figure 2)?
+It's a mess and that's just the visible structure. What was separate "modules" are now all combined together, because common cartridge is ignorant of that design. Some elements that were not needed in Canvas have been imported. Some information (_Staff Information_) was lost. And did you notice the default "scroll of death" in Canvas (Figure 3)?
 
-| **Figure 1: Source LMS** | **Figure 2: Destination LMS** |
+| **Figure 2: Source LMS** | **Figure 3: Destination LMS** |
 | --------- | -------------- |
 | ![Student view of a simple Blackboard course](images/bb_course.png) | ![Staff view of Canvas course created by importing a Common Cartridge export of the Blackboard course](images/canvas_export_version.png)   |
 
-The [Canvas Files area](https://community.canvaslms.com/t5/Canvas-Basics-Guide/What-are-Files/ta-p/7) is even worse off. Figure 3 shows the files area of this same course after common cartridge import. Only the first four or five files were in the Blackboard course. All the _web_content0000X_ folders are added by the common cartridge import.
+The [Canvas Files area](https://community.canvaslms.com/t5/Canvas-Basics-Guide/What-are-Files/ta-p/7) is even worse off. Figure 4 shows the files area of this same course after common cartridge import. Only the first four or five files were in the Blackboard course. All the _web_content0000X_ folders are added by the common cartridge import.
 
-| **Figure 3: Canvas files area - common cartridge import** |
+| **Figure 4: Canvas files area - common cartridge import** |
 | -------------- |
 | ![Canvas files area after Common Cartridge import](images/files_cc_import.png)  |
 
@@ -168,34 +143,52 @@ Steps #1 and #2 are entirely automatic as it the download of course content and 
 | 1 | 219 | 15,213 | 163Gb |
 | 2 | 555 | 2531 | 336Gb |
 
-Figures 4 and 5 show the end result of this improved migration process using the same course as the Figures above. Figure 4 illustrates how the structure of "modules" in the Blackboard site has been recreated using the matching Canvas functionality. What it doesn't show is that Step 3 of the CAR process has removed or modified Blackboard practices to fit the capabilities of Canvas.
+Figures 4 and 5 show the end result of this improved migration process using the same course as the Figures above. Figure 5 illustrates how the structure of "modules" in the Blackboard site has been recreated using the matching Canvas functionality. What it doesn't show is that Step 3 of the CAR process has removed or modified Blackboard practices to fit the capabilities of Canvas.
 
-Figure 5 illustrates a much neater Files area compared to Figure 3. All of the unnecessary common cartridge crud is not there. Figure 5 also illustrates Step 3's addition of structure to the Files area. The three files shown are all within a _Learning Module_ folder. This folder was not present in the Blackboard course site's content collection. It's been added by the CAR to indicate where in the course site structure the files were used. These images were all used within the _Learning Modules_ content area in the Blackboard course site (Figure 1). In a more complex course site this additional structure makes it easier to find the relevant files.
+Figure 6 illustrates a much neater Files area compared to Figure 4. All of the unnecessary common cartridge crud is not there. Figure 5 also illustrates Step 3's addition of structure to the Files area. The three files shown are all within a _Learning Module_ folder. This folder was not present in the Blackboard course site's content collection. It's been added by the CAR to indicate where in the course site structure the files were used. These images were all used within the _Learning Modules_ content area in the Blackboard course site (Figure 2). In a more complex course site this additional structure makes it easier to find the relevant files.
 
-Figure 4 still has a pretty significant whiff of the 'scroll of death' but that's a ["feature"](https://www.wired.com/story/its-not-a-bug-its-a-feature/) of Canvas. As part of this the highly visual [card interface](https://djplaner.github.io/Card-Interface-Tweak/) used in the Blackboard course site is also lost. Another "feature" of Canvas. More on that next.
+Figure 5 still has a pretty significant whiff of the 'scroll of death' but that's a ["feature"](https://www.wired.com/story/its-not-a-bug-its-a-feature/) of Canvas. As part of this the highly visual [card interface](https://djplaner.github.io/Card-Interface-Tweak/) used in the Blackboard course site is also lost. Another "feature" of Canvas. More on that next.
 
-| **Figure 4: Canvas site via CAR** | **Figure 5: Canvas files via CAR** |
+| **Figure 5: Canvas site via CAR** | **Figure 6: Canvas files via CAR** |
 | ------------------- | -------------- |
 | ![Canvas course site created by migrating via CAR](images/canvas-via-car.png) | ![Canvas files migrated via CAR](images/files-car.png)  |
 
 ## LMS: Information architecture, usability and visual identity
 
+There's quite a bit of literature and other work arguing about the value to learning and the learning experience of the aesthetics, findability, and usability of the LMS and LMS courses. Almost as much as there is literature and work expounding on the value of consistency as a method for addressing those concerns. Migrating to a new LMS typically includes some promise of enabling improvements. For example, one of the apparent advantages of Canvas is it looks prettier than the competitors.  People using Canvas generally get a cleaner feel from the user interface.  [Apparently it ](https://usc.custhelp.com/app/answers/detail/a_id/1907/~/why-is-blackboard-changing-to-canvas%3F) "provides students with an accessible and user-friendly interface through which they can access course learning materials".
 
 ### Linear, visual unappealing, context-free Generic, no context functionality, constrained by the vendor
 
-One of the apparent advantages of Canvas is it looks prettier than the competitors. People using Canvas generally get a cleaner feel from the user interface. However, as illustrated above by Figures 2 and 4 that Modules view is known widely (e.g. [University of Oxford](https://canvas.ox.ac.uk/courses/12009/pages/course-presentation-and-navigation-tool?module_item_id=894826)) to be very linear, involve lots of vertical scrolling, and is not very visually appealing. There are numerous requests to provide and suggested workarounds for how to
+Of course beauty is in the eye of the beholder. Some think Canvas is ["plain and ugly"](https://community.canvaslms.com/t5/Canvas-Question-Forum/Why-is-Canvas-so-plain-and-ugly/m-p/211923). As illustrated above by Figures 2 and 4 the Modules view - the core of how students interact with study material - is known widely (e.g. [University of Oxford](https://canvas.ox.ac.uk/courses/12009/pages/course-presentation-and-navigation-tool?module_item_id=894826)) to be very linear, involve lots of vertical scrolling, and is not very visually appealing. Years of experience has also shown that the [course navigation experience is less than stellar](https://community.canvaslms.com/t5/Canvas-Instructional-Designer/Improving-Course-Navigation-Experience-for-Students/m-p/205042) for a variety of reasons.
 
-1. Group Modules, rather than one single list.
+There are [common manual workarounds](https://community.canvaslms.com/t5/Canvas-Question-Forum/Why-is-Canvas-so-plain-and-ugly/m-p/211930/highlight/true#M112248) that are widely recommended to teaching staff to work around these limitations. There is also a community of [third party design tools](https://community.canvaslms.com/t5/Canvas-Instructional-Designer/Improving-Course-Navigation-Experience-for-Students/m-p/205045/highlight/true#M1000) intended to improve the Canvas interface and navigation experience. As well as requests to Canvas to improve the system. Some examples include: a [2015 request](https://community.canvaslms.com/t5/Canvas-Question-Forum/Module-groupings/td-p/115610); an [idea suggestion in 2016](https://community.canvaslms.com/t5/Idea-Conversations/Modules-within-Modules/idi-p/357681) to allow modules within modules; and [another grouping modules request in 2019](https://community.canvaslms.com/t5/Canvas-Question-Forum/Is-there-a-way-to-group-modules-together/m-p/179757). The last of which [includes a comment](https://community.canvaslms.com/t5/Canvas-Question-Forum/Is-there-a-way-to-group-modules-together/m-p/179757/highlight/true#M84952) touching on the shortcomings of most of the existing workarounds.
 
-    e.g. a [2015 request](https://community.canvaslms.com/t5/Canvas-Question-Forum/Module-groupings/td-p/115610), an [idea suggestion in 2016](https://community.canvaslms.com/t5/Idea-Conversations/Modules-within-Modules/idi-p/357681) to allow modules within modules, and [another grouping modules request in 2019](https://community.canvaslms.com/t5/Canvas-Question-Forum/Is-there-a-way-to-group-modules-together/m-p/179757). The last of which [includes a comment](https://community.canvaslms.com/t5/Canvas-Question-Forum/Is-there-a-way-to-group-modules-together/m-p/179757/highlight/true#M84952) touching on the shortcomings of most of the existing workarounds.
+As Figure 2 demonstrates, we've been able to do aspects of this since 2019 in **Blackboard Learn**, but we can't do in Canvas. 
 
-2. Provide options for more visually appealing and more usable representations.
+### Canvas Collections: Injecting context, visual design, and alternatives into the Canvas' modules page
 
-    The scrolling, text-based table of contents representation of the Modules page fails on a number of levels both visually and from a usability/findability perspective. As evidenced by the widespread advice for teachers to **manually** create visual course home pages (e.g. [2015](https://community.canvaslms.com/t5/Canvas-Instructional-Designer/Creating-an-inviting-course-home-page/ba-p/267236), [Northwestern U](https://canvas.northwestern.edu/courses/44486/pages/home-pages-in-canvas?module_item_id=516292), [UTS](https://lx.uts.edu.au/collections/examples-canvas-sites/resources/how-can-i-structure-my-canvas-subject-site-effectively/) )
+[Canvas Collections](https://github.com/djplaner/canvas-collections#canvas-collections) is an early attempt to address the shortcomings of the current Canvas modules page. It is inspired by related approaches within the Canvas Community, including: [CSS-based approaches to creating interactive cards](https://www.howtocanvas.com/theme-editor/interactive-cards); and, Javascript methods for [inserting cards into Canvas](https://learntech.medsci.ox.ac.uk/wordpress-blog/a-dashboard-view-of-modules-in-canvas-v2/) which appears to have [gone into production at the University of Oxford](https://canvas.ox.ac.uk/courses/12009/pages/course-presentation-and-navigation-tool?module_item_id=894826). But also drawn on the experiences of supporting the use of [the Card Interface in Blackboard](https://djon.es/blog/2021/03/12/reflecting-on-the-spread-of-the-card-interface-for-blackboard-learn/).
 
-As Figure 1 demonstrates, we've been able to do aspects of this since 2019 in **Blackboard Learn**, but we can't do in Canvas. In 2021, Instructure (the Canvas vendor) [stated they have no plans to support nested modules](https://community.canvaslms.com/t5/Idea-Conversations/Modules-within-Modules/idc-p/461383/highlight/true#M50428). The on-going widespread use of manually created home pages 10+ years into Canvas' availability suggests that we shouldn't be holding our breath.
+Canvas Collections modifies the Canvas modules through a combination of two new abstractions:
 
-### ???the right way to do it???
+1. Collections; and,
+
+    Rather than a single, long list of modules. Modules can be grouped into collections that align with the design intent of the course. Figures 7 and 8 illustrate a common use of two collections: course content and assessment. A navigation bar is provided to switch between the two collections. When viewing a collection you only see the modules that belong to that collection.
+
+2. Representations.
+
+    Rather than just a text-based list of modules and their contents, collections supports the development of different ways of representing a collection of modules. Figures 7 and 8 demonstrate use of a representation that borrows heavily from [the Card Interface](https://djplaner.github.io/Card-Interface-Tweak/). 
+
+Canvas Collections also enables the injection of additional context for each module no visible in the Canvas Modules view, examples in Figures 7 and 8, include:
+
+- a description summarising the purpose of the module;
+- a
+
+
+
+| **Figure 7: Canvas Collections - content collection** | **Figure 8: Canvas Collections - assessment collection** |
+| ----------- | ------ |
+| ![](images/canvas-collections-content.png)    |  ![](images/canvas-collections-assessment.png)    |
 
 ## References
 
