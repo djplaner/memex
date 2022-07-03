@@ -102,7 +102,7 @@ It's a mess and that's just the visible structure. What were separate bits of co
 
 | **Figure 2: Source LMS** | **Figure 3: Destination LMS** |
 | --------- | -------------- |
-| ![Student view of a simple Blackboard course](images/bb_course.png) | ![Staff view of Canvas course created by importing a Common Cartridge export of the Blackboard course](images/canvas_export_version.png)   |
+| ![Student view of a simple Blackboard course](images/bb_course.png) | ![Student view of Canvas course created by importing a Common Cartridge export of the Blackboard course](images/canvas_export_version.png)     |
 
 The [Canvas Files area](https://community.canvaslms.com/t5/Canvas-Basics-Guide/What-are-Files/ta-p/7) is even worse off. Figure 4 shows the files area of this same course after common cartridge import. Only the first four or five files were in the Blackboard course. All the _web_content0000X_ folders are added by the common cartridge import.
 
