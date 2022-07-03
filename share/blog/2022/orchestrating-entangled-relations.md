@@ -195,4 +195,20 @@ Not only does Canvas Collections improve the aesthetics of a Canvas course site 
 
 ## References
 
+Bygstad, B. (2017). Generative Innovation: A Comparison of Lightweight and Heavyweight IT: *Journal of Information Technology*. <https://doi.org/10.1057/jit.2016.15>
+
+Cottam, M. E. (2021). An Agile Approach to LMS Migration. *Journal of Online Learning Research and Practice*, *8*(1). <https://doi.org/10.18278/jolrap.8.1.5>
+
+Daniel, J., Kanwar, A., & Uvalić-Trumbić, S. (2009). Breaking Higher Education's Iron Triangle: Access, Cost, and Quality. *Change: The Magazine of Higher Learning*, *41*(2), 30--35\. <https://doi.org/10.3200/CHNG.41.2.30-35>
+
+Dron, J. (2022). Educational technology: What it is and how it works. *AI & SOCIETY*, *37*, 155--166\. <https://doi.org/10.1007/s00146-021-01195-z>
+
+Fawns, T. (2022). An Entangled Pedagogy: Looking Beyond the Pedagogy---Technology Dichotomy. *Postdigital Science and Education*. <https://doi.org/10.1007/s42438-022-00302-7>
+
+Jones, D., & Clark, D. (2014). Breaking BAD to bridge the reality/rhetoric chasm. In B. Hegarty, J. McDonald, & S. Loke (Eds.), *Rhetoric and Reality: Critical perspectives on educational technology. Proceedings ascilite Dunedin 2014* (pp. 262--272). <http://ascilite2014.otago.ac.nz/files/fullpapers/221-Jones.pdf>
+
+Mulder, F. (2013). The LOGIC of National Policies and Strategies for Open Educational Resources. *International Review of Research in Open and Distributed Learning*, *14*(2), 96--105\. <https://doi.org/10.19173/irrodl.v14i2.1536>
+
+Perämäki, M. (2021). *Predesigned course templates: Helping organizations teach online* [Masters, Tampere University of Applied Sciences]. <http://www.theseus.fi/handle/10024/496169>
+
 Ryan, T., French, S., & Kennedy, G. (2021). Beyond the Iron Triangle: Improving the quality of teaching and learning at scale. *Studies in Higher Education*, *46*(7), 1383--1394\. <https://doi.org/10.1080/03075079.2019.1679763>
