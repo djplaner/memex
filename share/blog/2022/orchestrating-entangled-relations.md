@@ -1,7 +1,7 @@
 ```toml
 post_title='Orchestrating entangled relations to break the iron triangle: examples from a LMS migration'
 layout="post"
-published=false
+published=true
 id=18226
 link="https://djon.es/blog/2022/07/03/orchestrating-entangled-relations-to-break-the-iron-triangle-examples-from-a-lms-migration"
 category="casa"

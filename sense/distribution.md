@@ -13,6 +13,7 @@
 - [[systems-thinking]]
 - [[three-types-of-decentralisation]]
 - [[standardisation-and-its-discontents]]
+- [[entangled-pedagogy]]
 
 ## Practice and implementation
 

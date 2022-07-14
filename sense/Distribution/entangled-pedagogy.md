@@ -1,5 +1,7 @@
 # Entangled Pedagogy
 
+See also: [[entangle-pedagogy-and-learning-design]]
+
 Fawns, T. (2022). An Entangled Pedagogy: Looking Beyond the Pedagogy---Technology Dichotomy. *Postdigital Science and Education*. <https://doi.org/10.1007/s42438-022-00302-7>
 
 Conceptual work that critiques to illusionary views of the relationship between pedagogy and technology: technological and pedagogical determinism. Two views very evident in higher education practice. Describes the "actual view" as entangled. Where there is mutual shaping of purpose, context, values, methods and tech (see figure below). Each view comes with its own view of the "skill" required. The actual view sees this skill as involving "configuration, design, orchestration and practices".
