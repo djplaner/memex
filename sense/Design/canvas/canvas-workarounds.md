@@ -10,6 +10,12 @@ Collecting various existing workarounds for Canvas
     List of resources from the one guy. 
 - [Sort the roster](https://github.com/jamesjonesmath/canvancement/tree/master/roster/sort-roster) - sort course roster by any of the columns (one of the Canvnacments)
 
+### CIDILabs origins
+
+- [Utah State Uni course](https://usu.instructure.com/courses/305202/modules) - introducing origins of CIDI Labs tools
+- [original cidi labs code](https://github.com/CIDI/kennethware-2.0)
+
+
 ## Canvas Issues
 
 - [Accruate bredcrumb trail in Modules](https://community.canvaslms.com/t5/Idea-Conversations/Accurate-Breadcrumb-Trail-in-Modules/idi-p/379129/page/4)
