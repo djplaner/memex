@@ -38,6 +38,7 @@
 [three-types-of-decentralisation]: Distribution/three-types-of-decentralisation "Three types of decentralisation"
 [standardisation-and-its-discontents]: Society/standardisation-and-its-discontents "Standardisation and its discontents"
 [entangled-pedagogy]: Distribution/entangled-pedagogy "Entangled Pedagogy"
+[lived-complexity]: Distribution/lived-complexity "lived-complexity"
 [blackboard-tweaks]: Distribution/blackboard-tweaks "Blackboard tweaks"
 [ngdle---next-generation-digital-learning-environment]: Distribution/ngdle---next-generation-digital-learning-environment "NGDLE - Next Generation Digital Learning Environment"
 [third-space]: Distribution/third-space "Third space"

@@ -1,4 +1,40 @@
-# The role of relationships in breaking the iron triangle
+# Orchestrating entangled relations to break the iron triangle: Observations from an LMS migration
+
+Evolved into a poster abstract and submission
+
+## Abstract
+
+Inevitable cost constraints, the benefits of increased access to higher education, and requirements to maintain quality standards mean that maximising the accessibility, quality, and cost effectiveness of learning and teaching is a key issue for higher education (Ryan et al., 2021). However, the iron triangle literature in higher education (Daniel et al, 2009; Mulder, 2013; Ryan et al, 2021) suggests that maximising all three is difficult, if not impossible. The iron triangle suggests that changes in one quality will negatively impact one or more of the other qualities. For example, increasing accessibility quickly as part of an emergency response to a pandemic required significant additional cost to staff and resulted in a perceived reduction in the quality of learning experiences (Martin, 2020). The iron triangle literature identifies particular strategies that promise to break the iron triangle, including: open and distance eLearning (Daniel et al., 2009); open educational resources (Mulder, 2013); and, high-quality large group pedagogies, alternative curriculum structures, and automation of assessment and feedback (Ryan et al., 2021). 
+
+While these strategies differ in intent their implementation almost inevitably draws on the same strategic, planning-by-objectives approaches. Approaches that leverage practices such as stepwise refinement and loose coupling to decompose difficult problems into smaller, more tractable problems before re-assembling like Lego blocks the disparate, smaller solutions to achieve the larger goal. From a distributive or socio-material perspective the naïve atomistic assumptions underpinning such practices are inherently problematic (Dron, 2022; Fawns, 2022; Jones & Clark, 2014). For example, almost two decades ago Parrish (2004) argued that effective use of learning objects – the ultimate decontextualised pedagogical Lego blocks – is impossible without significant additional effort at appropriate re-contextualisation. 
+
+This poster explores how this re-contextualisation challenge plagues all institutional attempts to break the iron triangle by examining a Learning Management System (LMS) migration. An LMS migration is an effective exploratory case since it is one of the most labour-intensive and complex projects undertaken by universities (Cottam, 2021). The poster illustrates how three common enterprise Lego blocks used in LMS migration are explicitly designed to disentangle objects from context specific knowledge and design intent and thus require significant manual re-entanglement to produce effective outcomes. The poster demonstrates how an alternate approach of integrating the common Lego blocks into assemblages of contextually aware educational technologies helps people more effectively and efficiently orchestrate the necessary re-entanglement and provides a foundation for on-going improvement and innovation. 
+
+Approaches like this are used outside universities for innovation and service development (Bygstad, 2017) and increasingly actively supported at an enterprise level within universities for improving the efficiency and effectiveness of administrative processes (Duncan & Lundy, 2019). However, as in this case, application of such approaches to university learning and teaching are limited to small, ad hoc pockets of innovation and not widely recognised or supported institutionally. Experience from this case suggests that while Universities fail to effectively deal with the re-contextualisation challenge, they will struggle to break the iron triangle.
+
+Keywords: iron triangle, entangled pedagogy, LMS migration
+
+References 
+
+Bygstad, B. (2017). Generative Innovation: A Comparison of Lightweight and Heavyweight IT. Journal of Information Technology, 32(2), 180–193. https://doi.org/10.1057/jit.2016.15
+Cottam, M. E. (2021). An Agile Approach to LMS Migration. Journal of Online Learning Research and Practice, 8(1). https://doi.org/10.18278/jolrap.8.1.5
+Daniel, J., Kanwar, A., & Uvalić-Trumbić, S. (2009). Breaking Higher Education’s Iron Triangle: Access, Cost, and Quality. Change: The Magazine of Higher Learning, 41(2), 30–35. https://doi.org/10.3200/CHNG.41.2.30-35
+Dron, J. (2022). Educational technology: What it is and how it works. AI & SOCIETY, 37, 155–166. https://doi.org/10.1007/s00146-021-01195-z
+Duncan, B., & Lundy, K. (n.d.). How universities are using robotic process automation. Retrieved July 22, 2022, from https://www.ey.com/en_us/government-public-sector/how-universities-are-using-robotic-process-automation
+Fawns, T. (2022). An Entangled Pedagogy: Looking Beyond the Pedagogy—Technology Dichotomy. Postdigital Science and Education. https://doi.org/10.1007/s42438-022-00302-7
+Jones, D., & Clark, D. (2014). Breaking BAD to bridge the reality/rhetoric chasm. In B. Hegarty, J. McDonald, & S. Loke (Eds.), Rhetoric and Reality: Critical perspectives on educational technology. Proceedings ascilite Dunedin 2014 (pp. 262–272). http://ascilite2014.otago.ac.nz/files/fullpapers/221-Jones.pdf
+Martin, L. (2020). The student experience of online learning in Australian higher education during the COVID-19 pandemic (p. 30). TEQSA.
+Mulder, F. (2013). The LOGIC of National Policies and Strategies for Open Educational Resources. International Review of Research in Open and Distributed Learning, 14(2), 96–105. https://doi.org/10.19173/irrodl.v14i2.1536
+Parrish, P. E. (2004). The Trouble with Learning Objects. Educational Technology Research and Development, 52(1), 49–67.
+Ryan, T., French, S., & Kennedy, G. (2021). Beyond the Iron Triangle: Improving the quality of teaching and learning at scale. Studies in Higher Education, 46(7), 1383–1394. https://doi.org/10.1080/03075079.2019.1679763
+
+
+
+
+
+
+
+# MISC draft working space
 
 Or 
 - Can you break the iron triangle with bad relationships: Observations from an LMS migration
