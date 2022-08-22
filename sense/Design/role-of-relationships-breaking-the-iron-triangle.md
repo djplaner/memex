@@ -97,7 +97,7 @@ Drawing on experiences from a MLP at a single institution during a LMS migration
 - identifies a collection of relationship types
 - describes the observed characteristics of those relationships that enshrine the iron triangle
 - analyse how being able to improve those relationships and orchestrate relationships between objects may be key to breaking the iron triangle
-- consider what might be required if unviersities are to break the iron triangle
+- consider what might be required if universities are to break the iron triangle
 - suggests that limitations of digital fluency/capability is not limited to academics, but to institutions
 
 ## Introduction
@@ -108,9 +108,9 @@ Also include expanded references for why we need to break the iron triangle. e.g
 
 Hark back to historical connections - **what was the early 90s article I used to quote that vaguely had something like this**
 
-It has become strategically important for universities to offer better quality learning opportunitites to more people in more ways at a cheaper cost. Such attempts must break the Iron Triangle. A long acknowledged project management maxim that there exists "iron" constraints between quality, cost, and access. Changing one constraint inevitably requires change in the other two.  Current attempts to break the iron triangle - improving the digital fluency or pedagogical skills of academics; adopting a new LMS or a new curriculum management system; adopting a new pedagogy; developing a new set of course design principles -  tend to focus on the objects involved in learning and teaching. An atomist view, rather than a view focused on the relationships between the objects.  This exploratory case study seeks to answer the question: "What is the role of relationships in breaking the iron triangle?" 
+It has become strategically important for universities to offer better quality learning opportunities to more people in more ways at a cheaper cost. Such attempts must break the Iron Triangle. A long acknowledged project management maxim that there exists "iron" constraints between quality, cost, and access. Changing one constraint inevitably requires change in the other two.  Current attempts to break the iron triangle - improving the digital fluency or pedagogical skills of academics; adopting a new LMS or a new curriculum management system; adopting a new pedagogy; developing a new set of course design principles -  tend to focus on the objects involved in learning and teaching. An atomist view, rather than a view focused on the relationships between the objects.  This exploratory case study seeks to answer the question: "What is the role of relationships in breaking the iron triangle?" 
 
-> Learning management system (LMS) migration is one of the most complex and labor-intensive initiatives that a university might undertake.” (Cottam, 2021, p. 66)
+> Learning management system (LMS) migration is one of the most complex and labour-intensive initiatives that a university might undertake.” (Cottam, 2021, p. 66)
 > It is impossible to predict challenges accurately in a one- to two-year migration project, given the diversity of courses, instructional formats, and faculty and student preferences. (Cottam, 2021, p. 66)
 
 Dawson, Charman & Kilpatrick (2013) mention the challenge of massification and diversification of students. Long history of multiple pathways
