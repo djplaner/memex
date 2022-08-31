@@ -6,11 +6,24 @@ Early work on developing an actual poster
 
 Serious of broad sections 
 - Why?
-  - Research question
-- Conceptual Framework
-- How?  Method and Context
-- Case studies
-- Findings & Implications
+    - Research question
+- How?
+    - Method & Case
+    - Conceptual Framework
+- What?
+    - Case studies
+- So What?
+    - Findings 
+      - Generic technologies require significant manual orchestration to be fit for purpose
+        - esp. context and learning design specific purposes - because they can't handle this level of detail
+      - Limits ability to break the iron triangle
+        - accessibility (as many people as possible)
+        - quality (it's good)
+        - cost efficiency (it's cheap)
+          - manual labour that needs repeating
+      - Just acknowledging this - let alone taking action - appears to require a different mindset
+    - Implications
+        - 
 
 ## Quotes etc
 
