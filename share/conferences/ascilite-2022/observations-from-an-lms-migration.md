@@ -16,6 +16,7 @@ Serious of broad sections
     - Findings 
       - Generic technologies require significant manual orchestration to be fit for purpose
         - esp. context and learning design specific purposes - because they can't handle this level of detail
+      - Existing emphasis is on integration of tec, rather than orchestration (i.e. building new and different things)
       - Limits ability to break the iron triangle
         - accessibility (as many people as possible)
         - quality (it's good)
@@ -23,7 +24,8 @@ Serious of broad sections
           - manual labour that needs repeating
       - Just acknowledging this - let alone taking action - appears to require a different mindset
     - Implications
-        - 
+        - _need to support lightweight_
+        - orchestrations should be generative - i.e. enable further orchestration
 
 ## Quotes etc
 
