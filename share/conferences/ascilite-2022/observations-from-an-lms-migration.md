@@ -5,34 +5,52 @@ Early work on developing an actual poster
 ## Broad design
 
 Serious of broad sections 
-- Why?
-    - Research question
-- How?
-    - Method & Case
-    - Conceptual Framework
-- What?
-    - Case studies
-- So What?
-    - Findings 
-      - Generic technologies require significant manual orchestration to be fit for purpose
-        - esp. context and learning design specific purposes - because they can't handle this level of detail
-      - Existing emphasis is on integration of tec, rather than orchestration (i.e. building new and different things)
-      - Limits ability to break the iron triangle
-        - accessibility (as many people as possible)
-        - quality (it's good)
-        - cost efficiency (it's cheap)
-          - manual labour that needs repeating
+
+### Why?
+
+- iron triangle quote
+- Ellis scalability quote
+- why “most of the effort by L&T centres is directed to a small minority of willing academics” and such “centres are not equipped or motivated to operate strategically, at scale” (Ellis & Goodyear, 2019, p. 202).
+- Research question
+
+### How?
+
+- Conceptual Framework
+
+(Dron, 2022, p. 157)
+> To orchestrate is to intentionally bring different things - actions, tools, methods, processes etc. - together in an organised form, and an orchestration is the result of doing so.
+
+- Method & Case
+
+
+
+### What?
+
+- Case studies
+
+### So What?
+
+see [[evaluating-orchestration]]
+
+- Findings 
+  - Generic technologies require significant manual orchestration to be fit for purpose
+    - esp. context and learning design specific purposes - because they can't handle this level of detail
+  - Existing emphasis is on integration of tec, rather than orchestration (i.e. building new and different things)
+  - Limits ability to break the iron triangle
+    - accessibility (as many people as possible)
+    - quality (it's good)
+    - cost efficiency (it's cheap)
+      - manual labour that needs repeating
       - Just acknowledging this - let alone taking action - appears to require a different mindset
-    - Implications
-        - _need to support lightweight_
-        - orchestrations should be generative - i.e. enable further orchestration
+- Implications
+    - _need to support lightweight_
+    - orchestrations should be generative - i.e. enable further orchestration
 
 ## Quotes etc
 
 Collection of quotes that may be of use
 
 Ellis & Goodyear (2019)
-- why “most of the effort by L&T centres is directed to a small minority of willing academics” and such “centres are not equipped or motivated to operate strategically, at scale” (Ellis & Goodyear, 2019, p. 202).
 - to infrastructures and service interfaces for a manageably small set of particularly valued activity systems (p. 188).
 - it is fair to suggest that there is much more to be done to understand and effectively use educational technologies in higher education. (Lodge et al, 2022, p. 4)
 
