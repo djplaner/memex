@@ -1,5 +1,15 @@
 # Quality enhancement
 
+## Quality assurance and quality enhancement in e-learning
+
+Martin Oliver writing on [HEA EvidenceNet](http://evidencenet.pbworks.com/w/page/19383515/%3Cspan%20class=)
+
+> The Quality Assurance Agency describes quality assurance as  “the means through which an institution ensures and confirms that the conditions are in place for students to achieve the standards set by it or by another awarding body” (QAA 2004), and quality enhancement as “the process of taking deliberate steps at institutional level to improve the quality of learning opportunities.... Quality enhancement is therefore seen as an aspect of institutional quality management that is designed to secure, in the context of the constraints within which individual institutions operate, steady, reliable and demonstrable improvements in the quality of learning opportunities”  (QAA 2006).
+
+Cites arguments that quality assurance does not lead to quality enhancement - QA focused too much on accountability.
+
+## Assurance vs Enhancement - Raban 2007
+
 While it's useful in identifying the need for different types of quality enhancement, the Raban paper has a few holes in clarity and structure.
 
 Raban, first defines 5 types of enhancement using three axes
