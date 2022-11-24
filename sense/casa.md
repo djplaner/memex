@@ -7,7 +7,8 @@ Collections of technologies and practices that transform digital learning and te
 
 ## Path
 
-- [[casa-design-principles]] 
+- [[casa-design-principles]] - original design principles for CASA design
+- [[casa-gallery]] - a gallery of CASA requirements or examples
 
 ## Related
 
