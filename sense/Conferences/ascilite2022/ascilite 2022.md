@@ -5,6 +5,8 @@
 ## To read
 
 
+- Kitto - [How can EdTech support graduate employability?](https://publications.ascilite.org/index.php/APUB/article/view/184)
+- [Defining a next-generation ecosystem for online learning: from changing the platform to shifting the paradigm](https://publications.ascilite.org/index.php/APUB/article/view/193)
 - Towards Supporting Dialogic Feedback Processes Using Learning Analytics: the Educators’ Views on Effective Feedback
 
 ## Presentations
@@ -59,6 +61,10 @@ What does an ASCILITE paper that talks (and the institutional practices/experien
 That's what I need to be looking for now.
 
 Does the nature of meddling make it hard to write papers? To get recognition?
+
+Phil Dawson
+
+- Lot of the tech at ASCILITE is what we do to students, AI tech is something that has its own agency and likely to be done to us
 
 
 
