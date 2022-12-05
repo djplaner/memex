@@ -12,22 +12,26 @@
 ## Presentations
 
 - [Day 1](ascilite2022-day-one.md)
+- [Day 2](ascilite2022-day-two.md)
 
 
 ## Reflections
 
 ### Where's the digital? Where's the learning?
 
-A drive for the ASCILITE crowd is something like help teachers and those designing teaching figure out how to creatively and sustainably provide effective L&T experiences/environments.
+[ASCILITE's aspiration](https://ascilite.org/about-ascilite/) is to be
+> recognised internationally as Australasia's foremost community for the use of digital technologies in tertiary education. But the consideration of either "digital" or "learning/teaching" appears limited at times. 
 
-Examples include Glazier's (2021) suggestions for building human connections online, which the keynote presented as the following
+For example, the first keynote drew on Glazier's (2021) suggestions for building human connections online:
 
 1. Humanize the instructor 
 2. Provide personalized feedback 
 3. Reach out to students 
 4. Support student peer collaboration
 
-There was the _6 principles for digital learning innovation_ ([Adachi et al 2022](https://publications.ascilite.org/index.php/APUB/article/view/140)) which were
+Pretty good, but those suggestions seem to apply regardless of whether you're using digital or online technologies to build human connections.
+
+Another example on the first day were the _6 principles for digital learning innovation_ ([Adachi et al 2022](https://publications.ascilite.org/index.php/APUB/article/view/140)):
 
 1. Create a safe place for new ideas
 2. Keep focused on your purposes.
@@ -36,9 +40,14 @@ There was the _6 principles for digital learning innovation_ ([Adachi et al 2022
 5. Start small and build up.
 6. Think holistically
 
-What strikes me about both these is that they say nothing about "digital". They apply more broadly. Glazier's to L&T in any context. The digital learning principles are more generic again. Nothing specific in those about digital or learning. Could equally apply to QANTAS as a university.
+These seem likely to be as useful as principles of innovation for QANTAS or McDonalds. Nothing here to provide specific advice on either digital innovation, learning innovation, or digital learning innovation.
 
-Where is the digital? What is the role of digital? 
+This observation isn't intended to limit the value of these principles as useful guides for the practice of digital education or education more broadly. Instead, I'm wondering if at ASCILITE - given ASCILITE's aspirations - there should be more explicit engagement with digital technologies? Perhaps questions like if/how/why etc. the use of digital technologies in tertiary education complicates, aids, hinders etc the building of human connections or innovation (and many more).
+
+Without at least some focus on these types of questions, I wonder how ASCILITE differentiates itself from [HERDSA](https://www.herdsa.org.au/about-herdsa) and its commitment to "the advancement of higher and tertiary education"?
+
+
+
 
 ### The missing last mile? Orchestration? Meddler in the middle?
 
@@ -62,9 +71,6 @@ That's what I need to be looking for now.
 
 Does the nature of meddling make it hard to write papers? To get recognition?
 
-Phil Dawson
-
-- Lot of the tech at ASCILITE is what we do to students, AI tech is something that has its own agency and likely to be done to us
 
 
 
