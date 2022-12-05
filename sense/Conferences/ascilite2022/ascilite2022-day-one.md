@@ -34,7 +34,8 @@ Glazier, R.A. (2021). Connecting in the Online Classroom: Building Rapport betwe
 ### Using educational technologies to create relationships that enable student learning and thriving
 
 ### Re/Connecting university teachers with digital teaching tools for “jobs to be done”
-    https://publications.ascilite.org/index.php/APUB/article/view/118
+
+[Paper](https://publications.ascilite.org/index.php/APUB/article/view/118)
 
 decision making/conversation starting Framework and apparent website to scaffold making decisions...linking to tools
 
@@ -82,4 +83,6 @@ Abstract
 > We have long been leveraging the use of technologies to help build and sustain connections in the online environment. The pandemic opened our eyes to the value of these connections and the ability to better use technologies to facilitate them. Now we must question what more we can do. Creating communities through safe environments, building trust, showing students our ‘human’ sides through rapport building and teacher presence which may have previously been hidden in plain sight when operating in a face-to-face mode are a good start. By breaking down traditional barriers brought about through power relationships, the foundations of a quality learning experience are both created and maintained. Using case scenarios and personal narrative from two metropolitan university business schools, we explore techniques that have been used to build connections during lockdowns and begin to reconnect as we emerge from the pandemic. We found that nudging our students through initial uncomfortableness really helped them feel part of a community of learners, one which we also belonged.
 
 Nudge theory is mentioned.  Also CoI and the importance of teacher presence and in particular "setting climate"
+
+
 
