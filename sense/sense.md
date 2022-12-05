@@ -38,6 +38,7 @@ And unallocated notes in [[loose]]
 [affordances]: affordances "Affordances"
 [distribution]: distribution "Distribution"
 [casa]: casa "Contextually Appropriate Scaffolding Assemblages (CASA)"
+[conferences]: Conferences/conferences "Conferences"
 [digital-literacy]: digital-literacy "Digital Literacy"
 [herding-cats]: herding-cats "Herding Cats"
 [know-thy-student]: know-thy-student "Know thy student"
