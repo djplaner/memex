@@ -11,6 +11,7 @@ And unallocated notes in [[loose]]
   - [[affordances]]
   - [[distribution]]
 - [[casa]]
+- [[conferences]]
 - [design](Design/index.md)
 - [[digital-literacy]]
 - [[herding-cats]]
