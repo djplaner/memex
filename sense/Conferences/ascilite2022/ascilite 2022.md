@@ -17,7 +17,7 @@
 
 ## Reflections
 
-### Where's the digital? Where's the learning?
+### Where's the digital?
 
 [ASCILITE's aspiration](https://ascilite.org/about-ascilite/) is to be
 > recognised internationally as Australasia's foremost community for the use of digital technologies in tertiary education. But the consideration of either "digital" or "learning/teaching" appears limited at times. 
@@ -50,6 +50,8 @@ Without at least some focus on these types of questions, I wonder how ASCILITE d
 
 
 ### The missing last mile? Orchestration? Meddler in the middle?
+
+_Work in progress_
 
 McWilliam's ([2009](https://eprints.qut.edu.au/32389/1/c32389.pdf)) addition of "meddler in the middle" to the "sage on the stage" and "guide one the side" got a [mention somewhere at the conference](https://twitter.com/leanner000/status/1599571032708636672). Apparently related [to this blog post](https://warburton.typepad.com/liquidlearning/2022/03/claiming-the-middle-ground-the-agile-and-adaptive-educator.html) which appeared in Campus Morning Mail. A post that describes McWilliam's distinction between the three roles and includes a call for folk likely to be in the ASCILITE crowd to avoid being either sages or guides and become more likely meddlers.
 
