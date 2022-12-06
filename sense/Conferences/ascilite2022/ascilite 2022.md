@@ -5,7 +5,6 @@
 ## To read
 
 
-- Kitto - [How can EdTech support graduate employability?](https://publications.ascilite.org/index.php/APUB/article/view/184)
 - [Defining a next-generation ecosystem for online learning: from changing the platform to shifting the paradigm](https://publications.ascilite.org/index.php/APUB/article/view/193)
 - Towards Supporting Dialogic Feedback Processes Using Learning Analytics: the Educators’ Views on Effective Feedback
 
@@ -20,7 +19,9 @@
 ### Where's the digital?
 
 [ASCILITE's aspiration](https://ascilite.org/about-ascilite/) is to be
-> recognised internationally as Australasia's foremost community for the use of digital technologies in tertiary education. But the consideration of either "digital" or "learning/teaching" appears limited at times. 
+> recognised internationally as Australasia's foremost community for the use of digital technologies in tertiary education. 
+
+But the consideration of "digital technologies" appears to be limited at times. 
 
 For example, the first keynote drew on Glazier's (2021) suggestions for building human connections online:
 

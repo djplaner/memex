@@ -126,6 +126,45 @@ Findings
 
 - Oz students have higher social anxiety when interacting with peers in digital learning environments
 
+### How can EdTech support graduate employability?
+
+[paper](https://publications.ascilite.org/index.php/APUB/article/view/184)
+
+Abstract
+> Pressure is mounting upon universities to ensure that our graduates are employable. Business and governments increasingly demand that graduates are equipped with skills and competencies that map into labour market needs. But students often struggle to choose courses, subjects and activities that will support their career goals and aspirations. This paper introduces an approach designed at UTS which aims to embed a skills analytics tool at key transition points for our students. The need to support such tools will a well-grounded learning design is discussed, along with the need to move beyond a “one size fits all” model for supporting EdTech tools. A solution that utilises a series of modules in the LMS is introduced.
+
+“This paper introduces an approach designed at UTS which aims to embed a skills analytics tool at key transition points for our students.” ([Kitto, 2022, p. 1](zotero://select/library/items/PGU678XZ)) ([pdf](zotero://open-pdf/library/items/PIWZVSWA?page=1&annotation=267EU9AV))
+
+“How might we use EdTech to support graduates in meeting this agenda without adding undue stress to teaching teams and students?” ([Kitto, 2022, p. 1](zotero://select/library/items/PGU678XZ)) ([pdf](zotero://open-pdf/library/items/PIWZVSWA?page=1&annotation=2J86IUH9))
+
+“Indeed, it is often easier for professionals to recognise mistakes made by someone attempting to learn an epistemic game associated with a profession than it is to explicitly list what people should be doing ahead of time (Markauskaite and Goodyear, 2017)” ([Kitto, 2022, p. 1](zotero://select/library/items/PGU678XZ)) ([pdf](zotero://open-pdf/library/items/PIWZVSWA?page=1&annotation=RGBE624X))
+
+“Furthermore, universities need to do more than support our students in developing a rich portfolio of attributes and skills; we also need to help them to demonstrate those attributes, in a manner that employers can understand and interpret.” ([Kitto, 2022, p. 2](zotero://select/library/items/PGU678XZ)) ([pdf](zotero://open-pdf/library/items/PIWZVSWA?page=2&annotation=CE7VHWVF))
+
+“Tools are designed to provide a scaffold (Reiser, 2004) that helps students to undertake the open ended and complex task of career planning. Students build up a skills profile that they can use to: set career goals; explore skills gaps between their skill profile and the skills they will need for an identified goal; and, identify training pathways through the curriculum that we offer” ([Kitto, 2022, p. 2](zotero://select/library/items/PGU678XZ)) ([pdf](zotero://open-pdf/library/items/PIWZVSWA?page=2&annotation=E9AXGECP))
+
+“Reiser (2004), EdTech tools have the potential to provide scaffolding by both (i) structuring the task at hand, and (ii) problematising aspects of the subject matter” ([Kitto, 2022, p. 2](zotero://select/library/items/PGU678XZ)) ([pdf](zotero://open-pdf/library/items/PIWZVSWA?page=2&annotation=AZGNSDF9))
+
+“Wrapped around these analytics services (many of which we are now building upon and extending) is a web based framework with an Angular front end, GraphQL middle layer which enables us to decouple front end development from the back end, and a Node based back end. This design makes tools accessible from multiple domains (i.e. not just the learning management system, LMS), with various application components reused as appropriate” ([Kitto, 2022, p. 2](zotero://select/library/items/PGU678XZ)) ([pdf](zotero://open-pdf/library/items/PIWZVSWA?page=2&annotation=ASNWDVSH))
+
+“However, simply pointing students to an EdTech based tool that they “may want to explore” rarely results in significant uptake of the service (Kitto et al., 2017)” ([Kitto, 2022, p. 3](zotero://select/library/items/PGU678XZ)) ([pdf](zotero://open-pdf/library/items/PIWZVSWA?page=3&annotation=MPRPTF6A))
+
+“How can we embed such tools into a course’s design without disrupting the course structure itself?” ([Kitto, 2022, p. 3](zotero://select/library/items/PGU678XZ)) ([pdf](zotero://open-pdf/library/items/PIWZVSWA?page=3&annotation=EEK5WGQT))
+
+“However, beyond the FYE there are likely to be a number of other key transition points where students are focused upon career goals and employability which provides an opportunity for designing a successful intervention” ([Kitto, 2022, p. 3](zotero://select/library/items/PGU678XZ)) ([pdf](zotero://open-pdf/library/items/PIWZVSWA?page=3&annotation=RKWYKX6C))
+
+“However, as Shibani et al. (2019) argue, in attempting to build tools that are scalable it is all too common to adopt a one size fits all mentality, which fails to contextualise their use to the different problems that students are likely to be facing throughout this whole of course journey.” ([Kitto, 2022, p. 3](zotero://select/library/items/PGU678XZ)) ([pdf](zotero://open-pdf/library/items/PIWZVSWA?page=3&annotation=EIRJI2CU))
+
+“At present, this contextualization process is managed using a set of reusable Canvas pages. These are labelled such that they can be flexibly assembled in a way that supports student goal setting and development at the various transition points listed above.” ([Kitto, 2022, p. 3](zotero://select/library/items/PGU678XZ)) ([pdf](zotero://open-pdf/library/items/PIWZVSWA?page=3&annotation=7KRGZYZN))
+
+“We note that the current functionality of Canvas Commons does not really support the type of structure we would like to enable for sharing these resources” ([Kitto, 2022, p. 4](zotero://select/library/items/PGU678XZ)) ([pdf](zotero://open-pdf/library/items/PIWZVSWA?page=4&annotation=DXFGMN4L))
+
+“This is an issue, as the creation of reusable learning objects is likely to require that the object can be structured beyond simple pages” ([Kitto, 2022, p. 4](zotero://select/library/items/PGU678XZ)) ([pdf](zotero://open-pdf/library/items/PIWZVSWA?page=4&annotation=5ZBGRGUK))
+
+“Similarly, it is not currently possible to control which activity is imported into a subject. This is problematic as it is possible that students might be provided with the same activity across multiple subjects with the current shareable structure” ([Kitto, 2022, p. 4](zotero://select/library/items/PGU678XZ)) ([pdf](zotero://open-pdf/library/items/PIWZVSWA?page=4&annotation=5IFE33SL))
+
+“We encourage LMS vendors to think about how these types of extensions might be enabled in their systems to support reusable learning objects” ([pdf](zotero://open-pdf/library/items/PIWZVSWA?page=4&annotation=ZRMCQZAG))
+
 ### How should educators adapt as AI tools become available to students? - Panel discussion
 
 Abstract 
