@@ -8,6 +8,15 @@ See [[ascilite-2022]]
 
 Lots of different insights, perspectives, and ideas for building relationships with and without technologies through the typical ASCILITE mix of general principles and single case studies.
 
+### AI and its impact on L&T in higher education
+
+The recent release of [ChatGPT](https://openai.com/blog/chatgpt/) generated a lot of discussion. Social media is replete with many examples of people using ChatGPT to illustrate the full spectrum from [very interesting](https://twitter.com/Jessifer/status/1599212498795626497) (read the second one in the voice of HP Lovecraft) through suggesting [usefulness](https://twitter.com/pennyjw/status/1599726226842996736) to suggesting [the emperor has no clothes](https://twitter.com/ArthurCDent/status/1599254361657716737).
+
+Most people aren't asking if this will impact L&T in higher ed, they're asking what do we do with and in response to it?
+
+[There are those](https://twitter.com/mwjtweet/status/1600026153850351617) who think we'll be slow and behind the times.
+
+
 
 ### It's not the tool, it's how you use is - OnTask, generic resources and templates
 
