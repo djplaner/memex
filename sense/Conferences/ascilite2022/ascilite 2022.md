@@ -20,6 +20,16 @@
 - [Where's the digital?](reflections/wheres-the-digital.md) 
 - [[Meddler in the middle]]
 
+## To do
+
+- [ ] Follow up with Tim re: Canvas, collaboration and his story board
+
+    - Talk about framing this
+
+- [ ] Follow up on Kitto's references and linkages also the portal paper and its focus on scalability
+
+- [ ] What is the theory of our work (e.g. as argued by "Where is the “theory” within the field of educational technology research?")
+
 
 
 

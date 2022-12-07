@@ -1,5 +1,8 @@
 # Where's the digital?
 
+Paraphrase from Ella Kahu
+> We don't need to talk about technology. It's 2022. Technology is everywhere.
+
 [ASCILITE's aspiration](https://ascilite.org/about-ascilite/) is to be
 > recognised internationally as Australasia's foremost community for the use of digital technologies in tertiary education. 
 
