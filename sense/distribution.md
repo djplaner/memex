@@ -21,6 +21,7 @@
 ### Complexity
 
 - [[lived-complexity]]
+- [[emergence]]
 
 ## Practice and implementation
 
@@ -41,6 +42,7 @@
 [systems-thinking]: Distribution/systems-thinking "Systems thinking"
 [three-types-of-decentralisation]: Distribution/three-types-of-decentralisation "Three types of decentralisation"
 [standardisation-and-its-discontents]: Society/standardisation-and-its-discontents "Standardisation and its discontents"
+[postmodern-systems-dialog]: Distribution/postmodern-systems-dialog "Postmodern systems: Intersubjectivity through dialog"
 [entangled-pedagogy]: Distribution/entangled-pedagogy "Entangled Pedagogy"
 [lived-complexity]: Distribution/lived-complexity "lived-complexity"
 [blackboard-tweaks]: Distribution/blackboard-tweaks "Blackboard tweaks"
