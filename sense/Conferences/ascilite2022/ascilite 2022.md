@@ -12,7 +12,7 @@
 
 - [Day 1](ascilite2022-day-one.md)
 - [Day 2](ascilite2022-day-two.md)
-- [Day 3](ascilite2022%20day%20three.md)
+- [Day 3](ascilite2022-day-three.md)
 
 ## Work take aways
 
@@ -32,8 +32,11 @@ Both the first two papers are from UTS and CIC work.
 - "However, as Shibani et al. (2019) argue, in attempting to build tools that are scalable it is all too common to adopt a one size fits all mentality, which fails to contextualise their use to the different problems that students are likely to be facing throughout this whole of course journey"
 - "We note that the current functionality of Canvas Commons does not really support the type of structure we would like to enable for sharing these resources"
 
-[Lim et al](./ascilite2022-day-two#made-good-connections-amplifying-teacher-presence-and-belonging-at-scale-through-learning-design-and-personalised-feedback)
-OnTask paper - cic  
+[Lim et al](./ascilite2022-day-two#made-good-connections-amplifying-teacher-presence-and-belonging-at-scale-through-learning-design-and-personalised-feedback) report on an attempt to enhance students _sense of belonging_ in a large course through using OnTask to amplify teacher presence. Results were positive, but appear to rely on
+
+1. Significant design of how OnTask was used to reinforce course design and to tailor the feedback OnTask generates to encourage student motivation and sense of belonging - the teaching staff member had help to do this.
+2. The course learning design also incorporated other features that helped with motivation and sense of belonging - it was just a two hour online lecture
+
 
 ### Employability
 
