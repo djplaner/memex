@@ -1,6 +1,6 @@
 # ASCILITE 2022 - Day 2
 
-See [[ascilite 2022]]
+See [[ascilite-2022]]
 
 
 ## Rebuilding Connections: The value and purpose of connections and the role technology and emotional intelligence can play

@@ -1,6 +1,6 @@
 # ASCILITE 2022 - Day 1
 
-See [[ascilite 2022]] Monday 5 December 2022
+See [[ascilite-2022]] Monday 5 December 2022
 
 ### Keynote - Using educational technologies to create relationships that enable student learning and thriving
 

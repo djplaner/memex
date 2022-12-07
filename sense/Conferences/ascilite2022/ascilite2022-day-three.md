@@ -1,6 +1,6 @@
 # ASCILITE 2022 - Day 3
 
-See [[ascilite 2022]]
+See [[ascilite-2022]]
 
 ## Connecting students with ‘industry’: A pilot implementation of authentic assessment tasks in business education
 
