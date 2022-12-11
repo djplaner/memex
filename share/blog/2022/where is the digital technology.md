@@ -64,6 +64,7 @@ Extant literature examples
 
 - categories of use: with, from ---
 - critical perspectives
+	- Aingry on AI responses - critical take https://digitalispeople.org/aingry/
 - socio-material perspectives: Orlikowski, Fawns,
 - ?philosophical? Dron
 - Digital technology
