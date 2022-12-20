@@ -58,6 +58,7 @@ If we don't mention technology, are we destined to be "smooth users"
 
 
 
+
 - Gregor's types of theory
 
 Extant literature examples
@@ -70,4 +71,11 @@ Extant literature examples
 - Digital technology
 
 
+## It's the environment
+
+Dewey
+> we can never educate directly, but indirectly by means of the environment
+
+Jonassen
+> we can never educate directly but can design the environment for learning to be happening
 
