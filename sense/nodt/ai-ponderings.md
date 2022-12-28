@@ -2,28 +2,47 @@
 
 The rise of chatGPT has seen various ponderings, here's mine.
 
-The interesting questions I have include
+At some level the following three questions might be useful ways to talk about it.
 
-- What is the nature of the technology? 
+Why might the types of thinking and discussion such questions might generate be important?
 
-    Some attempt to understand the objective features, capabilities etc of the technology.
-- What are its affordances?
+- [It is on all of us to make sure that it goes well](https://ourworldindata.org/ai-impact)
 
-    Affordances is a useful concept because it is relational. Affordances arise from the relationship between the technology, user, their context, and purpose (task).  
-- What can we do with those nature/affordances?
+## What is the nature of the technology? 
 
-	- [New modes of learning enabled by AI chatbots: Three methods and assignments](https://t.co/cwrNvUjTAd)
-- What will we do with those nature/affordances?
+This is not intended to be technological determinism (though it is a danger). The aim being to answer questions like
+
+- How does this technology?
+- What can it do?
+- What are it is inherent limitations, requirements etc?
+ 
+In the AI context, perhaps it is important to understand that 
+
+- They [are not all knowing](https://iai.tv/articles/all-knowing-machines-are-a-fantasy-auid-2334)
+- They maybe [limited by their input](https://twitter.com/emollick/status/1605756428941246466)
+
+But also that there are different types of AI. The above are more specific to language models, the current AI of focus. There may be other types of AI.
+
+## What can we do with the technology? What are its affordances?
+
+Affordances is a useful concept because it is relational. Affordances arise from the relationship between the technology, user, their context, and purpose (task). i.e. not universal
+
+Some related AI resources
+
+- [New modes of learning enabled by AI chatbots: Three methods and assignments](https://t.co/cwrNvUjTAd)
 
 
-## Nature and affordances of the technology
+## What will we do with these affordances? What does the critical perspective say?
+
+There's some blurring between this and the previous question. Where to draw the line between "can" and "will". Perhaps the focus here is more on the critical take on what the contexts we operate in will allow/encourage/enable. But it's also about people themselves.
+
+Perhaps a good example is the differences between John Perry Barlow's [A Declaration of the Independence of Cyberspace](https://www.eff.org/cyberspace-independence) - as an indicator of the optimism around the promise of the Internet - and the reality of the contemporary era of fake news, influencers and social media. Arguably demonstrating the "can"/"will" difference.
 
 
+Some related AI resources (some of which blur between can/will)
 
-## What can we do with those affordances?
+- [Education focusing on ChatGPT and plagiarism](https://twitter.com/gsiemens/status/1604996057531760640)
 
 
-
-## What will we do with those affordances?
 
 
