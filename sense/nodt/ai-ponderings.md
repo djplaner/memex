@@ -6,7 +6,16 @@ At some level the following three questions might be useful ways to talk about i
 
 Why might the types of thinking and discussion such questions might generate be important?
 
-- [It is on all of us to make sure that it goes well](https://ourworldindata.org/ai-impact)
+- [It is on all of us to make sure that it goes well](https://docs.google.com/document/d/1rBDP4WsMqv8bIw6tK6-SZ0sDh0_OcperWMcabn5II9Y/edit)
+- [AI ChatGPT Overview](https://docs.google.com/document/d/1rBDP4WsMqv8bIw6tK6-SZ0sDh0_OcperWMcabn5II9Y/edit)
+
+## Other examples
+
+Misc other resources
+
+- [What is ChatGPT](https://docs.google.com/document/d/1rBDP4WsMqv8bIw6tK6-SZ0sDh0_OcperWMcabn5II9Y/edit)
+
+
 
 ## What is the nature of the technology? 
 
@@ -21,6 +30,10 @@ In the AI context, perhaps it is important to understand that
 - They [are not all knowing](https://iai.tv/articles/all-knowing-machines-are-a-fantasy-auid-2334)
 - They maybe [limited by their input](https://twitter.com/emollick/status/1605756428941246466)
 
+Related resources
+
+- [One look at our future](https://marginalrevolution.com/marginalrevolution/2022/12/one-look-at-our-future.html) - captures and discusses a Tweet giving some overview of the tech and its future
+
 But also that there are different types of AI. The above are more specific to language models, the current AI of focus. There may be other types of AI.
 
 ## What can we do with the technology? What are its affordances?
@@ -30,6 +43,7 @@ Affordances is a useful concept because it is relational. Affordances arise from
 Some related AI resources
 
 - [New modes of learning enabled by AI chatbots: Three methods and assignments](https://t.co/cwrNvUjTAd)
+- [Update your course syllabus for chatGPT](https://medium.com/@rwatkins_7167/updating-your-course-syllabus-for-chatgpt-965f4b57b003)
 
 
 ## What will we do with these affordances? What does the critical perspective say?
@@ -42,6 +56,7 @@ Perhaps a good example is the differences between John Perry Barlow's [A Declara
 Some related AI resources (some of which blur between can/will)
 
 - [Education focusing on ChatGPT and plagiarism](https://twitter.com/gsiemens/status/1604996057531760640)
+    - [Australian Universities seek to curb ChatGPT use by students](https://synthedia.substack.com/p/australian-universities-seek-to-curb)
 
 
 
