@@ -7,15 +7,6 @@ At some level the following three questions might be useful ways to talk about i
 Why might the types of thinking and discussion such questions might generate be important?
 
 - [It is on all of us to make sure that it goes well](https://docs.google.com/document/d/1rBDP4WsMqv8bIw6tK6-SZ0sDh0_OcperWMcabn5II9Y/edit)
-- [AI ChatGPT Overview](https://docs.google.com/document/d/1rBDP4WsMqv8bIw6tK6-SZ0sDh0_OcperWMcabn5II9Y/edit)
-
-## Other examples
-
-Misc other resources
-
-- [What is ChatGPT](https://docs.google.com/document/d/1rBDP4WsMqv8bIw6tK6-SZ0sDh0_OcperWMcabn5II9Y/edit)
-
-
 
 ## What is the nature of the technology? 
 
@@ -44,6 +35,9 @@ Some related AI resources
 
 - [New modes of learning enabled by AI chatbots: Three methods and assignments](https://t.co/cwrNvUjTAd)
 - [Update your course syllabus for chatGPT](https://medium.com/@rwatkins_7167/updating-your-course-syllabus-for-chatgpt-965f4b57b003)
+- [Automated marking](https://twitter.com/DanFitzTweets/status/1609675061211930625)
+- [What is ChatGPT](https://docs.google.com/document/d/1rBDP4WsMqv8bIw6tK6-SZ0sDh0_OcperWMcabn5II9Y/edit)
+- [AI ChatGPT Overview](https://docs.google.com/document/d/1rBDP4WsMqv8bIw6tK6-SZ0sDh0_OcperWMcabn5II9Y/edit)
 
 
 ## What will we do with these affordances? What does the critical perspective say?
