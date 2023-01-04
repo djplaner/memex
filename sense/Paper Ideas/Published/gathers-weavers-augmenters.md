@@ -25,24 +25,27 @@ Illich, I. (1973). Tools for Conviviality. Harper and Row.
 
 ### Structure
 
-Three main sections
+#### Set the scene
 
-1. Which is better?
+- Something about the difficulty of providing quality L&T in the current context
 
-    Show the three tasks (or a subset) and ask which is better
-2. How we did it?
+Work in the following Quote from [solutions engineer's job ad](https://jobs.lever.co/instructure/438e3c44-d187-4265-a3d8-91628977186e) from instructure
+> We make better, more usable tools for teaching, learning and employee development (you know, stuff people will actually use). A better connected and more open edtech ecosystem
 
-    Talk about the gatherers, weavers, augmenters metaphor giving some idea of the architecture
-3. Principles and implications?
+- Something about "more usable tools" being important
+
+![](images/InstructureSalesEngineer.png)  
+
+#### Which of these is more usable?
+
+Show the three tasks (or a subset) and ask get people to vote on which is more usable
+
+
+#### How we did it?
+
+Talk about the gatherers, weavers, augmenters metaphor giving some idea of the architecture. Talk about leveraging 
+
+##### Principles and implications?
 
     Talk about the three principles - abstracting from gatherers, weavers, augmenters - and generalise into implications for what we do and what others might do. Link to context
 
-
-### Random resources
-
-#### What instructure does?
-
-Quote from [solutions engineer's job ad] from instructure
-> We make better, more usable tools for teaching, learning and employee development (you know, stuff people will actually use). A better connected and more open edtech ecosystem
-
-The importance of open edtech ecosystem is mentioned, but what about the reality of making it happen? Links to lightweight IT development and need IT outside of IT.
