@@ -40,6 +40,9 @@ Work in the following Quote from [solutions engineer's job ad](https://jobs.leve
 
 Show the three tasks (or a subset) and ask get people to vote on which is more usable
 
+But perhaps at the end of this section (or the end of the talk) get them thinking about which of these is more usable for different roles/positions in a university? HC's Idea
+> the different roles as it determines different perspectives of usability W2C/QA less important to some but crucial for others... but if we appended Accessibility to either of them then all of a sudden it would jump in usability as it interacts with more roles (Deans telling others how great they are at solving a wicked problem), In that example without the unimportant assemblages can't have the important ones
+
 
 #### How we did it?
 
