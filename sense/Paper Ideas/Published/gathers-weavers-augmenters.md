@@ -50,5 +50,5 @@ Talk about the gatherers, weavers, augmenters metaphor giving some idea of the a
 
 ##### Principles and implications?
 
-    Talk about the three principles - abstracting from gatherers, weavers, augmenters - and generalise into implications for what we do and what others might do. Link to context
+Talk about the three principles - abstracting from gatherers, weavers, augmenters - and generalise into implications for what we do and what others might do. Link to context
 
