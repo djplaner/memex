@@ -67,6 +67,8 @@ Original principles
 
 ### Implications?
 
+#### Build or build?
+
 It's not a question of "buy or build" or even "buy and build", but perhaps more exploring the distinction between "buy and build and assemble/garden/automate"
 
 Or perhaps it's identifying these four
@@ -74,4 +76,8 @@ Or perhaps it's identifying these four
 1. Buy - purchase various tools and systems 
 2. Build - build your own tools and systems 
 3. (re-)Assemble - engage in lightweight IT development to add more contextually appropriate combinations of technologies
+
+    Another thought, for me, designing and teaching a course (esp. in these days of blended/digital learning) includes a fair bit of assembly.  Assembly isn't just a technology thing.  It's an L&T thing, but one we all do at varying levels.
 4. Use all the technologies
+
+![](images/buyOrBuild.png)  
