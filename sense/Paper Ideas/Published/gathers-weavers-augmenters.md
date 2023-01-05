@@ -21,11 +21,9 @@ Ellis, R. A., & Goodyear, P. (2019). The Education Ecology of Universities: Inte
 Illich, I. (1973). Tools for Conviviality. Harper and Row.
 
 
-## Random collection of presentation ideas
+## Structure
 
-### Structure
-
-#### Set the scene
+### Set the scene
 
 - Something about the difficulty of providing quality L&T in the current context
 
@@ -36,7 +34,7 @@ Work in the following Quote from [solutions engineer's job ad](https://jobs.leve
 
 ![](images/InstructureSalesEngineer.png)  
 
-#### Which of these is more usable?
+### Which of these is more usable?
 
 Show the three tasks (or a subset) and ask get people to vote on which is more usable
 
@@ -44,11 +42,36 @@ But perhaps at the end of this section (or the end of the talk) get them thinkin
 > the different roles as it determines different perspectives of usability W2C/QA less important to some but crucial for others... but if we appended Accessibility to either of them then all of a sudden it would jump in usability as it interacts with more roles (Deans telling others how great they are at solving a wicked problem), In that example without the unimportant assemblages can't have the important ones
 
 
-#### How we did it?
+### How we did it?
 
 Talk about the gatherers, weavers, augmenters metaphor giving some idea of the architecture. Talk about leveraging 
 
-##### Principles and implications?
+
+### Principles 
 
 Talk about the three principles - abstracting from gatherers, weavers, augmenters - and generalise into implications for what we do and what others might do. Link to context
 
+It's all about the context
+
+ASCILITE poster version of principles
+
+1. On-going task focused re-entanglement
+2. Contextual digital augmentation
+3. Meso-level automation - arguably, isn't this about context as well?
+
+Original principles
+
+1. contextual digital augmentation 
+2. meso-level automation, and 
+3. generativity and adaptive reuse.
+
+### Implications?
+
+It's not a question of "buy or build" or even "buy and build", but perhaps more exploring the distinction between "buy and build and assemble/garden/automate"
+
+Or perhaps it's identifying these four
+
+1. Buy - purchase various tools and systems 
+2. Build - build your own tools and systems 
+3. (re-)Assemble - engage in lightweight IT development to add more contextually appropriate combinations of technologies
+4. Use all the technologies
