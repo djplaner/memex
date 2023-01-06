@@ -8,6 +8,10 @@ Why might the types of thinking and discussion such questions might generate be 
 
 - [It is on all of us to make sure that it goes well](https://docs.google.com/document/d/1rBDP4WsMqv8bIw6tK6-SZ0sDh0_OcperWMcabn5II9Y/edit)
 
+Other overview resources
+
+- [ChatGPT - what can it do? What can it NOT do?](https://docs.google.com/presentation/d/1Vo9w4ftPx-rizdWyaYoB-pQ3DzK1n325OgDgXsnt0X0/preview?slide=id.g1cc76543f64_0_1195)
+
 ## What is the nature of the technology? 
 
 This is not intended to be technological determinism (though it is a danger). The aim being to answer questions like

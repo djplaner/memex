@@ -65,6 +65,11 @@ Original principles
 2. meso-level automation, and 
 3. generativity and adaptive reuse.
 
+### Broader context
+
+- [In search of Spime script](https://blog.gardeviance.org/2012/02/in-search-of-spime-script.html)
+
+    > Our world is heading in a fairly clear direction in terms of continual evolution of business activities such as commoditisation of discrete IT components, creation of higher order systems, disruption of past industries, development and exploitation of ecosystems, co-evolution of practice and ... well, I've covered this lots.
 ### Implications?
 
 #### Build or build?
