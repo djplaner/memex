@@ -4,6 +4,11 @@ Bricolage forms part of the BAD Mindset ([[Bricolage]], [[Affordances]], [[Distr
 
 ## Path
 
+
+### Software development
+
+- [[laws-of-software-evolution]]
+
 ### Telological definitions and issues
 
 - [[strategic-planning]]
@@ -25,6 +30,7 @@ Bricolage forms part of the BAD Mindset ([[Bricolage]], [[Affordances]], [[Distr
 [Bricolage]: bricolage "Bricolage"
 [Affordances]: affordances "Affordances"
 [Distribution]: distribution "Distribution"
+[laws-of-software-evolution]: Bricolage/laws-of-software-evolution "Laws of Software Evolution"
 [strategic-planning]: Bricolage/strategic-planning "Strategic Planning"
 [engineering-the-right]: Bricolage/engineering-the-right "Engineering the Right"
 [new-system-will-solve-everything-disease]: Bricolage/new-system-will-solve-everything-disease "New System Will Solve Everything Disease"
