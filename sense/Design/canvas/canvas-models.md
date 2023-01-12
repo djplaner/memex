@@ -43,6 +43,34 @@ Canvas has the ["Ready-Made Template" suite](https://community.canvaslms.com/t5/
 - e.g. [USyd](https://lx.uts.edu.au/collections/examples-canvas-sites/resources/how-can-i-structure-my-canvas-subject-site-effectively/) provides templates for pages in Canvas
 - [More detail on USyd templates](https://lx.uts.edu.au/blog/2020/07/21/get-moving-with-canvas-templates-and-shells/)
 
+## Rubrics
+
+- [Community discussion importing Blackboard rubrics](https://community.canvaslms.com/t5/LMS-Migration-Strategies/Blackboard-rubrics-imported-into-Canvas/ba-p/106640)
+
+    - [Descriptive experience](https://community.canvaslms.com/t5/LMS-Migration-Strategies/Blackboard-rubrics-imported-into-Canvas/bc-p/106649/highlight/true#M151) - "might as well just build the Rubric in Canvas from scratch"
+    - [Workaround import](https://community.canvaslms.com/t5/LMS-Migration-Strategies/Blackboard-rubrics-imported-into-Canvas/bc-p/106650/highlight/true#M152) - edit Bb rubrics to be points-based (not % or range), reverse the order of point values (0 points set to highest vice-versa - the text will not match the points), export/import, edit the point values
+- How to resources
+  - [Creating and using rubrics - LSA](https://lsa.umich.edu/technology-services/news-events/all-news/teaching-tip-of-the-week/creating-and-using-rubrics-in-canvas.html)
+
+### Canvas Model
+
+1. Canvas may provide a suggested template with one criterion and three achievement levels.
+2. Add as many criteria (rows) and levels of achievement (columns) as you need
+3. Choose the standards: letter grades, numerical scale, terminology
+4. Rubrics display in three different locations for Canvas activities: 
+
+    - assignments - `+ Rubric` button at bottom
+    - quizzes - via the pizza menu 
+    - discussions - via the pizza menu
+5.  Optional settings
+
+    - Use free-form comments when assessing students
+
+        Use comments instead of ratings scale. Comments can be reused for multiple submissions. But can't give partial credit. Use this with the "use rubric for grading" option
+    - use this rubric for assignment grading
+    - Hide score total for assessment results
+
+        Used for formative feedback.  Hide the total score when they view the rubric
 
 
 ## Work arounds
