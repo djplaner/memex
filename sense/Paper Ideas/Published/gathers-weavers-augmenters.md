@@ -21,20 +21,38 @@ Ellis, R. A., & Goodyear, P. (2019). The Education Ecology of Universities: Inte
 Illich, I. (1973). Tools for Conviviality. Harper and Row.
 
 
-## Structure
+# Presentation structure
 
-### Set the scene
+## Set the scene
+
+Explain the context, rationale of what we did. Linking in current sector strategic challenges. Establish how this connects with the audience.
+
+Possible content
 
 - Something about the difficulty of providing quality L&T in the current context
+
+    Iron triangle, Goodyear on the same etc
+
+- Importance of digital transformation
+
+- Something about "more usable tools" being important (this toward the end as the segue to the show and tell)
 
 Work in the following Quote from [solutions engineer's job ad](https://jobs.lever.co/instructure/438e3c44-d187-4265-a3d8-91628977186e) from instructure
 > We make better, more usable tools for teaching, learning and employee development (you know, stuff people will actually use). A better connected and more open edtech ecosystem
 
-- Something about "more usable tools" being important
-
 ![](images/InstructureSalesEngineer.png)  
 
-### Which of these is more usable?
+## Disclaimers
+
+Establish expectations of what we're showing
+
+1. Still a work in progress.
+2. Not the first people to do this type of work but timing has been good 
+3. ??
+
+## Which of these tools is more usable?
+
+The practical show and tell comparison of the tools set. Show our tools and the tools others are using. Give a practical taste of the benefit/difference.
 
 Show the three tasks (or a subset) and ask get people to vote on which is more usable
 
@@ -42,14 +60,30 @@ But perhaps at the end of this section (or the end of the talk) get them thinkin
 > the different roles as it determines different perspectives of usability W2C/QA less important to some but crucial for others... but if we appended Accessibility to either of them then all of a sudden it would jump in usability as it interacts with more roles (Deans telling others how great they are at solving a wicked problem), In that example without the unimportant assemblages can't have the important ones
 
 
-### How we did it?
+## How we did it?
+
+#### Buy vs build OR... Buy, build and assemble?
+
+It's not a question of "buy or build" or even "buy and build", but perhaps more exploring the distinction between "buy and build and assemble/garden/automate"
+
+Or perhaps it's identifying these four
+
+1. Buy - purchase various tools and systems 
+2. Build - build your own tools and systems 
+3. (re-)Assemble - engage in lightweight IT development to add more contextually appropriate combinations of technologies
+
+    Another thought, for me, designing and teaching a course (esp. in these days of blended/digital learning) includes a fair bit of assembly.  Assembly isn't just a technology thing.  It's an L&T thing, but one we all do at varying levels.
+4. Use all the technologies
+
+![](images/buyOrBuild.png)  
+
+### Gatherers, weavers, augmenters
 
 Talk about the gatherers, weavers, augmenters metaphor giving some idea of the architecture. Talk about leveraging 
 
-
 ### Principles 
 
-Talk about the three principles - abstracting from gatherers, weavers, augmenters - and generalise into implications for what we do and what others might do. Link to context
+Talk about the three (or two) principles - abstracting from gatherers, weavers, augmenters - and generalise into implications for what we do and what others might do. Link to context
 
 It's all about the context
 
@@ -65,24 +99,12 @@ Original principles
 2. meso-level automation, and 
 3. generativity and adaptive reuse.
 
-### Broader context
+
+
+### Implications/So what?
 
 - [In search of Spime script](https://blog.gardeviance.org/2012/02/in-search-of-spime-script.html)
 
     > Our world is heading in a fairly clear direction in terms of continual evolution of business activities such as commoditisation of discrete IT components, creation of higher order systems, disruption of past industries, development and exploitation of ecosystems, co-evolution of practice and ... well, I've covered this lots.
 ### Implications?
 
-#### Build or build?
-
-It's not a question of "buy or build" or even "buy and build", but perhaps more exploring the distinction between "buy and build and assemble/garden/automate"
-
-Or perhaps it's identifying these four
-
-1. Buy - purchase various tools and systems 
-2. Build - build your own tools and systems 
-3. (re-)Assemble - engage in lightweight IT development to add more contextually appropriate combinations of technologies
-
-    Another thought, for me, designing and teaching a course (esp. in these days of blended/digital learning) includes a fair bit of assembly.  Assembly isn't just a technology thing.  It's an L&T thing, but one we all do at varying levels.
-4. Use all the technologies
-
-![](images/buyOrBuild.png)  
