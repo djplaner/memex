@@ -45,6 +45,7 @@ Some related AI resources
 - [Tony Bates experimenting with ChatGPT](https://www.tonybates.ca/2023/01/02/playing-with-chatgpt-now-im-scared/) and giving some thoughts
 
     What's interesting is that the comments identify how Tony missed that the references (both websites and journal article citations) provided by ChatGPT were all fake.  As pointed out in the comments, an example of how they nature of a generative language module makes this particular outcome more likely.  It's aim is to make stuff that sounds probably. Not the right stuff.
+- [Using it write a learning module on Grammar - act as a learning designer](https://aneesha.medium.com/act-as-a-learning-designer-getting-chatgpt-to-generate-an-online-module-8a16a2813bd6) - use ChatGPT to develop a learning module in [Liascript](https://liascript.github.io/).
 
 Academic misconduct
 - [Thread on teacher detecting "academic misconduct" use of ChatGPT](https://twitter.com/Scenario_2020/status/1608359406730907649)
