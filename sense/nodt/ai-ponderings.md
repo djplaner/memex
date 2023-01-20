@@ -37,6 +37,7 @@ Affordances is a useful concept because it is relational. Affordances arise from
 
 Some related AI resources
 
+- [How ai can be used meaningfully by teachers and students in 2023](https://educational-innovation.sydney.edu.au/teaching@sydney/how-ai-can-be-used-meaningfully-by-teachers-and-students-in-2023/) - USyd - good resource
 - [New modes of learning enabled by AI chatbots: Three methods and assignments](https://t.co/cwrNvUjTAd)
 - [Update your course syllabus for chatGPT](https://medium.com/@rwatkins_7167/updating-your-course-syllabus-for-chatgpt-965f4b57b003)
 - [Automated marking](https://twitter.com/DanFitzTweets/status/1609675061211930625)
