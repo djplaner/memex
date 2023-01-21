@@ -11,6 +11,7 @@ Expanded in some blog posts (e.g. (What is the nature of digital technology)[htt
 - [[overcoming-algorithm-aversion-(by-making-it-protean)]]
 - [[three-obstacles-to-getting-started-with-programming]]
 - [[ai-ponderings]]
+- [[drons-technology]]
 
 ## Information Systems Literature
 
@@ -24,6 +25,7 @@ Expanded in some blog posts (e.g. (What is the nature of digital technology)[htt
 [moldable-first]: nodt/moldable-first "Moldable first"
 [overcoming-algorithm-aversion-(by-making-it-protean)]: nodt/overcoming-algorithm-aversion-(by-making-it-protean) "Overcoming algorithm aversion (by making it protean)"
 [three-obstacles-to-getting-started-with-programming]: nodt/three-obstacles-to-getting-started-with-programming "Three obstacles to getting started with programming"
+[ai-ponderings]: nodt/ai-ponderings "Ponderings on AI"
 [digital-revolution]: nodt/digital-revolution "Digital Revolution"
 [heavy-and-light-weight]: nodt/heavy-and-light-weight "Heavy Weight and Light Weight Information Technology"
 [generativity]: nodt/generativity "Generativity"
