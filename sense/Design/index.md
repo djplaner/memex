@@ -15,6 +15,7 @@ Bubble holding misc. thoughts about design.
 
 - [[canvas-workarounds]]
 - [[canvas-resources]]
+- [[canvas-rubrics]]
 - [[canvas-models]]
 - [[canvas-api]]
 - [[growing-with-canvas]]
@@ -85,7 +86,7 @@ Bubble holding misc. thoughts about design.
 [guiyang-china-generative-building-blocks]: ../../images/guiyang-china-generative-building-blocks "guiyang-china-generative-building-blocks"
 [three-horizons-model]: three-horizons-model "Three Horizons Model"
 [types-of-content-interaction]: types-of-content-interaction "Taxonomy of student-to-content interactions strategies"
-[cognitive-drift]: ../../cognitive-drift "cognitive-drift"
+[cognitive-drift]: ../../cognitive-drift "Cognitive Drift"
 [project-to-product]: ../../project-to-product "Project to Product"
 [challenge-of-teachers-design-practice]: challenge-of-teachers-design-practice "Challenge of Teachers Design Practice"
 [understanding-university-teachers-design-work]: understanding-university-teachers-design-work "Understanding University Teachers Design Work"
