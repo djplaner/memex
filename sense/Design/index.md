@@ -28,6 +28,7 @@ Bubble holding misc. thoughts about design.
 - [[conservation-of-complexity]]
 - [[goodyear-shaping-spaces]]
 - [[iron-triangle]]
+  - [[consistency-quality]] - rather than consistency, maybe it needs to be good?
 
 
 ## Design systems
@@ -72,6 +73,7 @@ Bubble holding misc. thoughts about design.
 [goodyear-tasks-activities-and-student-learning]: goodyear-tasks-activities-and-student-learning "Tasks, activities and student learning"
 [canvas-workarounds]: canvas/canvas-workarounds "Canvas work arounds"
 [canvas-resources]: canvas/canvas-resources "Canvas resources"
+[canvas-rubrics]: canvas/canvas-rubrics "Canvas Rubrics"
 [canvas-models]: canvas/canvas-models "Canvas models"
 [canvas-api]: canvas/canvas-api "canvas-api"
 [growing-with-canvas]: canvas/growing-with-canvas "Growing with Canvas"

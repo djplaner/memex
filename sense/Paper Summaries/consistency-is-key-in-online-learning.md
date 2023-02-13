@@ -58,7 +58,7 @@ Three contributions (questionable)
 
 1. suggest that online-course templates may be drivers of online learning communities with the potential to reduce transactional distance
 2. notes that online-course templates may serve as online tutorials for first-time students and help students successfully navigate (a need identified in Naylor et al, 2016)
-3. online-course templates have the ablity to contribut to lower online student drop-out rates
+3. online-course templates have the ability to contribute to lower online student drop-out rates
 
 ## Practical Recommendations
 
