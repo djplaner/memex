@@ -1,4 +1,4 @@
-# Consistency is key in online learning: Evaluatin student and instructor perceptions
+# Consistency is key in online learning: Evaluating student and instructor perceptions
 
 Scutelnicu, G., Tekula, R., Gordon, B., & Knepper, H. J. (2019). Consistency is key in online learning: Evaluating student and instructor perceptions of a collaborative online-course template. *Teaching Public Administration*, *37*(3), 274--292\. <https://doi.org/10.1177/0144739419852759>
 

@@ -29,6 +29,9 @@ Bubble holding misc. thoughts about design.
 - [[goodyear-shaping-spaces]]
 - [[iron-triangle]]
   - [[consistency-quality]] - rather than consistency, maybe it needs to be good?
+  - [[scale]]
+
+
 
 
 ## Design systems
@@ -82,6 +85,7 @@ Bubble holding misc. thoughts about design.
 [conservation-of-complexity]: conservation-of-complexity "The Law of Conservation of Complexity"
 [goodyear-shaping-spaces]: goodyear-shaping-spaces "Shaping Spaces - Peter Goodyear ALTC 2017 Keynote"
 [iron-triangle]: iron-triangle "Iron Triangle"
+[consistency-quality]: consistency-quality "Consistency vs quality?"
 [atomic-design]: atomic-design "Atomic Design"
 [design-systems]: design-systems "Design Systems"
 [joyce-learning-design-systems]: joyce-learning-design-systems "Joyce Learning Design Systems"
