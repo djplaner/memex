@@ -51,17 +51,7 @@ Regardless of the level of compulsion involved, the application of consistency a
 
     An institution introducing a consistent navigation structure for course sites, including a pre-defined menu item for _Assessment_ to a single page design to include scaffolds to enable the provision of effective assessment information. A scaffold unable to deal with already more detailed and effective approaches already used over years in some courses. In seeking to provide a low floor (easy to get started) the institution had created a low ceiling (making more advanced approaches difficulty, if not impossible) without even considering the value in wide walls (providing multiple pathways from floor to ceiling) (see Resnick & Silverman, 2005; [Resnick, 2020](https://mres.medium.com/designing-for-wide-walls-323bdb4e7277)).
 
-
-
-
-
-## On usable tools and supporting course design
-
-- Brook's usable tools 
-- Goodyear's short arc design - maybe this one goes later
-- Perhaps more of a focus on the need for help with design
-
-## On consistency
+_Maybe bring in some of the other stuff from literature??_
 
 _Talk about the need_ Make their argument
 
@@ -72,9 +62,7 @@ Original guy - https://twitter.com/Karch10k - look for twitter conversation abou
 
 _Mention the need to sell it_ and other perceived issues
 
-Karch10k's need to sell it and get people to adopt - perhaps it's not seen as useful or productive?
-
-
+## A Typology of Scale
 
 There is a lack of conceptual clarity around scale (Morel et al, 2019). Scale does not mean just consistency. The following table summarises Morel et al's (2019) scale typology. 
 
