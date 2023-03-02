@@ -6,6 +6,7 @@ Expanded in some blog posts (e.g. (What is the nature of digital technology)[htt
 
 ## Path
 
+- [[technology]] - definitions
 - [[digital-technologies-and-impact-of-badabsent-schema]]
 - [[moldable-first]]
 - [[overcoming-algorithm-aversion-(by-making-it-protean)]]
@@ -26,6 +27,7 @@ Expanded in some blog posts (e.g. (What is the nature of digital technology)[htt
 [overcoming-algorithm-aversion-(by-making-it-protean)]: nodt/overcoming-algorithm-aversion-(by-making-it-protean) "Overcoming algorithm aversion (by making it protean)"
 [three-obstacles-to-getting-started-with-programming]: nodt/three-obstacles-to-getting-started-with-programming "Three obstacles to getting started with programming"
 [ai-ponderings]: nodt/ai-ponderings "Ponderings on AI"
+[drons-technology]: nodt/drons-technology "Dron's take on technology"
 [digital-revolution]: nodt/digital-revolution "Digital Revolution"
 [heavy-and-light-weight]: nodt/heavy-and-light-weight "Heavy Weight and Light Weight Information Technology"
 [generativity]: nodt/generativity "Generativity"

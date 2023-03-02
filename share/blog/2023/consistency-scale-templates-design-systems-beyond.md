@@ -33,14 +33,30 @@ For me at least, the shift from classroom to online/digital learning and teachin
 
 The method for encouraging consistency at Apple in the early 1980s was the development of a generic application. A real program with all the typical features of a GUI (windows, menus, commands etc) but not specific functionality. A GUI developer developed their application by modifying this generic application. 
 
-## Templates - wrong focus, limited generativity
+## Templates - generative or sterile?
 
-Templates are the "generic application" of the contemporary digital L&T environment. Perämäki (2021) positions course templates as a framework for a course site to help the content creator/teacher. Hill et al (2012) focus on templates as partially structured and populated that aid teachers getting started with course site design. Later related work (Fresen et al, 2014)
+Templates are the "generic application" of the contemporary digital L&T environment. Perämäki (2021) positions course templates as a framework for a course site to help the content creator/teacher. In this context, templates benefits are suggested to include reducing teacher workload, improving design decisions, and improving the student experience (Konstantinidis, 2022). Hill et al (2012) focus on templates as partially structured and populated that aid teachers getting started with course site design. In later related work (Fresen et al, 2014) three important assumptions about templates were identified.
 
-Very much echoing the generic application approach of Apple in the 1980s.
+1. A template's role is to suggest, not prescribe.
+2. Templates can be mixed and matched, they're not mutually exclusive.
+3. Templates should be supported with appropriate help materials, including suggestions for implementation and modification.
+
+All of which very much echoes the generic application approach of Apple in the 1980s. The template provides the starting point for modification, not a carbon copy or cookie cutter. 
+
+However, not all use of templates in digital L&T take this approach, nor are perceived this way. Scutelnicu et al (2019) identify the potential for teachers to see templates as a prescription and a threat to academic freedom. [Neil Mosley asks whether it is unreasonable](https://www.neilmosley.com/blog/freedom-and-the-lms) to require teachers to forego some freedoms around how they use an LMS in order to reduce the unnecessary friction in the student experience. Does the ends justify the means? What if it leads to conservations like that reported by Macfarlan and Hook (2022)?
+
+    'Can I do X?' or 'How would I do Y?', until the ED said, 'You can do anything you like, as long as you use the template.' With a shrug the educator indicated their compliance. The ironic surrender was palpable.
+
+This approach can arise from multiple sources, including:
+
+- explicit design intent expressed in institutional policy - "you shalt use the template";
+- oversight - "we didn't think anyone would want/need to"; and, 
+- the limitations of the method/technology of implementation - "the tech doesn't allow you to change that (easily)".
 
 
-_Tesler on design for the user_ Which user, wrong focus arising from a limited understanding of scale
+
+
+
 
 ## Design systems - good example, not necessarily activity focused
 
@@ -56,6 +72,8 @@ _Maybe where the Fawns et al stuff comes in _
 ## References
 
 Fresen, J. W., Hill, R. K., & Geng, F. (2014). A collection of suggested electronic course templates for use in higher education. *Research in Learning Technology*, *22*. <https://doi.org/10.3402/rlt.v22.21669>
+
+Konstantinidis, A., & | |. (2022). Analysis of design elements in universal course shell templates of high-ranking universities. *Knowledge Management & E-Learning: An International Journal*, *14*(3).
 
 Hill, R. K., Fresen, J. W., & Geng, F. (2012). Derivation of electronic course templates for use in higher education. *Research in Learning Technology*, *20*. <https://doi.org/10.3402/rlt.v20i0.18665>
 

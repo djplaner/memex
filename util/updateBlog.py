@@ -31,6 +31,7 @@ from wordpress_xmlrpc.methods.posts import EditPost
 from wordpress_xmlrpc import WordPressPost
 
 
+
 def getFile(markDownFile):
     with open(markDownFile) as f:
         markDownData = f.read()
