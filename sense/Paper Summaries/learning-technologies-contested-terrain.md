@@ -1,0 +1,55 @@
+# Learning technology as contested terrain: Insights from teaching academics and learning designers in Australian higher education
+
+Tay, A. Z., Huijser, H., Dart, S., & Cathcart, A. (2022). Learning technology as contested terrain: Insights from teaching academics and learning designers in Australian higher education. *Australasian Journal of Educational Technology*, 56--70. <https://doi.org/10.14742/ajet.8179>
+
+## Notes/reactions to follow up
+
+### Learning technology literature - adoption and use  
+	
+A dichotomy - adoption and use.  What about assembly?
+> Learning technology research in higher education has been dominated by studies that examine the impact of adopting and using learning technologies (Müller & Wulf, 2020)
+
+### Strains around influence
+
+Overly focused on ascribing blame to individuals, rather than distributing it across
+> Previous studies have revealed strains between teaching academics and information technology professionals as they sought to gain greater influence within universities (Salmon & Angood, 2013).
+
+### Where is the agency? Who has it?
+
+A tendency to blame the individual, than perhaps recognise the complexity of the situation and the role that may play in "agency"
+> The discourse of responsibility (i.e., who is responsible for decision making, and who has agency) in relation to learning technology was constructed differently by the two stakeholders.
+
+### Productive and easy
+
+The following links to the 
+> These results were consistent with previous studies that have revealed performance expectancy and effort expectancy as significant predictors of learning technology use (Hu et al., 2020).
+
+### Findings
+
+> Thus, an important implication of this study is a call for universities to develop learning technologies policies that prioritise the collaborative aspect of the design process. Based on the analysis of the discourses in this study, practices can be adapted to reduce tensions and build consensus on technology affordances that move towards a collaborative relationship between teaching academics and learning designers.
+
+Perhaps extending that collaborative relationship to shaping the technologies that they use.
+
+## Five contested but interconnected discourses
+
+### Centralisation
+
+> Based on the findings, the discourse of centralisation can be categorised into centralisation of technologies and centralisation of support services associated with these technologies. 
+
+> However, from a learning and teaching perspective, the broader issue, as pointed out by some teaching academics, was how the notion of centralising resources could stifle innovation, which can in turn affect learning and teaching processes. This finding is consistent with that of Toh et al. (2016) who suggested that such centralisation practice engenders perceptions of policing, which could stifle innovation. This then raises questions about the legitimacy of centralising learning technologies and their support services.
+
+### Surveillance
+
+> The discourse of surveillance that some participants drew on, encompassed notions of repression and productivity. The practice of having other staff members placed within units with the ability to intervene anytime while observing, put teaching academics under a perpetual sense of discreet surveillance
+
+### Homogenisation
+
+> Yet, there was also a level of discontent among some teaching academics that transitioning to using learning technologies was eroding or at least limiting the possibility for diversity of learning experiences during classroom interactions. The homogenisation process seemed to be antithetical to the innovation agenda pushed by many universities.
+
+### Responsibility
+
+> The responsibility to enact and use learning technologies seemed to be shifting constantly: from learning designers to teaching academics, and from both learning designers and teaching academics to students.
+
+### Efficiency
+
+> The discourse of efficiency emerged from the emphasis on the maximising of time due to a perceived increase in academic workloads.
