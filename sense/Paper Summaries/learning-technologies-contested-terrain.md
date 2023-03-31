@@ -7,14 +7,14 @@ Tay, A. Z., Huijser, H., Dart, S., & Cathcart, A. (2022). Learning technology as
 Doesn't define "technology" or "learning technology" beyond
 > The learning technology field focuses on the adoption and use of technology to support learning and teaching (Oliver, 2000)
 
+No theoretical statement/definition of [[technology]]
+
 But also, the focus in the paper and in the quotes from academics and learning designers tends to focus on a narrow definition of learning technology. i.e. as general pedagogical technologies (e.g. padlet), rather than technologies that may be more disciplinary specific. That might be both pedagogical technologies that are specific to a discipline, but also technologies used in a discipline. 
 
 Touching on the discourses of centralisation, homogenisation etc.
 
 
-
-No theoretical statement/definition of [[technology]]
-### Learning technology literature - adoption and use  
+### Learning technology literature - adoption and use, but not assembly
 	
 A dichotomy - adoption and use.  What about assembly?
 > Learning technology research in higher education has been dominated by studies that examine the impact of adopting and using learning technologies (Müller & Wulf, 2020)
