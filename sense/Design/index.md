@@ -7,10 +7,15 @@ Bubble holding misc. thoughts about design.
 
 - [[jisc-learning-design]]
 
+Curriculum design
+
+- [Enhance student wellbeing](http://unistudentwellbeing.edu.au/) - resources covering policies, curriculum, and learning design that promote student well being.  Based heavily on standard best practices but explicated in some detail.
+
 ### ABC Learning Design
 
 - [[abc-learning-design-explained]]
 - [[sharing-the-abc-approach]]
+
 
 ## Activity Centered Design
 
