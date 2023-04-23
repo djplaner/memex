@@ -5,6 +5,14 @@ Nascent space, perhaps predicting a late career change
 ## Disciplines
 
 - [[teaching-mathematics]]
+  - 9.2% fo students doing specialist maths in 2020 
+  - In Qld Year 12, only ~30% girls in physics and 37% in specialist maths, 55% in math methods
+  - why?
+    - math anxiety 
+      - Yr 8 girls 57% dislike, 44% of boys
+      - Yr 8 girls 10% really like, 17% of boys
+  - How?
+    - Cites one school focusing on fun activities - engage
 
 ##
 
