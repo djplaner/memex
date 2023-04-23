@@ -18,6 +18,7 @@ Snowden's approach to "design thinking" is
 In particular, with software don't automate early. Have people interact with the software and once stability emerges, automate it hen.
 
 > **design as the emergent property of the interaction of multiple objects around scaffolding over time with further automation and structure of stable patterns as they emerge**
+
 > **It's ecological design. It's not engineering design. You're designing an ecosystem which also means you're open to novel forms emerging which you couldn't have anticipated**
 
 
@@ -33,9 +34,11 @@ David Snowden
 - (Snowden, 2023) [Rethinking Design Thinking with Dave Snowden](https://www.youtube.com/watch?v=SkWQ-k22bZc&t=2585s)
 - (Snowden, 2019) [Thinking about design 'thinking'](https://thecynefin.co/thinking-about-design-thinking/)
 
-### Look for
+### Follow up
 
 - Charles Lindblom's "muddling through" (Lindblom, 1959), which PJ&B suggests is heuristic incremenatalism - they suggest we can do better
+- [TIMN in 20 minutes: social evolution - past, present, and future](https://www.youtube.com/ watch?v=UBulH9_04vc)
+
 
 ## Design Unbound
 
@@ -60,6 +63,36 @@ Echoes of epistemic fluency here
 > Making progress on complex problems that are not about things requires thinking and designing with an understanding that one cannot design for absolute outcomes.The future cannot be designed.The future emerges out of actions in the present as they are influenced and interpreted through actions of the past.One must design understanding principles of emergence. (Pendleton-Jullian & Brown, 2018, p. 81)
 
 > El Sistema and its component parts were things.But the real change occurred because they were mechanisms that created small-scale,simple interactions among the diverse individual parts that led to more complex behavioral changes to the social systems themselves. (Pendleton-Jullian & Brown, 2018, p. 82)
+
+### A new tool box
+
+Argues there are three ways to affect the evolution of a complex system
+
+1. Work on the boundary conditions that define the scope/constraints of the system - these define what is in the "system", how it's thought of?
+2. Create probes and see what happens. (mentions these can be seen as a micromodulator)
+3. Create modules that do work within the system and alter the system and evolution (or as a microprobe)
+
+Their toolbox proposes a set of 9 instruments (knowledge/skill/method-based) for designing for emergence
+
+And three metatools that work at the ecology ofhte proejct.
+
+Tools 
+
+1. Rapid Iteration in a Problem Solving Setting (Think Fast Chess) 
+2. The Expanded Brief (Jumping Fences) 
+3. Critique (Based In Language Not Science) 
+4. Orchestrating Ambiguity (Structured Ambiguity) 
+5. Skills Matter (Navigating White Water) 
+6. Understanding Emergence 
+7. World Building 
+8. Understanding Networks  
+9. Intervals of Possibility
+
+metatools
+
+1. Designing for Emergence
+2. System of Action 
+3. The Change Triangle 3.0
 
 ## Changing Interactions - Snowden
 
