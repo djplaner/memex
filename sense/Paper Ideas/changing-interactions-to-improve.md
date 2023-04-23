@@ -25,13 +25,43 @@ In particular, with software don't automate early. Have people interact with the
 
 Ann Pendleton-Jullian
 - [Design Unbound](https://www.desunbound.com/)
+
+	Pendleton-Jullian, A. M., & Brown, J. S. (2018). *Design Unbound: Designing for Emergence in a White Water World, Volume 1: Designing for Emergence*. MIT Press.
 - [Pragmatic Imagination](http://www.pragmaticimagination.com/)
 
 David Snowden
 - (Snowden, 2023) [Rethinking Design Thinking with Dave Snowden](https://www.youtube.com/watch?v=SkWQ-k22bZc&t=2585s)
 - (Snowden, 2019) [Thinking about design 'thinking'](https://thecynefin.co/thinking-about-design-thinking/)
 
-## Changing Interactions
+### Look for
+
+- Charles Lindblom's "muddling through" (Lindblom, 1959), which PJ&B suggests is heuristic incremenatalism - they suggest we can do better
+
+## Design Unbound
+
+> It talks about design being unbound from thingness and disciplinary boundaries: unbound from thingness so that it can shift its focus from designing things, as content in the world,to shaping contexts; and unbound from disciplinary boundaries so that it can make progress on highly entangled problems. This is the setup for designing for emergence as the means for agency and impact (Pendleton-Jullian & Brown, 2018, pp 8-9)
+
+> By focusing on contexts not content,on entanglements of influences not simple causalities,on dynamic not static systems,and equipped with new methods and tools for wrestling with entanglements and designing for emergence, we believe this practice has the potential to affect the future in a bold way. (Pendleton-Jullian & Brown, 2018, p. 40)
+
+### Unbound from thingness
+
+> Many of the important problems have to do with systems and models that are not physical,or they are wicked,meaning that they do not lend themselves to solutions at all: education,overpopulation, water shortages,climate change,health,geopolitical conflicts. To work in and on these problems requires more than fiddling with things in contexts.It requires that we work on the contexts themselves (Pendleton-Jullian & Brown, 2018, p. 79)
+
+> That is not to say that one does not design things...But it is the design of things in relationship to each other,and in relationship to their contexts—the social,mental, and material ecologies to which they belong—that gives the object a different kind of impact and gives design a different kind of agency. (Pendleton-Jullian & Brow, 2018, pp. 79-80)
+
+### Unbound from disciplinary boundaries 
+
+Echoes of epistemic fluency here 
+
+> Disciplinary perspectives allow us to unpack the complexity for different purposes.But ecosystems are not definable by discrete functionality,so designing new contexts that are integrated, rich,and coherent means that we need to work vigorously across and above disciplinary boundaries. (Pendleton-Jullian & Brown, 2018, p 81)
+
+### Designing for emergence
+
+> Making progress on complex problems that are not about things requires thinking and designing with an understanding that one cannot design for absolute outcomes.The future cannot be designed.The future emerges out of actions in the present as they are influenced and interpreted through actions of the past.One must design understanding principles of emergence. (Pendleton-Jullian & Brown, 2018, p. 81)
+
+> El Sistema and its component parts were things.But the real change occurred because they were mechanisms that created small-scale,simple interactions among the diverse individual parts that led to more complex behavioral changes to the social systems themselves. (Pendleton-Jullian & Brown, 2018, p. 82)
+
+## Changing Interactions - Snowden
 
 (Snowden, 2023)
 > I'm changing the way that people interact so that they see things differently are not actually telling anything about what sort of behavior I want and just changing the way that people act and this is a key thing on complexity theory of change we never talk about desired behaviors we talk about changing interactions so that the behaviors will emerge which by the way I think is more ethical
