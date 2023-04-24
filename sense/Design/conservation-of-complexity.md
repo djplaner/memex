@@ -28,4 +28,4 @@ The phrase **complexity has to live somewhere** is a good one
 
 ## Related
 
-- [Design](index.md)
+- [Design](design.md)

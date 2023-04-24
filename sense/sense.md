@@ -13,7 +13,7 @@ And unallocated notes in [[loose]]
 - [[casa]]
 - [[conferences]]
 - [[concepts]] - go live
-- [design](Design/index.md)
+- [design](Design/design.md)
 - [[digital-literacy]]
 - [[herding-cats]]
 - [[know-thy-student]]

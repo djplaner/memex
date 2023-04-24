@@ -93,5 +93,5 @@ Good assessment and feedback practices should:
 
 ## See also
 
-- [Design](index.md)
+- [Design](design.md)
 

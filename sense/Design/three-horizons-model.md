@@ -16,4 +16,4 @@ Three horizons
 
 ## Other bubbles
 
-- [Design](index.md)
+- [Design](design.md)
