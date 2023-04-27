@@ -4,6 +4,13 @@ Nascent space, perhaps predicting a late career change
 
 Structure inspired by [[goodyear-patterns-design-practice]] description of the educational design problem space
 
+## Todo
+
+Take a look at
+
+Loewenberg Ball, D., & Forzani, F. M. (2009). The Work of Teaching and the Challenge for Teacher Education. *Journal of Teacher Education*, *60*(5), 497--511. <https://doi.org/10.1177/0022487109348479>
+
+
 ## Philosophy (Declarative)
 
 ## High level pedagogy (Conceptual)

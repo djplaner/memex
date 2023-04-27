@@ -45,6 +45,7 @@
 [postmodern-systems-dialog]: Distribution/postmodern-systems-dialog "Postmodern systems: Intersubjectivity through dialog"
 [entangled-pedagogy]: Distribution/entangled-pedagogy "Entangled Pedagogy"
 [lived-complexity]: Distribution/lived-complexity "lived-complexity"
+[emergence]: Distribution/emergence "Emergence"
 [blackboard-tweaks]: Distribution/blackboard-tweaks "Blackboard tweaks"
 [ngdle---next-generation-digital-learning-environment]: Distribution/ngdle---next-generation-digital-learning-environment "NGDLE - Next Generation Digital Learning Environment"
 [third-space]: Distribution/third-space "Third space"

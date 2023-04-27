@@ -10,18 +10,6 @@ Responds to "growing demand" for effective & efficient uses of digital technolog
 |:--:|
 | *Conceptualising the problem space of educational design (Goodyear, 2005, p. 85)* |
 
-The question is, does this approach work?
-
-There was a lot of design patterns work in the mid-noughties. Anecdotally, I've not seen anything like this in action over recent years. It doesn't appear to have entered the mainstream.
-
-Also in 2005, McAndrew, Goodyear and Dalziel (2005) compare design patterns with two other approaches to describing learning tasks/activities. As part of this comparison they identify that what is missing from design patterns is the expertise to implement the design pattern ("to get the pattern into the LMS"). This appears to be a space where our [[gatherers-weavers-augmenters]] and [[casa]] work might help?
-
-Goodyear (2005) mentions the use of patterns by the object-oriented programming (OOPs) crowd as an example of another discipline adopting Alexander's architectural design patterns work. While not universal, design patterns remain fairly widely used by the OOPs community. Much more so than in higher education learning and teaching. Why?
-
-| | OOP | Higher Ed L&T |
-|:--|:--|:--|
-| Design, develop, maintain | Software applications | L&T environments & activities |
-| Practitioner | Primarily OO programmers | Primarily teaching staff |
 
 
 

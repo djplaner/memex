@@ -30,6 +30,7 @@ Expanded in some blog posts (e.g. (What is the nature of digital technology)[htt
 [three-obstacles-to-getting-started-with-programming]: nodt/three-obstacles-to-getting-started-with-programming "Three obstacles to getting started with programming"
 [ai-ponderings]: nodt/ai-ponderings "Ponderings on AI"
 [drons-technology]: nodt/drons-technology "Dron's take on technology"
+[protean]: concepts/protean "Protean"
 [digital-revolution]: nodt/digital-revolution "Digital Revolution"
 [heavy-and-light-weight]: nodt/heavy-and-light-weight "Heavy Weight and Light Weight Information Technology"
 [generativity]: nodt/generativity "Generativity"
