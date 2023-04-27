@@ -75,6 +75,7 @@ Random thoughts
 | *Adapting, the adaptation to include gather, weave & augment* |
 
 Link this to
+- and also the idea of the typology of scale idea
 - Ahn et al (2019) - design in context
 - Ellis & Goodyear (2019) - "research practice partnership" stuff
 
