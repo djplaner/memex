@@ -21,9 +21,55 @@
 
 See also: [[goodyear-patterns-design-practice]]
 
-Last week, Henry, Steven and I were at the THETA'2023 conference [sharing our experience](https://djon.es/blog/2023/02/09/gathers-weavers-and-augmenters-three-principles-for-dynamic-and-sustainable-delivery-of-quality-learning-and-teaching/) trying to maximise the cost efficiency, quality, and accessibility (scale and diversity) of an LMS migration and beyond. Amongst the many interesting presentation were a couple from [Jason Lodge](https://education.uq.edu.au/profile/2054/jason-lodge). Presentations that included mention of how he and colleagues were leveraging Goodyear (2005) to figure out how to better integrate what is known about learning into higher education practices.
+The first line of the abstract for [Goodyear (2005)](https://ajet.org.au/index.php/AJET/article/view/1344) is
+>  There is a growing demand for advice about effective, time efficient ways of using ICT to support student learning in higher education.
 
-Goodyear explicitly tries to respond to "growing demand for advice about effective, time efficient ways of using ICT to support student learning in higher education". Goodyear critiques much of existing practice about how it fails to meet the needs of teachers and fails to effectively necessary knowledge. In response, he offers a conceptualisation of education design **insert definition** and then offers design patterns as a way to improve educational design. 
+Almost 20 years later, with higher education trying to figure out student learning after the emergency pandemic response, that demand seems only more pressing. Certainly the impression from [the THETA'2023 conference](https://ajet.org.au/index.php/AJET/article/view/1344) a couple of weeks ago (amongst all the LLM discussions). [Jason Lodge](https://education.uq.edu.au/profile/2054/jason-lodge) and colleagues presented on work they are doing to build on the work of Goodyear (2005) to inform IT planning, procurement, and evaluation.  Also at THETA, Steven Booten, Henry Cook, and I  [shared our experience](https://djon.es/blog/2023/02/09/gathers-weavers-and-augmenters-three-principles-for-dynamic-and-sustainable-delivery-of-quality-learning-and-teaching/) implementing more effective and time efficient methods for supporting learning and teaching. Deriving principles from that work which can be used more broadly to use digital technologies to support learning and teaching.
+
+The following seeks to explore if and how our work fits with the work of others. 
+
+
+> The question of where does the following fit?
+> - Tim Klapdoor's ASCILITE work
+> - qutoe from ASCILITE by the UTS person 
+> - ABC learning design stuff
+
+## The educational design problem space, networked learning, and design patterns
+
+Goodyear's (2005) focus is on networked learning. Defined as learning in which digital technologies are used to promote learner-learner, learner-teacher, learning community-resources connections. It is not just putting materials online or distance learning. The central element is the connectedness, not the digital technologies. To be successful, networked learning required effective design. Educational design is defined and distinguished from educational development as follows.
+
+| Term | Definition |
+|--------------------|-------------------------|
+| educational design | "set of practices involved in constructing representations of how to support learning in particular cases" (Goodyear, 2015, p. 82) |
+| educational development | "the practices of turning these representations into support of learning (materials, task specifications, tools, etc)" (Goodyear, 2005, p. 82) |
+
+Expand this (some of the limitations may belong below)
+
+- more models of how to do something than there are accounts of actual design activity
+- current design practice tends to focus on aspects and the educational design problem, with few successful examples in networked learning.
+- failes to meet the needs of teachers and fails to effectively ??? necessary knowledge
+
+Goodyear critiques much of existing practice about how it fails to meet the needs of teachers and fails to effectively necessary knowledge. In response, he offers a conceptualisation of education design **insert definition** and then offers design patterns as a way to improve educational design. 
+
+	Goes into some details, which I won't do here
+
+| ![](../../../sense/Paper%20Summaries/images/goodyearProblemSpace.png) |
+|:--:|
+| *Conceptualising the problem space of educational design (Goodyear, 2005, p. 85)*  |
+
+_actual practice for teachers_
+
+> - is typically a process extending over a period from a few hours to a small number of days, and involves several iterations around a cycle of articulating design goals (What am I trying to achieve here?) and educational design commitments (What will I ask the students to do? How will I group them? What reading material will they need? etc). Within this process, it is common for the designer to make provisional commitments (How do I know what I think until I see what I’ve designed?) and to backtrack. It’s a fluid process, involving a conversation between the pedagogical beliefs, knowledge and intentions in the mind of the teacherdesigner and (provisional) design commitments. The design commitments are mostly made in the online space: draft instructions for the students, allocation of students to discussion groups or project teams, placing reading lists and links to e-journals in convenient locations, etc. For increasing numbers of teachers in higher education, this iterative design work takes place using a learning management system or virtual learning environment, such as WebCT or Blackboard.
+
+## Structural complexity
+
+Goodyear and Carvalho (2016)
+> So the challenge comes from numbers and a structural complexity that arises – in large part – from the freedom that people have to distribute their activity across a wide number of platforms and spaces
+
+Following on from that gather/weave comment, came across the following quote from ⁠[Goodyear & Carvahlo](http://www.networkedlearningconference.org.uk/abstracts/pdf/P16.pdf "http://www.networkedlearningconference.org.uk/abstracts/pdf/P16.pdf"), which is useful in our context.  In particular and from a somewhat technical perspective, this echoes the challenge of moving from the single LMS to the Griffith VLE (i.e. an ecosystem of tools). A shift from the ⁠[integrated approach to a best of breed approach](https://djon.es/blog/2009/08/31/product-models-lms-bob-and-alternatives/ "https://djon.es/blog/2009/08/31/product-models-lms-bob-and-alternatives/") which has literature echoing back to 2001 which identified one of the challenges of this shift - integration of applications is time consuming.   i.e. the structural complexity has increased.
+
+## End structural complexity
+
 
 The question is, does this approach work?
 
@@ -50,10 +96,6 @@ Goodyear (2005) mentions the use of patterns by the object-oriented programming 
 - If/how does our work fit/relate
 
 ## Goodyear (2005)
-
-| ![](../../../sense/Paper%20Summaries/images/goodyearProblemSpace.png) |
-|:--:|
-| *Conceptualising the problem space of educational design (Goodyear, 2005, p. 85)*  |
 
 ## Lodge (2023)
 
@@ -85,6 +127,7 @@ But still need to spread it to the teachers and the students
 
 Ahn, J., Campos, F., Hays, M., & Digiacomo, D. (2019). Designing in Context: Reaching Beyond Usability in Learning Analytics Dashboard Design. *Journal of Learning Analytics*, *6*(2), 70-85-70--85. <https://doi.org/10.18608/jla.2019.62.5>
 
+Goodyear, P., & Carvalho, L. (2016). Activity centred analysis and design in the evolution of learning networks. *10th International Conference on Networked Learning*. <http://www.networkedlearningconference.org.uk/abstracts/pdf/P16.pdf>
 
 
 [//begin]: # "Autogenerated link references for markdown compatibility"
