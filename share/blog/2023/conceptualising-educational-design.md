@@ -90,6 +90,28 @@ Random thoughts
 | ![](images/lodgeConceptualisingEducationalDesign.png) |
 |:--:|
 
+## Other approaches to supporting design
+
+McAndrew, Goodyear, and Dalziel (2005) examine three different ways to support educational design with a particular focus on how effectively they may descriptions of learning designs that are useful for creation, re-use, and adaptation.
+
+
+_Looks like they get to the stage of suggesting LAMS offers ability to implement design patterns formally described by IMS Learning Design.
+
+Design patterns; IMS Learning Design spec, and LAMS' learning activities.
+
+IMS Learning Design, LAMS
+
+- [How learning design systems can help scale and accelerate learning design](https://www.youtube.com/watch?v=iBU76mlA0_w)
+- [A Learning Design System](https://timklapdor.wordpress.com/2022/10/27/a-learning-design-system/)
+
+## The missing entanglement of educational design and development?
+
+It's fairly typical for educational design and development (as defined in [Table 1](#table-1)) to be treated separately both in practice and research
+The work that Steven, Henry and I have been doing is dealing with the entanglement of educational design and development. 
+
+In fact, the definition of design patterns is that they are abstract descriptions of a design that can be implemented in many different, contextually appropriate ways..._lead to weakness_
+
+**refenrece paper on learning objects**
 
 ## Structural complexity
 
@@ -125,8 +147,6 @@ Goodyear (2005) mentions the use of patterns by the object-oriented programming 
 - Jason Lodge and colleagues were wondering how to weave "what we know about learning" into we do and was harking back to Goodyear (2005)
 - If/how does our work fit/relate
 
-## Goodyear (2005)
-
 
 ## Gather, weave, augment
 
@@ -141,6 +161,14 @@ Link this to
 - Ellis & Goodyear (2019) - "research practice partnership" stuff
 
 But still need to spread it to the teachers and the students
+
+## Other examples of gather, weave, augment
+
+- [Emble](https://www.rmit.edu.au/news/next-in-teaching/the-story-of-emble)
+
+	RMIT developed tool to help educators gather and weave visual design knowledge to augment pages in Canvas course sites.
+
+- various other Canvas community stuff
 
 ## References
 
