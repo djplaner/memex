@@ -39,7 +39,7 @@ TLDR?
 - From a linear education design and development perspective (see [Table 1](#table-1)), Goodyear's work focuses on educational design. Lodge et al appear to be coming from design into the early stages of development (procurement of digital tools). Our work is focused explicitly on contextual educational development - working with the available tools in a context.
 - Of course, educational design and development is entangled and not linear. We argue that we need to get better at recognising and responding to this reality.
 - While we demonstrate the need for our work, it is also evident in Goodyear's other writing, including:
-	- McAndrew, Goodyear & Dalziel (2005) identify a weakness of Goodyear's (2005) work in the complexity of implementing design patterns in the LMS (educational development). A task which appears to have only gotten more difficult.
+	- McAndrew, Goodyear & Dalziel (2006) identify a weakness of Goodyear's (2005) work in the complexity of implementing design patterns in the LMS (educational development). A task which appears to have only gotten more difficult.
 	- Goodyear (2009) suggests that gathering and weaving design knowledge into learning and teaching tools as a method for informing design practice.
 
 Leaving the big questions of if/how we do this better and what happens as a result? 
@@ -90,18 +90,34 @@ Random thoughts
 | ![](images/lodgeConceptualisingEducationalDesign.png) |
 |:--:|
 
-## Other approaches to supporting design
+## What went "wrong" with design patterns?
 
-McAndrew, Goodyear, and Dalziel (2005) examine three different ways to support educational design with a particular focus on how effectively they may descriptions of learning designs that are useful for creation, re-use, and adaptation. 
+There was a lot work in the mid-noughties on learning design patterns work in the mid-noughties (e.g. [the e-LEN project](http://www2.tisip.no/E-LEN/) and the [Pedagogical Patterns group](http://www.pedagogicalpatterns.org/)). Work inspired by both Alexander's originating work on design patterns in architecture and the adoption of that work by the object-oriented design & programming (OOP) community. As an occasional practitioner in both the OOP and the learning design communities, my observation is that design patterns have been more successfully integrated into the practice of the OOP community. 
+
+Anecdotally, I've not seen anything like this in action over recent years. It doesn't appear to have entered the mainstream.
 
 
-_Looks like they get to the stage of suggesting LAMS offers ability to implement design patterns formally described by IMS Learning Design.
+McAndrew, Goodyear, and Dalziel (2006) examine three different ways to support educational design with a particular focus on how effectively they may descriptions of learning designs that are useful for creation, re-use, and adaptation. Design patterns are compared with the IMS Learning Design specification and learning activities as used in the Learning Activity Management System (LAMS). The IMS work offers a formal specification for how to describe quite complex learning activities and the roles involved. A specification that can be then used to digitally use, share, and adapt learning activities. LAMS is (was?) a specific information systems that could be used for learning and teaching. Central to LAMS design was the assumption that learning is "people doing activities with resources". It supported design through the sequencing of learning different activities for use by students.
 
-Design patterns; IMS Learning Design spec, and LAMS' learning activities.
+_<a id="table-2"></a>Table 2. comparing issues in LAMS, IMS Learning Design, and Patterns (adapted from McAndrew et al, 2006, pp. 217--218)_
+| Issue/Question | LAMS | IMS Learning Design | Patterns |
+|----------------|------|----------------------|----------|
+| Features | | | |
+| Representation | Visual sequence flow & embedded text | XML & UML | Stylised sequence of expository text  |
+| How do you modify? | Rearrange visual flow and rework task text. | Rework XML/UML | Rework expository text | 
+| How do you aggregate? | Collect sequences within folders | Build bigger designs with sub units. | Create pattern language |
+| **What is missing?** | Pedagogic wizard | Abstract tool definitions and operational links. Pedagogic wizard. | **Learning Management System (LMS) and the expertise to get the pattern into the LMS** |
+| Users | | |
+|  Who can easily understand? | Academic Practitioner with a little technical knowledge | Technically aware expert | Academic Practitioner |
+| What is the minimal prior knowledge for use? | Some pedagogical knowledge, Some technical knowledge | Some pedagogic knowledge, high technical ability | Only pedagogically adept teachers |
+| **What does ideal use require?** | More pedagogic knowledge and technical understanding | More pedagogic knowledge and technical understanding | **Pedagogically adept teachers linked to moderate technical knowledge** |
+| Characteristics | | |
+| Is a creative jump necessary for implementation | No| No| Yes|
+| Minimal complexity in design | Small | Small | Great | 
+| Ease of adaptation mid-stream with students | Hard | Hard | Easy (though depends on supporting technology) |
+| Potential for student participation in creation of design | Limited – only possible prior to running the design. | Moderate | Extensive|
 
-IMS Learning Design, LAMS
-
-### Design systems
+### Design systems - another approach to sharing design
 
 Arising out of web development and user experience (UX) design systems are a way to describe visual and interactive design components in a way that is useful for creation, re-use, and adaptation (Churchill, 2019). Use of design systems intends to help design teams document, share, and communicate to make the design process more efficient and effective (MacDonald, 2019). Werle (2021) argues that a key turning point for design systems was an evolution from being libraries of guidelines followed during design practice into libraries of live artifacts that embody those guidelines but could also be used in development.
 
@@ -109,7 +125,7 @@ Given the increasing use of web-based systems for networked learning and increas
 
 The [library learning patterns](https://learning-patterns.com) from Tim's group don't follow the _Alexandrian_ format outlined in Goodyear (2015). Hence, don't explicitly provide advice covering the _pedagogical framework_ section in [Figure 1](#figure-1). One assumes because they have been initially designed to help learning designers - folk generally expected to have some expertise in this area - rather than teachers. However, that absence may still limit the sharing/communicative aspects of design patterns amongst the designers.
 
-[In my limited experience](https://djon.es/blog/2020/11/16/reflections-on-how-learning-design-systems-can-help-scale-and-accelerate-learning-design/#is-it-just-a-better-conceptualised-version-of-common-practice), I've also not seen any design system that implements fully Werle's (2021) key turning point for design systems. That is, include libraries of live artifacts that can be used in development. This may say more about the limits of my experience. It may be related to the initial work on design systems being focused on helping learning designers engage in educational design. Development is still coming?
+[In my limited experience](https://djon.es/blog/2020/11/16/reflections-on-how-learning-design-systems-can-help-scale-and-accelerate-learning-design/#is-it-just-a-better-conceptualised-version-of-common-practice), I've also not seen any design system that implements fully Werle's (2021) key turning point for design systems. That is, include libraries of live artifacts that can be used in development. At least [one example design system](https://storybook.futurelearn.com/?path=/story/welcome--page) provides components for this purpose but they demonstrate the origins of design systems by focusing on user interface design, rather than learning design. This may say more about the limits of my experience. It may be related to the initial work on design systems being focused on helping learning designers engage in educational design. Development is still coming?
 
 ## The missing entanglement of educational design and development?
 
@@ -132,9 +148,6 @@ Following on from that gather/weave comment, came across the following quote fro
 
 The question is, does this approach work?
 
-There was a lot of design patterns work in the mid-noughties. Anecdotally, I've not seen anything like this in action over recent years. It doesn't appear to have entered the mainstream.
-
-Also in 2005, McAndrew, Goodyear and Dalziel (2005) compare design patterns with two other approaches to describing learning tasks/activities. As part of this comparison they identify that what is missing from design patterns is the expertise to implement the design pattern ("to get the pattern into the LMS"). This appears to be a space where our [[gatherers-weavers-augmenters]] and [[casa]] work might help?
 
 Goodyear (2005) mentions the use of patterns by the object-oriented programming (OOPs) crowd as an example of another discipline adopting Alexander's architectural design patterns work. While not universal, design patterns remain fairly widely used by the OOPs community. Much more so than in higher education learning and teaching. Why?
 
@@ -188,7 +201,11 @@ Churchill, E. F. (2019). Scaling UX with design systems. *Interactions*, *26*(5)
 
 Goodyear, P., & Carvalho, L. (2016). Activity centred analysis and design in the evolution of learning networks. *10th International Conference on Networked Learning*. <http://www.networkedlearningconference.org.uk/abstracts/pdf/P16.pdf>
 
+Inventado, P. S., Scupelli, P., Heffernan, C., & Heffernan, N. (2017). Feedback Design Patterns for Math Online Learning Systems. *Proceedings of the 22nd European Conference on Pattern Languages of Programs*, 1--15. <https://doi.org/10.1145/3147704.3147738>
+
 MacDonald, D. (2019). Patterns in design systems. In D. MacDonald (Ed.), *Practical UI Patterns for Design Systems: Fast-Track Interaction Design for a Seamless User Experience* (pp. 143--192). Apress. [https://doi.org/10.1007/978-1-4842-4938-3\_4](https://doi.org/10.1007/978-1-4842-4938-3_4)
+
+McAndrew, P., Goodyear, P., & Dalziel, J. (2006). Patterns, designs and activities: Unifying descriptions of learning structures. *International Journal of Learning Technology*, *2*(2--3), 216--242. <https://doi.org/10.1504/IJLT.2006.010632>
 
 Naimi-Akbar, I., Weurlander, M., & Barman, L. (2023). Teaching-learning in virtual learning environments: A matter of forced compromises away from student-centredness? *Teaching in Higher Education*, *0*(0), 1--17. <https://doi.org/10.1080/13562517.2023.2201674>
 
@@ -196,6 +213,4 @@ Werle, D. R. (2021). *Design Systems: Definitions and Main Elelments* \[Masters,
 
 [//begin]: # "Autogenerated link references for markdown compatibility"
 [goodyear-patterns-design-practice]: <../../../sense/Paper Summaries/goodyear-patterns-design-practice> "Patterns, pattern languages and design practice"
-[gatherers-weavers-augmenters]: <../../../sense/Paper Ideas/gatherers-weavers-augmenters> "Gatherers, Weavers and Augmenters: Three principles for dynamic and sustainable delivery of quality learning and teaching"
-[casa]: ../../../sense/casa "Contextually Appropriate Scaffolding Assemblages (CASA)"
 [//end]: # "Autogenerated link references"
