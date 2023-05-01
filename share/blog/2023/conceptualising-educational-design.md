@@ -101,6 +101,11 @@ Design patterns; IMS Learning Design spec, and LAMS' learning activities.
 
 IMS Learning Design, LAMS
 
+### Design systems
+
+Arising out of web development and user experience (UX) design systems are a way to describe visual and interactive design components in a way that is useful for creation, re-use, and adaptation (Churchill, 2019).
+
+to another way to scale 
 - [How learning design systems can help scale and accelerate learning design](https://www.youtube.com/watch?v=iBU76mlA0_w)
 - [A Learning Design System](https://timklapdor.wordpress.com/2022/10/27/a-learning-design-system/)
 
@@ -173,6 +178,8 @@ But still need to spread it to the teachers and the students
 ## References
 
 Ahn, J., Campos, F., Hays, M., & Digiacomo, D. (2019). Designing in Context: Reaching Beyond Usability in Learning Analytics Dashboard Design. *Journal of Learning Analytics*, *6*(2), 70-85-70--85. <https://doi.org/10.18608/jla.2019.62.5>
+
+Churchill, E. F. (2019). Scaling UX with design systems. *Interactions*, *26*(5), 22--23. <https://doi.org/10.1145/3352681>
 
 Goodyear, P., & Carvalho, L. (2016). Activity centred analysis and design in the evolution of learning networks. *10th International Conference on Networked Learning*. <http://www.networkedlearningconference.org.uk/abstracts/pdf/P16.pdf>
 
