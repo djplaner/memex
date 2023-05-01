@@ -92,7 +92,7 @@ Random thoughts
 
 ## Other approaches to supporting design
 
-McAndrew, Goodyear, and Dalziel (2005) examine three different ways to support educational design with a particular focus on how effectively they may descriptions of learning designs that are useful for creation, re-use, and adaptation.
+McAndrew, Goodyear, and Dalziel (2005) examine three different ways to support educational design with a particular focus on how effectively they may descriptions of learning designs that are useful for creation, re-use, and adaptation. 
 
 
 _Looks like they get to the stage of suggesting LAMS offers ability to implement design patterns formally described by IMS Learning Design.
@@ -103,11 +103,13 @@ IMS Learning Design, LAMS
 
 ### Design systems
 
-Arising out of web development and user experience (UX) design systems are a way to describe visual and interactive design components in a way that is useful for creation, re-use, and adaptation (Churchill, 2019).
+Arising out of web development and user experience (UX) design systems are a way to describe visual and interactive design components in a way that is useful for creation, re-use, and adaptation (Churchill, 2019). Use of design systems intends to help design teams document, share, and communicate to make the design process more efficient and effective (MacDonald, 2019). Werle (2021) argues that a key turning point for design systems was an evolution from being libraries of guidelines followed during design practice into libraries of live artifacts that embody those guidelines but could also be used in development.
 
-to another way to scale 
-- [How learning design systems can help scale and accelerate learning design](https://www.youtube.com/watch?v=iBU76mlA0_w)
-- [A Learning Design System](https://timklapdor.wordpress.com/2022/10/27/a-learning-design-system/)
+Given the increasing use of web-based systems for networked learning and increased use of design systems to design web-based system it was perhaps only a matter of time before _learning design systems_ were developed. For example, Joyce Seitzinger gave a webinar titled [_How learning design systems can help scale and accelerate learning design_](https://www.youtube.com/watch?v=iBU76mlA0_w). Tim Klapdoor has shared descriptions of the work his team have been doing on [_A Learning Design System_](https://timklapdor.wordpress.com/2022/10/27/a-learning-design-system/) and later work on [_Design at scale_](https://timklapdor.wordpress.com/2022/12/14/design-at-scale/). Work that links design systems with a content management system that actively helps in designing lessons (learning experiences?) and in turn draws on [a library of learning patterns](https://learning-patterns.com/). But as Tim notes, work that has been focused on providing his team of learning designers tools to help them do their job effectively.
+
+The [library learning patterns](https://learning-patterns.com) from Tim's group don't follow the _Alexandrian_ format outlined in Goodyear (2015). Hence, don't explicitly provide advice covering the _pedagogical framework_ section in [Figure 1](#figure-1). One assumes because they have been initially designed to help learning designers - folk generally expected to have some expertise in this area - rather than teachers. However, that absence may still limit the sharing/communicative aspects of design patterns amongst the designers.
+
+[In my limited experience](https://djon.es/blog/2020/11/16/reflections-on-how-learning-design-systems-can-help-scale-and-accelerate-learning-design/#is-it-just-a-better-conceptualised-version-of-common-practice), I've also not seen any design system that implements fully Werle's (2021) key turning point for design systems. That is, include libraries of live artifacts that can be used in development. This may say more about the limits of my experience. It may be related to the initial work on design systems being focused on helping learning designers engage in educational design. Development is still coming?
 
 ## The missing entanglement of educational design and development?
 
@@ -169,6 +171,9 @@ But still need to spread it to the teachers and the students
 
 ## Other examples of gather, weave, augment
 
+- [Student to student advice](https://oudigitools.blogspot.com/2020/03/feedback-student-to-student-advice.html)
+
+	Describing how one teacher evolved how she gathered and wove student-to-student advice for her course over time. Largely achieved using tools outside the institutional LMS, but also visible through that LMS.
 - [Emble](https://www.rmit.edu.au/news/next-in-teaching/the-story-of-emble)
 
 	RMIT developed tool to help educators gather and weave visual design knowledge to augment pages in Canvas course sites.
@@ -183,7 +188,11 @@ Churchill, E. F. (2019). Scaling UX with design systems. *Interactions*, *26*(5)
 
 Goodyear, P., & Carvalho, L. (2016). Activity centred analysis and design in the evolution of learning networks. *10th International Conference on Networked Learning*. <http://www.networkedlearningconference.org.uk/abstracts/pdf/P16.pdf>
 
+MacDonald, D. (2019). Patterns in design systems. In D. MacDonald (Ed.), *Practical UI Patterns for Design Systems: Fast-Track Interaction Design for a Seamless User Experience* (pp. 143--192). Apress. [https://doi.org/10.1007/978-1-4842-4938-3\_4](https://doi.org/10.1007/978-1-4842-4938-3_4)
+
 Naimi-Akbar, I., Weurlander, M., & Barman, L. (2023). Teaching-learning in virtual learning environments: A matter of forced compromises away from student-centredness? *Teaching in Higher Education*, *0*(0), 1--17. <https://doi.org/10.1080/13562517.2023.2201674>
+
+Werle, D. R. (2021). *Design Systems: Definitions and Main Elelments* \[Masters, Tallinn University\]. <https://www.idmaster.eu/wp-content/uploads/2022/01/Daniel-Werle-thesis-Vdrw-2.pdf>
 
 [//begin]: # "Autogenerated link references for markdown compatibility"
 [goodyear-patterns-design-practice]: <../../../sense/Paper Summaries/goodyear-patterns-design-practice> "Patterns, pattern languages and design practice"
