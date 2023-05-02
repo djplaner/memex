@@ -25,7 +25,7 @@ See also: [[paper-summaries]]
 
 > If an institution has not assigned value to what it means by pedagogy, feedback, appropriate resources, etc., (a model of learning and teaching), and then seeks to evaluate quality teaching, the best that can be expected from such an effort is a determination of student satisfaction with whatever a faculty member believes to be good teaching practice. (Bain and Zundans-Fraser, 2017, p. 9)
 
-> The fundamental problem: Their work does not occur within a context of professionally controlled practice that would make possible the scalable influence that is frequently at the core of their mandate. Those who lead these centers are required to provide high-level advice and leadership although their roles rarely extend to creating the kind of context, the fundamental structural change required to realize the aspirations their organizations have for the centers they lead (Bain and Zundans-Fraser, 2017, p. 12)
+> The fundamental problem: Their work does not occur within a context of professionally controlled practice that would make possible the scalable influence that is frequently at the core of their mandate. **Those who lead these centers are required to provide high-level advice and leadership although their roles rarely extend to creating the kind of context, the fundamental structural change required to realize the aspirations their organizations have for the centers they lead (Bain and Zundans-Fraser, 2017, p. 12) **
 
 > While there may be an intent to make universities better at learning and teaching as a whole, centers for learning and teaching are designed for something else: (Bain and Zundans-Fraser, 2017, p. 12)
 
