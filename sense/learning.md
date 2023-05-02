@@ -18,6 +18,7 @@
 
 - [[know-what-and-when]]
 - [[effective-learning-strategies]]
+- [[how-learning-works]]
 
 ### Programming and CS
 
@@ -48,8 +49,10 @@
 [pedagogical-paradigms]: Learning/pedagogical-paradigms "Pedagogical Paradigms"
 [guided-didactic-conversation]: Learning/guided-didactic-conversation "Guided Didactic Conversation aka teaching-learning conversations"
 [head-first-design]: Learning/head-first-design "Head First Design"
+[chunking-lectures]: chunking-lectures "chunking-lectures"
 [know-what-and-when]: Learning/know-what-and-when "Help the learner know what, when and why to do something"
 [effective-learning-strategies]: Learning/effective-learning-strategies "Effective learning strategies"
+[how-learning-works]: Learning/how-learning-works "How learning works"
 [carpentaries-training]: Learning/carpentaries-training "Carpentaries training course"
 [overcoming-one-size-fits-all-learning]: Learning/overcoming-one-size-fits-all-learning "Overcoming one size fits all learning"
 [requirements-for-meaning]: Learning/requirements-for-meaning "Requirements for meaning"
