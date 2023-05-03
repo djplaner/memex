@@ -25,6 +25,7 @@ See also: [[AI]]
 
 [Kristen DiCerbo](https://www.kristendicerbo.com/about-me) (Khan Academy) & Hassan Khosrav
 
+
 ## Abstract
 
 The rush is on to build new applications of AI in education. However, before we rush blindly into the future, looking at the legacy of research in the field will help us build applications with a better chance of improving outcomes. This webinar will look at how decades of research help inform efforts to integrate the latest large language models into Khan Academy. You will get a behind the scenes look at how AI features were built into a platform used by millions of learners a year, and hear what is being learned from the rollout of these features to a small group of schools and districts.
