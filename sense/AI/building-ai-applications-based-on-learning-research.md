@@ -29,9 +29,29 @@ See also: [[AI]]
 
 The rush is on to build new applications of AI in education. However, before we rush blindly into the future, looking at the legacy of research in the field will help us build applications with a better chance of improving outcomes. This webinar will look at how decades of research help inform efforts to integrate the latest large language models into Khan Academy. You will get a behind the scenes look at how AI features were built into a platform used by millions of learners a year, and hear what is being learned from the rollout of these features to a small group of schools and districts.
 
-## Reflection 
+### Related
+
+- [World-class AI for education](https://www.khanacademy.org/khan-labs) - Khan Academy's AI web page
+- [The amazing AI super tutor for students and teachers](https://www.ted.com/talks/sal_khan_the_amazing_ai_super_tutor_for_students_and_teachers/c) - Sal Khan TED talk on this work.
+- [What is Khanmigo?](https://www.techlearning.com/news/what-is-khanmigo-the-gpt-4-learning-tool-explained-by-sal-khan) - brief article summarising some of this.
+- [Khanmigo is great but NOT ready to tutor student](https://www.linkedin.com/pulse/khanmigo-great-ready-tutor-student-richard-tong/) - LinkedIn post from the chair of IEEE's AI standards committee reporting on his experience using Khanmigo.
+
+## Summary and Reflection 
+
+For just over 5 months Khan Academy have been working with OpenAI to integrate applications of large language models (LLMs) into Khan Academy's platform. Originally prompted by a [challenge from Bill Gates](https://www.gatesnotes.com/The-Age-of-AI-Has-Begun) to Open AI for its LLMs to pass AP Biology. A challenge which led OpenAI reaching out to Khan Academy. Khan Academy have leveraged this to integrate 
+
+For me, Khan Academy's use of OpenAI's LLMs is a good example of gathering and weaving. In particular, strong example of how LLMs allow that gathering and weaving to move up a few layers of abstraction. For example, by integrating pedagogical knowledge into prompts (e.g. good tutor practices) so the LLM does this. In ways that aren't normally accessible either because the tutor isn't available or doesn't have the knowledge.
+
+For example, the "Tutor me" mode in Khanmigo is [reportedly](https://www.linkedin.com/pulse/khanmigo-great-ready-tutor-student-richard-tong/) "very good at guiding the tutoring process by providing tailored scaffolding support, asking probing questions, prompting critical thinking". Arguably, because the work Khan Academy does on prompt engineering. In particular, prompting the LLM to act as a tutor and draw upon published research on tutoring practices (Graesser et al, 1995). Achieved by prompting the LLM with the academic reference.
+
+Key to the performance of the LLM is the bespoke prompt engineering that is done by Khan Academy. A [prompt template](#prompt-template) was mentioned in the talk. For me a good example of how the gathering/weaving metaphor continues in the brave new AI world. Potentially, getting much easier to do more specific pedagogical scaffolding.
+
+
+### Tasks 
 
 - ChatGPT as a source for answers to "why should I care about this?"
+
+	One example of something to help students/teachers in a school context - mathematics.
 - Khan Academy if weaving more context into the use of ChatGPT
 - Lesson builder to create lesson hooks etc and with prompt engineering added in
 - Read the Graesser paper the type of research is being automated/fed into LLMs
@@ -93,7 +113,7 @@ Khanmigo - also explicitly says it gets things wrong and explains why. Rationali
 
 ### How to write good prompts 
 
-They've developed a prompt template 
+They've developed a <a id="prompt-template"></a>prompt template 
 
 - Tell it role to play: socratic tutor, etc.
 - Tell it who it's talking to: e.g. student 
@@ -153,6 +173,9 @@ Educators
 
 
 
+## References
+
+Graesser, A. C., Person, N. K., & Magliano, J. P. (1995). Collaborative dialogue patterns in naturalistic one-to-one tutoring. *Applied Cognitive Psychology*, *9*(6), 495--522. <https://doi.org/10.1002/acp.2350090604>
 
 
 
