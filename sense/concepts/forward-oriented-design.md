@@ -2,6 +2,13 @@
 
 Idea first suggested in [Dimitriadis & Goodyear (2013)](https://petergoodyear.files.wordpress.com/2017/07/dimitriadis-goodyear-2013-forward-oriented-design.pdf) and [Goodyear and Dimitriadis (2013)](https://petergoodyear.files.wordpress.com/2017/07/goodyear-dimitriadis-2013-in-medias-res.pdf)
 
+Encourages thinking of designing learning of including active consideration of
+
+- design for learning
+- design for configuration 
+- design for orchestration 
+- design for reflection
+
 > A related issue, which we examine more closely in our companion paper (Dimitriadis and Goodyear, 2013), is that design thinking and design practice would benefit from being even more forward-looking. By this, we mean that design work should not just focus on what students are expected to do (in their learning activities), it should also include design for configuration (what students and other agents do, to prepare, customise or otherwise modify that which has been designed, to suit specific needs), design for orchestration (providing support for the teacher's work at learntime), design for reflection (ensuring that actionable data is gathered at learntime, to inform system evaluation) and design for redesign (consciously making design choices at time t, to make modifications at time t+1 easier). (Goodyear & Dimitriadis, 2013)
 
 ## See also

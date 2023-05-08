@@ -14,7 +14,7 @@ And unallocated notes in [[loose]]
 - [[casa]]
 - [[conferences]]
 - [[concepts]] - go live
-- [design](Design/design.md)
+- [[design]]
 - [[digital-literacy]]
 - [[herding-cats]]
 - [[know-thy-student]]
@@ -43,6 +43,7 @@ And unallocated notes in [[loose]]
 [casa]: casa "Contextually Appropriate Scaffolding Assemblages (CASA)"
 [conferences]: Conferences/conferences "Conferences"
 [concepts]: concepts/concepts "Concepts"
+[design]: Design/design "Design"
 [digital-literacy]: digital-literacy "Digital Literacy"
 [herding-cats]: herding-cats "Herding Cats"
 [know-thy-student]: know-thy-student "Know thy student"
