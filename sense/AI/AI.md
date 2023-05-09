@@ -27,9 +27,9 @@
 
 ## Explorations
 
-- [[first-llm-api-experiments]]
+- [[first-llm-api-experiments]] - Figure out how and if basic APIs for LLMs can be used to "template" prompt engineering
 
-	Figure out how and if basic APIs for LLMs can be used to "template" prompt engineering
+- [[customising-llms]] - if and how do you customise a LLM using your own documents.
 
 ## Questions and resources for further exploration
 

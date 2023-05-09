@@ -31,7 +31,11 @@ ABC Learning Design is a rapid design process (collaborative and face-to-face or
 
 ABC Learning Design uses Laurillard's learning activity types as an abstract representation with one of the common extensions being to suggest specific implementation types - these could be usefully captured/leveraged using ACAD
 
-Leaving aside the challenge of adopting a more [[forward-oriented-design]] approach 
+limitations
+
+- Neither explicitly deal with the challenge of adopting a more [[forward-oriented-design]] approach.
+- Nor do they provide explicit support for sharing/abstracting designs across a program - both do support sharing of artefacts, but not necessarily doing 
+
 
 
 ## References
