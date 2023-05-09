@@ -19,6 +19,17 @@
 
 # Customising LLMs
 
+Appears there are two broad approaches: fine-tuning and embedding. With embedding seemingly the most accessible. LangChain is a framework designed to help implement embeddings using different LLMs, including (apparently) local LLMs.
+
+To do 
+
+- [LangChain AI Handbook](https://www.pinecone.io/learn/langchain-intro/)
+
+## Examples
+
+- [Getting started with LangChain](https://medium.com/@avra42/getting-started-with-langchain-a-powerful-tool-for-working-with-large-language-models-286419ba0842)
+
+
 ## [LLM Embedding and Fine Tuning](https://www.promptengineering.org/master-prompt-engineering-llm-embedding-and-fine-tuning/)
 
 ![](images/llm-decision-tree.png)
