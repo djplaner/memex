@@ -41,6 +41,7 @@ Curriculum design
 ## Conceptual
 
 - [[conservation-of-complexity]]
+- [[gather-weave-augment]]
 - [[goodyear-shaping-spaces]]
 - [[iron-triangle]]
   - [[consistency-quality]] - rather than consistency, maybe it needs to be good?
@@ -103,11 +104,11 @@ Curriculum design
 [training-learning-paths]: canvas/training-learning-paths "Creating learning paths"
 [design-plus-training]: canvas/design-plus-training "Design Plus Training"
 [conservation-of-complexity]: conservation-of-complexity "The Law of Conservation of Complexity"
+[gather-weave-augment]: gather-weave-augment "Gather, Weave, and Augment"
 [goodyear-shaping-spaces]: goodyear-shaping-spaces "Shaping Spaces - Peter Goodyear ALTC 2017 Keynote"
 [iron-triangle]: iron-triangle "Iron Triangle"
 [consistency-quality]: consistency-quality "Consistency vs quality?"
 [scale]: scale "Scale and learning, teaching & education"
-[sense/orchestration]: ../orchestration "Orchestration"
 [atomic-design]: atomic-design "Atomic Design"
 [design-systems]: design-systems "Design Systems"
 [joyce-learning-design-systems]: joyce-learning-design-systems "Joyce Learning Design Systems"
