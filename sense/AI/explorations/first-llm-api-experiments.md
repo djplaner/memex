@@ -21,7 +21,7 @@
 
 See also: [[AI]]
 
-Early explorations into using LLMs via APIs. Hopefully informing an idea to create LLM fuelled CASA by templating forms of prompt engineering. Inspired by [[prompt-engineering-for-educators]] and approaches used by Khan Academy (see [[building-ai-applications-based-on-learning-research]])
+Early explorations into using LLMs via APIs. Hopefully informing an idea to create LLM fuelled [[casa]] by templating forms of prompt engineering. Inspired by [[prompt-engineering-for-educators]] and approaches used by Khan Academy (see [[building-ai-applications-based-on-learning-research]])
 
 A key experiment would be to combine insights from the science of learning with LLMs to provide important features that current higher ed can't. For example, [[learning-science-at-khan-academy]] suggests feedback (e.g. [[research-feedback]])
 
