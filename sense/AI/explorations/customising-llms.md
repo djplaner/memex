@@ -21,15 +21,35 @@
 
 See also: [[AI]]
 
-Appears there are two broad approaches: fine-tuning and embedding. With embedding seemingly the most accessible. LangChain is a framework designed to help implement embeddings using different LLMs, including (apparently) local LLMs.
+Appears there are two broad approaches: fine-tuning and embedding. With embedding seemingly the most accessible. LangChain is a framework designed to help implement embeddings using different LLMs, including (apparently) local LLMs. LangChain and the link help with creating the underlying orchestration engine for LLM interactions.
 
-To do 
+Resources 
 
 - [LangChain AI Handbook](https://www.pinecone.io/learn/langchain-intro/)
+- [Emergence of LLM API build frameworks](https://cobusgreyling.medium.com/the-emergence-of-large-language-model-llm-api-build-frameworks-78d83d68eeda)
+
+## Frameworks
+
+| Framework | Code requirements | Description |
+| --- | --- | --- |
+| [LangChain](https://langchain.readthedocs.io/) | Pro-code | |
+| [Dust](https://dust.tt/) | ??Low-code | GUI for configuring and chaining blocks |
+| [Steamship](https://www.steamship.com/) | ?? | Combine prompts, prompt-chains, and Python code and combine into a managed API |
+| [Retune](https://retune.so/) | | Simpler, focus on prompt and chatbot session management & creating fine-tuned models |
+
+## Other tools
+
+- [tiktoken](https://github.com/openai/tiktoken) - tokenise and quantify prompts, from OpenAI
+- [llamabot](https://ericmjl.github.io/blog/2023/4/12/llamabot-an-opinionated-pythonic-interface-to-large-language-models/) - class hierarchy for creating bots [github](https://github.com/ericmjl/llamabot)
+
+	> I think llamabot can help facilitate experimentation and prototyping by making some repetitive things invisible.
 
 ## Examples
 
 - [Getting started with LangChain](https://medium.com/@avra42/getting-started-with-langchain-a-powerful-tool-for-working-with-large-language-models-286419ba0842)
+- [Developer-first guide to LLM APIs](https://ericmjl.github.io/blog/2023/3/29/a-developer-first-guide-to-llm-apis-march-2023/) - blog summary example implemented with OpenAI Python API, LangChain and LlamaIndex API.
+
+	> The short answer is that we'll see more customization to local contexts, with highest ROI use cases being prioritized.
 
 
 ## [LLM Embedding and Fine Tuning](https://www.promptengineering.org/master-prompt-engineering-llm-embedding-and-fine-tuning/)
