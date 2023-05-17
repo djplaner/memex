@@ -1,5 +1,15 @@
 # Scale and learning, teaching & education
 
+## Scale and education need 
+
+[Donald Clark](http://donaldclarkplanb.blogspot.com/2015/11/smart-algorithms-work-for-google.html) talks about the need for scale in education and
+
+> The solution to this problem cannot be throwing money at non-scalable solutions.
+
+Which he links to a Thrun quote
+
+> For me, scale has always been a fascination—how to make something small large. I think that’s often where problems lie in society—take a good idea and make it scale to many people.
+
 ## The multiple meanings of scale: Implications for Researchers and practitioners
 
 Morel et al, (2019)
