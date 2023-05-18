@@ -21,7 +21,10 @@
 
 See also: [[AI]], [[first-llm-api-experiments]]
 
-[Source](https://docs.langchain.com/docs/)
+Resources
+
+- [LangChain](https://docs.langchain.com/docs/)
+- [Getting started with LangChain](https://towardsdatascience.com/getting-started-with-langchain-a-beginners-guide-to-building-llm-powered-applications-95fc8898732c) - medium article
 
 ## About
 
@@ -29,7 +32,7 @@ A framework for developing applications using LLMs - gathering and weaving them 
 
 Common examples of application types 
 
-- Question answering over specific documents 
+- Personal assistants - use your data to interact with the outside world
 - Chatbots 
 - Agents
 
