@@ -4,6 +4,31 @@ Notes enter memex via numerous tools and wait in the Inbox waiting to be made [[
 
 And there are also things [[to-read]]
 
+## Questions
+
+Driving questions? 
+
+### How to stretch higher educations the iron triangle
+### Models and ways of working: seek/sense/share 
+
+
+### Web development
+
+How to build and develop Svelte applications/components/userscripts?
+
+### LLMs 
+
+How to understand and leverage LLMs
+
+### Exercise 
+
+What should I be doing to maintain and improve my health?
+
+- Diet 
+- Exercise 
+
+## Tools
+
 Tools to explore adding here, include
 
 1. Zotero - academic publications (mostly)
