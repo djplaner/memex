@@ -27,6 +27,7 @@ And unallocated notes in [[loose]]
 - [[recipes]]
 - [[relational]]
 - [[research]]
+- [[representations]]
 - [[sharing-design-knowledge]]
 - [[society]]
 - [[teaching]] - nascent
@@ -47,7 +48,7 @@ And unallocated notes in [[loose]]
 [digital-literacy]: digital-literacy "Digital Literacy"
 [herding-cats]: herding-cats "Herding Cats"
 [know-thy-student]: know-thy-student "Know thy student"
-[learning]: learning "Learning"
+[learning]: Learning/learning "Learning"
 [nodt]: nodt "Nature of Digital Technology"
 [paper-ideas]: paper-ideas "Paper Ideas"
 [paper-summaries]: paper-summaries "Paper Summaries"
@@ -56,6 +57,7 @@ And unallocated notes in [[loose]]
 [recipes]: recipes "Recipes"
 [relational]: relational/relational "Relational"
 [research]: research "Research"
+[representations]: Representations/representations "Representations"
 [sharing-design-knowledge]: sharing-design-knowledge "Sharing design knowledge"
 [society]: society "Society"
 [teaching]: Teaching/teaching "Teaching"
