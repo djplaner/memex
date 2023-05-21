@@ -26,9 +26,10 @@ All current to dos are listed here.  When they are complete, they are moved into
 ## Work 
 
 - **Check migration progress and starting moving**
-- Joined courses for T2
+- Joined courses for T2: 22 May no
   - Have they been created 
   - Ask if staff want separate assignments for each course
+- Complete UAT testing for Collections
 - **Make sense of the following and integrate into Henry's ABC work**
 
 	Zalavra, E., Papanikolaou, K., Dimitriadis, Y., & Sgouropoulou, C. (2022). Representing learning designs in a design support tool. *Education and Information Technologies*. <https://doi.org/10.1007/s10639-022-11441-6>
@@ -42,6 +43,7 @@ All current to dos are listed here.  When they are complete, they are moved into
 
 - learn more about [[prompt-engineering]]
 - Explore if Svelte kit starter can be adapted for user script development
+- Explore questions of consistency in UX design missing the point that the bigger purpose of UX is to solve the user's problem
 
 ### Reading
 
@@ -56,6 +58,11 @@ All current to dos are listed here.  When they are complete, they are moved into
 - Svelte development 
   - Design [[number-scrabble]] using Sveltekit - refine understanding of Svelte kit 
 - Make sense of how Shane's complexity leadership work can inform Col's PhD work (and my own practice)
+
+- Share Collections witht he Canvas community site
+  - Figure out Canvas community section to post to [blog](https://community.canvaslms.com/t5/Community-Hub/bg-p/communityblog-board), [Advice on writing](https://community.canvaslms.com/t5/Community-Hub/A-Blog-About-Blogging/ba-p/497368), [more advice](https://community.canvaslms.com/t5/Community-Hub/Do-You-Blog-A-Guide-to-Blogging-in-the-Canvas-Community/ba-p/469832)
+    - [Example](https://community.canvaslms.com/t5/Higher-Ed-Canvas-Users/Autofill-Maximum-Rubric-Ratings/ba-p/518278) [And another](https://community.canvaslms.com/t5/Higher-Ed-Canvas-Users/Assigning-Intra-Group-Peer-Reviews/bc-p/569693/emcs_t/S2h8ZW1haWx8ZGlnZXN0X25vdGlmaWNhdGlvbnxMSFQzSEo3M0s1R1ZBNHwtMXxPVEhFUlN8aEs#M2587)
+
 
 
 ## Share
