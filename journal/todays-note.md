@@ -25,11 +25,6 @@ All current to dos are listed here.  When they are complete, they are moved into
 
 ## Work 
 
-- **Inform people of not doing HEA right now**
-  - Sakinah 
-  - Henry 
-  - Julie 
-  - HEA folk
 - **Check migration progress and starting moving**
 - Joined courses for T2
   - Have they been created 
@@ -48,6 +43,11 @@ All current to dos are listed here.  When they are complete, they are moved into
 - learn more about [[prompt-engineering]]
 - Explore if Svelte kit starter can be adapted for user script development
 
+### Reading
+
+- [Design unbound](https://protect-au.mimecast.com/s/kvwoCL7rMYcPA4GkESqv3Xl?domain=ebookcentral-proquest-com.libraryproxy.griffith.edu.au)
+- [The Unpredictable Abilities Emerging From Large AI Models](https://www.quantamagazine.org/the-unpredictable-abilities-emerging-from-large-ai-models-20230316/)
+
 ## Sense 
 
 - selective/elective/prescriptive/reductive/generative (abductive?) - framework for L&T interventions
@@ -55,6 +55,8 @@ All current to dos are listed here.  When they are complete, they are moved into
 - Reflect on experience of [[implementing-number-scrabble]] through [[prompt-engineering]]
 - Svelte development 
   - Design [[number-scrabble]] using Sveltekit - refine understanding of Svelte kit 
+- Make sense of how Shane's complexity leadership work can inform Col's PhD work (and my own practice)
+
 
 ## Share
 

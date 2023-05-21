@@ -9,7 +9,7 @@
 
 ## Related categories
 
-- [[Distribution]]
+- [[distribution]]
 
 
 

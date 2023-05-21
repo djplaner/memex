@@ -18,4 +18,4 @@
 
 ### Related categories
 
-- [Distribution](../Distribution)
+- [Distribution](distribution.md)

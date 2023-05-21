@@ -6,7 +6,7 @@
 
 ## Related categories
 
-- [[Distribution]]
+- [[distribution]]
 
 
 

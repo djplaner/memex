@@ -18,3 +18,5 @@
 -->
 
 # Completed tasks - 2023-05-22
+
+- Inform people of not doing HEA right now

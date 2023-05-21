@@ -1,6 +1,6 @@
 # Bricolage
 
-Bricolage forms part of the BAD Mindset ([[Bricolage]], [[Affordances]], [[Distribution]]) conceived of as a way to understand [the e-learning reality/rhetoric chasm](http://djon.es/blog/2014/09/05/breaking-bad-to-bridge-the-e-learning-realityrhetoric-chasm/)
+Bricolage forms part of the BAD Mindset ([[Bricolage]], [[Affordances]], [[distribution]]) conceived of as a way to understand [the e-learning reality/rhetoric chasm](http://djon.es/blog/2014/09/05/breaking-bad-to-bridge-the-e-learning-realityrhetoric-chasm/)
 
 ## Path
 
