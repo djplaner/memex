@@ -4,7 +4,49 @@
 
 See also: [[AI]]
 
+## Designing effective AI Prompts (for Primary and High School Teachers)
+
+From Annesha Bakharia 
+
+- [Slides](https://docs.google.com/presentation/d/1bv2oxc4aqMNpVGixzvJgv0xULlZW7rVD/edit#slide=id.p1)
+- [Video](https://www.youtube.com/watch?v=5WbZqVtmDYs&t=1s) 
+- [Github repo](https://github.com/aneesha/prompt_engineering)
+
+![](images/sampleTeacherPrompts.png)
+
+### Resources
+
+- [Should I use generative AI? What to keep in mind and on-going considerations](https://marekkowal.substack.com/p/chatgptchecks)
+- [ChatGPT education mega prompts](https://drphilippahardman.substack.com/p/introducing-chatgpt-edu-mega-prompts
+)
+
+### Highlights 
+
+- [ChatGPT to generate a mindmap on a teaching area using mermaid.js output](https://raw.githubusercontent.com/aneesha/prompt_engineering/main/mindmap.md)
+
+![](images/generateMindMap.png)
+
+- [Example prompt to create a grammar tutor using ChatGPT](https://raw.githubusercontent.com/aneesha/prompt_engineering/main/equation_tutor.md)
+- Pointer to [AutoGPT](https://autogpt.thesamur.ai/agi) tool to have multiple versions of ChatGPT write prompts to meet a goal
+- [NoleJ.io - an AI course generation tool](https://nolej.io/)
+
+## Prompt types 
+
+- Chain-of-thought 
+- Let's think step by step
+
+## Prompt components 
+
+- Persona 
+- Task 
+  - specific task information
+- Audience 
+- Format
+
+
 ## Prompt engineering for educators – making generative AI work for you
+
+From Danny Liu
 
 #### [educational-innovation.sydney.edu.au](https://educational-innovation.sydney.edu.au/teaching@sydney/prompt-engineering-for-educators-making-generative-ai-work-for-you/) ▪ Thursday, April 27, 2023, 12:00 AM
 
