@@ -67,11 +67,13 @@ Focused on four of the dimensions
 | Format | Strong preference for visual format and global organisation, some support for existing literature |
 | Organisation | Contradict existing literature by prefer global organisation|
 | Guidance and support | mixed and somewhat task specific |
-| Contextualisation | |
+| Contextualisation | Value in providing more |
 
 
 
 ## References 
+
+Conole, G., & Jones, C. (2010). *Sharing practice, problems and solutions for institutional change* (P. Goodyear & S. Relatis, Eds.; No. 2; Issue 2, pp. 277--296). Sense Publishers. 
 
 Zalavra, E., Papanikolaou, K., Dimitriadis, Y., & Sgouropoulou, C. (2022). Representing learning designs in a design support tool. *Education and Information Technologies*. <https://doi.org/10.1007/s10639-022-11441-6>
 

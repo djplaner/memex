@@ -25,12 +25,15 @@ All current to dos are listed here.  When they are complete, they are moved into
 
 ## Work 
 
+- Steven's code - enrol users, explore
 - Migrate 3905QCA_P2
 - Check migration progress and starting moving
 - Joined courses for T2: 22 May no
   - Have they been created 
   - Ask if staff want separate assignments for each course
 - Complete UAT testing for Collections
+- Thank and ask Emma
+- Reach out to Peter
 - **Make sense of the following and integrate into Henry's ABC work**
 
 	Zalavra, E., Papanikolaou, K., Dimitriadis, Y., & Sgouropoulou, C. (2022). Representing learning designs in a design support tool. *Education and Information Technologies*. <https://doi.org/10.1007/s10639-022-11441-6>
