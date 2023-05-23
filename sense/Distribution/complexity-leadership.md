@@ -21,13 +21,25 @@
 
 See also: [[distribution]]
 
+Echoes of the BAD/SET mindsets. Universities as CAS are comprised of tightly integrated sub-systems. Much of these set up (necessarily) through a SET mindset. Uhl-Bien's model suggests seeing organisations as having two organisational functions: 
+1. Administrative - scale and standardisation focused operational and coordinating roles necessary to provide a stable environment - largely appropriate for ordered processes.
+2. Adaptive - _not well defined_  power is distributed and the focus is on forging new relationships and interactions between diverse agents - work that can create friction, but also generates crative outcomes and learning.
+
+Administrative is suitable for stable contexts. Adaptive for more volatile and complex environments.
+
+Leadership needs to focus on balancing the network of interactions and organisational structures within the adaptive space to respond to the pressures. They need capacity to forecast pressures and foster the right balance of administrative and adaptive processes, networks and relations to respond, adapt and change in a complex environment.
+
+There are _productive tensions_ between these two functions. 
+
 ## Shane Dawson 
 
-[Keynote talk](https://www.youtube.com/watch?v=IXetXFk7f9g&t=16s). See also Dawson et al (2018)
+Summary and some initial thoughts on [Keynote talk](https://www.youtube.com/watch?v=IXetXFk7f9g&t=16s). See also Dawson et al (2018)
 
 ![Dawson's take on complexity leadership adapted from Uhl-Bien](pics/complexityLeadershipModel.png)
 
 > As depicted in Figure 1, when pressure from the surrounding environment is placed upon a system, leadership acts to enable a response by drawing on and balancing interactions that operate in two primary organizational functions – administrative and adaptive (Dawson et al, 2018, p. 239)
+
+> The role of the enabling leadership is to effectively balance the network of interactions and organizational structures that occur within this adaptive space to best respond to the pressure. Enabling leaders have a strong capacity to forecast pressures and foster the right balance of administrative and adaptive processes, networks and relations in order to effectively respond, adapt and change in a complex environment. (Dawson, et al, 2018, p. 239)
 
 Education as a complex system with integrated systems.  There is both administrative and adaptive systems. Administrative doesn't change quickly. Adaptive can. 
 

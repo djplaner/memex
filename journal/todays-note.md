@@ -1,4 +1,4 @@
-<!--
+!--
  Copyright (C) 2023 David Jones
  
  This file is part of memex.
@@ -25,7 +25,8 @@ All current to dos are listed here.  When they are complete, they are moved into
 
 ## Work 
 
-- **Check migration progress and starting moving**
+- Migrate 3905QCA_P2
+- Check migration progress and starting moving
 - Joined courses for T2: 22 May no
   - Have they been created 
   - Ask if staff want separate assignments for each course
@@ -33,6 +34,10 @@ All current to dos are listed here.  When they are complete, they are moved into
 - **Make sense of the following and integrate into Henry's ABC work**
 
 	Zalavra, E., Papanikolaou, K., Dimitriadis, Y., & Sgouropoulou, C. (2022). Representing learning designs in a design support tool. *Education and Information Technologies*. <https://doi.org/10.1007/s10639-022-11441-6>
+
+	Conole, G., & Jones, C. (2010). *Sharing practice, problems and solutions for institutional change* (P. Goodyear & S. Relatis, Eds.; No. 2; Issue 2, pp. 277--296). Sense Publishers. [https://www.sensepublishers.com/product\_info.php?products\_id=1014&osCsid=9c443f1e009f90dc5a8dde5aa8cb2663](https://www.sensepublishers.com/product_info.php?products_id=1014&osCsid=9c443f1e009f90dc5a8dde5aa8cb2663)
+
+- Start mapping the con courses for Henry explore if/how a CSDM and CM would work
 
 ## Personal 
 
@@ -49,6 +54,7 @@ All current to dos are listed here.  When they are complete, they are moved into
 
 - [Design unbound](https://protect-au.mimecast.com/s/kvwoCL7rMYcPA4GkESqv3Xl?domain=ebookcentral-proquest-com.libraryproxy.griffith.edu.au)
 - [The Unpredictable Abilities Emerging From Large AI Models](https://www.quantamagazine.org/the-unpredictable-abilities-emerging-from-large-ai-models-20230316/)
+- The Rodney Brooks interview in spectrum
 
 ## Sense 
 

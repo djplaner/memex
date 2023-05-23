@@ -7,6 +7,7 @@ Bubble holding misc. thoughts about design.
 
 - [[jisc-learning-design]]
 - [[automating-instructional-design]]
+- [[representing-learning-designs]]
 
 Curriculum design
 
