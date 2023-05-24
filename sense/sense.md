@@ -4,18 +4,22 @@ Notes here have been summarised, connected and organised.
 
 And unallocated notes in [[loose]]
 
+
 ## Current categories
 
+- [[]]
 - [[AI]]
 - **B**ricolage **A**ffordances **D**istribution
   - [[bricolage]]
   - [[affordances]]
   - [[distribution]]
 - [[casa]]
+- [[computing]]
 - [[conferences]]
 - [[concepts]] - go live
 - [[design]]
 - [[digital-literacy]]
+- [[foundations]]
 - [[herding-cats]]
 - [[know-thy-student]]
 - [[learning]]
@@ -40,8 +44,9 @@ And unallocated notes in [[loose]]
 [AI]: AI/AI "AI"
 [bricolage]: bricolage "Bricolage"
 [affordances]: affordances "Affordances"
-[distribution]: distribution "Distribution"
+[distribution]: Distribution/distribution "Distribution"
 [casa]: casa "Contextually Appropriate Scaffolding Assemblages (CASA)"
+[computing]: computing/computing "Computing"
 [conferences]: Conferences/conferences "Conferences"
 [concepts]: concepts/concepts "Concepts"
 [design]: Design/design "Design"
@@ -49,7 +54,7 @@ And unallocated notes in [[loose]]
 [herding-cats]: herding-cats "Herding Cats"
 [know-thy-student]: know-thy-student "Know thy student"
 [learning]: Learning/learning "Learning"
-[nodt]: nodt "Nature of Digital Technology"
+[nodt]: nodt/nodt "Nature of Digital Technology"
 [paper-ideas]: paper-ideas "Paper Ideas"
 [paper-summaries]: paper-summaries "Paper Summaries"
 [python]: python "Python"

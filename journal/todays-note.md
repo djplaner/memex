@@ -25,8 +25,7 @@ All current to dos are listed here.  When they are complete, they are moved into
 
 ## Work 
 
-- Steven's code - enrol users, explore
-- Migrate 3905QCA_P2
+- Migrate 3904QCA_P2
 - Check migration progress and starting moving
 - Joined courses for T2: 22 May no
   - Have they been created 
@@ -61,7 +60,7 @@ All current to dos are listed here.  When they are complete, they are moved into
 
 ## Sense 
 
-- selective/elective/prescriptive/reductive/generative (abductive?) - framework for L&T interventions
+- selective/elective/prescriptive/reductive-exclusionary/generative (abductive?) - framework for L&T interventions
 - Executable versions of [[number-scrabble]] - various limited python versions
 - Reflect on experience of [[implementing-number-scrabble]] through [[prompt-engineering]]
 - Svelte development 

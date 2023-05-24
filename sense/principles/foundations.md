@@ -17,10 +17,13 @@
  along with memex.  If not, see <http://www.gnu.org/licenses/>.
 -->
 
-# Daily note - 2023-05-24 (week starting)
+# Foundations 
 
-- Reach out to Shirley 
-- Ask Eva to participate in Collections cast
-- Steven's code - enrol users, explore
+See also: [[sense]]
 
+Random and very slowly emerging thinking about the foundations of my work/life (small l)
 
+- Society is currently unfair and broken on many levels (gotta start with the pessimism)
+- We can do so much better, but its an intractable/wicked problem
+- Digital technology can't directly help, but used well it can make a contribution or at least not make it worse
+- But society/industry is taking digital technology into the wrong direction

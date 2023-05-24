@@ -28,6 +28,12 @@ Zalavara et al (2022) used
 - [WebCollage](https://ilde2.upf.edu/gr/)
 - [Learning Designer](https://www.ucl.ac.uk/learning-designer/)
 
+## Conole and Jones (2010)
+
+Aims to critique different types of representation of practice as applied to various levels" of decision-making - pedagogical patterns and visual learning design.  Doing this in the context of an LMS migration.
+> We argue that pedagogical patterns and learning design have emerged as parallel approaches to describing practice in recent years. Despite their very different origins, both provide complementary representations, which emphasize different aspects of the practice being described.
+
+
 ## Zalavara et al 2022
 
 DBR project seeking to understand practitioners experiences with LD representations (and tools to help with those representations). Research question 
