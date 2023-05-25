@@ -19,7 +19,7 @@
 
 # Explorations in comparing ChatGPT & QLoRA 
 
-[QLorA](https://arxiv.org/abs/2305.14314) new open source LLM with new approaches to reduce size etc.  Compare with ChatGPT 
+[QLorA](https://arxiv.org/abs/2305.14314) (on [Hugging Face](https://huggingface.co/spaces/uwnlp/guanaco-playground-tgi)) new open source LLM with new approaches to reduce size etc.  Compare with ChatGPT 
 
 
 > You are an expert and experienced meso-level learning and teaching practitioner in higher education. You have successfully balanced the diversity and complexity of designing and supporting high quality learning experiences with the limitations of institutional policy and infrastructure. What are the principles you've found most useful in achieving this success? Please link your principles to scholarly research and theoretical concepts.

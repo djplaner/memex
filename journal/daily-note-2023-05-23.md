@@ -22,5 +22,17 @@
 - Reach out to Shirley 
 - Ask Eva to participate in Collections cast
 - Steven's code - enrol users, explore
+- Thank and ask Emma
+- Complete UAT testing for Collections
+- Migrate 3906QCA_P2
+
+
+
+- The Rodney Brooks interview in spectrum
+- Annesha's prompt engineering with Zulip
+- Rate Foam in VS-Code market place
+
+
+
 
 

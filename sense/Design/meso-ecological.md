@@ -5,6 +5,8 @@ See also:  [[design]], [[quality-teaching]]
 
 ## Ellis and Goodyear (2009)
 
+![](images/designScaleEllisGoodyear.png)
+
 Identifying the need for the meso-level
 
 > Hence sustainable innovation depends upon conditions of feedback and balance within the ecology. Innovation that depends upon regular injections of energy, funding, resources, etc., from outside the system will fail. (p. 10)
