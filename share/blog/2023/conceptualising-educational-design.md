@@ -25,7 +25,14 @@ See also: [[goodyear-patterns-design-practice]], [[forward-oriented-design]], [[
 
 My aim is to better understand the work they're doing and figure out how I integrate it into my practice.
 
-Appears to be focused on exploring the if, how, and utility of using Goodyear's conceptualistion of the educational design problem space pedagogical framework to "Evidence-informed IT planning, procurement, and evaluation"
+Appears to be focused on exploring the if, how, and utility of using Goodyear's conceptualistion of the educational design problem space pedagogical framework to "Evidence-informed IT planning, procurement, and evaluation" - largely drawn from the slide/diagram.
+
+Questions 
+
+- What have I missed from the purpose? 
+- Where is it up to?
+
+
 
 ## Start - draft 
 

@@ -25,10 +25,15 @@ All current to dos are listed here.  When they are complete, they are moved into
 
 ## Work 
 
+Done 
+
 - Quiz migration for Chris
+- Prepare questions for chat with Emma 
+
+To do
+
 - Consistency spiel and problems for Julie
 - Think about computation principles as abstraction for seek/sense/share 
-- Prepare questions for chat with Emma 
 - Start develop the "BAD" approach to L&T as a MLP
 - educational design as more coding than software development - not enough over time consideration (software development as "coding over time")
 - Start mapping the con courses for Henry explore if/how a CSDM and CM would work

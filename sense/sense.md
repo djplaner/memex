@@ -19,6 +19,7 @@ And unallocated notes in [[loose]]
 - [[concepts]] - go live
 - [[design]]
 - [[digital-literacy]]
+- [[ethics-critical]]
 - [[foundations]]
 - [[herding-cats]]
 - [[know-thy-student]]
@@ -51,6 +52,8 @@ And unallocated notes in [[loose]]
 [concepts]: concepts/concepts "Concepts"
 [design]: Design/design "Design"
 [digital-literacy]: digital-literacy "Digital Literacy"
+[ethics-critical]: ethics-critical/ethics-critical "Ethical and Critical considerations"
+[foundations]: principles/foundations "Foundations"
 [herding-cats]: herding-cats "Herding Cats"
 [know-thy-student]: know-thy-student "Know thy student"
 [learning]: Learning/learning "Learning"
