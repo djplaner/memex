@@ -27,20 +27,25 @@ All current to dos are listed here.  When they are complete, they are moved into
 
 Done 
 
-- Quiz migration for Chris
-- Prepare questions for chat with Emma 
 
 To do
 
+- Joined courses for T2: 22 May no
+  - Have they been created 
+    - 3377QCA/7399QCA Tim
+    - 1319QCA/7319QCA Tim
+    - 2398QCA/7398QCA Tim
+    - 2395QCA/7395QCA Justene
+    - 3374QCA/7374QCA Justene - copying
+  - Ask if staff want separate assignments for each course
+
+
+Possible
 - Consistency spiel and problems for Julie
-- Think about computation principles as abstraction for seek/sense/share 
 - Start develop the "BAD" approach to L&T as a MLP
 - educational design as more coding than software development - not enough over time consideration (software development as "coding over time")
 - Start mapping the con courses for Henry explore if/how a CSDM and CM would work
 - Check migration progress and starting moving
-- Joined courses for T2: 22 May no
-  - Have they been created 
-  - Ask if staff want separate assignments for each course
 - Reach out to Peter
 - **Make sense of the following and integrate into Henry's ABC work**
 
