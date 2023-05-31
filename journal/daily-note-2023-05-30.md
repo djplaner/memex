@@ -23,3 +23,12 @@
 - Quiz migration for Chris
 - Prepare questions for chat with Emma 
 - Start handback for final courses
+- Joined courses for T2: 22 May no
+  - Have they been created 
+  - Ask if staff want separate assignments for each course
+    - 2395QCA/7395QCA Justene
+    - 3374QCA/7374QCA Justene - copying
+    - 3377QCA/7399QCA Tim
+    - 1319QCA/7319QCA Tim
+    - 2398QCA/7398QCA Tim
+

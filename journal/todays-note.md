@@ -27,20 +27,12 @@ All current to dos are listed here.  When they are complete, they are moved into
 
 Done 
 
-
 To do
 
-- Joined courses for T2: 22 May no
-  - Have they been created 
-    - 3377QCA/7399QCA Tim
-    - 1319QCA/7319QCA Tim
-    - 2398QCA/7398QCA Tim
-    - 2395QCA/7395QCA Justene
-    - 3374QCA/7374QCA Justene - copying
-  - Ask if staff want separate assignments for each course
 
 
 Possible
+- Digital Transformation
 - Consistency spiel and problems for Julie
 - Start develop the "BAD" approach to L&T as a MLP
 - educational design as more coding than software development - not enough over time consideration (software development as "coding over time")
