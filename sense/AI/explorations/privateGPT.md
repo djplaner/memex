@@ -32,7 +32,7 @@ Preparation
    - `pip install virtualenv`
    - In the local repo, 
      - `py -m venv env`
-     - `. .\env\Scripts\activate`
+     - `. ./env/Scripts/activate`
 
 
 Specific to privateGPT
@@ -47,7 +47,40 @@ Specific to privateGPT
 	- **hint** Do this early will take some time
 5. Modify the environment file
 6. Do a test - apparently comes with the state of the union 
-   - `python ingest.py` and the fun begins
+   - `python ingest.py` and the fun begins - see [Initial testing](#initial-testing)
+
+## Initial testing
+
+Aim here is to run using just the provided [single text file](https://github.com/imartinez/privateGPT/blob/main/source_documents/state_of_the_union.txt). 
+
+- forgot to rename the `env.example` file to `.env` - fixed
+- `sentence_transformers` not installed, suggesting more issues with my manual install of requirements - perhaps due to the Visual C++ build tools update issue?
+- `python -m pip install sentence_transformers` - fixed, but due to the local env, this takes a while given a lot of requirements
+- Will do a manual install on all after chromdb, just in case, listing those that did require install
+  - `llama-cpp-python`
+
+  Success
+
+![First test run success with ingest](images/ingestSuccess.png)
+
+But loading the module gets an error 
+bash```
+  File "C:\Users\..\privateGPT\env\lib\site-packages\gpt4all\pyllmodel.py", line 141, iload_model
+    llmodel.llmodel_loadModel(self.model, model_path.encode('utf-8'))
+OSError: exception: access violation reading 0x000000D4AABF0000
+```
+
+Try the "Git Bash/UTF-8" fix - add the following to start of `ingest.py` - fixed
+python```
+import sys
+import io
+
+sys.stdout = io.TextIOWrapper(sys.stdout.detach(), encoding='utf-8')
+```
+
+![PrivateGPT answering question based on supplied text file](images/privateGPTTestWorking.png)
+
+
 
 ## My own testing - blog posts 
 
