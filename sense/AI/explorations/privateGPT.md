@@ -26,9 +26,9 @@ Log of an experiment to get [privateGPT](https://github.com/imartinez/privateGPT
 ## Process overview 
 
 Preparation
-1. Clone the repo. 
+1. Clone the repo. ✔ 
    -  GitHub desktop FTW
-2. Set up virtual environment. 
+2. Set up virtual environment. ✔
    - `pip install virtualenv`
    - In the local repo, 
      - `py -m venv env`
@@ -43,10 +43,10 @@ Specific to privateGPT
      - Initially not paying attention to the specific versions - this may bite me on the...which given how long a fresh install takes is not a good thing.
    - First install didn't work for ChromaDb -- needed v14 or later of [C++ build tools](https://visualstudio.microsoft.com/visual-cpp-build-tools/)
      - Apparently including a ~2Gb download/install
-4. Download and install the recommended LLM 
+4. Download and install the recommended LLM  ✔
 	- **hint** Do this early will take some time
-5. Modify the environment file
-6. Do a test - apparently comes with the state of the union 
+5. Modify the environment file ✔
+6. Do a test - apparently comes with the state of the union ✔
    - `python ingest.py` and the fun begins - see [Initial testing](#initial-testing)
 
 ## Initial testing
