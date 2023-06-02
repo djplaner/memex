@@ -4,7 +4,9 @@
 
 See also: [[situational-awareness]]
 
-Salmon et al (2022) giving an overview of a model proposed by Stanton 
+## Salmon et al (2022)
+
+Giving an overview of a model proposed by Stanton 
 
 > "activated knowledge for a specific task within a system .... [and] the use of appropriate knowledge (held by individuals, captured by devices, etc.) which relates to the state of the environment and the changes as the situation develops" (Stanton et al., 2006, p. 1291).
 

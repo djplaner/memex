@@ -29,6 +29,12 @@ Done
 
 To do
 
+CCJ project
+- Summarise and work on CCJ project - Some to Jeff
+- Read up on engagement - start memex on that topic
+
+FLOSS - driver 
+Read [CACM issue](https://dl-acm-org.libraryproxy.griffith.edu.au/toc/cacm/2023/66/5)
 
 
 Possible

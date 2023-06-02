@@ -28,7 +28,7 @@ Storage space for misc. ideas for computing projects.
 
 ### DSA 
 
-[[distributed-situational-awareness]] is the idea of increasing our awareness of issues within distributed systems. Use of digital technology to increase individual/collective awareness of various societal issues.
+[[distributed-situational-awareness]] is the idea of increasing our awareness of issues within distributed systems. Use of digital technology to increase individual/collective awareness of various societal issues. See Salmon et al (2022) 
 
 e.g. from Bridle (2022) 
 > In this way, recognition of environmental change is encoded into indigenous history and knowledge. Most of us do not have access to have such extensive cultural memory banks: we are dependent upon the short attention spans of our contemporary knowledge-making technologies. All too often, this blinds us to deeper, longer changes in the world around us. Climate change is a clear example of this: an alteration to the world occurring at such inhuman scales of time and geography that we struggle to fit it into conventional narratives, let alone respond effectively. (p. 115)
@@ -39,6 +39,8 @@ e.g. from Bridle (2022)
 ## References 
 
 Bridle, J. (2022). *Ways of Being: Animals, Plants, Machines: The Search for a Planetary Intelligence*. Penguin UK.
+
+Salmon, P. M., & Plant, K. L. (2022). Distributed situation awareness: From awareness in individuals and teams to the awareness of technologies, sociotechnical systems, and societies. *Applied Ergonomics*, *98*, 103599. <https://doi.org/10.1016/j.apergo.2021.103599>
 
 
 

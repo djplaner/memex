@@ -7,7 +7,6 @@ And unallocated notes in [[loose]]
 
 ## Current categories
 
-- [[]]
 - [[AI]]
 - **B**ricolage **A**ffordances **D**istribution
   - [[bricolage]]
@@ -15,6 +14,7 @@ And unallocated notes in [[loose]]
   - [[distribution]]
 - [[casa]]
 - [[computing]]
+  - [[floss]]
 - [[conferences]]
 - [[concepts]] - go live
 - [[design]]
@@ -48,6 +48,7 @@ And unallocated notes in [[loose]]
 [distribution]: Distribution/distribution "Distribution"
 [casa]: casa "Contextually Appropriate Scaffolding Assemblages (CASA)"
 [computing]: computing/computing "Computing"
+[floss]: computing/floss "FLOSS"
 [conferences]: Conferences/conferences "Conferences"
 [concepts]: concepts/concepts "Concepts"
 [design]: Design/design "Design"
