@@ -25,6 +25,13 @@ Log of an experiment to get [privateGPT](https://github.com/imartinez/privateGPT
 
 ## Process overview 
 
+1. [Preparation](#preparation) - install the software on my laptop ✔ 
+2. [Initial testing](#initial-testing) - get the software working with the supplied test file ✔ 
+3. [Examine possible refinements](#examine-possible-refinements) - it's a work in progress with a lot of people experimenting, what refinements exist and are doable? 🚧 - all require a bit of work - for later
+4. [Test with blog posts](#test-with-blog-posts) - Use the ??? posts on my blog as the first major test 🚧 
+
+## Preparation 
+
 Preparation
 1. Clone the repo. ✔ 
    -  GitHub desktop FTW
@@ -81,8 +88,27 @@ sys.stdout = io.TextIOWrapper(sys.stdout.detach(), encoding='utf-8')
 ![PrivateGPT answering question based on supplied text file](images/privateGPTTestWorking.png)
 
 
+## Examine possible refinements
 
-## My own testing - blog posts 
+Some possible refinements include  -- all require some significant tinkering
+
+- Different LLMs, possibilities include 
+  - [h2oGPT](https://github.com/h2oai/h2ogpt#windows-1011) - appears to require a very different install than the binary for the default LLM (i.e. complexity)
+- [Chroma collections](https://github.com/imartinez/privateGPT/discussions/298)
+  - Chroma - the vector database used here - supports "collections" to separate out document types - questions exist how to integrate in privateGPT
+- Add a web (or other) interface (beyond the command line)
+  - [Example/attempt](https://github.com/imartinez/privateGPT/discussions/487) to get ChatGPT-4 to write a [streamlit version](https://streamlit.io/)
+
+
+### Streamlit experiment
+
+- Install streamlit `pip install streamlit`
+- Copy and paste the code from the example 
+- `streamlit run streamLitPrivateGPT.py`
+
+Running into problems with MOE configuration stopping Streamlit being run
+
+## Test with blog posts 
 
 [My blog](https://djon.es/blog/) is probably the biggest collection of personal text I have (my Zotero library is another option)
 
@@ -94,10 +120,14 @@ sys.stdout = io.TextIOWrapper(sys.stdout.detach(), encoding='utf-8')
 
 ## Blog posts to import files
 
+### Parsing and writing files 
+
 Uses [feedparser Python library](https://feedparser.readthedocs.io/en/latest/) ends up with individual posts in array of hashes with the following keys 
 
 - Check out content titles for a few more posts to see if/how it changes - appears to be HTML
+  - Anything with a URL `p=<wp_post_id>` appears to be draft
 - Figure what files to write - maybe HTML with links, title etc.
+  - 1425 files written
 
 | Keys | Content/Description | 
 | ---- | ------------------- |
@@ -124,17 +154,16 @@ Uses [feedparser Python library](https://feedparser.readthedocs.io/en/latest/) e
 | `wp_comment_status`| String "open"   |
 | `wp_ping_status`| String "open"   |
 | `wp_post_name`| String empty   |
-| `wp_status`| STring draft   |
+| `wp_status`| STring draft : 346 in draft; 1439 private, 5 trash, and 5 private  |
 | `wp_post_parent`| String 0   |
 | `wp_menu_order`|String 0    |
 | `wp_post_type`| String `post`   |
 | `wp_post_password`| String empty   |
 | `wp_is_sticky`| String 0   |
-| `tags` | List of dicts `{ term: '', scheme: '', Label: None }` |
+| `tags` | List of dicts `{ term: '', scheme: '', Label: None }` - 304 different categories, top 20 have 43 posts or more.  Uncategorised the largest with 862 (only published)|
 
-## Debugging 
+### Ingest and query 
 
-### Testing  
 
 
 
