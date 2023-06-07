@@ -19,6 +19,8 @@ Loewenberg Ball, D., & Forzani, F. M. (2009). The Work of Teaching and the Chall
 
 - [[ungrading]]
 
+- [[assessment-of-process]]
+
 ## Pedagogical strategy (Procedural)
 
 ## Pedagogical tactics (Operational)
@@ -45,6 +47,7 @@ Loewenberg Ball, D., & Forzani, F. M. (2009). The Work of Teaching and the Chall
 [design]: ../Design/design "Design"
 [goodyear-patterns-design-practice]: <../Paper Summaries/goodyear-patterns-design-practice> "Patterns, pattern languages and design practice"
 [ungrading]: ungrading "Ungrading"
+[assessment-of-process]: assessment-of-process "Assessment of process"
 [question-for-retrieval]: question-for-retrieval "Questioning for retrieval"
 [worked-examples]: worked-examples "Worked examples"
 [teaching-mathematics]: Mathematics/teaching-mathematics "Teaching Mathematics"
