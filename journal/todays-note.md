@@ -29,9 +29,14 @@ Done
 
 To do
 
+- [DeepLearning LangChain for AI App development](https://learn.deeplearning.ai/langchain/lesson/1/introduction)
+ 
+
 CCJ project
 - Summarise and work on CCJ project - Some to Jeff
 - Read up on engagement - start memex on that topic
+
+Youtube viewings _Causal Island_
 
 FLOSS - driver 
 Read [CACM issue](https://dl-acm-org.libraryproxy.griffith.edu.au/toc/cacm/2023/66/5)

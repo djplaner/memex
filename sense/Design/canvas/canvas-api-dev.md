@@ -4,6 +4,8 @@ See also: [[canvas-api]]
 
 Resources and approaches to using the Canvas API.
 
+[Canvas Live API](lms.griffith.edu.au/doc/api/live)
+
 ## How to, guides and tutorials
 
 ### [ubccapico/getting-started-with-the-canvas-api-with-node](https://github.com/ubccapico/getting-started-with-the-canvas-api-with-node)

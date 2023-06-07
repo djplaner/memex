@@ -19,6 +19,15 @@
 
 # AI
 
+My current take/suspicion on LLMs is that they are over-blown, useful but over-blown. Likely to be widely used badly and generate negative consequences due to broken societal/commercial systems and bad actors. Actors that leverage the inherent limitations of LLMs for immediate gain. 
+
+There is a small chance that LLMs may have some surprising emergent capabilities, especially if they are able to be used creatively and contextually by networks, communities, and individuals.
+
+Sources that have influenced my thinking, include:
+
+- [AI and Software Quality](https://softwarecrisis.dev/letters/ai-and-software-quality/)
+- [Ayyyyy Eyeeeee](https://doctorow.medium.com/ayyyyyy-eyeeeee-4ac92fa2eed) - from Cory Doctorow that uses prior tech experience ([criti-hype](https://sts-news.medium.com/youre-doing-it-wrong-notes-on-criticism-and-technology-hype-18b08b4307e5)) and current LLM happenings to explore how they'll be used for [enshittification](https://pluralistic.net/2023/01/21/potemkin-ai/#hey-guys) to argue the idea that rather than posing an existential risk, LLMs "a product of limited utility that has been shoehorned into high-stakes applicaions that it is unsuited to perform"
+
 ## About LLMs
 
 - [[llm-types]] - over of different LLM types

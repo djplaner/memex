@@ -2,13 +2,17 @@
 
 Bricolage forms part of the BAD Mindset ([[Bricolage]], [[Affordances]], [[distribution]]) conceived of as a way to understand [the e-learning reality/rhetoric chasm](http://djon.es/blog/2014/09/05/breaking-bad-to-bridge-the-e-learning-realityrhetoric-chasm/)
 
+Bricolage links to broader ideas of democratising software development as seen in the [[heavy-and-light-weight]] approaches to software development.
+
 ## Path
 
+- [[enabling-computational-bricolage]]
 
 ### Software development
 
 - [[laws-of-software-evolution]]
 - [[diy-software-development-literature]] - literature and examples from companies
+- [[diy-software-development-examples]] - more general examples
 
 ### Telological definitions and issues
 
@@ -31,8 +35,11 @@ Bricolage forms part of the BAD Mindset ([[Bricolage]], [[Affordances]], [[distr
 [Bricolage]: bricolage "Bricolage"
 [Affordances]: ../affordances "Affordances"
 [distribution]: ../Distribution/distribution "Distribution"
+[heavy-and-light-weight]: ../nodt/heavy-and-light-weight "Heavy Weight and Light Weight Information Technology"
+[enabling-computational-bricolage]: enabling-computational-bricolage "Enabling computational bricolage"
 [laws-of-software-evolution]: laws-of-software-evolution "Laws of Software Evolution"
-[diy-software-development-literature]: diy-software-development-literature "Literature covering DIY software development"
+[diy-software-development-literature]: diy-software-development-literature "Literature of DIY software development"
+[diy-software-development-examples]: diy-software-development-examples "DIY Software Development Examples"
 [strategic-planning]: strategic-planning "Strategic Planning"
 [engineering-the-right]: engineering-the-right "Engineering the Right"
 [new-system-will-solve-everything-disease]: new-system-will-solve-everything-disease "New System Will Solve Everything Disease"
