@@ -34,6 +34,7 @@ To do
 
 CCJ project
 - Summarise and work on CCJ project - Some to Jeff
+- Share with design team
 - Read up on engagement - start memex on that topic
 
 Youtube viewings _Causal Island_
