@@ -23,12 +23,30 @@ See also: [[AI]]
 
 Log of an experiment to get [privateGPT](https://github.com/imartinez/privateGPT) working locally. HT to Chris Bigum and [this post](https://bdtechtalks.com/2023/06/01/create-privategpt-local-llm/?utm_source=feedly&utm_medium=rss&utm_campaign=create-privategpt-local-llm)
 
-## Process overview 
+## What was done 
 
-1. [Preparation](#preparation) - install the software on my laptop ✔ 
-2. [Initial testing](#initial-testing) - get the software working with the supplied test file ✔ 
-3. [Examine possible refinements](#examine-possible-refinements) - it's a work in progress with a lot of people experimenting, what refinements exist and are doable? 🚧 - all require a bit of work - for later
-4. [Test with blog posts](#test-with-blog-posts) - Use the ??? posts on my blog as the first major test 🚧 
+`privateGPT` was installed locally and tested on 1400+ HTML files containing blog posts from [my personal blog](https://djon.es/blog). A few questions were asked. It sort of worked.
+
+## Reflections 
+
+Neat tool, it kind of works. Installation and configuration is complicated. Largely due to ensuring your local computing environment has the correct entanglement of technologies and configurations required.
+
+Limitations arise from
+
+1. The specific LLM used - not GPT4 quality
+2. LLMs in general - e.g. hallucination etc. 
+3. `privateGPT`'s own limitations as an early project - e.g. the user interface is primitive
+4. Perhaps the use of the _embeddings_ approach to [[customising-llms]], rather than fine-tuning (or some fruitful combination)
+
+There look likely to be different projects that will become more useful. Still very early days. 
+
+## Overview 
+
+1. [Preparation](#preparation) ✔  - install the software on my laptop  
+2. [Initial testing](#initial-testing) ✔ - get the software working with the supplied test file 
+3. [Test with blog posts](#test-with-blog-posts) ❌   - this initial experiment didn't work and led to the work in the [late update section](#late-update---mingw), includes some details of the process used to convert blog posts to files 
+4. [Working personal chat bot](#working-personal-blog-chat-bot) ✔ - some early questions were asked and answered 
+5. [Refinements and what's next?](#refinements-to-privategpt-and-possible-next-steps) 
 
 ## Preparation 
 
@@ -124,25 +142,6 @@ sys.stdout = io.TextIOWrapper(sys.stdout.detach(), encoding='utf-8')
 ![PrivateGPT answering question based on supplied text file](images/privateGPTTestWorking.png)
 
 
-## Examine possible refinements
-
-Some possible refinements include  -- all require some significant tinkering
-
-- Different LLMs, possibilities include 
-  - [h2oGPT](https://github.com/h2oai/h2ogpt#windows-1011) - appears to require a very different install than the binary for the default LLM (i.e. complexity)
-- [Chroma collections](https://github.com/imartinez/privateGPT/discussions/298)
-  - Chroma - the vector database used here - supports "collections" to separate out document types - questions exist how to integrate in privateGPT
-- Add a web (or other) interface (beyond the command line)
-  - [Example/attempt](https://github.com/imartinez/privateGPT/discussions/487) to get ChatGPT-4 to write a [streamlit version](https://streamlit.io/)
-
-
-### Streamlit experiment
-
-- Install streamlit `pip install streamlit`
-- Copy and paste the code from the example 
-- `streamlit run streamLitPrivateGPT.py`
-
-Running into problems with MOE configuration stopping Streamlit being run
 
 ## Test with blog posts 
 
@@ -211,9 +210,8 @@ And appeared it might be stuck. Try a lot less files - try with 10 and delete th
 
 With the [late update](#late-update---mingw) all is working. I've a locally working GPT chat bot for [my personal blog](https://djon.es/blog) 
 
-What follows is some of the queries I've tried. Formatted for display and accompanied with some commentary.  Findings include 
+What follows is some of the queries I've tried. Formatted for display and accompanied with some commentary. 
 
-- Like all LLMs it 
 
 ### What is BAM?
 
@@ -241,14 +239,80 @@ BAM actually stood for Blog Aggregation Management. A tool that was later added 
 - The initial response had duplicated text (only the first para provided immediately below)
 - Some minor hallucination.
 
-<blockquote>
-Enter a query: <strong>What is the relationship between BIM and BAM?</strong>
+> Enter a query: <strong>What is the relationship between BIM and BAM?</strong>
+> 
+>  While there may be some overlap in their functionality, BIM (BAm) was originally designed as a way to integrate different educational tools while maintaining its own unique features or benefits from using an agregator-based system. As for technical considerations related specifically to the use of both <mark>BIM and BAm within Moodle2.x series software</mark>, it is worth noting that their development timelines can vary significantly (<mark>BABAM</mark>: Spring 2006; BIM2 was in progress prior to its initial release date).It's also important to note potential compatibility issues between different versions or releases such as when transitioning from an older version of BIm/BIM1.x series software and the newer 2-series Moodle system, although this may vary depending on specific requirements for integration with certain tools (e.g., custom development in various languages)The relationship is not entirely clear at present since there are many technical considerations related to integrating multiple educational systems using agregators that BIM provides but they were designed separately and have different features/benefits from each other's core functions as well as their own unique strengths when used together.  
 
- While there may be some overlap in their functionality, BIM (BAm) was originally designed as a way to integrate different educational tools while maintaining its own unique features or benefits from using an agregator-based system. As for technical considerations related specifically to the use of both <mark>BIM and BAm within Moodle2.x series software</mark>, it is worth noting that their development timelines can vary significantly (<mark>BABAM</mark>: Spring 2006; BIM2 was in progress prior to its initial release date).It's also important to note potential compatibility issues between different versions or releases such as when transitioning from an older version of BIm/BIM1.x series software and the newer 2-series Moodle system, although this may vary depending on specific requirements for integration with certain tools (e.g., custom development in various languages)The relationship is not entirely clear at present since there are many technical considerations related to integrating multiple educational systems using agregators that BIM provides but they were designed separately and have different features/benefits from each other's core functions as well as their own unique strengths when used together.  
-</blockquote>
+### Writing code 
 
+`privateGPT` is meant to support different LLMs. The default recommendation (which I've used) is a version of [GPT4All](https://gpt4all.io/index.html). Apparently it can: answer questions about the world; act as a personal writing assistant; understand documents; and, write code. But as above there are apparent issues. would a different LLM perform differently? With any significant improvement?
+
+Suggesting I can ask questions/tasks outside of my blog posts? What about writing code?
+
+> Enter a query: <strong>Write a python program to display "hello world"</strong>
+>
+> Here's an example Python script that displays the word 'Hello World!':\`\`\`pythonprint('Welcome, hello')  # prints out
+ 
+Interestingly, if I ask the same question again...I get
+
+>  Here's an example Python script that displays the string 'Hello, World!' using print statements inside a for loop and single quotes around each word in the sentence:
+
+Ask a slightly different way 
+
+> Enter a query: <strong>Provide a complete runnable Python program to display hello world</strong>
+
+> Here is an example code snippet that displays "Hello World!" using Pycharm or Jupyter notebooks, which are co mmonly used for programming in the cloud (i.e., online) and on your local machine with open-source software su ch as LibreOffice Calc by default installed at home \`\`\`python  # This program demonstrates how to display Hello World! code when running Python programs using Pycharm or Jupyter notebooks, which are commonly used for prog ramming in the cloud (i.e., online) and on your local machine with open-source software such as LibreOffice Calc by default installed at homeprint("Hello World!");```
+
+Now some of the limitation here is from how `privateGPT` displays the output. It is smart enough to be using some standard git markdown for [quoting code](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#quoting-code) (the three back ticks) - which I use throughout this site.
+
+With a bit of manual reformatting, the 'code' becomes a valid working bit of Python code
+```python  
+# This program demonstrates how to display Hello World! code when running Python programs using Pycharm or Jupyter notebooks, which are commonly used for prog ramming in the cloud (i.e., online) and on your local machine with open-source software such as LibreOffice Calc by default installed at home
+print("Hello World!");
+```
+
+Each time `privateGPT` is asked this question it does two things 
+
+1. Uses the LLM to 'write the code' 
+2. Report back on local source documents (my blog posts) that are apparently related
+
+
+In terms of #2, since my blog posts include some mention of Python there are a few. Each query provides a different subset.
+
+
+
+### The president of France
+
+
+> Enter a query: <strong>who is the president of France?</strong>
+
+>  The President of France since January 2021, Emmanuel Macron (formerly Francois Hollande), succeeded in his role after defeating Le Pen by winning over 60% percent
+
+
+When showing it's thinking (i.e. displaying local documents it referenced) `privateGPT` did pick up a 2008 blog post about a trip to Paris. None of which had any information that was used in the response.
+
+
+## Refinements to `privateGPT` and possible next steps
+
+Some ideas about where things might come next
+
+1. Refine the purpose for which the "chatbot" is used.
+  `privateGPT` is meant to enable you to "Ask questions to your documents", but what types of questions? For what purpose? LLMs (some of them) are meant to be good at tasks like summarising, brainstorming, synthesising, etc. Can the model used here do these? What would a service built on this be used for? Answering this help identify if that was possible and what might need to happen (e.g. which of the following) might help. 
+2. Replace the LLM.
+  Out of the box, `privateGPT` has you using the `GPT4All-J v1.3-groovy` LLM. The [GPT4All](https://gpt4all.io/index.html) site has a table with performance benchmarks and a model explorer with more (normal) human readable insights.
+3. Improve/replace the interface.
+  [Example/attempt](https://github.com/imartinez/privateGPT/discussions/487) to get ChatGPT-4 to write a [streamlit version of `privateGPT`](https://streamlit.io/). Couldn't get `streamlit` working on my computer.
+4. More control over whether to rely solely on the LLM, the source documents, or both.
+  e.g. as described [in this discussion thread](https://github.com/imartinez/privateGPT/discussions/438) which includes some hints on how to change the code. But raises the question that currently it tends to just provide a list of relevant documents, rather than limit the LLM to using information within the source documents.
+5. Support "collections" of different documents.
+  Perhaps I want the LLM to query my blog posts and my Zotero library separately.  [This discussion item](https://github.com/imartinez/privateGPT/discussions/298) mentions a technology that might help with that.
+5. Use a fine-tuning framework, rather than embedding framework. 
+  e.g. the discussion thread above points to [h2oGPT](https://github.com/h2oai/h2ogpt#cpu) which is focused on fine-tuning - the other way to [[customising-llms]]
+
+The first five are focused more on refining use of `privateGPT`. Not sure that's the approach I'd use.  Time to move on.
 
 
 [//begin]: # "Autogenerated link references for markdown compatibility"
 [AI]: ../AI "AI"
+[customising-llms]: customising-llms "Customising LLMs"
 [//end]: # "Autogenerated link references"
