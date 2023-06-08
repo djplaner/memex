@@ -211,47 +211,42 @@ And appeared it might be stuck. Try a lot less files - try with 10 and delete th
 
 With the [late update](#late-update---mingw) all is working. I've a locally working GPT chat bot for [my personal blog](https://djon.es/blog) 
 
+What follows is some of the queries I've tried. Formatted for display and accompanied with some commentary.  Findings include 
+
+- Like all LLMs it 
+
 ### What is BAM?
 
-One of my projects over the years was BAM (Blog Aggregation Management). Numerous blog posts talk about BAM. So what is BAM?
+One of my projects over the years was BAM (Blog Aggregation Management). Numerous blog posts talk about BAM. So what is BAM? 
 
-The problems start - hallucination.
+The problems start - hallucination. As highlighted below it's expanded the BAM acronym to "building awareness management", rather than the correct `blog aggregation management`. A search of the source documents (blog posts) and Google reveals nothing even close.
 
-<blockquote>
-Enter a query: <strong>What is BAM?</strong>
-
-BAM stands for <mark>Building Awareness Management System</mark> which aims at extending the concept and ideas around e-learning technology implementation into universities particularly with an emphasis on "web 2.0" concepts, software as a service etc
-
-BAM stands for Building Awareness Management System which aims at extending the concept and ideas around e-learning technology implementation into universities particularly with an emphasis on "web 2.0" concepts, software as a service etc
-</blockquote>
+> Enter a query: <strong>What is BAM?</strong>
+> 
+> BAM stands for <mark>Building Awareness Management System</mark> which aims at extending the concept and ideas around e-learning technology implementation into universities particularly with an emphasis on "web 2.0" concepts, software as a service etc
+>
+> BAM stands for Building Awareness Management System which aims at extending the concept and ideas around e-learning technology implementation into universities particularly with an emphasis on "web 2.0" concepts, software as a service etc
 
 At this stage, `privateGPT` seems to provide some additional insight/background, including explicit mentions of the source documents where information came from files.
 
+![](images/whatIsBAM.png)
+
+### What is the relationship between BIM and BAM? 
+
+BAM actually stood for Blog Aggregation Management. A tool that was later added into Moodle under the acronym BIM - BAM into Moodle. Hence the relationship. Same basic purpose and design, but one is for Moodle and one is not.
+
+`privateGPT` and the current LLM did not do well on this task.
+
+- Even to the extent of both BIM and BAM being used in Moodle 2.x
+- The initial response had duplicated text (only the first para provided immediately below)
+- Some minor hallucination.
+
 <blockquote>
-&gt; Question:
-What is BAM?
+Enter a query: <strong>What is the relationship between BIM and BAM?</strong>
 
-&gt; Answer:
-BAM stands for Building Awareness Management System which aims at extending the concept and ideas around e-learning technology implementation into universities particularly with an emphasis on "web 2.0" concepts, software as a service etc
-
-&gt; source_documents\Blogs-in-E-Learning-BAM-Moodle-and-a-tax.html:
-More information on BAM can be found in this post and on BAM project page. The post is probably the most recent and complete perspective.
-
-The next steps
-
-Since 2006 and its original design and implementation there has been little work done on BAM. Some minor extensions and repurposing, but nothing else. Most, if not all, the publicity and publications about BAM have been web-based and/or by other people. This is about to change.
-
-&gt; source_documents\BAM---making-e-learning-technology-more-.html:
-What is BAM?
-
-It's a research project aimed at extending ideas around how to implement e-learning technology at universities , particularly with an emphasis on what the rise of "web 2.0", software as a service and other related concept s might mean for this practice.
-
-&gt; source_documents\The-story-of-BIM---the-slow-expansion-of.html:
-Based on an earlier experience of BAM, they wanted to use BAM in another course.
-
-&gt; source_documents\Some-potential-updates-to-BAM---a-step-t.html:
-Current limitations of BAM
+ While there may be some overlap in their functionality, BIM (BAm) was originally designed as a way to integrate different educational tools while maintaining its own unique features or benefits from using an agregator-based system. As for technical considerations related specifically to the use of both <mark>BIM and BAm within Moodle2.x series software</mark>, it is worth noting that their development timelines can vary significantly (<mark>BABAM</mark>: Spring 2006; BIM2 was in progress prior to its initial release date).It's also important to note potential compatibility issues between different versions or releases such as when transitioning from an older version of BIm/BIM1.x series software and the newer 2-series Moodle system, although this may vary depending on specific requirements for integration with certain tools (e.g., custom development in various languages)The relationship is not entirely clear at present since there are many technical considerations related to integrating multiple educational systems using agregators that BIM provides but they were designed separately and have different features/benefits from each other's core functions as well as their own unique strengths when used together.  
 </blockquote>
+
 
 
 [//begin]: # "Autogenerated link references for markdown compatibility"
