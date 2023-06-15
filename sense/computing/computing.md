@@ -62,6 +62,7 @@ Computational thinking
 [sense]: ../sense "Sense"
 [integrated-computing]: integrated-computing "Integrated Computing"
 [computational-thinking]: computational-thinking "Computation thinking"
+[computing-ethics]: computing-ethics "Computing related ethics"
 [computing-discipline-definitions]: computing-discipline-definitions "Definitions of computing related disciplines"
 [decomposition]: decomposition "Decomposition"
 [pattern-recognition]: pattern-recognition "pattern-recognition"

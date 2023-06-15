@@ -25,6 +25,24 @@ Over the last 10+ years colleagues and I have been reflecting on experiences try
 2. [[CASA]] - Context Appropriate Scaffolding Assessmblages (Jones, Lawson, Beer, & Jones, 2018; Jones, 2019) and [related blog posts](https://djon.es/blog/category/casa/)
 3. The idea of [[gather-weave-augment]] ([Jones, 2022](https://djon.es/blog/2022/10/10/orchestrating-entangled-relations-to-stretch-the-iron-triangle-observations-from-an-lms-migration/#poster); [Booten, Cook, & Jones, 2023](https://djon.es/blog/2023/02/09/gathers-weavers-and-augmenters-three-principles-for-dynamic-and-sustainable-delivery-of-quality-learning-and-teaching/))
 
+This page is an attempt to explore the relationships between these three mini-theories.  It's a work in progress.
+
+## An initial explanation 
+
+This all takes place within the challenge of helping higher education institutions (HEI) grow access to higher education while maximising both quality and cost efficiency (i.e. stretch the [[iron-triangle]]).
+
+### BAD/SET
+
+The [[bad]]/SET mindsets provide a description of two (arguably) incommensurable approaches to doing this. The SET mindset describes how institutions try to stretch the iron triangle. The BAD mindset describes how individual teachers/teaching teams try to stretch the iron triangle. We argued that there needed to be a way to interweave both these approaches (Jones & Clark, 2014)
+
+### CASA 
+
+As the name suggests - contextually-appropriate scaffolding assemblages - CASA are collections of practices, processes, technologies etc designed to help support a specific L&T activity. Collections that follow the [CASA design principles](https://djon.es/blog/2019/08/08/exploring-knowledge-reuse-in-design-for-digital-learning-tweaks-h5p-constructive-templates-and-casa/#initial-design-principles-adr-stage-4) are thought to be more effective at interweaving the SET and BAD approaches.
+
+
+
+
+
 ## References 
 
 Jones, D., Lawson, C., Beer, C., & Jones, H. (2018). Context-Appropriate Scaffolding Assemblages: A generative learning analytics platform for end-user development and participatory design. *Companion Proceedings of the 8th International Conference on Learning Analytics and Knowledge*.

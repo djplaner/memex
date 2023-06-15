@@ -59,7 +59,6 @@
 [pedagogical-paradigms]: pedagogical-paradigms "Pedagogical Paradigms"
 [guided-didactic-conversation]: guided-didactic-conversation "Guided Didactic Conversation aka teaching-learning conversations"
 [head-first-design]: head-first-design "Head First Design"
-[chunking-lectures]: ../chunking-lectures "chunking-lectures"
 [know-what-and-when]: know-what-and-when "Help the learner know what, when and why to do something"
 [effective-learning-strategies]: effective-learning-strategies "Effective learning strategies"
 [how-learning-works]: how-learning-works "How learning works"
