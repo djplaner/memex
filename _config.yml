@@ -1,4 +1,4 @@
-remote_theme: beautiful-jekyll #jekyll-theme-midnight
+theme: jekyll-theme-midnight
 encoding: UTF-8
 markdown: kramdown
 plugins:
