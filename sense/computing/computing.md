@@ -28,6 +28,12 @@ Topics related to information technology, information systems, computer science
 - [[integrated-computing]]
 - [[computational-thinking]]
 
+## Democratising and Humane technology, ethics etc
+
+Putting people at the centre of technology.
+
+- [[computing-ethics]]
+
 ## Basics 
 
 - [[computing-discipline-definitions]]
