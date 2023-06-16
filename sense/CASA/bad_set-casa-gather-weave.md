@@ -56,7 +56,7 @@ As the name suggests - contextually-appropriate scaffolding assemblages (CASA) -
 
 The [[gather-weave-augment]] idea is based on the observation that [[design-for-learning]] needs to draw on expert knowledge from numerous fields, including contextual knowledge. That the core of supporting and doing [[design-for-learning]] is sustainably and effectively gathering and weaving disparate strands of knowledge into contextual meaningful designs. As suggested by [[entangled-pedagogy]] the ability to orchestrate these disparate strands is a key enabler.
 
-Our recent work (Jones, 2022; Cook et al, 2023) was driven by the limitations and inefficiencies of current practices for gathering and weaving. Limitations that arguably arise because of the limitations of the BAD and SET mindsets. A failure to effectively interweave those mindsets. The most obvious symptom of this failed interweaving was the failure to effectively leverage digital technologies to automate and augment/amplify the necessary gathering and weaving. Leading us to develop a nascent set of principles for doing just that.
+Our recent work (Jones, 2022; Booten et al, 2023) was driven by the limitations and inefficiencies of current practices for gathering and weaving. Limitations that arguably arise because of the limitations of the BAD and SET mindsets. A failure to effectively interweave those mindsets. The most obvious symptom of this failed interweaving was the failure to effectively leverage digital technologies to automate and augment/amplify the necessary gathering and weaving. Leading us to develop a nascent set of principles for doing just that.
 
 
 ![A disparate collection of strands are shown flowing into that SET, BAD and CASA objects.](images/bad-set-casa-gather.png)
