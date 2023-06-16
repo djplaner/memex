@@ -46,13 +46,13 @@ An approach that appears to resonate (duplicate) points from [[complexity-leader
 
 ![Illustration of the chasm between the SET/BAD approaches. Two rectangles (labelled BAD and SET) are separate by a chasm](images/bad-set-chasm.png)
 
-### CASA - One way to bridge the gap (interweave BAD/SET)
+## CASA - One way to bridge the gap (interweave BAD/SET)
 
 As the name suggests - contextually-appropriate scaffolding assemblages (CASA) - are collections of practices, processes, technologies etc designed to help support a L&T activities. Collections that follow the [CASA design principles](https://djon.es/blog/2019/08/08/exploring-knowledge-reuse-in-design-for-digital-learning-tweaks-h5p-constructive-templates-and-casa/#initial-design-principles-adr-stage-4) are thought to be more effective at interweaving the SET and BAD approaches.
 
 ![The chasm between BAD and SET rectangles are filled by numerous figures representing CASA](images/bad-set-casa.png)
 
-### How to automate/augment gathering and weaving 
+## How to automate/augment gathering and weaving 
 
 The [[gather-weave-augment]] idea is based on the observation that [[design-for-learning]] needs to draw on expert knowledge from numerous fields, including contextual knowledge. That the core of supporting and doing [[design-for-learning]] is sustainably and effectively gathering and weaving disparate strands of knowledge into contextual meaningful designs. As suggested by [[entangled-pedagogy]] the ability to orchestrate these disparate strands is a key enabler.
 
