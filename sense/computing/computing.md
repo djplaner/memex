@@ -33,6 +33,7 @@ Topics related to information technology, information systems, computer science
 Putting people at the centre of technology.
 
 - [[computing-ethics]]
+- [[digital-humanism]]
 
 ## Basics 
 
@@ -63,6 +64,7 @@ Computational thinking
 [integrated-computing]: integrated-computing "Integrated Computing"
 [computational-thinking]: computational-thinking "Computation thinking"
 [computing-ethics]: computing-ethics "Computing related ethics"
+[digital-humanism]: digital-humanism "Digital humanism"
 [computing-discipline-definitions]: computing-discipline-definitions "Definitions of computing related disciplines"
 [decomposition]: decomposition "Decomposition"
 [pattern-recognition]: pattern-recognition "pattern-recognition"
