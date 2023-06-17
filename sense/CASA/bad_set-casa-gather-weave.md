@@ -27,6 +27,10 @@ Over the last 10+ years colleagues and I have been reflecting on experiences try
 
 The following arises from a realisation that these are related. The following is a first attempt to make that relationship explicit.
 
+Todo 
+
+- What about the nature of digital technology stuff [post #1](https://davidtjones.wordpress.com/2016/06/27/what-is-the-nature-of-digital-technology-part-1/)
+
 ## Where and why?
 
 This all takes place within the challenge of helping higher education institutions (HEI) grow access to higher education while maximising both quality and cost efficiency (i.e. stretch the [[iron-triangle]]). The assumption is that [[design-for-learning]] is the way to achieve this. Ellis & Goodyear (2019) identify design for learning is key for quality and student satisfaction. Goodyear (2015) argues that seeing teaching as design for learning is an effective way to stretch the iron triangle. Flowing from that is the idea that HEI's should be focused on supporting teaching as design. 

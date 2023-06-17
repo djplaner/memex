@@ -31,13 +31,17 @@ To do
 
 - [DeepLearning LangChain for AI App development](https://learn.deeplearning.ai/langchain/lesson/1/introduction)
  
+SW Dev 
 
-CCJ project
-- Summarise and work on CCJ project - Some to Jeff
-- Share with design team
-- Read up on engagement - start memex on that topic
+- Memex
+  - Get a different theme up and going
 
-Youtube viewings _Causal Island_
+- Canvas 
+  - Ask about git repo (or implement one) for macros 
+
+- Hax
+  - [edtechjoker](https://oer.hax.psu.edu/bto108/sites/edtechjoker/) - web components course
+  - Figure out if/how to just embed hax components in Wordpress, memex, and perhaps Canvas
 
 FLOSS - driver 
 Read [CACM issue](https://dl-acm-org.libraryproxy.griffith.edu.au/toc/cacm/2023/66/5)

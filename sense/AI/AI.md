@@ -31,6 +31,7 @@ Sources that have influenced my thinking, include:
 ## About LLMs
 
 - [[llm-types]] - over of different LLM types
+
 ## Presentations 
 
 - [[building-ai-applications-based-on-learning-research]] - Q&A with Khan Academy on their use of LLMs
@@ -39,6 +40,7 @@ Sources that have influenced my thinking, include:
 
 - [[prompt-engineering]]
 - [[prompt-engineering-for-educators]]
+- [[problem-prompts]]
 
 ## Explorations
 
@@ -58,6 +60,7 @@ Sources that have influenced my thinking, include:
 [building-ai-applications-based-on-learning-research]: building-ai-applications-based-on-learning-research "Building AI applications based on learning research"
 [prompt-engineering]: prompt-engineering "Prompt Engineering"
 [prompt-engineering-for-educators]: prompt-engineering-for-educators "prompt-engineering-for-educators"
+[problem-prompts]: problem-prompts "Problem Prompts"
 [first-llm-api-experiments]: explorations/first-llm-api-experiments "First experiments with LLM APIs"
 [customising-llms]: explorations/customising-llms "Customising LLMs"
 [privateGPT]: explorations/privateGPT "PrivateGPT"
