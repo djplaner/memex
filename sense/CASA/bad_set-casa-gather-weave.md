@@ -29,7 +29,7 @@ The following arises from a realisation that these are related. The following is
 
 Todo 
 
-- What about the nature of digital technology stuff [post #1](https://davidtjones.wordpress.com/2016/06/27/what-is-the-nature-of-digital-technology-part-1/)
+- What about the nature of digital technology stuff [post #1](https://djon.es/blog/2016/06/27/what-is-the-nature-of-digital-technology-part-1/)
 
 ## Where and why?
 
@@ -55,6 +55,13 @@ An approach that appears to resonate (duplicate) points from [[complexity-leader
 As the name suggests - contextually-appropriate scaffolding assemblages (CASA) - are collections of practices, processes, technologies etc designed to help support a L&T activities. Collections that follow the [CASA design principles](https://djon.es/blog/2019/08/08/exploring-knowledge-reuse-in-design-for-digital-learning-tweaks-h5p-constructive-templates-and-casa/#initial-design-principles-adr-stage-4) are thought to be more effective at interweaving the SET and BAD approaches.
 
 ![The chasm between BAD and SET rectangles are filled by numerous figures representing CASA](images/bad-set-casa.png)
+
+## Gathering, weaving and epistemic fluency 
+
+Conceptualising teaching as [[design-for-learning]] has been positioned as an effective way of dealing with the iron triangle dilemma (Goodyear, 2015). To effectively engage in teaching as design teacher-designers "need to be able to draw together the right set of tools, methods, ideas, data (design knowledge) for each circumstance, and they also need meta-level, strategic, knowledge that can guide them in deciding what kinds of knowledge, and ways of knowing, are most likely to help with the specific design problem at hand" (Goodyear et al, 2022, p. 459).
+
+Which we've characterised as gathering and weaving. Perhaps positioning this task as the key problem. i.e. why the SET mindset fails to effectively support design for learning. As it simply can't do epistemic fluency.
+
 
 ## How to automate/augment gathering and weaving 
 

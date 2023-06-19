@@ -21,12 +21,20 @@
 
 The [[gather-weave-augment]] ides - at least in its metaphorical/analogical orgins - is evident in other literature, especially around L&T.  Aim here is to capture some of it. 
 
+## Design for learning 
+
+### Epistemic Fluency 
+
+> Capable teacher-designers need to be able to draw together the right sets of tools, methods, ideas, data (design knowledge) for each circumstance, and they also need meta-level, strategic, knowledge that can guide them in deciding what kinds of knowledge, and ways of knowing, are most likely to help with the specific design problem at hand. Educational design often involves a high level of epistemic fluency – including an ability to find and use the most appropriate kind of knowledge for each part of the design task at hand (Goodyear 2015). Design typically involves a skilful appropriation and blending of different kinds of knowledge, drawn from a variety of sources. (Goodyear, Carvalho & Yeoman, 2021, p. 459)
+
 ## Assessment 
 
 > Stealth assessment is seamlessly woven directly into the fabric of the instructional environment to support learning of important content and key competencies. (Shute, 2011, p. 504)
 
 
 ## References
+
+Goodyear, P., Carvalho, L., & Yeoman, P. (2021). Activity-Centred Analysis and Design (ACAD): Core purposes, distinctive qualities and current developments. *Educational Technology Research and Development*, *69*(2), 445--464. <https://doi.org/10.1007/s11423-020-09926-7>
 
 Shute, V. J. (2011). Stealth assessment in computer-based games to support learning. In *Computer games and instruction* (pp. 503--524). IAP Information Age Publishing.
 
