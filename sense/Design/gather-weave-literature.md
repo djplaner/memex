@@ -23,7 +23,9 @@ The [[gather-weave-augment]] ides - at least in its metaphorical/analogical orgi
 
 ## Design for learning 
 
-> Student engagement can lead to a successful online learning experience when fit-for-purpose technology, quality instructional design, learner dispositions and skills, and educator knowledge and pedagogies specific to online teaching converge (Buckingham Shum and Deakin Crick, 2012; Gedera, 2014; Langub and Lokey-Vega, 2017), but learner perspectives remain critical to understanding how online learning can be improved.
+> I present a model of entangled pedagogy that encapsulates the **mutual shaping of technology**, teaching methods, purposes, values and context. Entangled pedagogy is collective, and agency is negotiated between teachers, students and other stakeholders. Outcomes are contingent on complex relations and cannot be determined in advance. (Fawns, 2022, ??)
+
+> Student engagement can lead to a successful online learning experience when fit-for-purpose technology, quality instructional design, learner dispositions and skills, and educator knowledge and pedagogies specific to online teaching converge (Buckingham Shum and Deakin Crick, 2012; Gedera, 2014; Langub and Lokey-Vega, 2017), but learner perspectives remain critical to understanding how online learning can be improved. (Tualaulelei et al, 2022)
 
 ### Epistemic Fluency 
 
@@ -35,6 +37,8 @@ The [[gather-weave-augment]] ides - at least in its metaphorical/analogical orgi
 
 
 ## References
+
+Fawns, T. (2022). An Entangled Pedagogy: Looking Beyond the Pedagogy---Technology Dichotomy. *Postdigital Science and Education*, *4*(3), 711--728. <https://doi.org/10.1007/s42438-022-00302-7>
 
 Goodyear, P., Carvalho, L., & Yeoman, P. (2021). Activity-Centred Analysis and Design (ACAD): Core purposes, distinctive qualities and current developments. *Educational Technology Research and Development*, *69*(2), 445--464. <https://doi.org/10.1007/s11423-020-09926-7>
 

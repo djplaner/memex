@@ -29,6 +29,9 @@ Done
 
 To do
 
+- Feedback to Jeff 
+- Nudge document
+
 - [DeepLearning LangChain for AI App development](https://learn.deeplearning.ai/langchain/lesson/1/introduction)
  
 SW Dev 
@@ -36,15 +39,22 @@ SW Dev
 - Memex
   - Get a different theme up and going
 
+- Presentations 
+  - [reveal.js](https://revealjs.com/) and [reveal-md](https://github.com/webpro/reveal-md) - options for markdown presentations
+
 - Canvas 
   - Ask about git repo (or implement one) for macros 
 
 - Hax
   - [edtechjoker](https://oer.hax.psu.edu/bto108/sites/edtechjoker/) - web components course
   - Figure out if/how to just embed hax components in Wordpress, memex, and perhaps Canvas
+  - Hax editor as LTI for Canvas e.g. [icon](https://ranga-auaha-ako.github.io/canvas-icons/) (Svelte and SvelteKit) - and [code here](https://github.com/Ranga-Auaha-Ako/canvas-icons) and lots of other stuff.
 
 FLOSS - driver 
-Read [CACM issue](https://dl-acm-org.libraryproxy.griffith.edu.au/toc/cacm/2023/66/5)
+
+Read 
+- [CACM issue](https://dl-acm-org.libraryproxy.griffith.edu.au/toc/cacm/2023/66/5)
+- Yori Benkler - Wealth of Networks (Zotero)
 
 
 Possible
