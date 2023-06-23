@@ -12,10 +12,17 @@ Take a look at
 
 Loewenberg Ball, D., & Forzani, F. M. (2009). The Work of Teaching and the Challenge for Teacher Education. *Journal of Teacher Education*, *60*(5), 497--511. <https://doi.org/10.1177/0022487109348479>
 
+## Meta 
+
+Work about how to encourage/support teaching
 
 ## Philosophy (Declarative)
 
+Belief about how people learn, what is knowledge etc
+
 ## High level pedagogy (Conceptual)
+
+More concrete instantiation of philosophcial positions into pedagogical approaches
 
 - [[ungrading]]
 
@@ -23,7 +30,11 @@ Loewenberg Ball, D., & Forzani, F. M. (2009). The Work of Teaching and the Chall
 
 ## Pedagogical strategy (Procedural)
 
+Broad brush depiction of plans
+
 ## Pedagogical tactics (Operational)
+
+Details moves through which strategic is effected 
 
 - [[question-for-retrieval]]
 - [[worked-examples]]
