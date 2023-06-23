@@ -1,4 +1,5 @@
-remote_theme: mmistakes/minimal-mistakes
+remote_theme: samarsault/texture
+base_url:
 encoding: UTF-8
 markdown: kramdown
 plugins:
