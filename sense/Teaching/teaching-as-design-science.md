@@ -23,7 +23,9 @@ See also: [[teaching]]
 
 ## Laurillard, 2012
 
-The basic argument is that to move L&T forward in higher ed - esp. in how it uses technology - it needs to better of way of "harnessing and consolidating" the knowledge and practice of teachers "by looking at what it means to treat teaching as a design science" (p. 210).  i.e.
+> Teaching is a design science. Like the professions of engineering, architecture, computer science, and medicine, it is not only trying to understand the world but to make the world a better place. Unlike these professions, however, it has not, traditionally, been treated as if teaching is meant to be anything other than a craft-amateur enterprise, where every teacher works alone with their students to do the best they can, given their initial training (p. 225)
+
+One reason for this move is that to move L&T forward in higher ed - esp. in how it uses technology - it needs to better of way of "harnessing and consolidating" the knowledge and practice of teachers "by looking at what it means to treat teaching as a design science" (p. 210).  i.e.
 
 > Chapter 1 proposed that teachers acting as design scientists would observe four basic precepts, to 
 >

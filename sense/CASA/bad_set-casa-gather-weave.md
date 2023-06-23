@@ -56,6 +56,10 @@ As the name suggests - contextually-appropriate scaffolding assemblages (CASA) -
 
 ![The chasm between BAD and SET rectangles are filled by numerous figures representing CASA](images/bad-set-casa.png)
 
+### The need for CASA 
+
+> Teachers, as much as any other profession, need custom-built digital tools to help them with their ever more complex working environment. They deserve better support from digital technology. And it could make the critical difference to changing what they are able to do with their students. (Laurillard, 2012, p. 222)
+
 ## Gathering, weaving and epistemic fluency 
 
 Conceptualising teaching as [[design-for-learning]] has been positioned as an effective way of dealing with the iron triangle dilemma (Goodyear, 2015). To effectively engage in teaching as design teacher-designers "need to be able to draw together the right set of tools, methods, ideas, data (design knowledge) for each circumstance, and they also need meta-level, strategic, knowledge that can guide them in deciding what kinds of knowledge, and ways of knowing, are most likely to help with the specific design problem at hand" (Goodyear et al, 2022, p. 459).
@@ -96,6 +100,8 @@ Ellis, R. A., & Goodyear, P. (2019). *The Education Ecology of Universities: Int
 Jones, D., Lawson, C., Beer, C., & Jones, H. (2018). Context-Appropriate Scaffolding Assemblages: A generative learning analytics platform for end-user development and participatory design. *Companion sProceedings of the 8th International Conference on Learning Analytics and Knowledge*.
 
 Goodyear, P. (2015). Teaching As Design. *HERDSA Review of Higher Education*, *2*, 27--50.
+
+Laurillard, D. (2012). *Teaching as a Design Science: Building Pedagogical Patterns for Learning and Technology*. Routledge.
 
 
 
