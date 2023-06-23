@@ -1,4 +1,5 @@
-theme: jekyll-theme-cayman
+#theme: jekyll-theme-cayman
+remote_theme: mmistakes/minimal-mistakes
 encoding: UTF-8
 markdown: kramdown
 plugins:
