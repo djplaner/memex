@@ -1,5 +1,4 @@
-theme: minima
-base_url:
+theme: jekyll-theme-minima
 encoding: UTF-8
 markdown: kramdown
 plugins:
