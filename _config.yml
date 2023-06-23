@@ -1,4 +1,4 @@
-theme: samarsault/texture
+theme: texture
 base_url:
 encoding: UTF-8
 markdown: kramdown
