@@ -21,7 +21,9 @@
 
 See also: [[hax-as-casa]], [[hax]]
 
-[HAX-the-web](https://haxtheweb.org/) - "a next generation block editor tha works via web components"
+[HAX-the-web](https://haxtheweb.org/) - "a next generation block editor tha works via web components". With [integrations into numerous CMS](https://haxtheweb.org/integrations-1): 11ty, Wordpress, Drupal, BackdropCMS, ClassicPress, GravCMS
+
+Wordpress version is a but buggy.
 
 ## Misc resources 
 
