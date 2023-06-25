@@ -35,6 +35,8 @@ Todo
 
 This all takes place within the challenge of helping higher education institutions (HEI) grow access to higher education while maximising both quality and cost efficiency (i.e. stretch the [[iron-triangle]]). The assumption is that [[design-for-learning]] is the way to achieve this. Ellis & Goodyear (2019) identify design for learning is key for quality and student satisfaction. Goodyear (2015) argues that seeing teaching as design for learning is an effective way to stretch the iron triangle. Flowing from that is the idea that HEI's should be focused on supporting teaching as design. 
 
+Laurillard (2012) mentions the UNESCO Millenium goal of _Education for All_ as exemplifying "the gap between ambition and reality" (p. 226)
+
 How does a HEI support teaching as design to stretch the iron triangle?
 
 Increasingly, I'm wondering 

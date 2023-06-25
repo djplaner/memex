@@ -24,8 +24,8 @@ Belief about how people learn, what is knowledge etc
 
 More concrete instantiation of philosophcial positions into pedagogical approaches
 
+- 
 - [[ungrading]]
-
 - [[assessment-of-process]]
 
 ## Pedagogical strategy (Procedural)
