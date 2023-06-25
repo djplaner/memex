@@ -5,6 +5,8 @@ Bubble holding misc. thoughts about design.
 
 Figuring out where my practice sits?
 - [[conceptualising-educational-design]]
+- [[learning-design-ontologies]]
+ 
  
 ### General Learning Design
 
