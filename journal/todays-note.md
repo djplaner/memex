@@ -38,6 +38,10 @@ SW Dev
 
 - Memex
   - Get a different theme up and going
+  - home page 
+    - add about
+    - improve visual design of overlays (colour?)
+    - some way to indicate count down for next image?
 
 - Presentations 
   - [reveal.js](https://revealjs.com/) and [reveal-md](https://github.com/webpro/reveal-md) - options for markdown presentations
