@@ -23,7 +23,7 @@ See also: [[learning]], [[design]], [[teaching-as-design-science]]
 
 ## Overview 
 
-Deep ppproaches to learning design typically end up creating an "ontology" of learning design. 
+Deep approaches to learning design typically end up creating an "ontology" of learning design. 
 
 
 ## HAX Course Ontology 
