@@ -29,8 +29,10 @@ Done
 
 To do
 
+CCJ 
 - Feedback to Jeff 
-- Nudge document
+- Share DHL&T ideas 
+- Next steps
 
 - [DeepLearning LangChain for AI App development](https://learn.deeplearning.ai/langchain/lesson/1/introduction)
  
