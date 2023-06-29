@@ -29,10 +29,13 @@ Done
 
 To do
 
+SharePoint 
+
 CCJ 
-- Feedback to Jeff 
-- Share DHL&T ideas 
-- Next steps
+- Welcome design & Weekly design
+- Advice to Nadine about tweaks to nudging
+
+Candian Law
 
 - [DeepLearning LangChain for AI App development](https://learn.deeplearning.ai/langchain/lesson/1/introduction)
  

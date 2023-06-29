@@ -21,7 +21,12 @@
 
 See also: [[design]], [[entangled-pedagogy]]
 
-Numerous authors (Ascough, 2002; Leijen et al, 2008; Glover et al, 2016; Cowling & Birt, 2018) suggest that thinking of the "pedagogy before the technology" is a good approach to designing learning and teaching experiences.
+Numerous authors (Ascough, 2002; Leijen et al, 2008; Glover et al, 2016; Cowling & Birt, 2018; Sankey et al, 2020) suggest that thinking of the "pedagogy before the technology" is a good approach to designing learning and teaching experiences.
+
+aka 
+
+- Put the pedagogy horse before the technology cart 
+- pedagogy is the driver and technology is the accelerator (Tsui and Tavares, 2021)
 
 
 # Challenges
@@ -49,6 +54,8 @@ Fleer, M. (2023). *Technologies for Children*. Cambridge University Press.
 Glover, I., Hepplestone, S., Parkin, H. J., Rodger, H., & Irwin, B. (2016). Pedagogy first: Realising technology enhanced learning by focusing on teaching practice. *British Journal of Educational Technology*, *47*(5), 993--1002. <https://doi.org/10.1111/bjet.12425>
 
 Leijen, Ä., Admiraal, W. F., Wildschut, L., & Robert-Jan Simons, P. (2008). Pedagogy before technology: What should an ICT intervention facilitate in practical dance classes? *Teaching in Higher Education*, *13*(2), 219--231. <https://doi.org/10.1080/13562510801923351>
+
+Sankey, M., Zhang, Y., & Xiao, J. (2020). Putting the pedagogic horse in front of the technology cart. *Journal of Distance Education in China*, *5*, 46-53+77.
 
 Tsui, A. B. M., & Tavares, N. J. (2021). The Technology Cart and the Pedagogy Horse in Online Teaching. *English Teaching & Learning*, *45*(1), 109--118. <https://doi.org/10.1007/s42321-020-00073-z>
 
