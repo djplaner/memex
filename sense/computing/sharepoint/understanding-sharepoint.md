@@ -23,18 +23,25 @@ See also: [[computing]]
 
 Aim here is to document and ponder some experiments with Sharepoint for the purposes of supporting the work of a small (learning/curriculum) design group.
 
+
+| Object | Description |
+| ------ | ----------- |
+| SharePoint | 	|
+|
+
+
 A SharePoint site (web site?) supports a number of different items
 
 | Item | Description |
 | ---- | ----------- |
+| SharePoint Site | |
+| Microsoft Team | |
 | List | |
 | Document Library | "Filing cabinent" place to organise files and folders |
-| Page | |
-| Space | |
-| News post | |
-| News link| |
-| Plan | |
-| App | |
+| Folder | |
+| View | |
+| Metadata | | 
+| Document Set | |
 
 Limits  
 - Number of items that can be viewed - 5,000 or so and performance is a pain, including syncing
@@ -109,6 +116,10 @@ How to set up document sets
 
 ## Metadata 
 
+- [Metadata](https://learn.microsoft.com/en-us/sharepoint/managed-metadata) organised at SharePoint site level. Information about the files. 
+- Beyond default metadata, can create your own using SharePoint columns (aka fields). Updated via a form.
+- Defining the categories and tags is the hard bit.
+- SharePoint supports site columns via "site columns"
 
 
 
