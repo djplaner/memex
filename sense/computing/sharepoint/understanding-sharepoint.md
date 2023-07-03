@@ -24,14 +24,6 @@ See also: [[computing]]
 Aim here is to document and ponder some experiments with Sharepoint for the purposes of supporting the work of a small (learning/curriculum) design group.
 
 
-| Object | Description |
-| ------ | ----------- |
-| SharePoint | 	|
-|
-
-
-A SharePoint site (web site?) supports a number of different items
-
 | Item | Description |
 | ---- | ----------- |
 | SharePoint Site | |

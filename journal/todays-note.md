@@ -29,11 +29,12 @@ Done
 
 To do
 
+Reach out to Elizabeth 
+
 SharePoint 
 
 CCJ 
 - Welcome design & Weekly design
-- Advice to Nadine about tweaks to nudging
 
 Candian Law
 
