@@ -3,7 +3,7 @@
   "editor.wrappingIndent": "indent",
   "editor.overviewRulerBorder": false,
   "editor.lineHeight": 24,
-  "workbench.colorTheme": "Gray Matter Dark",
+  "workbench.colorTheme": "Default Dark Modern",
   "[markdown]": {
     "editor.quickSuggestions": {
       "comments": "on",

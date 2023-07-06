@@ -44,7 +44,7 @@ Putting people at the centre of technology.
 
 - [[computing-discipline-definitions]]
 
-Computational thinking
+### Computational thinking
 - [[decomposition]] breaking the problem into multiple parts
 - [[pattern-recognition]] looking for similarities and trends
 - [[abstraction]]: putting aside what is unnecessary and focusing on what’s important
@@ -65,7 +65,6 @@ Computational thinking
 ## Teaching 
 
 - [[computing-project-ideas]]
-
 
 ## Technologies 
 
