@@ -16,7 +16,7 @@ And unallocated notes in [[loose]]
 - [[computing]]
   - [[floss]]
 - [[conferences]]
-- [[concepts]] - go live
+- [[concepts]]
 - [[design]]
 - [[digital-literacy]]
 - [[ethics-critical]]
@@ -69,7 +69,6 @@ And unallocated notes in [[loose]]
 [research]: research "Research"
 [representations]: Representations/representations "Representations"
 [sharing-design-knowledge]: sharing-design-knowledge "Sharing design knowledge"
-[society]: society "Society"
 [teaching]: Teaching/teaching "Teaching"
 [web-development]: web-development "Web development"
 [work-categories]: ../work/work-categories "Work categories"
