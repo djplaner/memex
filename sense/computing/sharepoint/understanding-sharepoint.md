@@ -23,17 +23,24 @@ See also: [[computing]]
 
 Aim here is to document and ponder some experiments with Sharepoint for the purposes of supporting the work of a small (learning/curriculum) design group.
 
+Resources: 
 
-| Item | Description |
+- [Overview of Teams and SharePoint integration](https://learn.microsoft.com/en-us/sharepoint/teams-connected-sites)
+- [Create a Microsoft Team from SharePoint](https://support.microsoft.com/en-us/office/create-a-microsoft-team-from-sharepoint-545973b6-c38f-426a-b2b6-16405a561628)
+- [Use the SharePoint Team collaboration template](https://support.microsoft.com/en-us/office/use-the-sharepoint-team-collaboration-site-template-75545757-36c3-46a7-beed-0aaa74f0401e)
+
+## Overview
+
+| Item | Description | Possible Purpose |
 | ---- | ----------- |
-| SharePoint Site | |
-| Microsoft Team | |
-| List | |
-| Document Library | "Filing cabinent" place to organise files and folders |
-| Folder | |
-| View | |
-| Metadata | | 
-| Document Set | |
+| Microsoft Team |  | A new SharePoint site is created for each team. Could be the starting point and also provide access to Team's additional collaboration facilities. |
+| SharePoint Site | The "parent" of all the abstractions below | Intended to be used to create websites. In this context, is simply the "foundation" for what we do. |
+| List | | |
+| Document Library | "Filing cabinent" place to organise files and folders | |
+| Folder | | |
+| View | | |
+| Metadata | |  |
+| Document Set | | |
 
 Limits  
 - Number of items that can be viewed - 5,000 or so and performance is a pain, including syncing
