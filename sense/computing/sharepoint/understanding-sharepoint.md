@@ -31,18 +31,25 @@ Resources:
 
 ## Overview
 
-| Item | Description | Possible Purpose |
+| Item | Description |
 | ---- | ----------- |
-| Microsoft Team |  | A new SharePoint site is created for each team. Could be the starting point and also provide access to Team's additional collaboration facilities. |
-| SharePoint Site | The "parent" of all the abstractions below | Intended to be used to create websites. In this context, is simply the "foundation" for what we do. |
-| List | | |
-| Document Library | "Filing cabinent" place to organise files and folders | |
+| Microsoft Team | A new SharePoint site is created for each team. Could be the starting point and also provide access to Team's additional collaboration facilities. |
+| SharePoint Site | The "parent" of all the abstractions below. Intended to be used to create websites. In this context, is simply the "foundation" for what we do. |
+| Metadata | |  |
+| [Content type](https://www.mrsharepoint.guru/sharepoint-content-types/) | Collections of different metadata properties. Some pre-defined, more can be created. |
+| Document Library | "Filing cabinent" place to organise files and folders | Have different document libraries for different purposes |
+| List | Store non-documentation information | Used to filter, track and manage non-document information |
 | Folder | | |
 | View | | |
-| Metadata | |  |
-| Document Set | | |
+| [Document Set](https://support.microsoft.com/en-au/office/introduction-to-document-sets-3dbcd93e-0bed-46b7-b1ba-b31de2bcd234) | Create and manage (do different stuff) to a collection of documents as a single entity. A pre-defined content type|
 
-Limits  
+
+questions
+
+- Should we start by defining content types?
+
+## Limits  
+
 - Number of items that can be viewed - 5,000 or so and performance is a pain, including syncing
   - No more than 20,000 files in a single library 
   - Create multiple libraries
