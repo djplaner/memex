@@ -5,6 +5,7 @@ Holding space
 ## Learning, teaching 
 
 - [[forward-oriented-design]]
+- [[education 4.0]]
 
 ## Technology 
 
