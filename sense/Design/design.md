@@ -7,7 +7,6 @@ Figuring out where my practice sits?
 - [[conceptualising-educational-design]]
 - [[learning-design-ontologies]]
  
- 
 ### General Learning Design
 
 - [[design-for-learning]]
@@ -58,6 +57,7 @@ Curriculum design
 - [[goodyear-shaping-spaces]]
 - [[iron-triangle]]
   - [[consistency-quality]] - rather than consistency, maybe it needs to be good?
+  - [[consistency]]
   - [[scale]]
 
 
@@ -124,10 +124,11 @@ Curriculum design
 [training-learning-paths]: canvas/training-learning-paths "Creating learning paths"
 [design-plus-training]: canvas/design-plus-training "Design Plus Training"
 [conservation-of-complexity]: conservation-of-complexity "The Law of Conservation of Complexity"
-[gather-weave-augment]: ../CASA/gather-weave-augment "Gather, Weave, and Augment"
+[gather-weave]: ../CASA/gather-weave "Gather and Weave"
 [goodyear-shaping-spaces]: goodyear-shaping-spaces "Shaping Spaces - Peter Goodyear ALTC 2017 Keynote"
 [iron-triangle]: iron-triangle "Iron Triangle"
 [consistency-quality]: consistency-quality "Consistency vs quality?"
+[consistency]: consistency "Consistency"
 [scale]: scale "Scale and learning, teaching & education"
 [atomic-design]: atomic-design "Atomic Design"
 [design-systems]: design-systems "Design Systems"
