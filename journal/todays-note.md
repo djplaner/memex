@@ -21,33 +21,23 @@
 
 Attempt to start a daily to do list as a way of working. 
 
-All current to dos are listed here.  When they are complete, they are moved into a daily note - at the end of the day preferably. Along with re-organising today's note. 
 
-# Migration 
-
-- VS-Code plugins
-- Pictures and photos set up 
-  - Mac 
-  - Cloud - iCloud and Flickr 
 ## Work 
 
 Done 
 
 To do
 
-Reach out to Elizabeth 
-
-SharePoint 
-
-CCJ 
-- Welcome design & Weekly design
-
-Candian Law
+- Response to Jeff
+  - Our work has been quick, high level and focused on his Griffith course 
+  - Not so much OUA
+  - Not so much focused on particular component types - if/how they can be improved
+  - The idea of principles and linking to broad CCJ frameworks
+  - If/what artefacts might support this e.g. new academic, how we do things around here
+- PCSD
 
 - [DeepLearning LangChain for AI App development](https://learn.deeplearning.ai/langchain/lesson/1/introduction)
  
-SW Dev 
-
 - Memex
   - Get a different theme up and going
   - home page 
