@@ -23,6 +23,13 @@ See also: [[computing]]
 
 Storage space for misc. ideas for computing projects.
 
+## Open source
+
+### Program office
+
+Two US universities announce an [open-source program office](https://madisoncollege.edu/about/news/madison-college-partners-uw-madison-establish-open-source-program-office)
+
+> The OSPO will develop partnerships with both communities and enterprises, ensuring that the benefits of open-source applications extend across the state and beyond. In partnership with the Wisconsin Alumni Research Foundation (WARF), the OSPO will provide guidance to entrepreneurs on topics such as open-source software licensing, and it will explore ways to support campus entrepreneurship programs. In addition, students from Madison College and UW–Madison will participate in paid open-source development internships, and businesses and other organizations will have opportunities to work with these interns to address real-world challenges.
 
 ## Situational Awareness 
 
