@@ -24,11 +24,13 @@ Attempt to start a daily to do list as a way of working.
 
 ## Work 
 
-Done 
-
 To do
 
 - PCSD
+- Document process for assessment uplift project and share
+  - Look for shared document library - just go back to mine on activities
+  - who else is doing LHS courses
+  - look at definitions of the criteria - shared document
 - Share and critique assessment templates from earlier (templates should show what, but also explain why and how)
 
 - [DeepLearning LangChain for AI App development](https://learn.deeplearning.ai/langchain/lesson/1/introduction)
