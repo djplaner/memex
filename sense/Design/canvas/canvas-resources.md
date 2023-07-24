@@ -28,6 +28,7 @@ Curated list of Community and open source contributions. A fair number out of da
 Lists
 - [Sample layouts from NorthWestern](https://canvas.northwestern.edu/courses/44486/pages/sample-canvas-course-layouts?module_item_id=520943)
 - [Collection of home page designs](https://community.canvaslms.com/t5/Canvas-Instructional-Designer/Template-for-Canvas-Homepage/m-p/79770/highlight/true#M2523)
+- University Melbourne [School of Design](https://msd.unimelb.edu.au/belt/technology/canvas) - templates, tiles etc.
 
 ## Course design
 

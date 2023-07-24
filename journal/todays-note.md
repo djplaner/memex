@@ -57,7 +57,6 @@ FLOSS - driver
 
 ## Reading
 
-- Markauskaite, L., & Goodyear, P. (2017). Creating Epistemic Environments: Learning, Teaching and Design. In L. Markauskaite & P. Goodyear (Eds.), *Epistemic Fluency and Professional Education: Innovation, Knowledgeable Action and Actionable Knowledge* (pp. 595--614). Springer Netherlands. [https://doi.org/10.1007/978-94-007-4369-4\_20](https://doi.org/10.1007/978-94-007-4369-4_20) **gather & weave**
 - [Innovating pedagogy report](https://www.open.ac.uk/blogs/innovating/?p=784)
 - [Is maths real](https://www.amazon.com.au/Maths-Real-Questions-Mathematics-Deepest-ebook/dp/B0BB8FF8B2)
 - Fischer, L. H., & Baskerville, R. (2023). Explaining sociotechnical change: An unstable equilibrium perspective. *European Journal of Information Systems*, *32*(4), 634--652. <https://doi.org/10.1080/0960085X.2021.2023669>
