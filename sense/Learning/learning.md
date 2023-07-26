@@ -15,6 +15,7 @@
 ## Learning Science
 
 - [[learning-science-at-khan-academy]]
+- [[self-regulated-learning]]
 
 ## Learning Research
 
@@ -25,7 +26,7 @@
 - [[pedagogical-paradigms]] - Dron and Anderson (2022)
 - [[guided-didactic-conversation]]
 - [[head-first-design]]
-- [[chunking-lectures]]
+- [[chunking]]
 
 ### Principles
 
@@ -62,10 +63,12 @@
 [orchestration]: ../../orchestration "Orchestration"
 [learning-activity-types]: learning-activity-types "Learning activity types"
 [learning-science-at-khan-academy]: learning-science/learning-science-at-khan-academy "Learning Sciences at Khan Academy"
+[self-regulated-learning]: self-regulated-learning "Self Regulated Learning"
 [research-feedback]: learning-research/research-feedback "Research on Feedback in Learning"
 [pedagogical-paradigms]: pedagogical-paradigms "Pedagogical Paradigms"
 [guided-didactic-conversation]: guided-didactic-conversation "Guided Didactic Conversation aka teaching-learning conversations"
 [head-first-design]: head-first-design "Head First Design"
+[chunking]: chunking "Chunking learning"
 [know-what-and-when]: know-what-and-when "Help the learner know what, when and why to do something"
 [effective-learning-strategies]: effective-learning-strategies "Effective learning strategies"
 [how-learning-works]: how-learning-works "How learning works"
