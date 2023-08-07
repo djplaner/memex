@@ -31,6 +31,7 @@ Sources that have influenced my thinking, include:
 ## About LLMs
 
 - [[llm-types]] - over of different LLM types
+- [Weird world of LLMS](https://simonwillison.net/2023/Aug/3/weird-world-of-llms/) - interesting presentation giving different perspectives.
 
 ## Presentations 
 

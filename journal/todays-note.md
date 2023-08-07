@@ -26,6 +26,14 @@ Attempt to start a daily to do list as a way of working.
 
 To do
 
+Questions
+
+- Empirical research around what CCJ students - engagement  
+
+- Notes from yesterdays uplift projects
+- "course profile" bridging
+- Follow up with Robbie re: missing courses
+
 - Lai, P. K., & Markauskaite, L. (2023). Innovation and the Role of Emerging Technologies. In M. D. Sankey, H. Huijser, & R. Fitzgerald (Eds.), *Technology-Enhanced Learning and the Virtual University* (pp. 1--18). Springer Nature. [https://doi.org/10.1007/978-981-19-9438-8\_7-1](https://doi.org/10.1007/978-981-19-9438-8_7-1) -- CASA, learning activity, participatory
 
 - [Value sensitive design](https://en.wikipedia.org/wiki/Value_sensitive_design) 
