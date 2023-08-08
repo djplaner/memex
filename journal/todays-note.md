@@ -30,11 +30,16 @@ Questions
 
 - Empirical research around what CCJ students - engagement  
 
+- Does the following help with 2005CCJ 
+
+Black, P. E., & Plowright, D. (2010). A multi‐dimensional model of reflective learning for professional development. *Reflective Practice*, *11*(2), 245--258. <https://doi.org/10.1080/14623941003665810>
+
 - Notes from yesterdays uplift projects
 - "course profile" bridging
 - Rubric resources
 
 - van Laar, E., van Deursen, A. J. A. M., van Dijk, J. A. G. M., & de Haan, J. (2017). The relation between 21st-century skills and digital skills: A systematic literature review. *Computers in Human Behavior*, *72*, 577--588. <https://doi.org/10.1016/j.chb.2017.03.010>
+
 
 - Lai, P. K., & Markauskaite, L. (2023). Innovation and the Role of Emerging Technologies. In M. D. Sankey, H. Huijser, & R. Fitzgerald (Eds.), *Technology-Enhanced Learning and the Virtual University* (pp. 1--18). Springer Nature. [https://doi.org/10.1007/978-981-19-9438-8\_7-1](https://doi.org/10.1007/978-981-19-9438-8_7-1) -- CASA, learning activity, participatory
 
