@@ -8,6 +8,10 @@ category="casa"
 img_base_url="https://djplaner.github.io/memex/share/blog/"
 ```
 
+Dave Farley and Kent Beck discuss stuff including why waterfall is making a come back, never really went away.  My interpretation is due to there being different epistemic views (e.g. people doing wireframe , management etc) and management techniques that can't handle gathering/weaving.
+
+
+
 In his post - [*How do we design the need for design?*](https://beerc.wordpress.com/2023/07/10/how-do-we-design-the-need-for-design/) - Col muses on challenges involving learning, teaching, and digital technology in learning and teaching. The post closes with this
 
 **Laurillard tool quote**
