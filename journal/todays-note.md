@@ -26,6 +26,11 @@ Attempt to start a daily to do list as a way of working.
 
 To do
 
+- Oleg and crew re: onDestroy
+- Uplift summaries to all 
+- Analytics request to Julie 
+- Prepare for bridging course
+
 Questions
 
 - Empirical research around what CCJ students - engagement  
