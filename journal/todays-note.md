@@ -38,6 +38,8 @@ Black, P. E., & Plowright, D. (2010). A multi‐dimensional model of reflective 
 - "course profile" bridging
 - Rubric resources
 
+- [Guide to install Canvas](https://elearningevolve.com/blog/install-canvas-lms/) - ubuntu
+
 - van Laar, E., van Deursen, A. J. A. M., van Dijk, J. A. G. M., & de Haan, J. (2017). The relation between 21st-century skills and digital skills: A systematic literature review. *Computers in Human Behavior*, *72*, 577--588. <https://doi.org/10.1016/j.chb.2017.03.010>
 
 
@@ -48,7 +50,12 @@ Black, P. E., & Plowright, D. (2010). A multi‐dimensional model of reflective 
 
 - [DeepLearning LangChain for AI App development](https://learn.deeplearning.ai/langchain/lesson/1/introduction)
  
-- Memex
+## Mathematics
+
+- [Undersatnd math learning area](https://v9.australiancurriculum.edu.au/teacher-resources/understand-this-learning-area/mathematics)
+
+
+### Memex
   - Get a different theme up and going
   - home page 
     - add about
