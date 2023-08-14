@@ -26,16 +26,24 @@ Attempt to start a daily to do list as a way of working.
 
 To do
 
-- Oleg and crew re: onDestroy
 - Uplift summaries to all 
-- Analytics request to Julie 
 - Prepare for bridging course
+- reach out to the library re: hosting COllections
 
 Questions
 
 - Empirical research around what CCJ students - engagement  
 - [Cultural training](https://bblearn.griffith.edu.au/webapps/blackboard/content/listContentEditable.jsp?content_id=_6823433_1&course_id=_102432_1)
 - Does the following help with 2005CCJ 
+
+
+Software
+
+- [datasette](https://datasette.io/)
+- [llm](https://github.com/simonw/llm)
+- [shotscraper](https://github.com/simonw/shot-scraper)
+
+- CO-3D - co-design, co-development, co-delivery
 
 Black, P. E., & Plowright, D. (2010). A multi‐dimensional model of reflective learning for professional development. *Reflective Practice*, *11*(2), 245--258. <https://doi.org/10.1080/14623941003665810>
 
