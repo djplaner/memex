@@ -27,8 +27,13 @@ Attempt to start a daily to do list as a way of working.
 To do
 
 - Uplift summaries to all 
+- Update & upload PCSD document
 - Prepare for bridging course
 - reach out to the library re: hosting COllections
+- Bridging course todos
+- assessment uplift
+  - Email CCJ folk re: rubric writing tool.
+  - Share short-arc rubric design tool idea with LMS design
 
 Questions
 
