@@ -15,6 +15,7 @@ Tags: [[teaching]]
 ## Teaching tips
 
 - [[foster-critical-creative-thinking-mathematics]]
+- Example of QCAA "advice for students learning from home" [General Mathematics](https://www.qcaa.qld.edu.au/downloads/senior-qce/mathematics/snr_general_maths_21_covid_factsheet.pdf) - potential source of resources/ideas
 
 
 ## Mathematics teaching frameworks
