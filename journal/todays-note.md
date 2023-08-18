@@ -75,6 +75,7 @@ Black, P. E., & Plowright, D. (2010). A multi‐dimensional model of reflective 
 
 ### Memex
   - Get a different theme up and going
+  - [mkdoc template](https://github.com/Jackiexiao/foam-mkdocs-template) - using mkdocs roam links plugin
   - home page 
     - add about
     - improve visual design of overlays (colour?)

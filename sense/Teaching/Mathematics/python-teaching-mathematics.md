@@ -10,6 +10,10 @@
 
 ## Misc resources
 
+- [Oz Curriculum - Python Tutorial](https://www.australiancurriculum.edu.au/media/6668/python-workshop-workbook.pdf)
+
+    Designed to support digital technologies teachers. Standard Python tutorial from 2018
+
 - [Mathematical Python](https://patrickwalls.github.io/mathematicalpython/)
 
    University level resources. Hosted via Material for MkDocs. Advanced.
