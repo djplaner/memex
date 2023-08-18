@@ -52,7 +52,7 @@ Can you identify the three driving questions behind the design of this course fr
 
 <figure markdown>
 <figcaption>Scrolling through the same module page but with Canvas Collections turned on</figcaption>
-<a href="https://github.com/djplaner/canvas-collections/blob/main/docs/assets/withCanvasCollections.gif"><img src="https://github.com/djplaner/canvas-collections/raw/main/docs/assets/withCanvasCollections.gif" alt="Canvas modules page configured with four collections (why, what, how, and questions & suggestions). Changing between different collections, showing only that collection's modules at any one time. Navigating directly to a module by clicking on its specific representation. Showing off the representations which include cards for each module. Cards with images/iframes, descriptions, dates, labels and other contextual data" /></a>
+<a href="https://github.com/djplaner/canvas-collections/blob/main/docs/assets/withCanvasCollections.gif"><img width="50%" src="https://github.com/djplaner/canvas-collections/raw/main/docs/assets/withCanvasCollections.gif" alt="Canvas modules page configured with four collections (why, what, how, and questions & suggestions). Changing between different collections, showing only that collection's modules at any one time. Navigating directly to a module by clicking on its specific representation. Showing off the representations which include cards for each module. Cards with images/iframes, descriptions, dates, labels and other contextual data" /></a>
 </figure>
 
 ### Create a Claytons (static) Canvas Collections page
@@ -67,7 +67,7 @@ The following demonstrates a Claytons Collections version of the live Collection
 
 <figure markdown>
 <figcaption>Using a Claytons Collections home page</figcaption>
-<a href=""><img src="" alt="Animation showing how a Canvas page has been updated to contain a sequence of tabs for each collection. Allowing the visitor to see different representations of Canvas modules (but not the modules themselves). Representations that are basically the same as live Canvas Collections. Clicking on the representation for a module will take you directly to that module.">
+<a href="https://github.com/djplaner/canvas-collections/blob/main/docs/assets/claytonsCollections.gif"><img width="50%" src="https://github.com/djplaner/canvas-collections/raw/main/docs/assets/claytonsCollections.gif" alt="Animation showing how a Canvas page has been updated to contain a sequence of tabs for each collection. Allowing the visitor to see different representations of Canvas modules (but not the modules themselves). Representations that are basically the same as live Canvas Collections. Clicking on the representation for a module will take you directly to that module.">
 </figure>
 
 ### Modify Canvas Collections

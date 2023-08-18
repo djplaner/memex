@@ -123,6 +123,7 @@ Possible
 ## Seek 
 
 - Explore if Svelte kit starter can be adapted for user script development
+- Applications to mathematics pedagogy of Python, mindtools
 - Explore questions of consistency in UX design missing the point that the bigger purpose of UX is to solve the user's problem
 
 ### Reading
@@ -139,42 +140,6 @@ Possible
   - Design [[number-scrabble]] using Sveltekit - refine understanding of Svelte kit 
 - Make sense of how Shane's complexity leadership work can inform Col's PhD work (and my own practice)
 
-- Share Collections witht he Canvas community site
-  - Figure out Canvas community section to post to [blog](https://community.canvaslms.com/t5/Community-Hub/bg-p/communityblog-board), [Advice on writing](https://community.canvaslms.com/t5/Community-Hub/A-Blog-About-Blogging/ba-p/497368), [more advice](https://community.canvaslms.com/t5/Community-Hub/Do-You-Blog-A-Guide-to-Blogging-in-the-Canvas-Community/ba-p/469832)
-    - [Example](https://community.canvaslms.com/t5/Higher-Ed-Canvas-Users/Autofill-Maximum-Rubric-Ratings/ba-p/518278) [And another](https://community.canvaslms.com/t5/Higher-Ed-Canvas-Users/Assigning-Intra-Group-Peer-Reviews/bc-p/569693/emcs_t/S2h8ZW1haWx8ZGlnZXN0X25vdGlmaWNhdGlvbnxMSFQzSEo3M0s1R1ZBNHwtMXxPVEhFUlN8aEs#M2587)
-
-******************************************
-
-Canvas Collections - transform modules index page 
-
-## Introduction 
-
-Canvas Collections can be used to transform the Canvas modules index page by adding structure, visuals, and context.  The images below are of the same course. The left hand image is the vanilla Canvas modules page. The right hand image is the same modules page with Canvas Collections configured.
-
-
-https://github.com/djplaner/canvas-collections/blob/main/docs/assets/vanillaModules.gif
-
-https://github.com/djplaner/canvas-collections/blob/main/docs/assets/withCanvasCollections.gif
-
-## Installation 
-
-Collections is most useful when installed institutionally using the Canvas theme editor. 
-
-It can also be installed individually with these steps:
-
-1. Install the Tampermonkey browser extension.   https://tampermonkey.net/
-2. Install the Canvas Collections userscript. 
-3. Navigate ??? something about "is it installed"
-4. ??? use the online help ???
-
-
-## More information
-
-The [Canvas Collections site](https://djplaner.github.io/canvas-collections/) provides more detail.
-
-__add link ___
-
-******************************************
 ## Share
 
 

@@ -2,6 +2,9 @@
 
 Tags: [[teaching]]
 
+## Misc resources
+
+- [[python-teaching-mathematics]]
 
 ## Why? Society?
 

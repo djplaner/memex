@@ -164,7 +164,7 @@ def main():
 #            print("**** change image base url %s"%config['img_base_url'])
             html = changeImgURL( html, config['img_base_url'] )
 #        print( "HTML content \n %s" % html )
-#        updatePost(config,html)
+        updatePost(config,html)
 
         print(html)
 

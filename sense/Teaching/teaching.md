@@ -24,7 +24,7 @@ Belief about how people learn, what is knowledge etc
 
 More concrete instantiation of philosophcial positions into pedagogical approaches
 
-- 
+- [[mind-tools]] 
 - [[ungrading]]
 - [[assessment-of-process]]
 
@@ -58,7 +58,6 @@ Details moves through which strategic is effected
 [design]: ../Design/design "Design"
 [goodyear-patterns-design-practice]: <../Paper Summaries/goodyear-patterns-design-practice> "Patterns, pattern languages and design practice"
 [ungrading]: ungrading "Ungrading"
-[assessment-of-process]: assessment-of-process "Assessment of process"
 [question-for-retrieval]: question-for-retrieval "Questioning for retrieval"
 [worked-examples]: worked-examples "Worked examples"
 [teaching-mathematics]: Mathematics/teaching-mathematics "Teaching Mathematics"
