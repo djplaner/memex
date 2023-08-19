@@ -2,6 +2,8 @@
 
 Tags: [[teaching]]
 
+Generated from [AI Mind Map Generator](https://ferusandbeyond-mind-map-generation-main-7p68z9.streamlit.app/)
+
 ![](images/mindMapApproachsMath.png)
 
 ## Misc resources
