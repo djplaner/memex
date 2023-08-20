@@ -1,2 +1,0 @@
-# mythic-technology
-

@@ -1,0 +1,96 @@
+/**
+ * Copyright (C) 2023 David Jones
+ * 
+ * This program is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU Affero General Public License as
+ * published by the Free Software Foundation, either version 3 of the
+ * License, or (at your option) any later version.
+ * 
+ * This program is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU Affero General Public License for more details.
+ * 
+ * You should have received a copy of the GNU Affero General Public License
+ * along with this program.  If not, see <http://www.gnu.org/licenses/>.
+ */
+
+ [data-md-color-scheme="collections"] {
+    /* Original
+    --md-primary-bg-color: #000000;
+    --md-primary-fg-color--light: #304753;
+    --md-primary-fg-color--dark: #121212;
+    --md-primary-fg-color: #f5f5f5;
+    --md-accent-fg-color: #526cfe;
+    --md-default-fg-color--light: #111111;
+    */
+    /* landing page new */
+    --md-primary-bg-color: #ffffff;
+    --md-primary-fg-color--light: #304753;
+    --md-primary-fg-color--dark: #121212;
+    --md-primary-fg-color: #d90647;
+    --md-accent-fg-color: #526cfe;
+    --md-default-fg-color--light: #111111;
+  
+  }
+  
+  .tabbed-content {
+    padding: 0.5rem;
+    border-bottom: 1px solid var(--md-default-fg-color--lightest);
+    border-left: 1px solid var(--md-default-fg-color--lightest);
+    border-right: 1px solid var(--md-default-fg-color--lightest);
+  }
+  
+  .tabbed-block {
+    font-size: 0.75rem;
+  }
+  
+  figure {
+    /*  border-style: solid;
+    border-width: 1px;
+    border-color: #f05454;*/
+    border-radius: 5px;
+    background-color: var(--md-default-fg-color--lightest);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  }
+  
+  figcaption {
+    font-size: 0.7rem;
+  }
+  
+  img {
+    padding: 0.5rem;
+  }
+  
+  a.md-header__button > img:nth-child(1) {
+    padding: 0rem;
+  }
+  
+  sl-animated-image {
+    padding: 0.5rem;
+  }
+  
+  .div-iframe {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    padding-top: 56.25%;
+  }
+  
+  sl-tab-panel {
+    --padding: 0em;
+  }
+  
+  .explanation {
+    padding: 1rem;
+  }
+  
+  .responsive-iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+  }
