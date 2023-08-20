@@ -43,7 +43,6 @@ theme:
     - navigation.footer
     - navigation.sections
     - toc.follow
-    - toc.integrate
     - header.autohide
     - search.suggest
 markdown_extensions: 
@@ -128,7 +127,7 @@ nav:
       - Society: sense/Society/society.md
       - Web development: sense/Web development/web-development.md
     - Tasks:
-      - Conferences: sense/conferences/conferences.md
+      - Conferences: sense/Conferences/conferences.md
       - Loose: sense/loose.md
       - Paper Ideas: sense/Paper Ideas/paper-ideas.md
       - Paper Summaries: sense/Paper Summaries/paper-summaries.md

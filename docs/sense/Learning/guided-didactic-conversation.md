@@ -1,6 +1,6 @@
 # Guided Didactic Conversation aka teaching-learning conversations
 
-A model for understanding and designing Distance Education introduced in 1960 by [Börje Holmberg](https://en.wikipedia.org/wiki/B%C3%B6rje_Holmberg). Holmberg (1983) offers a detailed summary, including postulates, assumptions and hypotheses about the approach. Connected with [[conversation-theory]]. 
+A model for understanding and designing Distance Education introduced in 1960 by [Börje Holmberg](https://en.wikipedia.org/wiki/B%C3%B6rje_Holmberg). Holmberg (1983) offers a detailed summary, including postulates, assumptions and hypotheses about the approach. Connected with conversation-theory. 
 
 > The idea is very simple. I assume that if a course consistently represents a communication process that is felt to have the character of a conversation, then the students will be more motivated and more successful than if it has an impersonal textbook character. The conversational character is brought about both by real communication (students' assignments, comments on these, telephone, e-mail, fax and postal support), and by a conversational style in printed and recorded subject-matter presentation which attempts to involve the students emotionally, and engage them in a development and exchange of views.(Holmberg, 1999, p. 59)
 
@@ -88,8 +88,6 @@ Holmberg, B. (1999). The Conversational Approach to Distance Education. *Open Le
 ## Related
 
 - [[learning]]
-- [[what-good-students-do]] - engaging in thinking aloud, text elaboration
-- [[conversation-theory]]
 
 
 

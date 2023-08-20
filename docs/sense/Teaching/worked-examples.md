@@ -21,7 +21,7 @@
 
 See also: [[teaching]], [[teaching-mathematics]]
 
-Arising out of [[cognitive-load-theory]] demonstrates the steps required to complete a task. Benefit arises from the explanations of each step taken and then learners using self-explanations to describe the steps.
+Arising out of cognitive load theory demonstrates the steps required to complete a task. Benefit arises from the explanations of each step taken and then learners using self-explanations to describe the steps.
 
 Effectiveness reduces as the learner gains increased expertise. An approach perhaps best applied to algorithmic skill domains where there a single correct solutions.
 

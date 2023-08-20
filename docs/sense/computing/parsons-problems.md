@@ -19,7 +19,7 @@
 
 # Parson's problems
 
-See also: [[teaching-programming]], [[teaching-programming-literature]]
+See also: [[teaching-programming]]
 
 
 ## ChatGPT 

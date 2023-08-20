@@ -4,7 +4,7 @@ See also: [[canvas-api]]
 
 Resources and approaches to using the Canvas API.
 
-[Canvas Live API](lms.griffith.edu.au/doc/api/live)
+[Canvas Live API](https://lms.griffith.edu.au/doc/api/live)
 
 ## How to, guides and tutorials
 

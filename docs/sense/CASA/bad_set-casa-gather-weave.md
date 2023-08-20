@@ -23,7 +23,7 @@ Over the last 10+ years colleagues and I have been reflecting on experiences try
 
 1. The [[bad]]/set (Bricolage, Affordances, Distribution / Strategic, Established, Tree-like) framework (Jones & Clark, 2014) and [related blog posts](https://djon.es/blog/category/bad/)
 2. [[casa]] - Context Appropriate Scaffolding Assessmblages (Jones, Lawson, Beer, & Jones, 2018; Jones, 2019) and [related blog posts](https://djon.es/blog/category/casa/)
-3. The idea of [[gather-weave-augment]] ([Jones, 2022](https://djon.es/blog/2022/10/10/orchestrating-entangled-relations-to-stretch-the-iron-triangle-observations-from-an-lms-migration/#poster); [Booten, Cook, & Jones, 2023](https://djon.es/blog/2023/02/09/gathers-weavers-and-augmenters-three-principles-for-dynamic-and-sustainable-delivery-of-quality-learning-and-teaching/))
+3. The idea of gather/weave/augment ([Jones, 2022](https://djon.es/blog/2022/10/10/orchestrating-entangled-relations-to-stretch-the-iron-triangle-observations-from-an-lms-migration/#poster); [Booten, Cook, & Jones, 2023](https://djon.es/blog/2023/02/09/gathers-weavers-and-augmenters-three-principles-for-dynamic-and-sustainable-delivery-of-quality-learning-and-teaching/))
 
 The following arises from a realisation that these are related. The following is a first attempt to make that relationship explicit.
 
@@ -71,7 +71,7 @@ Which we've characterised as gathering and weaving. Perhaps positioning this tas
 
 ## How to automate/augment gathering and weaving 
 
-The [[gather-weave-augment]] idea is based on the observation that [[design-for-learning]] needs to draw on expert knowledge from numerous fields, including contextual knowledge. That the core of supporting and doing [[design-for-learning]] is sustainably and effectively gathering and weaving disparate strands of knowledge into contextual meaningful designs. As suggested by [[entangled-pedagogy]] the ability to orchestrate these disparate strands is a key enabler.
+The gather/weave/augment idea is based on the observation that [[design-for-learning]] needs to draw on expert knowledge from numerous fields, including contextual knowledge. That the core of supporting and doing [[design-for-learning]] is sustainably and effectively gathering and weaving disparate strands of knowledge into contextual meaningful designs. As suggested by [[entangled-pedagogy]] the ability to orchestrate these disparate strands is a key enabler.
 
 Our recent work (Jones, 2022; Booten et al, 2023) was driven by the limitations and inefficiencies of current practices for gathering and weaving. Limitations that arguably arise because of the limitations of the BAD and SET mindsets. A failure to effectively interweave those mindsets. The most obvious symptom of this failed interweaving was the failure to effectively leverage digital technologies to automate and augment/amplify the necessary gathering and weaving. Leading us to develop a nascent set of principles for doing just that.
 

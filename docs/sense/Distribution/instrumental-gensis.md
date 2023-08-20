@@ -14,7 +14,7 @@ A process that requires time.
 
 White (2008) examines the value of instrumental genesis to understanding learners use of mathematical learning tools. It could also be used to understand teachers' approaches to using tools to create learning environments and tasks
 
-There are connections with this perspective with [[chat]] and [[practice-theory]]. The same "distributed" perspective. 
+There are connections with this perspective with chat and practice theory. The same "distributed" perspective. 
 
 ### CASA
 

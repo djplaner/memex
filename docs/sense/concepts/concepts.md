@@ -18,7 +18,7 @@ Holding space
 
 ## Technology 
 
-- [[concepts/technology]]
+- [[sense/concepts/technology]]
 - [[protean]]
 - [[continuous-integration]]
 - [[continuous-delivery-deployment]]
@@ -34,7 +34,7 @@ Holding space
 [law-of-requisite-variety]: law-of-requisite-variety "Law of Requsite Variety"
 [law-of-requisite-complexity]: law-of-requisite-complexity "Law of Requisite Complexity"
 [forward-oriented-design]: forward-oriented-design "Forward-oriented design"
-[concepts/technology]: technology "Technology"
+[sense/concepts/technology]: technology "Technology"
 [protean]: protean "Protean"
 [continuous-integration]: continuous-integration "Continuous Integration"
 [continuous-delivery-deployment]: continuous-delivery-deployment "Continuous Delivery and Deployment"

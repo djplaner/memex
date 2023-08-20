@@ -22,23 +22,23 @@ Most people aren't asking if this will impact L&T in higher ed, they're asking w
 
 Both the first two papers are from UTS and CIC work.
 
-[Kitto](./ascilite2022-day-one#how-can-edtech-support-graduate-employability) uses the need to embed a general skills analytics tool (seem employability below for more) into courses and subjects. It identifies both the learning design, technical, and broader challenges involved in doing this
+[Kitto](./ascilite2022-day-one.md#how-can-edtech-support-graduate-employability) uses the need to embed a general skills analytics tool (seem employability below for more) into courses and subjects. It identifies both the learning design, technical, and broader challenges involved in doing this
 - "without adding undue stress to teaching teams and students?"
 - "simply pointing students to an EdTech based tool that they 'may want to explore' rarely results in significant uptake of the service"
 - "How can we embed such tools into a course’s design without disrupting the course structure itself?"
 - "However, as Shibani et al. (2019) argue, in attempting to build tools that are scalable it is all too common to adopt a one size fits all mentality, which fails to contextualise their use to the different problems that students are likely to be facing throughout this whole of course journey"
 - "We note that the current functionality of Canvas Commons does not really support the type of structure we would like to enable for sharing these resources"
 
-[Lim et al](./ascilite2022-day-two#made-good-connections-amplifying-teacher-presence-and-belonging-at-scale-through-learning-design-and-personalised-feedback) report on an attempt to enhance students _sense of belonging_ in a large course through using OnTask to amplify teacher presence. Results were positive, but appear to rely on
+[Lim et al](./ascilite2022-day-two.md#made-good-connections-amplifying-teacher-presence-and-belonging-at-scale-through-learning-design-and-personalised-feedback) report on an attempt to enhance students _sense of belonging_ in a large course through using OnTask to amplify teacher presence. Results were positive, but appear to rely on
 
 1. Significant design of how OnTask was used to reinforce course design and to tailor the feedback OnTask generates to encourage student motivation and sense of belonging - the teaching staff member had help to do this.
 2. The course learning design also incorporated other features that helped with motivation and sense of belonging - it was just a two hour online lecture
 
 ### Employability
 
-[Kitto](./ascilite2022-day-one#how-can-edtech-support-graduate-employability) talks about the task of embedding the [TRACK Skills Analytics tool](https://cic.uts.edu.au/tools/track-skills-analytics/) (lot of info on this page). TRACK explorer focuses on the student taking action to map their skills and use that to identify and plan career options. TRACK designer helps course/program designers map program structures to related job/career skills. It is based on a database of 17,000 skills related to job advertisements. You [can try it here](https://open.uts.edu.au/track-explorer/) (requires registration).
+[Kitto](./ascilite2022-day-one.md#how-can-edtech-support-graduate-employability) talks about the task of embedding the [TRACK Skills Analytics tool](https://cic.uts.edu.au/tools/track-skills-analytics/) (lot of info on this page). TRACK explorer focuses on the student taking action to map their skills and use that to identify and plan career options. TRACK designer helps course/program designers map program structures to related job/career skills. It is based on a database of 17,000 skills related to job advertisements. You [can try it here](https://open.uts.edu.au/track-explorer/) (requires registration).
 
-[Cerimagic](./ascilite2022-day-three#bridging-education-to-employment-through-virtual-experience-placement) report on the analysis of usage data from [Forage](https://www.theforage.com/) - " a platform facilitating access to virtual and simulated placements in partnership with employer organisations". Unlike most of the data analysed at data this comes from 1M+ students globally. Gives some insights into the types of students using Forage e.g. 16% of usage is from Law students, 4% from Arts/Social Sciences.
+[Cerimagic](./ascilite2022-day-three.md#bridging-education-to-employment-through-virtual-experience-placement) report on the analysis of usage data from [Forage](https://www.theforage.com/) - " a platform facilitating access to virtual and simulated placements in partnership with employer organisations". Unlike most of the data analysed at data this comes from 1M+ students globally. Gives some insights into the types of students using Forage e.g. 16% of usage is from Law students, 4% from Arts/Social Sciences.
 
 Forage is a free tool for students to use. Perhaps not without its limitations but there may be some opportunities there.
 
