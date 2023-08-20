@@ -1,16 +1,6 @@
 # DJ's personal memex
 
-An on-going experiment in creating and leveraging a personal memex using [Foam](https://foambubble.github.io/). Some background on rationale and design.
+An on-going experiment in creating and leveraging a personal [memex analogue](https://en.wikipedia.org/wiki/Memex) using [Foam](https://foambubble.github.io/) with the [pubic site](https://djplaner.github.io/memex/) implemented using [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/).  
 
-Currently organised around a three step process
-
-1. [[seek]] out new information
-2. Make [[sense]] it
-3. [[share]] artefacts.
-
-## Others places
-
-- <a rel="me" href="https://indieweb.social/@djplaner">Mastodon</a>
-- [Blog](https://djon.es/blog)
  
 
