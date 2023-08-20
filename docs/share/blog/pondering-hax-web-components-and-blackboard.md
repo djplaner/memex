@@ -136,7 +136,7 @@ With the Content Interface authors use Microsoft Word (a tool many are comfortab
 
 One of the styles supported by the Content Interface is the _embed_ style. It's used to include HTML (e.g. the embed code for a YouTube video) in the Word document which is then turned into HTML in Blackboard that is displayed (e.g. the YouTube video). If the magic script Javascript is added to the Content Interface javascript then it should be possible to embed web component HTML in the Word document and have it displayed via the Content Interface.
 
-![Magic script, web components and the Content Interface working together](haxImages/WebComponentsInContentInterface.gif)
+![Magic script, web components and the Content Interface working together](haxImages/WebComponentsInCardInterface.gif)
 
 #### The more useful approach - not yet
 
