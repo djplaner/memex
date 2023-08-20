@@ -142,3 +142,8 @@ nav:
   - Share: 
     - Overview: share/share.md
     - Blog: share/blog/blog-posts.md 
+  - Mathematics:
+    - sense/Teaching/Mathematics/teaching-mathematics.md
+  - Digital Technologies:
+    - sense/Teaching/Digital Technologies/teaching-digital-technologies.md
+    
