@@ -25,13 +25,22 @@
     --md-default-fg-color--light: #111111;
     */
     /* landing page new */
+    /* Collections
     --md-primary-bg-color: #ffffff;
     --md-primary-fg-color--light: #304753;
     --md-primary-fg-color--dark: #121212;
     --md-primary-fg-color: #d90647;
     --md-accent-fg-color: #526cfe;
-    --md-default-fg-color--light: #111111;
+    --md-default-fg-color--light: #111111; */
   
+    /* memex */
+    --md-primary-bg-color: #0b0014;
+    --md-primary-fg-color--light: #304753;
+    --md-primary-fg-color--dark: #0b0014;
+    --md-primary-fg-color: #f5e9e2;
+    --md-accent-fg-color: #773344;
+    --md-default-fg-color--light: #111111;
+
   }
   
   .tabbed-content {
@@ -93,4 +102,24 @@
     right: 0;
     width: 100%;
     height: 100%;
+  }
+
+  .card-overview {
+    max-width: 200px;
+  }
+
+  .card-overview small {
+    color: var(--sl-color-neutral-500);
+  }
+
+  .card-overview [slot='footer'] {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .home-cards {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    grid-gap: 0.5rem;
   }

@@ -13,7 +13,7 @@
 # You should have received a copy of the GNU Affero General Public License
 # along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
-site_name: "DJ's Memex"
+site_name: "David's Memex"
 site_url: https://djplaner.github.io/memex/
 repo_url: https://github.com/djplaner/memex
 site_author: David Jones
@@ -21,6 +21,7 @@ site_author: David Jones
 theme:
   name: material
   #  favicon: attachment/portrait.png
+  favicon: assets/memex.png
   palette:
   - scheme: collections
     toggle:
@@ -50,7 +51,7 @@ markdown_extensions:
   - pymdownx.tabbed  # https://squidfunk.github.io/mkdocs-material/reference/content-tabs/
   - md_in_html
   - tables
-  - nl2br # newline-to-break 
+#  - nl2br # newline-to-break 
   - toc:
       permalink: '#' # heading anchor 
       slugify: !!python/object/apply:pymdownx.slugs.slugify {kwds: {case: lower}}

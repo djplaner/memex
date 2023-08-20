@@ -15,7 +15,7 @@
  along with this program.  If not, see <http://www.gnu.org/licenses/>.
 -->
 
-# DJ's personal memex
+# David's personal memex
 
 An on-going experiment in creating and leveraging a personal memex using [Foam](https://foambubble.github.io/). The [[colophon]] offers some background on rationale and design.
 
@@ -24,6 +24,15 @@ Currently organised around a three step process
 1. [[seek]] out new information
 2. Make [[sense]] it
 3. [[share]] artefacts.
+
+!!! info "Slowly integrating _Material for MkDocs_"
+
+    The memex is slowly being migrated to use [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/). 
+    
+    Look!! There's a search facility now!!!
+
+    For more, [[why-mkdocs-foam]]
+    
 
 ## Others places
 
