@@ -19,7 +19,7 @@
 
 An on-going experiment in creating and leveraging a personal memex using [Foam](https://foambubble.github.io/). The [[colophon]] offers some background on rationale and design.
 
-Currently organised around a three step process
+Currently organised around a three step process (from [the Seek, Sense, Share Framework](https://jarche.com/2014/02/the-seek-sense-share-framework/))
 
 1. [[seek]] out new information
 2. Make [[sense]] it
