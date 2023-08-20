@@ -19,7 +19,7 @@
 
 See also: [[casa]]
 
-[Canvas Collections](https://djplaner.github.io/canvas-collections/) is a Svelte application designed to address long-term limitations in the Canvas LMS' modules index page. The modules index page is Canvas' primary method for organising a course's learning activities and resources. Canvas Collections provides the ability to add more structure, visuals, and context to the modules index page.
+[Canvas Collections](https://djplaner.github.io/canvas-collections/){:target="_blank"} is a Svelte application designed to address long-term limitations in the Canvas LMS' modules index page. The modules index page is Canvas' primary method for organising a course's learning activities and resources. Canvas Collections provides the ability to add more structure, visuals, and context to the modules index page.
 
 Originally developed whilst working at Griffith University it has subsequently been released under the GPLv3. Released to the wild in August 2023.
 

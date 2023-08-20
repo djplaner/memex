@@ -14,20 +14,47 @@
 # along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 site_name: "DJ's Memex"
+site_url: https://djplaner.github.io/memex/
+repo_url: https://github.com/djplaner/memex
+site_author: David Jones
+
 theme:
   name: material
   #  favicon: attachment/portrait.png
+  palette:
+  - scheme: collections
+    toggle:
+      icon: material/brightness-7
+      name: Switch to dark mode
+  - scheme: slate
+    toggle:
+      icon: material/brightness-4
+      name: Switch to light mode
+  custom_dir: .overrides
   language: en
   features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.instant
+    - navigation.tracking
+    - content.tabs.links
     - navigation.expand 
-    - tabs 
+    - navigation.indexes
+    - navigation.footer
+    - navigation.sections
+    - toc.follow
+    - toc.integrate
+    - header.autohide
+    - search.suggest
 markdown_extensions: 
   - attr_list # https://squidfunk.github.io/mkdocs-material/reference/images/
   - pymdownx.tabbed  # https://squidfunk.github.io/mkdocs-material/reference/content-tabs/
+  - md_in_html
+  - tables
   - nl2br # newline-to-break 
   - toc:
       permalink: '#' # heading anchor 
-      slugify: !!python/name:pymdownx.slugs.uslugify 
+      slugify: !!python/object/apply:pymdownx.slugs.slugify {kwds: {case: lower}}
   - admonition
   - codehilite:
       guess_lang: false
@@ -61,3 +88,57 @@ plugins:
         - "*.gz"
       regex:
         - '.*\.(tmp|bin|tar)$'
+extra_css:
+  - stylesheets/extra.css
+extra:
+  social:
+#  - icon: fontawesome/brands/twitter
+#    link: https://twitter.com/djplaner
+  - icon: fontawesome/brands/mastodon
+    link: https://indieweb.social/@djplaner
+  - icon: fontawesome/brands/github
+    link: https://github.com/djplaner
+
+nav:
+  - Home: 
+    - index.md
+    - Colophon: colophon/colophon.md
+  - Seek: 
+    - seek/seek.md
+  - Sense: 
+    - sense/sense.md
+    - Abstractions:
+      - BAD: sense/CASA/bad.md
+      - CASA: sense/CASA/casa.md
+      - Herding Cats: sense/Bricolage/herding-cats.md
+      - Know thy student: sense/CASA/know-thy-student.md
+      - nodt: sense/nodt/nodt.md
+      - Representations: sense/Representations/representations.md
+      - Sharing design knowledge: sense/Sharing design knowledge/sharing-design-knowledge.md
+    - Concepts: sense/concepts/concepts.md
+    - Topics:
+      - AI: sense/AI/AI.md
+      - Computing: sense/computing/computing.md
+      - Design: sense/Design/design.md
+      - FLOSS/FOSS: sense/computing/floss.md
+      - Learning: sense/Learning/learning.md
+      - Python: sense/Python/python.md
+      - Relational: sense/relational/relational.md
+      - Research: sense/Research/research.md
+      - Society: sense/Society/society.md
+      - Web development: sense/Web development/web-development.md
+    - Tasks:
+      - Conferences: sense/conferences/conferences.md
+      - Loose: sense/loose.md
+      - Paper Ideas: sense/Paper Ideas/paper-ideas.md
+      - Paper Summaries: sense/Paper Summaries/paper-summaries.md
+      - Recipes: sense/Recipes/recipes.md
+      - Work: sense/work/work-categories.md
+    - Teaching:
+      - sense/Teaching/teaching.md
+      - Quality and teaching: sense/Quality and teaching/quality-and-teaching.md
+#    - Principles
+#    - Society
+  - Share: 
+    - Overview: share/share.md
+    - Blog: share/blog/blog-posts.md 

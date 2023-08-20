@@ -114,7 +114,6 @@ Laurillard, D. (2012). *Teaching as a Design Science: Building Pedagogical Patte
 [iron-triangle]: ../Design/iron-triangle "Iron Triangle"
 [bad]: bad "BAD - Bricolage Affordances Distribution"
 [casa]: casa "Contextually Appropriate Scaffolding Assemblages (CASA)"
-[gather-weave-augment]: ../Design/gather-weave-augment "Gather, Weave, and Augment"
 [design-for-learning]: ../Design/design-for-learning "Design for learning"
 [digital-humanism]: ../computing/digital-humanism "Digital humanism"
 [complexity-leadership]: ../Distribution/complexity-leadership "Complexity Leadership"

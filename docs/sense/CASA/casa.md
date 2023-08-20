@@ -30,6 +30,7 @@ Jones, D. (2019). [Exploring knowledge reuse in design for digital learning: Twe
 [bricolage]: ../Bricolage/bricolage "Bricolage"
 [affordances]: ../affordances "Affordances"
 [bad_set-casa-gather-weave]: bad_set-casa-gather-weave "The relationships between BAD/SET, CASA, and Gather/Weave"
+[casa-design-principles]: casa-design-principles "Design principles for Context-Appropriate Scaffolding Assemblages (CASA)"
 [hax-as-casa]: CASA/hax-as-casa "H-A-X as CASA?"
 [canvas-learning-journal]: CASA/canvas-learning-journal "Canvas Learning Journal"
 [canvas-collections]: CASA/canvas-collections "Canvas Collections"
