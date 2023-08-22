@@ -26,14 +26,21 @@ Attempt to start a daily to do list as a way of working.
 
 To do
 
+- Review CCJ rubrics - share artefact
 - Uplift summaries to all  - check Drew
 - prepare for program support
 - Bridging course todos
   - Learning outcomes
+  - Let Kym know about EPS approval
 - assessment uplift
   - Share short-arc rubric design tool idea with LMS design
   - Email CCJ folk re: rubric writing tool.
-- Tell DS about changes to Collections - stale?
+- 
+- Tell DS about changes to Collections - stale edit locks
+
+Share
+- Blog post combining `usable short arc design tools that scale` 
+- Share various bits of Collections videos in Canvas Community posts references from the home page
 
 Questions
 
