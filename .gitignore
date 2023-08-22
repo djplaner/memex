@@ -6,3 +6,4 @@ Gemfile*
 .*swp
 .sass-cache/
 .jekyll-cache/
+.DS_Store
