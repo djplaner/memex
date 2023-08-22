@@ -27,6 +27,7 @@ Attempt to start a daily to do list as a way of working.
 To do
 
 - Review CCJ rubrics - share artefact
+- book in tomorrow's session with Pini
 - Uplift summaries to all  - check Drew
 - prepare for program support
 - Bridging course todos
