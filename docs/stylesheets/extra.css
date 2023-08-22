@@ -34,12 +34,21 @@
     --md-default-fg-color--light: #111111; */
   
     /* memex */
-    --md-primary-bg-color: #0b0014;
+/*    --md-primary-bg-color: #0b0014;
     --md-primary-fg-color--light: #304753;
     --md-primary-fg-color--dark: #0b0014;
     --md-primary-fg-color: #f5e9e2;
     --md-accent-fg-color: #773344;
+    --md-default-fg-color--light: #111111; */
+    /* memex dark */
+    --md-primary-bg-color: #ffffff;
+    --md-primary-fg-color--light: #304753;
+    --md-primary-fg-color--dark: #0b0014;
+    --md-primary-fg-color: #000000;
+    --md-accent-fg-color: #773344;
     --md-default-fg-color--light: #111111;
+
+
 
   }
   

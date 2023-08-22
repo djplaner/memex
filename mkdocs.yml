@@ -22,6 +22,7 @@ theme:
   name: material
   #  favicon: attachment/portrait.png
   favicon: assets/memex.png
+  logo: assets/spider_web.png
   palette:
   - scheme: collections
     toggle:
@@ -68,8 +69,9 @@ markdown_extensions:
   - pymdownx.caret
   - pymdownx.critic
   - pymdownx.details
-  # - pymdownx.emoji:
-      # emoji_generator: !!python/name:pymdownx.emoji.to_png
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
   - pymdownx.inlinehilite
   - pymdownx.magiclink
   - pymdownx.mark

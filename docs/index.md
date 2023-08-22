@@ -19,11 +19,13 @@
 
 An on-going experiment in creating and leveraging a personal memex using [Foam](https://foambubble.github.io/). The [[colophon]] offers some background on rationale and design.
 
-Currently organised around a three step process (from [the Seek, Sense, Share Framework](https://jarche.com/2014/02/the-seek-sense-share-framework/))
+Initially organised around a three step process (from [the Seek, Sense, Share Framework](https://jarche.com/2014/02/the-seek-sense-share-framework/)), but playing with other structures.
 
-1. [[seek]] out new information
-2. Make [[sense]] it
-3. [[share]] artefacts.
+| PKM Phase | Description |
+| --- | --- | 
+| [[seek]] | Very incomplete thinking about how and what I try to seek out to include here. |
+| [[sense]] | The main collection of inter-connected "notes", ideas and other rambles |
+| [[share]] | Collection of pointers to the more polished artefacts I've produced |
 
 !!! info "Slowly integrating _Material for MkDocs_"
 
@@ -34,10 +36,11 @@ Currently organised around a three step process (from [the Seek, Sense, Share Fr
     For more, [[why-mkdocs-foam]]
     
 
-## Others places
+## Find me elsewhere
 
-- <a rel="me" href="https://indieweb.social/@djplaner">Mastodon</a>
-- [Blog](https://djon.es/blog)
+<a rel="me" href="https://indieweb.social/@djplaner">:material-mastodon:</a>
+[:material-wordpress:](https://djon.es/blog)
+[:material-github:](https://github.com/djplaner/)
  
 
 
