@@ -11,6 +11,7 @@ Gives some higher level advice. Not a lot specificaly mechanical/straight-forwar
 ### What is possible to learn?
 
 A sample taxonomy provided
+
 - Conduct systematic research including collecting, analysing and organizing ideas and information
 - Communicate coherently in writing and verbally to express ideas and convey information
 - Solve problems, including problem posing, hypothesizing, setting objectives and evaluation
@@ -38,6 +39,7 @@ Draws on Blooms and SOLO and many others - perhaps useful as a source of verbs
 #### SOLO 
 
 | Stage | Learning Behaviour |
+| --- | --- |
 | 1 Pre-structural | Students are simply acquiring bits of unconnected information, which have no organisation and make no sense. |
 | 2. Uni-structural | Students can report single facts and constructs and make simple and obvious connections, but their significance is not grasped. |
 | 3 Multi-structural | Students know a number of facts, but can make few connections between them and the significance of the whole. |
