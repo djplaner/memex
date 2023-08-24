@@ -43,7 +43,7 @@ Blairs - wed morning, fri after and some 7000s - friday
 Register Zenodo e.g. https://zenodo.org/record/165478 or this https://zenodo.org/record/3386046
 
 
-[Why I’m banning AI](https://woborders.blog/2023/08/23/why-im-banning-ai/) – blog post
+[Why I’m banning AI](https://woborders.blog/2023/08/23/why-im-banning-ai/) – blog post - could be useful in terms of arguments for HLSS courses explaining why reliance on LLMs is to be avoided (e.g. "_unlearning_ commonly circulated misinformation and misunderstanding)
 
 Share
 - Blog post combining `usable short arc design tools that scale` 
