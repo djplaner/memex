@@ -26,7 +26,8 @@ Attempt to start a daily to do list as a way of working.
 
 To do
 
-- Get to know 1252QCA
+- Test Collections with mobile app
+- L&T tools - some missing flavours
 - Uplift summaries to all  - check Drew
 - prepare for program support
 - assessment uplift
@@ -36,9 +37,6 @@ To do
 - Tell DS about changes to Collections - stale edit locks
 
 Blairs - wed morning, fri after and some 7000s - friday 
-- SB Studio In Person Wed/09:00AM/S03_4.08 (42783_1319QCA_3235) 
-- SB Studio In Person Fri/01:00PM/S03_4.08 (42786_1319QCA_3235) 
-- SB Studio In Person Fri/01:00PM/S03_4.08 (46776_7319QCA_3235)
 
 Register Zenodo e.g. https://zenodo.org/record/165478 or this https://zenodo.org/record/3386046
 
