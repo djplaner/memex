@@ -26,18 +26,24 @@ Attempt to start a daily to do list as a way of working.
 
 To do
 
-- Review CCJ rubrics - share artefact
-- book in tomorrow's session with Pini
+- Get to know 1252QCA
 - Uplift summaries to all  - check Drew
 - prepare for program support
-- Bridging course todos
-  - Learning outcomes
-  - Let Kym know about EPS approval
 - assessment uplift
-  - Share short-arc rubric design tool idea with LMS design
-  - Email CCJ folk re: rubric writing tool.
-- 
+  - Follow up re: 1603LHS - in 
+  - other completions - an emails
+
 - Tell DS about changes to Collections - stale edit locks
+
+Blairs - wed morning, fri after and some 7000s - friday 
+- SB Studio In Person Wed/09:00AM/S03_4.08 (42783_1319QCA_3235) 
+- SB Studio In Person Fri/01:00PM/S03_4.08 (42786_1319QCA_3235) 
+- SB Studio In Person Fri/01:00PM/S03_4.08 (46776_7319QCA_3235)
+
+Register Zenodo e.g. https://zenodo.org/record/165478 or this https://zenodo.org/record/3386046
+
+
+[Why I’m banning AI](https://woborders.blog/2023/08/23/why-im-banning-ai/) – blog post
 
 Share
 - Blog post combining `usable short arc design tools that scale` 

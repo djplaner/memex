@@ -8,7 +8,7 @@
 | [[casa]] | Contextually Appropriate Scaffolding Assemblages |
 | [[herding-cats]] | And why it's often the wrong metaphor? |
 | [[know-thy-student]] | Experiment with an early CASA |
-| [[nodt]] | Explorations into the **n**ature **o**f **d**igital **t**echnology and perhaps eventually the implications of that nature for assemblages |
+| [[nodt]] | Explorations into the <strong>n</strong>ature <strong>o</strong>f <strong>d</strong>igital <strong>t</strong>echnology and perhaps eventually the implications of that nature for assemblages |
 | [[sharing-design-knowledge]] | Another experiment in early CASA |
 | [[concepts]] | |
 | [[foundations]] | |
