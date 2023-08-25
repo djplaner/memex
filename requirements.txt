@@ -1,8 +1,6 @@
 altair==5.0.1
 attrs==23.1.0
-beautifulsoup4==4.12.2
 blinker==1.6.2
-bs4==0.0.1
 cachetools==5.3.1
 certifi==2023.5.7
 charset-normalizer==3.2.0
@@ -31,7 +29,6 @@ numpy==1.25.2
 packaging==23.1
 pandas==2.0.3
 pathspec==0.11.2
-Pillow==9.5.0
 platformdirs==3.10.0
 protobuf==4.24.1
 pyarrow==12.0.1
@@ -40,7 +37,6 @@ Pygments==2.15.1
 pymdown-extensions==10.1
 Pympler==1.0.1
 python-dateutil==2.8.2
-python-wordpress-xmlrpc==2.3
 pytz==2023.3
 pytz-deprecation-shim==0.1.0.post0
 PyYAML==6.0.1
@@ -54,9 +50,7 @@ simple-settings==1.2.0
 six==1.16.0
 smmap==5.0.0
 soupsieve==2.4.1
-streamlit==1.25.0
 tenacity==8.2.3
-toml==0.10.2
 toolz==0.12.0
 tornado==6.3.3
 typing_extensions==4.7.1
