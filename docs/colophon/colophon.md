@@ -32,6 +32,7 @@
 ### Version 2 - Adding mkdocs - (August 2023)
 
 - August 20 - [[why-mkdocs-foam]]
+- August 26 - [[deploy-with-github-action]]
 
 
 
