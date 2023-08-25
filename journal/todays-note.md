@@ -26,8 +26,6 @@ Attempt to start a daily to do list as a way of working.
 
 To do
 
-- Test Collections with mobile app
-- L&T tools - some missing flavours
 - Uplift summaries to all  - check Drew
 - prepare for program support
 - assessment uplift
@@ -38,13 +36,19 @@ To do
 
 Blairs - wed morning, fri after and some 7000s - friday 
 
-Register Zenodo e.g. https://zenodo.org/record/165478 or this https://zenodo.org/record/3386046
 
 
 [Why I’m banning AI](https://woborders.blog/2023/08/23/why-im-banning-ai/) – blog post - could be useful in terms of arguments for HLSS courses explaining why reliance on LLMs is to be avoided (e.g. "_unlearning_ commonly circulated misinformation and misunderstanding)
 
-Share
-- Blog post combining `usable short arc design tools that scale` 
+Register Zenodo e.g. https://zenodo.org/record/165478 or this https://zenodo.org/record/3386046
+
+## Sense
+
+- Explore use of streamlit to visualise australian curriculum
+
+## Share
+
+- Blog post combining `usable short arc design tools that scale`  aka L&T tools - some missing flavours
 - Share various bits of Collections videos in Canvas Community posts references from the home page
 
 Questions
