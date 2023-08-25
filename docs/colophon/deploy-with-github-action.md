@@ -20,6 +20,12 @@ Out of date.
 ## Second attempt - use the Material for [mkdocs approach](https://squidfunk.github.io/mkdocs-material/publishing-your-site/)
 
 
+First attempt fails 
+> Deploy - Process completed with exits code 1.
+
+Double check gh-pages as publish branch - this probably won't make any difference
+
+
 
 
 
