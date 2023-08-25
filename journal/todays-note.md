@@ -45,6 +45,7 @@ Register Zenodo e.g. https://zenodo.org/record/165478 or this https://zenodo.org
 ## Sense
 
 - Explore use of streamlit to visualise australian curriculum
+  - [fastapi wrapper](https://github.com/asehmi/fastapi-wrapper-apiness) - Python based API generation from excel files - better foundation for further work - having an API
 
 ## Share
 
