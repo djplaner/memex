@@ -25,6 +25,8 @@ First attempt fails
 
 Double check gh-pages as publish branch - this probably won't make any difference
 
+No it didn't, but if you dig down into the error message from GitHub the issue is that the `roamlinks` plugin isn't available.  Meaning I'll need to identify the Foam requirements and add those, but also that the Collections repo should work with this fine
+
 
 
 
