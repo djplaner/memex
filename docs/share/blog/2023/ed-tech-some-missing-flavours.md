@@ -15,22 +15,29 @@
  along with this program.  If not, see <http://www.gnu.org/licenses/>.
 -->
 
-# Learning & Teaching tools - some missing flavours
+# Ed tech - some missing flavours
 
 ## Introduction
 
-- Laurillard quote about the need for custom tools
-- Lots of tools out there, even getting problematic managing them
+[Diana Laurillard](https://scholar.google.com/citations?user=9mNE6XUAAAAJ&hl=en) has suggested that providing teachers with "custom-built digital tools to help them with their ever more complex working environment...could make the critical difference to changing what they are able to do with their students" (2012, p. 222). If you visit the exhibition space at any education conference - especially in this post-pandemic world - it would appear that this need for digital tools has been satisfied. In fact, if you talk to anyone from a large education institution responsible for managing or supporting the use of digital tools you might find that they're struggling to deal with the plethora of available tools. Perhaps even complaining about too much choice.
+
+!!! note "From _digital tools_ to _educational technology_"
+
+    The focus on _digital tools_ is problematic. As per Fawns' idea of [[entangled-pedagogy]], I find the separation of pedagogy and digital technology problematic. I wonder if it is not a major factor why there are missing flavours. 
+
+    Instead, I'll use [Dron's definition of educational technology](../../../sense/Affordances/educational-technology-what-is-it-and-how-it-works.md) as any orchestration of phenomena that includes pedagogy (intentionally or not). 
+    
+    A definition that includes more than hardware and software. It includes checklists, templates, how-to documentation, learning design processes/frameworks etc.
+    
+
 
 - But some missing flavours - take a look at Canvas community for a taste that there are issues
 - focus here is on identify abstractly what is missing, not why it is missing (questions for another time)
 
-!!! Tools > software
 
-    By tools I mean more than software. Templates, Sways, Workshops, checklists all the artefacts designed to help improve the quality of learning and teaching.
 
 | Flavour | Current state | What's missing |
-| --- | --- | 
+| --- | --- | --- |
 | Design focus | Long arc |  Short arc | 
 | Design phase | Design for learning (if any) | Design for learning, configuration, orchestration and reflection (i.e. [[forward-oriented-design]]) | 
 | Scale | Scale by ?? | Scale by ?? |

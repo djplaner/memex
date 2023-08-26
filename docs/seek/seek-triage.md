@@ -39,6 +39,8 @@ Dumping ground for ideas and resources that haven't yet been [made sense of](../
 
 ### [[stretching-educations-iron-triangle]]
 
+- Read [realising the potential of digital technology for scaling up higher education](https://www.researchcghe.org/research/2020-2023/project/realising-the-potential-of-digital-technology-for-scaling-up-higher-education/) - project from the Centre for Global Higher Education that ran from 2020 to 2023
+
 ## Uncategorised
 
 

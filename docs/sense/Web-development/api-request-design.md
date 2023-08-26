@@ -70,15 +70,12 @@ Doesn't clearly show nice way of handling async
 - commands could nest sequence of commands e.g. createModuleAndItems
 - specific command classes can implement additional methods to allow external folk to query the status of the command(s)
 
-
+```javascript
 const todaysAlarms = new MorningAlarmCommand( "David", success, failure, update);
 todaysAlarms.execute();
 
-
 function success() {
-
 }
-
 
 class MorningAlarmCommand {
 	constructor(person, success, failure, update) {
@@ -130,3 +127,4 @@ class MorningAlarmCommand {
 		}
 	}
 }
+```

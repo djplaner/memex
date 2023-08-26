@@ -53,7 +53,7 @@ Register Zenodo e.g. https://zenodo.org/record/165478 or this https://zenodo.org
 
 ## Share
 
-- Blog post combining `usable short arc design tools that scale`  [[l-and-t-tools-some-missing-flavours]]
+- Blog post combining `usable short arc design tools that scale`  [[ed-tech-some-missing-flavours]]
 - Share various bits of Collections videos in Canvas Community posts references from the home page
 
 Questions

@@ -1,8 +1,25 @@
 # Educational technology: what is it and how it works
 
-Dron, J. (2021). Educational technology: What it is and how it works. *AI & SOCIETY*. <https://doi.org/10.1007/s00146-021-01195-z>
+See also: [[affordances]], [[exploring-drons-definition-of-educational-technology]]
 
-## Summary
+## Definition: Educational Technology
+
+Defines educational technology (tentatively) as
+> (technology) that, deliberately or not, includes pedagogies among the technology it orchestrates
+
+This definition draws on a definition of technology - informed by work by Arthur (2009) - as
+> the orchestration of some phenomena for a purpose 
+
+This definition of technology encapsulates three central aspects of technologies
+
+1. _phenomena_ - the stuff (real or imagined, mental or physical, designed or natural) that makes up the technology.
+2. _orchestration_ - someone is organising the "stuff".
+3. _purpose_ - the use/aim/intent for which this someone is organising the stuff.
+
+Where orchestrate/orchestration is defined as 
+> to intentionally bring different things - actions, tools, methods, proceses etc. - together in an organised form, and an orchestration is the result of doing so (Dron, 2021, p. 2)
+
+## Paper Summary
 
 Education is defined as a technology - using Arthur's definition of technology 
 > the orchestration of some phenomena for a purpose 
@@ -27,7 +44,7 @@ It is the **assembly** that is of most interest.  The use and orchestration - in
 **Also something about the importance of assembly**
 
 
-## Introduction
+### Introduction
 
 Definition of education as
 > the giving and receiving of systematic instruction, the process of facilitating learning, constituted from countless methods, tools, and structures, operated by teachers and many others (p. 1)
@@ -37,13 +54,13 @@ Argues that education "may usefully be seen as a technological phenomenon" (p. 1
 That this perpective 
 > has some very far-reaching consequences for research and practice, explaining some hitherto puzzling phenomena, and challenging some of the fundamental beliefs held by many educators and researchers in education (p. 1)
 
-## The nature of technology
+### The nature of technology
 
 Technology is "an 'annoyingly vague abstraction'". 
 
 > Part of the problem, though, is that technology can be both something that we do and something that has been done, often simultaneously
 
-### Orchestration
+#### Orchestration
 
 Identifies Arthur's (2009) definition 
 > describes technology as "the orchestration of phenomena for some purpose" (p. 51)
@@ -57,7 +74,7 @@ Which encapsulates three central aspects of technologies
 Orchestrate
 > to intentionally bring different things - actions, tools, methods, proceses etc. - together in an organised form, and an orchestration is the result of doing so (Dron, 2021, p. 2)
 
-### Assembly 
+#### Assembly 
 
 Arthur's definition includes the notion that "the stuff" which is orchestrated will typically include other technologies. e.g. nuts and bolts, rules of grammar etc.
 
@@ -69,7 +86,7 @@ New technologies are built upon and from others.
 
 > Human-enacted technologies like organisational processes, or methods of design and manufacture, are as much technologies as cars or factories (Arthur 2009; Kelly 2010) - (Dron 2021, p.2)
 
-### Educational technologies
+#### Educational technologies
 
 Pedagogies - "methods, models, or principles of teaching" - are technologies.
 
@@ -78,19 +95,19 @@ Pedagogies - "methods, models, or principles of teaching" - are technologies.
 
 Parts of an educational technology system only become educational technologies in their own right when they affect learning in an educational system. e.g. screws holding a computer together are not computing technologies as they do not affect computing in a computing system.
 
-### Faustian bargains (and the Task-Artifact cycle)
+#### Faustian bargains (and the Task-Artifact cycle)
 
 Most technologies solve problems, most technologies create new problems to solve.  Creating a technology creates new phenemona which are unpredictable.
 
 Then new technologies are created to respond to those new phenemona.
 
-### Not science
+#### Not science
 
 Technology is not "the application of science". Rather, "science is applied technology". 
 
 Many technologies don't rely on science.
 
-### Never neutral
+#### Never neutral
 
 All technologies embody views and beliefs.  ??Are these part of the phenomena and purpose?
 
@@ -99,11 +116,11 @@ We often don't understand technologies and Frisch (1994) argues that technologie
 We are part-technology, but also out technologies are part-us. That's how embedded technology is in human life. 
 > **technologies lie deep within us, and human life woul be unimaginable without them**
 
-### Learnign is not technology, but means to intentionally learning...
+#### Learning is not technology, but means to intentionally learning...
 
 Babies fresh from the womb learn. Many non-human things can be said to learn.  By most of the means we use to intentionally learn are technologies.
 
-## Participation and plasticity
+### Participation and plasticity
 
 We are not uses of technology. We are participants in the orchestration of technologies.
 
@@ -115,7 +132,7 @@ Soft technologies are harder to use. Offer creativity, flexibility and reslilien
 
 > Harder technologies tend to provide efficiency, precision and replicability, but at a cost of flexibility and adaptability
 
-### Assemblies that soften or harden
+#### Assemblies that soften or harden
 
 > Almost all technologies are assemblies of both soft and hard technologies, so extremes are vanishingly rare.
 
@@ -127,12 +144,21 @@ Cooley (1987) - for tools that informate and against tools that automate
 
 > Moreover, the softness may be available but, unless people are aware of, empowered to, and capable of taking advantage of it, the system remains hard for them. For example, if a vehicle provides both manual and automatic gear shifting, the manual option is useless unless the operator knows how to use it
 
-### Structural patterns
+#### Structural patterns
 
 Hard technologies are less flexible and cannot be easily changed.  Hence usually play a structural role in assembly.  Slow-changing elements (hard technologies) affect the faster-changing elements more than the reverse.
 
-### Perspectives
+#### Perspectives
 
 > What is soft for one person may often be hard for another
 
 > The technology that matters is that object _plus_ the orchestrated assembly of which it is a part, including the soft technologies added by its participants
+
+## References
+
+Dron, J. (2021). Educational technology: What it is and how it works. *AI & SOCIETY*. <https://doi.org/10.1007/s00146-021-01195-z>
+
+[//begin]: # "Autogenerated link references for markdown compatibility"
+[affordances]: affordances "Affordances"
+[exploring-drons-definition-of-educational-technology]: ../../share/blog/2021/exploring-drons-definition-of-educational-technology "exploring-drons-definition-of-educational-technology"
+[//end]: # "Autogenerated link references"

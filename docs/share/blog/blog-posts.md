@@ -10,7 +10,7 @@ Maybe this will enable me to complete more of the posts I start.
 
 ### 2023
 
-- [[l-and-t-tools-some-missing-flavours]]
+- [[ed-tech-some-missing-flavours]]
 - [[conceptualising-educational-design]]
 
 ### Older
