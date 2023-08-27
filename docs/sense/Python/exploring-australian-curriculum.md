@@ -6,6 +6,11 @@ See also: [[datasette]], [[australian-curriculum]], [[other-oz-curriculum-code-p
 
 Early explorations of the the [[australian-curriculum]]. Taking a CSV download and using one or two Python data visualisation tools.
 
+Early thoughts
+
+- Datasette and sqlite-utils useful for exploring/creating the data
+- Streamlit might be easy way to share - at least to start
+
 ## Cleaning data to sqlite-utils and Datasette
 
 Following the [cleaning data tutorial](https://datasette.io/tutorials/clean-data) from DataSette to convert the Excel spreadsheet provided into a database. The spreadsheet contains multiple sheets. 
@@ -62,7 +67,7 @@ Datasette plugins add other visualisation options - e.g. map location data.
 
 ## sqlite-utils for tidying up the database
 
-Exploration reveals some questions
+Exploration reveals some questions, more detail in the data and its structure
 
 ### Should the content descriptors table be split further? 
 
@@ -74,22 +79,74 @@ Use Datasettes ability to run custom SQL and identify that some CdCodes are appe
 
     Sadly, the Excel file (based on the content descriptor codes) is for the v8.4, not v9.
 
-Suggesting we need the following tables
+Ended up suggesting a need for a fair bit of splitting.  Leading to [a shell script](https://github.com/djplaner/exploring-australian-curriculum/blob/main/datasette/generate.sh) to automate the process of combining (perhaps inefficiently) multiple `sqlite-utils` commands to produce a more correct database with the following schema.
 
-- content_descriptors: cd_code, content_description
-- elaborations: cd_code, elaborations
-- learning_areas: cd_code, learning_area, subject, pathway, sequence, level, strand, substrand, topic, depth_study, elective
-
-### Make the `CdCode` the primary key?
-
-### Rename any fields?
-
-### Remove any fields?
-
-
+```SQL
+CREATE TABLE "content_descriptors" (
+   [id] INTEGER,
+   [CdCode] TEXT PRIMARY KEY,
+   [ContentDesc] TEXT
+);
+CREATE TABLE "elaborations" (
+   [CdCode] TEXT REFERENCES [content_descriptors]([CdCode]),
+   [Elaboration] TEXT
+);
+CREATE TABLE "learning_areas" (
+   [LearningArea] TEXT,
+   [Subject] TEXT,
+   [Pathway] TEXT,
+   [Sequence] TEXT,
+   [Level] TEXT,
+   [Strand] TEXT,
+   [Substrand] TEXT,
+   [Topic] TEXT,
+   [Depth Study] TEXT,
+   [Elective] TEXT,
+   [CdCode] TEXT REFERENCES [content_descriptors]([CdCode])
+);
+CREATE TABLE "achievement_standards" (
+   [LearningArea] TEXT,
+   [Subject] TEXT,
+   [Pathway] TEXT,
+   [Sequence] TEXT,
+   [Level] TEXT,
+   [AchStd] TEXT
+);
+CREATE TABLE "general_capabilities" (
+   [LearningArea] TEXT,
+   [Subject] TEXT,
+   [Pathway] TEXT,
+   [Sequence] TEXT,
+   [Level] TEXT,
+   [Strand] TEXT,
+   [Substrand] TEXT,
+   [CdCode] TEXT REFERENCES [content_descriptors]([CdCode]),
+   [ContentDesc] TEXT,
+   [GC] TEXT,
+   [Element] TEXT,
+   [Subelement] TEXT
+);
+CREATE TABLE "cross_curriculum_priorities" (
+   [LearningArea] TEXT,
+   [Subject] TEXT,
+   [Pathway] TEXT,
+   [Sequence] TEXT,
+   [Level] TEXT,
+   [Strand] TEXT,
+   [Substrand] TEXT,
+   [CdCode] TEXT REFERENCES [content_descriptors]([CdCode]),
+   [ContentDesc] TEXT,
+   [CCP] TEXT
+);
+```
 
 ## Datasette and sharing
 
+There is a [JSON API](https://docs.datasette.io/en/stable/json_api.html) built into Datasette. Once deployed you could make calls.  Appears to be table based.
+
+There is a [graphql plugin](https://datasette.io/plugins/datasette-graphql)...nice.  Install the plugin via pip, restart datasette and the interface is modified to include option to use GraphiQL to interact with
+
+And there are various options for [publishing](https://docs.datasette.io/en/stable/publish.html) and [deploying](https://docs.datasette.io/en/stable/deploying.html) and [DataSette cloud](https://datasette.substack.com/p/datasette-cloud-and-the-datasette) is designed to make that easier.
 
 
 
