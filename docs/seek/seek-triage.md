@@ -23,7 +23,9 @@ Dumping ground for ideas and resources that haven't yet been [made sense of](../
 
 ## Categorised
 
-### [[teacher-preparation]]
+### Teacher preparation 
+
+[[teacher-preparation]]
 
 Support
 - [Oz curriculum excel](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwje3Jix__aAAxUh3TgGHXSPCf4QFnoECAsQAQ&url=https%3A%2F%2Faustraliancurriculum.edu.au%2FStatic%2FExcel%2FAustralian%2520Curriculum%2520F-10.xlsx&usg=AOvVaw1-15bwt9PnVCsuhRyIYS01&opi=89978449) - experiment with streamlit to visualise
