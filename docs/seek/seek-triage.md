@@ -54,6 +54,8 @@ Digital technology [[v9-oz-digital-technologies]]
 
 - Better summarise current state of nodt ready for expansion
 
+Yoo, Y. (2010). Computing in Everyday Life: A Call for Research on Experiential Computing. *MIS Quarterly*, *34*, 213--231. <https://doi.org/10.2307/20721425>
+
 ### [[stretching-educations-iron-triangle]]
 
 - Read [realising the potential of digital technology for scaling up higher education](https://www.researchcghe.org/research/2020-2023/project/realising-the-potential-of-digital-technology-for-scaling-up-higher-education/) - project from the Centre for Global Higher Education that ran from 2020 to 2023
