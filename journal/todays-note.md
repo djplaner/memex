@@ -33,9 +33,8 @@ To do
   - Summary with USyd docs to Robbie
   - Learning Journal search - finalise LLM response with USyd stuff
 
-Tuesday
 - Finalise PCSD
-- Notes to Julie on git repo
+- HLSS
 
 - prepare for program support
 

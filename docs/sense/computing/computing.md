@@ -37,6 +37,8 @@ Topics related to information technology, information systems, computer science
 
 Putting people at the centre of technology.
 
+- [[digital-renovator]]
+- [[current-digital-dark-age]]
 - [[computing-ethics]]
 - [[digital-humanism]]
 
@@ -81,6 +83,7 @@ Putting people at the centre of technology.
 [data-portability-interoperability]: data-portability-interoperability "Data portability and interoperability"
 [integrated-computing]: integrated-computing "Integrated Computing"
 [computational-thinking]: computational-thinking "Computation thinking"
+[current-digital-dark-age]: current-digital-dark-age "Current Digital Dark Age"
 [computing-ethics]: computing-ethics "Computing related ethics"
 [digital-humanism]: digital-humanism "Digital humanism"
 [computing-discipline-definitions]: computing-discipline-definitions "Definitions of computing related disciplines"
