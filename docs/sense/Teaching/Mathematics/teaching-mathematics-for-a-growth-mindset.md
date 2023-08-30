@@ -30,63 +30,63 @@ Gives a detailed example of using [participation quiz](https://pquiz.app/) from 
 
 ## Opening mathematics
 
-- Teaching mathematics as an open, growth, learning subject
+### Teaching mathematics as an open, growth, learning subject
 
-    Move away from narrow and procedural questions that require calculation. Give more open questions that provide an opportunity to grow.
+Move away from narrow and procedural questions that require calculation. Give more open questions that provide an opportunity to grow.
 
-- Encourage students to be mathematicians
+### Encourage students to be mathematicians
 
-    Proposing ideas aka making conjectures about mathematics.
+Proposing ideas aka making conjectures about mathematics.
 
-- Teach mathematics as a subject of patterns and connections
+### Teach mathematics as a subject of patterns and connections
 
-    "Mathematics is all about the study of patterns" - encourage students to be pattern seekers. **Mathematical methods are the result of patterns**
+"Mathematics is all about the study of patterns" - encourage students to be pattern seekers. **Mathematical methods are the result of patterns**
 
-    "Curriculum standards often work against connection making, as they present mathematics as a list of disconnected topics. But teachers can and should restore the connections by always talking about and valuing them and asking students to think about and discuss connections." (p. 184)
+"Curriculum standards often work against connection making, as they present mathematics as a list of disconnected topics. But teachers can and should restore the connections by always talking about and valuing them and asking students to think about and discuss connections." (p. 184)
 
-    [Youcubed - tour of mathematical connections](https://www.youcubed.org/resources/tour-mathematical-connections/)
+[Youcubed - tour of mathematical connections](https://www.youcubed.org/resources/tour-mathematical-connections/)
 
-- Teach creative and visual mathematics
+### Teach creative and visual mathematics
 
-    Having students draw the mathematical concepts they're working on. 
+Having students draw the mathematical concepts they're working on. 
 
-    "Representing mathematical ideas in different ways is an important mathematical practice, used by mathematicians and high-level problem solvers" (p. 188)
+"Representing mathematical ideas in different ways is an important mathematical practice, used by mathematicians and high-level problem solvers" (p. 188)
 
-- Encourage intuition and freedom of thought
+### Encourage intuition and freedom of thought
 
-    mathematicians heavily rely on intuition, mathematics education not so much. 
+mathematicians heavily rely on intuition, mathematics education not so much. 
 
-    Ask students to develop their own method (intuitively) before presenting formula
+Ask students to develop their own method (intuitively) before presenting formula
 
-    - How to measure the height of an object to high to measure?
-    - What's the volume of a lemon?
+- How to measure the height of an object to high to measure?
+- What's the volume of a lemon?
 
-    Touching on the direct instructions/inquiry learning debate but emphasising the benefits of inquiry learning.
+Touching on the direct instructions/inquiry learning debate but emphasising the benefits of inquiry learning.
 
-- Value depth over speed
+### Value depth over speed
 
-    Touches on observations of mathematics lessons in China - top of PISA results - that show an inquiry emphasis in the pedagogy. Raising questions about representativeness.
+Touches on observations of mathematics lessons in China - top of PISA results - that show an inquiry emphasis in the pedagogy. Raising questions about representativeness.
 
-- Connect mathematics to the world using mathematical modeling
+### Connect mathematics to the world using mathematical modeling
 
-    Cites interviews of young adults complaining about how mathematics is prevalent in what they observe, but they never knew (from their math education)
+Cites interviews of young adults complaining about how mathematics is prevalent in what they observe, but they never knew (from their math education)
 
-    pseudo contexts
+pseudo contexts
 
-- Model with mathematics 
+### Model with mathematics 
 
-    Lots of discussion/examples
+Lots of discussion/examples
 
 - Encourage students to pose questions, reason, justify, and be skeptical
 
-    "The first thing a mathematician has to do is post an interesting question" (p. 204)
+"The first thing a mathematician has to do is post an interesting question" (p. 204)
 
-    Given a context/set up 
+Given a context/set up 
 
-    - We wonder (a question)
-    - We want to investigate
+- We wonder (a question)
+- We want to investigate
 
-- Teach with cool technology and mainipulatives
+### Teach with cool technology and mainipulatives
 
 
 ## References
