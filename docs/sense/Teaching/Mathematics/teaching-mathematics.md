@@ -28,9 +28,12 @@ Mathematics curriculum I'll be engaging with
 
 Notes related to mathematics specific pedagogy
 
+- [[teaching-mathematics-for-a-growth-mindset]]
+
 ### Misc resources
 
 - [[python-teaching-mathematics]]
+- [Multiplicty Lab](https://multiplicitylab.northwestern.edu/) - Primary focused - helping provide rich mathematical experience to all students
 
 ### Learner generated examples
 

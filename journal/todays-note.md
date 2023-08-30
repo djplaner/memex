@@ -29,12 +29,11 @@ To do
 - Uplift summaries to all  
   - Follow up re: 1603LHS - in 
   - other completions - an emails
+  - summary for DHoS
 - AI proof resource
   - Summary with USyd docs to Robbie
   - Learning Journal search - finalise LLM response with USyd stuff
 
-- Finalise PCSD
-- HLSS
 
 - prepare for program support
 
@@ -42,6 +41,7 @@ To do
 
 Blairs - wed morning, fri after and some 7000s - friday 
 
+[GitPython](https://github.com/djplaner/exploring-australian-curriculum/security/dependabot/1)
 
 
 [Why I’m banning AI](https://woborders.blog/2023/08/23/why-im-banning-ai/) – blog post - could be useful in terms of arguments for HLSS courses explaining why reliance on LLMs is to be avoided (e.g. "_unlearning_ commonly circulated misinformation and misunderstanding)

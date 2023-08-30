@@ -34,11 +34,16 @@ Support
 
 Pedagogy
 - Learner generated examples - questioning/assessing technique for teaching
+- [complex instruction](https://complexinstruction.stanford.edu/)
 
 Mathematics
+- [The math people myth](https://www.youtube.com/watch?v=uJsHoS01pPg)
 - Teaching trignometry by using a circle around a triangle, height etc
 - [Tips for teachers](https://tipsforteachers.co.uk/)
 - [Mr Barton Maths](http://www.mrbartonmaths.com/index.html)
+- Delong, M., & Winter, D. (2002). *Learning to teach and teaching to learn mathematics: Resources for professional development*. Mathematical Association of America.
+- Hurrell, D. P. (2013). What Teachers Need to Know to Teach Mathematics: An argument for a reconceptualised model. *Australian Journal of Teacher Education*, *38*(11). <https://doi.org/10.14221/ajte.2013v38n11.3>
+- [Beyond the race to nowhere](https://beyondtheracetonowhere.org/)
 
 Digital technology [[v9-oz-digital-technologies]]
 
