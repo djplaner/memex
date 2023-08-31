@@ -26,6 +26,14 @@ Attempt to start a daily to do list as a way of working.
 
 To do
 
+- stats mkdocs/gh-pages
+- digital weaver
+  - memex
+  - blog post
+- Collections response
+  - reach out to Damo - on this and Rocky visit
+- Robbie
+
 - Uplift summaries to all  
   - Follow up re: 1603LHS - in 
   - other completions - an emails

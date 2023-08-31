@@ -19,7 +19,7 @@
 
 See also: [[computing]], [[teaching-digital-technologies]], [[nodt]], [[bricolage]]
 
-A digital renovator doesn't just accept the digital environment provided to them. Instead a digital renovator will make modifications so that the digital environment better suits their purpose. This is becoming easier and easier as the nature of the technologies better support this (but still perhaps not widespread).
+A digital renovator (perhaps aka [[digital-weaver]]) doesn't just accept the digital environment provided to them. Instead a digital renovator will make modifications so that the digital environment better suits their purpose. This is becoming easier and easier as the nature of the technologies better support this (but still perhaps not widespread).
 
 Encouraging more people to engage in digital renovation is step toward emerging from the [[current-digital-dark-age]]
 
