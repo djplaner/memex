@@ -34,7 +34,6 @@ To do
   - Summary with USyd docs to Robbie
   - Learning Journal search - finalise LLM response with USyd stuff
 
-
 - prepare for program support
 
 - Tell DS about changes to Collections - stale edit locks
