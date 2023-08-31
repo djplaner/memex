@@ -32,6 +32,7 @@ To do
 - Collections response
   - reach out to Damo - on this and Rocky visit
 - Robbie
+- Update bio to move away from higher ed
 
 - Uplift summaries to all  
   - Follow up re: 1603LHS - in 
