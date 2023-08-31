@@ -26,9 +26,8 @@ Attempt to start a daily to do list as a way of working.
 
 To do
 
-- stats mkdocs/gh-pages
+- stats [mkdocs](https://squidfunk.github.io/mkdocs-material/setup/setting-up-site-analytics/)/gh-pages
 - digital weaver
-  - memex
   - blog post
 - Collections response
   - reach out to Damo - on this and Rocky visit
