@@ -93,6 +93,9 @@ plugins:
 extra_css:
   - stylesheets/extra.css
 extra:
+  analytics:
+    provider: google
+    property: G-FRPL9T01XP
   social:
 #  - icon: fontawesome/brands/twitter
 #    link: https://twitter.com/djplaner

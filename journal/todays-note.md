@@ -29,8 +29,6 @@ To do
 - stats [mkdocs](https://squidfunk.github.io/mkdocs-material/setup/setting-up-site-analytics/)/gh-pages
 - digital weaver
   - blog post
-- Collections response
-  - reach out to Damo - on this and Rocky visit
 - Robbie
 - Update bio to move away from higher ed
 
