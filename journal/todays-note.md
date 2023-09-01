@@ -32,6 +32,10 @@ To do
 - Robbie
 - Update bio to move away from higher ed
 
+- Send Justene notes on assessment templates etc.
+  - She'll frame something in aWord docs
+  - We'll iterate around on that
+
 - Uplift summaries to all  
   - Follow up re: 1603LHS - in 
   - other completions - an emails
