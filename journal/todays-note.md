@@ -29,15 +29,23 @@ To do
 - Applications 
   - Resume
   - EdQld
-  - update home page
-- [memex design](https://stephanango.com/tidyurl)
+- [memex design](https://stephanango.com/tidyurl) or djon.es/blog template design
 - digital weaver
   - blog post
-- Update bio to move away from higher ed
 
+- Lodge
+  - Revisit and summarise position
+  - Provide feedback
+- Jeff
+  - Do up Word doc summary (CoB today)
 - Send Justene notes on assessment templates etc.
   - She'll frame something in aWord docs
   - We'll iterate around on that
+- Wireframe
+- Bridging
+- Learning Journal 
+  - reading on process
+  - experiments with Canvas
 
 - Uplift summaries to all  
   - Follow up re: 1603LHS - in 
@@ -55,7 +63,6 @@ Blairs - wed morning, fri after and some 7000s - friday
 
 [GitPython](https://github.com/djplaner/exploring-australian-curriculum/security/dependabot/1)
 
-Casadei, R. (2023). Macroprogramming: Concepts, State of the Art, and Opportunities of Macroscopic Behaviour Modelling. *ACM Computing Surveys*, *55*(13s), 275:1-275:37. <https://doi.org/10.1145/3579353>
 
 
 [Why I’m banning AI](https://woborders.blog/2023/08/23/why-im-banning-ai/) – blog post - could be useful in terms of arguments for HLSS courses explaining why reliance on LLMs is to be avoided (e.g. "_unlearning_ commonly circulated misinformation and misunderstanding)
@@ -63,6 +70,11 @@ Casadei, R. (2023). Macroprogramming: Concepts, State of the Art, and Opportunit
 Register Zenodo e.g. https://zenodo.org/record/165478 or this https://zenodo.org/record/3386046
 
 ## Sense
+
+[Standardize or Let a Thousand Flowers Bloom? Interface Design Coordination between Software Platforms and Hosted Apps](https://aisel.aisnet.org/misq/vol47/iss3/16/) - MISQ article 
+
+
+Casadei, R. (2023). Macroprogramming: Concepts, State of the Art, and Opportunities of Macroscopic Behaviour Modelling. *ACM Computing Surveys*, *55*(13s), 275:1-275:37. <https://doi.org/10.1145/3579353>
 
 - Explore use of streamlit to visualise australian curriculum
   - [fastapi wrapper](https://github.com/asehmi/fastapi-wrapper-apiness) - Python based API generation from excel files - better foundation for further work - having an API
