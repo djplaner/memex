@@ -83,6 +83,7 @@ Putting people at the centre of technology.
 [data-portability-interoperability]: data-portability-interoperability "Data portability and interoperability"
 [integrated-computing]: integrated-computing "Integrated Computing"
 [computational-thinking]: computational-thinking "Computation thinking"
+[digital-renovator]: digital-renovator "Digital Renovator"
 [current-digital-dark-age]: current-digital-dark-age "Current Digital Dark Age"
 [computing-ethics]: computing-ethics "Computing related ethics"
 [digital-humanism]: digital-humanism "Digital humanism"

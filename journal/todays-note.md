@@ -26,10 +26,13 @@ Attempt to start a daily to do list as a way of working.
 
 To do
 
-- stats [mkdocs](https://squidfunk.github.io/mkdocs-material/setup/setting-up-site-analytics/)/gh-pages
+- Applications 
+  - Resume
+  - EdQld
+  - update home page
+- [memex design](https://stephanango.com/tidyurl)
 - digital weaver
   - blog post
-- Robbie
 - Update bio to move away from higher ed
 
 - Send Justene notes on assessment templates etc.
