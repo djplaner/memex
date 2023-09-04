@@ -29,19 +29,19 @@ To do
 - Applications 
   - Resume
   - EdQld
+  - Towoomba Cath Ed
 - [memex design](https://stephanango.com/tidyurl) or djon.es/blog template design
-- digital weaver
-  - blog post
 
 - Lodge
   - Revisit and summarise position
   - Provide feedback
 - Jeff
-  - Do up Word doc summary (CoB today)
+  -	How many students haven’t accessed the welcome module
+  -	LTI for padlet instructions – aren’t quite clear
+
 - Send Justene notes on assessment templates etc.
   - She'll frame something in aWord docs
   - We'll iterate around on that
-- Wireframe
 - Bridging
 - Learning Journal 
   - reading on process
@@ -70,6 +70,8 @@ Blairs - wed morning, fri after and some 7000s - friday
 Register Zenodo e.g. https://zenodo.org/record/165478 or this https://zenodo.org/record/3386046
 
 ## Sense
+
+[Estuarine mapping](https://thecynefin.co/estuarine-mapping/) - links to digital weaving etc
 
 [Standardize or Let a Thousand Flowers Bloom? Interface Design Coordination between Software Platforms and Hosted Apps](https://aisel.aisnet.org/misq/vol47/iss3/16/) - MISQ article 
 
