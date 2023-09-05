@@ -9,6 +9,7 @@ Mathematics and mathematics education in broader society.
 ### Why? Society?
 
 - [[qld-girls-still-underrepresented]]
+- [Two types of mathematics teaching - instrumental and relational](instrumental-relational-mathematics.md) 
 
 ## Discipline
 
