@@ -27,19 +27,16 @@ Attempt to start a daily to do list as a way of working.
 To do
 
 - Applications 
-  - Resume
-  - EdQld
+  - Sophia
 
 
 - [memex design](https://stephanango.com/tidyurl) or djon.es/blog template design
 
 - Jeff
-  -	How many students haven’t accessed the welcome module
-  -	LTI for padlet instructions – aren’t quite clear
+  -	How many students haven’t accessed the welcome module -- all but not straight forward to tell
+  -	LTI for padlet instructions – aren’t quite clear - external tool - but not great integration
+    [RMIT advice for how a bit better](https://bpb-ap-se2.wpmucdn.com/sites.rmit.edu.au/dist/5/239/files/2023/02/Padlet-User-Guide_Staff-2023_v1.pdf)
 
-- Send Justene notes on assessment templates etc.
-  - She'll frame something in aWord docs
-  - We'll iterate around on that
 - Bridging
 - Learning Journal 
   - reading on process
@@ -53,14 +50,11 @@ To do
   - Summary with USyd docs to Robbie
   - Learning Journal search - finalise LLM response with USyd stuff
 
-- prepare for program support
-
 - Tell DS about changes to Collections - stale edit locks
-
-Blairs - wed morning, fri after and some 7000s - friday 
 
 [GitPython](https://github.com/djplaner/exploring-australian-curriculum/security/dependabot/1)
 
+[LLM python](https://simonwillison.net/2023/Sep/4/llm-embeddings/)
 
 
 [Why I’m banning AI](https://woborders.blog/2023/08/23/why-im-banning-ai/) – blog post - could be useful in terms of arguments for HLSS courses explaining why reliance on LLMs is to be avoided (e.g. "_unlearning_ commonly circulated misinformation and misunderstanding)

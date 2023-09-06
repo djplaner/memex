@@ -25,6 +25,17 @@ See also: [[teaching]]
 
 ## Resources
 
+### Pedagogical
+
+- [EngageCsEdu](https://www.engage-csedu.org/) - ACM affillated: instructional materials, engagement practices, community - collection of OER for teaching - hosted in ACM DL
+- [NCWIT Engagement Practices Framework](https://ncwit.org/resources/engagement-practices-framework/) 
+  - Make it matter
+  - Build student confidence & professional identity
+  - Grow an inclusive community
+- [Center for Inclusive Computing](https://cic.northeastern.edu/)
+
+### Technical
+
 - [Corpora](https://github.com/dariusk/corpora) - Git repo with a large collection of JSON data files (a collection of static corpora) - has a [Glitch hosted API](https://corpora-api.glitch.me/)
 - [WebGlossary.info](https://webglossary.info/) - interactive online glossary tool based on an e-book
 
