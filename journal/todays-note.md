@@ -37,7 +37,6 @@ To do
   -	LTI for padlet instructions – aren’t quite clear - external tool - but not great integration
     [RMIT advice for how a bit better](https://bpb-ap-se2.wpmucdn.com/sites.rmit.edu.au/dist/5/239/files/2023/02/Padlet-User-Guide_Staff-2023_v1.pdf)
 
-- Bridging
 - Learning Journal 
   - reading on process
   - experiments with Canvas
@@ -68,6 +67,9 @@ SOLO taxonomy linked to [[understanding]]
 [Estuarine mapping](https://thecynefin.co/estuarine-mapping/) - links to digital weaving etc
 
 [Standardize or Let a Thousand Flowers Bloom? Interface Design Coordination between Software Platforms and Hosted Apps](https://aisel.aisnet.org/misq/vol47/iss3/16/) - MISQ article 
+
+
+Van Campenhout, R., Jerome, B., Dittel, J. S., & Johnson, B. G. (2023). The Doer Effect at Scale: Investigating Correlation and Causation Across Seven Courses. *LAK23: 13th International Learning Analytics and Knowledge Conference*, 357--365. <https://doi.org/10.1145/3576050.3576103>
 
 Mentions Barlow's Barlows on mindsets of "insiders" and "outsider-newcomers"
 
