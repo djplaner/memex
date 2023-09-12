@@ -11,6 +11,10 @@ Mathematics and mathematics education in broader society.
 - [[qld-girls-still-underrepresented]]
 - [Two types of mathematics teaching - instrumental and relational](instrumental-relational-mathematics.md) 
 
+### Societal examples of mathematics
+
+- [[poverty-premium]]
+
 ## Discipline
 
 Notes related to the discipline of mathematics.
