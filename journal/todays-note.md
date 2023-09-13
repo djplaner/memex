@@ -36,6 +36,10 @@ To do
   -	How many students haven’t accessed the welcome module -- all but not straight forward to tell
   -	LTI for padlet instructions – aren’t quite clear - external tool - but not great integration
     [RMIT advice for how a bit better](https://bpb-ap-se2.wpmucdn.com/sites.rmit.edu.au/dist/5/239/files/2023/02/Padlet-User-Guide_Staff-2023_v1.pdf)
+      - Can it be embedded?
+  - Map out three courses against CSDM
+
+Collections - update version
 
 - Learning Journal 
   - reading on process

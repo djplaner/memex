@@ -7,6 +7,7 @@
 ## Python modules
 
 - SymPy
+- [Manim](https://github.com/ManimCommunity/manim/) - programmatically create mathematical animations - related [community generated videos/animations](https://www.manim.community/awesome/)
 
 ## Misc resources
 

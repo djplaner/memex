@@ -29,11 +29,18 @@ Mathematics curriculum I'll be engaging with
 
 - [[v9-oz-mathematics-learning-area]]
 
+And other examples
+
+- [California's 2023 Mathematics Framework](https://www.cde.ca.gov/ci/ma/cf/)
+- [California's 2013 Mathematics Framework](https://www.cde.ca.gov/ci/ma/cf/mathfwchapters.asp)
+
 ## Pedagogy
 
 Notes related to mathematics specific pedagogy
 
 - [[teaching-mathematics-for-a-growth-mindset]]
+- [The Science of Math](https://www.thescienceofmath.com/) - the explicit instruction folk :) 
+    - [What is explicit instruction?](https://www.thescienceofmath.com/what-is-explicit-instruction)
 
 ### Misc resources
 
@@ -67,6 +74,7 @@ Generated from [AI Mind Map Generator](https://ferusandbeyond-mind-map-generatio
 [teaching]: ../teaching "Teaching"
 [teacher-preparation]: ../../../seek/teacher-preparation "Teacher preparation"
 [qld-girls-still-underrepresented]: qld-girls-still-underrepresented "Queensland girls still underrepresented in specialist maths despite push to increase participation - ABC News"
+[poverty-premium]: poverty-premium "Poverty Premium"
 [normal-distribution]: probability/normal-distribution "Normal (Gaussian) distribution"
 [v9-oz-mathematics-learning-area]: ../Curriculum/v9-oz-mathematics-learning-area "Mathematics learning area - Australian Curriculum v9"
 [teaching-mathematics-for-a-growth-mindset]: teaching-mathematics-for-a-growth-mindset "Teaching mathematics for a growth mindset"
