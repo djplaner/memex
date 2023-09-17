@@ -120,7 +120,7 @@ nav:
       - Know thy student: sense/CASA/know-thy-student.md
       - nodt: sense/nodt/nodt.md
       - Representations: sense/Representations/representations.md
-      - Sharing design knowledge: sense/Sharing design knowledge/sharing-design-knowledge.md
+      - Sharing design knowledge: sense/Sharing-design-knowledge/sharing-design-knowledge.md
     - Concepts: sense/concepts/concepts.md
     - Topics:
       - AI: sense/AI/AI.md
@@ -132,17 +132,17 @@ nav:
       - Relational: sense/relational/relational.md
       - Research: sense/Research/research.md
       - Society: sense/Society/society.md
-      - Web development: sense/Web development/web-development.md
+      - Web development: sense/Web-development/web-development.md
     - Tasks:
       - Conferences: sense/Conferences/conferences.md
       - Loose: sense/loose.md
-      - Paper Ideas: sense/Paper Ideas/paper-ideas.md
-      - Paper Summaries: sense/Paper Summaries/paper-summaries.md
+      - Paper Ideas: sense/Paper-Ideas/paper-ideas.md
+      - Paper Summaries: sense/Paper-Summaries/paper-summaries.md
       - Recipes: sense/Recipes/recipes.md
       - Work: sense/work/work-categories.md
     - Teaching:
       - sense/Teaching/teaching.md
-      - Quality and teaching: sense/Quality and teaching/quality-and-teaching.md
+      - Quality and teaching: sense/Quality-and-teaching/quality-and-teaching.md
 #    - Principles
 #    - Society
   - Share: 
