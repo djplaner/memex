@@ -27,6 +27,7 @@ More concrete instantiation of philosophcial positions into pedagogical approach
 - [[mind-tools]] 
 - [[ungrading]]
 - [[assessment-of-process]]
+- [[pygmalion-effect]]
 
 ## Pedagogical strategy (Procedural)
 
