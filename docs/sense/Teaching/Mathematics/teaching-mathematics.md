@@ -47,6 +47,7 @@ Notes related to mathematics specific pedagogy
 - [[python-teaching-mathematics]]
 - [Multiplicty Lab](https://multiplicitylab.northwestern.edu/) - Primary focused - helping provide rich mathematical experience to all students
 - [The Institute for Figuring](https://www.theiff.org/) - dedicated to the poetic and aesthetic dimensions of science, mathematics and engineering
+- [Resources for teaching graph making and analysis skills](https://blog.tcea.org/graph-making-analysis-skills/)
 
 ### Learner generated examples
 

@@ -29,10 +29,12 @@ To do
 - Applications 
   - Sophia
 
+- Migrate to central file store
 
 - [memex design](https://stephanango.com/tidyurl) or djon.es/blog template design
 
 - Jeff
+  - do up principles document
   -	How many students haven’t accessed the welcome module -- all but not straight forward to tell
   -	LTI for padlet instructions – aren’t quite clear - external tool - but not great integration
     [RMIT advice for how a bit better](https://bpb-ap-se2.wpmucdn.com/sites.rmit.edu.au/dist/5/239/files/2023/02/Padlet-User-Guide_Staff-2023_v1.pdf)
