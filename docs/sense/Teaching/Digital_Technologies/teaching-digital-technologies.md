@@ -34,6 +34,10 @@ See also: [[teaching]]
   - Grow an inclusive community
 - [Center for Inclusive Computing](https://cic.northeastern.edu/)
 
+### Learning programming
+
+- [Music blocks](https://www.sugarlabs.org/music-blocks/) - block based programming for music
+
 ### Technical
 
 - [Corpora](https://github.com/dariusk/corpora) - Git repo with a large collection of JSON data files (a collection of static corpora) - has a [Glitch hosted API](https://corpora-api.glitch.me/)

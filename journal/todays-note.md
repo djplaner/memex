@@ -34,12 +34,24 @@ To do
 - [memex design](https://stephanango.com/tidyurl) or djon.es/blog template design
 
 - Jeff
-  - do up principles document
+  - Include 2005CCJ in the principles document - link T3 OUA version
+  - do up principles document 
+    - Run by Marcus and Jeff
+
   -	How many students haven’t accessed the welcome module -- all but not straight forward to tell
   -	LTI for padlet instructions – aren’t quite clear - external tool - but not great integration
     [RMIT advice for how a bit better](https://bpb-ap-se2.wpmucdn.com/sites.rmit.edu.au/dist/5/239/files/2023/02/Padlet-User-Guide_Staff-2023_v1.pdf)
       - Can it be embedded?
   - Map out three courses against CSDM
+
+Assessment uplift
+- Complete update of sharepoint library with other details
+- 2005CCJ
+  - Recheck what rubrics they've used
+  - Give feedback on A2 rubric
+  - Give feedback re: CSDM
+- 1063LHS
+  - Follow up with Dean and DHoS re: questions of school/institutional approach
 
 Collections - update version
 
