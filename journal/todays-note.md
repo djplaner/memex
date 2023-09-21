@@ -27,11 +27,9 @@ Attempt to start a daily to do list as a way of working.
 To do
 
 - Applications 
-  - Sophia
 
 - Migrate to central file store
 
-- [memex design](https://stephanango.com/tidyurl) or djon.es/blog template design
 
 - Jeff
   - Include 2005CCJ in the principles document - link T3 OUA version
@@ -44,6 +42,7 @@ To do
       - Can it be embedded?
   - Map out three courses against CSDM
 
+
 Assessment uplift
 - Complete update of sharepoint library with other details
 - 2005CCJ
@@ -53,7 +52,10 @@ Assessment uplift
 - 1063LHS
   - Follow up with Dean and DHoS re: questions of school/institutional approach
 
-Collections - update version
+- Collections
+  - fix page issue with edit on handler
+
+- [memex design](https://stephanango.com/tidyurl) or djon.es/blog template design
 
 - Learning Journal 
   - reading on process
@@ -64,8 +66,6 @@ Collections - update version
   - other completions - an emails
   - summary for DHoS
 - AI proof resource
-  - Summary with USyd docs to Robbie
-  - Learning Journal search - finalise LLM response with USyd stuff
 
 - Tell DS about changes to Collections - stale edit locks
 
