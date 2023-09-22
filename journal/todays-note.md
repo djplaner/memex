@@ -30,9 +30,12 @@ To do
 
 - Migrate to central file store
 
+- Bridging course 
+  - Do up course profile draft by Wed pm
 
 - Jeff
   - Include 2005CCJ in the principles document - link T3 OUA version
+  - Jaana advice on sign posting, teaching presence etc
   - do up principles document 
     - Run by Marcus and Jeff
 
