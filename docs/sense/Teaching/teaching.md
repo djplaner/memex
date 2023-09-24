@@ -41,6 +41,7 @@ Details moves through which strategic is effected
 - [[worked-examples]]
 - [[learning-journal]]
 - [[cognitive-strategies]]
+- [[homework]]
 
 ### Digital learning tools
 

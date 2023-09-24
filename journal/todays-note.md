@@ -81,6 +81,16 @@ Assessment uplift
 
 Register Zenodo e.g. https://zenodo.org/record/165478 or this https://zenodo.org/record/3386046
 
+## Mathematics
+
+Feikes & Schwingendorf (2008) arguing number sense as foundation for all higher level mathematics
+
+Cathy Humphreys and Ruth Parker (Humphreys & Parker, 2015) and another by Sherry Parrish (Parrish, 2014), illustrate many different number talks to work on with secondary and elementary students, respectively
+
+See also - [number talks](https://www.youcubed.org/category/teaching-ideas/number-sense)
+
+> As I mentioned in Chapter One, the PISA team at the Organisation for Economic Co-operation and Development (OECD) not only give mathematics tests to students but also collect data on students’ mindset beliefs and mathematics strategies. From looking at the strategies the 13 million students use, the data show that the lowest-scoring students in the world are those who use a memorization strategy.
+
 ## Sense
 
 SOLO taxonomy linked to [[understanding]]
