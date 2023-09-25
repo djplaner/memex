@@ -35,7 +35,8 @@ To do
 
 - Jeff
   - Include 2005CCJ in the principles document - link T3 OUA version
-  - Jaana advice on sign posting, teaching presence etc
+  - Jaana more advice on "guided didactic conversation"
+  - Do up sample conversions for 2005CCJ
   - do up principles document 
     - Run by Marcus and Jeff
 
@@ -82,8 +83,6 @@ Assessment uplift
 Register Zenodo e.g. https://zenodo.org/record/165478 or this https://zenodo.org/record/3386046
 
 ## Mathematics
-
-Feikes & Schwingendorf (2008) arguing number sense as foundation for all higher level mathematics
 
 Cathy Humphreys and Ruth Parker (Humphreys & Parker, 2015) and another by Sherry Parrish (Parrish, 2014), illustrate many different number talks to work on with secondary and elementary students, respectively
 
