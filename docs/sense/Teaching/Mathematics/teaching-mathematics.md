@@ -59,7 +59,7 @@ teaching activities
 "games"
 
 - _How close to 100_ - Partners with dice playing a game with a blank 100 grid. Roll, colour in grid, write the number sentence (Boaler, 2015)
-- Use of [flash cards](http://www.youcubed .org/wp-content/uploads/2015/03/FluencyWithoutFear-2015.pdf) and find all cards with the same answer
+- Use of [math cards](https://www.youcubed.org/tasks/math-cards/) and find all cards with the same answer - and [more tasks from YouCubed](https://www.youcubed.org/tasks/)
 
 Computer games 
 
@@ -80,6 +80,9 @@ Homework
 - [Multiplicty Lab](https://multiplicitylab.northwestern.edu/) - Primary focused - helping provide rich mathematical experience to all students
 - [The Institute for Figuring](https://www.theiff.org/) - dedicated to the poetic and aesthetic dimensions of science, mathematics and engineering
 - [Resources for teaching graph making and analysis skills](https://blog.tcea.org/graph-making-analysis-skills/)
+- [m1Maths.com](https://m1maths.com/) - "online textbook" for Oz maths organised by knowledge strands and using a common structure: summary, learn, solve, revise, answers - licensed using CC BY-NC 4.0
+
+    Could be useful (as an example of reference content) for exploring OZ curriculum and beyond. But written as Word docs without styles, using images suggesting difficult to convert
 
 ### Learner generated examples
 
