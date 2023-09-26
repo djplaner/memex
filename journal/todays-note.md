@@ -59,7 +59,9 @@ Assessment uplift
 - Collections
   - fix page issue with edit on handler
 
+Memex
 - [memex design](https://stephanango.com/tidyurl) or djon.es/blog template design
+  - explore the link between RDF and neo4js: [one](https://neo4j.com/blog/neo4j-rdf-graph-database-reasoning-engine/), [two](https://teepika-r-m.medium.com/how-to-import-rdf-data-into-neo4j-68f051a3cfd5) - using [neosemantics](https://neo4j.com/labs/neosemantics/)
 
 - Learning Journal 
   - reading on process
@@ -98,6 +100,7 @@ SOLO taxonomy linked to [[understanding]]
 
 [Standardize or Let a Thousand Flowers Bloom? Interface Design Coordination between Software Platforms and Hosted Apps](https://aisel.aisnet.org/misq/vol47/iss3/16/) - MISQ article 
 
+Gallagher, M., & Lamb, J. (2023). Open education in closed-loop systems: Enabling closures and open-loops. *Distance Education*. <https://www.research.ed.ac.uk/en/publications/open-education-in-closed-loop-systems-enabling-closures-and-open-> -- check if it's out yet
 
 Van Campenhout, R., Jerome, B., Dittel, J. S., & Johnson, B. G. (2023). The Doer Effect at Scale: Investigating Correlation and Causation Across Seven Courses. *LAK23: 13th International Learning Analytics and Knowledge Conference*, 357--365. <https://doi.org/10.1145/3576050.3576103>
 
