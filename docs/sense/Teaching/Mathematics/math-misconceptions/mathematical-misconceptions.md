@@ -1,4 +1,4 @@
-# Mathematical misconceptions
+# Mathematical misconceptions and difficulties
 
 See also: [[teaching-mathematics]]
 
@@ -9,7 +9,7 @@ A list of various types of mathematical misconceptions, grouped into two categor
 
 ## Mathematical
 
-
+- [[trickiest-multiplicatons]]
 
 ## Pedagogical
 

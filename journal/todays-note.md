@@ -25,6 +25,9 @@ Attempt to start a daily to do list as a way of working.
 ## Work 
 
 To do
+- course profile math briding
+- migration project feedback
+- 2005CCJ samples
 
 - Applications 
 

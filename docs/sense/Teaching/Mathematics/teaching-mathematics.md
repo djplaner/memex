@@ -23,7 +23,7 @@ Notes related to the discipline of mathematics.
 - [Two types of mathematics teaching - instrumental and relational](instrumental-relational-mathematics.md) 
 - [[mathematical-mindset]]
 - [[math-facts]]
-- [[mathematical-misconceptions]]
+- [[mathematical-misconceptions]] and difficulties
 
 ### Probability
 
