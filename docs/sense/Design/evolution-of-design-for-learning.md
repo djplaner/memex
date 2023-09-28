@@ -7,7 +7,7 @@ Carvahlo et al (2023) provide the following timeline of the evolution of "stuff"
 | Stage | Rationale | Description |
 | --- | --- | --- |
 | Instructional design | US army needing to effectively train soldiers etc at scale | Psychologist and educators developing an instructional design approach "mostly reflected behaviourist views of learning, using systematic approaches to the development of tasks and resources to support complex problem-solving and the efficient completion of specific tasks (Gibbons et al., 2014; Reiser, 2001)" (Carvahlo et al, 2023). Generally requiring a team of experts performing "waterfall" design: analysis, design, development, implementation, evaluation.  Instructional design somewhat narrow failing to grapple with complexity of contemporary learning environments ([4C/ID](https://www.4cid.org/about/) seen as exception)  |
-| Learning design | Increased use of technologies, changes in how knowledge is created, shared and represented. Also need to extend beyond cognitive focus with an increased focus on the learner, rather than instruction. Moving from behaviourist to more constructivist perspectives.| |
+| Learning design | Increased use of technologies, changes in how knowledge is created, shared and represented. Also need to extend beyond cognitive focus with an increased focus on the learner, rather than instruction. Moving from behaviourist to more constructivist perspectives.|  New models/frameworks evolve with a focus on what the learning does and the resources and technologies required to support that activity. A more ecological framing.  |
 | Design for learning | A tweak mostly made to make explicit that learning cannot be designed, only designed for. Only the task can be designed, actual learner activity will emerge and cannot be designed for. | Arguably inclusive of learning design, just a (important) tweak in language |
 
 ## Design frameworks
@@ -43,10 +43,9 @@ ACAD card decks with four colour coded sets allow for a focus on:
 These cards combined with the ACAD wireframe (figure below) and case studies to help educational designers engage in identifying designable elements. 
 
 <figure markdown>
-![](./images/ACAD-wireframe.png)
+![](images/ACAD-wireframe.png)
 <caption>The ACAD wireframe (adapted from Carvahlo et al, 2023, p. 346)</caption>
 </figure>
-![](images/ACAD-wireframe.png)
 
 Carvahlo (et al, 2023) report on what educational designers engaged in this process valued. First round focused on 
 > how does the ACAD toolkit support educational designers in tracing connections between learning theories, educational design, and teaching and learning practice?
@@ -63,6 +62,8 @@ and a subsequent second round of analysing critical incidents with the following
 
 Reflecting on observations within Australian higher education, there are some current needs that appear to be missing around design for learning. Perhaps suggesting that there needs to be further evolution of design for learning - at least in terms of practice.  
 
+### Different types of design - forward-oriented design 
+
 Much of this apparent need appears to have already been signposted by the idea of [[foward-oriented-design]] which suggests that _design for learning_ is only one part of the design process. Australian higher education is facing increasing calls to [stretch the iron triangle](https://djon.es/blog/2023/02/09/gathers-weavers-and-augmenters-three-principles-for-dynamic-and-sustainable-delivery-of-quality-learning-and-teaching/) by growing access, reducing costs, and improving quality. Emphasising [long-standing challenges](https://djon.es/blog/2019/08/08/exploring-knowledge-reuse-in-design-for-digital-learning-tweaks-h5p-constructive-templates-and-casa/#introduction) with which common long used strategies are not capable of addressing.
 
 | Phase | Reality |
@@ -73,12 +74,22 @@ Much of this apparent need appears to have already been signposted by the idea o
 | design for reflection | Ditto | 
 | design for re-design | In order to stretch the iron triangle, institutions are increasingly seeking to re-design courses and their components for different contexts, modes, and purposes. For example, re-used of components in micro-credentials, using the same course for on-campus and online students. The assumption being that this is done **without** engaging in _design for learning_ |
 
+### Crossing boundaries - shared languages, activity systems
 
+Fawns (2022) argues that "we must look beyond isolated ideas of technologies or teaching methods, to the situated, entangled combinations of diverse elements involved in educational activity" (p. 711). But much of the institutional and design practice around learning and teaching uses top-down decomposition to break down the complexity of learning and teaching into manageable chunks ([Jones and Clark, 2014](https://djon.es/blog/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/#how-you-see-the-world-distributed-or-tree-like)). Organisationally, expertise in pedagogy is separate from expertise in technology, sometimes curriculum design from learning design and then in the above you can see separation into macro, meso, micro levels, and ACAD's separation between the dimensions of set, epistemic, and social.
+
+There is value to this decomposition, however, experience suggests growing need to be able to more effectively cross those boundaries
+
+For example, consider the situation where the task is to re-design a course for migration between a synchronous, on-campus mode to an asynchronous online mode. Working on increasing pressure to "stretch the iron triangle" this work can't involve a new round of _design for learning_. Instead, it is more focused on _design for re-design_. As cheaply as possible, retain the same basic epistemic task, perhaps re-use lessons learned from the on-campus offering, and tinker with the set and social dimensions to retain a similar quality of learning experience. This appears to require a re-weaving of the disparate ACAD dimensions into a different assemblage.
+
+While this work can be done at the micro-level, with a specific course. In this context, it is also required to work across multiple course within the same program. Moving from the micro-level to the meso-level. As an indicator of a growing organisational need it may well be that it also needs to ascend to the macro-level.
 
 
 ## References
 
 Carvalho, L., Castañeda, L., & Yeoman, P. (2023). The "Birth of Doubt" and "The Existence of Other Possibilities": Exploring How the ACAD Toolkit Supports Design for Learning. *Journal of New Approaches in Educational Research*, *12*(2), Article 2. <https://doi.org/10.7821/naer.2023.7.1494>
+
+Fawns, T. (2022). An Entangled Pedagogy: Looking Beyond the Pedagogy---Technology Dichotomy. *Postdigital Science and Education*, *4*(3), 711--728. <https://doi.org/10.1007/s42438-022-00302-7>
 
 
 [//begin]: # "Autogenerated link references for markdown compatibility"
