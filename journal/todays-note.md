@@ -25,6 +25,7 @@ Attempt to start a daily to do list as a way of working.
 ## Work 
 
 To do
+- 1002CCJ review for Jaana - including visual design samples
 - 2005CCJ samples
 
 - Applications 
