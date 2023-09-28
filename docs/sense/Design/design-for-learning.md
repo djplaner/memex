@@ -23,6 +23,8 @@ See also: [[design]], [[forward-oriented-design]]
 
 _Design for learning_ is another term for learning design. The shift emphasises that learning is entirely dependent on the individual learner on what they do. Learners learn through activity. We cannot design their learning, only design things that help them learn (Goodyear & Dimitriadis, 2013). There is a gap between what we design what they do.
 
+See [[evolution-of-design-for-learning]]
+
 ## References 
 
 Goodyear, P., & Dimitriadis, Y. (2013). In medias res: Reframing design for learning. *Research in Learning Technology*, *21*, 1--13. <https://doi.org/10.3402/rlt.v21i0.19909>

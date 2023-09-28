@@ -2,12 +2,18 @@
 
 Idea first suggested in [Dimitriadis & Goodyear (2013)](https://petergoodyear.files.wordpress.com/2017/07/dimitriadis-goodyear-2013-forward-oriented-design.pdf) and [Goodyear and Dimitriadis (2013)](https://petergoodyear.files.wordpress.com/2017/07/goodyear-dimitriadis-2013-in-medias-res.pdf)
 
-Encourages thinking of designing learning of including active consideration of
+Encourages thinking of designing learning as including different phases that focus attention on different necessary questions.
 
-- design for learning
-- design for configuration 
-- design for orchestration 
-- design for reflection
+| Phase | Description |
+| --- | --- |
+| design for learning| What will learners do? |
+| design for configuration | How will learners, teachers, and others prepare/modify what has been designed to suit specific needs? |
+| design for orchestration | What will teachers do to support learning during learn time? |
+| design for reflection | What data will be gathered at learn time to enable evaluation of what happened? | 
+| design for re-design | How will teachers be able to modify design later in response to the outcomes of reflection and changing needs? |
+
+
+The quote from Goodyear & Dimitriadis (2013)
 
 > A related issue, which we examine more closely in our companion paper (Dimitriadis and Goodyear, 2013), is that design thinking and design practice would benefit from being even more forward-looking. By this, we mean that design work should not just focus on what students are expected to do (in their learning activities), it should also include design for configuration (what students and other agents do, to prepare, customise or otherwise modify that which has been designed, to suit specific needs), design for orchestration (providing support for the teacher's work at learntime), design for reflection (ensuring that actionable data is gathered at learntime, to inform system evaluation) and design for redesign (consciously making design choices at time t, to make modifications at time t+1 easier). (Goodyear & Dimitriadis, 2013)
 
