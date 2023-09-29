@@ -25,7 +25,11 @@ Attempt to start a daily to do list as a way of working.
 ## Work 
 
 To do
-- 1002CCJ review for Jaana - including visual design samples
+- 1002CCJ review for Jaana 
+  - Modify CSS style (eventually) to Include
+    - Support for accordions
+    - Use of CSS variables to specify colours
+    - Support for colours for different modules
 - 2005CCJ samples
 
 - Applications 
