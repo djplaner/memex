@@ -25,6 +25,8 @@ See also: [[teaching]]
 
 ## Resources
 
+- [Digital Technologies Hub](https://www.digitaltechnologieshub.edu.au/) - Oz govt funded, all things related to teaching digital technoloies - including scope and sequence
+
 ### Pedagogical
 
 - [EngageCsEdu](https://www.engage-csedu.org/) - ACM affillated: instructional materials, engagement practices, community - collection of OER for teaching - hosted in ACM DL

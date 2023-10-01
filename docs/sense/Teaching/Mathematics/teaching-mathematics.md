@@ -24,6 +24,7 @@ Notes related to the discipline of mathematics.
 - [[mathematical-mindset]]
 - [[math-facts]]
 - [[mathematical-misconceptions]] and difficulties
+- [[what-do-mathematicians-do]]
 
 ### Probability
 
@@ -50,6 +51,8 @@ Notes related to mathematics specific pedagogy
 - [The Science of Math](https://www.thescienceofmath.com/) - the explicit instruction folk :) 
     - [What is explicit instruction?](https://www.thescienceofmath.com/what-is-explicit-instruction)
 
+- [[explicit-teaching]] - as described by the [Mathematics hub](https://www.mathematicshub.edu.au/) produced by the AAMT
+
 ### Activities
 
 teaching activities
@@ -68,7 +71,6 @@ Computer games
 - [Number rack](https://www.k-5mathteachingresources.com/Rekenrek.html)
 - [Motion math](https://motionmathgrams.com)
 
-
 Homework
 
 - [[reflective-mathematical-homework]]
@@ -76,6 +78,7 @@ Homework
 
 ## Misc resources
 
+- [Maths education](http://www.mathseducation.org.au/) - AAMT site - also [Mathematics hub](https://www.mathematicshub.edu.au/)
 - [[python-teaching-mathematics]]
 - [Multiplicty Lab](https://multiplicitylab.northwestern.edu/) - Primary focused - helping provide rich mathematical experience to all students
 - [The Institute for Figuring](https://www.theiff.org/) - dedicated to the poetic and aesthetic dimensions of science, mathematics and engineering
@@ -83,6 +86,14 @@ Homework
 - [m1Maths.com](https://m1maths.com/) - "online textbook" for Oz maths organised by knowledge strands and using a common structure: summary, learn, solve, revise, answers - licensed using CC BY-NC 4.0
 
     Could be useful (as an example of reference content) for exploring OZ curriculum and beyond. But written as Word docs without styles, using images suggesting difficult to convert
+- [Free Math Puzzles](https://www.nap.edu.au/naplan/whats-in-the-tests)
+- [wootube](https://misterwootube.com/)
+- [vi hart videos](https://vimeo.com/vihart)
+
+For teachers
+- [first steps in mathematics](https://myresources.education.wa.edu.au/programs/first-steps-mathematics) - teacher resources books: number, measurement, space, chance and data. (WA)
+- [Wootube^2](https://www.youtube.com/misterwootube2) - Eddie Woo's YouTube channel for mathematics teachers
+- A list of [Mathematicians project](https://arbitrarilyclose.com/mathematician-project/)
 
 ### Learner generated examples
 
@@ -116,7 +127,8 @@ Boaler, J. (2015). Creating Mathematical Mindsets: The Importance of Flexibility
 [poverty-premium]: poverty-premium "Poverty Premium"
 [mathematical-mindset]: mathematical-mindset "Mathematical Mindset"
 [math-facts]: math-facts "Math Facts"
-[mathematical-misconceptions]: math-misconceptions/mathematical-misconceptions "Mathematical misconceptions"
+[mathematical-misconceptions]: math-misconceptions/mathematical-misconceptions "Mathematical misconceptions and difficulties"
+[what-do-mathematicians-do]: what-do-mathematicians-do "What do mathematicians do?"
 [normal-distribution]: probability/normal-distribution "Normal (Gaussian) distribution"
 [v9-oz-mathematics-learning-area]: ../Curriculum/v9-oz-mathematics-learning-area "Mathematics learning area - Australian Curriculum v9"
 [practice-approach-to-mathematics]: practice-approach-to-mathematics "Practice approach to mathematics"

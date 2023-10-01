@@ -21,8 +21,10 @@ See also: [[exploring-australian-curriculum]]
 
 ## Tasks 
 
-- [ ] Download and import v9 of the Australian Curriculum
-- [ ] Identify components of v9 curriculum
+- [X] Download and import v9 of the Australian Curriculum
+- [X] Identify components of v9 curriculum
+- [ ] Explore notions of ontology, RDF, and graph databases
+- [ ] What ontologies re: mathematical concepts exist?
 - [ ] Design how to link with memex
 
 ## v9 curriculum - download and import

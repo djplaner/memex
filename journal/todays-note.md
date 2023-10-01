@@ -21,6 +21,22 @@
 
 Attempt to start a daily to do list as a way of working. 
 
+- convert to thesis to Word doc for annotation and comment
+- integrate active learning study into memex 
+- ditto ontologies and networks stuff
+
+Prep 
+
+- explicit teaching, explicit instruction and beyond
+- Check out interview questions - practice, refine
+- behaviour management
+- differentation
+- questioning
+- mathematical misconceptions
+- Curriculum  
+  - relationship of the different digital technologies learning areas
+  - mathematics curriculum - Junior
+- revisit 3024EDN
 
 ## Work 
 

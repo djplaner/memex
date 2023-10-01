@@ -1,5 +1,9 @@
 # Research 
 
+## PhD study
+
+- [[reviewing-phd-thesis]]
+
 ## Path
 
 - [[numeric-indicators-research-task-corruption]]
