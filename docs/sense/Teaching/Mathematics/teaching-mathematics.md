@@ -15,6 +15,10 @@ Mathematics and mathematics education in broader society.
 
 - [[poverty-premium]]
 
+## Philosoph
+
+- [[real-work-versus-real-world]]
+
 ## Discipline
 
 Notes related to the discipline of mathematics.
@@ -53,6 +57,7 @@ Notes related to mathematics specific pedagogy
     - [What is explicit instruction?](https://www.thescienceofmath.com/what-is-explicit-instruction)
 
 - [[explicit-teaching]] - as described by the [Mathematics hub](https://www.mathematicshub.edu.au/) produced by the AAMT
+- [[differentiation-mathematics]]
 
 ### Activities
 
@@ -135,6 +140,7 @@ Boaler, J. (2015). Creating Mathematical Mindsets: The Importance of Flexibility
 [qld-girls-still-underrepresented]: qld-girls-still-underrepresented "Queensland girls still underrepresented in specialist maths despite push to increase participation - ABC News"
 [when-will-i-ever-use-mathematics]: when-will-i-ever-use-mathematics "When will I ever use mathematics"
 [poverty-premium]: poverty-premium "Poverty Premium"
+[real-work-versus-real-world]: real-work-versus-real-world "Real work versus Real world"
 [mathematical-mindset]: mathematical-mindset "Mathematical Mindset"
 [math-facts]: math-facts "Math Facts"
 [mathematical-misconceptions]: math-misconceptions/mathematical-misconceptions "Mathematical misconceptions and difficulties"
@@ -145,6 +151,7 @@ Boaler, J. (2015). Creating Mathematical Mindsets: The Importance of Flexibility
 [conceptual-approach-to-mathematics]: conceptual-approach-to-mathematics "conceptual-approach-to-mathematics"
 [teaching-mathematics-for-a-growth-mindset]: teaching-mathematics-for-a-growth-mindset "Teaching mathematics for a growth mindset"
 [explicit-teaching]: explicit-teaching "Explicit teaching"
+[differentiation-mathematics]: differentiation-mathematics "Differentiation - Mathematics"
 [math-watch]: math-watch "Math Watch"
 [number-talks]: number-talks "Number talks"
 [reflective-mathematical-homework]: reflective-mathematical-homework "Reflective mathematical homework"
