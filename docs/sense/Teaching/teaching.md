@@ -12,6 +12,10 @@ Take a look at
 
 Loewenberg Ball, D., & Forzani, F. M. (2009). The Work of Teaching and the Challenge for Teacher Education. *Journal of Teacher Education*, *60*(5), 497--511. <https://doi.org/10.1177/0022487109348479>
 
+## Societal
+
+- [[queensland-schools]]
+
 ## Meta 
 
 Work about how to encourage/support teaching
@@ -24,12 +28,16 @@ Belief about how people learn, what is knowledge etc
 
 ## High level pedagogy (Conceptual)
 
-More concrete instantiation of philosophcial positions into pedagogical approaches
+More concrete instantiation of philosophical positions into pedagogical approaches
 
 - [[mind-tools]] 
 - [[ungrading]]
 - [[assessment-of-process]]
 - [[pygmalion-effect]]
+
+Misc
+
+- [[class-management]]
 
 ## Pedagogical strategy (Procedural)
 
@@ -74,11 +82,13 @@ Details moves through which strategic is effected
 [learning]: ../Learning/learning "Learning"
 [design]: ../Design/design "Design"
 [goodyear-patterns-design-practice]: ../Paper-Summaries/goodyear-patterns-design-practice "Patterns, pattern languages and design practice"
+[queensland-schools]: Digital_Technologies/queensland-schools "Queensland Schools"
 [my-teaching-philosophy]: my-teaching-philosophy "My Teaching Philosophy"
 [mind-tools]: mind-tools "Mind Tools (and Mindstorms)"
 [ungrading]: ungrading "Ungrading"
 [assessment-of-process]: Assessment/assessment-of-process "Assessment of process"
 [pygmalion-effect]: pygmalion-effect "Pygmalion Effect (aka "Rosenthal effect")"
+[class-management]: class-management "Class Management"
 [high-impact-teaching-strategies]: high-impact-teaching-strategies "High impact teaching strategies"
 [question-for-retrieval]: question-for-retrieval "Questioning for retrieval"
 [worked-examples]: worked-examples "Worked examples"

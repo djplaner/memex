@@ -56,6 +56,8 @@ Notes related to mathematics specific pedagogy
 
 ### Activities
 
+- [[math-watch]]
+
 teaching activities
 
 - [[number-talks]]
@@ -143,6 +145,7 @@ Boaler, J. (2015). Creating Mathematical Mindsets: The Importance of Flexibility
 [conceptual-approach-to-mathematics]: conceptual-approach-to-mathematics "conceptual-approach-to-mathematics"
 [teaching-mathematics-for-a-growth-mindset]: teaching-mathematics-for-a-growth-mindset "Teaching mathematics for a growth mindset"
 [explicit-teaching]: explicit-teaching "Explicit teaching"
+[math-watch]: math-watch "Math Watch"
 [number-talks]: number-talks "Number talks"
 [reflective-mathematical-homework]: reflective-mathematical-homework "Reflective mathematical homework"
 [python-teaching-mathematics]: python-teaching-mathematics "Python for teaching mathematics"
