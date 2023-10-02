@@ -1,6 +1,6 @@
 # Explicit teaching
 
-See also: [[teaching-mathematics]]
+See also: [[teaching-mathematics]], [[three-acts-of-a-mathematical-story]]
 
 ## Sources
 

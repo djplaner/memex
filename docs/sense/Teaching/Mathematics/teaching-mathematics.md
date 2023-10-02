@@ -9,6 +9,7 @@ Mathematics and mathematics education in broader society.
 ### Why? Society?
 
 - [[qld-girls-still-underrepresented]]
+- [[when-will-i-ever-use-mathematics]]
 
 ### Societal examples of mathematics
 
@@ -78,6 +79,7 @@ Homework
 
 ## Misc resources
 
+- [NTCM Classroom resources](https://www.nctm.org/classroomresources/) - numerous categories of resources
 - [Maths education](http://www.mathseducation.org.au/) - AAMT site - also [Mathematics hub](https://www.mathematicshub.edu.au/)
 - [[python-teaching-mathematics]]
 - [Multiplicty Lab](https://multiplicitylab.northwestern.edu/) - Primary focused - helping provide rich mathematical experience to all students
@@ -89,6 +91,11 @@ Homework
 - [Free Math Puzzles](https://www.nap.edu.au/naplan/whats-in-the-tests)
 - [wootube](https://misterwootube.com/)
 - [vi hart videos](https://vimeo.com/vihart)
+
+Lesson plan ideas/resources
+
+- [List of Three-act maths lesson plans](https://docs.google.com/spreadsheets/u/0/d/1jXSt_CoDzyDFeJimZxnhgwOVsWkTQEsfqouLWNNC6Z4/pub?output=html) and [overview](https://blog.mrmeyer.com/2011/the-three-acts-of-a-mathematical-story/)
+- [Math Arguments](http://matharguments180.blogspot.com/) - blog with posts consisting of wide ranging ideas for discussion in mathematics class
 
 For teachers
 - [first steps in mathematics](https://myresources.education.wa.edu.au/programs/first-steps-mathematics) - teacher resources books: number, measurement, space, chance and data. (WA)
@@ -124,6 +131,7 @@ Boaler, J. (2015). Creating Mathematical Mindsets: The Importance of Flexibility
 [teaching]: ../teaching "Teaching"
 [teacher-preparation]: ../../../seek/teacher-preparation "Teacher preparation"
 [qld-girls-still-underrepresented]: qld-girls-still-underrepresented "Queensland girls still underrepresented in specialist maths despite push to increase participation - ABC News"
+[when-will-i-ever-use-mathematics]: when-will-i-ever-use-mathematics "When will I ever use mathematics"
 [poverty-premium]: poverty-premium "Poverty Premium"
 [mathematical-mindset]: mathematical-mindset "Mathematical Mindset"
 [math-facts]: math-facts "Math Facts"
@@ -134,6 +142,7 @@ Boaler, J. (2015). Creating Mathematical Mindsets: The Importance of Flexibility
 [practice-approach-to-mathematics]: practice-approach-to-mathematics "Practice approach to mathematics"
 [conceptual-approach-to-mathematics]: conceptual-approach-to-mathematics "conceptual-approach-to-mathematics"
 [teaching-mathematics-for-a-growth-mindset]: teaching-mathematics-for-a-growth-mindset "Teaching mathematics for a growth mindset"
+[explicit-teaching]: explicit-teaching "Explicit teaching"
 [number-talks]: number-talks "Number talks"
 [reflective-mathematical-homework]: reflective-mathematical-homework "Reflective mathematical homework"
 [python-teaching-mathematics]: python-teaching-mathematics "Python for teaching mathematics"

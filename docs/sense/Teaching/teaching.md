@@ -20,6 +20,8 @@ Work about how to encourage/support teaching
 
 Belief about how people learn, what is knowledge etc
 
+- [[my-teaching-philosophy]]
+
 ## High level pedagogy (Conceptual)
 
 More concrete instantiation of philosophcial positions into pedagogical approaches
@@ -72,10 +74,12 @@ Details moves through which strategic is effected
 [learning]: ../Learning/learning "Learning"
 [design]: ../Design/design "Design"
 [goodyear-patterns-design-practice]: ../Paper-Summaries/goodyear-patterns-design-practice "Patterns, pattern languages and design practice"
+[my-teaching-philosophy]: my-teaching-philosophy "My Teaching Philosophy"
 [mind-tools]: mind-tools "Mind Tools (and Mindstorms)"
 [ungrading]: ungrading "Ungrading"
 [assessment-of-process]: Assessment/assessment-of-process "Assessment of process"
 [pygmalion-effect]: pygmalion-effect "Pygmalion Effect (aka "Rosenthal effect")"
+[high-impact-teaching-strategies]: high-impact-teaching-strategies "High impact teaching strategies"
 [question-for-retrieval]: question-for-retrieval "Questioning for retrieval"
 [worked-examples]: worked-examples "Worked examples"
 [learning-journal]: learning-journal "Learning Journal"
