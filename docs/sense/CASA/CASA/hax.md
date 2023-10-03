@@ -28,7 +28,7 @@ Wordpress version is a but buggy.
 ## Misc resources 
 
 - [Takehome sheet](https://gist.github.com/btopro/717fe6a29bb8d66cfaa0886c9e8baa72) - one overview of all
-- [HAX instructional ontology](https://app.mural.co/t/haxontologybrainstorming9982/m/haxontologybrainstorming9982/1681756048455/510134d2a848ecdd11975713d888fa363310401e?sender=2799b11f-7cc4-404f-914f-bac4dc987110) - quite detailed some good content - Backward design focused, and others
+- [HAX instructional ontology](https://oer.hax.psu.edu/bto108/sites/haxcellence/ontology) - quite detailed some good content - Backward design focused, and others
 - [Storybook for lrnwebcomponents](https://haxapi.vercel.app/?path=/story/about-getting-started--using-penn-state-cdn)
 - [CodePen for h-a-x the editor?](https://codepen.io/btopro/pen/rNdbRGp)
 - [Codepen for WYSIWYG-hax tag](https://codepen.io/btopro/pen/JZXorX) - apparently runs in an CMS?

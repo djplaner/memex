@@ -41,6 +41,9 @@ Prep
 ## Work 
 
 To do
+- 3012CCJ 
+  - welcome
+    - Tidy up course site template
 - 1002CCJ review for Jaana 
   - Modify CSS style (eventually) to Include
     - Can a single variable change design
@@ -48,9 +51,22 @@ To do
     - Support for colours for different modules
 - 2005CCJ samples
 
-- Applications 
 
 - Migrate to central file store
+  - Refine and share deliverable for rubric checklist 
+  - Online Delivery in CCJ
+  - Math Bridging Course
+  - Pgrad international law
+  - Work through assessment uplift
+    - 1603LHS 
+    - 1710LHS 
+    - 1712LHS
+    - 2505LHS 
+    - 2506LHS
+    - 3203LHS
+    - COM101
+    - COM151
+    - 1252QCA
 
 - Bridging course 
   - Do up course profile draft by Wed pm
