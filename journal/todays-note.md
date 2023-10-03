@@ -29,8 +29,8 @@ Prep
 
 - explicit teaching, explicit instruction and beyond
 - Check out interview questions - practice, refine
-- behaviour management
-- differentation
+- behaviour management (some done)
+- differentation (some done)
 - questioning
 - mathematical misconceptions
 - Curriculum  
@@ -43,8 +43,8 @@ Prep
 To do
 - 1002CCJ review for Jaana 
   - Modify CSS style (eventually) to Include
+    - Can a single variable change design
     - Support for accordions
-    - Use of CSS variables to specify colours
     - Support for colours for different modules
 - 2005CCJ samples
 
