@@ -39,6 +39,7 @@ Misc
 
 - [[class-management]]
 - [[differentiation]]
+- [[behaviour-management]]
 
 ## Pedagogical strategy (Procedural)
 
