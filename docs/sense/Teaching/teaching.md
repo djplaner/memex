@@ -25,6 +25,7 @@ Work about how to encourage/support teaching
 Belief about how people learn, what is knowledge etc
 
 - [[my-teaching-philosophy]]
+- [[fundamental-teaching-challenge]]
 
 ## High level pedagogy (Conceptual)
 
@@ -86,12 +87,14 @@ Details moves through which strategic is effected
 [goodyear-patterns-design-practice]: ../Paper-Summaries/goodyear-patterns-design-practice "Patterns, pattern languages and design practice"
 [queensland-schools]: Digital_Technologies/queensland-schools "Queensland Schools"
 [my-teaching-philosophy]: my-teaching-philosophy "My Teaching Philosophy"
+[fundamental-teaching-challenge]: fundamental-teaching-challenge "The fundamental challenge to teaching"
 [mind-tools]: mind-tools "Mind Tools (and Mindstorms)"
 [ungrading]: ungrading "Ungrading"
 [assessment-of-process]: Assessment/assessment-of-process "Assessment of process"
 [pygmalion-effect]: pygmalion-effect "Pygmalion Effect (aka "Rosenthal effect")"
 [class-management]: class-management "Class Management"
 [differentiation]: differentiation "Differentiation"
+[behaviour-management]: behaviour-management "Behaviour management"
 [high-impact-teaching-strategies]: high-impact-teaching-strategies "High impact teaching strategies"
 [question-for-retrieval]: question-for-retrieval "Questioning for retrieval"
 [worked-examples]: worked-examples "Worked examples"
