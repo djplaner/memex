@@ -2,9 +2,26 @@
 
 See also: [[teaching]], [[teaching-mathematics]]
 
-> Productive failure is an instructional approach that requires learners to struggle as they attempt to generate solutions to problems before, rather than after, receiving direct instruction on a targeted concept. Studies demonstrate that productive failure prepares students for later learning of new, related knowledge (Steenhof et al, 2019, p. 739)
+The [ETH web page on _productive failure_](https://lse.ethz.ch/research/productive-failure.html) offers this definition
 
-- struggling with something first, prepares learners to better understand the significance of an expert solution (Bransford & Schwartz cite in Steenhof et al, 2019)
+> Productive Failure (PF) is a learning design that entails the design of conditions for learners to persist in generating and exploring representations and solution methods (RSMs) for solving complex, novel problems. Though such a process may initially lead to failure to generate canonical RSMs, it has a hidden efficacy that is germane for learning provided an appropriate form of instructional intervention follows that can consolidate and assemble student-​generated RSMs into canonical RSMs.
+
+And subsequently identifies two problems with direct instructions
+
+1. Students don't have the necessary prior knowledge to understand how/why the new RSMs are useful/apply
+2. Presenting RSMs as neat abstractions during DI, students may not understand why they are assembled this way
+
+Hence _productive failure_ has two phases:
+
+1. Generate and explore multiple RSMs.
+2. Consolidation and knowledge assembly.
+
+## Design Principles
+
+| Design Phases | Task | Participation structures | Social surround |
+| --- | --- | --- | --- |
+| 1. Generate and explore multiple representations and solutions methods (RSMs) | Design tasks that are adequately complex, engaging, and draw on students' mathematical resources | Enable collaboration to allow students to elaborate, critique, explain, and evaluate shared work, thereby enriching the shared representation and solution spaces. | Create a safe space for students to explore and generate setting appropriate socio-mathematical norms, and providing affective support for persistence |
+| 2. Organisation and knowledge assembly | Compare and constrast student-generated and canonical ideas | Enable student engagement through group presentations and students' participation; teachers act as facilitators paraphrasing student explanations, and drawing attention to critical features | Create a safe space to explore the affordances and constrains of student-generated RSMs with a view of improving upon them, and not assessing them as correct or incorrect |
 
 ## Mathematics
 
