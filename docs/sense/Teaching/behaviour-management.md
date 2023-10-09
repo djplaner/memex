@@ -17,4 +17,4 @@
 
 # Behaviour management
 
-- [Resilience](https://schools.au.reachout.com/resilience) - from [ReachOut](https://schools.au.reachout.com/)
+- [Resilience](https://schools.au.reachout.com/resilience) - from [ReachOut](https://schools.au.reachout.com/) which includes coverage on numerous other topics
