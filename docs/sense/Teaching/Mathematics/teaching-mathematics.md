@@ -15,7 +15,7 @@ Mathematics and mathematics education in broader society.
 
 - [[poverty-premium]]
 
-## Philosoph
+## Philosophy
 
 - [[real-work-versus-real-world]]
 
@@ -50,6 +50,7 @@ And other examples
 
 Notes related to mathematics specific pedagogy
 
+- [[checks-for-pedagogy]] 
 - [[practice-approach-to-mathematics]]
 - [[conceptual-approach-to-mathematics]]
 - [[teaching-mathematics-for-a-growth-mindset]]
@@ -147,6 +148,7 @@ Boaler, J. (2015). Creating Mathematical Mindsets: The Importance of Flexibility
 [what-do-mathematicians-do]: what-do-mathematicians-do "What do mathematicians do?"
 [normal-distribution]: probability/normal-distribution "Normal (Gaussian) distribution"
 [v9-oz-mathematics-learning-area]: ../Curriculum/v9-oz-mathematics-learning-area "Mathematics learning area - Australian Curriculum v9"
+[checks-for-pedagogy]: checks-for-pedagogy "Checks for pedagogy"
 [practice-approach-to-mathematics]: practice-approach-to-mathematics "Practice approach to mathematics"
 [conceptual-approach-to-mathematics]: conceptual-approach-to-mathematics "conceptual-approach-to-mathematics"
 [teaching-mathematics-for-a-growth-mindset]: teaching-mathematics-for-a-growth-mindset "Teaching mathematics for a growth mindset"
