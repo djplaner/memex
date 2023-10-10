@@ -21,6 +21,19 @@
 
 See also: [[effective-learning-strategies]]
 
+Initially identified as a side effect of testing. Engaging in more retrieval improves the minds _retrieval strength_.
+
+With more complex knowledge retrieval practice benefits may be limited by other complicating factors. e.g. encoding factors and perhaps the likelihood of retrieval success (and knowing when it is done successfully)
+
+Two types of retrieval:
+
+1. covert - info brought to mind without actually producing.
+2. overt - info brought to mind and artefact produced with it.
+
+Retrival from short-term memory is not effective.
+
+## Suggested student activities
+
 - put away class materials and write/sketch everything you know and then check
 - take as many practice tests as you can, try making your own and swapping with friends
 - make flash cards, especially moving beyond just definitions and thinking of links between ideas
