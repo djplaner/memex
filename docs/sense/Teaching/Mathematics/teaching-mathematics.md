@@ -106,6 +106,7 @@ Lesson plan ideas/resources
 - [Math Arguments](http://matharguments180.blogspot.com/) - blog with posts consisting of wide ranging ideas for discussion in mathematics class
 
 For teachers
+
 - [first steps in mathematics](https://myresources.education.wa.edu.au/programs/first-steps-mathematics) - teacher resources books: number, measurement, space, chance and data. (WA)
 - [Wootube^2](https://www.youtube.com/misterwootube2) - Eddie Woo's YouTube channel for mathematics teachers
 - A list of [Mathematicians project](https://arbitrarilyclose.com/mathematician-project/)
