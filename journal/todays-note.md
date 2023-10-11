@@ -35,6 +35,9 @@ Prep
 
 ## Work 
 
+- Group learning journal
+
+
 To do
 - 1002CCJ review for Jaana 
   - Modify CSS style (eventually) to Include
@@ -42,6 +45,7 @@ To do
     - Support for accordions
     - Support for colours for different modules
 - 2005CCJ samples
+
 
 - Learning journal - see [[performance-assessment]]
 
