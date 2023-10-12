@@ -41,6 +41,7 @@ Misc
 - [[class-management]]
 - [[differentiation]]
 - [[behaviour-management]]
+- [[curriculum-ergonomics]]
 
 ## Pedagogical strategy (Procedural)
 
@@ -95,6 +96,7 @@ Details moves through which strategic is effected
 [class-management]: class-management "Class Management"
 [differentiation]: differentiation "Differentiation"
 [behaviour-management]: behaviour-management "Behaviour management"
+[curriculum-ergonomics]: curriculum-ergonomics "Curriculum Ergonomics"
 [high-impact-teaching-strategies]: high-impact-teaching-strategies "High impact teaching strategies"
 [question-for-retrieval]: question-for-retrieval "Questioning for retrieval"
 [worked-examples]: worked-examples "Worked examples"

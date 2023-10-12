@@ -8,7 +8,7 @@ Checklist for pedagogy in mathematics teaching offered by Grant Sanderson in a t
 - Are new abstractions preceded with concrete examples?
 - Does the lesson start with a motivating question?
 
-Mentions ideas related to [[low-floor-high-ceiling-wide-walls]]
+Mentions ideas related to [[low-floor-high-ceiling-wide-walls]], particularly Boaler's description of 'low-threshold, high-ceiling tasks'
 
 ## Levels of abstraction
 

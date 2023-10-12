@@ -121,6 +121,10 @@ Register Zenodo e.g. https://zenodo.org/record/165478 or this https://zenodo.org
 
 ## Mathematics
 
+Maasz, J., & O'Donoghue, J. (Eds.). (2011). *Real-World Problems for Secondary School Mathematics Students: Case Studies*. SensePublishers. <https://doi.org/10.1007/978-94-6091-543-7>
+
+Lee, C., & Ward-Penny, R. (2019). *A Practical Guide to Teaching Mathematics in the Secondary School*. Taylor & Francis Group. <http://ebookcentral.proquest.com/lib/griffith/detail.action?docID=5760853> (only while at Griffith)
+
 Cathy Humphreys and Ruth Parker (Humphreys & Parker, 2015) and another by Sherry Parrish (Parrish, 2014), illustrate many different number talks to work on with secondary and elementary students, respectively
 
 See also - [number talks](https://www.youcubed.org/category/teaching-ideas/number-sense)

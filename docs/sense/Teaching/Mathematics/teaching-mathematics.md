@@ -52,6 +52,7 @@ Notes related to mathematics specific pedagogy
 
 - [[checks-for-pedagogy]] 
 - [[practice-approach-to-mathematics]]
+- [[mathematical-resilience-classroom-environment]]
 - [[conceptual-approach-to-mathematics]]
 - [[teaching-mathematics-for-a-growth-mindset]]
 - [The Science of Math](https://www.thescienceofmath.com/) - the explicit instruction folk :) 
@@ -59,6 +60,9 @@ Notes related to mathematics specific pedagogy
 
 - [[explicit-teaching]] - as described by the [Mathematics hub](https://www.mathematicshub.edu.au/) produced by the AAMT
 - [[differentiation-mathematics]]
+- [[resolve-mathematics-by-inquiry]]
+- [[TIRED]] - disengaged students perceptions of mathematics classrooms
+- [[ALIVE]] - a way of teaching that helps create a [[mathematical-resilience-classroom-environment]]
 
 ### Activities
 
@@ -110,6 +114,8 @@ For teachers
 - [first steps in mathematics](https://myresources.education.wa.edu.au/programs/first-steps-mathematics) - teacher resources books: number, measurement, space, chance and data. (WA)
 - [Wootube^2](https://www.youtube.com/misterwootube2) - Eddie Woo's YouTube channel for mathematics teachers
 - A list of [Mathematicians project](https://arbitrarilyclose.com/mathematician-project/)
+- [re(Solve) - Maths by Inquiry](https://www.resolve.edu.au/) - Oz Government funded project including numerous teaching resources including alignment with Oz Curriculum
+
 
 ### Learner generated examples
 
@@ -151,10 +157,13 @@ Boaler, J. (2015). Creating Mathematical Mindsets: The Importance of Flexibility
 [v9-oz-mathematics-learning-area]: ../Curriculum/v9-oz-mathematics-learning-area "Mathematics learning area - Australian Curriculum v9"
 [checks-for-pedagogy]: checks-for-pedagogy "Checks for pedagogy"
 [practice-approach-to-mathematics]: practice-approach-to-mathematics "Practice approach to mathematics"
+[mathematical-resilience-classroom-environment]: mathematical-resilience-classroom-environment "mathematical-resilience-classroom-environment"
 [conceptual-approach-to-mathematics]: conceptual-approach-to-mathematics "conceptual-approach-to-mathematics"
 [teaching-mathematics-for-a-growth-mindset]: teaching-mathematics-for-a-growth-mindset "Teaching mathematics for a growth mindset"
 [explicit-teaching]: explicit-teaching "Explicit teaching"
 [differentiation-mathematics]: differentiation-mathematics "Differentiation - Mathematics"
+[resolve-mathematics-by-inquiry]: resolve-mathematics-by-inquiry "reSolve - Mathematics by inquiry"
+[TIRED]: tired "TIRED"
 [math-watch]: math-watch "Math Watch"
 [number-talks]: number-talks "Number talks"
 [reflective-mathematical-homework]: reflective-mathematical-homework "Reflective mathematical homework"
