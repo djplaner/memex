@@ -12,6 +12,8 @@ De Geest & Lee (2019) define ALIVE teaching as
 
 Perhaps to avoid the perception that classroom activities are [[TIRED]]
 
+Nardi & Steward (2003) report students wanting relevance, excitement, variety, and challenge in mathematical activities.
+
 ## Methods to bring a classroom ALIVE
 
 - Be less helpful
