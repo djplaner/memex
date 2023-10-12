@@ -22,16 +22,6 @@ Four themes from cognitive ergonomics are identified
 | Environments that involve both human and machine interactions | When people operate in complex and dynamic environments in which they simultaneously interact with computer based information systems and other people, the cognitive load can lead to people diverging from goals or misperceiving ongoing phenomena | Trading in financial instruments, which requires virtual and real interactions while taking in multiple streams of data and following complex procedures to make decisions | Acting productively on information in realtime assessment displays while engaging in ongoing face-to-face interactions with students |
 | Creativity support tools or environments | Creativity support tools extend people’s capabilities in the creation of artifacts, while creativity support environments provide accessible information and scaffolds | Using Adobe Illustrator to create Artwork or Adobe Photoshop to edit, compose, and layer a photograph with other graphical imagery | Using lesson planning templates or using new digital resources such as links to external resources, including multimedia, interactive content demonstrations, and other materials |
 
-## Proposed contributions
-
-Choppin et al (2018) suggest three contributions
-
-1. Allowing a focus on the fit between the intentions of curriculum designers and teachers and how that influences the adoption and adaptation of curriculum resources.
-2. How curriculum materials impact the cognitive load of teacher's work and how to improve that.
-3. How the design of digital resources affords/constraints teachers' work in terms of: selecting and designing tasks; sequencing tasks; enacting tasks to meeting planned intentions
-
-> Thus, an important potential outcome of studying the ergonomics of curriculum use is the development of empiricallydeveloped principles for supporting teachers’ capacity to understand and utilize curriculum resources to design and enact productive lessons. (p. 76)
-
 
 ## 5 themes
 
@@ -75,6 +65,16 @@ The fit with teachers purposes/context/practices can exert pressure on adoption 
 
 Emergence of digital curriculum resources have enabled teachers to engage in design work. Creation (collective development) and transformation.
 
+
+## Proposed contributions
+
+Choppin et al (2018) suggest three contributions
+
+1. Allowing a focus on the fit between the intentions of curriculum designers and teachers and how that influences the adoption and adaptation of curriculum resources.
+2. How curriculum materials impact the cognitive load of teacher's work and how to improve that.
+3. How the design of digital resources affords/constraints teachers' work in terms of: selecting and designing tasks; sequencing tasks; enacting tasks to meeting planned intentions
+
+> Thus, an important potential outcome of studying the ergonomics of curriculum use is the development of empirically developed principles for supporting teachers’ capacity to understand and utilize curriculum resources to design and enact productive lessons. (p. 76)
 
 
 
