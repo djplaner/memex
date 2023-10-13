@@ -23,6 +23,8 @@ Mathematics and mathematics education in broader society.
 
 Notes related to the discipline of mathematics.
 
+- [[mathematical-topics]]
+
 ### Conceptions of mathematics
 
 - [Two types of mathematics teaching - instrumental and relational](instrumental-relational-mathematics.md) 
@@ -149,6 +151,7 @@ Boaler, J. (2015). Creating Mathematical Mindsets: The Importance of Flexibility
 [when-will-i-ever-use-mathematics]: when-will-i-ever-use-mathematics "When will I ever use mathematics"
 [poverty-premium]: poverty-premium "Poverty Premium"
 [real-work-versus-real-world]: real-work-versus-real-world "Real work versus Real world"
+[mathematical-topics]: mathematical-topics "Mathematical Topics"
 [mathematical-mindset]: mathematical-mindset "Mathematical Mindset"
 [math-facts]: math-facts "Math Facts"
 [mathematical-misconceptions]: math-misconceptions/mathematical-misconceptions "Mathematical misconceptions and difficulties"

@@ -19,11 +19,26 @@
 
 See also: [[casa]], [[learning-journal]]
 
+Document exploration and design of a learning journal CASA for Canvas.
+
 ## Spark
 
 Increasing need to support a more "learning process" focus in assessment leading to need for a learning journal type tool.  Issues with the _Response Tool_ and absence of similar functionality unsuitable. PebblePad too heavyweight an option for a light tough learning journal.
 
-## Canvas Community
+## Design
+
+- [[log-1-canvas-learning-journal]]
+
+## Exloration of Canvas community practices
+
+In summary,
+
+- Canvas doesn't provide a learning journal tool.
+- Various external vendors provide options.
+- Common "kludge" used by Canvas users is to use a (single student) group discussion topic, one for each student.
+- Implementation is not entirely straight forward.
+- In Canvas, each group gets their own "mini-Canvas" site, including discussion topics and much more. 
+- May be some value in designing a CASA to create and manage a single student group based learning journal
 
 ### Vendors
 
@@ -37,15 +52,13 @@ Increasing need to support a more "learning process" focus in assessment leading
 - [LTI solution - The Learning Journal](https://community.canvaslms.com/t5/Idea-Conversations/Implementing-private-journals-into-Canvas/idc-p/465326/highlight/true#M51367) includes student reflections going beyond the course
     - [The Learning Journal](https://thelearningjournal.co/)
 
-### Community
-
-#### Is there a journal?
+### Is there a journal?
 
 - [2018 request](https://community.canvaslms.com/t5/Canvas-Question-Forum/Is-there-a-journal/m-p/124779)
 
 > I need to create a way for students to collect a number of bi-weekly writing assignments in a private journal, or logbook, or portfolio.The complete collection of assignments will eventually be graded, but they will not necessarily be read or marked as soon as they are written.Students should also be able to go back and add to, or change their posts, or at least comment on them, and I need to do that too. I used to use the journal function in Blackboard for this, but can't find an equivalent in Canvas. In a response to another question I saw the suggestion to create individual discussions for each student, and that might work, although it will not be possible to set this up until the students have been added to the course because until then I cannot be sure how many they are. I would like to be able to do most of the setting up before term starts. :slightly_smiling_face: The e-portfolio looked promising, but that is not something I can assign and grade in a course, is it? An open assignment would work, I suppose, but that would mean opening six or seven different submissions per student, instead of just scrolling down, wouldn't it? And students would not be able to go back and change anything, would they? Perhaps discussions is the best option? Grateful for any suggestions .
 
-#### Implementing private journals in Canvas
+### Implementing private journals in Canvas
 
 [2021 idea conversation](https://community.canvaslms.com/t5/Idea-Conversations/Implementing-private-journals-into-Canvas/idi-p/444842)
 
@@ -54,12 +67,12 @@ Increasing need to support a more "learning process" focus in assessment leading
 - [support for the request](https://community.canvaslms.com/t5/Idea-Conversations/Implementing-private-journals-into-Canvas/idc-p/463663/highlight/true#M50979)
 - [more support](https://community.canvaslms.com/t5/Idea-Conversations/Implementing-private-journals-into-Canvas/idc-p/483072/highlight/true#M54869) ...and many others
 
-#### Amazement
+### Amazement
 
 - [find it amazing there still isn't one](https://community.canvaslms.com/t5/Canvas-Question-Forum/Journalling-in-Canvas/m-p/471790/highlight/true#M158063) and more just after it
     - [Instead of having faculty spending so much precious time creating the pseudo-journal alternatives?](https://community.canvaslms.com/t5/Canvas-Question-Forum/Journalling-in-Canvas/m-p/463665/highlight/true#M156299)
 
-### solutions
+## solutions
 
 - [One student groups and discussion](https://community.canvaslms.com/t5/Canvas-Question-Forum/Is-there-a-journal/m-p/124780/highlight/true#M44716)
   - [Bit more detail on process](https://community.canvaslms.com/t5/Idea-Conversations/Student-Journal-or-Blog-Feature/idc-p/320217/highlight/true#M6251) 
@@ -81,25 +94,11 @@ Or perhaps by using multiple marked discussions for different tasks.
 - [ ] Learn more about how groups work.
   - [better group navigation](https://community.canvaslms.com/t5/Higher-Ed-Canvas-Users/Better-Group-Discussion-Navigation/ba-p/263064)
 
-## Designing a Learning Journal CASA for Canvas
-
-Automate the process of setting up a learning journal that
-
-1. Creates a group set for the journal.
-2. Creates a group for each student in the Courses.
-
-  - e.g. [done with CSV import](https://community.canvaslms.com/t5/Instructor-Guide/How-do-I-import-groups-in-a-group-set/ta-p/417799)
-3. Sets up a graded discussion topic for the group discussion.
-4. Populates the discussion topic with a series of questions/tasks for each student.
-
-Questions
-
-- Does it need to handle students being added to/removed from the course.
-- How do the discussion topic handle threads? Possible? Can each student's topic have different?
 
 
 
 [//begin]: # "Autogenerated link references for markdown compatibility"
 [casa]: ../casa "Contextually Appropriate Scaffolding Assemblages (CASA)"
 [learning-journal]: ../../Teaching/learning-journal "Learning Journal"
+[log-1-canvas-learning-journal]: log-1-canvas-learning-journal "log-1-canvas-learning-journal"
 [//end]: # "Autogenerated link references"

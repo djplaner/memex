@@ -1,6 +1,7 @@
 ## Canvas LMS API
 
 See also [[canvas-development]], [[canvas-api-dev]]
+
 ### Canvas API wrappers
 
 #### Python
