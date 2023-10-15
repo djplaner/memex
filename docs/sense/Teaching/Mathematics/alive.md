@@ -59,6 +59,27 @@ Students see the point and value the mathematics they are doing/learning. Picks 
 
 Suggest "value" for pupils comes through "links to ideas that are interesting to hem, that cause them enjoyment and that they consider to be worth heir attention"
 
+Activity
+
+- Choose an event that the students may find interesting that may involve real mathematics (from teacher or students)
+- Encourage students to develop questions about the event (pairs)
+
+    - Remind them that mathematics not only deals with numbers and variables, but also with trends, patterns and relationships between things
+    - have them categorise three levels of questions: comfortable answering, take some work/struggle to answer, probably not able to answer.
+    - Share the questions
+    - Students choose and work on their problem.
+
+### Engaging
+
+Engaged students learn efficiently and experience enjoyment. Quote Polya
+
+> For efficient learning, the learner should be interested in the material to be learned and find pleasure in the activity of learning (1962, p. 608)
+
+- reverse what they do
+
+    Rather than answer questions, come up with questions. Instead of giving them instructions, ask them to write the instructions.
+
+- collaborative learning
 
 ## References
 

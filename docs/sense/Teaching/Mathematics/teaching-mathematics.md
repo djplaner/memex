@@ -24,6 +24,7 @@ Mathematics and mathematics education in broader society.
 Notes related to the discipline of mathematics.
 
 - [[mathematical-topics]]
+- [[mathematical-structure]]
 
 ### Conceptions of mathematics
 
@@ -53,6 +54,7 @@ And other examples
 Notes related to mathematics specific pedagogy
 
 - [[checks-for-pedagogy]] 
+- [[across-the-grain]]
 - [[practice-approach-to-mathematics]]
 - [[mathematical-resilience-classroom-environment]]
 - [[conceptual-approach-to-mathematics]]
@@ -60,9 +62,18 @@ Notes related to mathematics specific pedagogy
 - [The Science of Math](https://www.thescienceofmath.com/) - the explicit instruction folk :) 
     - [What is explicit instruction?](https://www.thescienceofmath.com/what-is-explicit-instruction)
 
+More specific approaches
+
 - [[explicit-teaching]] - as described by the [Mathematics hub](https://www.mathematicshub.edu.au/) produced by the AAMT
 - [[differentiation-mathematics]]
 - [[resolve-mathematics-by-inquiry]]
+- [[productive-failure]]
+- [[contemplate-then-calculate]]
+- [[mathematical-discussion-communication]]
+- [[learner-generated-examples]]
+
+Characteristics of mathematical L&T activities
+
 - [[TIRED]] - disengaged students perceptions of mathematics classrooms
 - [[ALIVE]] - a way of teaching that helps create a [[mathematical-resilience-classroom-environment]]
 
@@ -152,6 +163,7 @@ Boaler, J. (2015). Creating Mathematical Mindsets: The Importance of Flexibility
 [poverty-premium]: poverty-premium "Poverty Premium"
 [real-work-versus-real-world]: real-work-versus-real-world "Real work versus Real world"
 [mathematical-topics]: mathematical-topics "Mathematical Topics"
+[mathematical-structure]: mathematical-structure "Mathematical structure"
 [mathematical-mindset]: mathematical-mindset "Mathematical Mindset"
 [math-facts]: math-facts "Math Facts"
 [mathematical-misconceptions]: math-misconceptions/mathematical-misconceptions "Mathematical misconceptions and difficulties"
@@ -159,6 +171,7 @@ Boaler, J. (2015). Creating Mathematical Mindsets: The Importance of Flexibility
 [normal-distribution]: probability/normal-distribution "Normal (Gaussian) distribution"
 [v9-oz-mathematics-learning-area]: ../Curriculum/v9-oz-mathematics-learning-area "Mathematics learning area - Australian Curriculum v9"
 [checks-for-pedagogy]: checks-for-pedagogy "Checks for pedagogy"
+[across-the-grain]: across-the-grain "Across the grain"
 [practice-approach-to-mathematics]: practice-approach-to-mathematics "Practice approach to mathematics"
 [mathematical-resilience-classroom-environment]: mathematical-resilience-classroom-environment "mathematical-resilience-classroom-environment"
 [conceptual-approach-to-mathematics]: conceptual-approach-to-mathematics "conceptual-approach-to-mathematics"
@@ -166,6 +179,10 @@ Boaler, J. (2015). Creating Mathematical Mindsets: The Importance of Flexibility
 [explicit-teaching]: explicit-teaching "Explicit teaching"
 [differentiation-mathematics]: differentiation-mathematics "Differentiation - Mathematics"
 [resolve-mathematics-by-inquiry]: resolve-mathematics-by-inquiry "reSolve - Mathematics by inquiry"
+[productive-failure]: productive-failure "Productive Failure"
+[contemplate-then-calculate]: contemplate-then-calculate "Contemplate then calculate"
+[mathematical-discussion-communication]: mathematical-discussion-communication "Mathematical discussion and communication (in the classroom)"
+[learner-generated-examples]: learner-generated-examples "Learner Generated Examples"
 [TIRED]: tired "TIRED"
 [ALIVE]: alive "ALIVE"
 [math-watch]: math-watch "Math Watch"

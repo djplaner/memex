@@ -58,6 +58,7 @@ Details moves through which strategic is effected
 - [[learning-journal]]
 - [[cognitive-strategies]]
 - [[homework]]
+- [[class-observations]]
 
 ### Digital learning tools
 

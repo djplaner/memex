@@ -2,6 +2,10 @@
 
 Nascent attempt to articulate my teaching philosophy. Initially focused on listing ideas that resonate.
 
+## Misc aphorisms
+
+- No such thing as best practice
+
 ## Internship philosophy
 
 Following was written as part of a report on my internship whilst studying by Grad Dip.
