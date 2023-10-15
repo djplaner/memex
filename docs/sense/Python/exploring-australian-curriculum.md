@@ -91,6 +91,8 @@ Question being how to enable ad hoc connection maps between the different compon
 
 Perhaps the very essence of gather/weave.
 
+Li et al (2019) identify three types of knowledge components that make up mathematics conceptual knowledge for teaching.  The second - being able to connect and justify the main points of a content topic, and to place it in wider contexts - is directly challenged by requiring conceptual knowledge that across different connected topics. - even suggesting it is the one with which students have the least familiarity.
+
 ### Clever approaches to curriculum visualisation?
 
 [Michaela Epstien](https://www.michaelaepstein.com.au/about) asks about ["other clever approaches to curriculum visualisation"](https://www.michaelaepstein.com.au/post/why-curriculum-visualisation-matters). Sparked by hearing designers talk about the impact of even the smallest combinations of words and images on meaning she asks what curriculum design tells us.  Her response? 
@@ -123,6 +125,8 @@ Dobrescu, L., Holden, R., Motta, A., Piccoli, A., Roberts, P., & Walker, S. (202
 Eriksson, H. (2015). *Digitizing Curricula: An Approach for Digital Usability*. eChallenges e-2015 Conference, Vilnius, Lithuania. <https://doi.org/10.1109/eCHALLENGES.2015.7441086>
 
 Golder, D., Kneebone, L., Phipps, J., Sunter, S., & Sutton, S. A. (2010). A configurable RDF editor for Australian curriculum. *Proceedings of the Role of Digital Libraries in a Time of Global Change, and 12th International Conference on Asia-Pacific Digital Libraries*, 189--197.
+
+Li, Y., Pang, J., Zhang, H., & Song, N. (2019). Mathematics Conceptual Knowledge for Teaching: Helping Prospective Teachers Know Mathematics Well Enough for Teaching. In *International Handbook of Mathematics Teacher Education: Volume 1* (pp. 77--104). Brill. [https://doi.org/10.1163/9789004418875\_004](https://doi.org/10.1163/9789004418875_004)
 
 On closing the divide between city and country students in Australia, we keep repeating past mistakes. (2023, September 10). *The Guardian*. <https://www.theguardian.com/australia-news/2023/sep/11/on-closing-the-divide-between-city-and-country-students-in-australia-we-keep-repeating-past-mistakes>
 
