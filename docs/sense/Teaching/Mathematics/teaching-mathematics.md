@@ -25,6 +25,7 @@ Notes related to the discipline of mathematics.
 
 - [[mathematical-topics]]
 - [[mathematical-structure]]
+- [[mathematics-conceptual-knowledge-for-teaching]]
 
 ### Conceptions of mathematics
 
@@ -106,10 +107,16 @@ Homework
 
 - [NTCM Classroom resources](https://www.nctm.org/classroomresources/) - numerous categories of resources
 - [Maths education](http://www.mathseducation.org.au/) - AAMT site - also [Mathematics hub](https://www.mathematicshub.edu.au/)
-- [[python-teaching-mathematics]]
 - [Multiplicty Lab](https://multiplicitylab.northwestern.edu/) - Primary focused - helping provide rich mathematical experience to all students
+- [NRich](https://nrich.maths.org/) - collection of resources from Cambridge University, students, teachers and organised by topic
+- [+Plus - bringing maths to life](https://plus.maths.org/content/) - website popularising maths, more popular science magazine type of thing, articles, podcasts, puzzles
+- [Fostering Math practices](https://www.fosteringmathpractices.com/) - two US-based teacher educators. Source of [[contemplate-then-calculate]]
+
+
 - [The Institute for Figuring](https://www.theiff.org/) - dedicated to the poetic and aesthetic dimensions of science, mathematics and engineering
 - [Resources for teaching graph making and analysis skills](https://blog.tcea.org/graph-making-analysis-skills/)
+
+- [[python-teaching-mathematics]]
 - [m1Maths.com](https://m1maths.com/) - "online textbook" for Oz maths organised by knowledge strands and using a common structure: summary, learn, solve, revise, answers - licensed using CC BY-NC 4.0
 
     Could be useful (as an example of reference content) for exploring OZ curriculum and beyond. But written as Word docs without styles, using images suggesting difficult to convert
@@ -164,6 +171,7 @@ Boaler, J. (2015). Creating Mathematical Mindsets: The Importance of Flexibility
 [real-work-versus-real-world]: real-work-versus-real-world "Real work versus Real world"
 [mathematical-topics]: mathematical-topics "Mathematical Topics"
 [mathematical-structure]: mathematical-structure "Mathematical structure"
+[mathematics-conceptual-knowledge-for-teaching]: mathematics-conceptual-knowledge-for-teaching "Mathematics Conceptual Knowledge for Teaching (MCKT)"
 [mathematical-mindset]: mathematical-mindset "Mathematical Mindset"
 [math-facts]: math-facts "Math Facts"
 [mathematical-misconceptions]: math-misconceptions/mathematical-misconceptions "Mathematical misconceptions and difficulties"

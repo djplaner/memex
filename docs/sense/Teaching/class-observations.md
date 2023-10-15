@@ -14,6 +14,12 @@ Ingram (2019)
 - Who is doing the explaining?
 - Who is doing the defining?
 
+In group discussions
+
+- one student dominating
+- collaboratively or competitively
+- working on the problem
+
 
 ## References
 

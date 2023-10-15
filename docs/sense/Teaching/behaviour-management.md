@@ -40,6 +40,20 @@ After instruction
 5. Continue data collection and providing behavior specific praise to increase rates of target behaviors 
 6. When data show increase in target behavior, return to Step 1 and repeat process with new target behavior
 
+### The 10 Essential Skills for Classroom Management (ECSM)
+
+[Source](https://classroomprofiling.com/essential-skills/)
+
+1. Establishing expectations - making rules.
+2. Giving instructions - telling students what to do.
+3. Waiting and scanning - Stopping to assess what is happening.
+4. Cueing with parallel acknowledgement - Praising a particular student to prompt others.
+5. Body language encouraging - Smiling, nodding, gesturing and moving near.
+6. Descriptive encouraging - Praise describing behaviour.
+7. Selective attending - Not obviously reacting to certain behaviours.
+8. Redirecting to learning - Prompting on-task behaviour.
+9. Giving a choice - Describing the student's options and likely consequences of their behaviour.
+10. Following through - Doing what you said you would.
 
 ### Good Behaviour Game (Simpson et al, 2020)
 

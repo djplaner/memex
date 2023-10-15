@@ -43,7 +43,7 @@ Similarly work around _teachers' knowledge constructs_ in large scale assessment
 - mathematics pedagogical content knowledge
 - general pedagogical knowledge
 
-Knowledge quartet  (Rowland et al, 2019)
+Knowledge quartet  (Rowland et al, 2019) developed for observation and assessment. MCKT is intended to knowledge are needed when teaching specific content topics.
 
 | Dimension |  Description |
 | --- | --- |

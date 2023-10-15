@@ -11,6 +11,17 @@ Watson & Shipman (2008) cite Davis and Hersh (1980) arguing that _mathematical s
 - express and manipulate relationships
 - etc
 
+## In teaching/learning
+
+US-based common core standards identified _avenues for mathematical thinking_ ([see this](https://www.fosteringmathpractices.com/avenues-of-thinking/))
+
+- Make sense of problems and persevere in solving them
+
+    The core of the mathematical practice, engagement in which can include...
+- Reason abstractly and quantitatively - quantities and relationships
+- Look for and make use of structure - organisation or behaviour of number and space
+- Look for and express regularity and repeated reasoning - repetition in processes or calculations
+
 ## References
 
 Watson, A., & Shipman, S. (2008). Using learner generated examples to introduce new concepts. *Educational Studies in Mathematics*, *69*(2), 97--109. <https://doi.org/10.1007/s10649-008-9142-4>
