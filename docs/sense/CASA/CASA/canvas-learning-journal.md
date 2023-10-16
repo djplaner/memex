@@ -29,7 +29,7 @@ Increasing need to support a more "learning process" focus in assessment leading
 
 - [[log-1-canvas-learning-journal]]
 
-## Exloration of Canvas community practices
+## Exploration of Canvas community practices
 
 In summary,
 
