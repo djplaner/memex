@@ -18,6 +18,11 @@ Mathematics and mathematics education in broader society.
 ## Philosophy
 
 - [[real-work-versus-real-world]]
+- Theory of Didactical Situations - Brousseau, B.: Theory of Didactical Situations in Mathematics. Kluwer A. P., Dordrecht (2002)
+- Realistic Mathematical Education  
+
+  Freudenthal, H.: Mathematics as an Educational Task. Reidel, Dordrecht (1973) 19. 
+  Freudenthal, H.: Revisiting Mathematics Education: China Lectures. Kluwer, Dordrecht (1991)
 
 ## Discipline
 
@@ -113,6 +118,7 @@ Homework
 - [Fostering Math practices](https://www.fosteringmathpractices.com/) - two US-based teacher educators. Source of [[contemplate-then-calculate]]
 
 
+- [International mathematical modeling challenge](https://www.immchallenge.org.au/) - includes [supporting resources](https://www.immchallenge.org.au/supporting-resources)
 - [The Institute for Figuring](https://www.theiff.org/) - dedicated to the poetic and aesthetic dimensions of science, mathematics and engineering
 - [Resources for teaching graph making and analysis skills](https://blog.tcea.org/graph-making-analysis-skills/)
 
@@ -121,15 +127,23 @@ Homework
 
     Could be useful (as an example of reference content) for exploring OZ curriculum and beyond. But written as Word docs without styles, using images suggesting difficult to convert
 - [Free Math Puzzles](https://www.nap.edu.au/naplan/whats-in-the-tests)
+- [IXL Maths](https://au.ixl.com/maths)
+- [MoneySmart](https://moneysmart.gov.au/teaching/lesson-plans)
+- [TopMarks](https://www.topmarks.co.uk/maths-games/5-7-years/counting)
+
+### Video
+
 - [wootube](https://misterwootube.com/)
 - [vi hart videos](https://vimeo.com/vihart)
+- [Numberphile](https://www.numberphile.com/)
 
-Lesson plan ideas/resources
+
+### Lesson plan ideas/resources
 
 - [List of Three-act maths lesson plans](https://docs.google.com/spreadsheets/u/0/d/1jXSt_CoDzyDFeJimZxnhgwOVsWkTQEsfqouLWNNC6Z4/pub?output=html) and [overview](https://blog.mrmeyer.com/2011/the-three-acts-of-a-mathematical-story/)
 - [Math Arguments](http://matharguments180.blogspot.com/) - blog with posts consisting of wide ranging ideas for discussion in mathematics class
 
-For teachers
+### For teachers
 
 - [first steps in mathematics](https://myresources.education.wa.edu.au/programs/first-steps-mathematics) - teacher resources books: number, measurement, space, chance and data. (WA)
 - [Wootube^2](https://www.youtube.com/misterwootube2) - Eddie Woo's YouTube channel for mathematics teachers

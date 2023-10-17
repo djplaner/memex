@@ -35,6 +35,7 @@ More concrete instantiation of philosophical positions into pedagogical approach
 - [[ungrading]]
 - [[assessment-of-process]]
 - [[pygmalion-effect]]
+- [[teaching-as-interweaving]]
 
 Misc
 
@@ -94,6 +95,7 @@ Details moves through which strategic is effected
 [ungrading]: ungrading "Ungrading"
 [assessment-of-process]: Assessment/assessment-of-process "Assessment of process"
 [pygmalion-effect]: pygmalion-effect "Pygmalion Effect (aka "Rosenthal effect")"
+[teaching-as-interweaving]: teaching-as-interweaving "Teaching as interweaving"
 [class-management]: class-management "Class Management"
 [differentiation]: differentiation "Differentiation"
 [behaviour-management]: behaviour-management "Behaviour management"
@@ -104,6 +106,7 @@ Details moves through which strategic is effected
 [learning-journal]: learning-journal "Learning Journal"
 [cognitive-strategies]: cognitive-strategies "Cognitive Strategies"
 [homework]: homework "Homework"
+[class-observations]: class-observations "Class observations"
 [teaching-mathematics]: Mathematics/teaching-mathematics "Teaching Mathematics"
 [australian-curriculum]: Curriculum/australian-curriculum "Australian Curriculum"
 [naplan]: naplan "NAPLAN"
