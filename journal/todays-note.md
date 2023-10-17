@@ -21,22 +21,18 @@
 
 Attempt to start a daily to do list as a way of working. 
 
-- convert to thesis to Word doc for annotation and comment
 - integrate active learning study into memex 
 - ditto ontologies and networks stuff
 
 Prep 
 
 - mathematical misconceptions
-- Curriculum  
-  - relationship of the different digital technologies learning areas
-  - mathematics curriculum - Junior
+- behaviour management - difficult schools
 - revisit 3024EDN
 
 ## Work 
 
 - Group learning journal
-
 
 To do
 - 1002CCJ review for Jaana 
@@ -44,8 +40,6 @@ To do
     - Can a single variable change design
     - Support for accordions
     - Support for colours for different modules
-- 2005CCJ samples
-
 
 - Learning journal - see [[performance-assessment]]
 
@@ -84,36 +78,12 @@ To do
 
 Assessment uplift
 - Complete update of sharepoint library with other details
-- 2005CCJ
-  - Recheck what rubrics they've used
-  - Give feedback on A2 rubric
-  - Give feedback re: CSDM
-- 1063LHS
-  - Follow up with Dean and DHoS re: questions of school/institutional approach
-
-- Collections
-  - fix page issue with edit on handler
 
 Memex
 - [memex design](https://stephanango.com/tidyurl) or djon.es/blog template design
   - explore the link between RDF and neo4js: [one](https://neo4j.com/blog/neo4j-rdf-graph-database-reasoning-engine/), [two](https://teepika-r-m.medium.com/how-to-import-rdf-data-into-neo4j-68f051a3cfd5) - using [neosemantics](https://neo4j.com/labs/neosemantics/)
 
-- Learning Journal 
-  - reading on process
-  - experiments with Canvas
-
-- Uplift summaries to all  
-  - Follow up re: 1603LHS - in 
-  - other completions - an emails
-  - summary for DHoS
-- AI proof resource
-
-- Tell DS about changes to Collections - stale edit locks
-
-[GitPython](https://github.com/djplaner/exploring-australian-curriculum/security/dependabot/1)
-
 [LLM python](https://simonwillison.net/2023/Sep/4/llm-embeddings/)
-
 
 [Why I’m banning AI](https://woborders.blog/2023/08/23/why-im-banning-ai/) – blog post - could be useful in terms of arguments for HLSS courses explaining why reliance on LLMs is to be avoided (e.g. "_unlearning_ commonly circulated misinformation and misunderstanding)
 
