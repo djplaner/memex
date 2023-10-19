@@ -130,6 +130,8 @@ Homework
 - [IXL Maths](https://au.ixl.com/maths)
 - [MoneySmart](https://moneysmart.gov.au/teaching/lesson-plans)
 - [TopMarks](https://www.topmarks.co.uk/maths-games/5-7-years/counting)
+- [Multiplicity labs](https://multiplicitylab.northwestern.edu/) - mathematical tasks worth doing - including big ideas
+- [From Data to Viz](https://www.data-to-viz.com/)
 
 ### Video
 
@@ -137,6 +139,10 @@ Homework
 - [vi hart videos](https://vimeo.com/vihart)
 - [Numberphile](https://www.numberphile.com/)
 
+
+### People
+
+- [mathgrrl](https://mathgrrl.com/)
 
 ### Lesson plan ideas/resources
 
