@@ -107,6 +107,7 @@ Homework
 
 - [[reflective-mathematical-homework]]
 
+- [[teaching-mathematics-software]]
 
 ## Misc resources
 
@@ -216,6 +217,7 @@ Boaler, J. (2015). Creating Mathematical Mindsets: The Importance of Flexibility
 [math-watch]: math-watch "Math Watch"
 [number-talks]: number-talks "Number talks"
 [reflective-mathematical-homework]: reflective-mathematical-homework "Reflective mathematical homework"
+[teaching-mathematics-software]: teaching-mathematics-software "Software for teaching mathematics"
 [python-teaching-mathematics]: python-teaching-mathematics "Python for teaching mathematics"
 [foster-critical-creative-thinking-mathematics]: foster-critical-creative-thinking-mathematics "Fostering critical and creative thinking - mathematics"
 [annotations-boaler-2015]: annotations-boaler-2015 "Creating mathematical mindsets - annotations"
