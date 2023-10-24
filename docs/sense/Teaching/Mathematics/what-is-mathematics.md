@@ -17,7 +17,9 @@ Which translates into mathematics helps you _change perspectives to deepen under
 
 > Understanding something really deeply has to do with the ability to change your perspective
 
-An equation is showing two different perspectives of the same thing.
+An equation is showing two different perspectives of the same thing. 
+
+> every mathematical equation where you see the equality sign, it's an analogy between two things dn you're expressing that in a language
 
 
 Uses many visual and aural example to illustrate.
