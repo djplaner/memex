@@ -28,6 +28,8 @@ Mathematics and mathematics education in broader society.
 
 Notes related to the discipline of mathematics.
 
+- [[what-is-mathematics]]
+- [[what-do-mathematicians-do]]
 - [[mathematical-topics]]
 - [[mathematical-structure]]
 - [[mathematics-conceptual-knowledge-for-teaching]]
@@ -190,13 +192,13 @@ Boaler, J. (2015). Creating Mathematical Mindsets: The Importance of Flexibility
 [when-will-i-ever-use-mathematics]: when-will-i-ever-use-mathematics "When will I ever use mathematics"
 [poverty-premium]: poverty-premium "Poverty Premium"
 [real-work-versus-real-world]: real-work-versus-real-world "Real work versus Real world"
+[what-do-mathematicians-do]: what-do-mathematicians-do "What do mathematicians do?"
 [mathematical-topics]: mathematical-topics "Mathematical Topics"
 [mathematical-structure]: mathematical-structure "Mathematical structure"
 [mathematics-conceptual-knowledge-for-teaching]: mathematics-conceptual-knowledge-for-teaching "Mathematics Conceptual Knowledge for Teaching (MCKT)"
 [mathematical-mindset]: mathematical-mindset "Mathematical Mindset"
 [math-facts]: math-facts "Math Facts"
 [mathematical-misconceptions]: math-misconceptions/mathematical-misconceptions "Mathematical misconceptions and difficulties"
-[what-do-mathematicians-do]: what-do-mathematicians-do "What do mathematicians do?"
 [normal-distribution]: probability/normal-distribution "Normal (Gaussian) distribution"
 [v9-oz-mathematics-learning-area]: ../Curriculum/v9-oz-mathematics-learning-area "Mathematics learning area - Australian Curriculum v9"
 [checks-for-pedagogy]: checks-for-pedagogy "Checks for pedagogy"
