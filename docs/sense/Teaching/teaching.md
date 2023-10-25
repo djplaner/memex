@@ -60,6 +60,7 @@ Details moves through which strategic is effected
 - [[cognitive-strategies]]
 - [[homework]]
 - [[class-observations]]
+- [[inquiry-learning]]
 
 ### Digital learning tools
 
@@ -107,6 +108,7 @@ Details moves through which strategic is effected
 [cognitive-strategies]: cognitive-strategies "Cognitive Strategies"
 [homework]: homework "Homework"
 [class-observations]: class-observations "Class observations"
+[inquiry-learning]: Mathematics/inquiry-learning "Inquiry Learning"
 [teaching-mathematics]: Mathematics/teaching-mathematics "Teaching Mathematics"
 [australian-curriculum]: Curriculum/australian-curriculum "Australian Curriculum"
 [naplan]: naplan "NAPLAN"

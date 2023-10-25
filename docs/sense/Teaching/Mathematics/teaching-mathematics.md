@@ -59,9 +59,11 @@ And other examples
 
 Notes related to mathematics specific pedagogy
 
+- [[effective-pedagogy-in-mathematics]]
 - [[checks-for-pedagogy]] 
 - [[across-the-grain]]
 - [[practice-approach-to-mathematics]]
+- [[mathematical-design-and-implementation-framework]]
 - [[mathematical-resilience-classroom-environment]]
 - [[conceptual-approach-to-mathematics]]
 - [[teaching-mathematics-for-a-growth-mindset]]
@@ -109,6 +111,20 @@ Homework
 
 - [[teaching-mathematics-software]]
 
+## Projects
+
+Misc. mathematics/teaching projects 
+
+- [Enablers of mathematical modelling](https://www.mathsmodellingenablers.com/)
+
+  Findings and resources from ARC project - _Using mathematics to solve real world problems: The role of enablers_. Trying to "identify, apply and refine teaching approaches that help secondary students learn how to use mathematics to solve real-world problems".
+- [Skew the script](https://skewthescript.org/)
+
+  Project arising from USA-based mathematics teaching "tweaking" maths lessons "to tackle authentic problems with real data and real implications". Now broader project with lesson plans and other resources focused on USA-based curriculum
+- [re(Solve) - Maths by Inquiry](https://www.resolve.edu.au/) 
+
+  Oz Government funded project including numerous teaching resources including alignment with Oz Curriculum
+
 ## Misc resources
 
 - [NTCM Classroom resources](https://www.nctm.org/classroomresources/) - numerous categories of resources
@@ -155,7 +171,6 @@ Homework
 - [first steps in mathematics](https://myresources.education.wa.edu.au/programs/first-steps-mathematics) - teacher resources books: number, measurement, space, chance and data. (WA)
 - [Wootube^2](https://www.youtube.com/misterwootube2) - Eddie Woo's YouTube channel for mathematics teachers
 - A list of [Mathematicians project](https://arbitrarilyclose.com/mathematician-project/)
-- [re(Solve) - Maths by Inquiry](https://www.resolve.edu.au/) - Oz Government funded project including numerous teaching resources including alignment with Oz Curriculum
 
 
 ### Learner generated examples
@@ -199,9 +214,11 @@ Boaler, J. (2015). Creating Mathematical Mindsets: The Importance of Flexibility
 [what-do-mathematicians-do]: what-do-mathematicians-do "What do mathematicians do?"
 [normal-distribution]: probability/normal-distribution "Normal (Gaussian) distribution"
 [v9-oz-mathematics-learning-area]: ../Curriculum/v9-oz-mathematics-learning-area "Mathematics learning area - Australian Curriculum v9"
+[effective-pedagogy-in-mathematics]: effective-pedagogy-in-mathematics "Effective pedagogy in mathematics"
 [checks-for-pedagogy]: checks-for-pedagogy "Checks for pedagogy"
 [across-the-grain]: across-the-grain "Across the grain"
 [practice-approach-to-mathematics]: practice-approach-to-mathematics "Practice approach to mathematics"
+[mathematical-design-and-implementation-framework]: mathematical-design-and-implementation-framework "The Mathematical Design and Implementation Framework"
 [mathematical-resilience-classroom-environment]: mathematical-resilience-classroom-environment "mathematical-resilience-classroom-environment"
 [conceptual-approach-to-mathematics]: conceptual-approach-to-mathematics "conceptual-approach-to-mathematics"
 [teaching-mathematics-for-a-growth-mindset]: teaching-mathematics-for-a-growth-mindset "Teaching mathematics for a growth mindset"

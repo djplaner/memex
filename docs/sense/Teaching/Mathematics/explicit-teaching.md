@@ -2,6 +2,8 @@
 
 See also: [[teaching-mathematics]], [[three-acts-of-a-mathematical-story]]
 
+Aims to minimise cognitive load and its ramifications (e.g. misinterpretations) by presenting carefully planned sequences of instruction to suit the learning outcomes.
+
 ## Sources
 
 Following is drawn on resources from the [Mathematics Hub](https://www.mathematicshub.edu.au/) produced by the AAMT.  Explicitly linked to [[high-impact-teaching-strategies]]
