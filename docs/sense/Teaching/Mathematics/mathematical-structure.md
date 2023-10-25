@@ -6,7 +6,7 @@ Nascent idea about the importance of understanding mathematical structures to be
 
 Watson & Shipman (2008) cite Davis and Hersh (1980) arguing that _mathematical structure_ is manifested "through relationships among variance/invariance and similarity/difference". By understanding/identifying those relationship we begin to
 
-- define classes of mathematical objects - which can be something physical, a symoblic representation, an abstract idea (classification or relationship)
+- define classes of mathematical objects - which can be something physical, a symbolic representation, an abstract idea (classification or relationship)
 - understand the effects of operations
 - express and manipulate relationships
 - etc
