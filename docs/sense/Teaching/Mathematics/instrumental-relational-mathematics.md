@@ -7,6 +7,10 @@ Skemp (2006) describes two ways of [[teaching-mathematics]]: instrumental and re
 
 Skemp believes that teaching for relational understanding is better. But aims to provide an analysis of the relative benefits. Helping understand why _instrumental_ approaches are so relevant and perhaps ideas about the difficulty of teaching for relational understanding.
 
+[Alfeld](http://www.math.utah.edu/~pa/math.html) cites a letter Newton wrote for
+
+> A vulgar Mechanick can practice what he has been taught or seen or seen done, but if he is in an error he knows not how to find it out and correct it, and if you put him out of his road, he is at a stand; Whereas he that is able to reason nimbly and judiciously ... is never at rest till he gets over every rub
+
 ## Advantages of instrumental mathematics
 
 1. Instrumental mathematics is usually easier to understand.

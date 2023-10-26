@@ -1,6 +1,6 @@
 # Teaching Mathematics
 
-Tags: [[teaching]], [[teacher-preparation]]
+Tags: [[teaching]], [[teacher-preparation]],
 
 ## Society
 
@@ -29,6 +29,7 @@ Mathematics and mathematics education in broader society.
 Notes related to the discipline of mathematics.
 
 - [[what-is-mathematics]]
+- [[understanding-mathematics]]
 - [[what-do-mathematicians-do]]
 - [[mathematical-topics]]
 - [[mathematical-structure]]
@@ -129,8 +130,12 @@ Misc. mathematics/teaching projects
 
 ## Misc resources
 
+- [Awesome Math](https://github.com/rossant/awesome-math) - curate list hosted on github
 - [NTCM Classroom resources](https://www.nctm.org/classroomresources/) - numerous categories of resources
 - [Maths education](http://www.mathseducation.org.au/) - AAMT site - also [Mathematics hub](https://www.mathematicshub.edu.au/)
+- [Maths for everyone](https://www.maths4everyone.com/index.php) - UK worksheets, quizzes etc.
+- [Mashup Math](https://www.mashupmath.com/freemathpuzzles) - puzzles, worksheets etc
+- [Math on the fly - worksheets](https://www.mathonthefly.com/worksheets/)
 - [Multiplicty Lab](https://multiplicitylab.northwestern.edu/) - Primary focused - helping provide rich mathematical experience to all students
 - [NRich](https://nrich.maths.org/) - collection of resources from Cambridge University, students, teachers and organised by topic
 - [+Plus - bringing maths to life](https://plus.maths.org/content/) - website popularising maths, more popular science magazine type of thing, articles, podcasts, puzzles
@@ -207,6 +212,8 @@ Boaler, J. (2015). Creating Mathematical Mindsets: The Importance of Flexibility
 [when-will-i-ever-use-mathematics]: when-will-i-ever-use-mathematics "When will I ever use mathematics"
 [poverty-premium]: poverty-premium "Poverty Premium"
 [real-work-versus-real-world]: real-work-versus-real-world "Real work versus Real world"
+[what-is-mathematics]: what-is-mathematics "What is mathematics"
+[understanding-mathematics]: understanding-mathematics "Understanding Mathematics"
 [what-do-mathematicians-do]: what-do-mathematicians-do "What do mathematicians do?"
 [mathematical-topics]: mathematical-topics "Mathematical Topics"
 [mathematical-structure]: mathematical-structure "Mathematical structure"
