@@ -26,6 +26,7 @@ Increasing need to support a more "learning process" focus in assessment leading
 ## Design
 
 - [[log-1-canvas-learning-journal]]
+- [[log-2-canvas-learning-journal]] - initial concrete design
 
 ## Exploration of Canvas community practices
 
