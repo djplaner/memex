@@ -93,6 +93,11 @@ Register Zenodo e.g. https://zenodo.org/record/165478 or this https://zenodo.org
 
 Capture more [isntructional activities](https://www.fosteringmathpractices.com/routinesforreasoning/)
 
+Berlekamp, E., & Rodgers, T. (Eds.). (n.d.). *The Mathemagician and Pied Puzzler: A Collection in Tribute to Martin Gardner*.
+Gardner, M. (n.d.). *Entertaining Mathematical Puzzles*.
+Gardner, M. (1987). *The 2nd Scientific American book of mathematical puzzles & diversions* (University of Chicago Press ed). University of Chicago Press.
+Gardner, M. (2001). *The colossal book of mathematics: Classic puzzles, paradoxes, and problems: number theory, algebra, geometry, probability, topology, game theory, infinity, and other topics of recreational mathematics* (1st ed). Norton.
+
 Albarracín, L., Segura, C., Ferrando, I., & Gorgorió, N. (2022). Supporting mathematical modelling by upscaling real context in a sequence of tasks. *Teaching Mathematics and Its Applications: An International Journal of the IMA*, *41*(3), 183--197. <https://doi.org/10.1093/teamat/hrab027>
 
 Hodgen, J., Foster, C., Marks, R., & Brown, M. (2018). Improving Mathematics in Key Stages Two and Three: Evidence Review. In *Education Endowment Foundation: London, UK.* \[Report\]. Education Endowment Foundation. <https://educationendowmentfoundation.org.uk/education-evidence/guidance-reports/maths-ks-2-3>
