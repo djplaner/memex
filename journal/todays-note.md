@@ -164,8 +164,6 @@ Black, P. E., & Plowright, D. (2010). A multi‐dimensional model of reflective 
 - "course profile" bridging
 - Rubric resources
 
-- [Guide to install Canvas](https://elearningevolve.com/blog/install-canvas-lms/) - ubuntu
-
 - van Laar, E., van Deursen, A. J. A. M., van Dijk, J. A. G. M., & de Haan, J. (2017). The relation between 21st-century skills and digital skills: A systematic literature review. *Computers in Human Behavior*, *72*, 577--588. <https://doi.org/10.1016/j.chb.2017.03.010>
 
 

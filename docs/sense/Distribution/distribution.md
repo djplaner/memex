@@ -2,6 +2,8 @@
 
 - [[evaluating-orchestration]]
 - [[hacker-ethos-collective-intelligence]]
+- [[forest-for-the-trees]]
+- [[trees-for-the-forest]]
 
 ## Theory
 
