@@ -7,6 +7,7 @@ Bricolage links to broader ideas of democratising software development as seen i
 ## Path
 
 - [[enabling-computational-bricolage]]
+- [[bricalogogy]]
 
 ### Software development
 
@@ -37,6 +38,7 @@ Bricolage links to broader ideas of democratising software development as seen i
 [distribution]: ../Distribution/distribution "Distribution"
 [heavy-and-light-weight]: ../nodt/heavy-and-light-weight "Heavy Weight and Light Weight Information Technology"
 [enabling-computational-bricolage]: enabling-computational-bricolage "Enabling computational bricolage"
+[bricalogogy]: bricalogogy "Bricolagogy"
 [laws-of-software-evolution]: laws-of-software-evolution "Laws of Software Evolution"
 [diy-software-development-literature]: diy-software-development-literature "Literature of DIY software development"
 [diy-software-development-examples]: diy-software-development-examples "DIY Software Development Examples"
