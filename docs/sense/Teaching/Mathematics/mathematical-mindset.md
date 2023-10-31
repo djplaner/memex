@@ -2,6 +2,8 @@
 
 See also: [[teaching-mathematics]], [[instrumental-relational-mathematics]]
 
+Related: [[mathematical-mindsets]] - vague notes from reading Boaler (2015)
+
 ## Definitions
 
 Boaler (2015, p. 34) describes a mathematical mindset this way
