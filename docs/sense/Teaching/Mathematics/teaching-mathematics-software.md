@@ -24,6 +24,12 @@ Open textbook - [Computational mathematics with SageMath](https://www.sagemath.o
 
 [Demos](https://www.desmos.com/) originally a graphing calculator, now includes scientific and matrix calculators, and an geometry tool. Lessons can be shared.
 
+## OneNote
+
+Common way to organise class notes, lesson resources etc.
+
+- [Example OneNote notebook](https://glowscotland-my.sharepoint.com/personal/gw20allanmichael_glow_sch_uk/_layouts/15/Doc.aspx?sourcedoc={740610da-7d5a-4a61-a693-3e2310488996}&action=view&wd=target%28Welcome.one%7Cdabef2bc-5ada-2a40-aa12-5a4d63636a81%2FHigher%20Maths%20-%20Shared%7Ce057bc3d-b406-f742-b19b-257f4b17061e%2F%29&wdorigin=NavigationUrl) - Scottish high school ([this teacher](https://mrallanmaths.wordpress.com/))
+
 ## References
 
 Williamson, B. (2022). Big EdTech. *Learning, Media and Technology*, *47*(2), 157--162. <https://doi.org/10.1080/17439884.2022.2063888>
