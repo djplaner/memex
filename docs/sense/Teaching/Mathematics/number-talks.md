@@ -6,7 +6,7 @@ References: [QCAA _Number talks_ fact sheet](https://www.qcaa.qld.edu.au/downloa
 
 Boaler (2015) identifies this as the "best strategy" she knows for teaching [[number-sense]] and [[math-facts]] at the same time. Apparently perfect as a lesson starter or for parents at home.
 
-Example problem given is $18 \times 5$ which, in one application, resulted in six different ways to solve it. [Blog post](https://marilynburnsmath.com/general-interest/whats-the-difference-between-a-number-talk-and-a-lesson/) includes video of an individual student being asked $36 \add 9$ and using an _interesting_ approach. An addendum talks about another method where students note that $36$ is $4 \times 9$ and so the answer is $5 \times 9$.
+Example problem given is $18 \times 5$ which, in one application, resulted in six different ways to solve it. [Blog post](https://marilynburnsmath.com/general-interest/whats-the-difference-between-a-number-talk-and-a-lesson/) includes video of an individual student being asked $36 + 9$ and using an _interesting_ approach. An addendum talks about another method where students note that $36$ is $4 \times 9$ and so the answer is $5 \times 9$.
 
 ## Method
 
