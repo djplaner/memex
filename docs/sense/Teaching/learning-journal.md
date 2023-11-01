@@ -16,6 +16,7 @@ Notes on the learning journal learning activity design.
 ## Benefits of using a learning journal
 
 Adapted from Park (2003, p. 185)
+
 - Allowing students to make sense of their own personal histories (Hedlund et al., 1989) 
 - Allowing students to assimilate and integrate new information (Hedlund et al., 1989) 
 - Encouraging students to learn to think more about the knowledge they have or are acquiring (Hedlund et al., 1989) 
