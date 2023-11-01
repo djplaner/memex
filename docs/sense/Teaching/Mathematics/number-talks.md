@@ -2,12 +2,45 @@
 
 See also: [[teaching-mathematics]]
 
+References: [QCAA _Number talks_ fact sheet](https://www.qcaa.qld.edu.au/downloads/aciq/general-resources/ac_gc_factsheet_number_talks.pdf), [Math for love](https://mathforlove.com/lesson/number-talks/)
+
 Boaler (2015) identifies this as the "best strategy" she knows for teaching [[number-sense]] and [[math-facts]] at the same time. Apparently perfect as a lesson starter or for parents at home.
 
-Method
-> It involves posing an abstract math problem and asking students to show how they solve the problem mentally. The teacher then collects the different methods students give and looks at why they work. (Boaler, 2015, p. 48)
+Example problem given is $18 \times 5$ which, in one application, resulted in six different ways to solve it. [Blog post](https://marilynburnsmath.com/general-interest/whats-the-difference-between-a-number-talk-and-a-lesson/) includes video of an individual student being asked $36 \add 9$ and using an _interesting_ approach. An addendum talks about another method where students note that $36$ is $4 \times 9$ and so the answer is $5 \times 9$.
 
-Example problem given is "15 x 12" which results in five different ways to solve it.
+## Method
+
+1. Teacher poses a problem 
+
+    Often a mental arithmetic problem, but can include other types (visuals etc.)
+
+2. Students mentally solve the problem
+
+    Indicate they have an answer by holding a thumb - or additional fingers for additional methods - to their chest. To allow others to proceed without time pressure.
+
+3. Students share their answers
+
+    Teacher records all solutions, no comment on correctness.
+
+4. Students explain their thinking.
+
+    Students explain and teacher writes the steps on the board
+
+5. Discussion and consensus
+
+    By the end have multiple methods and a consensus on the correct answer
+
+6. Followup - if appropriate
+
+## Suggestions
+
+1. Draw upon and share visual methods. Aim being to open possibilities.
+
+    [Number talk images](https://kristenacosta.com/number-talk-images/)
+2. Scaffold the introduction of the approach 
+3. Low floor
+4. Be explicit about the protocol
+
 
 
 

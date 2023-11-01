@@ -41,10 +41,18 @@ Boaler, J. (2015). Mathematical Mindsets: Unleashing Students’ Potential Throu
 
 - Cohen & Garcia (2014) - 1 experience/message can change everything for students
 - Beilock, Gunderson, Ramirez & Levine (2009) - primary school teachers' negative emotions on math predict achievements of girls in their classes, not boys
+- Silver (1994) - give students opportunities to pose mathematical problems, to consider a situation and think of mathematical questions to ask - the essence of real math - they become more engaged and perform at a higher level
+- Boaler (2015a) - What's math got to do with it - describes a classroom approach based on posing mathematical questions
 
 ### Value of mathematics
 
 - Rose & Betts (2004) and Boaler (2005) - more math classes == higher earnings 10 years later - as much as 19.5%
+
+### What is mathematics
+
+- Devlin (1997) - mathematicians describe math as "the study of patterns; that it is an aesthetic, creative, and beautiful subject"
+- Devlin (2006) - mathematics used by animals, and humans as natural mathematics users
+- Reuben Hersh (1999) - What is mathematics, really?
 
 
 

@@ -18,6 +18,8 @@ Potentially useful, but problematic given ownership.
 
 Use a browser-based notebook interface. Which means the interface for entry of mathematics isn't as user friendly. Edging somewhat into LaTeX land. Wondering if someone has addressed that? A high school focus seems to have fallen over.
 
+Open textbook - [Computational mathematics with SageMath](https://www.sagemath.org/sagebook/english.html)
+
 ## Demos
 
 [Demos](https://www.desmos.com/) originally a graphing calculator, now includes scientific and matrix calculators, and an geometry tool. Lessons can be shared.

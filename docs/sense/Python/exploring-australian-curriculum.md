@@ -87,6 +87,10 @@ More formal discussion of these ideas in Roberts (2023b)
 
 Boaler (2015) also offers [a collection of norms/advice](https://djplaner.github.io/memex/sense/Teaching/Mathematics/teaching-mathematics-for-a-growth-mindset/#opening-mathematics) to help teach mathematics. In theory, something like this (or other pedagogical/other frameworks) could also be useful in terms of connections with/to/from the curriculum and its components.
 
+Boaler (2015) writes
+
+> Teachers are usually given long lists of content to teach, with hundreds of content descriptions and no time to go into depth on any ideas. When teachers are given lists of content to teach, they see a subject that has been stripped down to its bare parts like a dismantled bike—a collection of nuts and bolts that students are meant to shine and polish all year. Lists of contents don't include connections; they present mathematics as though connections do not even exist. I don't want students polishing disconnected bike parts all day! I want them to get onto the assembled bikes and ride freely, experiencing the pleasure of math, the joy of making connections, the euphoria of real mathematical thinking 
+
 Question being how to enable ad hoc connection maps between the different components in the curriculum? For separate purposes.
 
 Perhaps the very essence of gather/weave.
@@ -119,6 +123,8 @@ Robutti, O., Aldon, G., Cusi, A., Olsher, S., Panero, M., Cooper, J., Carante, P
 ## References
 
 Barker, P. (2020, August 19). Mapping learning resources to curricula in RDF --- Sharing and learning Phil Barker's work. *Sharing and Learning*. <https://blogs.pjjk.net/phil/mapping-learning-resources-to-curricula-in-rdf/>
+
+Boaler, J. (2015). Mathematical Mindsets: Unleashing Students’ Potential Through Creative Math, Inspiring Messages and Innovative Teaching. John Wiley & Sons, Incorporated.
 
 Dobrescu, L., Holden, R., Motta, A., Piccoli, A., Roberts, P., & Walker, S. (2021). *Cultural Context in Standardized Tests* (SSRN Scholarly Paper 3983663). <https://doi.org/10.2139/ssrn.3983663>
 

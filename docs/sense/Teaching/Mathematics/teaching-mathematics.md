@@ -1,6 +1,9 @@
 # Teaching Mathematics
 
-Tags: [[teaching]], [[teacher-preparation]],
+Tags: [[teaching]], [[teacher-preparation]]
+
+Collection of misc. resources for teaching mathematics. Eventually informing an ever-evolving concrete set of ideas and processes underpinning [[my-approach-to-teaching-mathematics]]
+
 
 ## Society
 
@@ -65,6 +68,7 @@ Notes related to mathematics specific pedagogy
 - [[effective-pedagogy-in-mathematics]]
 - [[checks-for-pedagogy]] 
 - [[across-the-grain]]
+- [[mathematical-problem-solving]]
 - [[practice-approach-to-mathematics]]
 - [[mathematical-design-and-implementation-framework]]
 - [[mathematical-resilience-classroom-environment]]
@@ -226,6 +230,7 @@ Boaler, J. (2015). Creating Mathematical Mindsets: The Importance of Flexibility
 [effective-pedagogy-in-mathematics]: effective-pedagogy-in-mathematics "Effective pedagogy in mathematics"
 [checks-for-pedagogy]: checks-for-pedagogy "Checks for pedagogy"
 [across-the-grain]: across-the-grain "Across the grain"
+[mathematical-problem-solving]: mathematical-problem-solving "Mathematical problem solving"
 [practice-approach-to-mathematics]: practice-approach-to-mathematics "Practice approach to mathematics"
 [mathematical-design-and-implementation-framework]: mathematical-design-and-implementation-framework "The Mathematical Design and Implementation Framework"
 [mathematical-resilience-classroom-environment]: mathematical-resilience-classroom-environment "mathematical-resilience-classroom-environment"
