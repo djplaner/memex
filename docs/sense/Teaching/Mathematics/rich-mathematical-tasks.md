@@ -51,15 +51,15 @@ Example - paper folding, working in pairs students must fold a piece of paper to
 
 ## Suggested resources
 
-- [NCTM Illuminations](https://illuminations.ntcm.org) 
-- [Balanced Assessment](https://balancedassessment.concord.org)
-- [Math Forum](https://www.mathforum.org) 
-- [Shell Center](http://map.mathshell.org/materials/index.php) 
+- [NCTM Illuminations](https://illuminations.nctm.org/)
+- [Balanced Assessment](https://balancedassessment.concord.org) - collection of innovative mathematics assessment tasks
+- [Math Forum](https://www.mathforum.org) - no longer active, redirects to [NCTM classroom resources](https://www.nctm.org/classroomresources/)
+- [Mathematics Assessment Project](http://map.mathshell.org/materials/index.php) - Gates Foundation funding
 - [Dan Meyer's resources](http://blog.mrmeyer.com/)
 - [Geogebra](http://geogebra.org/cms/)
-- [Video Mosaic project](http://videomosaic.org/)
+- [Video Mosaic project](http://videomosaic.org/) - collection of videos of students learning matheamtical concepts.
 - [NRich](http://nrich.maths.org/) 
-- [Estimation 180](http://www.estimation180.com) 
+- [Estimation 180](http://www.estimation180.com) - "math lessons that build number sense", include 3-act tasks
 - [Visual Patterns; grades K–12](http://www.visualpatterns.org)
 - [Number Strings](http://numberstrings.com) 
 - [Mathalicious, grades 6–12; real-world lessons for middle and high school](http://www.mathalicious.com)

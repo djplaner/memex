@@ -83,7 +83,7 @@ These images are supplemented with a table that provides more detail on the big 
 
 More formal discussion of these ideas in Roberts (2023b)
 
-### Making connections in general
+### Making connections in general (mathematics)
 
 Boaler (2015) also offers [a collection of norms/advice](https://djplaner.github.io/memex/sense/Teaching/Mathematics/teaching-mathematics-for-a-growth-mindset/#opening-mathematics) to help teach mathematics. In theory, something like this (or other pedagogical/other frameworks) could also be useful in terms of connections with/to/from the curriculum and its components.
 
@@ -96,6 +96,18 @@ Question being how to enable ad hoc connection maps between the different compon
 Perhaps the very essence of gather/weave.
 
 Li et al (2019) identify three types of knowledge components that make up mathematics conceptual knowledge for teaching.  The second - being able to connect and justify the main points of a content topic, and to place it in wider contexts - is directly challenged by requiring conceptual knowledge that across different connected topics. - even suggesting it is the one with which students have the least familiarity.
+
+#### Mismatch between rich mathematical tasks and the curriculum
+
+Liljedahl (2020) identifies a problem that is common to rich and engaging mathematical tasks as
+
+> they are, for the most part, all non-curricular tasks. That is, very few of these tasks require mathematics that map nicely onto a list of outcomes or standards in a specific school curriculum. (p. 24)
+
+He goes onto describe how the "open-middle" in many mathematical tasks (see [[low-floor-high-ceiling-wide-walls#Low-floor, open-middle, high-ceiling tasks]]) can make this even more difficult. i.e. of the many different paths that may be used to solve a mathematical task, only one may be the "curricular" path. A path that no student may choose to walk.
+
+The intent (or even need for) more alignment with the curriculum can lead to adding constraints to a task which can lead to reducing "what was once a rich task to the type of word problem we often see in mathematics textbooks" (p. 25)
+
+> Whereas rich tasks get students to think at the expense of meeting curriculum goals, word problems more predictably and reliably push students to use specific bits of learned knowledge - but often at the expense of engagement and the thinking that we need to foster in our students. (p. 25)
 
 ### Clever approaches to curriculum visualisation?
 
@@ -134,6 +146,8 @@ Golder, D., Kneebone, L., Phipps, J., Sunter, S., & Sutton, S. A. (2010). A conf
 
 Li, Y., Pang, J., Zhang, H., & Song, N. (2019). Mathematics Conceptual Knowledge for Teaching: Helping Prospective Teachers Know Mathematics Well Enough for Teaching. In *International Handbook of Mathematics Teacher Education: Volume 1* (pp. 77--104). Brill. [https://doi.org/10.1163/9789004418875\_004](https://doi.org/10.1163/9789004418875_004)
 
+Liljedahl, P. (2020). *Building Thinking Classrooms in Mathematics, Grades K-12: 14 Teaching Practices for Enhancing Learning*. Corwin Press. 
+
 On closing the divide between city and country students in Australia, we keep repeating past mistakes. (2023, September 10). *The Guardian*. <https://www.theguardian.com/australia-news/2023/sep/11/on-closing-the-divide-between-city-and-country-students-in-australia-we-keep-repeating-past-mistakes>
 
 Roberts, P. (2023a, September 10). On closing the divide between city and country students in Australia, we keep repeating past mistakes. *The Guardian*. <https://www.theguardian.com/australia-news/2023/sep/11/on-closing-the-divide-between-city-and-country-students-in-australia-we-keep-repeating-past-mistakes>
@@ -153,6 +167,7 @@ Ward, N., & Nicholas, N. (n.d.). *Benefits of Machine Readable Curricula*. [http
 [teaching-digital-technologies]: ../Teaching/Digital_Technologies/teaching-digital-technologies "Teaching Digital Technologies"
 [ALIVE]: ../Teaching/Mathematics/alive "ALIVE"
 [curriculum-ergonomics]: ../Teaching/curriculum-ergonomics "Curriculum Ergonomics"
+[low-floor-high-ceiling-wide-walls#Low-floor, open-middle, high-ceiling tasks]: ../Teaching/low-floor-high-ceiling-wide-walls "Low Floor, High Ceiling, Wide Walls"
 [001-exploring-oz-dev-log]: exploring-oz-curriculum/001-exploring-oz-dev-log "001 - Exploring Australian Curriculum - Dev log"
 [002-exploring-oz-dev-log]: exploring-oz-curriculum/002-exploring-oz-dev-log "Exploring Oz Curriculum - Dev log 2"
 [gatherers-weavers-augmenters]: ../Paper-Ideas/gatherers-weavers-augmenters "Gatherers, Weavers and Augmenters: Three principles for dynamic and sustainable delivery of quality learning and teaching"
