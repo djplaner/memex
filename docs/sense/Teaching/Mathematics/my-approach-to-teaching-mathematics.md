@@ -47,6 +47,12 @@ Informed by [[memex/norman-activity-centered-design]], [[abc-learning-design-and
   - [lesson planning advice](explicit-versus-inquiry.md#a-different-approach-non-curricular-scripted-curricular-as-is-curricular) three/five non curricular, followed by scripted curricular
   - Random group work (Liljedahl, 2014) and ideas for thinking classroom (Liljedahl, 2020)
 
+## Activity Types
+
+The vague idea is to develop a small collection of common activity types - related by pedagogical purpose - that can be
+
+1. Integrated into lessons as required, regardless of the broader pedagogical framework/approach
+2. Perhaps eventually form the basis for a form of [[activity-based design|abc-learning-design-and-acad]]
 
 ## References
 

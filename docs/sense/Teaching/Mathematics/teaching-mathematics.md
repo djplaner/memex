@@ -61,6 +61,10 @@ And other examples
 - [California's 2023 Mathematics Framework](https://www.cde.ca.gov/ci/ma/cf/)
 - [California's 2013 Mathematics Framework](https://www.cde.ca.gov/ci/ma/cf/mathfwchapters.asp)
 
+## Professional Development
+
+- [[maths-in-schools]] - Uni Adelaide developed MOOC
+
 ## Pedagogy
 
 Notes related to mathematics specific pedagogy
@@ -153,6 +157,7 @@ Misc. mathematics/teaching projects
 
 ## Misc resources
 
+- [Maths A to Z](https://education.nsw.gov.au/parents-and-carers/learning/maths/maths-a-to-z#Accuracy_1) - from NSW DoE
 - [Awesome Math](https://github.com/rossant/awesome-math) - curate list hosted on github
 - [NTCM Classroom resources](https://www.nctm.org/classroomresources/) - numerous categories of resources
 - [Maths education](http://www.mathseducation.org.au/) - AAMT site - also [Mathematics hub](https://www.mathematicshub.edu.au/)
@@ -247,6 +252,7 @@ Boaler, J. (2015). Creating Mathematical Mindsets: The Importance of Flexibility
 [mathematical-misconceptions]: math-misconceptions/mathematical-misconceptions "Mathematical misconceptions and difficulties"
 [normal-distribution]: probability/normal-distribution "Normal (Gaussian) distribution"
 [v9-oz-mathematics-learning-area]: ../Curriculum/v9-oz-mathematics-learning-area "Mathematics learning area - Australian Curriculum v9"
+[maths-in-schools]: maths-in-schools "Maths in Schools Online: Year 7 - 10 course"
 [effective-pedagogy-in-mathematics]: effective-pedagogy-in-mathematics "Effective pedagogy in mathematics"
 [student-centered-mathematics-instruction]: student-centered-mathematics-instruction "Student Centred Mathematics instruction"
 [checks-for-pedagogy]: checks-for-pedagogy "Checks for pedagogy"

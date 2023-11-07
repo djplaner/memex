@@ -97,6 +97,12 @@ Perhaps the very essence of gather/weave.
 
 Li et al (2019) identify three types of knowledge components that make up mathematics conceptual knowledge for teaching.  The second - being able to connect and justify the main points of a content topic, and to place it in wider contexts - is directly challenged by requiring conceptual knowledge that across different connected topics. - even suggesting it is the one with which students have the least familiarity.
 
+#### Connections within mathematical tasks
+
+The [[maths-in-schools]] course [provides](https://canvas.catalog.adelaide.edu.au/courses/1042/pages/mathematics-and-numeracy?module_item_id=15732) the following example of the inter-connectedness of mathematical tasks
+
+> there are natural connections between them, and it is important to acknowledge the interconnectedness of the content in many aspects of maths learning in a classroom. For example, determining the area of a circle draws on students’ knowledge and understanding of the dimensions of a circle (Space), the use of a formula (Algebra) and knowledge of rounding decimals (Number) and the use of square units (Measurement) to communicate a solution. 
+
 #### Mismatch between rich mathematical tasks and the curriculum
 
 Liljedahl (2020) identifies a problem that is common to rich and engaging mathematical tasks as
@@ -167,6 +173,7 @@ Ward, N., & Nicholas, N. (n.d.). *Benefits of Machine Readable Curricula*. [http
 [teaching-digital-technologies]: ../Teaching/Digital_Technologies/teaching-digital-technologies "Teaching Digital Technologies"
 [ALIVE]: ../Teaching/Mathematics/alive "ALIVE"
 [curriculum-ergonomics]: ../Teaching/curriculum-ergonomics "Curriculum Ergonomics"
+[maths-in-schools]: ../Teaching/Mathematics/maths-in-schools "Maths in Schools Online: Year 7 - 10 course"
 [low-floor-high-ceiling-wide-walls#Low-floor, open-middle, high-ceiling tasks]: ../Teaching/low-floor-high-ceiling-wide-walls "Low Floor, High Ceiling, Wide Walls"
 [001-exploring-oz-dev-log]: exploring-oz-curriculum/001-exploring-oz-dev-log "001 - Exploring Australian Curriculum - Dev log"
 [002-exploring-oz-dev-log]: exploring-oz-curriculum/002-exploring-oz-dev-log "Exploring Oz Curriculum - Dev log 2"

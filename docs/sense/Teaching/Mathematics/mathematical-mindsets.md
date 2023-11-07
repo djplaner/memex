@@ -2,6 +2,8 @@
 
 See also: [[mathematical-mindset]]
 
+Resources: [YouTube video](https://www.youtube.com/watch?v=bxrPy1fjVU4&t=472s) - associated with YouCubed - Boaler and students
+
 Following are rough notes from reading 
 
 Boaler, J. (2015). Mathematical Mindsets: Unleashing Students’ Potential Through Creative Math, Inspiring Messages and Innovative Teaching. John Wiley & Sons, Incorporated.
