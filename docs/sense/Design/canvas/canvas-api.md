@@ -20,7 +20,6 @@ See also [[canvas-development]], [[canvas-api-dev]]
 - [harvard-edtech/caccl](https://github.com/harvard-edtech/caccl) - more a app generator for Canvas JS apps
 
 
-
 ### Resources
 
 - [Canvas LMS API documentation](https://canvas.instructure.com/doc/api/)
