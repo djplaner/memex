@@ -157,6 +157,7 @@ Misc. mathematics/teaching projects
 
 ## Misc resources
 
+- [[mathematical-memes]]
 - [Maths A to Z](https://education.nsw.gov.au/parents-and-carers/learning/maths/maths-a-to-z#Accuracy_1) - from NSW DoE
 - [Awesome Math](https://github.com/rossant/awesome-math) - curate list hosted on github
 - [NTCM Classroom resources](https://www.nctm.org/classroomresources/) - numerous categories of resources
@@ -280,6 +281,7 @@ Boaler, J. (2015). Creating Mathematical Mindsets: The Importance of Flexibility
 [number-talks]: number-talks "Number talks"
 [reflective-mathematical-homework]: reflective-mathematical-homework "Reflective mathematical homework"
 [teaching-mathematics-software]: teaching-mathematics-software "Software for teaching mathematics"
+[mathematical-memes]: mathematical-memes "Mathematical Memes"
 [python-teaching-mathematics]: python-teaching-mathematics "Python for teaching mathematics"
 [foster-critical-creative-thinking-mathematics]: foster-critical-creative-thinking-mathematics "Fostering critical and creative thinking - mathematics"
 [annotations-boaler-2015]: annotations-boaler-2015 "Creating mathematical mindsets - annotations"
