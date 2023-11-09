@@ -19,6 +19,11 @@
 
 See also: [[teaching]]
 
+## Strategies
+
+- [[planning-for-behaviour-management]]]
+- [[bill-rogers-strategies]]
+
 ## Causes
 
 Bru (2006) surveyed 3000+ Year 6&9 Norwegian students finding that factors increasing the likelihood and incidence of off-task behaviour/opposition towards teachers include:
@@ -41,10 +46,6 @@ Surveying teachers, Mavropoulou and Padeliadu (2002) found:
 - teacher's attitude;
 - persistent academic failure.
 
-## Strategies
-
-- [[planning-for-behaviour-management]]]
-- [[bill-rogers-strategies]]
 
 ### Behaviour specific praise (Simpson et al, 2020)
 
