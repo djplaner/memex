@@ -71,6 +71,20 @@ Michael Sankey [presentation](https://www.slideshare.net/michaelsankey/principle
   - "authentic assessments"
   - personalised or complex tasks
 
+## GU Workshop on Gen AI assessment
+
+[Rene Hexel](https://experts.griffith.edu.au/9237-rene-hexel)
+
+- Giving a longer history AI work as a sequence of peaks and troughs
+- Overview of LLM operations 
+- Moving onto TEQSA discussion paper
+- Onto Griffith actions - mostly institutional
+  - Apparently an L&T CoP??? - [L&T site](https://griffitheduau.sharepoint.com/sites/LTSupportResources/SitePages/AI-tools-in-learning-and-teaching.aspx)
+- Applications of ai
+  - students and educators - powerpoint sample
+
+- [Cogniti](https://cogniti.ai/docs/how-do-i-access-cogniti/) - Danny Liu's work on AI for Oz educators
+
 ## References
 
 Li, Y., Sha, L., Yan, L., Lin, J., Raković, M., Galbraith, K., Lyons, K., Gašević, D., & Chen, G. (2023). Can large language models write reflectively. *Computers and Education: Artificial Intelligence*, *4*, 100140. <https://doi.org/10.1016/j.caeai.2023.100140>

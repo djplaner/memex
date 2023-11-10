@@ -36,6 +36,7 @@ More concrete instantiation of philosophical positions into pedagogical approach
 - [[assessment-of-process]]
 - [[pygmalion-effect]]
 - [[teaching-as-interweaving]]
+- [[strengths-based-education]]
 
 Misc
 
@@ -49,6 +50,7 @@ Misc
 Broad brush depiction of plans
 
 - [[high-impact-teaching-strategies]]
+- [[impact-pedagogical-model]]
 
 ## Pedagogical tactics (Operational)
 
@@ -99,6 +101,7 @@ Details moves through which strategic is effected
 [assessment-of-process]: Assessment/assessment-of-process "Assessment of process"
 [pygmalion-effect]: pygmalion-effect "Pygmalion Effect (aka "Rosenthal effect")"
 [teaching-as-interweaving]: teaching-as-interweaving "Teaching as interweaving"
+[strengths-based-education]: strengths-based-education "strengths-based-education"
 [class-management]: class-management "Class Management"
 [differentiation]: differentiation "Differentiation"
 [behaviour-management]: behaviour-management "Behaviour management"

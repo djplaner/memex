@@ -7,8 +7,8 @@ In particular, the aim here is to develop a web-based report on activity/contrib
 
 - [X] [Search for example graded discussion forum reports](#search-for-example-graded-discussion-forum-reports) - nothing apparent for the current purpose
 - [ ] Design the visuals for such a report
-- [ ] [What APIs required - REST/GraphQL](#what-apis-required---restgraphql)
-- [ ] Implement in Python
+- [X] [What APIs required - REST/GraphQL](#what-apis-required---restgraphql) - using CanvasAPI in Python
+- [ ] Implement in Python - commenced `lj-report.py` in AEL-LT
 
 ## Search for example graded discussion forum reports
 

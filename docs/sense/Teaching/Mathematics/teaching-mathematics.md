@@ -149,6 +149,8 @@ Misc. mathematics/teaching projects
 
   Oz Government funded project including numerous teaching resources including alignment with Oz Curriculum
 
+- [MathHappnes](https://www.mathhappens.org/) - US(texas)-based project to "bring math into community conversation"
+
 ## Images
 
 - [Problem pictures](https://www.problempictures.co.uk/)
