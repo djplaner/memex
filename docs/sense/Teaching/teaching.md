@@ -2,9 +2,14 @@
 
 See also: [[learning]], [[design]]
 
-Nascent space, perhaps predicting a late career change
+Collection of resources, ideas etc around secondary teaching.
 
-Structure inspired by [[goodyear-patterns-design-practice]] description of the educational design problem space
+Structure inspired by [[goodyear-patterns-design-practice]] description of the educational design problem space, mostly
+
+- Philosophy - beliefs about how people learn, what knowledge consists of
+- High level pedagogy - focuses attention on particular conceptual frames and activities that are more effective for implementing a particular philosophy, not a lot of specifics
+- Pedagogical strategy - abstract/strategic communication of plans for action, promoting communication and coordination
+- Pedagogical tactics - specific ideas for implementing strategy
 
 ## Todo
 
@@ -53,6 +58,10 @@ Broad brush depiction of plans
 - [[impact-pedagogical-model]]
 
 ## Pedagogical tactics (Operational)
+
+My work
+
+- [[math-lessons-resources]] - nascent collection of actual teaching planning
 
 Details moves through which strategic is effected 
 
@@ -107,6 +116,8 @@ Details moves through which strategic is effected
 [behaviour-management]: behaviour-management "Behaviour management"
 [curriculum-ergonomics]: curriculum-ergonomics "Curriculum Ergonomics"
 [high-impact-teaching-strategies]: high-impact-teaching-strategies "High impact teaching strategies"
+[impact-pedagogical-model]: impact-pedagogical-model "Impact pedagogical model"
+[math-lessons-resources]: Mathematics/math-lessons-resources/math-lessons-resources "Mathematics: lessons and resources"
 [question-for-retrieval]: question-for-retrieval "Questioning for retrieval"
 [worked-examples]: worked-examples "Worked examples"
 [learning-journal]: learning-journal "Learning Journal"

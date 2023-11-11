@@ -1,3 +1,8 @@
+---
+type: index
+tags: mathematics, teaching
+---
+
 # Teaching Mathematics
 
 Tags: [[teaching]], [[teacher-preparation]]
