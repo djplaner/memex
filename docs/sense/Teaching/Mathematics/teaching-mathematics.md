@@ -43,6 +43,10 @@ Notes related to the discipline of mathematics.
 - [[mathematical-structure]]
 - [[mathematics-conceptual-knowledge-for-teaching]]
 
+Resources
+
+- [AMSI TIMES modules](http://schools.amsi.org.au/times-modules/) - Australian Mathematical Sciences Institute's "the improving mathematics education in schools" (TIMES) modules
+
 ### Conceptions of mathematics
 
 - [Two types of mathematics teaching - instrumental and relational](instrumental-relational-mathematics.md) 

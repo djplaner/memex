@@ -1,18 +1,24 @@
 ---
 title: Surds - mathematical content knowledge
-type: content
+type: mathContent
 tags: teaching, mathematics, surd
 ---
 
 See also: [[mathematical-content-knowledge]], [[teaching-mathematics]]
 
-Numbers left as square (or other) roots because they/that give irrational numbers. A number that can't be written as a fraction. A number in decimal form that has no recurring pattern.
+Numbers left as square (or other) roots that have a decimal that goes on forever. i.e. they cannot be written as a fraction using integers.  i.e. they are irrational numbers.
 
 Any number of the form $\sqrt{a}$, which cannot be written as a fraction of two integers is called a #surd. There is no specific numeric value, at best approximations.
 
+!!! note "Surds used to be another name for _irrational_ numbers"
+
+    But now only applied to a _root_ that is _irrational_
+
+## Known surds
+
 - The [_Golden Ratio_](https://www.mathsisfun.com/numbers/nature-golden-ratio-fibonacci.html) is one of the earliest and most famous surds discovered by the Greeks (and perhaps others?)
 
-Related resources
+## Related resources
 
 - [AMSI module on SURDS](https://amsi.org.au/teacher_modules/Surds.html) **TODO** work through this
 - Third space learning lessons (online with MCQs)
@@ -63,7 +69,7 @@ Simplifying means trying to
 
 2. Reduce the number of square root signs.
 
-    By looking for _like_ surds.
+    By looking for _like_ surds. Perhaps by "factoring".
 
 3. Remove and surds on the denominator of a fraction.
 
