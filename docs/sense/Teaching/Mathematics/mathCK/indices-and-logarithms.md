@@ -49,7 +49,7 @@ The relationship between logarithms and powers is: $x = \log_a y$ if and only if
 
 Support $a > 0$
 
-1. $\log_a 1 = 0 and \log_a a = 1$
+1. \(\log_a 1 = 0\) and $\log_a a = 1$
 
     - log base $a$ of nothing is $0$
     - log base $a$ of $a$ is $1$
