@@ -27,7 +27,7 @@ A _quadratic_ is an expression of the form $ax^2 + bx + c$ where $a, b, c$ are c
 
 The _standard form_ of a _quadratic equation_ takes the form
 
-$$ax^2 + bx + c = 0, where $a, b, c$ are constants and $a \neq 0$$.
+$ax^2 + bx + c = 0,$ where $a, b, c$ are constants and $a \neq 0$$.
 
 The aim is to find the value of $x$ that makes the equation true. These are the _solutions_ to the equation. 
 
