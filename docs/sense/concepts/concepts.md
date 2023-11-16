@@ -39,7 +39,6 @@ Holding space
 [law-of-requisite-variety]: law-of-requisite-variety "Law of Requsite Variety"
 [law-of-requisite-complexity]: law-of-requisite-complexity "Law of Requisite Complexity"
 [forward-oriented-design]: forward-oriented-design "Forward-oriented design"
-[education 4.0]: <education 4.0> "Education 4.0"
 [sense/concepts/technology]: technology "Technology"
 [protean]: protean "Protean"
 [continuous-integration]: continuous-integration "Continuous Integration"

@@ -47,6 +47,7 @@ See also: [[teaching]]
 ### Learning programming
 
 - [Music blocks](https://www.sugarlabs.org/music-blocks/) - block based programming for music
+- [Croquet](https://croquet.io/docs/) - open source, distributed, real-time, collaborative, 3D application platform and multi-user metaverse -- possible environment
 
 ### Technical
 

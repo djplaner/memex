@@ -18,6 +18,7 @@ Mathematics and mathematics education in broader society.
 
 - [[teaching-mathematics-symptoms]] - reports of what's wrong with the teaching of mathematics
 - [[when-will-i-ever-use-mathematics]]
+- [Engineers Australia warning](https://www.news.com.au/finance/work/careers/engineers-australia-warns-prosperity-at-risk-from-declining-capacity/news-story/d0023495db67a814e02e45fa74ae066e) - late 2023 News.com.au story citing an [AMSI report](https://amsi.org.au/?publications=year-12-participation-in-calculus-based-mathematics-subjects-takes-a-dive) showing drop in students taking intermediate (24% drop) and higher (20% drop) mathematics between 2008 and 2023.
 
 ### Societal examples of mathematics
 
@@ -124,7 +125,7 @@ Characteristics of mathematical L&T activities
 
 teaching activities
 
-- [[number-talks]]
+- [[number-talks]] - see also [[number-talk-examples]]
 
 "games"
 
@@ -290,6 +291,7 @@ Boaler, J. (2015). Creating Mathematical Mindsets: The Importance of Flexibility
 [building-a-thinking-classroom]: building-a-thinking-classroom "Building a thinking classroom"
 [math-watch]: math-watch "Math Watch"
 [number-talks]: number-talks "Number talks"
+[number-talk-examples]: number-talks/number-talk-examples "Number talk examples"
 [reflective-mathematical-homework]: reflective-mathematical-homework "Reflective mathematical homework"
 [teaching-mathematics-software]: teaching-mathematics-software "Software for teaching mathematics"
 [mathematical-memes]: mathematical-memes "Mathematical Memes"

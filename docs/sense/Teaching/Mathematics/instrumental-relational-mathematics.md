@@ -1,5 +1,7 @@
 # Two types of teaching mathematics: instrumental and relational
 
+See also: [[teaching-mathematics]]
+
 Skemp (2006) describes two ways of [[teaching-mathematics]]: instrumental and relational. Linked to the two types of [[understanding]]. A relational understanding is perhaps an example of Boaler's idea of a [[mathematical-mindset]]
 
 - relational - knowing what to do and why
@@ -54,6 +56,8 @@ And situational factors
 4. The difficulty for teachers to restructure their existing and longstanding schemas
 
 ## References
+
+Richland, L. E., Stigler, J. W., & Holyoak, K. J. (2012). Teaching the Conceptual Structure of Mathematics. *Educational Psychologist*, *47*(3), 189--203. <https://doi.org/10.1080/00461520.2012.667065>
 
 Skemp, R. R. (2006). Relational Understanding and Instrumental Understanding. *Mathematics Teaching in the Middle School*, *12*(2), 88--95.
 

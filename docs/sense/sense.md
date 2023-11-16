@@ -73,7 +73,6 @@
 [research]: Research/research "Research"
 [society]: Society/society "Society"
 [conferences]: Conferences/conferences "Conferences"
-[loose]: loose "Loose notes"
 [paper-ideas]: Paper-Ideas/paper-ideas "Paper Ideas"
 [paper-summaries]: Paper-Summaries/paper-summaries "Paper Summaries"
 [recipes]: Recipes/recipes "Recipes"
