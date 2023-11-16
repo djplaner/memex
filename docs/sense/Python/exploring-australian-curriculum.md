@@ -97,6 +97,27 @@ Perhaps the very essence of gather/weave.
 
 Li et al (2019) identify three types of knowledge components that make up mathematics conceptual knowledge for teaching.  The second - being able to connect and justify the main points of a content topic, and to place it in wider contexts - is directly challenged by requiring conceptual knowledge that across different connected topics. - even suggesting it is the one with which students have the least familiarity.
 
+#### Promoting conceptual understanding
+
+Richland et al (2012) cite a meta-analysis by Hiebert and Grouws (2007) and findings that two broad features of instruction promote students' understanding of the conceptual structure of mathematics. Findings corroborated in the TIMSS video studies
+
+1. "treating mathematically connections in an explicit and public way"
+
+    > discussing the mathematical meaning underlying procedures, asking questions about how different solution strategies are similar to and different from each other, considering the ways in which mathematical problems build on each other or are special (or general) cases of each other, attending to the relationships among mathematical ideas, and reminding students about the main point of the lesson and how this point fits within the current sequence of lessons and ideas. (p. 384)
+
+2. _struggle_ - "students expend effort to make sense of mathematics, to figure out something that is not immediately apparent" (p. 387)
+
+The TIMSS video studies found that
+
+> It was neither the kinds of problems presented nor teaching style employed that differentiated the high-achieving countries from the others, but the kinds of learning opportunities teachers created for students, namely, making explicit connections in the lesson among mathematics procedures, problems, and concepts and finding ways to engage students in the kind of productive struggle that is required to understand these connections in a deep way. (Richland et al 2012)
+
+Richland et al (2012)
+
+- identify a research agenda for solutions to the problem of teaching the conceptual structure of mathematics. One of which is for research into PD strategies that explore "how to impact teacher routines, particularly in the area of supporting students' connected, transferable thinking" (p. 199) because it has "proven difficult" to do.
+- also report on research by Ma (1999) that found "U.S. teachers tended to represent the mathematics curriculum as linearly organized, whereas the Chinese teachers’ representations of the curriculum more closely resembled a web of connections" (p. 200) and suggest that greater understanding of teachers' knowledge of mathematics may aid in developing appropriate teaching practices etc.
+
+
+
 #### Connections within mathematical tasks
 
 The [[maths-in-schools]] course [provides](https://canvas.catalog.adelaide.edu.au/courses/1042/pages/mathematics-and-numeracy?module_item_id=15732) the following example of the inter-connectedness of mathematical tasks
@@ -155,6 +176,8 @@ Li, Y., Pang, J., Zhang, H., & Song, N. (2019). Mathematics Conceptual Knowledge
 Liljedahl, P. (2020). *Building Thinking Classrooms in Mathematics, Grades K-12: 14 Teaching Practices for Enhancing Learning*. Corwin Press. 
 
 On closing the divide between city and country students in Australia, we keep repeating past mistakes. (2023, September 10). *The Guardian*. <https://www.theguardian.com/australia-news/2023/sep/11/on-closing-the-divide-between-city-and-country-students-in-australia-we-keep-repeating-past-mistakes>
+
+Richland, L. E., Stigler, J. W., & Holyoak, K. J. (2012). Teaching the Conceptual Structure of Mathematics. *Educational Psychologist*, *47*(3), 189--203. <https://doi.org/10.1080/00461520.2012.667065>
 
 Roberts, P. (2023a, September 10). On closing the divide between city and country students in Australia, we keep repeating past mistakes. *The Guardian*. <https://www.theguardian.com/australia-news/2023/sep/11/on-closing-the-divide-between-city-and-country-students-in-australia-we-keep-repeating-past-mistakes>
 

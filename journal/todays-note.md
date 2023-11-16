@@ -24,6 +24,10 @@ Attempt to start a daily to do list as a way of working.
 - integrate active learning study into memex 
 - ditto ontologies and networks stuff
 
+Read 
+
+Richland, L. E., Stigler, J. W., & Holyoak, K. J. (2012). Teaching the Conceptual Structure of Mathematics. *Educational Psychologist*, *47*(3), 189--203. <https://doi.org/10.1080/00461520.2012.667065>
+
 Prep 
 
 - mathematical misconceptions
@@ -35,49 +39,19 @@ Prep
 - Group learning journal
 
 To do
-- 1002CCJ review for Jaana 
-  - Modify CSS style (eventually) to Include
-    - Can a single variable change design
-    - Support for accordions
-    - Support for colours for different modules
 
 - Learning journal - see [[performance-assessment]]
 
-- Migrate to central file store
-  - Refine and share deliverable for rubric checklist 
-  - Online Delivery in CCJ
-  - Math Bridging Course
-  - Pgrad international law
-  - Work through assessment uplift
-    - 1603LHS 
-    - 1710LHS 
-    - 1712LHS
-    - 2505LHS 
-    - 2506LHS
-    - 3203LHS
-    - COM101
-    - COM151
-    - 1252QCA
-
-- Bridging course 
-  - Do up course profile draft by Wed pm
-
 - Jeff
   - Include 2005CCJ in the principles document - link T3 OUA version
-  - Jaana more advice on "guided didactic conversation"
   - Do up sample conversions for 2005CCJ
   - do up principles document 
-    - Run by Marcus and Jeff
 
   -	How many students haven’t accessed the welcome module -- all but not straight forward to tell
   -	LTI for padlet instructions – aren’t quite clear - external tool - but not great integration
     [RMIT advice for how a bit better](https://bpb-ap-se2.wpmucdn.com/sites.rmit.edu.au/dist/5/239/files/2023/02/Padlet-User-Guide_Staff-2023_v1.pdf)
       - Can it be embedded?
-  - Map out three courses against CSDM
 
-
-Assessment uplift
-- Complete update of sharepoint library with other details
 
 Memex
 - [memex design](https://stephanango.com/tidyurl) or djon.es/blog template design
