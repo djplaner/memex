@@ -7,7 +7,7 @@ In particular, the aim here is to develop a web-based report on activity/contrib
 
 - [X] [Search for example graded discussion forum reports](#search-for-example-graded-discussion-forum-reports) - nothing apparent for the current purpose
 - [X] [What APIs required - REST/GraphQL](#what-apis-required---restgraphql) - using CanvasAPI in Python
-- [ ] Implement in Python - commenced `lj-report.py` in AEL-LT
+- [X] Implement in Python - commenced `lj-report.py` in AEL-LT
 - [ ] [Design the visuals for such a report](#design-the-visuals)
 
 ## Search for example graded discussion forum reports
@@ -69,12 +69,21 @@ Likely process
 
 Requirements
 
-- overview of graded discussion
-- summary of each group topic
-- links as appropriate, including titles of each group
+- overview of graded discussion (per graded discussion)
 
+  - # of groups (students)
+  - # of groups with student entries after staff reply
+  - # of student entries in journals, average, min, max
+  - # of staff entries per group: average, min, max
 
-Eventually use shoelace details, but just do a div for now
+- summary of each group topic (student)
+
+  - Name and link to the group topic
+  - # of posts by student, staff
+  - when the last post was for student's staff
+  - student photo and their profile
+
+### first design - cards - test case
 
 ```html
 <sl-card class="">
@@ -87,6 +96,27 @@ Eventually use shoelace details, but just do a div for now
   <p>Last post: student (date) staff <span class="late">(date)</p>
 </sl-card>
 ```
+
+### second design - move to tables
+
+- Two tables: Current and Withdrawn students
+- Common columns across tables and eventually widgets to enable selection, sorting etc
+- Looking at the Carbon Design System's [data table](https://web-components.carbondesignsystem.com/?path=%2Fdocs%2Fcomponents-datatable-filtering--default for implementation
+
+  - Name and link
+
+    Include small copy of image to start with
+  - Time since unanswered student post
+
+     - No student post (if none) 
+     - yellow/red for days since student post and reply
+
+  - Student 
+  - Entries
+
+    - use a details element with
+      - Heading is summary stats
+
 
 ```html 
 <sl-details>
