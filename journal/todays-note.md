@@ -54,6 +54,7 @@ To do
 
 
 Memex
+
 - [memex design](https://stephanango.com/tidyurl) or djon.es/blog template design
   - explore the link between RDF and neo4js: [one](https://neo4j.com/blog/neo4j-rdf-graph-database-reasoning-engine/), [two](https://teepika-r-m.medium.com/how-to-import-rdf-data-into-neo4j-68f051a3cfd5) - using [neosemantics](https://neo4j.com/labs/neosemantics/)
 

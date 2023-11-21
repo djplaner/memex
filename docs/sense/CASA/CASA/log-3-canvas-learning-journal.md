@@ -99,24 +99,29 @@ Requirements
 
 ### second design - move to tables
 
-- Two tables: Current and Withdrawn students
-- Common columns across tables and eventually widgets to enable selection, sorting etc
-- Looking at the Carbon Design System's [data table](https://web-components.carbondesignsystem.com/?path=%2Fdocs%2Fcomponents-datatable-filtering--default for implementation
+Using at the Carbon Design System's [data table](https://web-components.carbondesignsystem.com/?path=%2Fdocs%2Fcomponents-datatable-filtering--default) for implementation
 
-  - Name and link
+- Two tables
 
-    Include small copy of image to start with
-  - Time since unanswered student post
+  - [ ] sortable
+    - [ ] get sorting by date posted working
+  - [ ] Expandable
+    - [ ] add details of actual posts - in progress
+    - [ ] include profile image if availalbe
+    - [X] add batch expandable 
+  - Changes to both
+    - [ ] Improve design of tables: rows, spacing, width, font etc
+    - [ ] add column for staff response required
+    - [X] add column for withdrawn students
+      - Can they be filtered
 
-     - No student post (if none) 
-     - yellow/red for days since student post and reply
+- Summary
 
-  - Student 
-  - Entries
+  - [ ] style the summary
 
-    - use a details element with
-      - Heading is summary stats
+- General
 
+  - [ ] add tooltip help
 
 ```html 
 <sl-details>
