@@ -117,7 +117,8 @@ Using at the Carbon Design System's [data table](https://web-components.carbonde
 
 - Summary
 
-  - [ ] style the summary
+  - [x] two panels: tool and journal
+  - [x] style the summary
 
 - General
 
