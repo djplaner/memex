@@ -150,6 +150,7 @@ Yes, and also need to think about [the affordances](https://djplaner.github.io/m
 
 - 27 August 2023 - [[001-exploring-oz-dev-log]] - initial import v8.4, datasette
 - 24 September 2023 - [[002-exploring-oz-dev-log]] - importing v9, links with memex
+- 18 November 2023 - [[003-exploring-oz-dev-log]] - Experiments with [Neo4j](https://en.wikipedia.org/wiki/Neo4j)
 
 ## To do 
 
