@@ -19,6 +19,7 @@ See also: [[casa]], [[bricolage]], [[affordances]], [[conviviality]], [[distribu
 
   6. CASA are conceptualised and treated as contextual *assemblages*
 
+
 ## References
 
 Jones, D. (2018). [Exploring knowledge reuse in design for digital learning: tweaks, H5P, constructive templates and CASA](https://djon.es/blog/2019/08/08/exploring-knowledge-reuse-in-design-for-digital-learning-tweaks-h5p-constructive-templates-and-casa/). In Y. W. Chew, K. M. Chan, and A. Alphonso (Eds.), Personalised Learning. Diverse Goals. One Heart. ASCILITE 2019 Singapore (pp. 139-148). 
