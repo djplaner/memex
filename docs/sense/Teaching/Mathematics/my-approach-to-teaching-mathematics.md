@@ -65,10 +65,32 @@ The vague idea is to develop a small collection of common activity types - relat
 
 A nascent list
 
-- math expectations - set, model, reinforce expectations
+- [math expectations](#math-expectations) - set, model, reinforce expectations
 - math warm ups - what to do on entry?
 - [[math-connections-activity-type]] - help students see connections within and outside of mathematics
 - rich math tasks - need a better name for this
+- math practice
+- [homework](#homework) focused on reflection, conceptual understanding, connections etc (not procedural)
+
+Underpinning all are perhaps ideas like
+
+- Encouraging a [[mathematical-mindset]]
+- Building all of: computation/procedural skills; conceptual understanding; and, problem solving. -- move beyond repetition of procedures
+
+### Math expectations
+
+Purpose to reinforce the type of mindset/perception of students and mathematics
+
+- growth mindset stuff
+- sense of belonging in mathematics (Good, Rattan & Dweck, 2012)
+
+### Homework
+
+One of Boaler's suggestions
+
+- What was the main idea you learned today?
+- What is something you are struggling with or have questions about?
+- How could the ideas from today's lesson be used in life?
 
 ## References
 
