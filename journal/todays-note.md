@@ -41,6 +41,9 @@ Prep
 To do
 
 - Learning journal - see [[performance-assessment]]
+- LLM/ChatGPT explorations
+
+  - [Math Worksheet creator](https://chat.openai.com/g/g-ZEXukr2ci-math-worksheet-creator) ([tweet](https://twitter.com/aneesha/status/1728618172159496339))
 
 - Jeff
   - Include 2005CCJ in the principles document - link T3 OUA version
