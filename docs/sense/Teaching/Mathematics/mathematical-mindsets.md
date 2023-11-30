@@ -51,6 +51,14 @@ Boaler, J. (2015). Mathematical Mindsets: Unleashing Students’ Potential Throu
         - PISA (2015) found "homework perpetuates inequalities in education"
         - Numerous other issues
 7. From tracking to growth mindset grouping
+
+    - "Opportunity to learn" key factor in student achievement
+    - more access to high-level mathematics means higher achievement
+    - tracking seen as greatest reinforcement of fixed mindsets
+    - tracking can be seen as being helpful for teachers in being able to deliver learning experiences at the right level, but this argument ignores the fact that even in similarly tracked classes there is a wide range of abilities/needs
+    - Focus of this chapter is on modern/effective forms of grouping
+    - Growth mindset grouping
+
 8. Assessment for a growth mindset
 9. Teaching mathematics for a growth mindset
 
@@ -69,6 +77,7 @@ Boaler, J. (2015). Mathematical Mindsets: Unleashing Students’ Potential Throu
 - Silver (1994) - give students opportunities to pose mathematical problems, to consider a situation and think of mathematical questions to ask - the essence of real math - they become more engaged and perform at a higher level
 - Boaler (2015a) - What's math got to do with it - describes a classroom approach based on posing mathematical questions
 - Schwartz & Bransford (1998) - comparison of three ways of teaching mathematics - related to [[productive-failure]]
+- Wang, 1998; Elmore & Fuhrman, 1995 - OTL most important condition for learning
 
 - Good, Rattan & Dweck (2012) - studetns sense of belonging in math
 
