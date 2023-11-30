@@ -136,6 +136,7 @@ Given a _courseId_ and a _groupSetId_ generate a learning journal report for all
 - [X] Highlight the first response tab
 - [X] Implement DATA-GROUPS
 - [ ] add in date of last post (from students)
+   Started work in the view -- need to align the code for unanswered and date last post
 
   - [X] displayPromptPanel
 
