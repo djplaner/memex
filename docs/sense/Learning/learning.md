@@ -17,6 +17,7 @@
 
 - [[learning-science-at-khan-academy]]
 - [[self-regulated-learning]]
+- [[brain-plasticity]]
 
 ## Learning Research
 
