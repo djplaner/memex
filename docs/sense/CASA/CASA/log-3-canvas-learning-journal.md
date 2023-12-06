@@ -114,7 +114,7 @@ Original design was using two tables - expandable and sortable. Have since moved
 - [X] add tooltip help - **won't do**
 - [X] Fix the _enrolled_ field - not working
 - [X] add course name and link to title
-- [ ] If/how to add a relevant link to the quick grader
+- [X] If/how to add a relevant link to the quick grader
 
   - speed grader URL BASE_URL/courses/<courseId>/gradebook/speed_grader?assignment_id=<assignId>45047&student_id=<studentId>59817
 
@@ -135,7 +135,7 @@ Given a _courseId_ and a _groupSetId_ generate a learning journal report for all
 - [X] Fix num_groups
 - [X] Highlight the first response tab
 - [X] Implement DATA-GROUPS
-- [ ] add in date of last post (from students)
+- [X] add in date of last post (from students)
    Started work in the view -- need to align the code for unanswered and date last post
 
   - [X] displayPromptPanel
@@ -154,14 +154,20 @@ Style
 
 Testing
 
-- [ ] Test with multiple graded discussions
+- [X] Test with multiple graded discussions
 
-  - https://canvas.instructure.com
-  - courseId 7446794
-  - group set 286165
+  - https://canvas.instructure.com courseId 7446794 group set 286165
+  - working, but not sure if model/view is excluding groups that don't belong to it.
+    - From the view it appears it is getting prompt_topics that don't belong to the response
+    - View is 
+      - for prompt in self.learningJournal.prompts
+        - for response in prompt['response'] 
+    - Model::getResponse is looping though groupTopics, perhaps not only including those relevant to the current group
+      - does prompt_topic contain the prompt.assignment.discussion_topic.id 19950852
 
 Finishing
 
+- [ ] fix base URL
 - [ ] Update and improve the help
 - [ ] Write some final documentation
 
