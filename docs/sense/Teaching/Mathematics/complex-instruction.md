@@ -29,7 +29,7 @@ Cited by Boaler (see [[mathematical-mindsets]]) which may well be an outgrowth/i
 
     - Assigning competence to low-status students
       - Public statement recognising competence of individuals
-      - postiive evaluation
+      - positive evaluation
 
 
 

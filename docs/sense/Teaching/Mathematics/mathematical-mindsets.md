@@ -12,74 +12,91 @@ Boaler, J. (2015). Mathematical Mindsets: Unleashing Students’ Potential Throu
 
 ## Chapter list
 
-1. The brain and mathematics learning
-2. The power of mistakes and struggle
+### 1. The brain and mathematics learning
 
-    - Find ways to celebrate mistakes
-    - Highlight/value conceptual mistakes, rather than numerical errors
-    - Abandon testing and grading as much as possible - being marked down for mistakes has consequences
-3. The creativity and beauty of mathematics
+### 2. The power of mistakes and struggle
 
-    - What do students see as their role in a mathematics class?
-        - Mostly it's a solver of problems.  Rather than being there to appreciate the beauty of maths, ask deep questions, explore rich connections, learn about the applicability of the subject.
-4. Creating mathematical mindsets: The importance of flexibility with numbers
+- Find ways to celebrate mistakes
+- Highlight/value conceptual mistakes, rather than numerical errors
+- Abandon testing and grading as much as possible - being marked down for mistakes has consequences
 
-    - Repetitive and simple ideas (common mathematical teaching approach) fail to move students into disequilibrium - part of learning
-5. Rich Mathematical Tasks
+### 3. The creativity and beauty of mathematics
 
-    Provides numerous examples and then moves onto offering 6 questions to ask about a mathematics learning task that will help transform them into [[rich-mathematical-tasks]]
-6. Mathematics and the path to equity
+- What do students see as their role in a mathematics class?
+    - Mostly it's a solver of problems.  Rather than being there to appreciate the beauty of maths, ask deep questions, explore rich connections, learn about the applicability of the subject.
 
-    - Mathematics (in the US) has the largest achievement differences due to ethnicity, gender and socio-economic levels.
-    - Argues that the push for mathematics as a "performance subject" and an elitist take
-    - A view that reinforces the fixed mindset view (you are good at math or not) rather than growth (valuing effort and learning)
-    - Choices about who proceeds into "higher" math in high school also influences outcomes, and in turn is influenced by perceptions of "good" students (no disciplin problems, homework in on time)
-    - Parents equating "procedural skill" with capability, but ignoring conceptual understanding and problem solving
-    - Need to move mathematics from an "elitist, performance subject used to rank and sort students (and teachers) to an open, learning subject"
-    - Equitable strategies
-        - Offer all students high-level content
-        - Work to change ideas about who can achieve in mathematics
-        - Encourage students to think deeply about mathematics
+### 4. Creating mathematical mindsets: The importance of flexibility with numbers
 
-            Makes the case for mathematics as a "connected, inquiry-based subject" for addressing inequalities and increasing achievement.
-        - Teach student to work together
+- Repetitive and simple ideas (common mathematical teaching approach) fail to move students into disequilibrium - part of learning
 
-            Research showing that working on mathematics collaboratively helps to make connections etc.
-        - Give girls and students of color additional encouragement to learn math and science 
-    - Eliminate (or at least change the nature of) homework
+### 5. Rich Mathematical Tasks
 
-        - PISA (2015) found "homework perpetuates inequalities in education"
-        - Numerous other issues
-7. From tracking to growth mindset grouping
+Provides numerous examples and then moves onto offering 6 questions to ask about a mathematics learning task that will help transform them into [[rich-mathematical-tasks]]
 
-    - "Opportunity to learn" key factor in student achievement
-    - more access to high-level mathematics means higher achievement
-    - tracking seen as greatest reinforcement of fixed mindsets
-    - tracking can be seen as being helpful for teachers in being able to deliver learning experiences at the right level, but this argument ignores the fact that even in similarly tracked classes there is a wide range of abilities/needs
-    - Focus of this chapter is on modern/effective forms of grouping
-    - Growth mindset grouping - i.e. basically heterogenous grouping
-    - Teaching heterogeneous groups effectively: the mathematics tasks
+### 6. Mathematics and the path to equity
 
-        "It is not enough to de-track and then teach through narrow mathematics questions that will be accessible to only a few students"
-        - Providing open-ended tasks - i.e. [[low-floor-high-ceiling-wide-walls#Mathematics]] 
+- Mathematics (in the US) has the largest achievement differences due to ethnicity, gender and socio-economic levels.
+- Argues that the push for mathematics as a "performance subject" and an elitist take
+- A view that reinforces the fixed mindset view (you are good at math or not) rather than growth (valuing effort and learning)
+- Choices about who proceeds into "higher" math in high school also influences outcomes, and in turn is influenced by perceptions of "good" students (no disciplin problems, homework in on time)
+- Parents equating "procedural skill" with capability, but ignoring conceptual understanding and problem solving
+- Need to move mathematics from an "elitist, performance subject used to rank and sort students (and teachers) to an open, learning subject"
+- Equitable strategies
 
-            Point is made that the teacher will engage in explicit teaching, but in response to student working through of the open-ended task. Echoing Fry and Hillman (2018)
+    - Offer all students high-level content
+    - Work to change ideas about who can achieve in mathematics
+    - Encourage students to think deeply about mathematics
+        Makes the case for mathematics as a "connected, inquiry-based subject" for addressing inequalities and increasing achievement.
 
-        - Offering a choice of tasks
+    - Teach student to work together
+        Research showing that working on mathematics collaboratively helps to make connections etc.
 
-            Where task explained as "going to different places", rather than easy/difficult.
+    - Give girls and students of color additional encouragement to learn math and science 
+- Eliminate (or at least change the nature of) homework
 
-        - Individualised pathways
+    - PISA (2015) found "homework perpetuates inequalities in education"
+    - Numerous other issues
 
-            Mentions the [[SMILE]] cards from the UK.
+### 7. From tracking to growth mindset grouping
 
-        - Teaching heterogeneous groups effectively: complex instruction
+- "Opportunity to learn" key factor in student achievement
+- more access to high-level mathematics means higher achievement
+- tracking seen as greatest reinforcement of fixed mindsets
+- tracking can be seen as being helpful for teachers in being able to deliver learning experiences at the right level, but this argument ignores the fact that even in similarly tracked classes there is a wide range of abilities/needs
+- Focus of this chapter is on modern/effective forms of grouping
+- Growth mindset grouping - i.e. basically heterogenous grouping
+- Teaching heterogeneous groups effectively: the mathematics tasks
 
+    "It is not enough to de-track and then teach through narrow mathematics questions that will be accessible to only a few students"
+    - Providing open-ended tasks - i.e. [[low-floor-high-ceiling-wide-walls#Mathematics]] 
+
+        Point is made that the teacher will engage in explicit teaching, but in response to student working through of the open-ended task. Echoing Fry and Hillman (2018)
+
+    - Offering a choice of tasks
+
+        Where task explained as "going to different places", rather than easy/difficult.
+
+    - Individualised pathways
+
+        Mentions the [[SMILE]] cards from the UK.
+
+    - Teaching heterogeneous groups effectively: complex instruction
            
-           "... group work in classrooms can fail when students participate unequally in groups". With perceived status of participants being an issue.  Cohen and Lotan developed [[complex-instruction]]
+       "... group work in classrooms can fail when students participate unequally in groups". With perceived status of participants being an issue.  Cohen and Lotan developed [[complex-instruction]]
 
-8. Assessment for a growth mindset
-9. Teaching mathematics for a growth mindset
+- Railside approach
+
+    - Multidimensionality
+
+        - Typical math class has 1 dimension - "executing procedures correctly" - one way to be successful
+        - Need to encourage engagement in "all the ways to be mathematical": ask good questions; propose ideas; connect different methods; use many different representations; reason through different pathways...
+    - Roles
+    - Assigning competence
+    - Shared student responsibility
+
+### 8. Assessment for a growth mindset
+
+### 9. Teaching mathematics for a growth mindset
 
 
 
@@ -120,5 +137,6 @@ Fry, K., & Hillman, J. (2018). The Explicitness of Teaching in Guided Inquiry. I
 [rich-mathematical-tasks]: rich-mathematical-tasks "Rich mathematical tasks"
 [low-floor-high-ceiling-wide-walls#Mathematics]: ../low-floor-high-ceiling-wide-walls "Low Floor, High Ceiling, Wide Walls"
 [SMILE]: smile "SMILE"
+[complex-instruction]: complex-instruction "Complex instruction"
 [productive-failure]: productive-failure "Productive Failure"
 [//end]: # "Autogenerated link references"
