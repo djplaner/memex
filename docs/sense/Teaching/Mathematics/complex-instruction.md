@@ -27,6 +27,11 @@ Cited by Boaler (see [[mathematical-mindsets]]) which may well be an outgrowth/i
       - naming the different abilities required
       - create a mixed set of expectations for each student - they are strong/weak on different skills
 
+    - Assigning competence to low-status students
+      - Public statement recognising competence of individuals
+      - postiive evaluation
+
+
 
 
 ## Group Tasks for Complex Instruction
