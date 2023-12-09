@@ -10,7 +10,11 @@ Apparently arising from ideas of Black and Wiliam (2009) aound formative learnin
 
 > Practice in a classroom is formative to the extent that evidence about student achievement is elicited, interpreted, and used by teachers, learners, or their peers, to make decisions about the next steps in instruction that are likely to be better, or better founded, than the decisions they would have taken in the absence of the evidence that was elicited. (Black & Wiliam, 2009, p. 9)
 
-## Activity types for formative assessemtn
+Boaler (2015) describes it as 
+
+> students become knowledgeable about what they know, what they need to know, and ways to close the gap between the two. Students are given information about their flexible and growing learning pathways that contributes to their development of a growth mathematics mindset
+
+## Activity types for formative assessment
 
 Black & Wiliam (2009) identify five practices suggested by evidence
 
@@ -28,6 +32,8 @@ Black & Wiliam (2009) identify five practices suggested by evidence
 ## References
 
 Black, P., & Wiliam, D. (2009). Developing the theory of formative assessment. *Educational Assessment, Evaluation and Accountability(Formerly: Journal of Personnel Evaluation in Education)*, *21*(1), 5--31. <https://doi.org/10.1007/s11092-008-9068-5>
+
+Boaler, J. (2015). Mathematical Mindsets: Unleashing Students’ Potential Through Creative Math, Inspiring Messages and Innovative Teaching. John Wiley & Sons, Incorporated.
 
 Wiliam, D. (2011). What is assessment for learning? *Studies In Educational Evaluation*, *37*(1), 3--14. <https://doi.org/10.1016/j.stueduc.2011.03.001>
 
