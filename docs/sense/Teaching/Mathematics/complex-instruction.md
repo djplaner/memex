@@ -32,6 +32,32 @@ Cited by Boaler (see [[mathematical-mindsets]]) which may well be an outgrowth/i
       - positive evaluation
 
 
+## Methods
+
+### Random assignment of groups and roles
+
+Group roles and allocations are done randomly.  Every few weeks students change groups and roles. Teacher emphasises different roles during classes and reminding facilitators
+
+<figure markdown>
+![](images/randomAssignmentComplexInstruction.png)
+<caption>Example chart outlining random allocation of groups and roles (adapted from Boaler, 2015)</caption>
+</figure>
+
+### Roles
+
+| Role |  Description |
+| ---- |  ----------- |
+| Facilitator | Ensure all group reads the problem. Keep group together. Ensure all are heard. Prompt contributions (different ways of seeing, ready to move on). Ensure everyone can explain. |
+| Recorder/Reporter | Ensure group organises results including showing ideas from all, multiple representations. Also need to be ready to join the teacher for a huddle. |
+| Resource Manager | Get materials for the team. Make sure all questions are team questions. Call the teacher when done (and perhaps for questions).  |
+| Team Captain | Remind the team to find reasons for each mathematical statement, search for connections. Not talking outside group |
+
+| Role | Description | 
+| --- | --- |
+| Organiser | Keep the group together and focused on the problem, no talking outside the group |
+| Resourcer | Only person that can get resources, make sure everyone is ready before you call the teacher |
+| Understander | Make sure all ideas are explained for understanding for all in group; encourage idea generators to explain if any don't; write down important parts of explanations |
+| Includer | Make sure everyone's ideas are listened to; invite other people to make suggestions |
 
 
 ## Group Tasks for Complex Instruction
@@ -44,6 +70,8 @@ Summarised from (Cohen et al, 1999)
 - tasks require multiple different types of abilities to allow students' diverse capabilities to shine
 
 ## References
+
+Boaler, J. (2015). Creating Mathematical Mindsets: The Importance of Flexibility with Numbers. In *Mathematical Mindsets: Unleashing Students' Potential Through Creative Math, Inspiring Messages and Innovative Teaching* (pp. 33--56). John Wiley & Sons, Incorporated.
 
 Cohen, E. G., Lotan, R. A., Scarloss, B. A., & Arellano, A. R. (1999). Complex Instruction: Equity in Cooperative Learning Classrooms. Theory Into Practice, 38(2), 80–86.
 
