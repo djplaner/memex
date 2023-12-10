@@ -150,7 +150,7 @@ Most powerful learners are: reflective, engage in metacognition; and take contro
 
 In mathematics classes students often don't know what area of mathematics they're working on.
 
-Nine strategies for "encouraging students to become more aware of the the mathematics they are learning and their place in the learning process"
+Nine strategies for "encouraging students to become more aware of the the mathematics they are learning and their place in the learning process" i.e. the first two parts of the 3-part [[assessment-for-learning]] process.
 
 1. Self-assessment
 
@@ -188,7 +188,111 @@ Nine strategies for "encouraging students to become more aware of the the mathem
 
 #### Diagnostic comments
 
+i.e. helps students understand how to close the gap between where they are and what the need to be.
+
+Main story is about a teacher who eventually stopped grading entirely and focused on diagnostic feedback and using a "rubric" focused on multi-dimensional mathematical activities (perserve - ask questions; reason; justify...) and completion.
+
+#### Advice on grading
+
+1. Always allow students to resubmit any work or test for a higher grade.
+2. Share grades with school administrators but not with the students.
+3. Use multidimensional grading.
+4. Do not use 100-point scale. (One alternative is to use 4-point scale)
+5. Do not include early assignments from math class in the end-of-class grade.
+6. Do not include homework, if given, as any part of grading
+
 ### 9. Teaching mathematics for a growth mindset
+
+A summary of the book
+
+- [Encourage all students](#encourage-all-students)
+- [Believe in all of your students](#believe-in-all-of-your-students)
+- [Give growth praise and help](#give-growth-praise-and-help)
+- [Opening mathematics](#opening-mathematics)
+
+
+#### Encourage all students
+
+##### Norms
+
+Both teacher and student have opportunity to establish norms. Students in groups identify what they do and do not appreciate in terms of behviour from other students.
+
+Suggested norms to promote
+
+1. Everyone Can Learn Math to the Highest Levels.
+
+    Encourage students to believe in themselves. There is no such thing as a “math person.” Everyone can reach the highest levels they want to, with hard work.
+
+2. Mistakes Are Valuable.
+
+    Mistakes grow your brain! It is good to struggle and make mistakes.
+
+3. Everyone Can Learn Math to the Highest Levels.
+
+    Encourage students to believe in themselves. There is no such thing as a “math person.” Everyone can reach the highest levels they want to, with hard work.
+
+4. Mistakes Are Valuable.
+
+    Mistakes grow your brain! It is good to struggle and make mistakes.
+
+5. Math Is about Connections and Communicating.
+
+    Math is a connected subject, and a form of communication. Represent math in different forms—such as words, a picture, a graph, an equation—and link them. Color code!
+
+6. Depth Is Much More Important Than Speed.
+
+    Top mathematicians, such as Laurent Schwartz, think slowly and deeply.
+
+7. Math Class Is about Learning, Not Performing.
+
+    Math is a growth subject; it takes time to learn, and it is all about effort.
+
+##### Participation quiz
+
+For encouraging good group work.  [[complex-instruction]] suggests that participation quiz be graded. Graded at the group level. Helping reinforce to students behaviour/participation in group work is important and the nature of the expected work.
+
+For a given group task
+
+1. Show the ways of working you value
+2. Students start working
+3. Teacher circulates observing and writing down comments
+
+    Take notes, quote student works (when noteworthy)
+
+4. Assign the groups a grade, or give feedback without the grade
+
+See also: [PQuiz page on MindsetKit](https://www.mindsetkit.org/practices/SLExP9nDzTictvnb)
+
+#### Believe in all your students
+
+Cohen & Garcia (2014) - 1 experience/message (I am giving you this feedback because I believe in you) can change everything for students
+
+Grasping mathematical concepts quickly is not indicative of mathematical ability.
+
+#### Give growth praise and help
+
+Standard stuff about praise, but also focused on help
+
+Help should not remove the cognitive difficulty from a task. Rather than breaking the problem down for students, help restate/revisualise the problem in a different way.
+
+One teacher responses with a question "Do you want my brain to grow, or your brain to grow?"
+
+#### Opening mathematics
+
+##### Teaching math as an open, growth, learning subject
+
+Narrow, procedural questions require students to perform a calculation. Are right or wrong. Are closed, fixed. Some are reasonable. But should be the minority.
+
+Design activities that provide students the opportunity to explore, create and grow.
+
+1. Rule doesn't matter, make sense of your answer, explain why your solution _makes sense_
+
+    e.g. for questions like $$1 \div \frac{2}{3} = $$
+
+2. Find all the ways you can represent an algebraic expression
+
+    e.g. $$\frac{1}{3} (2x + 15) + 8 $$
+
 
 
 
@@ -196,7 +300,7 @@ Nine strategies for "encouraging students to become more aware of the the mathem
 
 ### Resources
 
-- [MindSetKit](https://www.mindsetkit.org/)
+- [MindSetKit](https://www.mindsetkit.org/) free set of online lessons and practices
 
 ### Teaching and impact
 
@@ -224,6 +328,8 @@ Nine strategies for "encouraging students to become more aware of the the mathem
 ### Assessment
 
 - Pulfrey, Buchs, and Butera (2011) replication of study on impact of assessment feedback as: grades, diagnostic comment, or both. Grades always negative
+- Reeves (2006) non-mathematical nature of US-based 100% scales
+- Need much more on making diagnostic comments/feedback
 
 Not quite
 - Gustein, Lipman, Hernandez & de los Reyes (1997) - curriculum designed to raise issues of gender, culture or class
