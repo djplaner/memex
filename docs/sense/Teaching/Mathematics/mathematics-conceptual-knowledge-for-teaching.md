@@ -11,11 +11,12 @@ Li et al (2019) define MCKT as key to helping students learn with understanding 
 And it consisting of three topic-based knowledge components.
 
 | Component | Description |
+| --- | --- |
 | 1. K&S directly associated with a specific content topic | common CK which students will learn |
 | 2. Ability to connect and justify the main points of a content topic, and to place it in wider contexts | place the content topic in the broader knowledge structure | 
 | 3. Knowing and being able to use various representations for teaching the content topic and being able to teach the relations between them | Mainly to pedagogical aspects of the topic |
 
-#2 is problematic for some of the same reasons raised around [[exploring-australian-curriculum]]. It is also seen as the one with which PSTs are least familiar.
+The second component is problematic for some of the same reasons raised around [[exploring-australian-curriculum]]. It is also seen as the one with which PSTs are least familiar.
 
 > More often than not, (2) is presented as great challenges to prospective and practicing teachers as it often requires conceptual understanding across different content topics that are connected.
 

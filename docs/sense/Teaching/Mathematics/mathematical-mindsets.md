@@ -8,7 +8,6 @@ Following are rough notes from reading
 
 Boaler, J. (2015). Mathematical Mindsets: Unleashing Students’ Potential Through Creative Math, Inspiring Messages and Innovative Teaching. John Wiley & Sons, Incorporated.
 
-> this books is about the creation of _mathematical mindsets_ through a new kind of teaching and parenting that is, at its heart, about growth, innovation, creativity, and the fulfillment of mathematics potential.
 
 ## Chapter list
 
@@ -287,11 +286,11 @@ Design activities that provide students the opportunity to explore, create and g
 
 1. Rule doesn't matter, make sense of your answer, explain why your solution _makes sense_
 
-    e.g. for questions like $$1 \div \frac{2}{3} = $$
+    e.g. for questions like $1 \div \dfrac{2}{3} = $
 
 2. Find all the ways you can represent an algebraic expression
 
-    e.g. $$\frac{1}{3} (2x + 15) + 8 $$
+    e.g. $\dfrac{1}{3} (2x + 15) + 8 $
 
 ##### Encourage students to be mathematicians
 
