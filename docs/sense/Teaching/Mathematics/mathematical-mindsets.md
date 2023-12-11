@@ -293,7 +293,51 @@ Design activities that provide students the opportunity to explore, create and g
 
     e.g. $$\frac{1}{3} (2x + 15) + 8 $$
 
+##### Encourage students to be mathematicians
 
+They see math as creative, beautiful and aesthetic.
+
+Encourage students/class to work on conjectures, reasoning and proof.
+
+##### Teach mathematics as a subject of patterns and connections
+
+> Mathematics is all about the study of patterns
+
+Mathematical methods are teaching a pattern - something that happens all of the time. it is general.
+
+> mathematics is the classification and study of all possible patterns - W. W. Sawyer (1955, p. 12)
+
+- Encourage students to use different methods; make connections between methods; discuss connections
+
+##### Teach creative and visual mathematics
+
+- color coding: geometry, fractions, algebra, and division
+
+##### Encourage intuition and freedom of thought
+
+Ask students what they think might work.
+
+##### Value depth over speed
+
+In lessons/questioning
+
+- avoid procedural questions - with a single possible answer
+- work to challenge conceptual understanding through statements where the students respond with conjectures and reasons
+
+##### Connect mathematics to the world using mathematical modelling
+
+- Avoid "pseudo contexts" - fake real world problems
+- Use mathematics that model the world (and exist in it)
+- Recognise that some mathematics is without a real world context.
+- use real data and situations
+
+##### Encourage students to pose questions, reason, justify and be skeptical
+
+- Gives example of a "We wonder/want to investigate" handout
+
+##### Teach with cool technology and manipulatives
+
+- e.g. [Tap Tap Blocks](https://apps.apple.com/au/app/taptapblocks/id433121899)
 
 
 ## To follow up
@@ -304,35 +348,40 @@ Design activities that provide students the opportunity to explore, create and g
 
 ### Teaching and impact
 
-- Cohen & Garcia (2014) - 1 experience/message can change everything for students
+- [x] Cohen & Garcia (2014) - 1 experience/message can change everything for students
 - Beilock, Gunderson, Ramirez & Levine (2009) - primary school teachers' negative emotions on math predict achievements of girls in their classes, not boys
-- Silver (1994) - give students opportunities to pose mathematical problems, to consider a situation and think of mathematical questions to ask - the essence of real math - they become more engaged and perform at a higher level
+- [x] Silver (1994) - give students opportunities to pose mathematical problems, to consider a situation and think of mathematical questions to ask - the essence of real math - they become more engaged and perform at a higher level
 - Boaler (2015a) - What's math got to do with it - describes a classroom approach based on posing mathematical questions
-- Schwartz & Bransford (1998) - comparison of three ways of teaching mathematics - related to [[productive-failure]]
+- [x] Schwartz & Bransford (1998) - comparison of three ways of teaching mathematics - related to [[productive-failure]]
 - Wang, 1998; Elmore & Fuhrman, 1995 - OTL most important condition for learning
 
-- Good, Rattan & Dweck (2012) - studetns sense of belonging in math
+- [x] Good, Rattan & Dweck (2012) - studetns sense of belonging in math
 
 ### Value of mathematics
 
-- Rose & Betts (2004) and Boaler (2005) - more math classes == higher earnings 10 years later - as much as 19.5%
+- [x] Rose & Betts (2004) and Boaler (2005) - more math classes == higher earnings 10 years later - as much as 19.5%
 - In the US the high school maths courses done from year 9 influence what people do for the rest of their life, is this the case in Australia?
 
 ### Rich tasks
 
-- Horn 2005 - 
+- [x] Horn 2005 - 
 - https://nrich.maths.org
 - Nasir et al (2014) Railside activities?
-- (Picciotto, 1995) - physical manipulative for algebraic understanding
+- [x] (Picciotto, 1995) - physical manipulative for algebraic understanding
+- [x] (Ball, 1993) on conjectures, reasoning and proof
+
+Visuals
+
+- [x] division quilt (Lupton, Pratt, and Richardson, 2014)
 
 ### Assessment
 
-- Pulfrey, Buchs, and Butera (2011) replication of study on impact of assessment feedback as: grades, diagnostic comment, or both. Grades always negative
+- [x] Pulfrey, Buchs, and Butera (2011) replication of study on impact of assessment feedback as: grades, diagnostic comment, or both. Grades always negative
 - Reeves (2006) non-mathematical nature of US-based 100% scales
 - Need much more on making diagnostic comments/feedback
 
 Not quite
-- Gustein, Lipman, Hernandez & de los Reyes (1997) - curriculum designed to raise issues of gender, culture or class
+- [x] Gustein, Lipman, Hernandez & de los Reyes (1997) - curriculum designed to raise issues of gender, culture or class
 
 ### What is mathematics
 
@@ -342,11 +391,13 @@ Not quite
 
 ### Misc
 
-- Boaler (2008) - concept of _relational_ equity
+- [x] Boaler (2008) - concept of _relational_ equity
 
 ## References
 
 Fry, K., & Hillman, J. (2018). The Explicitness of Teaching in Guided Inquiry. In *Mathematics Education Research Group of Australasia*. Mathematics Education Research Group of Australasia. <https://eric.ed.gov/?id=ED592484>
+
+Sawyer, W. W. (1955). *Prelude to Mathematics*. Penguin Books. 
 
 [//begin]: # "Autogenerated link references for markdown compatibility"
 [mathematical-mindset]: mathematical-mindset "Mathematical Mindset"
