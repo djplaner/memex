@@ -4,6 +4,8 @@ See also: [[teaching-mathematics]]
 
 ## Why is it asked?
 
+- Struggling with current specific mathematics - as suggested by Mason (see below)
+
 ## Methods for answering
 
 - Show how it is used.

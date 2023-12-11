@@ -23,6 +23,7 @@ Mathematics and mathematics education in broader society.
 ### Societal examples of mathematics
 
 - [[poverty-premium]]
+- [[shinkflation]]
 
 ## Philosophy
 
@@ -253,6 +254,7 @@ Boaler, J. (2015). Creating Mathematical Mindsets: The Importance of Flexibility
 [teaching-mathematics-symptoms]: teaching-mathematics-symptoms "Symptoms of the state of mathematics teaching"
 [when-will-i-ever-use-mathematics]: when-will-i-ever-use-mathematics "When will I ever use mathematics"
 [poverty-premium]: poverty-premium "Poverty Premium"
+[shinkflation]: shinkflation "Shrinkflation"
 [real-work-versus-real-world]: real-work-versus-real-world "Real work versus Real world"
 [what-is-mathematics]: what-is-mathematics "What is mathematics"
 [understanding-mathematics]: understanding-mathematics "Understanding Mathematics"
@@ -291,7 +293,6 @@ Boaler, J. (2015). Creating Mathematical Mindsets: The Importance of Flexibility
 [building-a-thinking-classroom]: building-a-thinking-classroom "Building a thinking classroom"
 [math-watch]: math-watch "Math Watch"
 [number-talks]: number-talks "Number talks"
-[number-talk-examples]: number-talks/number-talk-examples "Number talk examples"
 [reflective-mathematical-homework]: reflective-mathematical-homework "Reflective mathematical homework"
 [teaching-mathematics-software]: teaching-mathematics-software "Software for teaching mathematics"
 [mathematical-memes]: mathematical-memes "Mathematical Memes"
