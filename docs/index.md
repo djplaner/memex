@@ -15,26 +15,38 @@
  along with this program.  If not, see <http://www.gnu.org/licenses/>.
 -->
 
-# David's personal memex
+# A personal Memex
 
-An on-going experiment in creating and leveraging a personal memex using [Foam](https://foambubble.github.io/). The [[colophon]] offers some background on rationale and design.
+<div class="grid cards" markdown>
 
-Initially organised around a three step process (from [the Seek, Sense, Share Framework](https://jarche.com/2014/02/the-seek-sense-share-framework/)), but playing with other structures.
+- __About__
 
-| PKM Phase | Description |
-| --- | --- | 
-| [[seek]] | Very incomplete thinking about how and what I try to seek out to include here. |
-| [[sense]] | The main collection of inter-connected "notes", ideas and other rambles |
-| [[share]] | Collection of pointers to the more polished artefacts I've produced |
+    ---
 
-!!! info "Slowly integrating _Material for MkDocs_"
-
-    The memex is slowly being migrated to use [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/). 
+    An on-going experiment in creating and leveraging a personal [Memex](https://en.wikipedia.org/wiki/Memex) using [Foam](https://foambubble.github.io/). 
     
-    Look!! There's a search facility now!!!
+    [ :octicons-arrow-right-24: [[colophon]] ]
 
-    For more, [[why-mkdocs-foam]]
+- :eye: __[[seek]]__
+
+    ---
+
+    Very incomplete thinking about how and what I try to seek out to include here.
+
+- :thinking: __[[sense]]__ 
+
+    ---
     
+    The main collection of inter-connected "notes", ideas and other rambles 
+
+- :material-share: __[[share]]__ 
+
+    ---
+    
+    Collection of pointers to the more polished artefacts I've produced |
+
+</div>
+
 
 ## Find me elsewhere
 
