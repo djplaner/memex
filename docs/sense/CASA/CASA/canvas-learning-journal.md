@@ -29,7 +29,8 @@ Increasing need to support a more "learning process" focus in assessment leading
 
 - [[log-1-canvas-learning-journal]]
 - [[log-2-canvas-learning-journal]] - initial concrete design
-- [[log-3-canvas-learning-journal]] - report design and implementation
+- [[log-3-canvas-learning-journal]] - report design and implementation - working version of report complete
+- [[log-4-canvas-learning-journal]] - implement the creation/maintenance of the groupset/groups for students.
 
 ## Exploration of Canvas community practices
 

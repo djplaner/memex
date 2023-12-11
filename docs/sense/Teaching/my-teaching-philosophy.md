@@ -9,7 +9,7 @@ Broad statements
 - No such thing as best practice
 - gather and weave what is available, suggesting you need to improve the quality of what's available [[casa]]
 
-Mathematics
+Mathematics (and possibly apply to Digi Tech)
 
 - Have a strong/attractive vision of mathematics
 

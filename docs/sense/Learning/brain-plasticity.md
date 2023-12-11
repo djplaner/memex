@@ -1,7 +1,7 @@
 ---
 title: "Brain Plasticity"
 type: note
-tags: learning, plasticity
+tags: learning, plasticity, brain-plasticity
 ---
 
 See also: [[learning]], [[technology-changes-us]]

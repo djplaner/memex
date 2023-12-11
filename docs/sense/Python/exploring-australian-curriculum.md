@@ -49,9 +49,16 @@ Boaler (2015) argues
 
 > Curriculum standards often work against connection making, as they present mathematics as a list of disconnected topics. But teachers can and should restore the connections by always talking about and valuing them and asking students to think about and discuss connections. (p. 184)
 
+Boaler's YouCubed project provide a [video "Tour of Math Connections](https://www.youcubed.org/resources/tour-mathematical-connections/) to illustrate how topics of number, geometry, and algebra are connected under the big idea of proportional reasoning.
+
 What interfaces might help enable this connection making? To enable the necessary gathering and weaving?
 
 Boaler makes a [similar point in this video](https://www.youtube.com/watch?v=KZnGSVwIpeU&t=1732s) in which she talks about work she's contributing to on a "Big Ideas" driven mathematical framework for California.
+
+<figure markdown>
+![](images/mathConnections.png)
+<caption>Concept map of connections between mathematical topics<br />(adapted from <a href="https://www.youcubed.org/resources/tour-mathematical-connections/">YouCubed's Tour of Mathematical Connections</a>)</caption>
+</figure>
 
 ### California's Mathematics Framework - Big Ideas
 
