@@ -58,6 +58,7 @@ To do
 
 - LLM/ChatGPT explorations
 
+  - [AI for CS education](https://www.it.uu.se/research/group/upcerg/events/CompetenciesAI)
   - [Math Worksheet creator](https://chat.openai.com/g/g-ZEXukr2ci-math-worksheet-creator) ([tweet](https://twitter.com/aneesha/status/1728618172159496339))
   - [LLM python](https://simonwillison.net/2023/Sep/4/llm-embeddings/)
 
