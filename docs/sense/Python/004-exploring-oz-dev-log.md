@@ -45,6 +45,11 @@ Recursive function to walk through the tree
     
 ### Revealing
 
+"Achievement Standard" nodes are not included
+
+
+- Learning Area > Subject > Achievement Standard
+
 root
 - LA/Learning Areas
   - MAT/Mathematics

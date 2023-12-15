@@ -9,6 +9,9 @@ Tags: [[teaching]], [[teacher-preparation]]
 
 Collection of misc. resources for teaching mathematics. Eventually informing an ever-evolving concrete set of ideas and processes underpinning [[my-approach-to-teaching-mathematics]]
 
+## Planning
+
+- [[2024-teaching-plans]]
 
 ## Society
 
@@ -251,6 +254,7 @@ Boaler, J. (2015). Creating Mathematical Mindsets: The Importance of Flexibility
 [teaching]: ../teaching "Teaching"
 [teacher-preparation]: ../../../seek/teacher-preparation "Teacher preparation"
 [my-approach-to-teaching-mathematics]: my-approach-to-teaching-mathematics "My approach to teaching mathematics"
+[2024-teaching-plans]: 2024-teaching-plans "2024-teaching-plans"
 [teaching-mathematics-symptoms]: teaching-mathematics-symptoms "Symptoms of the state of mathematics teaching"
 [when-will-i-ever-use-mathematics]: when-will-i-ever-use-mathematics "When will I ever use mathematics"
 [poverty-premium]: poverty-premium "Poverty Premium"
@@ -293,6 +297,7 @@ Boaler, J. (2015). Creating Mathematical Mindsets: The Importance of Flexibility
 [building-a-thinking-classroom]: building-a-thinking-classroom "Building a thinking classroom"
 [math-watch]: math-watch "Math Watch"
 [number-talks]: number-talks "Number talks"
+[number-talk-examples]: number_talk/number-talk-examples "Number talk examples"
 [reflective-mathematical-homework]: reflective-mathematical-homework "Reflective mathematical homework"
 [teaching-mathematics-software]: teaching-mathematics-software "Software for teaching mathematics"
 [mathematical-memes]: mathematical-memes "Mathematical Memes"
