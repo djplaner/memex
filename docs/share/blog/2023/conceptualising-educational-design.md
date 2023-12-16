@@ -19,7 +19,7 @@
 
 # Conceptualising education design practice - where do we fit?
 
-See also: [[goodyear-patterns-design-practice]], [[forward-oriented-design]], [[design]]
+See also: [[goodyear-patterns-design-practice]], [[forward-oriented-design]], [[design]], [[teaching]]
 
 ## Chat with Emma 
 
@@ -69,8 +69,9 @@ Leaving the big questions of if/how we do this better and what happens as a resu
 Goodyear's (2005) focus is on networked learning. Defined as learning in which digital technologies are used to promote learner-learner, learner-teacher, learning community-resources connections. It is not just putting materials online or distance learning. The central element is the connectedness, not the digital technologies. To be successful, networked learning required effective design. Educational design is defined and distinguished from educational development as follows.
 
 _<a id="table-1"></a>Table 1. Definitions of educational design and development (Goodyear, 2015, p. 82)_
+
 | Term | Definition |
-|--------------------|-------------------------|
+|------|------------|
 | educational design | "set of practices involved in constructing representations of how to support learning in particular cases" |
 | educational development | "the practices of turning these representations into support of learning (materials, task specifications, tools, etc)"  |
 
@@ -80,10 +81,10 @@ While recognising that resources are provided to help teachers with educational 
 
 This critique and his suggested solution draws on the following model ([Figure 1](#figure-1) of the problem space of educational design and a description of the typical educational design process typically used by an individual teacher.
 
-| *<a id="figure-1"></a>Figure 1: Conceptualising the problem space of educational design (Goodyear, 2005, p. 85)*  |
-| ![](images/goodyearEducationDesignProblemSpace.png)
-
-
+<figure markdown id="figure-1">
+![](images/goodyearEducationDesignProblemSpace.png)
+<caption>Figure 1: Conceptualising the problem space of educational design (Goodyear, 2005, p. 85)</caption>
+</figure>
 
 Goodyear (2005) suggests that and explains how design patterns and pattern languages for network learning can help address the identified limitations. In particular, Goodyear (2005, p. 92) suggests that design patterns can help educational design by:
 
@@ -100,11 +101,12 @@ Random thoughts
 - done a lot more expanding out the pedagogical framework
 - But perhaps the arrows are too coarse grained
 - And the boxes of the various components of LMS are too blackbox - don't represent the entangled nature
-- 
 
-| *<a id="figure-2"></a>Figure 2: Adapting Goodyear's conceptualisation (Lodge, 2023, slide 45)*  |
-| ![](images/lodgeConceptualisingEducationalDesign.png) |
-|:--:|
+
+<figure markdown id="figure-2">
+![](images/lodgeConceptualisingEducationalDesign.png)
+<caption>Figure 2: Adapting Goodyear's conceptualisation (Lodge, 2023, slide 45)</caption>
+</figure>
 
 ## What went "wrong" with design patterns?
 
@@ -116,6 +118,7 @@ Anecdotally, I've not seen anything like this in action over recent years. It do
 McAndrew, Goodyear, and Dalziel (2006) examine three different ways to support educational design with a particular focus on how effectively they may descriptions of learning designs that are useful for creation, re-use, and adaptation. Design patterns are compared with the IMS Learning Design specification and learning activities as used in the Learning Activity Management System (LAMS). The IMS work offers a formal specification for how to describe quite complex learning activities and the roles involved. A specification that can be then used to digitally use, share, and adapt learning activities. LAMS is (was?) a specific information systems that could be used for learning and teaching. Central to LAMS design was the assumption that learning is "people doing activities with resources". It supported design through the sequencing of learning different activities for use by students.
 
 _<a id="table-2"></a>Table 2. comparing issues in LAMS, IMS Learning Design, and Patterns (adapted from McAndrew et al, 2006, pp. 217--218)_
+
 | Issue/Question | LAMS | IMS Learning Design | Patterns |
 |----------------|------|----------------------|----------|
 | Features | | | |
@@ -176,7 +179,7 @@ Goodyear (2005) mentions the use of patterns by the object-oriented programming 
 | Support tools | Integrated development environments | Ad hoc collection of institutional tools with only a few integrated |
 | Focus on improving | Developer experience | **Student experience** |
 
-	Perhaps it is because the translation of the design problem into practice/artefact is more straight forward and consistent in OO programming than higher ed L&T. In OO programming, the design pattern the software developer translates it into code (that can be tested etc) using increasingly fairly common integrated development practices and tools.  Knowledge of those practices and tools are seen as fairly central to the expertise of the software developer. Software development itself has quite an explicit focus on improving the developer experience. On the other hand, in higher ed L&T translating a design pattern into a learning environment relies on the complex gathering and weaving of of whatever random collection of physical/digital tools and processes within their individual institution. This complex gathering and weaving is not typically seen as central to the expertise of the practitioner. Often quite the opposite. Also, there is typically no on-going focus on "teacher experience" that echoes the focus on the "developer experience".
+Perhaps it is because the translation of the design problem into practice/artefact is more straight forward and consistent in OO programming than higher ed L&T. In OO programming, the design pattern the software developer translates it into code (that can be tested etc) using increasingly fairly common integrated development practices and tools.  Knowledge of those practices and tools are seen as fairly central to the expertise of the software developer. Software development itself has quite an explicit focus on improving the developer experience. On the other hand, in higher ed L&T translating a design pattern into a learning environment relies on the complex gathering and weaving of of whatever random collection of physical/digital tools and processes within their individual institution. This complex gathering and weaving is not typically seen as central to the expertise of the practitioner. Often quite the opposite. Also, there is typically no on-going focus on "teacher experience" that echoes the focus on the "developer experience".
 
 
 - THETA presentation - Henry, Steven and I 
@@ -231,4 +234,5 @@ Werle, D. R. (2021). *Design Systems: Definitions and Main Elelments* \[Masters,
 [goodyear-patterns-design-practice]: ../../../sense/Paper-Summaries/goodyear-patterns-design-practice "Patterns, pattern languages and design practice"
 [forward-oriented-design]: ../../../sense/concepts/forward-oriented-design "Forward-oriented design"
 [design]: ../../../sense/Design/design "Design"
+[teaching]: ../../../sense/Teaching/teaching "Teaching"
 [//end]: # "Autogenerated link references"

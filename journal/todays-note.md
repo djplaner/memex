@@ -20,6 +20,10 @@ Prep
     - Which first week of school was hotter?
   - [ ] Digital Technology
     - [ ] Pre AI book(s)
+- General memex/planning CASA
+  - How to integrate
+    - APSTs
+    - Oz curriculum
 
 ### Follow ups
 

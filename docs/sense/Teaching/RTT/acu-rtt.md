@@ -8,7 +8,7 @@ See also: [[teaching]]
 
 In December 2023 I enrolled in the Return to Teaching course offered by the Australian Catholic University. This is a collection of notes and other resources related to that course.
 
-| Module | Description |
+| Module | Description | 
 | --- | --- |
 | [Returning to the profession](returning-to-the-profession.md) | Overview of the course and important changes/topics - esp. critical reflection |
 | [Effective teaching](effective-teaching.md) | |	
@@ -16,6 +16,9 @@ In December 2023 I enrolled in the Return to Teaching course offered by the Aust
 | [Curriculum and assessment](curriculum-and-assessment.md) | |	
 | [Classroom management](classroom-management.md) | |	
 | [The legal context](the-legal-context.md) | | 
+
+
+
 
 ## Overview
 

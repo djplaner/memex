@@ -14,13 +14,13 @@ Three core elements
 - Professional standards
 - Contemporary knowledge and values
 
-## Part 1 - Becoming a reflective teacher
-
 Related resources
 
 - [AITSL Learning from practice workbooks](https://www.aitsl.edu.au/teach/improve-practice/reflect-on-practice/learning-from-practice-workbooks) (see below)
 - [teaching perspectives inventory](https://www.aitsl.edu.au/teach/improve-practice/reflect-on-practice/learning-from-practice-workbooks)
 - [AITSL standards](https://www.aitsl.edu.au/standards)
+
+## Part 1 - Becoming a reflective teacher
 
 ### Me as teacher
 
