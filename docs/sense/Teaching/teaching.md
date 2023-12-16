@@ -46,6 +46,7 @@ More concrete instantiation of philosophical positions into pedagogical approach
 - [[pygmalion-effect]]
 - [[teaching-as-interweaving]]
 - [[strengths-based-education]]
+- [[teaching-as-gather-weave-augment]]
 
 Misc
 
@@ -118,6 +119,7 @@ Details moves through which strategic is effected
 [pygmalion-effect]: pygmalion-effect "Pygmalion Effect (aka "Rosenthal effect")"
 [teaching-as-interweaving]: teaching-as-interweaving "Teaching as interweaving"
 [strengths-based-education]: strengths-based-education "strengths-based-education"
+[teaching-as-gather-weave-augment]: teaching-as-gather-weave-augment "teaching-as-gather-weave-augment"
 [class-management]: class-management "Class Management"
 [differentiation]: differentiation "Differentiation"
 [behaviour-management]: behaviour-management "Behaviour management"
