@@ -4,15 +4,6 @@ See also: [[learning]], [[design]]
 
 Collection of resources, ideas etc around secondary teaching.
 
-Structure inspired by [[goodyear-patterns-design-practice]] description of the educational design problem space, mostly with some additions.
-
-| Level | Description |
-| --- | --- |
-| [Societal](#societal) | Various events and beliefs from broader society about teaching and teachers |
-| [Pedagogical Philosophy](#philosophy-declarative) | beliefs about how people learn, how people should be treated, what knowledge consists of (e.g. instructivism, constructivism) |
-| [High level pedagogy](#high-level-pedagogy-conceptual) | focuses attention on particular conceptual frames and activities that are more effective for implementing a particular philosophy, not a lot of specifics (e.g. Cognitive Apprenticeship, PBL). Without direct prescriptions for action, but highlights "appropriate" action |
-| [Pedagogical strategy](#pedagogical-strategy-procedural) | abstract/strategic communication of plans for action, promoting communication and coordination |
-| [Pedagogical tactics](#pedagogical-tactics-operational) | specific ideas for implementing strategy |
 
 ## Todo
 
@@ -20,63 +11,121 @@ Take a look at
 
 Loewenberg Ball, D., & Forzani, F. M. (2009). The Work of Teaching and the Challenge for Teacher Education. *Journal of Teacher Education*, *60*(5), 497--511. <https://doi.org/10.1177/0022487109348479>
 
-## Societal
+## Broader issues
 
-- [[queensland-schools]]
-- [[APSTs]]
+<div class="grid cards" markdown>
 
-## Meta 
+- __Societal__
 
-Work about how to encourage/support teaching
+    ---
 
-## Philosophy (Declarative)
+    Learning, teaching - society's view(s)
 
-Belief about how people learn, what is knowledge etc
+    ---
 
-- [[my-teaching-philosophy]]
-- [[fundamental-teaching-challenge]]
+    - [[queensland-schools]]
+    - [[APSTs]]
 
-## High level pedagogy (Conceptual)
+- __Disciplines__
 
-More concrete instantiation of philosophical positions into pedagogical approaches
+    ---
 
-- [[mind-tools]] 
-- [[ungrading]]
-- [[assessment-of-process]]
-- [[pygmalion-effect]]
-- [[teaching-as-interweaving]]
-- [[strengths-based-education]]
-- [[teaching-as-gather-weave-augment]]
+    L&T ideas specific to disciplines
 
-Misc
+    ---
 
-- [[class-management]]
-- [[differentiation]]
-- [[behaviour-management]]
-- [[curriculum-ergonomics]]
+    - [[teaching-mathematics|Mathematics]]
+    - [[teaching-digital-technologies|Digital Technologies]]
 
-## Pedagogical strategy (Procedural)
+- __Professional development__
 
-Broad brush depiction of plans
+    ---
 
-- [[high-impact-teaching-strategies]]
-- [[impact-pedagogical-model]]
+    Specific PD events and reflections
 
-## Pedagogical tactics (Operational)
+    ---
 
-My work
+    - [[acu-rtt|ACU's Return to Teaching course]]
 
-- [[math-lessons-resources]] - nascent collection of actual teaching planning
+</div>
 
-Details moves through which strategic is effected 
+## Conceptualising educational design
 
-- [[question-for-retrieval]]
-- [[worked-examples]]
-- [[learning-journal]]
-- [[cognitive-strategies]]
-- [[homework]]
-- [[class-observations]]
-- [[inquiry-learning]]
+Structure inspired by [[goodyear-patterns-design-practice]] description of the educational design problem space, mostly with some additions.
+
+<div class="grid cards" markdown>
+
+- __Philosopy (declarative)__
+
+    ---
+
+    How people learn? How people should be treated? What is knowledge?
+
+    ---
+
+    - [[my-teaching-philosophy]]
+    - [[fundamental-teaching-challenge]]
+
+- __Pedagogy (conceptual)__
+
+    ---
+
+    Conceptual framing of philosophies into pedagogical approaches
+
+    ---
+
+    [[mind-tools]] | [[ungrading]] | [[assessment-of-process]] | [[pygmalion-effect]] |
+
+    - [[teaching-as-interweaving]]
+    - [[strengths-based-education]]
+    - [[teaching-as-gather-weave-augment]]
+
+- __Pedagogy (strategy)__
+
+    ---
+
+    Broad descriptions of how to implement pedagogical approaches
+
+    ---
+
+    Broad practice
+
+    - [[class-management]]
+    - [[differentiation]]
+    - [[behaviour-management]]
+    - [[curriculum-ergonomics]]
+    - [[data-informed-teaching]]
+
+    Oz education
+
+    - [[australian-curriculum]]
+    - [[naplan]]
+
+    Frameworks
+
+    - [[high-impact-teaching-strategies]]
+    - [[impact-pedagogical-model]]
+
+    - [[question-for-retrieval]]
+    - [[cognitive-strategies]]
+    - [[worked-examples]]
+    - [[learning-journal]]
+    - [[homework]]
+    - [[class-observations]]
+    - [[inquiry-learning]]
+
+- __Pedagogy (tactics)__
+
+    ---
+
+    Specific ideas for implementing pedagogical approaches
+
+    ---
+
+    - [[digital-learning-tools]]
+
+
+</div>
 
 ### Digital learning tools
 
@@ -84,33 +133,16 @@ Details moves through which strategic is effected
   - Offers some international/collaborative projects ([Dollar Activity](https://try.sugarizer.org/activities/DollarStreet.activity/index.html?aid=a342be3c-6eaa-4466-90ea-5cfea5005503&a=org.olpcfrance.DollarStreet&n=Dollar%20Street)) in turn based on a [CapMinder project](https://www.gapminder.org/dollar-street)
 - [Practical Ed Tech](https://practicaledtech.com/)
 
-## Disciplines
-
-- [[teaching-mathematics]]
-  - 9.2% fo students doing specialist maths in 2020 
-  - In Qld Year 12, only ~30% girls in physics and 37% in specialist maths, 55% in math methods
-  - why?
-    - math anxiety 
-      - Yr 8 girls 57% dislike, 44% of boys
-      - Yr 8 girls 10% really like, 17% of boys
-  - How?
-    - Cites one school focusing on fun activities - engage
-
-- [[teaching-digital-technologies]]
-
-## Curriculum and system 
-
-- [[australian-curriculum]]
-- [[naplan]]
-
-## Professional development
 
 [//begin]: # "Autogenerated link references for markdown compatibility"
 [learning]: ..%2FLearning%2Flearning "Learning"
 [design]: ..%2FDesign%2Fdesign "Design"
-[goodyear-patterns-design-practice]: ..%2FPaper-Summaries%2Fgoodyear-patterns-design-practice "Patterns, pattern languages and design practice"
 [queensland-schools]: Digital_Technologies%2Fqueensland-schools "Queensland Schools"
 [APSTs]: apsts "apsts"
+[teaching-mathematics|Mathematics]: Mathematics%2Fteaching-mathematics "Teaching Mathematics"
+[teaching-digital-technologies|Digital Technologies]: Digital_Technologies%2Fteaching-digital-technologies "Teaching Digital Technologies"
+[acu-rtt|ACU's Return to Teaching course]: RTT%2Facu-rtt "acu-rtt"
+[goodyear-patterns-design-practice]: ..%2FPaper-Summaries%2Fgoodyear-patterns-design-practice "Patterns, pattern languages and design practice"
 [my-teaching-philosophy]: my-teaching-philosophy "My Teaching Philosophy"
 [fundamental-teaching-challenge]: fundamental-teaching-challenge "The fundamental challenge to teaching"
 [mind-tools]: mind-tools "Mind Tools (and Mindstorms)"
@@ -124,18 +156,16 @@ Details moves through which strategic is effected
 [differentiation]: differentiation "Differentiation"
 [behaviour-management]: behaviour-management "Behaviour management"
 [curriculum-ergonomics]: curriculum-ergonomics "Curriculum Ergonomics"
+[australian-curriculum]: Curriculum%2Faustralian-curriculum "Australian Curriculum"
+[naplan]: naplan "NAPLAN"
 [high-impact-teaching-strategies]: high-impact-teaching-strategies "High impact teaching strategies"
 [impact-pedagogical-model]: impact-pedagogical-model "Impact pedagogical model"
-[math-lessons-resources]: Mathematics%2Fmath-lessons-resources%2Fmath-lessons-resources "Mathematics: lessons and resources"
 [question-for-retrieval]: question-for-retrieval "Questioning for retrieval"
+[cognitive-strategies]: cognitive-strategies "Cognitive Strategies"
 [worked-examples]: worked-examples "Worked examples"
 [learning-journal]: learning-journal "Learning Journal"
-[cognitive-strategies]: cognitive-strategies "Cognitive Strategies"
 [homework]: homework "Homework"
 [class-observations]: class-observations "Class observations"
 [inquiry-learning]: Mathematics%2Finquiry-learning "Inquiry Learning"
-[teaching-mathematics]: Mathematics%2Fteaching-mathematics "Teaching Mathematics"
-[teaching-digital-technologies]: Digital_Technologies%2Fteaching-digital-technologies "Teaching Digital Technologies"
-[australian-curriculum]: Curriculum%2Faustralian-curriculum "Australian Curriculum"
-[naplan]: naplan "NAPLAN"
+[digital-learning-tools]: digital-learning-tools "digital-learning-tools"
 [//end]: # "Autogenerated link references"

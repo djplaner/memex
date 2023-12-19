@@ -23,6 +23,16 @@ Mathematics and mathematics education in broader society.
 - [[when-will-i-ever-use-mathematics]]
 - [Engineers Australia warning](https://www.news.com.au/finance/work/careers/engineers-australia-warns-prosperity-at-risk-from-declining-capacity/news-story/d0023495db67a814e02e45fa74ae066e) - late 2023 News.com.au story citing an [AMSI report](https://amsi.org.au/?publications=year-12-participation-in-calculus-based-mathematics-subjects-takes-a-dive) showing drop in students taking intermediate (24% drop) and higher (20% drop) mathematics between 2008 and 2023.
 
+  - 9.2% fo students doing specialist maths in 2020 
+  - In Qld Year 12, only ~30% girls in physics and 37% in specialist maths, 55% in math methods
+  - why?
+    - math anxiety 
+      - Yr 8 girls 57% dislike, 44% of boys
+      - Yr 8 girls 10% really like, 17% of boys
+  - How?
+    - Cites one school focusing on fun activities - engage
+
+
 ### Societal examples of mathematics
 
 - [[poverty-premium]]
