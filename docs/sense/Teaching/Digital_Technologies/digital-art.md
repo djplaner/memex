@@ -8,6 +8,23 @@ See also: [[teaching-digital-technologies]]
 
 Collection of resources around the use of digital technology in art.
 
+## Implementation
+
+
+### Python
+
+- [Moroccan Mosaic](https://www.101computing.net/moroccan-mosaic/) aka Zellige
+
+    Page with a bit of code that runs in browser using Python Turtle to implement simple tiles. Done by drawing and rotating simple polygons and perhaps combining one inside the other.
+
+- [How I created generate Art with Python](https://towardsdatascience.com/how-i-created-generative-art-with-python-that-10000-dall-e-credits-could-not-buy-fcf804b61437)
+
+    PIL and Torch to emulate visual compositions of Roman Haubenstock-Ramati
+
+- [Learn how to make generative art: From zero to random()](https://spin.atomicobject.com/2021/12/14/generative-art-zero-random/)
+
+    Python and Turtle. Starts from diagonal lines, introduces randomness
+
 ## Artists
 
 ### Vera Molnar
