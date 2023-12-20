@@ -19,6 +19,14 @@
 
 [Colophon](https://en.wikipedia.org/wiki/Colophon_(publishing)), a fancy term for sharing information about the publication of this "book". A way to track the thinking behind the evolution of this site.
 
+## Why?
+
+I needed to get better at learning. At obtaining information and learning effectively by working into sensible schema that I could use. Prior approaches were disconnected and ad hoc.
+
+See [this blog post](https://djon.es/blog/2020/07/06/designing-a-personal-memex-with-foam/) for more.
+
+## What?
+
 !!! info "Version 2.0 - Foam + Material for MkDocs"
 
     Version 2.0 combines [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) - to improve the user-interface for navigation/reading - with the Obsidian/Roam/Notion type authoring/curating functionality provided by [Foam](https://foambubble.github.io/foam/) 
