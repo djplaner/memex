@@ -190,9 +190,15 @@ Mentions Prensky and a bit of the critique, but leaves it up to the reader.
 
 
 - Could do cricket or programming, which was largely practice, feedback, and learning new things.
-- But thinking about more academic learning - e.g. preparing to teach again - it involved practice, feedback, but also making sense of diverse perspectives, - constructing my own knowledge - but with an end in mind
 - The motivation of having a particular goal in mind
 - I learnt more from software that was used by other people, got feedback, and improved.
+- But thinking about moving beyond simple procedural awareness and moving toward more conceptual understanding, esp. on more open/contended areas
+
+    - take responsibility for actively creating the equivalent of schema
+    - being critical of the information I am consuming, looking for and integrating different perspectives
+    - supported by technologies that help with that practice - but also take a more distributed concept of knowledge
+        - moving way from blogging as notion toward the memex/roam research notion of a personal knowledge base
+    - something that is more integrated - built around on-going reflection and tending to that schema garden
 
 ### How do we deal with perfectionists?
 

@@ -134,7 +134,9 @@ Literacy
 - Would need to
 
   - Connect with what students know and can do
-  - familiarise them with the literacies of the discipline
+  - familiarise them with the literacies of the discipline - engage them in the specifics
+
+    - Link to the content descriptors from the next chapter
   - scaffold their engagement with those literacies
     - hark back to the "challenge" book chapter about "external reading"
   - Mention Downes model and ?? approach
@@ -147,22 +149,90 @@ Literacy
 
 ### Assignment
 
-> Part 1: Suggested length: 100-150 words
->
+#### Part 1: Suggested length: 100-150 words
+
 > Briefly list and explain some of the recent changes to the curriculum that have taken place in your area of teaching.
->
-> Part 2: Suggested length: 200-300 words
->
+
+Since 2011 - when I was last in a Queensland school - curriculum changes have included is the adoption of the Australian Curriculum and more recently the adoption of
+
+- two major changes
+
+  - Australian Curriculum - introduction and on-going evolution with v9 being adopted at my school in 2023
+  - changes QCE - in particular with the senior curriculum
+
+- specific, most immediate changes for me moving into 2024 are
+
+  - Changes to v9 
+
+    Overall - content reduction, better achievement standards/content descriptions alignment, improved links between learning areas/general capabiliteis and cross-curriculum
+
+    - mathematics
+
+      - focus on students mastering essential mathematical facts, skills, concepts and processes
+      - when no use of calculators made clear
+      - content descriptors refined, combined and some new
+    - digital technologies
+
+      - addition of privacy and security
+      - year 7/8
+        - more explicit focus on programming, computational thinking
+        - explicit mention of digital footprint, cyber-security etc
+        - explicit focus on understanding use of binary
+        - more explicit use of terms like: user stories;
+      - year 9/10
+        - changing in wording around management digital systems
+        - migration from iterative to agile development; removing modular; from functional/non-functional requirements to user stories
+        - increased emphasis on creating interactive content
+        - reducing level of investigation into data compression
+        - addition of cyber security, privacy etc
+    - digital literacy
+  - Changes to QCE/new senior syllabus - essential mathematics
+
+But given my lack of familiarity with the previous ones and my length of time away. It's basically learning a new curriuclum
+
+#### Part 2: Suggested length: 200-300 words
+
 > Literacy and numeracy are key components of the Australian Curriculum at all levels. As a way to draw together your thinking on literacy and numeracy, record your perspectives in response to the following:
 >
 > 1. What is literacy? What does it mean to be literate?
+
+  - The ability to read and produce various texts in contextually appropriate and purposeful ways
+
 > 1.  What is numeracy? What does it mean to be numerate?
 > 1.  What does literacy and numeracy look like in your teaching context: (i.e, the early years, primary school years, or secondary school)?
 > 1.  Describe some strategies that you can use to develop the literacy and numeracy capabilities of your students in curriculum areas other than Mathematics and English.
->
-> Part 3: Suggested length: 100 words
-> 
+
+  - Digital technologies involves the design and use of various forms of interactive content/media. 
+  - Identify the specific content descriptor - key part of L&T 
+  - Also focus on "program or be programmed" - engage students in what it means to be a professional
+  - numeracy - will be key to generating some of those representations/components - use of generative art/creative coding
+  - but also some specific content descriptors
+
+    - AC9TDI8K04 - binary representqation
+    - AC9TDI804 - notion of user stories, design criteria - purpose of texts/genres
+    - AC9TDI8P02 - visualise data - different forms of visualisations, benefits
+
+
+### Part 3: Suggested length: 100 words
+
 > Choose one of the cross-curriculum priorities or general capabilities (other than literacy and numeracy) from the Australian Curriculum. Describe some strategies that you could use to incorporate your chosen area into your teaching (Hint: be specific).
+
+Critical and creative thinking - there are some explicit links to mathematics content descriptors in the v9 curriculum.
+
+- [Personal and social capability](https://v9.australiancurriculum.edu.au/f-10-curriculum/general-capabilities/personal-and-social-capability?element=0&sub-element=0)
+- linkage with growth/mathematical mindsets and the broader culture I wish to build in the classroom including assessment for learning (know and do tables)
+
+  - personal awareness as a focus on strategies for achieving growth
+
+    In all classes I'm pushing this awareness of mindsets (qualities) their likes and the importance/methods for achieving growth
+
+  - emotional awareness
+
+    Esp. in terms of frustration with mathematics - but also other perhaps not math induced emotions - and impact.  Encourage recognition - the learning pit approach
+
+  - reflective practice
+
+    A core of the growth mindset (not how bad you start). Link to assessment for learning and school's introduction of 'Know and Do' tables.
 
 ## References
 
