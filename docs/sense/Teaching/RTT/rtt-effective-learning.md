@@ -188,17 +188,19 @@ Mentions Prensky and a bit of the critique, but leaves it up to the reader.
 > - Think back to before you knew how to do this one thing. Write down why and how you started learning it and then all the things you did to get from not knowing how to do this one thing at all to becoming good at it.
 > - Finally, what are two or three key words that summarise how you got from not knowing how to do your particular thing at all up to being good at it?
 
+As recently as 2020 I was unhappy with my approach to [personal knowledge management](https://en.wikipedia.org/wiki/Personal_knowledge_management (PKM)). i.e. how I go about gathering, organising, and using new information/knowledge for work and beyond. As a technologist and an educator I've a long history of using digital technology (e.g. social media, blogs etc) to support my PKM, but not well. An opinion reinforced by prior knowledge of better approaches and some earlier experimentation (2015/2016) with those methods.  
 
-- Could do cricket or programming, which was largely practice, feedback, and learning new things.
-- The motivation of having a particular goal in mind
-- I learnt more from software that was used by other people, got feedback, and improved.
-- But thinking about moving beyond simple procedural awareness and moving toward more conceptual understanding, esp. on more open/contended areas
+Even with this need and existing knowledge it was still 2020 before I started actively working on a new approach. It started due to: having available time; learning about a new bit of software; and, how well that new software and its ethos/design connected with multiple disparate threads of my existing knowledge/practice. Subsequent experimentation was limited, but positive. Over time, slowly improvements were made. Most in response to new needs of mine, or new possibilities arising from the work of broader communities. As it stands, I'm pretty happy with the foundation that this new approach provides for my return to teaching in 2024. 
 
-    - take responsibility for actively creating the equivalent of schema
-    - being critical of the information I am consuming, looking for and integrating different perspectives
-    - supported by technologies that help with that practice - but also take a more distributed concept of knowledge
-        - moving way from blogging as notion toward the memex/roam research notion of a personal knowledge base
-    - something that is more integrated - built around on-going reflection and tending to that schema garden
+The following table provides three words that summarise how that was achieved.
+
+| Key word | Explanation |
+| --- | --- |
+| Distributive | Rather than just being in my head the learning and knowledge is distributed across me, other people (social), and technologies. I could not have done it by myself. Echoes of [situated cognition](https://en.wikipedia.org/wiki/Situated_cognition) and [cognitive assemblages](https://thedisorderofthings.com/2013/04/21/what-we-talked-about-at-isa-cognitive-assemblages/) moving beyond constructivism.  |
+| Integrative | Learning/knowledge gets "better" the more effectively it is integrated into mental structures/networks (aka [schema](https://en.wikipedia.org/wiki/Situated_cognition)) that I use. The more structural, relational, and abstract that structure the better (e.g. [SOLO taxonomy](https://en.wikipedia.org/wiki/Structure_of_observed_learning_outcome)) |
+| Purposeful | The quality and quantity of the curation and use of the learning/knowledge increases the more it is linked to the activities I engage in, the outcomes I want to achieve, and the distributed network I use to achieve those outcomes. |
+
+
 
 ### How do we deal with perfectionists?
 
@@ -213,6 +215,33 @@ Mentions Prensky and a bit of the critique, but leaves it up to the reader.
     - have formative assessment/assessment for learning practices embedded that help them appreciate they work they have done, but also make that visible to me and the rest of the class
     - design activities (individual, class, family) that help these students reflect upon and process their practice - develop their self-regulation
     - have established a class norms (e.g. [[mathematical-mindsets#Encourage all students]]) that values struggling (e.g. the learning pit)
+
+My limited experience within schools means I've yet to meet students who are perfectionists. Within a university context I've met some, but almost without exception those older students have developed at least some self-regulatory approaches. Hence my reflection is based more on planning than experience  (a theme that will recur in my subsequent reflections).
+
+I've come up with the following three step process:
+
+1. Prepare/plan.
+
+    Establish some initial classroom 
+    
+    - norms; and 
+
+        e.g. Boaler's (2015) [[mathematical-mindsets#Encourage all students|suggested norms]]. That place value on making mistakes, depth over speed, and learning rather than performing. The "learning pit" seems to usefully complement and explain these.
+
+    - routines that can help. 
+
+        Beyond routines that teach, recognise, and reinforce the class norms a set of effective _assessment for learning_ routines that encourage all students to understand where they are, what success looks like, and how to achieve it.
+
+2. Do/learn.
+
+    As class gets underway make use of class routines to learn about students (e.g. perfectionists) who are "struggling" with less than productive behaviours. Use these and other routines to help both student and teacher understand why and what is happening.
+
+3. Design and iterate.
+
+    Increasingly with the student(s) (re-)design activities that are likely to help them (and the class more broadly) develop more productive knowledge and behaviours.
+
+Perhaps not surprisingly, I can see myself following these three abstract steps in much of what I do next year.
+
 
 ### Supporting students - diverse and inclusive education
 
@@ -247,4 +276,5 @@ McRoberts, D. (2010). *Embracing Diversity*.
 [acu-rtt]: acu-rtt "acu-rtt"
 [pygmalion-effect]: ..%2Fpygmalion-effect "Pygmalion Effect (aka "Rosenthal effect")"
 [mathematical-mindsets#Encourage all students]: ..%2FMathematics%2Fmathematical-mindsets "Mathematical mindsets"
+[mathematical-mindsets#Encourage all students|suggested norms]: ..%2FMathematics%2Fmathematical-mindsets "Mathematical mindsets"
 [//end]: # "Autogenerated link references"

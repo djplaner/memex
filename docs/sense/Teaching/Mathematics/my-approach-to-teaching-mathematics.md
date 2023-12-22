@@ -35,7 +35,7 @@ Informed by [[memex/norman-activity-centered-design]], [[abc-learning-design-and
     - homework
 
 3. Figure out effective, digital methods for production and support
-4. Identify big ideas/driving questions for units and lessons
+4. Identify [[big-ideas-in-mathematics|big ideas]]/driving questions for units and lessons
 
   Questions all the way down
 
@@ -115,6 +115,7 @@ Richland, L. E., Stigler, J. W., & Holyoak, K. J. (2012). Teaching the Conceptua
 [abc-learning-design-and-acad]: ..%2F..%2FDesign%2Fabc-learning-design-and-acad "ABC Learning Design and ACAD"
 [needs-for-learning-design-systems]: ..%2F..%2F..%2Fshare%2Fblog%2Fneeds-for-learning-design-systems "Needs for Learning Design Systems"
 [evolution-of-design-for-learning]: ..%2F..%2FDesign%2Fevolution-of-design-for-learning "Evolution of design for learning"
+[big-ideas-in-mathematics|big ideas]: big-ideas-in-mathematics "big-ideas-in-mathematics"
 [assessment-for-learning]: ..%2FAssessment%2Fassessment-for-learning "assessment-for-learning"
 [data-informed-teaching]: ..%2Fdata-informed-teaching "data-informed-teaching"
 [math-connections-activity-type]: activity-types%2Fmath-connections-activity-type "Mathematical Connections Activity Type"

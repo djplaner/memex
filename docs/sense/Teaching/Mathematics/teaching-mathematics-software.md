@@ -2,6 +2,12 @@
 
 See also: [[teaching-mathematics]]
 
+## [Code4Math](http://code4math.org/)
+
+New professional organisation seeking to build high-quality sociotechnical infrastructure to support mathematics research and learning.  New in 2023 - tag line "Consortium of Digital Ecosystems for Mathematics"
+
+
+
 ## [Manim Community](https://www.manim.community/)
 
 Python library for creating mathematical animations - not a full blown mathematical tool, but potentially useful for some purposes. Community maintained - free and open source (MIT licence).

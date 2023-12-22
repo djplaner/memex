@@ -19,6 +19,14 @@
 
 [Colophon](https://en.wikipedia.org/wiki/Colophon_(publishing)), a fancy term for sharing information about the publication of this "book". A way to track the thinking behind the evolution of this site.
 
+## What is this?
+
+Vannevar Bush [writing in 1945](https://en.wikipedia.org/wiki/As_We_May_Think) imagined a device he called Memex as
+
+> a device in which an individual stores all his books, records, and communications, and which is mechanized so that it may be consulted with exceeding speed and flexibility. It is an enlarged intimate supplement to his memory.
+
+Decades later and there are systems (e.g. Obsidian and Notion) and concepts like [personal knowledge management](https://en.wikipedia.org/wiki/Personal_knowledge_management) which echo this vision. This is my attempt to build my own Memex using [Foam](https://foambubble.github.io/).
+
 ## Why?
 
 I needed to get better at learning. At obtaining information and learning effectively by working into sensible schema that I could use. Prior approaches were disconnected and ad hoc.

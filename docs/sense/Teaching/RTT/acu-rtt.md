@@ -11,11 +11,11 @@ In December 2023 I enrolled in the Return to Teaching course offered by the Aust
 | Module | Description | Status |
 | --- | --- | --- |
 | [Returning to the profession](returning-to-the-profession.md) | Overview of the course and important changes/topics - esp. critical reflection | Complete |
-| [Effective teaching](effective-teaching.md) | Ad hoc overview of topics/issues associated with teaching |	Reflections completed. draft assessment task started |
-| [Effective learning](effective-learning.md) | Ad hoc overview of various issues around learning | 3 reflections, 2 draft - one to start. Assessment task very rough draft |
+| [Effective teaching](effective-teaching.md) | Ad hoc overview of topics/issues associated with teaching |	Reflections completed. Final draft assessment task |
+| [Effective learning](rtt-effective-learning.md) | Ad hoc overview of various issues around learning | 3 reflections, 2 draft - one to start. Assessment complete |
 | [Curriculum and assessment](curriculum-and-assessment.md) | Overview of curricula changes | 2 reflection tasks - 1 draft, 1 waiting for prompt to be given. Assignment - draft |
-| [Classroom management](classroom-management.md) | Also community, parents | Draft reflective and assessment tasks. Complete module |
-| [The legal context](the-legal-context.md) | | |
+| [Classroom management](rtt-classroom-management.md) | Also community, parents | Draft reflective and assessment tasks. Complete module |
+| [The legal context](rtt-the-legal-context.md) | Broad overview | Completed |
 
 
 
