@@ -231,10 +231,6 @@ Suggested norms to promote
 
     Encourage students to believe in themselves. There is no such thing as a “math person.” Everyone can reach the highest levels they want to, with hard work.
 
-4. Mistakes Are Valuable.
-
-    Mistakes grow your brain! It is good to struggle and make mistakes.
-
 5. Math Is about Connections and Communicating.
 
     Math is a connected subject, and a form of communication. Represent math in different forms—such as words, a picture, a graph, an equation—and link them. Color code!

@@ -250,6 +250,28 @@ Perhaps not surprisingly, I can see myself following these three abstract steps 
 > Share a success story from your own teaching where you have been able to respond to the challenges of working with students who have diverse learning needs
 
 
+Echoing my last response, my limited experience in schools means I've yet to have any experience teaching students with diverse learning needs. Instead, I'll draw on my experience within the university context and some early plans for my return to teaching.
+
+My first experiences teaching at universities was at a dual-mode university in the 1990s. A institution that had both on-campus and distance education students. As the name - dual-mode - suggests these students were placed into disparate boxes and taught in different ways. On-campus students via traditional face-to-face and synchronous lectures and tutorials. Distance education students via print-based materials and asynchronous phone communication. Over the last 15 years or so - mirroring changes in broader society - the diversity of students' learning needs has been increasing beyond the narrow on-campus/distance distinction.
+
+In all the cases where we've been successful at catering for student diversity, the three key [Universal Design for Learning](https://www.cast.org/impact/universal-design-for-learning-udl) guidelines have played a significant role. At times, that's been via teaching and other staff making changes to the  designed learning environment. At other times, it's about ensuring that students have the agency to modify the designed learning environment to suit their needs. 
+
+Some examples:
+
+1. Engagement;
+
+    Varying the context and details of examples and activities to be relevant to the students. Echoing Tomlinson's respectful tasks. Embedding the use of learner generated examples into the learning process.
+
+2. Representation;
+
+    Enabling learner choice of the format of learning materials. For example, providing/enabling captions/transcripts on videos; providing audio version of text; and, providing downloadable versions of course sites.
+
+3. Action & expression.
+
+    Designing learning activities with low floors (low barrier to entry), wide walls (multiple paths to success), and high ceilings (opportunities for extension). Providing multiple ways for students to demonstrate their learning. e.g. written, oral, video, etc. Echoing Tomlinson's teaching up, flexible grouping etc.
+
+
+
 
 ## Assessment task
 
