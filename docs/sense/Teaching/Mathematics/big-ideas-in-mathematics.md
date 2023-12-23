@@ -1,7 +1,7 @@
 ---
-name: "Big ideas in mathematics"
-type: note
-tags: [teaching,mathematics,teachingMathematics]
+title: "Big ideas in mathematics"
+type: "note"
+tags: teaching,mathematics,teachingMathematics
 ---
 
 See also: [[teaching-mathematics]], [[exploring-australian-curriculum]], [[mathematical-structure]]

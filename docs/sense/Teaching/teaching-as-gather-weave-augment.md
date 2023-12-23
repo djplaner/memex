@@ -1,7 +1,7 @@
 ---
-name: "Teaching as gathering, weaving, and augmenting"
-type: note
-tags: [teaching, pedagogy, technology]
+title: "Teaching as gathering, weaving, and augmenting"
+type: "note"
+tags: teaching, pedagogy, technology
 ---
 
 See also: [[teaching]], [[my-teaching-philosophy]], [[teaching-as-interweaving]], [[gatherers-weavers-augmenters]]

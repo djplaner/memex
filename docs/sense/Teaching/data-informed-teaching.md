@@ -1,7 +1,7 @@
 ---
-name: "Data informed teaching"
-type: note
-tags: [teaching]
+title: "Data informed teaching"
+type: "note"
+tags: teaching
 ---
 
 See also: [[teaching]], [[PIRAC]]

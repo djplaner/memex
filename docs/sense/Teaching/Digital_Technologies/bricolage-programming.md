@@ -1,7 +1,7 @@
 ---
-name: "Bricolage programming"
-type: note
-tags: [digital-technology, programming]
+title: "Bricolage programming"
+type: "note"
+tags: digital-technology, programming
 ---
 
 See also: [[digital-art]], [[teaching-digital-technologies]]

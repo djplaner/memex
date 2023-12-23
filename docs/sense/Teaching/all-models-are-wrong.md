@@ -1,7 +1,7 @@
 ---
-name: "All models are wrong"
-type: note
-tags: [philosophy]
+title: "All models are wrong"
+type: "note"
+tags: philosophy
 ---
 
 See also: [[not-how-bad-you-start]], [[bad_set-casa-gather-weave]] 

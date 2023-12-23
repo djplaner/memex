@@ -1,7 +1,7 @@
 ---
-name: "Excel World Championship"
-type: note
-tags: [teaching, excel, mathematics, society]
+title: "Excel World Championship"
+type: "note"
+tags: teaching, excel, mathematics, society
 ---
 
 See also: [[teaching-mathematics]]

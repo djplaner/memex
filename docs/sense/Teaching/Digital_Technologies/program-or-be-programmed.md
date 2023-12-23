@@ -1,7 +1,7 @@
 ---
-name: "Program or be programmed"
-type: note
-tags: [teaching, programming, software]
+title: "Program or be programmed"
+type: "note"
+tags: teaching, programming, software
 ---
 
 See also: [[teaching-digital-technologies]]

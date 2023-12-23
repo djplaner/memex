@@ -1,7 +1,7 @@
 ---
-name: "Digital learning tools"
-type: note
-tags: [teaching, digitalLearning]
+title: "Digital learning tools"
+type: "note"
+tags: teaching, digitalLearning
 ---
 
 See also: [[teaching]]

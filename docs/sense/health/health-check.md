@@ -1,7 +1,7 @@
 ---
-name: "Health check"
-type: note
-tags: [health, personal]
+title: "Health check"
+type: "note"
+tags: health, personal
 ---
 
 

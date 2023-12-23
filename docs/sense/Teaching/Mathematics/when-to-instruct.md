@@ -1,7 +1,7 @@
 --- 
-name: "When to instruct"
-type: note
-tags: [teaching, teaching-mathematics]
+title: "When to instruct"
+type: "note"
+tags: teaching, teaching-mathematics
 ---
 
 See also: [[productive-failure]], [[explicit-versus-inquiry]]

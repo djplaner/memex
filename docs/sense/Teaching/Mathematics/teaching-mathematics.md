@@ -79,6 +79,7 @@ Collection of misc. resources for teaching mathematics. Eventually informing an 
     - [Two types of mathematics teaching - instrumental and relational](instrumental-relational-mathematics.md) 
     - [[mathematical-mindset]]
     - [[math-facts]]
+    - [[reading-and-writing-the-world-with-mathematics]]
     - [[mathematical-misconceptions]] and difficulties
     - [[effective-pedagogy-in-mathematics]]
     - [[building-a-thinking-classroom]]
@@ -131,22 +132,23 @@ Boaler, J. (2015). Creating Mathematical Mindsets: The Importance of Flexibility
 [teaching]: ..%2Fteaching "Teaching"
 [teacher-preparation]: ..%2F..%2F..%2Fseek%2Fteacher-preparation "Teacher preparation"
 [my-approach-to-teaching-mathematics]: my-approach-to-teaching-mathematics "My approach to teaching mathematics"
-[2024-teaching-plans]: 2024-teaching-plans "2024-teaching-plans"
+[2024-teaching-plans]: 2024-teaching-plans "Plans for teaching in 2024"
 [teaching-mathematics-symptoms]: teaching-mathematics-symptoms "Symptoms of the state of mathematics teaching"
 [when-will-i-ever-use-mathematics]: when-will-i-ever-use-mathematics "When will I ever use mathematics"
 [poverty-premium]: poverty-premium "Poverty Premium"
 [shinkflation]: shinkflation "Shrinkflation"
-[excel-world-championship]: excel-world-championship "excel-world-championship"
+[excel-world-championship]: excel-world-championship "Excel World Championship"
 [what-is-mathematics]: what-is-mathematics "What is mathematics"
 [what-do-mathematicians-do]: what-do-mathematicians-do "What do mathematicians do?"
 [understanding-mathematics]: understanding-mathematics "Understanding Mathematics"
 [mathematical-topics]: mathematical-topics "Mathematical Topics"
 [mathematical-structure]: mathematical-structure "Mathematical structure"
-[big-ideas-in-mathematics]: big-ideas-in-mathematics "big-ideas-in-mathematics"
+[big-ideas-in-mathematics]: big-ideas-in-mathematics "Big ideas in mathematics"
 [mathematics-conceptual-knowledge-for-teaching]: mathematics-conceptual-knowledge-for-teaching "Mathematics Conceptual Knowledge for Teaching (MCKT)"
 [real-work-versus-real-world]: real-work-versus-real-world "Real work versus Real world"
 [mathematical-mindset]: mathematical-mindset "Mathematical Mindset"
 [math-facts]: math-facts "Math Facts"
+[reading-and-writing-the-world-with-mathematics]: reading-and-writing-the-world-with-mathematics "Reading and writing the world with mathematics"
 [mathematical-misconceptions]: math-misconceptions%2Fmathematical-misconceptions "Mathematical misconceptions and difficulties"
 [effective-pedagogy-in-mathematics]: effective-pedagogy-in-mathematics "Effective pedagogy in mathematics"
 [building-a-thinking-classroom]: building-a-thinking-classroom "Building a thinking classroom"
@@ -154,7 +156,7 @@ Boaler, J. (2015). Creating Mathematical Mindsets: The Importance of Flexibility
 [ALIVE]: alive "ALIVE"
 [mathematical-resilience-classroom-environment]: mathematical-resilience-classroom-environment "mathematical-resilience-classroom-environment"
 [v9-oz-mathematics-learning-area]: ..%2FCurriculum%2Fv9-oz-mathematics-learning-area "Mathematics learning area - Australian Curriculum v9"
-[technologies-for-teaching-mathematics|Pedagogy (strategy)]: technologies-for-teaching-mathematics "technologies-for-teaching-mathematics"
+[technologies-for-teaching-mathematics|Pedagogy (strategy)]: technologies-for-teaching-mathematics "Technologies for teaching mathematics"
 [normal-distribution]: probability%2Fnormal-distribution "Normal (Gaussian) distribution"
 [maths-in-schools]: maths-in-schools "Maths in Schools Online: Year 7 - 10 course"
 [annotations-boaler-2015]: annotations-boaler-2015 "Creating mathematical mindsets - annotations"
