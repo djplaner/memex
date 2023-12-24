@@ -21,7 +21,7 @@ See also: [[teaching]]
 
 ## Strategies
 
-- [[planning-for-behaviour-management]]]
+- [[planning-for-behaviour-management]]
 - [[bill-rogers-strategies]]
 
 ## Causes
