@@ -2,7 +2,17 @@
 
 See also: [[casa]], [[datasette]], [[australian-curriculum]], [[other-oz-curriculum-code-projects]], [[big-ideas-in-mathematics]]
 
-The [[australian-curriculum]] defines most of what Australian school students learn. It is provided as [website](https://australiancurriculum.edu.au/) and related resources. For teachers, understanding and working with the curriculum is an essential part of their work. But no website can serve all the potential uses for the curriculum and its content. This [[casa]] serves a few purposes
+## Development log
+
+- 27 August 2023 - [[001-exploring-oz-dev-log]] - initial import v8.4, datasette
+- 24 September 2023 - [[002-exploring-oz-dev-log]] - importing v9, links with memex
+- 18 November 2023 - [[003-exploring-oz-dev-log]] - Experiments with [Neo4j](https://en.wikipedia.org/wiki/Neo4j) - ended in failure due to Neo4J plugin difficulties
+- 11 December 2023 - [[004-exploring-oz-dev-log]] some slow glimmers with rdflib
+- 25 December 2023 - [[005-exploring-oz-dev-log]] - generating some markdown for memex
+
+## What?
+
+The [[australian-curriculum]] defines most of what Australian school students learn. It is provided as [website](https://australiancurriculum.edu.au/) and related resources. For teachers, understanding and working with the curriculum is an essential part of their work. But no website can serve all the potential uses for the curriculum and its content. This [[casa]] serves a few purposes, including
 
 1. Explore how the Australian Curriculum can be made more [generative](https://djplaner.github.io/memex/sense/nodt/generativity/).
 2. Offer a purposeful reason to explore different [Python](https://www.python.org/) based technologies in service of that goal.
@@ -149,16 +159,10 @@ The intent (or even need for) more alignment with the curriculum can lead to add
 
 > The curriculum is linear.
 
-She gives alternatives (images appear to be currently )
+She gives alternative[[004-exploring-oz-dev-log]]ntly )
 
 Yes, and also need to think about [the affordances](https://djplaner.github.io/memex/sense/Affordances/affordances/) those designs provide (and to whom).
 
-## Development log
-
-- 27 August 2023 - [[001-exploring-oz-dev-log]] - initial import v8.4, datasette
-- 24 September 2023 - [[002-exploring-oz-dev-log]] - importing v9, links with memex
-- 18 November 2023 - [[003-exploring-oz-dev-log]] - Experiments with [Neo4j](https://en.wikipedia.org/wiki/Neo4j) - ended in failure due to Neo4J plugin difficulties
-- 11 December 2023 - [[004-exploring-oz-dev-log]] - some slow glimmers with rdflib
 
 ## To do 
 
@@ -201,17 +205,18 @@ Ward, N., & Nicholas, N. (n.d.). *Benefits of Machine Readable Curricula*. [http
 [datasette]: datasette "datasette"
 [australian-curriculum]: ..%2FTeaching%2FCurriculum%2Faustralian-curriculum "Australian Curriculum"
 [other-oz-curriculum-code-projects]: ..%2FTeaching%2FCurriculum%2Fother-oz-curriculum-code-projects "other-oz-curriculum-code-projects"
-[big-ideas-in-mathematics]: ..%2FTeaching%2FMathematics%2Fbig-ideas-in-mathematics "big-ideas-in-mathematics"
+[big-ideas-in-mathematics]: ..%2FTeaching%2FMathematics%2Fbig-ideas-in-mathematics "Big ideas in mathematics"
+[001-exploring-oz-dev-log]: exploring-oz-curriculum%2F001-exploring-oz-dev-log "001 - Exploring Australian Curriculum - Dev log"
+[002-exploring-oz-dev-log]: exploring-oz-curriculum%2F002-exploring-oz-dev-log "Exploring Oz Curriculum - Dev log 2"
+[003-exploring-oz-dev-log]: exploring-oz-curriculum%2F003-exploring-oz-dev-log "003-exploring-oz-dev-log"
+[004-exploring-oz-dev-log]: exploring-oz-curriculum%2F004-exploring-oz-dev-log "004-exploring-oz-dev-log"
+[005-exploring-oz-dev-log]: exploring-oz-curriculum%2F005-exploring-oz-dev-log "004-exploring-oz-dev-log"
 [teaching-mathematics]: ..%2FTeaching%2FMathematics%2Fteaching-mathematics "Teaching Mathematics"
 [teaching-digital-technologies]: ..%2FTeaching%2FDigital_Technologies%2Fteaching-digital-technologies "Teaching Digital Technologies"
 [ALIVE]: ..%2FTeaching%2FMathematics%2Falive "ALIVE"
 [curriculum-ergonomics]: ..%2FTeaching%2Fcurriculum-ergonomics "Curriculum Ergonomics"
 [maths-in-schools]: ..%2FTeaching%2FMathematics%2Fmaths-in-schools "Maths in Schools Online: Year 7 - 10 course"
 [low-floor-high-ceiling-wide-walls#Low-floor, open-middle, high-ceiling tasks]: ..%2FTeaching%2Flow-floor-high-ceiling-wide-walls "Low Floor, High Ceiling, Wide Walls"
-[001-exploring-oz-dev-log]: exploring-oz-curriculum%2F001-exploring-oz-dev-log "001 - Exploring Australian Curriculum - Dev log"
-[002-exploring-oz-dev-log]: exploring-oz-curriculum%2F002-exploring-oz-dev-log "Exploring Oz Curriculum - Dev log 2"
-[003-exploring-oz-dev-log]: exploring-oz-curriculum%2F003-exploring-oz-dev-log "003-exploring-oz-dev-log"
-[004-exploring-oz-dev-log]: 004-exploring-oz-dev-log "004-exploring-oz-dev-log"
 [gatherers-weavers-augmenters]: ..%2FPaper-Ideas%2Fgatherers-weavers-augmenters "Gatherers, Weavers and Augmenters: Three principles for dynamic and sustainable delivery of quality learning and teaching"
 [epistemic-fluency]: ..%2FLearning%2Fepistemic-fluency "Epistemic Fluency"
 [//end]: # "Autogenerated link references"
