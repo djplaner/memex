@@ -76,6 +76,7 @@ Related `statementLabel` predicates
 - _Achievement Standard Component_
   - http://vocabulary.curriculum.edu.au/MRAC/2023/07/LA/MAT/287b5015-eff7-462f-a89a-8e14159cb452
   - children of achievement standards
+- Related Content and other features are under the `skillEmbodied` predicate
 
   21ec0e04-b342-4210-8dd9-7f98c13bb7d3 is found in 
 

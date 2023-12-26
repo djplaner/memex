@@ -6,9 +6,79 @@ Intent is to start generating markdown pages using Foam format for eventual incl
 
 ## To do
 
+- [ ] Develop `acLearningArea.py` class to start creating
 - [ ] Initial design of pages
-- [ ] Develop AC/RDFLib class to start creating
-- [ ] Implement
+- [ ] Design of "view" to implement
+
+## `australianCurriculum.py`
+
+Intent is to have a Python class that 
+
+- takes one or more learning area/subject RDF file from the Australian Curriculum, and
+- breaks it up into a Python data structure
+  - Ability to access each of the components of the curriculum
+
+- `learningAreas` 
+
+  dict keyed on learning area name, contains information about all the learning areas that have been added to this object (by parsing different RDF files)
+
+- `subjects` 
+
+  dict keyed on subject name, containing all info about the subjects
+
+    - `subjectId`, `title`, `abbreviation`,`dateModified`
+    - `yearLevels` 
+
+      dict keyed on year level
+
+      - `subjectId`, `title`, `abbreviation`,`dateModified`
+      - `achievementStandard` 
+
+        acAchivementStandard object
+        - `subjectId`, `title`, `abbreviation`,`dateModified`
+        - `components`
+
+          dict keyed on AC id and values acAchivementStandardComponent
+
+      - Strand
+
+        - subStrand
+      
+      - `contentDescriptions` - dict keyed on content description code
+        - `elaborations` - list of strings
+        - `relatedContent` - list of strings
+        - `description` - string
+
+### structure
+
+Use a combination of dicts and perhaps lists to store ac<Objects>
+
+#### Other top level information
+
+Maybe
+
+- `contentDescriptions` top level dict with all content descriptions (across multiple learning areas/subjects) keyed by code
+
+#### Learning/areas subjects
+
+Dict `subjects` to contain objects of `acSubject` holding all information about the subjects in a learning area. In a learning area like mathematics which has no subjects, there's just the one subject.
+
+Keyed on the name of the subject as per the Australian Curriculum
+
+Each learning area contains
+
+- ??? what subject level stuff goes here???
+- `yearLevels` keyed on numeric/string year level foundation to year 10.
+  - `levelDescription` string
+  - `achievementStandard` dict keyed on
+    - `text` string
+    - `components` array of strings
+  - `contentDescriptions` dict keyed on the content description code
+    - `elaborations` - list/dict of strings
+    - `relatedContent` - list/dict
+  - ``
+
+
 
 ## Initial design
 
