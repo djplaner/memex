@@ -1,0 +1,19 @@
+
+# AC9TDI8P09 
+
+See also: [[v9-learning-areas]]
+
+> implement, modify and debug programs involving control structures and functions in a general-purpose programming language
+
+Elaborations
+
+
+- _AC9TDI8P09_E1_ - writing and editing programs to solve problems using branching, iteration, variables and functions in a general-purpose programming language, such as Python, JavaScript or C#
+
+- _AC9TDI8P09_E2_ - reading and interpreting an existing program and modifying the code to change functionality and fix errors, for example taking existing code for a weather forecasting app that includes temperatures and improving the output to include extra information such as rainfall, UV levels and air quality
+
+- _AC9TDI8P09_E3_ - writing a program that receives data from the environment to change the program behaviour, for example reading moisture level data from a soil sensor and switching on the watering system
+
+- _AC9TDI8P09_E4_ - writing a program that contains nested control structures to perform more complicated branching and decisions, for example using an IF statement inside a loop to count the warm days from an array containing temperature data only when the temperature for each day is more than 20 degrees Celsius
+
+- _AC9TDI8P09_E5_ - defining and using a function that produces different output based on the argument(s) it receives, for example a function that receives the name of an actor from user input, and searches a file or database to return a list of movies that actor appears in

@@ -6,8 +6,17 @@ Intent is to start generating markdown pages using Foam format for eventual incl
 
 ## To do
 
-- [ ] Develop `acLearningArea.py` class to start creating
-- [ ] Initial design of pages
+- [x] Develop `acLearningArea.py` class to start creating
+  - [X] Handle learning areas without sub strands
+  - [X] Implement better inheritance
+  - [x] add ability to load multiple learning areas/files
+- [x] Initial design of pages
+- [ ] Refine memex pages
+  - [X] add in accordions or similar of achievement standards
+  - [X] exclude primary - do just high school
+  - [ ] improve the individual content descriptions pages by
+    - [ ] add details of the subject, year level, strand/sub-strand that is related
+    - [ ] perhaps also add any related elaborations
 - [ ] Design of "view" to implement
 
 ## `australianCurriculum.py`
@@ -42,7 +51,7 @@ Intent is to have a Python class that
 
       - Strand
 
-        - subStrand
+        - subStrand (optional)
       
       - `contentDescriptions` - dict keyed on content description code
         - `elaborations` - list of strings
@@ -51,7 +60,6 @@ Intent is to have a Python class that
 
 ### structure
 
-Use a combination of dicts and perhaps lists to store ac<Objects>
 
 #### Other top level information
 

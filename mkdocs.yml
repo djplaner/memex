@@ -51,7 +51,9 @@ markdown_extensions:
   - pymdownx.arithmatex:
       generic: true
   - attr_list # https://squidfunk.github.io/mkdocs-material/reference/images/
-  - pymdownx.tabbed  # https://squidfunk.github.io/mkdocs-material/reference/content-tabs/
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
   - md_in_html
   - tables
 #  - nl2br # newline-to-break 
