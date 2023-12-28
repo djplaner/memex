@@ -8,7 +8,9 @@ See also: [[casa]], [[datasette]], [[australian-curriculum]], [[other-oz-curricu
 - 24 September 2023 - [[002-exploring-oz-dev-log]] - importing v9, links with memex
 - 18 November 2023 - [[003-exploring-oz-dev-log]] - Experiments with [Neo4j](https://en.wikipedia.org/wiki/Neo4j) - ended in failure due to Neo4J plugin difficulties
 - 11 December 2023 - [[004-exploring-oz-dev-log]] some slow glimmers with rdflib
-- 25 December 2023 - [[005-exploring-oz-dev-log]] - generating some markdown for memex
+- 25 December 2023 - [[005-exploring-oz-dev-log]] - generating some markdown for memex - complete
+
+    See [[v9-learning-areas]]
 
 ## What?
 
@@ -211,6 +213,7 @@ Ward, N., & Nicholas, N. (n.d.). *Benefits of Machine Readable Curricula*. [http
 [003-exploring-oz-dev-log]: exploring-oz-curriculum%2F003-exploring-oz-dev-log "003-exploring-oz-dev-log"
 [004-exploring-oz-dev-log]: exploring-oz-curriculum%2F004-exploring-oz-dev-log "004-exploring-oz-dev-log"
 [005-exploring-oz-dev-log]: exploring-oz-curriculum%2F005-exploring-oz-dev-log "004-exploring-oz-dev-log"
+[v9-learning-areas]: ..%2FTeaching%2FCurriculum%2Fv9%2Fv9-learning-areas "Learning Areas"
 [teaching-mathematics]: ..%2FTeaching%2FMathematics%2Fteaching-mathematics "Teaching Mathematics"
 [teaching-digital-technologies]: ..%2FTeaching%2FDigital_Technologies%2Fteaching-digital-technologies "Teaching Digital Technologies"
 [ALIVE]: ..%2FTeaching%2FMathematics%2Falive "ALIVE"
