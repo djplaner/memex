@@ -6,11 +6,20 @@ An online MOOC, included as [PD from the Mathematics Hub](https://www.mathematic
 
 ## Course content
 
-### Getting started
+[Catalog (for access)](https://catalog.adelaide.edu.au/dashboard/in-progress)
 
-"Math is contextual and creative"    "What does math mean for you"
+### Details
 
-- Can get a certificate of completion for 12 professional learning hours for completion. Uses requirements to track.
+- 12 hours of professional learning 
+
+| Module | Tasks | 
+| --- | --- | 
+| [[cser-getting-started|Getting started]] | <ul> <li> start course survey ✔  </li> <li> View all sections </li> <li> Module task 1 </li> </ul>|
+| [[cser-practices-and-pedagogies|Practices & pedagogies]] | <ul> <li> View all sections </li> <li> Module task 2</li> | 
+| [[cser-content-in-action|Connection with community]] | |
+| Content in action | | 
+| End of course survey | |
+
 
 
 

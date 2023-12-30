@@ -16,9 +16,13 @@ Campbell et al (2020, p. 29) offers the following comparison of behaviours chara
 | Success of others | Learn from and feel inspired by the success of others. ‘I can try that.’ | Feel threatened by the success of others. ‘Will they make it harder for me to be seen as successful?’ | 
 | Learning goals | See the goal of learning as improving performance. ‘What can I learn from the mistakes I made in the test?’ | See the goal of learning as showcasing performance. ‘High performance in a test shows that I am learning.’ |
 
-## Growth Mindset activites
+## Growth Mindset activities and resources
 
 - [[leet-speak-reading]]
+- [Khan Academy Growth Mindset lesson plan](https://cdn.kastatic.org/KA-share/Toolkit-photos/FINAL+Growth+Mindset+Lesson+Plan.pdf), including
+
+    - [Khan Academy "Grow your mind" video](https://www.youtube.com/watch?v=WtKJrB5rOKs)
+    - [Neuroplasticity video](https://www.youtube.com/watch?v=ELpfYCZa87g)
 
 ## References
 
