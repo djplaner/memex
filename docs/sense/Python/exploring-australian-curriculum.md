@@ -72,6 +72,10 @@ Boaler makes a [similar point in this video](https://www.youtube.com/watch?v=KZn
 <caption>Concept map of connections between mathematical topics<br />(adapted from <a href="https://www.youcubed.org/resources/tour-mathematical-connections/">YouCubed's Tour of Mathematical Connections</a>)</caption>
 </figure>
 
+Simeon (2021) emphasis added
+
+> One of the most damaging aspects of school mathematics, particularly as it is represented in commercial texts and computer-based mathematics programs is the **atomisation of the curriculum** into a seemingly endless list of discrete ‘topics’ where ‘coverage’ becomes the major goal of planning, the predominant mode of learning is ‘example/demonstrate-practice-practice’, and the majority of those exercises remain as they were observed by Vincent and Stacey in 2008 as relatively low-level, skill based repetitious exercises. (p. 8)
+
 ### California's Mathematics Framework - Big Ideas
 
 [Schwartz (2023)](https://www.edweek.org/teaching-learning/california-adopts-controversial-new-math-framework-heres-whats-in-it/2023/07) provides background on the development, nature, and reaction to [California's new Math Framework](https://www.cde.ca.gov/ci/ma/cf/). "Big ideas in mathematics" are outlined and intended to drive instruction which draws on inquiry-based instruction. It apparently is intended to "illustrate the connections across topics, both within the grade and between grades". Apparently, it is the inquiry-based part that has drawn the most flack.

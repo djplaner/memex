@@ -104,6 +104,7 @@ Collection of misc. resources for teaching mathematics. Eventually informing an 
     - [[mathematics-starters]]
     - [[mathematical-games]]
     - [[talk-moves]]
+    - [[number-talks]]
 
 </div>
 
@@ -166,6 +167,7 @@ Boaler, J. (2015). Creating Mathematical Mindsets: The Importance of Flexibility
 [mathematics-starters]: mathematics-starters "Starter activities for mathematics"
 [mathematical-games]: mathematical-games "Mathematical games"
 [talk-moves]: talk-moves "Talk moves"
+[number-talks]: number-talks "Number talks"
 [normal-distribution]: probability%2Fnormal-distribution "Normal (Gaussian) distribution"
 [maths-in-schools]: maths-in-schools "Maths in Schools Online: Year 7 - 10 course"
 [annotations-boaler-2015]: annotations-boaler-2015 "Creating mathematical mindsets - annotations"
