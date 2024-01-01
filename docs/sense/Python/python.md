@@ -22,7 +22,7 @@ Misc resources re: Python
 ## Personal projects
 
 - [[exploring-australian-curriculum]]
-- [[creative-coding-with-manim]]
+- [[creative-coding-with-python]]
 
 ## Modules
 

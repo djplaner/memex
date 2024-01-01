@@ -32,7 +32,7 @@ See also: [[teaching]]
 
 - [[queensland-schools-digital-technologies]]
 - [[technology-changes-us]]
-- [[digital-art]]
+- [[creative-coding]]
 
 ## Curriculum
 

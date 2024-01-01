@@ -68,9 +68,14 @@ Simeon (2021)
 
     "One of the most damaging aspects of school mathematics, particularly as it is represented in commercial texts and computer-based mathematics programs is the atomisation of the curriculum into a seemingly endless list of discrete ‘topics’ where ‘coverage’ becomes the major goal of planning, the predominant mode of learning is ‘example/demonstrate-practice-practice’, and the majority of those exercises remain as they were observed by Vincent and Stacey in 2008 as relatively low-level, skill based repetitious exercises." (Siemon, 2021, p. 8)
 
-
 - Key to effective teaching 
+
+    Linked to [[instrumental-relational-mathematics|learning with understanding]]
+
 - Impact student outcomes
+
+
+
 
 ### Teacher need
 
@@ -109,6 +114,21 @@ Rutherford & Ahlgren (1989)
 <caption>Four fields and nine big ideas of the learning map</caption>
 </figure>
 
+## Corovic (2017)
+
+Suggest two approaches to using big ideas in unit planning
+
+- Top down - real world to curriculum 
+
+    The approach used in [[reading-and-writing-the-world-with-mathematics]]
+
+- Bottom up - start from curriculum and find the connections
+
+    Using the big ideas across disparate content descriptions to weave a coherent narrative.
+
+
+
+
 
 ## Siemon (2022)
 
@@ -130,11 +150,37 @@ Variety of definitions. Diversity mapped using the dimensions of
 
     Expressed as _concepts_ or _processes_. Processes seen as problematic. Related to how big ideas are identified: top-down leading to declarative statements from analysis of knowledge, bottom-up - expressed as evidence-based descriptions of concepts/processes over time..
 
-### What implications do Big Ideas have for the teaching and learning of mathematics?
+
+Also references projects that developed the following "big ideas" for teaching
+
+| By end of | Big Idea | Indicated by |
+| --------- | -------- | ------------ |
+| Prep/K | Trusting the Count | Access to flexible mental objects for the numbers to ten based on part-part-whole knowledge derived from subitising and counting |
+| Year 2 | Place-value | Capacity to recognise and work with place-value units and view larger numbers as counts of these units rather than collections of ones. Appreciates structure in terms of ’10 of these is 1 of those’ |
+| Year 4 | Multiplicative Thinking | Initial Ideas – Works with multiple representations of multiplication and division (e.g., the ‘for each’, ‘times as many’ and ‘area’ ideas). Moving to factor-factor-product idea, efficient strategies for multiplication facts | 
+| Year 6 | Equi-partitioning | Uses partitioning strategies to construct line and areas models for fractions and decimals, uses representations to compare, order and locate fractions and decimals on number lines, recognise that numbers can be divided to create new numbers, solves simple problems involving fractions | 
+| Year 8 | Proportional Reasoning | Ability to recognise and work with an extended range of concepts for multiplication and division including rate, ratio, percent, solves problems involving intensive quantities and proportional relationships | 
+| Year 10 |  Generalising | Capacity to recognise and represent patterns and relationships in multiple ways including symbolic expressions, devise and apply general rules and properties |
+
+Also offers the following
+
+| Big Idea | Description |
+| --- | ---- |
+| Unitising | Recognition of small collections as composite units (e.g. 7 ones is 1 seven) |
+| Part-Part-Whole | (not well described)  |
+| Place value | Where a number if placed changes its value. Move easily between 100s, 10s, 1s. A multiplicative process |
+| Equivalence | TIMTOWDI - there are multiple different ways to represent numbers, measures, and number sentences | 
+| Relational thinking | Being able to see and use possibilities of _variation_ between numbers in a number sentence. Ability to work with equivalence, part-part-whole knowledge and recognising properties (commutativity, distributivity, associativity) |
+| Structural thinking | Identification of general properties instantiated in particular situations as relationships between elements or subsets of elements of a set |
+| Multiplicative thinking | Moving beyond repeated addition so as to engage effectively with fractions, decimals, percent, rate, ratio and proportion |
+
 
 ## References
 
+
 Charles, R. I. (2005). *Big Ideas and Understandings as the Foundation for Elementary and Middle School Mathematics*. *7*(3).
+
+Corovic, E. (2017). Big Ideas in Mathematics. *The Common Denominator*, *263*. <https://www.mav.vic.edu.au/Tenant/C0000019/00000001/downloads/Resources/Common%20Denominator/2017-July.pdf>
 
 Confrey, J., Gianopulos, G., McGowan, W., Shah, M., & Belcher, M. (2017). Scaffolding learner-centered curricular coherence using learning maps and diagnostic assessments designed around mathematics learning trajectories. *ZDM*, *49*(5), 717--734. <https://doi.org/10.1007/s11858-017-0869-1>
 
@@ -148,5 +194,7 @@ Siemon, D. (2022). *Teaching with the Big Ideas in Mathematics* (p. 28). State o
 [mathematical-structure]: mathematical-structure "Mathematical structure"
 [drons-technology|definition of educational technology]: ..%2F..%2Fnodt%2Fdrons-technology "Dron's take on technology"
 [instrumental-relational-mathematics]: instrumental-relational-mathematics "Two types of teaching mathematics: instrumental and relational"
+[instrumental-relational-mathematics|learning with understanding]: instrumental-relational-mathematics "Two types of teaching mathematics: instrumental and relational"
+[reading-and-writing-the-world-with-mathematics]: reading-and-writing-the-world-with-mathematics "Reading and writing the world with mathematics"
 [how-learning-works]: ..%2F..%2FLearning%2Fhow-learning-works "How learning works"
 [//end]: # "Autogenerated link references"

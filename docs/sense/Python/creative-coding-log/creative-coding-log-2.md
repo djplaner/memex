@@ -4,7 +4,7 @@ type: note
 tags: creativeCoding, python
 ---
 
-See also: [[creative-coding-with-manim]]
+See also: [[creative-coding-with-python]]
 
 ## Getting set up
 

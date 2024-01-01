@@ -16,28 +16,17 @@ Deal with the
 - including the constraints of the curriculum, common approaches to teaching, conceptions of mathematics
 - the huge diversity of students on numerous fronts, including the mathematical literacy/ability
 
-Aiming to help students develop a [[mathematical-mindset]]
+## Tasks
 
-Informed by [[memex/norman-activity-centered-design]], [[abc-learning-design-and-acad]], [[needs-for-learning-design-systems]], [[evolution-of-design-for-learning]]
+- [ ] Identify specific set of norms
 
-## Implementation
+  - Link to school expectations
 
-1. Identify a set of principles to guide the next step
-2. Identify a common set of activity types for lessons (draw more on ABC Learning Design)
+- [ ] Design themes/structures for units
 
-    - starters
-        - retrieval
-        - connections
-    - content acquisition
-    - inquiry learning - problems
-    - worksheets
-    - connections with mathematics/real world??
-    - homework
+- [ ] Refine activities
 
-3. Figure out effective, digital methods for production and support
-4. Identify [[big-ideas-in-mathematics|big ideas]]/driving questions for units and lessons
-
-  Questions all the way down
+- [ ] Figure out effective, digital methods for production and support
 
 ### Principles
 
@@ -48,7 +37,53 @@ Informed by [[memex/norman-activity-centered-design]], [[abc-learning-design-and
   - driving questions 
 - integrate [[assessment-for-learning]] - [[data-informed-teaching]]
 
-### Strategies
+Aiming to help students develop a [[mathematical-mindset]] / [[mathematical-mindsets]]. Weave in principles from other work (e.g. the [GiST 7 principles](https://www.thegist.edu.au/educators/girls-in-stem/inclusive-classrooms/seven-principles-for-a-gender-inclusive-learning-environment/) and [Gutstein's reading and writing the world with mathematics (RWWM)](https://wordpress.oise.utoronto.ca/robertson/reading-and-writing-the-world-with-mathematics/)). 
+
+Informed by [[memex/norman-activity-centered-design]], [[abc-learning-design-and-acad]], [[needs-for-learning-design-systems]], [[evolution-of-design-for-learning]]
+
+Beyond the norms/principles there will be a range of other insights/practices underpinning this approach. Possible examples include: lesson planning using [[productive-failure|productive failure]]; designing collaborative learning informed by [[complex-instruction|complex instruction]] and [[building-a-thinking-classroom|thinking classrooms]];  [[assessment-for-learning|assessment for learning]]; and leveraging digital technologies.
+
+## Curriculum design
+
+Take units of work and draw on mathematical big ideas and RWWM to create a structure for the unit's mathematical knowledge and skills (K&S) that is meaningful/accessible to students. Develop graphical organisers and other assessment for learning practices/resources that have the students actively engaged with the structure and their progress.
+
+## Activity Types
+
+### Expectations
+
+[math expectations](#math-expectations) - set, model, reinforce expectations
+
+### starters
+
+Move beyond just simple revision to integrate [[number-talks|number talks]] etc. designed to engage students more broadly in fundamental mathematical K&S.
+
+### [[math-connections-activity-type]] 
+
+Help students see connections within and outside of mathematics
+
+Including stories about the history/use of mathematics (emphasising the purposeful development of abstract ideas).  Linked to [[effective-pedagogy-in-mathematics#Use tasks and resources to challenge and support students mathematics|ideas of using stories]] to help students understand mathematics.
+
+### recognising/modelling tasks
+
+e.g. ["Which one doesn't belong"](http://wodb.ca/) (HT: [Janelle](https://canvas.catalog.adelaide.edu.au/courses/1042/discussion_topics/3098/entry-3745)), [[contemplate-then-calculate]], [What Can You Do With That (WCYDWT)](https://blog.mrmeyer.com/2010/wcydwt-car-talk/), or [[math-watch|Math Watch]]
+
+### [[rich-mathematical-tasks|rich tasks]];
+
+Tasks with a [[low-floor-high-ceiling-wide-walls|a low floor, wide walls, and high ceilings]] 
+
+### "wax on, wax off" (Explicit teaching)
+
+I suspect there will still be call (if only due to personal inertia) for explicit teaching/worksheets. Focused on mathematical K&S and perhaps other topics (e.g. brain science, growth mindset, the learning pit etc.). Hence give it a label that makes the purpose explicit.
+
+### closers
+
+Exit tickets or [others](https://www.edutopia.org/blog/22-powerful-closure-activities-todd-finley). 
+
+## [homework](#homework) 
+
+Focused on reflection, conceptual understanding, connections etc (not procedural)
+
+## Other possible strategies
 
 - Liljedahl's 
 
@@ -69,20 +104,6 @@ The vague idea is to develop a small collection of common activity types - relat
 
 1. Integrated into lessons as required, regardless of the broader pedagogical framework/approach
 2. Perhaps eventually form the basis for a form of [[activity-based design|abc-learning-design-and-acad]]
-
-A nascent list
-
-- [math expectations](#math-expectations) - set, model, reinforce expectations
-- math warm ups - what to do on entry?
-- [[math-connections-activity-type]] - help students see connections within and outside of mathematics
-- rich math tasks - need a better name for this
-- math practice
-- [homework](#homework) focused on reflection, conceptual understanding, connections etc (not procedural)
-
-Underpinning all are perhaps ideas like
-
-- Encouraging a [[mathematical-mindset]]
-- Building all of: computation/procedural skills; conceptual understanding; and, problem solving. -- move beyond repetition of procedures
 
 ### Math expectations
 
@@ -110,13 +131,23 @@ Richland, L. E., Stigler, J. W., & Holyoak, K. J. (2012). Teaching the Conceptua
 [//begin]: # "Autogenerated link references for markdown compatibility"
 [teaching-mathematics]: teaching-mathematics "Teaching Mathematics"
 [my-teaching-philosophy]: ..%2Fmy-teaching-philosophy "My Teaching Philosophy"
+[assessment-for-learning]: ..%2FAssessment%2Fassessment-for-learning "Assessment for learning"
+[data-informed-teaching]: ..%2Fdata-informed-teaching "Data informed teaching"
 [mathematical-mindset]: mathematical-mindset "Mathematical Mindset"
+[mathematical-mindsets]: mathematical-mindsets "Mathematical mindsets"
 [memex/norman-activity-centered-design]: ..%2F..%2F..%2F..%2Fnorman-activity-centered-design "Don Norman on Activity-Centered Design"
 [abc-learning-design-and-acad]: ..%2F..%2FDesign%2Fabc-learning-design-and-acad "ABC Learning Design and ACAD"
 [needs-for-learning-design-systems]: ..%2F..%2F..%2Fshare%2Fblog%2Fneeds-for-learning-design-systems "Needs for Learning Design Systems"
 [evolution-of-design-for-learning]: ..%2F..%2FDesign%2Fevolution-of-design-for-learning "Evolution of design for learning"
-[big-ideas-in-mathematics|big ideas]: big-ideas-in-mathematics "big-ideas-in-mathematics"
-[assessment-for-learning]: ..%2FAssessment%2Fassessment-for-learning "assessment-for-learning"
-[data-informed-teaching]: ..%2Fdata-informed-teaching "data-informed-teaching"
+[productive-failure|productive failure]: productive-failure "Productive Failure"
+[complex-instruction|complex instruction]: complex-instruction "Complex instruction"
+[building-a-thinking-classroom|thinking classrooms]: building-a-thinking-classroom "Building a thinking classroom"
+[assessment-for-learning|assessment for learning]: ..%2FAssessment%2Fassessment-for-learning "Assessment for learning"
+[number-talks|number talks]: number-talks "Number talks"
 [math-connections-activity-type]: activity-types%2Fmath-connections-activity-type "Mathematical Connections Activity Type"
+[effective-pedagogy-in-mathematics#Use tasks and resources to challenge and support students mathematics|ideas of using stories]: effective-pedagogy-in-mathematics "Effective pedagogy in mathematics"
+[contemplate-then-calculate]: contemplate-then-calculate "Contemplate then calculate"
+[math-watch|Math Watch]: math-watch "Math Watch"
+[rich-mathematical-tasks|rich tasks]: rich-mathematical-tasks "Rich mathematical tasks"
+[low-floor-high-ceiling-wide-walls|a low floor, wide walls, and high ceilings]: ..%2Flow-floor-high-ceiling-wide-walls "Low Floor, High Ceiling, Wide Walls"
 [//end]: # "Autogenerated link references"

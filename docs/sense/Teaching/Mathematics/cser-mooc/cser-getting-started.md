@@ -161,61 +161,53 @@ One of three tasks
 
 ### In practice
 
-_Develop this as a high level summary of a more detailed plan_
-
-To do
-
-- Merge together the principles from misc sources into [[my-teaching-philosophy]] and [[my-approach-to-teaching-mathematics]] and use this as the source for this summary description
-
-    - Pull out more specific advice from the [GiSTEM principles](https://www.thegist.edu.au/educators/girls-in-stem/inclusive-classrooms/seven-principles-for-a-gender-inclusive-learning-environment/) and [the GiST toolkit](https://www.thegist.edu.au/media/a21ldion/gist_classroom_strategies_booklet_web.pdf)
-
 #### Approach
 
-- [[motivation]] 
+In 2024 I'll be a first year teacher. Everything is new. Hence my current _in practice_ focus is my overall approach to learning and teaching. I've already accepted the #PromoteMindsets idea as a key principle. The question now is how and what will it look like? 
 
-    - focused on levers of: environment; goals; efficacy; and value.
-    - each of these in turn connected to the other tasks/concepts below
+As for how will I know it worked? Primarily my hope is that having effective assessment for learning practices as a key component will help answer that question. Along with my observations, more general discussion with students and peers, and of course final results.   
 
-- Iterative developmental approach working toward something sustainble 
+What follows is a brief (but probably still longer than necessary for these purposes, apologies) current description. The reality is likely to be very different. It will definitely by an on-going iterative and emergent design process. 
 
-    - [[childs-birthday-party]]
-    - [[building-a-thinking-classroom]]
+- Expectations, norms and design principles.
 
-- Have a small set of known activity types that I and the students become familiar with (many of the following bullet points)
+    Adopt and adapt [Boaler's mathematical mindsets approach/principles](https://www.frontiersin.org/articles/10.3389/feduc.2021.784393/full) principles and norms. Weave in principles from other work (e.g. the [GiST 7 principles](https://www.thegist.edu.au/educators/girls-in-stem/inclusive-classrooms/seven-principles-for-a-gender-inclusive-learning-environment/) and [Gutstein's reading and writing the world with mathematics (RWWM)](https://wordpress.oise.utoronto.ca/robertson/reading-and-writing-the-world-with-mathematics/)). 
+    
+    Weave these with school expectations and practices (e.g. awarding PBL points to students asking good mathematical questions, esp. those arising from outside class observations.)
 
-  - Expectations - need to identify a core set of expectations and map against the activity types
+- underpinning practices;
 
-    - being a mathematician
-    - [[mathematical-mindsets]]
-    - integrating with school expectations
+    Beyond the norms/principles there will be a range of other insights/practices underpinning this approach. Possible examples include: lesson planning using [[productive-failure|productive failure]]; designing collaborative learning informed by [[complex-instruction|complex instruction]] and [[building-a-thinking-classroom|thinking classrooms]];  [[assessment-for-learning|assessment for learning]]; and leveraging digital technologies.
 
-- Need to start with providing big picture for why and what mathematics is 
+- structure the unit/term to aid learning;
 
-    - [[reading-and-writing-the-world-with-mathematics]] 
-    - [[big-ideas-in-mathematics]]
-    - mathematics as identifying and using patterns to read/write the world??
+    Draw on mathematical big ideas and RWWM to create a structure for the unit's mathematical knowledge and skills (K&S) that is meaningful/accessible to students. Develop graphical organisers and other assessment for learning practices/resources that have the students actively engaged with the structure and their progress.
 
-- Mathematically making explicit the distinction between the types of math we're doing
+- identify and refine a set of learning activity types;
 
-    Think about this distinction? Is it useful? Is it meaningful? Is it hurtful?  But a distinction that could be made to activities that we do in all the activity types.
+    Establish a common class language and understanding of the purpose of the tasks we engage in. Some early examples, include: 
 
-    - actual mathematics [[rich-mathematical-tasks]]
+      - starters;
 
-        - link with role models/tasks
-        - [[math-watch]] linked to PBL points
+        Move beyond just simple revision to integrate [[number-talks|number talks]] etc. designed to engage students more broadly in fundamental mathematical K&S.
 
-    - wax on, wax off 
+      - recognising/modelling tasks; 
 
-- [[complex-instruction]]
-- digital technologies
+        e.g. ["Which one doesn't belong"](http://wodb.ca/) (HT: [Janelle](https://canvas.catalog.adelaide.edu.au/courses/1042/discussion_topics/3098/entry-3745)), [[contemplate-then-calculate]], [What Can You Do With That (WCYDWT)](https://blog.mrmeyer.com/2010/wcydwt-car-talk/), or [[math-watch|Math Watch]]
 
-Sequence across the term/year
+      - [[rich-mathematical-tasks|rich tasks]];
 
-- Early on establish student goals, knowledge, experience/relationship with mathematics and school - and mindsets
-- Use assessment for learning practices to keep refining and gaining information about these
+        Tasks with a [[low-floor-high-ceiling-wide-walls|a low floor, wide walls, and high ceilings]] 
 
-    - goal setting for motivation
-    - expectations to help with perceptions of environment
+      - "wax on, wax off"; 
+
+        I suspect there will still be call (if only due to personal inertia) for explicit teaching/worksheets. Focused on mathematical K&S and perhaps other topics (e.g. brain science, growth mindset, the learning pit etc.). Hence give it a label that makes the purpose explicit.
+
+    - closers
+
+        Exit tickets or [others](https://www.edutopia.org/blog/22-powerful-closure-activities-todd-finley). 
+
+
 
 
 [//begin]: # "Autogenerated link references for markdown compatibility"
@@ -231,14 +223,8 @@ Sequence across the term/year
 [mathematical-mindsets]: ..%2Fmathematical-mindsets "Mathematical mindsets"
 [growth-mindset]: ..%2Fgrowth-mindset "Growth Mindset"
 [talk-moves]: ..%2Ftalk-moves "Talk moves"
-[my-teaching-philosophy]: ..%2F..%2Fmy-teaching-philosophy "My Teaching Philosophy"
-[my-approach-to-teaching-mathematics]: ..%2Fmy-approach-to-teaching-mathematics "My approach to teaching mathematics"
-[motivation]: ..%2F..%2F..%2FHerding%20Cats%2Fmotivation "Motivation"
-[childs-birthday-party]: ..%2F..%2F..%2FDistribution%2Fchilds-birthday-party "Organising a child's birthday party"
-[building-a-thinking-classroom]: ..%2Fbuilding-a-thinking-classroom "Building a thinking classroom"
-[reading-and-writing-the-world-with-mathematics]: ..%2Freading-and-writing-the-world-with-mathematics "Reading and writing the world with mathematics"
-[big-ideas-in-mathematics]: ..%2Fbig-ideas-in-mathematics "Big ideas in mathematics"
-[rich-mathematical-tasks]: ..%2Frich-mathematical-tasks "Rich mathematical tasks"
-[math-watch]: ..%2Fmath-watch "Math Watch"
-[complex-instruction]: ..%2Fcomplex-instruction "Complex instruction"
+[productive-failure|productive failure]: ..%2Fproductive-failure "Productive Failure"
+[complex-instruction|complex instruction]: ..%2Fcomplex-instruction "Complex instruction"
+[building-a-thinking-classroom|thinking classrooms]: ..%2Fbuilding-a-thinking-classroom "Building a thinking classroom"
+[assessment-for-learning|assessment for learning]: ..%2F..%2FAssessment%2Fassessment-for-learning "Assessment for learning"
 [//end]: # "Autogenerated link references"

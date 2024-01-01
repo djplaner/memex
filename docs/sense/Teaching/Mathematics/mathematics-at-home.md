@@ -28,10 +28,21 @@ Suggested methods for communicating mathematics - most of these are one-way
 
 ## Foster respectful relationships
 
+Takes a more explicit focus at encouraging families to engage in math at home
+
+- Suggest starting by finding a shared mathematical purpose (e.g. reducing energy use at home)
+- students are important to forging these relationships
 
 ## Positive attitudes to mathematics
 
+- importance of attitudes to performance
+- active encourage opportunities to see/do/talk about mathematics
+
 ## Demystify mathematics and build confidence
+
+- helping provide families with confidence to help their children with mathematics
+- one approach was fornightly maths for parents sessions 
+- Math walls - forms of making mathematical thinking/reasoning visible
 
 ## References
 

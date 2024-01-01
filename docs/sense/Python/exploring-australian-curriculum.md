@@ -12,6 +12,8 @@ See also: [[casa]], [[datasette]], [[australian-curriculum]], [[other-oz-curricu
 
     See [[v9-learning-areas]]
 
+- TODO Parse the capabilities (esp. numeracy) to access the learning progression information
+
 ## What?
 
 The [[australian-curriculum]] defines most of what Australian school students learn. It is provided as [website](https://australiancurriculum.edu.au/) and related resources. For teachers, understanding and working with the curriculum is an essential part of their work. But no website can serve all the potential uses for the curriculum and its content. This [[casa]] serves a few purposes, including

@@ -18,7 +18,7 @@ See also: [[to-read]]
     - [ ] Pythonic insertion of "link here"
 - [ ] [reveal.js](https://revealjs.com/) and [reveal-md](https://github.com/webpro/reveal-md) - options for markdown presentations
 
-- [ ] [[creative-coding-with-manim]]
+- [ ] [[creative-coding-with-python]]
 
 To do
 

@@ -4,7 +4,7 @@ type: "note"
 tags: digital-technology, programming
 ---
 
-See also: [[digital-art]], [[teaching-digital-technologies]]
+See also: [[creative-coding]], [[teaching-digital-technologies]]
 
 Discussed by Turkle & Paper (1990) as a different approach to programming than the traditional structured approach. Mitchell & Bown (2013) position bricolage programming between the structured approach and the trial and error approach.
 
