@@ -290,7 +290,7 @@ The working title - which I may not tell students - for this learning activity i
 
 ### The approaches used
 
-Early thinking has been on-going for a while but the this module has provided some very useful explicit connections with the the Goompi model, the related [[ramr-cycle|RAMR framework]] from [Yumi Deadly Maths](https://research.qut.edu.au/ydc/about/yumi-deadly-maths/), and the 8Ways of learning.
+Early thinking has been on-going for a while but the this module has provided some very useful explicit connections with the the Goompi model, the related [[ramr-cycle|RAMR framework]] from [Yumi Deadly Maths](https://research.qut.edu.au/ydc/about/yumi-deadly-maths/), and the 8Ways of learning. But there are also connections with mathematical investigations and CRA (e.g. YDM is explicitly influenced by Bruner)
 
 ### Mathematics to be covered
 
