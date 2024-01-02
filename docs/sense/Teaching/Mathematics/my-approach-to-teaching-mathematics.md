@@ -47,6 +47,10 @@ Beyond the norms/principles there will be a range of other insights/practices un
 
 Take units of work and draw on mathematical big ideas and RWWM to create a structure for the unit's mathematical knowledge and skills (K&S) that is meaningful/accessible to students. Develop graphical organisers and other assessment for learning practices/resources that have the students actively engaged with the structure and their progress.
 
+Search for problems/inquiry tasks
+
+- [[resolve-mathematics-by-inquiry]]
+
 ## Activity Types
 
 ### Expectations
@@ -143,6 +147,7 @@ Richland, L. E., Stigler, J. W., & Holyoak, K. J. (2012). Teaching the Conceptua
 [complex-instruction|complex instruction]: complex-instruction "Complex instruction"
 [building-a-thinking-classroom|thinking classrooms]: building-a-thinking-classroom "Building a thinking classroom"
 [assessment-for-learning|assessment for learning]: ..%2FAssessment%2Fassessment-for-learning "Assessment for learning"
+[resolve-mathematics-by-inquiry]: resolve-mathematics-by-inquiry "reSolve - Mathematics by inquiry"
 [number-talks|number talks]: number-talks "Number talks"
 [math-connections-activity-type]: activity-types%2Fmath-connections-activity-type "Mathematical Connections Activity Type"
 [effective-pedagogy-in-mathematics#Use tasks and resources to challenge and support students mathematics|ideas of using stories]: effective-pedagogy-in-mathematics "Effective pedagogy in mathematics"

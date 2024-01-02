@@ -2,7 +2,7 @@
 
 See also: [[teaching-mathematics]], [[inquiry-learning]]
 
-[re(Solve) - Maths by Inquiry](https://www.resolve.edu.au/) - Oz Government funded project including numerous teaching resources including alignment with Oz Curriculum
+[re(Solve) - Maths by Inquiry](https://www.resolve.edu.au/) - Oz Government funded project including numerous teaching resources including alignment with Oz Curriculum (but sadly not v9)
 
 ## [reSolve Protocol](https://www.resolve.edu.au/sites/default/files/downloads/reSolve%20Protocol_MC%20approved%2021.06.16%20FINAL.pdf?time=1503549866)
 

@@ -1,5 +1,5 @@
 ---
-title: "CSER Maths in Schools - Getting started module"
+title: "CSER MiS - Getting started module"
 type: note
 tags: cser, cser-maths-in-schools, cser-getting-started, teaching-mathematics
 ---
