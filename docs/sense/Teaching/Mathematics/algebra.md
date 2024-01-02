@@ -13,6 +13,10 @@ Hodgen et al (2018) provide this summary
 - when solving problems aid students to choose deliberately
 - worked examples can be useful to appreciate algebraic reasoning and different solution approaches
 
+## Lesson ideas and resources
+
+- [matchstick patterns](https://nzmaths.co.nz/resource/matchstick-patterns)
+
 
 ## References
 
