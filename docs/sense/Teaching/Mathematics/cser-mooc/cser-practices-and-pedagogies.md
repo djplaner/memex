@@ -298,6 +298,10 @@ The key mathematics covered this activity is around the question "What is mathem
 
 With the intent to have a low floor and be applicable at most year levels the activity will introduce the concept of [magic squares](https://en.wikipedia.org/wiki/Magic_square). Students will be expected to draw on some existing mathematical knowledge ranging from addition to perhaps some algebra.
 
+### Tips
+
+Limited practical tips since the activity is still in the planning phase. However, the current design is tightly connected to the purpose of setting up an on-going set of routines and expectations for a class. If those routines/expectations don't fit your class, some modification of the design would be advisable.
+
 ### What will we do
 
 #### Reality
@@ -310,15 +314,19 @@ Engage in discussions about
 
 Organise students into small groups, introduce the card game [[number-scrabble|Number Scrabble (aka 15)]], play a game with them, before they play a few rounds. 
 
-#### Abstraction
-
-Before the students start playing themselves. Provide them with a templates track the results of games. The numbers each player draws, if they won etc.
-
 Challenge the students to start thinking about winning strategies for Number Scrabble. 
 
-#### Mathematics  
+#### Abstraction
+
+Before the students start playing themselves. Provide them with a template to track the steps and outcomes of games. The numbers each player draws, if they won etc.
+
+After a few rounds ask for any winners to share their strategies. 
 
 **(Non-linear)** engage in discussion about the strategies they've come up with. Ask/help them to make explicit connections to mathematics they've learned so far. Talk about how well those methods worked.
+
+Depending on time, get the students to play another few rounds to put these strategies into practice. Discuss if/how overall performance changed.
+
+#### Mathematics  
 
 Introduce magic squares including giving its history of usage across cultures (e.g. China, Japan, India etc.). Ending with the planetary squares from Europe (around 1531) and see if anyone makes a connection between Saturn's square and Number Scrabble.
 
@@ -337,6 +345,7 @@ Introduce the Goompi model and talk more about the view of mathematics it encomp
 Engage in a discussion about the implications of this view for the question of "what is mathematics and why is it important (to me)?". 
 
 Link this to on-going practices and expectations for the class. Ask the students to start thinking about what parts of reality they'd like to explore in the future and explain how we'll try to support that exploration. 
+
 
 
 
