@@ -32,7 +32,14 @@ Collection of resources around the use of digital technology in art.
 - [School for Poetic Computation](https://sfpc.study) - experimental school supporting interdisciplinary study of art, code, hardware, and critical theory -- [[poetic-computation]].
 - [Genuary](https://genuary.art/) - an on-going project that develops a collection of daily prompts used to "build code that makes beautiful things" #genuary. With [galleries](https://www.joyn.xyz/contest/genuary-day-gallery-generative-music-09d66f6e5482?)
 
-## Artists
+## Artists, Coders etc.
+
+- [Everest Pipkin](https://everest-pipkin.com/#about/bio.html) - game developer, writer
+
+    Behind the [TinyTools directory](https://tinytools.directory/) and so much more. More of a critical stance.
+
+- [Neta Bomani](https://netabomani.com) - leader/educator involved with  (School for) Poetic Computation, artist
+
 
 ### Vera Molnar
 

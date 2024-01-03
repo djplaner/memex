@@ -63,10 +63,10 @@ Gutstein (2016) draws on numerous studies to derive the following points.
 
    - challenges 
 
-        - preparing and supporting teachers given their existing dispositions, knowledge & experience; 
-        - dealing with curricular mandates and practical structural issues;
-        - paying sufficient attention to all the complex interconnected knowledge strands; 
-        - students' resistance to nontraditional curriculum and pedagogies
+       - preparing and supporting teachers given their existing dispositions, knowledge & experience; 
+       - dealing with curricular mandates and practical structural issues;
+       - paying sufficient attention to all the complex interconnected knowledge strands; 
+       - students' resistance to nontraditional curriculum and pedagogies
 
 3. Explorations of aspects of identity
 4. Limitations of research 

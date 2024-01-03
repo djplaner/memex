@@ -27,6 +27,13 @@ An online MOOC, included as [PD from the Mathematics Hub](https://www.mathematic
 
     ----
 
+    - [x] View all sections 
+    - [x] Module task 2  
+
+- #### [[cser-connections-with-community]]
+
+    ----
+
     - [ ] View all sections 
     - [ ] Module task 2  
 

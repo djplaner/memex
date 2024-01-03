@@ -12,7 +12,14 @@ See also: [[casa]], [[datasette]], [[australian-curriculum]], [[other-oz-curricu
 
     See [[v9-learning-areas]]
 
-- TODO Parse the capabilities (esp. numeracy) to access the learning progression information
+### To do 
+
+- Further australian curriculum parsing 
+  - Capabilities (esp. numeracy) to access the learning progression information
+  - Cross curriculum priorities 
+  - content descriptions use the `dcterms:relation` to link to other learning areas via URI e.g. (AC9M9ST01)
+- Explore views similar to that provided by this [AMSI spreadsheet](https://calculate.org.au/2015/05/26/vertical-view-of-the-australian-curriculum-mathematics/) which illustrates some useful ways to represent just the curriculum - minimal linkages outside (e.g. big ideas)
+
 
 ## What?
 

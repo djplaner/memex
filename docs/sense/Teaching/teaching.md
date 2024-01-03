@@ -18,6 +18,7 @@ Collection of resources, ideas etc around secondary teaching.
 
     - [[queensland-schools]]
     - [[APSTs]]
+    - [[first-nations|First Nations]]
 
 - __Disciplines__
 
@@ -138,6 +139,7 @@ Structure inspired by [[goodyear-patterns-design-practice]] description of the e
 [design]: ..%2FDesign%2Fdesign "Design"
 [queensland-schools]: Digital_Technologies%2Fqueensland-schools "Queensland Schools"
 [APSTs]: apsts "Australian Professional Standards for Teachers"
+[first-nations|First Nations]: first-nations "First Nations"
 [teaching-mathematics|Mathematics]: Mathematics%2Fteaching-mathematics "Teaching Mathematics"
 [teaching-digital-technologies|Digital Technologies]: Digital_Technologies%2Fteaching-digital-technologies "Teaching Digital Technologies"
 [acu-rtt|ACU's Return to Teaching course]: RTT%2Facu-rtt "ACU's Return to Teaching course"

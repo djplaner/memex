@@ -10,7 +10,7 @@ Following [[exploring-drons-definition-of-educational-technology|Dron's definiti
 
 - [graspable math](https://graspablemath.com/about) - online tool for algebra by manipulation
 
-Notes related to mathematics specific pedagogy
+## Mathematics specific pedagogy
 
 - [[student-centered-mathematics-instruction]]
 - [[checks-for-pedagogy]] 
@@ -94,6 +94,8 @@ Misc. mathematics/teaching projects
 
 ## Misc resources
 
+- [Mathematics in asia resources](https://www.asiaeducation.edu.au/curriculum/mathematics/details/mathematics-curated-digital-resources)
+- [Learn and play together](https://www.mathematicshub.edu.au/families/for-parents-and-carers/learn-and-play-together/) - numeracy activities for home (perhaps not immediately useful)
 - [[mathematical-memes]]
 - [Maths A to Z](https://education.nsw.gov.au/parents-and-carers/learning/maths/maths-a-to-z#Accuracy_1) - from NSW DoE
 - [Awesome Math](https://github.com/rossant/awesome-math) - curate list hosted on github

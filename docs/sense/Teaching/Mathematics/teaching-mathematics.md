@@ -24,6 +24,7 @@ Collection of misc. resources for teaching mathematics. Eventually informing an 
 
     - [[teaching-mathematics-symptoms]] - reports of what's wrong with the teaching of mathematics
     - [[when-will-i-ever-use-mathematics]]
+    - [[pi-day]]
 
     ### Societal examples of mathematics
 
@@ -97,7 +98,7 @@ Collection of misc. resources for teaching mathematics. Eventually informing an 
 
     ---
 
-    Specific methods for teaching mathematics.
+    Specific methods (& resources) for teaching mathematics.
 
     ---
 
@@ -141,6 +142,7 @@ Boaler, J. (2015). Creating Mathematical Mindsets: The Importance of Flexibility
 [2024-teaching-plans]: 2024-teaching-plans "Plans for teaching in 2024"
 [teaching-mathematics-symptoms]: teaching-mathematics-symptoms "Symptoms of the state of mathematics teaching"
 [when-will-i-ever-use-mathematics]: when-will-i-ever-use-mathematics "When will I ever use mathematics"
+[pi-day]: pi-day "pi-day"
 [poverty-premium]: poverty-premium "Poverty Premium"
 [shinkflation]: shinkflation "Shrinkflation"
 [excel-world-championship]: excel-world-championship "Excel World Championship"
