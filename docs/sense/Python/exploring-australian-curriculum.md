@@ -18,6 +18,7 @@ See also: [[casa]], [[datasette]], [[australian-curriculum]], [[other-oz-curricu
   - Capabilities (esp. numeracy) to access the learning progression information
   - Cross curriculum priorities 
   - content descriptions use the `dcterms:relation` to link to other learning areas via URI e.g. (AC9M9ST01)
+  - Can the [maths glossary](https://v9.australiancurriculum.edu.au/downloads/learning-areas#accordion-b71b085f07-item-f1428171c5) be converted from .docx to something useful?
 - Explore views similar to that provided by this [AMSI spreadsheet](https://calculate.org.au/2015/05/26/vertical-view-of-the-australian-curriculum-mathematics/) which illustrates some useful ways to represent just the curriculum - minimal linkages outside (e.g. big ideas)
 
 
