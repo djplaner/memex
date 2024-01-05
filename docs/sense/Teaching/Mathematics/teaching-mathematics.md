@@ -31,6 +31,7 @@ Collection of misc. resources for teaching mathematics. Eventually informing an 
     - [[poverty-premium]]
     - [[shinkflation]]
     - [[excel-world-championship]]
+    - [[other-discipline-mathematics]]
 
 - ## Discipline
 
@@ -147,6 +148,7 @@ Boaler, J. (2015). Creating Mathematical Mindsets: The Importance of Flexibility
 [poverty-premium]: poverty-premium "Poverty Premium"
 [shinkflation]: shinkflation "Shrinkflation"
 [excel-world-championship]: excel-world-championship "Excel World Championship"
+[other-discipline-mathematics]: other-discipline-mathematics "Other Discipline Mathematics"
 [what-is-mathematics]: what-is-mathematics "What is mathematics"
 [what-do-mathematicians-do]: what-do-mathematicians-do "What do mathematicians do?"
 [understanding-mathematics]: understanding-mathematics "Understanding Mathematics"
