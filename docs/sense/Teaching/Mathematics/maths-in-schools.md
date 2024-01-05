@@ -41,9 +41,9 @@ An online MOOC, included as [PD from the Mathematics Hub](https://www.mathematic
 
     ----
 
-    - [ ] View 2 modules
-        - [ ] Number 
-        - [ ] Statistics
+    - [x] View 2 modules
+        - [x] Number 
+        - [x] Statistics
     - [ ] Complete other 4 (optional) modules
         - [ ] Algebra
         - [ ] Space
