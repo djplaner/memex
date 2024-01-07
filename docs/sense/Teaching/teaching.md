@@ -123,6 +123,7 @@ Structure inspired by [[goodyear-patterns-design-practice]] description of the e
     - [[discipline-role-models]]
     - [Project Zero's thinking routines](https://pz.harvard.edu/thinking-routines)
     - [[big-questions]]
+    - [[worked-examples]]
 
 
 </div>

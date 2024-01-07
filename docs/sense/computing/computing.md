@@ -1,23 +1,8 @@
-<!--
- Copyright (C) 2023 David Jones
- 
- This file is part of memex.
- 
- memex is free software: you can redistribute it and/or modify
- it under the terms of the GNU General Public License as published by
- the Free Software Foundation, either version 3 of the License, or
- (at your option) any later version.
- 
- memex is distributed in the hope that it will be useful,
- but WITHOUT ANY WARRANTY; without even the implied warranty of
- MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
- GNU General Public License for more details.
- 
- You should have received a copy of the GNU General Public License
- along with memex.  If not, see <http://www.gnu.org/licenses/>.
--->
-
-# Computing 
+---
+title: "Computing"
+type: "note"
+tags: computing, digital-technology
+---
 
 See also: [[sense]], [[teaching-digital-technologies]]
 
@@ -90,11 +75,11 @@ See also: [[computational-thinking]]
 [data-portability-interoperability]: data-portability-interoperability "Data portability and interoperability"
 [integrated-computing]: integrated-computing "Integrated Computing"
 [computational-thinking]: computational-thinking "Computational thinking"
-[creative-coding]: ..%2FTeaching%2FDigital_Technologies%2Fcreative-coding "Digital art"
+[creative-coding]: ..%2FTeaching%2FDigital_Technologies%2Fcreative-coding "Creative Coding"
 [digital-renovator]: digital-renovator "Digital Renovator"
 [current-digital-dark-age]: current-digital-dark-age "Current Digital Dark Age"
 [computing-ethics]: computing-ethics "Computing related ethics"
-[digital-humanism]: digital-humanism "Digital humanism"
+[digital-humanism]: digital-humanism "Digital Humanism"
 [computing-discipline-definitions]: computing-discipline-definitions "Definitions of computing related disciplines"
 [decomposition]: decomposition "Decomposition"
 [pattern-recognition]: pattern-recognition "Pattern recognition"

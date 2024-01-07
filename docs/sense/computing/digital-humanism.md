@@ -19,12 +19,21 @@ From the [Digital Humanism Initiative](https://caiml.org/dighum/)
 - [Stefan Bohacek](https://stefanbohacek.com/) - [botWiki](https://botwiki.org), [BotMakers](https://BotMakers.org), [Generative Placeholders](https://generative-placeholders.glitch.me) 
 - [Elan Ullendorff](https://elan.place/) - creative/product designer obsessing "over the hidden politics of things, cultural memory as a design object, and pedagogy.
 
+Coding
+
+- [Randal Olson](https://randalolson.com/) - data scientist etc. Open source, blogger, Name/age calculator etc - [data analysis and machine learning projects](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects)
+
+    - Queensland Government [open data portal](https://www.data.qld.gov.au/organization/) -  [Top 10 Baby names by region](https://www.data.qld.gov.au/dataset/top-10-baby-names-by-region)
+
 ### Projects
 
 - [Mask on zone](https://maskon.zone/) - Advice for protest attendees
 - [Escape the Algorithm]
 - [YouTune](https://youtune.glitch.me/) - site that cycles through less viewed songs from YouTube
 - [Escape the algorithm](https://escapethealgorithm.substack.com/) - newsletter examining platforms and algorithms that shape out world
+
+- [Name-age-calcualtor - repo](https://github.com/rhiever/name-age-calculator) and [web page](http://randalolson.com/name-age-calculator/) - simple Javascript/D3 app that generates graph showing # of people by given name at birth and beyond
+
 
 ### [All Tech is Human](https://alltechishuman.org/)
 

@@ -1,4 +1,8 @@
-# conceptual-approach-to-mathematics
+---
+title: "Conceptual approach to mathematics"
+type: note
+tags: teaching-mathematics, mathematical-mindset
+---
 
 See also: [[practice-approach-to-mathematics]], [[teaching-mathematics]]
 
