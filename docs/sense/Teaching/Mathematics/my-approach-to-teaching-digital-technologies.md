@@ -20,12 +20,29 @@ To do
 
 ## Philosophy
 
+- [[my-teaching-philosophy]]
+
 - focus on making, design on [[digital-humanism]]
 - make it impactful and cool
+- a dual focus on learning how to
 
+    - go through the process of design, iteration etc
+    - learn the technical K&U
+        - [[pedagogy-before-technology#Play with your materials|Play with your materials]]
+        - which links somewhat to effectuation and building capital
 
 
 ## Idea bank
+
+### Unifying/underlying practices
+
+From the very earliest lessons embed certain language, practices and processes into what I do
+
+- Design thinking steps from [[unpicking-technologies-education]] or similar
+- Rubberducking with code and examples
+- me having code and digital solutions I'm working on - having a process to share them
+
+Encourage _C3 B4 ME_
 
 ### Identify problems of interest and impact
 
@@ -64,7 +81,10 @@ See [[unpicking-technologies-education#Pedagogy]]
 [teaching-digital-technologies]: ..%2FDigital_Technologies%2Fteaching-digital-technologies "Teaching Digital Technologies"
 [my-approach-to-teaching-mathematics]: my-approach-to-teaching-mathematics "My approach to teaching mathematics"
 [computing]: ..%2F..%2Fcomputing%2Fcomputing "Computing"
+[my-teaching-philosophy]: ..%2Fmy-teaching-philosophy "My Teaching Philosophy"
 [digital-humanism]: ..%2F..%2Fcomputing%2Fdigital-humanism "Digital Humanism"
+[pedagogy-before-technology#Play with your materials|Play with your materials]: ..%2F..%2FDesign%2Fpedagogy-before-technology "Pedagogy before technology"
+[unpicking-technologies-education]: ..%2FDigital_Technologies%2Funpicking-technologies-education "Unpicking technologies education"
 [AC9TDI8P04]: ..%2FCurriculum%2Fv9%2FTechnologies%2FAC9TDI8P04 "AC9TDI8P04"
 [unpicking-technologies-education#Pedagogy]: ..%2FDigital_Technologies%2Funpicking-technologies-education "Unpicking technologies education"
 [the-block-model]: the-block-model "The block model"

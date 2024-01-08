@@ -42,6 +42,7 @@ See also: [[teaching]]
     - [Digital Technologies Hub](https://www.digitaltechnologieshub.edu.au/) - Oz govt funded, all things related to teaching digital technologies - including scope and sequence
     - [[queensland-schools-digital-technologies]]
     - [Junior secondary digital technologies](https://sites.google.com/view/technologies-education/) - Griffith course resources - [[unpicking-technologies-education]]
+    - [[digital-technologies-structures]]
 
 - ## Philosophy 
 
@@ -63,6 +64,7 @@ See also: [[teaching]]
 
     ----
 
+    - [[my-approach-to-teaching-digital-technologies]]
     - [EngageCsEdu](https://www.engage-csedu.org/) - ACM affillated: instructional materials, engagement practices, community - collection of OER for teaching - hosted in ACM DL
     - [NCWIT Engagement Practices Framework](https://ncwit.org/resources/engagement-practices-framework/) 
         - Make it matter
@@ -111,6 +113,8 @@ DiGiacomo, D. K., & Gutiérrez, K. D. (2016). Relational Equity as a Design Tool
 [creative-coding]: creative-coding "Creative Coding"
 [queensland-schools-digital-technologies]: queensland-schools-digital-technologies "Queensland schools and digital technologies"
 [unpicking-technologies-education]: unpicking-technologies-education "Unpicking technologies education"
+[digital-technologies-structures]: digital-technologies-structures "Digital Technologies Structures"
+[my-approach-to-teaching-digital-technologies]: ..%2FMathematics%2Fmy-approach-to-teaching-digital-technologies "My approach to teaching digital technologies"
 [elemental-learning-design]: elemental-learning-design "Elemental learning design"
 [CSSC]: cssc "Computer Science Student-Centered Instructional (CSSC) Continuum"
 [use-modify-create]: use-modify-create "Use-modify-create"

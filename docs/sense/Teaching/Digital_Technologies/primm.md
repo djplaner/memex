@@ -6,7 +6,7 @@ tags: teaching, teaching-digital-technologies
 
 See also: [[teaching-digital-technologies]]
 
-Builds off the [[use-modify-create]] stategy and [[the-block-model]] to place a focus on reading and understanding code before writing it (e.g. [[use-modify-create#TIPP & SEE]])
+Builds off the [[use-modify-create]] strategy and [[the-block-model]] to place a focus on reading and understanding code before writing it (e.g. [[use-modify-create#TIPP & SEE]])
 
 | Stage | Description |
 |---|---|

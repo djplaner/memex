@@ -152,15 +152,283 @@ Solution types
 
 ## Pedagogy
 
+- Activity based learning
+
+- [[elemental-learning-design]]
+
+- Project based learning
+
+    - Build into the Technologies curriculum
+    - Different methods
+
+        - extrinsic Project Based Learning (ePBL)
+
+            - Projects arise externally, pre-determined solutions, replication is that aim
+
+        - intrinsic Project Based Learning (iPBL)
+
+            - students choose solution path, perhaps also choice of problem
+
+    - integrate project management into PBL - timelines, planning, stages, communication, collaboration
+
+- Challenge based learning
+
+    - Framework for learning while solving real-world challenges
+    - collaborative, hands on requiring identificatin of Big Ideas, asking questions, discovery and solution
+
+- Collaboration 
+
+    - Should be taught in secondary
+    - Benefits: broader range of skills, viewpoints, adaptability, can be more efficient
+
+- Play based learning
+
+    - self-chosen and self-directed
+    - intrinsically motivated
+    - guided by mental rules
+    - imaginative
+
+- Integration connections
+
+
+### Misc resources
+
 - [Pedagogy quick reads](https://blog.teachcomputing.org/tag/quickread/) - tagged blog posts (good variety) - from [national Centre for Computing Education](https://teachcomputing.org/) - UK
 - Pair programming
 
     - [pair coding online](https://www.paircoding.online/)
 
 
+## Technologies - core concepts
+
+Thinking skills - mental process we use to do things: solve problems, make decisions, ask questions etc.
+
+- Critical and creative thinking
+
+    - It's the process, the attempt, rather than the solution that's important
+    - Comparison 
+        - Creative thinking: imagine, invent, change, design or create 
+        - Problem solving - improve, design, refine, combine, invent
+        - Critical thinking - analyse, breakdown, compare, list, sequence, rank
+    - One process: 
+      - inquire; 
+
+        -  develop questions 
+        -  identify, process and evaluate information
+
+      - generate; 
+
+        - Create possibilities 
+        - consider alternatives 
+        - put ideas into action
+
+      - analyse; 
+
+        - interpret concepts and problems
+        - draw conclusions and provide reasons
+        - evaluate actions and outcomes
+
+      - reflect
+
+        - thinking about thinking 
+        - transfer knowledge
+
+    - Creativity 
+
+        - preparation - explore the problem's dimenions 
+        - incubation - internal thinking, unconscious
+        - intimation - feeling a solution is on the way
+        - illumination - creative ideas becomes conscious
+        - verification - considered, verified, elaborated, articulated
+
+- Strategic thinking
+
+    - Support skill
+    - Components
+
+        - Entrepreneurial 
+
+            - Defined as being about creating a preferred future, hence many types of entrepreneurs: business, creative (produce creative works), social, knowledge, institutional
+            - [Effectuation](https://effectuation.org/learn-effectuation-page) - another name fo entrepreneurial thinking - 5 key principles
+
+                - Means / Bird in the hand principle - start with your entrepreneurial capital
+                - Affordable loss principle / focus on downside - how much time etc
+                - Co-creation partnership / Crazy quilt principle - cooperating with those you trust, sharing with others increases entrepreneurial capital
+                - Leverage contingencies / lemonade - change, make do
+                - Worldview / control versus prediction akk Pilot in the Plan - can't predict what will happen, but can influence and respond
+        - Collaboration 
+        - Project Management
+        - Growth/moonshots
+
+- Futures thinking - see the world as it may be, and be empowered to change it
+
+    - Scenarios
+    - Trends
+    - Forecasting
+    - Backcasting
+
+- Systems thinking
+
+    Opposite of decomposition by seeing at larger scales, and of futures thinking with a focus on the next little bit.
+
+    - Change over time
+    - Simulations 
+    - Connection circles
+    - Stock and flow
+
+- Design thinking
+
+    - Investigating and defining
+
+        - critiquing, exploring and investigating needs, oportunities and inforamtion
+        - critically reflect on intention, purpose and operation of technologies and design solutions
+        - examine values, analyse, question and review processes and systems
+
+    - Generating and designing
+
+        - developing and communicating ideas for a range of audiences
+        - use critical and creative thinking
+        - evaluate, justify and synthesis
+        - graphical representation
+
+    - Producing and implementing
+
+        - apply various skills and techniques, safe work practices etc
+        - select and use appropriate tools, materials, components, equipment, techniques and processes
+
+    - Testing and evaluating
+
+        - evaluate and make judgements
+        - identify and develop criteria for success
+        - consider implications and consequences
+        - test and judge
+        - reflect and transfer
+
+    - Collaboration and management
+
+## Computational thinking
+
+- Computational thinking
+
+    - Draws on Papert, but not a lot of the Wing related stuff (i.e. [[computational-thinking]])
+
+- Problem thinking 
+
+    - Rarely do teachers allow students to explore and find problems themselves
+    - defining a problem precisely and clearly, identifying the requirements and breaking the problem into manageable pieces and stages
+    - Process - a very sequential and somewhat problematic description 
+      - Identify the problem 
+      - Identify the causes 
+      - Brainstorm solutions
+      - Select the best solution 
+      - Implement a solution plan
+      - Follow up, evaluate, monitor progress
+
+- Data thinking
+
+    - data collection - properties, sources and collection of data
+    - data representation - symbolism and separation 
+    - data interpretation - patterns and contexts
+
+- Algorithmic thinking
+
+    - specification 
+    - algorithms (following and describing)
+    - implementation
+
+- Evaluative thinking
+
+    Examining evidence to make judgements. Evaluative claims have two parts: conclusion and explanation
+
+
+- [Chrome Music Lab](https://musiclab.chromeexperiments.com/) - collection of music related tools - could be used to explore data representation
+
+## Assessment
+
+[QCAA resources](https://www.qcaa.qld.edu.au/p-10/aciq/version-9/learning-areas/p-10-technologies/digital-technologies/digital-technologies-assessment-resources) including standard elaborations
+
+- Recommended that teachers focus on assessing one or two content descriptions in one unit, with selected content descriptions that might also be covered from another learning area. Allowing teachers to _focus assessment_ and provide students _multiple opportunities_ to demonstrate achievement
+
+## Achievement
+
+- Achievement standards
+
+- Work samples
+
+- Design briefs
+
+    - Presents the scope, audience and criteria for an effective design
+        - project summary and background
+        - target users 
+        - design requirements 
+        - proposed solution, and
+        - resources and timeframe
+    - enables clients to make sense of a designed solution and to understand how the designed solution will be achieved
+
+- Assessing general capabilities
+
+    - AC has 7 capabilities divided into two groups
+        - support students to be successful learners: literacy, numeracy, digital literacy, critical and creative thinking
+        - develop ways of being, behaving and learning to live with others: personal and social capability, ethical behaviour, intercultural understanding
+    - embedded into learning area content descriptions
+    - teachers are encouraged to 
+      - model capabilities 
+      - identify connections with capabilities
+      - provide a variety of learning activities to support development
+      - provide opportunities for students to practice as authentic elements of the learning area
+      - provide feedback on progress
+
+- Formative assessment
+
+    - CSER's 4 simple ideas for formative assessment 
+      - Concept maps 
+      - Checklists 
+      - Think aloud 
+      - Quizzes
+
+    - CSER's 4 simple ideas for summative assessment  
+        - Test 
+        - final project 
+        - presentation 
+        - text production
+
+    - Peer critique
+        - Be hard on content, but soft on people
+        - Give critique which is kind, specific, and helpful
+
+## Closing
+
+- School policies
+
+    - Ed Qld owns the copyright of learning materials, but must be able to be released under Creative Commons attribution
+    - Need to check approved sites
+
+- Professional development
+
+    - At least 20 hours per year
+    - Balance of employer directed, teacher identified, a range of types
+
+- Learning communities
+
+    - School community
+    - P&C and Parent body
+    - School networks and clusters 
+    - Professional associations 
+      - QSITE
+      - BETA
+    - Online communities
+        - [Digital technologies in focus](https://www.australiancurriculum.edu.au/resources/digital-technologies-in-focus) project to encourage whole-school/inter-school collaboration
+        - [Grok Academy](https://groklearning.com)
+
+- Time allocations
+
+- Delivery options
+
 
 
 [//begin]: # "Autogenerated link references for markdown compatibility"
 [teaching]: ..%2Fteaching "Teaching"
 [teaching-digital-technologies]: teaching-digital-technologies "Teaching Digital Technologies"
+[elemental-learning-design]: elemental-learning-design "Elemental learning design"
+[computational-thinking]: ..%2F..%2Fcomputing%2Fcomputational-thinking "Computational thinking"
 [//end]: # "Autogenerated link references"
