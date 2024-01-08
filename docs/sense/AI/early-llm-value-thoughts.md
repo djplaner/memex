@@ -1,2 +1,0 @@
-# early-llm-value-thoughts
-

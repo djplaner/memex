@@ -1,2 +1,0 @@
-# teaching-mathematics|Mathematics
-

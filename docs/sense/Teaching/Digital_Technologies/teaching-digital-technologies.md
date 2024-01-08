@@ -98,6 +98,7 @@ See also: [[teaching]]
 
     - [Corpora](https://github.com/dariusk/corpora) - Git repo with a large collection of JSON data files (a collection of static corpora) - has a [Glitch hosted API](https://corpora-api.glitch.me/)
     - [WebGlossary.info](https://webglossary.info/) - interactive online glossary tool based on an e-book
+    - [CodingBat](https://codingbat.com/about.html) - live coding problems for practice (Java & Python)
 
 </div>
 

@@ -68,7 +68,7 @@ A point argued for [in this comment](https://djon.es/blog/2011/05/03/sir-when-ar
 
 e.g. [redit post](https://www.reddit.com/r/math/comments/7u5uat/math_teachers_when_students_inevitably_ask_when/dthtqxs/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) in that mathematics helps improve mental ability and problem solving skills - though with the caveat that how mathematics is taught can be problematic with overemphasis on memorisation or problem solving as algorithmic. Another [post](https://www.reddit.com/r/math/comments/7u5uat/math_teachers_when_students_inevitably_ask_when/dtipbyz/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) links more explicitly to drills in sports (e.g. ladder drills in soccer practice)
 
-    [Another](https://www.reddit.com/r/math/comments/7u5uat/math_teachers_when_students_inevitably_ask_when/dti6e89/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) links it to employers wanting hires with "skills in numeracy, problem solving, abstract thinking and following complicated procedures and instructions"
+[Another](https://www.reddit.com/r/math/comments/7u5uat/math_teachers_when_students_inevitably_ask_when/dti6e89/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) links it to employers wanting hires with "skills in numeracy, problem solving, abstract thinking and following complicated procedures and instructions"
 
 See also:
 
