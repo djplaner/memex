@@ -10,12 +10,15 @@ A (ever-)growing set of ideas.
 
 To do
 
+- [ ] What is the whole school plan for digital technologies?
 - [ ] School resources for
 
     - Makey Makey, Arduino etc, sensors, robots etc - input/output devices
         - Alternative use of mobile phones (possibly questionable from data privacy etc)
+    - [Audit technology access](https://www.digitaltechnologieshub.edu.au/plan-and-prepare/school-implementation/how-to-audit-school-resources/)
 
 - [ ] Explore approaches to project-based learning
+- [ ] [Digital Technologies Hub AI PD](https://www.digitaltechnologieshub.edu.au/understanding-dt/professional-learning/ai-professional-learning/ai-professional-learning-secondary-teacher/)
 
 
 ## Philosophy
@@ -34,11 +37,20 @@ To do
 
 ## Idea bank
 
+### Creative Coding
+
+As a potential theme, [[creative-coding]] offers an application of digital technologies that are a little more creative and out of the ordinary than others (e.g. not gaming). Also potentially offers ways to touch on the key concepts of digital technologies, including:
+
+- data representation 
+
+    e.g. [poster](https://www.digitaltechnologieshub.edu.au/media/3fuctust/data-representation_a3_webyr7-10.pdf): bitmaps and visualising sound
+
 ### Unifying/underlying practices
 
 From the very earliest lessons embed certain language, practices and processes into what I do
 
-- Design thinking steps from [[unpicking-technologies-education]] or similar
+- Design thinking steps from [[unpicking-technologies-education]] or similar - see [[unpicking-digital-technologies-hub]]
+- Making the core concepts (see [[unpicking-digital-technologies-hub#Core Concepts]]) into artefacts and practices in the classroom
 - Rubberducking with code and examples
 - me having code and digital solutions I'm working on - having a process to share them
 
@@ -84,7 +96,10 @@ See [[unpicking-technologies-education#Pedagogy]]
 [my-teaching-philosophy]: ..%2Fmy-teaching-philosophy "My Teaching Philosophy"
 [digital-humanism]: ..%2F..%2Fcomputing%2Fdigital-humanism "Digital Humanism"
 [pedagogy-before-technology#Play with your materials|Play with your materials]: ..%2F..%2FDesign%2Fpedagogy-before-technology "Pedagogy before technology"
+[creative-coding]: ..%2FDigital_Technologies%2Fcreative-coding "Creative Coding"
 [unpicking-technologies-education]: ..%2FDigital_Technologies%2Funpicking-technologies-education "Unpicking technologies education"
+[unpicking-digital-technologies-hub]: ..%2FDigital_Technologies%2Funpicking-digital-technologies-hub "Unpicking the Digital Technologies Hub"
+[unpicking-digital-technologies-hub#Core Concepts]: ..%2FDigital_Technologies%2Funpicking-digital-technologies-hub "Unpicking the Digital Technologies Hub"
 [AC9TDI8P04]: ..%2FCurriculum%2Fv9%2FTechnologies%2FAC9TDI8P04 "AC9TDI8P04"
 [unpicking-technologies-education#Pedagogy]: ..%2FDigital_Technologies%2Funpicking-technologies-education "Unpicking technologies education"
 [the-block-model]: the-block-model "The block model"

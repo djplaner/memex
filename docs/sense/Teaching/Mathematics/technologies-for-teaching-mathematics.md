@@ -55,6 +55,7 @@ teaching activities
 
 - _How close to 100_ - Partners with dice playing a game with a blank 100 grid. Roll, colour in grid, write the number sentence (Boaler, 2015)
 - Use of [math cards](https://www.youcubed.org/tasks/math-cards/) and find all cards with the same answer - and [more tasks from YouCubed](https://www.youcubed.org/tasks/)
+- [[crackers]]
 
 Computer games 
 
@@ -62,6 +63,7 @@ Computer games
 - [Mathbreakers](https://www.mathbreakers.com)
 - [Number rack](https://www.k-5mathteachingresources.com/Rekenrek.html)
 - [Motion math](https://motionmathgrams.com)
+- [Math crossword](https://scientific.place/math-crossword/)
 
 Homework
 
@@ -166,7 +168,7 @@ Misc. mathematics/teaching projects
 [practice-approach-to-mathematics]: practice-approach-to-mathematics "Practice approach to mathematics"
 [mathematical-design-and-implementation-framework]: mathematical-design-and-implementation-framework "The Mathematical Design and Implementation Framework"
 [mathematical-resilience-classroom-environment]: mathematical-resilience-classroom-environment "mathematical-resilience-classroom-environment"
-[conceptual-approach-to-mathematics]: conceptual-approach-to-mathematics "conceptual-approach-to-mathematics"
+[conceptual-approach-to-mathematics]: conceptual-approach-to-mathematics "Conceptual approach to mathematics"
 [teaching-mathematics-for-a-growth-mindset]: teaching-mathematics-for-a-growth-mindset "Teaching mathematics for a growth mindset"
 [explicit-teaching]: explicit-teaching "Explicit teaching"
 [differentiation-mathematics]: differentiation-mathematics "Differentiation - Mathematics"
@@ -181,6 +183,7 @@ Misc. mathematics/teaching projects
 [math-watch]: math-watch "Math Watch"
 [number-talks]: number-talks "Number talks"
 [number-talk-examples]: number_talk%2Fnumber-talk-examples "Number talk examples"
+[crackers]: crackers "Crackers"
 [reflective-mathematical-homework]: reflective-mathematical-homework "Reflective mathematical homework"
 [teaching-mathematics-software]: teaching-mathematics-software "Software for teaching mathematics"
 [mathematical-memes]: mathematical-memes "Mathematical Memes"

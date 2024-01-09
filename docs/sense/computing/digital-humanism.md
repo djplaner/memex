@@ -20,6 +20,10 @@ Our culture isn't about digital computing being creative, protean. It's about us
 
 > If you go into any school or any home you'll find many pencils, many crayons, many paintbrushes. Because these are instruments that people are made part of their lives. They use the pencil whenever they have a need for it to draw, to write a story, to calculate, and so with a computer it's the natural instrument for doing mathematics, for music for a hundred other things.  our goal is to make it sufficiently part of the culture of the place that everybody uses it when it's needed there
 
+## Concepts
+
+- [[enshittification|Platform Decay]]
+
 ## Examples
 
 ### People
