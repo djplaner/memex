@@ -43,6 +43,11 @@ Informed by [[memex/norman-activity-centered-design]], [[abc-learning-design-and
 
 Beyond the norms/principles there will be a range of other insights/practices underpinning this approach. Possible examples include: lesson planning using [[productive-failure|productive failure]]; designing collaborative learning informed by [[complex-instruction|complex instruction]] and [[building-a-thinking-classroom|thinking classrooms]];  [[assessment-for-learning|assessment for learning]]; and leveraging digital technologies.
 
+## Resource practices
+
+- [[use-of-revealjs-for-presentations]] - thought is it may be nicer for code and mathematics, plus avoid MickeySoft
+
+
 ## Curriculum design
 
 Take units of work and draw on mathematical big ideas and RWWM to create a structure for the unit's mathematical knowledge and skills (K&S) that is meaningful/accessible to students. Develop graphical organisers and other assessment for learning practices/resources that have the students actively engaged with the structure and their progress.
@@ -147,6 +152,7 @@ Richland, L. E., Stigler, J. W., & Holyoak, K. J. (2012). Teaching the Conceptua
 [complex-instruction|complex instruction]: complex-instruction "Complex instruction"
 [building-a-thinking-classroom|thinking classrooms]: building-a-thinking-classroom "Building a thinking classroom"
 [assessment-for-learning|assessment for learning]: ..%2FAssessment%2Fassessment-for-learning "Assessment for learning"
+[use-of-revealjs-for-presentations]: use-of-revealjs-for-presentations "Use of reveal.js for presentations"
 [resolve-mathematics-by-inquiry]: resolve-mathematics-by-inquiry "reSolve - Mathematics by inquiry"
 [number-talks|number talks]: number-talks "Number talks"
 [math-connections-activity-type]: activity-types%2Fmath-connections-activity-type "Mathematical Connections Activity Type"
