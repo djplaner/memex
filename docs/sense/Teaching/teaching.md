@@ -78,7 +78,7 @@ Structure inspired by [[goodyear-patterns-design-practice]] description of the e
 
     ---
 
-    Broad descriptions of how to implement pedagogical approaches
+    Broad descriptions of how to implement pedagogical approaches [[teaching-implementation]]
 
     ---
 
@@ -154,6 +154,7 @@ Structure inspired by [[goodyear-patterns-design-practice]] description of the e
 [teaching-as-interweaving]: teaching-as-interweaving "Teaching as interweaving"
 [strengths-based-education]: strengths-based-education "strengths-based-education"
 [teaching-as-gather-weave-augment]: teaching-as-gather-weave-augment "Teaching as gathering, weaving, and augmenting"
+[teaching-implementation]: Implementation%2Fteaching-implementation "teaching-implementation"
 [class-management]: class-management "Class Management"
 [differentiation]: differentiation "Differentiation"
 [behaviour-management]: behaviour-management "Behaviour management"

@@ -1,0 +1,260 @@
+<html>
+
+<head>
+    <title>Cards</title>
+
+    <link rel="stylesheet"
+        href="https://rawcdn.githack.com/deck-of-cards/deck-of-cards/54f2c4787ea51bb43656e51a3bbbd524f248e21b/example/example.css">
+</head>
+
+<body>
+    <script src="https://cdn.jsdelivr.net/npm/party-js@latest/bundle/party.min.js"></script>
+    <script
+        src="https://rawcdn.githack.com/deck-of-cards/deck-of-cards/54f2c4787ea51bb43656e51a3bbbd524f248e21b/dist/deck.min.js"></script>
+
+    <style>
+        #player-1 {
+            position: absolute;
+            top: -4rem;
+            right: 5rem;
+            border: 1px solid black;
+            border-radius: 5px;
+            /* cards are 77.5 x 110 */
+            width: 380px;
+            height: 180px
+        }
+
+        #player-1-score, #player-2-score {
+            position: absolute;
+            top: 0;
+            right: 0;
+            padding: 0.5rem;
+            font-size: xx-large;
+        }
+
+        #player-2 {
+            position: absolute;
+            top: -4rem;
+            left: 5rem;
+            border: 1px solid black;
+            border-radius: 5px;
+            width: 380px;
+            height: 180px
+        }
+        
+        .label {
+            padding: 0.5rem;
+        }
+
+        .winner {
+            font-size: xx-large;
+            background-color: red;
+            animation: blinker 1s linear infinite;
+        }
+
+    </style>
+
+    <div id="container">   
+        <div id="player-1">
+            <div class="label">Player 1</div> 
+            <div id="player-1-score"></div> 
+        </div>
+        <div id="player-2">
+            <div class="label">Player 2</div> 
+            <div id="player-2-score"></div>
+        </div>
+    </div>
+
+
+
+
+    <script>
+        let $container = document.getElementById('container');
+
+        // create Deck
+        let deck = Deck();
+
+        let playersCards = { '1': [], '2': [] };
+
+        updatePlayersScores()
+
+        // add to DOM
+        deck.mount($container);
+
+        //randomSpread();
+        numberScrabble()
+        //deck.unmount();
+
+        /**
+         * Can't do the card released on a div that's not in the original container
+         */
+        function cardRelease(event, card) {
+            console.log('card released')
+            console.log(card) 
+
+            // check to see if event occurred within player-1 or player-2
+            let player1 = document.getElementById('player-1');
+            let player2 = document.getElementById('player-2');
+
+            cardRect = card.$el.getBoundingClientRect();
+            player1Rect = player1.getBoundingClientRect();
+            player2Rect = player2.getBoundingClientRect();
+
+            if (cardRect.left > player1Rect.left && cardRect.right < player1Rect.right &&
+                cardRect.top > player1Rect.top && cardRect.bottom < player1Rect.bottom) {
+                    // card has been placed inside player 1 - 2 situations
+                    // 1. it is a new card
+                    // 2. that card has just been moved around
+                    console.log(`card is inside player 1`)
+                    updatePlayerCards( card, '1' )
+            } else if (cardRect.left > player2Rect.left && cardRect.right < player2Rect.right &&
+                cardRect.top > player2Rect.top && cardRect.bottom < player2Rect.bottom) {
+                    // card has been placed inside player 2 - 2 situations
+                    // 1. it is a new card
+                    // 2. that card has just been moved around
+                    console.log(`card is inside player 2`)
+                    updatePlayerCards( card, '2' )
+            } else {
+                // card has been released outside of the player areas
+                // check if it should be removed from a player's cards
+                console.log(`card is outside player areas`)
+                for ( let player in playersCards ) {
+                    if ( playerHasCard( card, player ) ) {
+                        removeCard( card, player );
+                        updatePlayersScores();
+                    }
+                }
+            }
+        }
+
+        /**
+         * Given a card and a player
+         * - if the player has the card remove it
+         * - if not add it
+         */ 
+
+        function updatePlayerCards( card, player ) {
+            let cardPresent = playerHasCard( card, player );
+            if ( ! cardPresent ) {
+                playersCards[player].push( card );
+                updatePlayersScores();
+            } else {
+                // remove the card from the player's cards
+                removeCard( card, player );
+                updatePlayersScores();
+            }
+
+        }
+
+        /**
+         * Remove a card from a player's cards
+         */
+        function removeCard( card, player ) {
+            let newCards = [];
+            playersCards[player].forEach( function( playerCard ) {
+                if (playerCard.suit != card.suit || playerCard.rank != card.rank) {
+                    newCards.push( playerCard );
+                }
+            })
+            playersCards[player] = newCards;
+        }
+
+        function playerHasCard( card, player ) {
+            let cardPresent = false;
+
+            playersCards[player].forEach( function( playerCard ) {
+                if (playerCard.suit == card.suit && playerCard.rank == card.rank) {
+                    cardPresent = true;
+                }
+            })
+
+            return cardPresent;
+        }
+
+        /**
+         * Display the basic number scrabble desk
+         * - one suit from 1 to 15 all turned up
+         * - enable dragging
+         */
+
+        function numberScrabble() {
+
+            let scrabbleCards = deck.cards.slice(0, 9);
+
+            let fontSize = 24;
+
+            scrabbleCards.forEach(function (card, i) {
+                card.setSide('front');
+                card.enableDragging();
+                card.$el.addEventListener('mouseup', (event) => { cardRelease(event, card) } )
+                //card.enableFlipping();
+
+                let x = Math.round((i - 4.05) * 70 * fontSize / 16);
+                let y = Math.round(-110 * fontSize / 16);
+                console.log(`i ${i} = x: ${x}, y: ${y}`)
+                card.animateTo({
+                    delay: 100 + i * 2,
+                    duration: 250,
+
+                    x: x, 
+                    y: y
+                })
+            });
+        }
+
+        function updatePlayersScores( ) {
+            let p1Elem = document.getElementById('player-1-score');
+            let p2Elem = document.getElementById('player-2-score');
+
+            if (!p1Elem || !p2Elem) {
+                alert("Error: update player score - can't find score element")
+            }
+
+            let player1Score = calculatePlayerScore( playersCards['1'] );
+            let player2Score = calculatePlayerScore( playersCards['2'] );
+
+            p1Elem.innerHTML = player1Score;
+            p2Elem.innerHTML = player2Score;
+
+            checkForWinner()
+        }
+
+        function calculatePlayerScore( cards ) {
+            let score = 0;
+
+            cards.forEach( function(card) {
+                score += card.rank;
+            })
+
+            return score;
+        }
+
+        /**
+         * checkForWinder()
+         * - generate an alert an confetti celebration if one of the players has one
+         * - To win, a player must have 3 cards and the value of those cards must be 15
+         */
+
+        function checkForWinner() {
+            let winner = false;
+
+            for ( let player in playersCards ) {
+                if ( playersCards[player].length == 3 && calculatePlayerScore( playersCards[player] ) == 15 ) {
+                    winner = player;
+                }
+            }
+
+            if ( winner ) {
+                party.confetti(document.getElementById('container'), {
+                    count: party.variation.range(50, 100)
+                }) 
+                // replace content of player-1 with flashing WINNER text
+                console.log(`player ${winner} has won`)
+                let player = document.getElementById(`player-${winner}`);
+                player.innerHTML = `<div class="winner">WINNER</div>`;
+            }
+        }
+    </script>
+</body>
+
+</html>
