@@ -1,0 +1,9 @@
+
+/* slides.css 
+ * - initial simple styling for revealjs slides
+ */
+
+.m-double {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}

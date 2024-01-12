@@ -16,6 +16,14 @@ Where I'll start my more detailed planning for my version of the unit.
 - [Mathematics hub - Year 8 statistics](https://www.mathematicshub.edu.au/planning-tool/8/statistics/)
 - ?? advice/resources on conducting investigation
 
+Misconceptions
+
+- [Samples and sampling (top drawer)](https://topdrawer.aamt.edu.au/Statistics/Misunderstandings/Misunderstanding-samples-and-sampling)
+
+#### Quotes
+
+Aaron Levenstein:
+>    “Statistics are like a bikini. What they reveal is suggestive, but what they conceal is vital”.
 
 #### Specific resources
 
@@ -53,6 +61,7 @@ Search for examples
     - [Census site](https://www.abs.gov.au/census)
     - Next census in [2026](https://www.abs.gov.au/census/2026-census-topic-review), last in 2021 on [this topic list](https://www.abs.gov.au/census/find-census-data/census-data-topic)
     - [2021 students data](https://www.abs.gov.au/articles/education-australia-abc-bs-and-cs) - some nice graphs
+    - [PISA Oz students not trying](https://www.theguardian.com/australia-news/2024/jan/12/nearly-80-australian-students-say-they-didnt-fully-try-in-latest-pisa-tests)
     - [JJJ hottest 100 kaggle dataset](https://www.kaggle.com/datasets/mijames/jjj-hottest-100) (tsv file)
     - [Better intersections dataset](https://betterintersections.jakecoppinger.com/about) - includes articles researching the problems arising from lengthy waits at intersections
 
@@ -99,16 +108,18 @@ Learning outcomes
 | Terms | Definitions | Examples and activities |
 | ----- | ----------- | ----------------------- |
 | Population | The group of things to make conclusions about | Give concrete examples (PISA, hottest January - 2024 versus 1964, and Oz census ) to illustrate the size of populations, which are then illustrated below |
-| Census | Process of gathering information from the whole population | - hottest temperature<br>- australian census data |
-| Survey | Process of gathering information from a sample |  | 
-| Sample | | |
+| Census | Collection of information bout the whole of a population | - hottest temperature<br>- australian census data |
+| Survey | ?? Process of gathering information from a sample |  | 
+| Sample | A subset of a population | |
+| Random Sample | A subset of the population chosen such that every element of the population has an equal chance of being selected. | |
 | Representative sample | | |
+| Data | A set of observations and measurements collected during any type of systematic investigation | |
 | Questionnaire | | |
 | Observation | | |
 | Measurement | | |
 | Bias | | |
-| Primary data | | |
-| Secondary data | | |
+| Primary data | Data you collected | |
+| Secondary data | Data collected by someone else. | |
 
 #### Lesson activities
 
@@ -128,12 +139,23 @@ Tour of statistical investigation samples
 
 - Delve more deeply into the different samples to introduce and illustrate the different terminology
 - Can we get them recording/discussing/filling out some sort of worksheet with details on whether or not the different types of terminology helps/hinders drawing conclusions etc. -- better, structure it with questions that they can use for their own statistical investigation
-- For example
+- For example - question about if these questions should focus on the statistical investigation or the reporting of it - highlight the PISA.
 
     - What's the population?
     - What's the sample?
     - What methods were used to gather the data?
     - What's the variation?
+    - What's the range?
+
+Quality of decision making/reporting - build on the previous step but focus more on the reporting that has arisen around it (including mine re: temperature)
+
+    **Important** This distinction between the reporting and the details could be very useful to make. Linked to the Goompi model
+
+    - What did they say?
+    - Can they say it?
+    - Sources of bias and reliability? This might need to be exploratory and have some explicit teaching
+    - **Need** identify how to visualise/demonstrate using randomly generated numbers to demonstrate random sampling
+
 
 ### Lesson 3 - Primary & Secondary data
 
@@ -142,9 +164,44 @@ Learning outcomes
 - Understand the difference between primary and secondary data
 - Understand various methods of collecting primary data (observation, measurement & surveys)
 - Understand the source and reliability of secondary data
-- Considering the constraints on them gathering data (small to medium)
+
+    - _me_ Evaluate the quality of data
+- _me_ Considering the constraints on them gathering data (small to medium)
+- _me_ Have students start sharing the questions/topics they're interested in exploring
+
+#### Lesson Activities
+
+Starter
+
+- Some connection with prior lesson and segue into this week
+- [[notice-and-wonder]] with using some secondary data - though all off the data I'm using is secondary
+
+    - perhaps showing some of the conditions for the gathering of the data I used
+    - the Colgate example would be useful
+    - Something health related (e.g. [this video](https://ed.ted.com/lessons/can-you-spot-the-problem-with-these-headlines-level-1-jeff-leek-and-lucy-mcgowan)) could be useful, esp. if recent and real
+    - Aim being to get students to start identifying the components and start thinking about the source and reliability
+    - The PISA example is particularly good
+
+
+
+ToC (unordered)
+
+- Methods of collecting data
+- Sources of data (combine the two?)
+
+    - [newspaper story](https://www.theguardian.com/news/datablog/2013/may/31/times-tables-hardest-easiest-children) about a school answering the question "which times tables do students get wrong the most?" (or some such) - data generated by an app - and there's [a spreadsheet with the data](https://docs.google.com/spreadsheets/d/18QfP_gCptfo6Gf1Y5HAaiNBwrDMhGutyNk2qYl8zYmo/edit#gid=0)
+- Reliability of secondary data
+
+    - purpose of the original gathering
+    - available details on the data they gathered and analysed (types of questions they need to ask for their investigation)
 
 ### Lesson 4 & 5 - Organising & displaying data
+
+- [Guardian article on road deaths](https://www.theguardian.com/australia-news/2023/may/21/australias-rising-road-toll-how-the-pandemic-and-a-love-of-big-cars-are-putting-lives-at-risk) includes a graph that might be useful as a starter - getting students to tell the story - but then showing [wikipedia page](https://en.wikipedia.org/wiki/List_of_motor_vehicle_deaths_in_Australia_by_year) on motor vehicle deaths in Australia by year
+
+    Graphs on wikipedia are currently down. Maybe get students to generate their own graphs from the data
+
+    [Australian Automobile Association](https://www.aaa.asn.au/newsroom/road-deaths-continue-to-rise/) has a press release linking failure in government policy to reduce road deaths. A way to evaluate reality
 
 ### Lesson 6 - Measures of centre & spread
 
@@ -169,6 +226,9 @@ Questions
 - Construct graph from frequency table
 
 ### Lesson 12 - Analysing data
+
+Sources
+
 
 ### Lesson 13-14 Assignment lessons
 

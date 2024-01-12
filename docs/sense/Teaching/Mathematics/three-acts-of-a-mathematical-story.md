@@ -12,7 +12,7 @@ I agree with the limitations of the focus on the second act, but not for the rea
 
 1. Introduce the central conflict of your story/task clearly, visually, viscerally, using as few words as possible.
 
-    Impose as few demands as possible, include everyone. Generate a visceral reaction to the image. Links to the [[anyqs]] challenge
+    Impose as few demands as possible, include everyone. Generate a visceral reaction to the image. Links to the anyqs challenge
 
 2. The student overcomes obstacles, looks for resources, and develops new tools.
 
