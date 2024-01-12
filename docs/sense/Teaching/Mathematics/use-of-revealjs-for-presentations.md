@@ -13,7 +13,7 @@ The plan is to use [reveal.js](https://revealjs.com/) for teaching/presentations
 
 ## Strategies
 
-### Use of pandoc
+### Use of pandoc _deprecated_
 
 To generate HTML files with reval.js presentations but which can be served via GH-pages
 
@@ -27,6 +27,14 @@ See
     Include use of the CDN - https://unpkg.com/reveal.js/
 
 - [reveal-hugo](https://github.com/dzello/reveal-hugo) - possible alternative to pandoc
+
+**Deprecated** pandoc's conversion lost some of the important features. Too annoying.  Hence going full HTML
+
+### Use of HTML
+
+To do
+
+- [ ] Develop my css for patterns e.g. [this](https://chenhuijing.com/blog/customising-revealjs-beyond-theming/#%F0%9F%8E%99) or [this gist](https://gist.github.com/Myfanwy/00d5031c3c35d1370c8fc851c51dfc82)
 
 
 

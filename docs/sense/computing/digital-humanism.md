@@ -38,6 +38,8 @@ Coding
 
     - Queensland Government [open data portal](https://www.data.qld.gov.au/organization/) -  [Top 10 Baby names by region](https://www.data.qld.gov.au/dataset/top-10-baby-names-by-region)
 
+- [Jacke Coppinger](https://jakecoppinger.com/) - Full stack sw engineer advocating for better transit/public spaces
+
 ### Projects
 
 - [Mask on zone](https://maskon.zone/) - Advice for protest attendees
@@ -45,7 +47,8 @@ Coding
 - [YouTune](https://youtune.glitch.me/) - site that cycles through less viewed songs from YouTube
 - [Escape the algorithm](https://escapethealgorithm.substack.com/) - newsletter examining platforms and algorithms that shape out world
 
-- [Name-age-calcualtor - repo](https://github.com/rhiever/name-age-calculator) and [web page](http://randalolson.com/name-age-calculator/) - simple Javascript/D3 app that generates graph showing # of people by given name at birth and beyond
+- [Name-age-calculator - repo](https://github.com/rhiever/name-age-calculator) and [web page](http://randalolson.com/name-age-calculator/) - simple Javascript/D3 app that generates graph showing # of people by given name at birth and beyond
+- [Better intersections](https://betterintersections.jakecoppinger.com/about) - crowdsourced tracking and visualisation of Sydney traffic intersections
 
 FSF related projects
 
