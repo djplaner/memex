@@ -30,7 +30,7 @@ Just a bit of playing around and there's something approaching a bit of generati
 
 <figure markdown>
 ![](images/xmas-001.gif)
-<caption>A flashing Xmas tree (Sierpinski triangle)</caption>
+<caption>xmas-001 (Sierpinski triangle)</caption>
 </figure>
 
 Nothing amazing. But the process of exploring how to code with p5, slowly iterating as new things are learned and interesting new effects occur. For example, the flashing effect largely comes from the fact that the main `draw` function in a p5 (Processing) **sketch** (the name for a program) is repeatedly run. Hence my original loop to place 2000 dots to form the triangle is run over and over again....flashing lights.
