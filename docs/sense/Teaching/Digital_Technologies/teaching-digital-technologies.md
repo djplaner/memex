@@ -101,6 +101,7 @@ See also: [[teaching]]
     - [WebGlossary.info](https://webglossary.info/) - interactive online glossary tool based on an e-book
     - [CodingBat](https://codingbat.com/about.html) - live coding problems for practice (Java & Python)
     - [[open-data-sources]]
+    - [Visualising algorithms](https://bost.ocks.org/mike/algorithms/) - talk by Mike Bostock - very nice
 
 </div>
 

@@ -15,6 +15,9 @@ Where I'll start my more detailed planning for my version of the unit.
 - [MathisFun data](https://mathsisfun.com/data/index.html)
 - [Mathematics hub - Year 8 statistics](https://www.mathematicshub.edu.au/planning-tool/8/statistics/)
 - ?? advice/resources on conducting investigation
+- [NZ UoW statistical investigation](https://nzmaths.co.nz/statistical-investigations-units-work)
+- [Vocabulary of statistics](https://open.ocolearnok.org/psycstats/chapter/chapter-2-vocabulary-of-statistics/)
+- [Simple random sampling](https://www.investopedia.com/terms/s/simple-random-sample.asp)
 
 Misconceptions
 
@@ -112,7 +115,7 @@ Learning outcomes
 | Survey | ?? Process of gathering information from a sample |  | 
 | Sample | A subset of a population | |
 | Random Sample | A subset of the population chosen such that every element of the population has an equal chance of being selected. | |
-| Representative sample | | |
+| Representative sample | Includes only members of the population being studied | |
 | Data | A set of observations and measurements collected during any type of systematic investigation | |
 | Questionnaire | | |
 | Observation | | |

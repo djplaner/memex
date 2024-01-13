@@ -12,7 +12,10 @@ Two players take turns to pick a number from 1 to 9. The first player to pick th
 
 With the numbers represented as a sequence of scrabble tiles players must exert some effort to win. If the numbers are organised into a magic square the game is isomorphic to tic-tac-toe.
 
-<p><a href="https://commons.wikimedia.org/wiki/File:Magicsquareexample.svg#/media/File:Magicsquareexample.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Magicsquareexample.svg/1200px-Magicsquareexample.svg.png" style="width:50%" alt="Magicsquareexample.svg"></a><br>Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=1019701">Link</a></p>
+<figure>
+<a href="https://commons.wikimedia.org/wiki/File:Magicsquareexample.svg#/media/File:Magicsquareexample.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Magicsquareexample.svg/1200px-Magicsquareexample.svg.png" style="width:50%" alt="Magicsquareexample.svg"></a>
+<caption>Example magic square (Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=1019701">Wikimedia Commons</a>)</caption>
+</figure>
 
 ## Reference 
 

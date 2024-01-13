@@ -37,6 +37,17 @@ Current [test bed](../Implementation/2024/MAT081C/welcome.html)
 To do
 
 - [ ] Develop my css for patterns e.g. [this](https://chenhuijing.com/blog/customising-revealjs-beyond-theming/#%F0%9F%8E%99) or [this gist](https://gist.github.com/Myfanwy/00d5031c3c35d1370c8fc851c51dfc82)
+- [ ] Install reveal.js locally to Memex to allow completely local operation
+
+
+#### Personal slide styles
+
+| Style | Description |
+| --- | --- |
+| `m-opaque` | Used for slide backgrounds (or any div) to make it opaque.<br> Initially for use with reveal background images |
+| `m-directions` `m-why` `m-what` | Implement common what/why directions for learning activities |
+| `m-label` | Reversed colour smaller label for a div |
+| `m-double` | implement two column grid |
 
 
 

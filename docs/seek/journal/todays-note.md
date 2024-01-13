@@ -11,6 +11,19 @@ See also: [[to-read]]
 
 - Task preparation
 
+  - [ ] welcome starter
+  - [ ] expectations
+  - [ ] Goompi
+  - [ ] Maths and mindset surveys
+  - [ ] Refine 15/number scrabble task 
+    - [x] Game up to scratch
+    - [ ] Refine class task
+    - [ ] Develop worksheet
+    - [ ] Develop prompt questions
+  - [ ] group work 
+    - [ ] Random group allocator
+    - [ ] Group work expectations and supports
+
   - [ ] Start identifying/mapping out rich tasks for classes
   - Which first week of school was hotter?
 
@@ -21,13 +34,14 @@ See also: [[to-read]]
 
 [[teaching-implementation]]
 
+- [ ] [[use-of-revealjs-for-presentations]]
+
 - General memex/planning CASA
   - [ ] Set up 2024 teaching planning/resources
   - How to integrate
     - APSTs
     - [X] Oz curriculum
     - [ ] Pythonic insertion of "link here"
-- [ ] [reveal.js](https://revealjs.com/) and [reveal-md](https://github.com/webpro/reveal-md) - options for markdown presentations
 
 - [ ] [[creative-coding-with-python]]
 
@@ -98,6 +112,7 @@ Questions
 [to-read]: ..%2Fto-read "To read"
 [unpicking-digital-technologies-hub]: ..%2F..%2Fsense%2FTeaching%2FDigital_Technologies%2Funpicking-digital-technologies-hub "Unpicking the Digital Technologies Hub"
 [teaching-implementation]: ..%2F..%2Fsense%2FTeaching%2FImplementation%2Fteaching-implementation "Teaching implementation"
+[use-of-revealjs-for-presentations]: ..%2F..%2Fsense%2FTeaching%2FMathematics%2Fuse-of-revealjs-for-presentations "Use of reveal.js for presentations"
 [creative-coding-with-python]: ..%2F..%2Fsense%2FPython%2Fcreative-coding-with-python "Creative coding experiments"
 [understanding]: ..%2F..%2Fsense%2FLearning%2Funderstanding "Understanding"
 [ed-tech-some-missing-flavours]: ..%2F..%2Fshare%2Fblog%2F2023%2Fed-tech-some-missing-flavours "Ed tech - some missing flavours"
