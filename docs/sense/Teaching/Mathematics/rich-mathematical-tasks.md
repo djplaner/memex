@@ -1,4 +1,8 @@
-# Rich mathematical tasks
+---
+title: "Rich mathematical tasks"
+type: "note"
+tags: teaching-mathematics, mathematical-mindsets, big-ideas-in-mathematics
+---
 
 See also: [[teaching-mathematics]], [[mathematical-mindsets]], [[big-ideas-in-mathematics]]  
 
