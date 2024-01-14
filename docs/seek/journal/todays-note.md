@@ -12,8 +12,12 @@ See also: [[to-read]]
 - Task preparation
 
   - [ ] welcome starter
+  - [ ] Outcomes diagram
+
+    - [ ] explore mermaid and other revaljs
+    - [ ] document revaljs better
   - [ ] expectations
-  - [ ] Goompi
+  - [x] Goompi - may need to create my own full resolution image
   - [ ] Maths and mindset surveys
   - [ ] Refine 15/number scrabble task 
     - [x] Game up to scratch

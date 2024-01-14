@@ -45,6 +45,8 @@ As a potential theme, [[creative-coding]] offers an application of digital techn
 
     e.g. [poster](https://www.digitaltechnologieshub.edu.au/media/3fuctust/data-representation_a3_webyr7-10.pdf): bitmaps and visualising sound
 
+- [Turtle Art Tile project](https://billkerr2.blogspot.com/2023/11/turtle-art-tile-project-conclusion.html) outcome of a project from Victorian teacher (blog post)
+
 ### Unifying/underlying practices
 
 From the very earliest lessons embed certain language, practices and processes into what I do

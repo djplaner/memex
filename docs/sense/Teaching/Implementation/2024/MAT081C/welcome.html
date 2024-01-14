@@ -3,15 +3,13 @@
 
 <head>
   <meta charset="utf-8">
-  <meta name="generator" content="pandoc">
-  <meta name="dcterms.date" content="2024-01-22">
   <title>Welcome to 2024</title>
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-  <meta name="viewport"
-    content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
-  <link rel="stylesheet" href="https://unpkg.com/reveal.js/dist/reset.css">
-  <link rel="stylesheet" href="https://unpkg.com/reveal.js/dist/reveal.css">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <link rel="stylesheet" href="/reveal.js/dist/reveal.css">
+  <link rel="stylesheet" href="/reveal.js/dist/theme/dj-white.css">
   <style>
     .reveal .sourceCode {
       /* see #7635 */
@@ -60,12 +58,12 @@
       margin: 0.5rem auto;
     }
   </style>
-  <link rel="stylesheet" href="https://unpkg.com/reveal.js//dist/theme/white.css" id="theme">
+  <!--  <link rel="stylesheet" href="https://unpkg.com/reveal.js//dist/theme/white.css" id="theme"> -->
   <link rel="stylesheet" href="../../css/slides.css">
 </head>
 
 <body>
-  <div class="reveal">
+  <div class="reveal slide center has-vertical-slides has-horizontal-slides ready">
     <div class="slides">
 
       <section id="title-slide">
@@ -99,6 +97,24 @@
           <div class="r-frame">If it is to be,<br /> It is up to <strong>me</strong>.</div>
           <div class="r-frame">If it is to be,<br /> It is up to <strong>we</strong>.</div>
         </div>
+            <p>A really long slide</p>
+            <p>A really long slide</p>
+            <p>A really long slide</p>
+            <p>A really long slide</p>
+            <p>A really long slide</p>
+            <p>A really long slide</p>
+            <p>A really long slide</p>
+            <p>A really long slide</p>
+            <p>A really long slide</p>
+            <p>A really long slide</p>
+            <p>A really long slide</p>
+            <p>A really long slide</p>
+            <p>A really long slide</p>
+            <p>A really long slide</p>
+            <p>A really long slide</p>
+            <p>A really long slide</p>
+            <p>A really long slide</p>
+            <p>A really long slide</p>
       </section>
       <section id="today" class="slide level1 m-opaque"
         data-background-image="https://www.envault.com.au/api?contentUrl=633168cdcf341">
@@ -167,16 +183,25 @@
         <h2>Magic Squares</h2>
         <p>Introduce magic squares</p>
       </section>
+      <section id="goompi-model">
+        <h2>Mathematics?</h2>
+        <h3>What is it? When will we use it?</h3>
+
+       <img src="/sense/Teaching/Mathematics/cser-mooc/images/goompiModel-cropped.svg" alt="Goompi Model" />
+      </section>
+
     </div>
   </div>
 
-  <script src="https://unpkg.com/reveal.js/dist/reveal.js"></script>
+  <!-- <script src="https://unpkg.com/reveal.js/dist/reveal.js"></script> -->
+  <script src="/reveal.js/dist/reveal.js"></script>
+  
 
   <!-- reveal.js plugins -->
-  <script src="https://unpkg.com/reveal.js/plugin/notes/notes.js"></script>
-  <script src="https://unpkg.com/reveal.js/plugin/search/search.js"></script>
-  <script src="https://unpkg.com/reveal.js/plugin/zoom/zoom.js"></script>
-
+  <script src="/reveal.js/plugin/notes/notes.js"></script>
+  <script src="/reveal.js/plugin/search/search.js"></script>
+  <script src="/reveal.js/plugin/zoom/zoom.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/reveal.js-mermaid-plugin@2.1.0/plugin/mermaid/mermaid.js"></script>
   <script>
 
     // Full list of configuration options available at:
@@ -326,7 +351,8 @@
       plugins: [
         RevealNotes,
         RevealSearch,
-        RevealZoom
+        RevealZoom,
+        RevealMermaid
       ]
     });
   </script>

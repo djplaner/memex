@@ -51,7 +51,11 @@ markdown_extensions:
   - pymdownx.arithmatex:
       generic: true
   - attr_list # https://squidfunk.github.io/mkdocs-material/reference/images/
-  - pymdownx.superfences
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid 
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
   - pymdownx.tabbed:
       alternate_style: true
   - md_in_html
