@@ -73,6 +73,9 @@
             <h3 style="padding:0.5rem">Hints</h3>
             <p style="padding:0.5rem;line-height:1.5rem;">There is a trick that makes it very easy to play. See <a
                     href="https://djplaner.github.io/memex/sense/Representations/number-scrabble/">this page</a>.</p>
+
+            <h3 style="padding:0.5rem">Acknowledgements</h3>
+            <p style="padding:0.5rem;line-height:1.5rem;">Not at all possible without <a href="https://github.com/deck-of-cards/deck-of-cards">Deck of Cards</a>.</p>
             <sl-button slot="footer" variant="primary">Close</sl-button>
         </sl-drawer>
 
@@ -218,12 +221,73 @@
          * - enable dragging
          */
 
-        function numberScrabble() {
+        function numberScrabble( ) {
 
             let scrabbleCards = deck.cards.slice(0, 9);
 
+            // get viewport width and height
+            // TODO change fontSize based on viewport width and height
+            //let viewportWidth = Math.max(document.documentElement.clientWidth || 0, window.innerWidth || 0);
+            //let viewportHeight = Math.max(document.documentElement.clientHeight || 0, window.innerHeight || 0);
+
             let fontSize = 24;
 
+            // set cheat to true if there is a query parameter cheat=true
+            let cheat = false;
+            let urlParams = new URLSearchParams(window.location.search);
+            if (urlParams.has('cheat')) {
+                cheat = true;
+            }
+
+            if ( ! cheat ) {
+                standardLayout(scrabbleCards, fontSize);
+            } else {
+                cheatLayout(scrabbleCards, fontSize);
+            }
+        }
+
+        /**
+         * Display the cards in magic square layout 
+         *    2 7 6
+         *    9 5 1
+         *    4 3 8
+         */
+
+        function cheatLayout( scrabbleCards, fontSize  ) {
+            let cardCoords = {
+                '1': [ 100, -285 ],
+                '2': [ -110, -405 ],
+                '3': [ -5, -165 ],
+                '4': [ -110, -165 ],
+                '5': [ -5, -285],
+                '6': [ 100, -405], 
+                '7': [ -5, -405],
+                '8': [ 100, -165 ],
+                '9': [ -110, -285 ]
+            }
+
+            scrabbleCards.forEach(function( card, i) {
+                // skip if card is not in cardCoords
+                if ( ! cardCoords[card.rank] ) {
+                    return;
+                }
+                card.setSide('front');
+                card.enableDragging();
+                card.$el.addEventListener('mouseup', (event) => { cardRelease(event, card) })
+
+                let x = cardCoords[card.rank][0];
+                let y = cardCoords[card.rank][1];
+                console.log(`i ${i} = x: ${x}, y: ${y}`)
+                card.animateTo({
+                    delay: 100 + i * 2,
+                    duration: 250,
+                    x: x,
+                    y: y
+                })
+            })
+        }
+
+        function standardLayout(scrabbleCards, fontSize) {
             scrabbleCards.forEach(function (card, i) {
                 card.setSide('front');
                 card.enableDragging();
@@ -289,8 +353,6 @@
                                 } */
                 playersCards = { '1': [], '2': [] };
                 alert("It's a draw - start a new game");
-
-                console.log(deck);
                 restartGame()
             }
         }
@@ -323,7 +385,13 @@
                 // replace content of player-1 with flashing WINNER text
                 console.log(`player ${winner} has won`)
                 let player = document.getElementById(`player-${winner}`);
+                oldHTML = player.innerHTML;
                 player.innerHTML = `<div class="winner">WINNER</div>`;
+
+                playersCards = { '1': [], '2': [] };
+                alert(`Player ${winner} has won - start a new game`);
+                player.innerHTML = oldHTML;
+                restartGame()
             }
         }
     </script>
