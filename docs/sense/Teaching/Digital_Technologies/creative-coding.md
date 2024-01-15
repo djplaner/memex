@@ -75,7 +75,7 @@ Differs from creative coding where the human is in the iterative loop. Generativ
 
 Resources
 
-- [generative artistry](https://generativeartistry.com/) - tutorials and podcasts exploing ideas and techniques in generative art.
+- [generative artistry](https://generativeartistry.com/) - tutorials and podcasts exploring ideas and techniques in generative art.
 
     Tutorials are for Javascript (Canvas) and displayed in a beautiful progressive release design.
 

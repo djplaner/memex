@@ -108,6 +108,7 @@ Collection of misc. resources for teaching mathematics. Eventually informing an 
     - [[talk-moves]]
     - [[number-talks]]
     - [[newmans-error-analysis]]
+    - [[mathematics-class-survey]]
 
 </div>
 
@@ -174,6 +175,7 @@ Boaler, J. (2015). Creating Mathematical Mindsets: The Importance of Flexibility
 [talk-moves]: talk-moves "Talk moves"
 [number-talks]: number-talks "Number talks"
 [newmans-error-analysis]: newmans-error-analysis "Newman's error analysis"
+[mathematics-class-survey]: mathematics-class-survey "Mathematics Class Survey"
 [normal-distribution]: probability%2Fnormal-distribution "Normal (Gaussian) distribution"
 [maths-in-schools]: maths-in-schools "Maths in Schools Online: Year 7 - 10 course"
 [annotations-boaler-2015]: annotations-boaler-2015 "Creating mathematical mindsets - annotations"

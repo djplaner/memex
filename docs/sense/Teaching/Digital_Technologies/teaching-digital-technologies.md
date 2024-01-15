@@ -76,6 +76,7 @@ See also: [[teaching]]
     - [[CSSC]]
     - [[use-modify-create]]
     - [[PRIMM]]
+    - [[digital-technologies-classroom-survey]]
 
 - ## Pedagogy (strategy)
 
@@ -125,6 +126,7 @@ DiGiacomo, D. K., & Gutiérrez, K. D. (2016). Relational Equity as a Design Tool
 [CSSC]: cssc "Computer Science Student-Centered Instructional (CSSC) Continuum"
 [use-modify-create]: use-modify-create "Use-modify-create"
 [PRIMM]: primm "primm"
+[digital-technologies-classroom-survey]: digital-technologies-classroom-survey "Digital technologies classroom survey"
 [the-block-model]: ..%2FMathematics%2Fthe-block-model "The block model"
 [open-data-sources]: open-data-sources "Open data sources"
 [satellite-imagery]: satellite-imagery "Satellite imagery"
