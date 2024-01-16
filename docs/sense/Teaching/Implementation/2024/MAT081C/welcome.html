@@ -8,8 +8,9 @@
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-  <link rel="stylesheet" href="/memex/reveal.js/dist/reveal.css">
-  <link rel="stylesheet" href="/memex/reveal.js/dist/theme/dj-white.css">
+<!-- <link rel="stylesheet" href="/memex/reveal.js/dist/reveal.css"> -->
+  <link rel="stylesheet" href="../../../../../reveal.js/dist/reveal.css">
+  <link rel="stylesheet" href="../../../../../reveal.js/dist/theme/dj-white.css">
   <style>
     .reveal .sourceCode {
       /* see #7635 */
@@ -63,7 +64,7 @@
 </head>
 
 <body>
-  <div class="reveal slide center has-vertical-slides has-horizontal-slides ready">
+  <div class="reveal slide has-vertical-slides has-horizontal-slides ready">
     <div class="slides">
 
       <section id="title-slide">
@@ -75,13 +76,16 @@
         </aside>
       </section>
 
-      <section id="starter" class="slide level1">
-        <h1>Starter</h1>
-        <div class="m-directions">
+      <section id="purpose-1" class="slide level1">
+        <h1>Purpose</h1>
           <div class="m-what">
             <div class="m-label">What?</div>
-            <p>Copy the table below</p>
-            <p>Consider, for this class</p>
+            <p>Copy this into your Maths book (be visually creative)</p>
+            <div class="m-double">
+              <div class="r-frame">If it is to be,<br /> It is up to <strong>me</strong>.</div>
+              <div class="r-frame">If it is to be,<br /> It is up to <strong>we</strong>.</div>
+            </div>
+            <p>Think about:</p>
             <ol>
               <li> What is <em>it</em>?</li>
               <li> What might be expected to achieve <em>it</em>? </li>
@@ -89,32 +93,14 @@
           </div>
           <div class="m-why">
             <p class="m-label">Why?</p>
-            <p>Class expectations &amp; routines</li>
+            <p>Class purpose, expectations, &amp; routines</li>
           </div>
-        </div>
         <br />
-        <div class="m-double">
-          <div class="r-frame">If it is to be,<br /> It is up to <strong>me</strong>.</div>
-          <div class="r-frame">If it is to be,<br /> It is up to <strong>we</strong>.</div>
-        </div>
-            <p>A really long slide</p>
-            <p>A really long slide</p>
-            <p>A really long slide</p>
-            <p>A really long slide</p>
-            <p>A really long slide</p>
-            <p>A really long slide</p>
-            <p>A really long slide</p>
-            <p>A really long slide</p>
-            <p>A really long slide</p>
-            <p>A really long slide</p>
-            <p>A really long slide</p>
-            <p>A really long slide</p>
-            <p>A really long slide</p>
-            <p>A really long slide</p>
-            <p>A really long slide</p>
-            <p>A really long slide</p>
-            <p>A really long slide</p>
-            <p>A really long slide</p>
+      </section>
+
+
+      <section id="purpose-2" class="slide level1">
+        <h1>Purpose</h1>
       </section>
       <section id="today" class="slide level1 m-opaque"
         data-background-image="https://www.envault.com.au/api?contentUrl=633168cdcf341">
@@ -194,14 +180,13 @@
   </div>
 
   <!-- <script src="https://unpkg.com/memex/reveal.js/dist/memex/reveal.js"></script> -->
-  <script src="/memex/reveal.js/dist/reveal.js"></script>
+  <script src="../../../../../reveal.js/dist/reveal.js"></script>
   
 
   <!-- reveal.js plugins -->
-  <script src="/memex/reveal.js/plugin/notes/notes.js"></script>
-  <script src="/memex/reveal.js/plugin/search/search.js"></script>
-  <script src="/memex/reveal.js/plugin/zoom/zoom.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/reveal.js/reveal.js-mermaid-plugin@2.1.0/plugin/mermaid/mermaid.js"></script>
+  <script src="../../../../../reveal.js/plugin/notes/notes.js"></script>
+  <script src="../../../../../reveal.js/plugin/search/search.js"></script>
+  <script src="../../../../../reveal.js/plugin/zoom/zoom.js"></script>
   <script>
 
     // Full list of configuration options available at:
@@ -241,7 +226,7 @@
       respondToHashChanges: true,
 
       // Push each slide change to the browser history
-      history: false,
+      history: true,
 
       // Enable keyboard shortcuts for navigation
       keyboard: true,
@@ -254,7 +239,7 @@
       disableLayout: false,
 
       // Vertical centering of slides
-      center: true,
+      center: false,
 
       // Enables touch navigation on devices with touch input
       touch: true,
@@ -352,7 +337,6 @@
         RevealNotes,
         RevealSearch,
         RevealZoom,
-//        RevealMermaid
       ]
     });
   </script>

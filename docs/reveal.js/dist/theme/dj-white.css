@@ -12,7 +12,7 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
  * GLOBAL STYLES
  *********************************************/
 :root {
-  --r-background-color: #ccc;
+  --r-background-color: #eee;
   /*--r-main-font: Source Sans Pro, Helvetica, sans-serif; */
   font-family: "Inter", "Helvetica Neue", Arial, sans-serif;
   --r-main-font-size: 42px;
@@ -73,9 +73,10 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
   grid-template-columns: 1fr;
   justify-items: start;
   align-items: start;
-  margin: 1rem 1.1rem;
+  margin: 1rem 1.1rem; 
   top: 0 !important;
   padding: 1rem;
+  width: 95%;
 }
 
 /*********************************************

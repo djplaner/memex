@@ -5,28 +5,31 @@ See also: [[to-read]]
 
 ### Major tasks
 
-- Task preparation
+- [ ] Outcomes diagram
+  - [ ] map out the lesson plan for the expectations and routines
 
-  - [ ] welcome starter
-  - [ ] Outcomes diagram
 
-    - [x] explore mermaid and other revaljs - mermaid not immediately needed
-    - [ ] document revaljs better
+Task preparation
+
+- [ ] welcome starter
   - [ ] expectations
     - [[classroom-talks]]
-  - [x] Goompi - may need to create my own full resolution image
-  - [x] Maths and mindset surveys [[mathematics-class-survey]]
-  - [ ] Refine 15/number scrabble task 
-    - [x] Game up to scratch
-    - [ ] Refine class task - group work
-    - [ ] Develop worksheet
-    - [ ] Develop prompt questions
-  - [ ] group work 
-    - [ ] Random group allocator
-    - [ ] Group work expectations and supports
+      - [ ] complex instruction task design
+      - [ ] "it" diagram and activity
+- [x] Goompi - may need to create my own full resolution image
+- [x] Maths and mindset surveys [[mathematics-class-survey]]
+- [ ] Refine 15/number scrabble task 
+  - [x] Game up to scratch
+  - [ ] Refine class task - group work
+  - [ ] Develop worksheet
+  - [ ] Develop prompt questions
+- [ ] group work 
+  - [ ] Random group allocator
+      - [ ] **add save state feature**
+  - [ ] Group work expectations and supports
 
-  - [ ] Start identifying/mapping out rich tasks for classes
-  - Which first week of school was hotter?
+- [ ] Start identifying/mapping out rich tasks for classes
+- Which first week of school was hotter?
 
 - [ ] Digital Technology
 
@@ -36,6 +39,8 @@ See also: [[to-read]]
 [[teaching-implementation]]
 
 - [ ] [[use-of-revealjs-for-presentations]]
+  - [ ] document revaljs better
+  - [ ] add a "explosion" class that places important info in the top right hand corner (e.g. don't move the desks)
 
 - General memex/planning CASA
   - [ ] Set up 2024 teaching planning/resources
@@ -57,6 +62,8 @@ To do
 ## Mathematics
 
 Capture more [isntructional activities](https://www.fosteringmathpractices.com/routinesforreasoning/)
+
+Mason, J., Burton, L., & Stacey, K. (2010). *Thinking mathematically* (2nd ed). Pearson.
 
 ## Sense
 
