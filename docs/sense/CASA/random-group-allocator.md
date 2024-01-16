@@ -27,6 +27,13 @@ Plan to adapt this one
 - `generateGroup` does the work
 - `updateCurrentAllocation` - add a feature that shows a calculation of the number of groups as names are added
 
+#### Add storage of group allocations
+
+- Only store the current allocation - only one, not multiple
+- Add "Save" button - on group allocation page
+- Add "Load" button on initial page - but only if there is a saved allocation
+    - On start, call `isSaveGroupAllocation` and change the display for the button
+
 
 
 

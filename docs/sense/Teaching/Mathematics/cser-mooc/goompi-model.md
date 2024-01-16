@@ -29,7 +29,7 @@ Has three tenets (from [YuMi Deadly Maths](https://research.qut.edu.au/ydc/about
 
 ??? note "Goompi model appears a good fit for [[my-approach-to-teaching-mathematics]]"
 
-    Starting with use in the first lessons to abstract out the lessons from the [[number-scabble]] activity. Also linking this later to the mathematical investigation process.
+    Starting with use in the first lessons to abstract out the lessons from the [[number-scabble]] activity. Also linking this later to the [[mathematical-investigation]] process.
 
 ## Experimental mermaid representation
 

@@ -6,6 +6,9 @@ tags: teaching-mathematics, mathematical-mindsets, big-ideas-in-mathematics
 
 See also: [[teaching-mathematics]], [[mathematical-mindsets]], [[big-ideas-in-mathematics]]  
 
+Sources to explore:
+
+- [Thinking Mathematically](https://nrich.maths.org/8963) - Jon Mason related resources, activities etc.
 
 ## [Rich, relevant, and engaging tasks](https://emcf.weebly.com/rich-relevant-engaging-tasks.html) 
 
