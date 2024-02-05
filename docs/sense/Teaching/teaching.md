@@ -85,7 +85,7 @@ Structure inspired by [[goodyear-patterns-design-practice]] description of the e
 
     Broad practice
 
-    - [[class-management]]
+    - [[classroom-management]]
     - [[differentiation]]
     - [[behaviour-management]]
     - [[curriculum-ergonomics]]
