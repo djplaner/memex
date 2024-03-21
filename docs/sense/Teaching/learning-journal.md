@@ -33,6 +33,7 @@ Adapted from Park (2003, p. 185)
 - Helping students to improve their writing by focusing on processes rather than on products, emphasising expressive and personal aspects, and serving as a record of thought and expression that is available for rereading (Yinger, 1985)
 
 Adapted from Park (2003, p. 193-194)
+
 | Positive aspects | Negative aspects |
 | --- | --- |
 | Ownership | Difficulty of the task |
