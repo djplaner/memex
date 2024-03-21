@@ -47,6 +47,8 @@ May be better to put this into a separate file with a global object that can be 
 
 **Problem** Quasar tooltip component won't allow HTML as a tooltip - at least not from a variable. For now, sticking with just text.
 
+**Solution** Ended up going with Shoelace as the icons were also problematic in Quasar.
+
 ## People page root component
 
 Early implementation
