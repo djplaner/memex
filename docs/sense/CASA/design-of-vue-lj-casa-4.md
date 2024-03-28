@@ -25,12 +25,51 @@ Decide which component to display based on the group set id prop
 
 ## cljEveryone
 
-Shown on the user's (people) page of a Canvas course to raise awareness that CLJ is available and to provide a link to the documentation.
+Shown on the user's (people) page of a Canvas course to raise awareness that CLJ is available and to provide a link to the documentation.  Also via expansion provide a holder component that relies on sub-components to do the work
 
-**Questions**
+- [cljGroupSets](#cljGroupSets)
 
-- Should it provide some status information
-- It should probably provide a way to create a learning journal group set (pre-populated ready to go)
+    Overview of all the groupsets currently in the course.
+
+- [cljCreateLearningJournal](#cljCreateLearningJournal)
+
+    Form to create a learning journal group set
+
+### cljGroupSets
+
+Display a table for each available learning journal.
+
+Table will display
+
+- Name of the group set
+- Group set type (learning journal status)
+
+    - no group allocation
+        - groups don't have any members
+    - not learning journal 
+        - Groups have more than one person AND/OR self-sign up is possible
+        - no discussion forums
+    - learning journal
+        - groups have more than one person AND/OR self-sign up is possible 
+        - graded discussion forums
+    - private learning journal
+        - groups have only one person AND self-sign up is not possible
+
+- missing from groups
+
+    - display # of students without allocated groups in each group set
+
+        The group set display will provide details on who they are and how to allocate them to a group. Which would depend on the status.
+
+### cljCreateLearningJournal
+
+Form to create a learning journal group set
+
+- would require simply the name of the group set 
+- submission would create the group set and automatically allocate one group per student
+- needs to ensure that the name entered does not match any existing group set
+- display information about the next steps for creation
+
 
 ## cljGroupSet
 

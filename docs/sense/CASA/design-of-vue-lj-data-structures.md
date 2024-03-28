@@ -81,6 +81,7 @@ The `groups` property `nodes` is an array of objects with the following properti
             An array of nodes each containing info about each member: _id, createdAt, user - an object containing _id, name, email, avatarUrl
 
 - [canvasApiData](#canvasapidata)
+- [Matching Python data structures](#matching-python-data-structures)
 - [Transformed GraphQL data](#transformed-graphql-data)
 
 ```json
@@ -266,6 +267,54 @@ The `groups` property `nodes` is an array of objects with the following properti
     "updated": 1
 }
 ```
+
+## Matching Python data structures
+
+Todo 
+
+- Extract from each group set's groups' members all the current members of the group set -- to identify if there are any students without a group
+
+    - Number of groups should match number of students for initial check
+    - then list of students compared with all students to find out who's missing
+- Get list of discussion topics for a group set, including posts/entries
+- Calculate stats for a group set/learning journal
+
+Global 
+
+| Python | Vue | Description | Used where |
+| --- | --- | --- | --- |
+| teachers | course_object.teachers | All user info based on enrolment_type "teacher" |  |
+| staff_list | @todo calculate if/when needed | An array of staff user ids taken from teachers |  |
+| students | course_object.students |  All user info based on enrolment type 'student' | Obtained in Vue |
+
+Group set level -- courseObject.groupSets.nodes
+
+| Python | Vue | Description | Used where |
+| --- | --- | --- | --- |
+| groupMembers | | Collection of membership information | **deprecated?** not used in view in Python   |
+| users | | Paginated list of user information for people in the group | **deprecated** |
+| topic | | Canvas topic object - posibly not there? | **deprecated** |
+| stats | @todo further analysis in vue | num_groups, num_unanswered_student_posts, num_student_entries, num_no_student_entry, num_prompts, num_no_staff_entry  |  |
+| prompts | course_object.assignments gets all assignments. @todo extract out the discussion topics and perhaps get more info or explore another way of getting the info | Array of objects for the prompts for a group set | |
+
+Prompts level
+
+| Python | Vue | Description | Used where |
+| --- | --- | --- | --- |
+| prompt_stats | | Statistics about the prompt across all groups| |
+| assignment | | Info about the assignment, including the parent discussion topic | |
+| responses | | Array of objects for all responses to a prompt | |
+
+Response level
+
+| Python | Vue | Description | Used where |
+| --- | --- | --- | --- |
+| topic_id | | Discussion topic information (specific to the group) | |
+| group_id | | | |
+| prompt_topic | | The actual discussion topic object | |
+| entries | | Full discussion topic | |
+| entry_stats | | | |
+
 
 ## Transformed GraphQL data
 
