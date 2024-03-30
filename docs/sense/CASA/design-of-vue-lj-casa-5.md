@@ -10,18 +10,33 @@ List of current development tasks for the [Canvas Learning Journal](https://gith
 
 ## Current work
 
-CURRENTLY working on refining the GraphQL query to get all the data 
+- Refine the async call to Canvas API 
+
+    There are problems with cljStatusLearningJournal.vue trying to access data that hasn't been retrieved from Canvas yet.  it's being instantiated before the data is available. Suggesting that we will need to do this for every component using the deeper structures in the store
+
+    One solution to this would be if the mounting of the root component `await`s the completion of the Canvas API. There appears to be a way to have an `async` mount handler in Vue. This might be the option
+
+- Defining group set status as a learning journal 
+
+    - [ ] document [status](vue-canvas-learning-journal.md#group-set--learning-journal-states)
+    - [ ] lmsDataApi - implement a 'learningJournalState' property
+    - [ ] modify cljEveryone to show that state/status
+    - [ ] modify cljGroupSet to show the state/status
+- refining the GraphQL query to get all the data 
+
+    - Did some initial work but now refining as working on each component
 
 - [x] Implement initial root components just the infrastructure
 - canvasApiData 
 
     - [ ] Clean up [canvasApiData](#canvasapidata) to do list 
+    - [X] Getting discussions data via REST API
+    - [ ] Getting the contents of discussion topics for a groupset via REST API
     - [ ] check/update to get all group set information
     - [ ] identify if a group set can be a learning journal
     - [ ] get the prompt data - identify when this should 🙋 
 
-            e.g. at load time or when/if the group set is displayed (latter seems a good choice)
-
+        e.g. at load time or when/if the group set is displayed (latter seems a good choice)
     - [ ] Implement methods to be used by other components
 
 - Start implement cljOrchestrate
@@ -65,14 +80,17 @@ CURRENTLY working on refining the GraphQL query to get all the data
 ## canvasApiData
 
 - [x] Rename functions to be more specific to the Canvas Learning Journal (rather than course)
-- [ ] transform the GraphQL object into something a little more useful - see [[design-of-vue-lj-data-structures]]
+- [x] transform the GraphQL object into something a little more useful - see [[design-of-vue-lj-data-structures]]
 - [ ] Be able to get all the learning journal data (drawn from LearningJournal class from Python version)
+
+    - [x] discussion topics (global)
+    - [ ] group set topics and messages
 
     - Course level??
 
-        - [ ] `teachers` 
+        - [x] `teachers` 
         - [ ] `staff_list`
-        - [ ] `students` - i.e. those in the section?? or all students???
+        - [x] `students` - i.e. those in the section?? or all students???
 
     - Group set level
 

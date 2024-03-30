@@ -11,35 +11,33 @@ Design and summarise current data structures.
 Currently data structure management entirely in `canvasApiData.ts`
 
 
+
+
 ## canvasApiData
 
-Exports a function `getCanvasCourse` which generates a singleton object that consists of
+Exports a function `getCanvasCourse` which generates a singleton object of type `courseData`. It retrieves data from the Canvas API and then transforms it into a more useful object.
 
 | Property | Description |
 | --- | --- |
 | `id` | the course id |
 | `name` | the course name |
+| `courseCode` | Canvas API course code |
 | `hostname` | the Canvas instance's hostname (url) |
+| `createdAt` | the date the course was created |
 | `updated` | a counter that is incremented each time the object is updated |
 | `groupSets` | an array of group sets _currently undefined_ |
-| `courseObject` | object returned by the [GraphQL query](design-of-vue-lj-casa-1.md#graphql) |
+| `groupSetsById` | an object with group set ids as keys and group set data as values |
+| `students` | an array of student data |
+| `studentsById` | an object with student ids as keys and student data as values |
+| `teachers` | an array of teacher data |
+| `teachersById` | an object with teacher ids as keys and teacher data as values |
+| `discussions` | Array of discussion data retrieved via REST API (no graphQL support) this data is then parsed into appropriate places within `groupSets` data structure |
+| `courseObject` | **deprecated** object returned by the [GraphQL query](design-of-vue-lj-casa-1.md#graphql) |
+| ` @TODO assignments | |
 
+### groupSets
 
-`courseObject` has the following properties
-
-| Property | Description |
-| --- | --- |
-| `courseCode` | User visible course code shown in Canvas | 
-| `createdAt` | Date the course was created |
-| `name` | Visible course name from Canvas |
-| `groupSets` | An array of group set data |
-| `students` | An array of user data for all users with a student role |
-| `teachers` | An array of user data for all users with a teacher role |
-| `assignments` | Object containing array of data about course assignments |
-
-** TODO assignments **
-
-The `groupSets` property `nodes` is an array objects with the following properties
+The `groupSets` property is an array of objects representing an individual groupset, including 
 
 | Property | Description |
 | --- | --- |
@@ -48,9 +46,15 @@ The `groupSets` property `nodes` is an array objects with the following properti
 | `name` | the group set name |
 | `memberLimit` | the maximum number of members allowed in a group |
 | `selfSignUp` | whether students can self sign up for groups |
+| `numGroups` | the number of groups in the group set - calculated by code |
+| `numMembers` | Number of students who are members of groups within the group set |
+| `discussionTopics` | Discussion topics (Canvas API objects) associated with this group set |
+| `groupsConnection` | the original GraphQL property |
 | `groups` | array of data about the groups that belong to the group set |
 
-The `groups` property `nodes` is an array of objects with the following properties
+#### Groups
+
+The `groups` property is an array of objects for each group belonging to the group set with the following properties
 
 | Property | Description |
 | --- | --- |
@@ -62,27 +66,24 @@ The `groups` property `nodes` is an array of objects with the following properti
 | `createdAt` | the date the group was created |
 | `members` | array of data about the members of the group. Which is an array of objects with a `nodes` property that contains an array (only usually one for a learning journal) with basic user information (_id, name, email, avatarUrl)  |
 
+### students and teachers
 
+The `students` and `teachers` properties array arrays of objects representing student/teacher  info in the course with the following properties
 
-
-
-    object returned by the [GraphQL query](design-of-vue-lj-casa-1.md#graphql) which currently gets 
-
-    - basic information about the group set
-
-        _id, name, memberLimit, selfSignUp
-
-    - groups information (via `groupsConnection`)
-
-        An array of nodes each containing info about each group: _id, name, updatedAt, membersCount, canMessage, createdAt
-
-        - membersConnection
-
-            An array of nodes each containing info about each member: _id, createdAt, user - an object containing _id, name, email, avatarUrl
+| Property | Description |
+| --- | --- |
+| `_id` | the student's Canvas id |
+| `name` | the student's name |
+| `email` | the student's email address |
+| `htmlUrl` | the student's avatar/about page for the current course |
 
 - [canvasApiData](#canvasapidata)
+  - [groupSets](#groupsets)
+    - [Groups](#groups)
+  - [students and teachers](#students-and-teachers)
 - [Matching Python data structures](#matching-python-data-structures)
 - [Transformed GraphQL data](#transformed-graphql-data)
+- [On the question of stores](#on-the-question-of-stores)
 
 ```json
 {
@@ -321,7 +322,17 @@ Response level
 The GraphQL data isn't directly useful for the Vue components.
 
 
+## On the question of stores
 
+Beyond the basic (singleton) approach initially used there are purpose [built stores](https://dev.to/muratcanyuksel/saving-and-using-fetched-data-with-vuex-store-2igj) for Vue. [Pinia](https://pinia.vuejs.org/introduction.html) appears to be a current good one. Recommended by the [Vue originator](https://rubenr.dev/pinia-vuex/)
+
+But perhaps too heavy weight for usage now. This [comparison of state management in Vue](https://medium.com/@subodha.sahu91/3-state-management-in-vue-js-c4cda1ca1397) lists three options
+
+1. global event bus 
+
+    - Difficult to maintain as application grows. Also lead to data inconsistencies
+2. simple global store 
+3. Vuex library (Pinia fits here)
 
 [//begin]: # "Autogenerated link references for markdown compatibility"
 [vue-canvas-learning-journal]: vue-canvas-learning-journal "vue-canvas-learning-journal"

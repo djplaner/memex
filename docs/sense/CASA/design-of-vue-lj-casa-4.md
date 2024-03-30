@@ -70,14 +70,41 @@ Form to create a learning journal group set
 - needs to ensure that the name entered does not match any existing group set
 - display information about the next steps for creation
 
+Canvas API REST method to [create a group set (aka category)](https://canvas.instructure.com/doc/api/group_categories.html#method.group_categories.create), request parameters:
+
+  - name: string
+  - self_signup: string [ enabled, restricted ]
+  - auto_leader: string [ first, random ]
+  - group_limit: integer 
+  - sis_group_category_id: string (not sure)
+  - create_group_count: integer - number of groups to created
+  - split_group_count: string - deprecated
+
+Returns a [GroupCategory](https://canvas.instructure.com/doc/api/group_categories.html#GroupCategory) object.
+
+Form should just take the name of the group set.
+
+
+ 
 
 ## cljGroupSet
 
-Shown on the group set page of a Canvas course. Provides all functionality required to configure (through [cljConfigure](#cljconfigure)) and orchestrate (through [cljOrchestrate](#cljorchestrate)) the use of a learning journal for that specific group set.
+Base component shown on the group set page of a Canvas course. 
+
+For valid Learning journals will provides all functionality required to configure through sub-components under tags 
+
+- Configure - [cljConfigure](#cljconfigure)) and 
+- orchestrate - ([cljOrchestrate](#cljorchestrate)) 
+
+Only show these if there are prompts for the group set.
+
+BUt only show 
 
 ### cljConfigure
 
 Display the current status of configuration as a learning journal for the current groupset and provide the functionality necessary to complete the configuration.
+
+Probably/Perhaps provide functionality to add prompts and create single-person groups - turn off self-signup etc.
 
 Configuration stages include the following
 
@@ -98,17 +125,61 @@ If there is any configuration left to be done, that component provides a button/
 
 #### cljStatusGroupSet
 
-Possible data for group sets from [Canvas API](https://canvas.instructure.com/doc/api/group_categories.html)
+Show high level stats about the current group set (aka [group category](https://canvas.instructure.com/doc/api/group_categories.html)) showing
 
-- id 
-- name 
-- role communities, student_organised, imported
-- self_signup: random, first, null
-- auto_leader: random, first, null
-- context_type: Course, Account (possibly ignore this one?)
-- group_limit: used if self-signup is enabled, null places no limit, otherwise number
+- general group category/set information, and
+
+    - name 
+    - self_signup and group_limit
+    - auto_leader
+
+- any additional learning journal analysis
+
+    - num members / num course students
+    - no group allocation
+        - groups don't have any members
+    - not learning journal 
+        - Groups have more than one person AND/OR self-sign up is possible
+        - no discussion forums
+    - learning journal
+        - groups have more than one person AND/OR self-sign up is possible 
+        - graded discussion forums
+    - private learning journal
+        - groups have only one person AND self-sign up is not possible
+
+Design ideas 
+
+- 2 column div (flex/grid): Learning Journal, Group Set
+- Learning Journal 
+
+    Provides any info about the group sets ability/status as a group set
+
+    - status along progression to be a learning journal
+    - info about any unallocated students
+
+- Group set 
+
+    Copy of data from [cljGroupSets](#cljgroupsets) specific to this group set
+
+
 
 #### cljStatusStudentGroups
+
+Show a summary of information about each of the student groups in the current group set.
+
+- # groups without student entries
+- # groups without recent student entries
+- # groups without staff entries
+- # groups without recent staff entries
+
+Each of these being a table that includes 
+
+- a count for each category and 
+- (maybe) a details tab to reveal the details of those
+
+    Functionally, this could be done within the prompts?  but that would only be for a specific prompt.
+    This level would need to include the group and maybe the prompt
+
 
 #### cljStatusDiscussion
 
