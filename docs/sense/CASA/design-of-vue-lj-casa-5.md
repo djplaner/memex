@@ -10,17 +10,38 @@ List of current development tasks for the [Canvas Learning Journal](https://gith
 
 ## Current work
 
-- Refine the async call to Canvas API 
+- [ ] think about how/when to get all the discussion information for a group set
 
-    There are problems with cljStatusLearningJournal.vue trying to access data that hasn't been retrieved from Canvas yet.  it's being instantiated before the data is available. Suggesting that we will need to do this for every component using the deeper structures in the store
+    - at the root component in the initial getCourseData
 
-    One solution to this would be if the mounting of the root component `await`s the completion of the Canvas API. There appears to be a way to have an `async` mount handler in Vue. This might be the option
+        - at this level it would be easier to share elsewhere in the app - future features
+        - also simplifies the idea that all the data is already in place
+        - but potentially is a lot of data waiting for it to return - responsiveness
+
+    - separate it out till later
+
+        - at the group set level 
+        - or at the level of the component that actually displays the information
+
+- [x] Fix problem with updating open cljGroupSet when changing between group sets
+
+    Changing between group sets is done via an event handler in Canvas. This is bypassing my code
+
+    - [X] try adding an eventHandler in cljGroupSet.vue
+
+        That works for the cljGroupSet component, but the sub-components aren't changing based on changes in the group set.
+
+    - [x] Is there a "vue way" to make sub-components change
+
+        Yes, the problem is that the bottom sub-components were using groupSetId to access global state, but weren't watching for changes in that state.
+
 
 - Defining group set status as a learning journal 
 
-    - [ ] document [status](vue-canvas-learning-journal.md#group-set--learning-journal-states)
-    - [ ] lmsDataApi - implement a 'learningJournalState' property
-    - [ ] modify cljEveryone to show that state/status
+    - [x] document [status](vue-canvas-learning-journal.md#group-set--learning-journal-states)
+    - [x] lmsDataApi - implement a 'learningJournalState' property
+    - [x] implement the cljStatusLearningJournal component
+    - [x] modify cljEveryone to show that state/status
     - [ ] modify cljGroupSet to show the state/status
 - refining the GraphQL query to get all the data 
 

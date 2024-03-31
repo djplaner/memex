@@ -11,6 +11,13 @@ Design and summarise current data structures.
 Currently data structure management entirely in `canvasApiData.ts`
 
 
+## Usage of canvasApiData
+
+The root component (`App.vue`) does the initial `const canvasData = getCanvasData()`, which initiates the API call. All subsequent calls will be getting the singleton. They are also guaranteed to have the data available as the `App.vue` does not add any sub-components to the DOM until the data is loaded.
+
+Some of the sub-components currently have left over crud to be removed.
+
+Other sub-components (the group set specific stuff) will/may need to do additional queries. Alternatively could do it all initially depending on whether a group set is determined to be a learning journal.
 
 
 ## canvasApiData
@@ -77,6 +84,7 @@ The `students` and `teachers` properties array arrays of objects representing st
 | `email` | the student's email address |
 | `htmlUrl` | the student's avatar/about page for the current course |
 
+- [Usage of canvasApiData](#usage-of-canvasapidata)
 - [canvasApiData](#canvasapidata)
   - [groupSets](#groupsets)
     - [Groups](#groups)
