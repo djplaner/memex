@@ -12,6 +12,8 @@ List of current development tasks for the [Canvas Learning Journal](https://gith
 
 - [ ] think about how/when to get all the discussion information for a group set
 
+    First approach is to implement it within canvasApiData as a separate class/method/singleton, which can then be called from anywhere. Will start within the root component and evolve it from there. -- see [canvasApiData](#canvasapidata)
+
     - at the root component in the initial getCourseData
 
         - at this level it would be easier to share elsewhere in the app - future features
@@ -106,6 +108,15 @@ List of current development tasks for the [Canvas Learning Journal](https://gith
 
     - [x] discussion topics (global)
     - [ ] group set topics and messages
+
+        - [ ] implement a groupSetPromptsResponses class 
+
+            Responsible to retrieve and manipulate all prompts and responses for a group set
+
+            - [ ] defined    --- SORT OF WORKING in CanvasAPIData
+            - [ ] async methods to get all the data 
+            - [ ] add singletons to group set -- maybe do this async instead
+
 
     - Course level??
 
