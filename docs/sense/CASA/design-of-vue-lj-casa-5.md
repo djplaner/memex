@@ -109,13 +109,7 @@ List of current development tasks for the [Canvas Learning Journal](https://gith
     - [x] discussion topics (global)
     - [ ] group set topics and messages
 
-        - [ ] implement a groupSetPromptsResponses class 
-
-            Responsible to retrieve and manipulate all prompts and responses for a group set
-
-            - [ ] defined    --- SORT OF WORKING in CanvasAPIData
-            - [ ] async methods to get all the data 
-            - [ ] add singletons to group set -- maybe do this async instead
+            Sort of working
 
 
     - Course level??
