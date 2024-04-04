@@ -10,6 +10,10 @@ List of current development tasks for the [Canvas Learning Journal](https://gith
 
 ## Current work
 
+- [ ] Move the root component widget to under the active tabs
+
+    div#group_categories_tabs > div.ui-tabs-panel with aria-expanded=true
+
 - [ ] think about how/when to get all the discussion information for a group set
 
     First approach is to implement it within canvasApiData as a separate class/method/singleton, which can then be called from anywhere. Will start within the root component and evolve it from there. -- see [canvasApiData](#canvasapidata)
@@ -62,7 +66,45 @@ List of current development tasks for the [Canvas Learning Journal](https://gith
         e.g. at load time or when/if the group set is displayed (latter seems a good choice)
     - [ ] Implement methods to be used by other components
 
-- Start implement cljOrchestrate
+## cljGroupSet
+
+- [x] hide orchestrate and parts of configure when not learning journal
+- [ ] Implement cljConfigure
+- [ ] Implement cljOrchestrate
+
+### cljConfigure
+
+- [x] hide cljStatusDiscussions and cljOrchestrate when not learning journal
+
+#### cljStatusGroupSet
+
+- [ ] whether/what to add in terms of configuration buttons/links when no groups, no prompts
+- [ ] How to display the details of students who are not in a group (used in multiple places)
+
+#### cljStatusStudentGroups
+
+- [ ] model method to calculate statistics about entries in prompts
+
+    - [ ] groups without student entries: 7 days and ever
+    - [ ] groups without staff entries: 7 days and ever
+
+#### cljStatusDiscussions
+
+- [ ] show table and rows for all groups
+
+    - [ ] basic rows with names and columns
+    - [ ] add status property to each group's discussion topics objects
+        - this.groupSets[0].groups[0].prompts[0].stats
+    - [ ] add status property to each groupset's discussion topics objects based on the relevant group's discussion status property
+
+Trying to figure out how to add prompt stats to discussionTopics
+
+this.groupSets[0].discussionTopics[0].prompts = {} // a dict of points to the prompts....grouped by discussion topic, rather than group
+
+
+### cljOrchestrate
+
+
 
 
 ## General
