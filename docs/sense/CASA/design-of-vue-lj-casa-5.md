@@ -10,11 +10,23 @@ List of current development tasks for the [Canvas Learning Journal](https://gith
 
 ## Current work
 
-- [ ] Move the root component widget to under the active tabs
+- [x] show the stats for student groups overview
+- [x] Move the progress ring on config to cljConfigure not the sub components
+- [x] check the values for the stats 
+
+    - [x] group status
+    - [x] discussion status
+- [x] Move the root component widget to under the active tabs
 
     div#group_categories_tabs > div.ui-tabs-panel with aria-expanded=true
 
-- [ ] think about how/when to get all the discussion information for a group set
+    - [x] the event handler for the groupSet component needs to move the root component between different active tabs
+
+- [x] if on everyone page don't load the discussion topic data
+
+- [x] rename "configure" > "Overview" and "orchestrate" > "Participation"
+
+- [x] think about how/when to get all the discussion information for a group set
 
     First approach is to implement it within canvasApiData as a separate class/method/singleton, which can then be called from anywhere. Will start within the root component and evolve it from there. -- see [canvasApiData](#canvasapidata)
 

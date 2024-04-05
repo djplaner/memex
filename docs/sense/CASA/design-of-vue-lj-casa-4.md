@@ -167,10 +167,10 @@ Design ideas
 
 Show a summary of information about each of the student groups in the current group set.
 
-- # groups without student entries
-- # groups without recent student entries
-- # groups without staff entries
-- # groups without recent staff entries
+- num groups without student entries
+- num groups without recent student entries
+- num groups without staff entries
+- num groups without recent staff entries
 
 Each of these being a table that includes 
 
@@ -183,6 +183,12 @@ Each of these being a table that includes
 
 #### cljStatusDiscussion
 
+Give an overview of the status of each discussion topic for the group set. Show a table/list of all the discussion topics and variuos stats, possibilities include
+
+- num groups without student entries - 7 days and ever
+- num groups without staff entries  - 7 days and ever
+
+
 ### cljOrchestrate
 
 Provide a report of the current status of all learning journals and ways for the teacher to orchestrate student engagement.
@@ -191,11 +197,11 @@ If there's no learning journal possible for the current group set, this is all g
 
 Two components
 
-- `cljStatusLearningJournal`
+- `cljOverviewParticipation`
 
     Summary of # of prompts and students and then the high level table.
 
-- `cljStatusPrompts`
+- `cljPromptsParticipation`
 
     Each prompt has a tab with a report of student engagement with those prompts.
 
