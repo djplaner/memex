@@ -10,49 +10,40 @@ List of current development tasks for the [Canvas Learning Journal](https://gith
 
 ## Current work
 
-- [x] show the stats for student groups overview
-- [x] Move the progress ring on config to cljConfigure not the sub components
-- [x] check the values for the stats 
+- [x] groupset overview loading progress doesn't get replaced if the CLJ not open
+- [ ] Add a reload/refresh button that gets the Canvas API data afresh
 
-    - [x] group status
-    - [x] discussion status
-- [x] Move the root component widget to under the active tabs
+- [ ] cljPromptParticipationDetails 
 
-    div#group_categories_tabs > div.ui-tabs-panel with aria-expanded=true
+    - [x] try out Vuex data table or alternative [vue3-easy-data-table](https://hc200ok.github.io/vue3-easy-data-table-doc/features/style-customization.html)
 
-    - [x] the event handler for the groupSet component needs to move the root component between different active tabs
+        Problem with data table (Vuex) is the icons and Canvas' `i[class*=icon-]:before` rule which is changing the font to a Canvas font to make those icons work. Vuetify add `v-icon` and `v-icon--size-default` classes. Remove those classes and it appears to work (manually). Can it be made to work programmatically?
+    - [x] fix up group cell for details and css
+    - [x] test for presence of real avatar url
+    - [x] fix up counting stats for student and staff
+    - [x] test for the topic having an assignment 
+      - [ ] And maybe if the student actually has a submission??? no student entries would suggest nothing
+    - [x] link to forum
+    - [ ] testing for an unanswered reply can't really rely just on last post...or needs to make it clear from the naming
+    - [ ] add days since last student entry and unanswered to stats generation for topics
 
-- [x] if on everyone page don't load the discussion topic data
 
-- [x] rename "configure" > "Overview" and "orchestrate" > "Participation"
+    - [ ] numGroups calculation in participation getting too many groups
 
-- [x] think about how/when to get all the discussion information for a group set
+- [ ] cljTopicEntries
 
-    First approach is to implement it within canvasApiData as a separate class/method/singleton, which can then be called from anywhere. Will start within the root component and evolve it from there. -- see [canvasApiData](#canvasapidata)
+    - [ ] make the threaded entries display collaps/expandable in various ways 
+      - [ ] live on the actual replies itself 
+      - [ ] collapse/expand all to reduce space in the table
+    - [x] identify where/how to get the entries and replies
+        - should be in the `promptsByGroupId[..].stats.view
+           - and each one can have a 'replies' property - descending
+    - [x] generate the recursive structure of replies
 
-    - at the root component in the initial getCourseData
-
-        - at this level it would be easier to share elsewhere in the app - future features
-        - also simplifies the idea that all the data is already in place
-        - but potentially is a lot of data waiting for it to return - responsiveness
-
-    - separate it out till later
-
-        - at the group set level 
-        - or at the level of the component that actually displays the information
-
-- [x] Fix problem with updating open cljGroupSet when changing between group sets
-
-    Changing between group sets is done via an event handler in Canvas. This is bypassing my code
-
-    - [X] try adding an eventHandler in cljGroupSet.vue
-
-        That works for the cljGroupSet component, but the sub-components aren't changing based on changes in the group set.
-
-    - [x] Is there a "vue way" to make sub-components change
-
-        Yes, the problem is that the bottom sub-components were using groupSetId to access global state, but weren't watching for changes in that state.
-
+        - [x] entries being shown
+        - [x] get user name 
+        - [x] recurse to show replies 
+        - [x] change the structure of the table to give more space to the threaded replies
 
 - Defining group set status as a learning journal 
 
@@ -60,7 +51,7 @@ List of current development tasks for the [Canvas Learning Journal](https://gith
     - [x] lmsDataApi - implement a 'learningJournalState' property
     - [x] implement the cljStatusLearningJournal component
     - [x] modify cljEveryone to show that state/status
-    - [ ] modify cljGroupSet to show the state/status
+    - [x] modify cljGroupSet to show the state/status
 - refining the GraphQL query to get all the data 
 
     - Did some initial work but now refining as working on each component
@@ -83,6 +74,28 @@ List of current development tasks for the [Canvas Learning Journal](https://gith
 - [x] hide orchestrate and parts of configure when not learning journal
 - [ ] Implement cljConfigure
 - [ ] Implement cljOrchestrate
+
+## cljCreateGroups
+
+Called from cljGroupSet when there are students who do not have the group 
+
+- provide a button when pressed 
+- opens a dialog that allows 
+- selection of what groups to create
+
+    - which sections of students to include  - drop down with all sections
+    - Ability to select individual students to exclude - table showing all students without groups
+    - [ ] add some blurb about what to do 
+    - [ ] correctly label the search on name and sections
+    - [ ] add a "Create groups" button
+
+- and then creates the groups 
+
+    - [ ] add a function/method to create the groups
+        - [ ] Identify how to create groups from AEL LJ
+        - [ ] update the display
+        - [ ] do a synchronous call to the API to create the groups
+- returning to the original state
 
 ### cljConfigure
 
