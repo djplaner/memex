@@ -104,6 +104,8 @@ Mitchell & Bown (2013) research the needs of creative coders and developed a tax
 
 ## Creative/art platforms
 
+- [vvv](https://www.visualprogramming.net/)
+
 ### IPO model
 
 [This article](https://timrodenbroeker.de/what-is-creative-coding/) argues that creative coding extends the horizon of coding beyond typical software development. Typical software development focuses on a narrow range of tasks. Creating coding can go beyond. This is illustrated using the standard Input, Process, Output (IPO) model of software development but illustrating it for creative coding.

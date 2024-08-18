@@ -14,11 +14,18 @@
 | [[foundations]] | |
 | [[web-development]] | How to |
 
+## Stuff
+
+| Notes | Description | 
+| --- | --- |
+| [[quotes]] | Misc interesting quotes |
+
 ## Topics
 
 | Notes | Description | 
 | --- | --- |
 | [[AI]] | Obligatory explorations with LLMs |
+| [[birding]] | Attempt to find a hobby |
 | [[computing]] | Explorations into computing as discipline |
 | [[design]] | Most learning design, a bit of LX and UX perhaps |
 | [[floss]] | Free/Libre Open Source Software |
@@ -63,7 +70,9 @@
 [concepts]: concepts/concepts "Concepts"
 [foundations]: principles/foundations "Foundations"
 [web-development]: Web-development/web-development "Web development"
+[quotes]: <quote collection/quotes> "Quotes"
 [AI]: AI/AI "AI"
+[birding]: birdwatching/birding "Birding"
 [computing]: computing/computing "Computing"
 [design]: Design/design "Design"
 [floss]: computing/floss "FLOSS and FOSS"
@@ -73,6 +82,7 @@
 [research]: Research/research "Research"
 [society]: Society/society "Society"
 [conferences]: Conferences/conferences "Conferences"
+[loose]: loose/loose "Loose notes"
 [paper-ideas]: Paper-Ideas/paper-ideas "Paper Ideas"
 [paper-summaries]: Paper-Summaries/paper-summaries "Paper Summaries"
 [recipes]: Recipes/recipes "Recipes"

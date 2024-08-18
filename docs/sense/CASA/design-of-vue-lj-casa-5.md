@@ -10,6 +10,8 @@ List of current development tasks for the [Canvas Learning Journal](https://gith
 
 ## Current work
 
+- [ ] cljCreateGroups (see below)
+- [ ] cljCreateLearningJournal (see below)
 - [x] groupset overview loading progress doesn't get replaced if the CLJ not open
 - [ ] Add a reload/refresh button that gets the Canvas API data afresh
 
@@ -74,6 +76,28 @@ List of current development tasks for the [Canvas Learning Journal](https://gith
 - [x] hide orchestrate and parts of configure when not learning journal
 - [ ] Implement cljConfigure
 - [ ] Implement cljOrchestrate
+
+## cljCreatePrompt
+
+- [ ] identify the data/API required to create a ???
+- [ ] implement a lib/create???.ts file 
+  - [ ] defines a type/class for the data/API 
+  - [ ] Implements the async call to the API to create the learning journal
+- [ ] link it to the component
+    - [ ] use the type to guide creation of the form
+    - [ ] identify the other data required to scaffold form completion
+    - [ ] interact with the async call to create and report progress/end result
+
+## cljCreateLearningJournal 
+
+- [ ] identify the data/API required to create a ???
+- [ ] implement a lib/create???.ts file 
+  - [ ] defines a type/class for the data/API 
+  - [ ] Implements the async call to the API to create the learning journal
+- [ ] link it to the component
+    - [ ] use the type to guide creation of the form
+    - [ ] identify the other data required to scaffold form completion
+    - [ ] interact with the async call to create and report progress/end result
 
 ## cljCreateGroups
 
