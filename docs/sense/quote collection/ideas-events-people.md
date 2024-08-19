@@ -20,10 +20,14 @@ Stewart (1901) suggested that focusing on one level of the hierarchy alone would
 
 > any of one’s friends who was incapable of a little intermingling of these condiments would soon be consigned to the home for dull dogs.
 
+Focusing overly on a single layer could lead to other problems. Too much focus on ideas, too little on the lived experience of people. 
+
 Other questions/issues might be
 
 - Are these the only/best layers in the hierarchy? 
-- Are there other criteria of measuring the 
+- Are there other criteria for measuring the quality of conversation?
+
+    e.g. If this criterion evaluates the _what_ of conversation, might other criteria evaluate the _how_ (form of conversation, medium etc) or _why_ (purpose) of conversation?
 
 ## Resources
 
