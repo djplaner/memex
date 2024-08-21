@@ -31,6 +31,9 @@ From the Sketchup landscape design course
 
     - e.g. build 3d models of existing buildings and plants
 
+## Practice
+
+- [[sketchup-fundamentals-practice]] - results of Sketchup practice course
 
 ## Process ideas
 
