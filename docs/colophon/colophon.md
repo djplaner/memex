@@ -1,20 +1,3 @@
-<!--
- Copyright (C) 2023 David Jones
- 
- This program is free software: you can redistribute it and/or modify
- it under the terms of the GNU Affero General Public License as
- published by the Free Software Foundation, either version 3 of the
- License, or (at your option) any later version.
- 
- This program is distributed in the hope that it will be useful,
- but WITHOUT ANY WARRANTY; without even the implied warranty of
- MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
- GNU Affero General Public License for more details.
- 
- You should have received a copy of the GNU Affero General Public License
- along with this program.  If not, see <http://www.gnu.org/licenses/>.
--->
-
 # Colophon
 
 [Colophon](https://en.wikipedia.org/wiki/Colophon_(publishing)), a fancy term for sharing information about the publication of this "book". A way to track the thinking behind the evolution of this site.
@@ -45,6 +28,8 @@ See [this blog post](https://djon.es/blog/2020/07/06/designing-a-personal-memex-
 
 - [[publishing-graph-interface]]
 - [[integrate-backlinks-automatically-onto-pages]] 
+- [[computational-components]]
+
 
 ## Other examples
 

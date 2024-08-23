@@ -88,6 +88,7 @@ markdown_extensions:
   - pymdownx.tasklist
   - pymdownx.tilde
 plugins:
+  - glightbox
   - search
   - roamlinks 
     #- autolinks 
@@ -104,6 +105,8 @@ extra_javascript:
   - javascripts/mathjax.js
   - https://polyfill.io/v3/polyfill.min.js?features=es6
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+  - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
+  - javascripts/tablesort.js
 extra:
   analytics:
     provider: google
@@ -160,8 +163,7 @@ nav:
   - Share: 
     - Overview: share/share.md
     - Blog: share/blog/blog-posts.md 
-  - Mathematics:
-    - sense/Teaching/Mathematics/teaching-mathematics.md
-  - Digital Technologies:
-    - sense/Teaching/Digital_Technologies/teaching-digital-technologies.md
-    
+  - Birding:
+    - Birding: sense/birdwatching/birding.md 
+  - Gardens:
+    - Gardens: sense/landscape-garden/gardens.md
