@@ -118,8 +118,19 @@ def generatePhotoData(df):
     return photoData
 
 def generateLifeList(df, photoData):
-    """
-    Generate a markdown file listing all birds in the life list
+    """Write a markdown file with a formatted life list
+
+    Parameters
+    ----------
+    df : pandas.DataFrame
+        Copy of eBird csv
+    photoData : dict
+        Dict of dicts containing information about all photos for each bird
+        Keyed on camelCaseName. Each bird has a dict of photos, keyed on submissionId.
+        Each photo matches a submission (row in the eBird data)
+        Two values 
+        'photo' : PosixPath to the photo
+        'birdData' : dict of the row in the eBird
     """
 
     #-- open file
@@ -137,19 +148,20 @@ def generateLifeList(df, photoData):
 
             if birdName in photoData:
                 numImages = len(photoData[birdName])
-                generateBirdPage(birdName, photoData[birdName])
+                generateBirdPage(birdName, name, photoData[birdName])
                 name = f"[{name}]({birdName}.md)"
 
             f.write(f"""| {row[1]['Date']} | {name} | {row[1]['Scientific Name']} | {row[1]['Location']} | {numImages} | \n""")
 
-def generateBirdPage(name, images):
+def generateBirdPage(camelCaseName, commonName, images):
     """
     Write a markdown file for a bird with photos.
 
     Parameters
     ----------
-    name : str
+    camelCaseName : str
         The name of the bird in camelCase
+    commonName : str
     images: dict
         Dict of dicts containing information about all photos for this bird
         Keyed on submissionId. Each photo matches a submission (row in the eBird data)
@@ -162,13 +174,11 @@ def generateBirdPage(name, images):
     pprint(images)
 #    quit()
 
-    birdPage = Path(LIFE_LIST_FOLDER / f"{name}.md")
-
-    print(f"-- generate bird page for {name} - {birdPage}")
+    birdPage = Path(LIFE_LIST_FOLDER / f"{camelCaseName}.md")
 
     with open(birdPage, "w") as f:
         content = BIRD_PAGE_TEMPLATE
-        content = content.replace("{{{BIRDNAME}}}", "ADD COMMON NAME")
+        content = content.replace("{{{BIRDNAME}}}", commonName)
 
         f.write(content)
 
@@ -180,7 +190,7 @@ def generateBirdPage(name, images):
 
             f.write(f"""
 <figure markdown>
-  ![{name}]({imageRel}){{data-title="{data['birdData']['Common Name']}",data=description="Observed at {data['birdData']['Location']} on {data['birdData']['Date']}"}}
+  ![{commonName}]({imageRel}){{data-title="{data['birdData']['Common Name']}",data=description="Observed at {data['birdData']['Location']} on {data['birdData']['Date']}"}}
   <caption>{data['birdData']['Common Name']}<br />Observed at {data['birdData']['Location']} on {data['birdData']['Date']}</caption>
 </figure>
 """)
