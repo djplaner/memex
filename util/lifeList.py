@@ -146,7 +146,7 @@ def generateBirdPage(name, row, images):
 
         for image in images:
             # remove LIFE_LIST_FOLDER from the image path
-            imageRel = f"../{image.relative_to(LIFE_LIST_FOLDER)}"
+            imageRel = f"./{image.relative_to(LIFE_LIST_FOLDER)}"
 
             f.write(f"""<figure markdown>![{name}]({imageRel})</figure>\n""")
 
