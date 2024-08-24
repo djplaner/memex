@@ -1,11 +1,13 @@
 ---
-title: "Blue-faced Honeyeater"
+title: "ADD COMMON NAME"
 type: "note"
 tags: birding, birdwatching
 ---
 
 See also: [[birding]], [[life-list]]
 
-(Click on the images to see a larger version)
 
-<figure markdown>![bluefacedHoneyeater](./images/bluefacedHoneyeater/001.jpg)</figure>
+<figure markdown>
+  ![bluefacedHoneyeater](./images/bluefacedHoneyeater/S191596292.jpg){data-title="Blue-faced Honeyeater",data=description="Observed at Postman’s Ridge on 2024-08-16"}
+  <caption>Blue-faced Honeyeater<br />Observed at Postman’s Ridge on 2024-08-16</caption>
+</figure>

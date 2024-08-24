@@ -1,11 +1,13 @@
 ---
-title: "Black-faced Cuckooshrike"
+title: "ADD COMMON NAME"
 type: "note"
 tags: birding, birdwatching
 ---
 
 See also: [[birding]], [[life-list]]
 
-(Click on the images to see a larger version)
 
-<figure markdown>![blackfacedCuckooshrike](./images/blackfacedCuckooshrike/001.jpeg)</figure>
+<figure markdown>
+  ![blackfacedCuckooshrike](./images/blackfacedCuckooshrike/S192292972.jpeg){data-title="Black-faced Cuckooshrike",data=description="Observed at Postman’s Ridge on 2024-08-22"}
+  <caption>Black-faced Cuckooshrike<br />Observed at Postman’s Ridge on 2024-08-22</caption>
+</figure>

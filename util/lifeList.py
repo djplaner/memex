@@ -40,16 +40,6 @@ tags: birding, birdwatching
 
 See also: [[birding]], [[life-list]]
 
-(Click on the images to see a larger version)
-
-"""
-
-global BIRD_IMAGE_TEMPLATE
-BIRD_IMAGE_TEMPLATE = """
-<figure markdown="span">
-    ![](./images/blueFacedHoneyEater.jpg)
-    <figcaption><a href="https://en.wikipedia.org/wiki/Blue-faced_honeyeater">Blue-faced Honeyeater</a></figcaption>
-</figure>
 """
 
 def getLifeList():
@@ -83,10 +73,25 @@ def modifyLifeList(df):
     return df
 
 def generatePhotoData(df):
-    """
-    Given a data frame containing life list data, generate a dictionary. Keyed on
-    'camelCaseName' for each bird. Each bird is an array of information about any 
-    photos taken of that bird.
+    """Generates a dict of dicts with info about all photos.
+
+    Returns
+    -------
+    photoData : dict
+        A dictionary of dictionaries list photo information for each bird
+        {
+            'birdNameCamelCase': {
+                {
+                    'submissionId1': { 
+                        'photo': 'path/to/photo.jpg',
+                        'birdData': dataFrame row from eBird data
+                    }
+                    ....
+                }
+                ....
+            }
+        }
+
     """
 
     photoData = {}
@@ -99,8 +104,16 @@ def generatePhotoData(df):
         if not birdFolder.exists():
             continue
         #-- get a list of all images in the folder
-        birdImages = [f for f in birdFolder.iterdir() if f.is_file()]
-        photoData[birdName] = birdImages
+        photoData[birdName] = {}
+        # - loop thru all images in the folder
+        for image in birdFolder.iterdir():
+            # - get the submissionId from the image name
+            submissionId = image.stem
+            # - get the row from the eBird data
+            photoData[birdName][submissionId] = {
+                'photo': image,
+                'birdData': row[1].to_dict()
+            }
 
     return photoData
 
@@ -124,15 +137,30 @@ def generateLifeList(df, photoData):
 
             if birdName in photoData:
                 numImages = len(photoData[birdName])
-                generateBirdPage(birdName, row, photoData[birdName])
+                generateBirdPage(birdName, photoData[birdName])
                 name = f"[{name}]({birdName}.md)"
 
             f.write(f"""| {row[1]['Date']} | {name} | {row[1]['Scientific Name']} | {row[1]['Location']} | {numImages} | \n""")
 
-def generateBirdPage(name, row, images):
+def generateBirdPage(name, images):
     """
     Write a markdown file for a bird with photos.
+
+    Parameters
+    ----------
+    name : str
+        The name of the bird in camelCase
+    images: dict
+        Dict of dicts containing information about all photos for this bird
+        Keyed on submissionId. Each photo matches a submission (row in the eBird data)
+        Two values 
+        'photo' : PosixPath to the photo
+        'birdData' : dict of the row in the eBird data
+
     """
+
+    pprint(images)
+#    quit()
 
     birdPage = Path(LIFE_LIST_FOLDER / f"{name}.md")
 
@@ -140,15 +168,24 @@ def generateBirdPage(name, row, images):
 
     with open(birdPage, "w") as f:
         content = BIRD_PAGE_TEMPLATE
-        content = content.replace("{{{BIRDNAME}}}", row[1]['Common Name'])
+        content = content.replace("{{{BIRDNAME}}}", "ADD COMMON NAME")
 
         f.write(content)
 
-        for image in images:
+        #-- loop through images dict
+        for submissionId, data in images.items():
             # remove LIFE_LIST_FOLDER from the image path
-            imageRel = f"./{image.relative_to(LIFE_LIST_FOLDER)}"
+            imageRel = f"./{data['photo'].relative_to(LIFE_LIST_FOLDER)}"
+            print(f"imageRel: {imageRel}")
 
-            f.write(f"""<figure markdown>![{name}]({imageRel})</figure>\n""")
+            f.write(f"""
+<figure markdown>
+  ![{name}]({imageRel}){{data-title="{data['birdData']['Common Name']}",data=description="Observed at {data['birdData']['Location']} on {data['birdData']['Date']}"}}
+  <caption>{data['birdData']['Common Name']}<br />Observed at {data['birdData']['Location']} on {data['birdData']['Date']}</caption>
+</figure>
+""")
+
+    quit
 
 def main():
 

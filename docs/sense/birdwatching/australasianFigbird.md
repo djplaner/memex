@@ -1,11 +1,13 @@
 ---
-title: "Australasian Figbird"
+title: "ADD COMMON NAME"
 type: "note"
 tags: birding, birdwatching
 ---
 
 See also: [[birding]], [[life-list]]
 
-(Click on the images to see a larger version)
 
-<figure markdown>![australasianFigbird](./images/australasianFigbird/001.jpeg)</figure>
+<figure markdown>
+  ![australasianFigbird](./images/australasianFigbird/S191724022.jpeg){data-title="Australasian Figbird",data=description="Observed at Postman’s Ridge on 2024-08-17"}
+  <caption>Australasian Figbird<br />Observed at Postman’s Ridge on 2024-08-17</caption>
+</figure>

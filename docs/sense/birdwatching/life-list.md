@@ -19,9 +19,11 @@ Collection of birds I've seen (and photographed) in the wild. This list is based
 | 2024-08-16 | Dusky Moorhen | Gallinula tenebrosa | Postman’s Ridge | 0 | 
 | 2024-08-18 | Pacific Heron | Ardea pacifica | Postman’s Ridge | 0 | 
 | 2024-03-21 | Australian Ibis | Threskiornis molucca | Postman’s Ridge | 0 | 
+| 2024-08-24 | Straw-necked Ibis | Threskiornis spinicollis | Postman’s Ridge | 0 | 
 | 2024-03-21 | Yellow-billed Spoonbill | Platalea flavipes | Postman’s Ridge | 0 | 
 | 2024-08-15 | Laughing Kookaburra | Dacelo novaeguineae | Postman’s Ridge | 0 | 
-| 2024-08-20 | Red-tailed Black-Cockatoo | Calyptorhynchus banksii | Postman’s Ridge | 0 | 
+| 2024-08-20 | [Red-tailed Black-Cockatoo](redtailedBlackCockatoo.md) | Calyptorhynchus banksii | Postman’s Ridge | 1 | 
+| 2024-08-24 | [Red-tailed Black-Cockatoo](redtailedBlackCockatoo.md) | Calyptorhynchus banksii | Postman’s Ridge | 1 | 
 | 2024-08-21 | [Sulphur-crested Cockatoo](sulphurcrestedCockatoo.md) | Cacatua galerita | Postman’s Ridge | 1 | 
 | 2024-08-16 | Superb Fairywren | Malurus cyaneus | Postman’s Ridge | 0 | 
 | 2024-08-15 | Yellow-faced Honeyeater | Caligavis chrysops | Postman’s Ridge | 0 | 
