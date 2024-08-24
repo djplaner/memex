@@ -17,6 +17,7 @@ site_name: "David's Memex"
 site_url: https://djplaner.github.io/memex/
 repo_url: https://github.com/djplaner/memex
 site_author: David Jones
+use_directory_urls: false
 
 theme:
   name: material
