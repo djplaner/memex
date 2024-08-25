@@ -1,0 +1,55 @@
+---
+title: "Life list gallery"
+type: "note"
+tags: birdwatching, birding
+---
+
+See also: [[birding]], [[life-list]]
+
+Click on an image to see the full size version and to cycle through the gallery.
+
+
+<figure markdown>
+  ![Australasian Grebe](./images/australasianGrebe/S191596337.jpeg){data-title="Australasian Grebe" data-description="Observed at Postman’s Ridge on 2024-08-16"}
+  <caption>Australasian Grebe<br />Observed at Postman’s Ridge on 2024-08-16</caption>
+</figure>
+
+<figure markdown>
+  ![Pacific Heron](./images/pacificHeron/S191843428.jpeg){data-title="Pacific Heron" data-description="Observed at Postman’s Ridge on 2024-08-18"}
+  <caption>Pacific Heron<br />Observed at Postman’s Ridge on 2024-08-18</caption>
+</figure>
+
+<figure markdown>
+  ![Australian Ibis](./images/australianIbis/S191595567.jpeg){data-title="Australian Ibis" data-description="Observed at Postman’s Ridge on 2024-03-21"}
+  <caption>Australian Ibis<br />Observed at Postman’s Ridge on 2024-03-21</caption>
+</figure>
+
+<figure markdown>
+  ![Laughing Kookaburra](./images/laughingKookaburra/S191493556.jpeg){data-title="Laughing Kookaburra" data-description="Observed at Postman’s Ridge on 2024-08-15"}
+  <caption>Laughing Kookaburra<br />Observed at Postman’s Ridge on 2024-08-15</caption>
+</figure>
+
+<figure markdown>
+  ![Red-tailed Black-Cockatoo](./images/redtailedBlackCockatoo/S192516063.jpeg){data-title="Red-tailed Black-Cockatoo" data-description="Observed at Postman’s Ridge on 2024-08-24"}
+  <caption>Red-tailed Black-Cockatoo<br />Observed at Postman’s Ridge on 2024-08-24</caption>
+</figure>
+
+<figure markdown>
+  ![Sulphur-crested Cockatoo](./images/sulphurcrestedCockatoo/S192222567.jpeg){data-title="Sulphur-crested Cockatoo" data-description="Observed at Postman’s Ridge on 2024-08-21"}
+  <caption>Sulphur-crested Cockatoo<br />Observed at Postman’s Ridge on 2024-08-21</caption>
+</figure>
+
+<figure markdown>
+  ![Blue-faced Honeyeater](./images/bluefacedHoneyeater/S191596292.jpg){data-title="Blue-faced Honeyeater" data-description="Observed at Postman’s Ridge on 2024-08-16"}
+  <caption>Blue-faced Honeyeater<br />Observed at Postman’s Ridge on 2024-08-16</caption>
+</figure>
+
+<figure markdown>
+  ![Black-faced Cuckooshrike](./images/blackfacedCuckooshrike/S192292972.jpeg){data-title="Black-faced Cuckooshrike" data-description="Observed at Postman’s Ridge on 2024-08-22"}
+  <caption>Black-faced Cuckooshrike<br />Observed at Postman’s Ridge on 2024-08-22</caption>
+</figure>
+
+<figure markdown>
+  ![Australasian Figbird](./images/australasianFigbird/S191724022.jpeg){data-title="Australasian Figbird" data-description="Observed at Postman’s Ridge on 2024-08-17"}
+  <caption>Australasian Figbird<br />Observed at Postman’s Ridge on 2024-08-17</caption>
+</figure>

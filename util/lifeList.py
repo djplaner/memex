@@ -6,6 +6,7 @@ lifeList.py
 from pathlib import Path
 import pandas as pd
 from pprint import pprint
+import inflect
 
 global LIFE_LIST_FOLDER
 LIFE_LIST_FOLDER = Path("../docs/sense/birdwatching/")
@@ -15,6 +16,8 @@ global LIFE_LIST_PAGE
 LIFE_LIST_PAGE = Path(LIFE_LIST_FOLDER / "life-list.md")
 global LIFE_LIST_IMAGE_FOLDER 
 LIFE_LIST_IMAGE_FOLDER= Path(LIFE_LIST_FOLDER / "images")
+global GALLERY_PAGE
+GALLERY_PAGE = Path(LIFE_LIST_FOLDER / "life-list-gallery.md")
 
 global LIFE_LIST_TEMPLATE
 LIFE_LIST_TEMPLATE = """---
@@ -23,12 +26,25 @@ type: "note"
 tags: birdwatching, birding
 ---
 
-See also: [[birding]]
+See also: [[birding]], [[life-list-gallery]]
 
-Collection of birds I've seen (and photographed) in the wild. This list is based on my eBird data.
+Collection of birds I've seen. Generated from my [eBird](https://ebird.org) data. The [[life-list-gallery]] provides a gallery of all the bird photos I've taken.
 
-| Date | Common Name | Scientific Name | Location | # Photos |
-| ---- | -------------|-----------------|----------| ---- |
+| Common Name | Scientific Name | Observations | # Photos |
+| -------------|-----------------|----------| ----- |
+"""
+
+global GALLERY_TEMPLATE
+GALLERY_TEMPLATE = """---
+title: "Life list gallery"
+type: "note"
+tags: birdwatching, birding
+---
+
+See also: [[birding]], [[life-list]]
+
+Click on an image to see the full size version and to cycle through the gallery.
+
 """
 
 global BIRD_PAGE_TEMPLATE
@@ -70,28 +86,23 @@ def modifyLifeList(df):
     #-- make the first letter of each 'camelCaseName' lowercase
     df['camelCaseName'] = df['camelCaseName'].str[0].str.lower() + df['camelCaseName'].str[1:]
 
+    #-- add a column 'images' to the df, each cell initial set to None
+    df['images'] = None
+
     return df
 
 def generatePhotoData(df):
-    """Generates a dict of dicts with info about all photos.
+    """Add relevant data about any photos associated with particular observations.
+
+    Photo information is stored in a folder named after the bird in the LIFE_LIST_IMAGE_FOLDER.
+    Individual photos are named after the submissionId possibly with the file name ending
+    in 00x (x>0)
 
     Returns
     -------
-    photoData : dict
-        A dictionary of dictionaries list photo information for each bird
-        {
-            'birdNameCamelCase': {
-                {
-                    'submissionId1': { 
-                        'photo': 'path/to/photo.jpg',
-                        'birdData': dataFrame row from eBird data
-                    }
-                    ....
-                }
-                ....
-            }
-        }
+    df : DataFrame
 
+        Modified version of df. Add column "photos" containing a list of Paths for photos
     """
 
     photoData = {}
@@ -100,60 +111,75 @@ def generatePhotoData(df):
     #for index, row in df.iterrows():
     for row in df.iterrows():
         birdName = row[1]['camelCaseName']
+        #-- check if there is a folder for the current bird
         birdFolder = Path(LIFE_LIST_IMAGE_FOLDER / birdName)
         if not birdFolder.exists():
             continue
         #-- get a list of all images in the folder
-        photoData[birdName] = {}
-        # - loop thru all images in the folder
-        for image in birdFolder.iterdir():
-            # - get the submissionId from the image name
-            submissionId = image.stem
-            # - get the row from the eBird data
-            photoData[birdName][submissionId] = {
-                'photo': image,
-                'birdData': row[1].to_dict()
-            }
+        # - should match the submission Id
+        matchName = f"{row[1]['Submission ID']}*.jp*"
+        matchingImages = list(birdFolder.glob(matchName))
+        if len(matchingImages) == 0:
+            continue
 
-    return photoData
+        df.at[row[0], 'images'] = matchingImages
 
-def generateLifeList(df, photoData):
+    return df
+
+def generateLifeList(df):
     """Write a markdown file with a formatted life list
+
+    Each bird has a row with table columns: 
+    - Common Name, 
+    - Scientific Name, 
+    - Observations - for each observation show location and date
+    - Photos - show the number of photos for the bird
 
     Parameters
     ----------
     df : pandas.DataFrame
-        Copy of eBird csv
-    photoData : dict
-        Dict of dicts containing information about all photos for each bird
-        Keyed on camelCaseName. Each bird has a dict of photos, keyed on submissionId.
-        Each photo matches a submission (row in the eBird data)
-        Two values 
-        'photo' : PosixPath to the photo
-        'birdData' : dict of the row in the eBird
+        Copy of eBird csv, with images column
     """
+
+    p = inflect.engine()
 
     #-- open file
     with open(LIFE_LIST_PAGE, "w") as f:
         f.write(LIFE_LIST_TEMPLATE)
 
-        #-- write the list of birds
-        for row in df.iterrows():
-#            f.write("""| {0} | {1} | {2} | {3} |\n""".format(row[1]['Date'], row[1]['Common Name'], row[1]['Scientific Name'], row[1]['Location']))
+        #-- get a list of unique bird names "Common Name"
+        birds = df['Common Name'].unique()
 
-            birdName = row[1]['camelCaseName']
+        for bird in birds:
+            #-- extract all the rows for the current bird
+            birdRows = df[df['Common Name'] == bird]
 
-            name = row[1]['Common Name']
-            numImages = 0
+            #-- set the common values
+            camelCaseName = birdRows['camelCaseName'].iloc[0]
+            commonName = birdRows['Common Name'].iloc[0]
+            scientificName = birdRows['Scientific Name'].iloc[0]
+            commonNameLink = commonName
 
-            if birdName in photoData:
-                numImages = len(photoData[birdName])
-                generateBirdPage(birdName, name, photoData[birdName])
-                name = f"[{name}]({birdName}.md)"
+            totalImages = 0
+            observations = ""
 
-            f.write(f"""| {row[1]['Date']} | {name} | {row[1]['Scientific Name']} | {row[1]['Location']} | {numImages} | \n""")
+            #-- iterate through the rows
+            for row in birdRows.iterrows():
+                #-- count the number of elements in the list in 'images' column
+                observations = f"{observations} {row[1]['Location']} on {row[1]['Date']}"
+                if row[1]['images'] is not None:
+                    numImages = len(row[1]['images'])
+                    totalImages += numImages
+                    observations = f"{observations} ({numImages} {p.plural('photos')}"
+                    commonNameLink = f"[{commonName}](./{camelCaseName}.md)"
+                observations = f"{observations}<br />"
 
-def generateBirdPage(camelCaseName, commonName, images):
+            f.write(f"""| {commonNameLink} | {scientificName} | {observations} | {totalImages} | \n""")
+
+            if totalImages > 0:
+                generateBirdPage(camelCaseName, commonName, birdRows)
+
+def generateBirdPage(camelCaseName, commonName, birdRows):
     """
     Write a markdown file for a bird with photos.
 
@@ -162,17 +188,9 @@ def generateBirdPage(camelCaseName, commonName, images):
     camelCaseName : str
         The name of the bird in camelCase
     commonName : str
-    images: dict
-        Dict of dicts containing information about all photos for this bird
-        Keyed on submissionId. Each photo matches a submission (row in the eBird data)
-        Two values 
-        'photo' : PosixPath to the photo
-        'birdData' : dict of the row in the eBird data
-
+    birdRows: pandas.DataFrame
+        Rows from the eBird data frame for the bird
     """
-
-    pprint(images)
-#    quit()
 
     birdPage = Path(LIFE_LIST_FOLDER / f"{camelCaseName}.md")
 
@@ -182,34 +200,62 @@ def generateBirdPage(camelCaseName, commonName, images):
 
         f.write(content)
 
-        #-- loop through images dict
-        for submissionId, data in images.items():
-            # remove LIFE_LIST_FOLDER from the image path
-            imageRel = f"./{data['photo'].relative_to(LIFE_LIST_FOLDER)}"
-            print(f"imageRel: {imageRel}")
+        #-- for each row
+        for row in birdRows.iterrows():
+            #-- loop through images dict
+            if row[1]['images'] is not None:
+                for image in row[1]['images']:
+                    # remove LIFE_LIST_FOLDER from the image path
+                    imageRel = f"./{image.relative_to(LIFE_LIST_FOLDER)}"
 
-            f.write(f"""
+                    f.write(f"""
 <figure markdown>
-  ![{commonName}]({imageRel}){{data-title="{data['birdData']['Common Name']}",data=description="Observed at {data['birdData']['Location']} on {data['birdData']['Date']}"}}
-  <caption>{data['birdData']['Common Name']}<br />Observed at {data['birdData']['Location']} on {data['birdData']['Date']}</caption>
+  ![{commonName}]({imageRel}){{data-title="{commonName}" data-description="Observed at {row[1]['Location']} on {row[1]['Date']}"}}
+  <caption>{commonName}<br />Observed at {row[1]['Location']} on {row[1]['Date']}</caption>
 </figure>
 """)
 
-    quit
+def generateImageGallery(df):
+    """Generate life-list-gallery.md file with a gallery of all bird images
+
+    Parameters
+    ----------
+    df : pandas.DataFrame
+    """
+
+    #-- extract all rows with 'images' column not None
+    rows = df[df['images'].notnull()]
+
+    with open(GALLERY_PAGE, "w") as f:
+        f.write(GALLERY_TEMPLATE)
+
+        for row in rows.iterrows():
+            #-- loop through images dict
+            for image in row[1]['images']:
+                # remove LIFE_LIST_FOLDER from the image path
+                imageRel = f"./{image.relative_to(LIFE_LIST_FOLDER)}"
+                commonName = row[1]['Common Name']
+
+                f.write(f"""
+<figure markdown>
+  ![{commonName}]({imageRel}){{data-title="{commonName}" data-description="Observed at {row[1]['Location']} on {row[1]['Date']}"}}
+  <caption>{commonName}<br />Observed at {row[1]['Location']} on {row[1]['Date']}</caption>
+</figure>
+""")
 
 def main():
 
     #-- grab the data
     listData = getLifeList()
     listData = modifyLifeList( listData )
-    photoData = generatePhotoData( listData )
+    listData = generatePhotoData( listData )
 
     #-- generate markdown files
     # - Generate the life-list.md file listing all birds
-    generateLifeList( listData, photoData )
+    generateLifeList( listData )
 
-    # - Generate individual files for birds with photos
-    #generateBirdPages( listData, photoData )
+    generateImageGallery( listData )
+
 
     
 if __name__ == "__main__":
