@@ -15,8 +15,8 @@ Click on an image to see the full size version and to cycle through the gallery.
 </figure>
 
 <figure markdown>
-  ![Pacific Heron](./images/pacificHeron/S191843428.jpeg){data-title="Pacific Heron" data-description="Observed at Postman’s Ridge on 2024-08-18"}
-  <caption>Pacific Heron<br />Observed at Postman’s Ridge on 2024-08-18</caption>
+  ![Spotted Dove](./images/spottedDove/S191596000.jpeg){data-title="Spotted Dove" data-description="Observed at Postman’s Ridge on 2024-08-16"}
+  <caption>Spotted Dove<br />Observed at Postman’s Ridge on 2024-08-16</caption>
 </figure>
 
 <figure markdown>
@@ -25,8 +25,23 @@ Click on an image to see the full size version and to cycle through the gallery.
 </figure>
 
 <figure markdown>
+  ![Yellow-billed Spoonbill](./images/yellowbilledSpoonbill/S191595482.jpeg){data-title="Yellow-billed Spoonbill" data-description="Observed at Postman’s Ridge on 2024-03-21"}
+  <caption>Yellow-billed Spoonbill<br />Observed at Postman’s Ridge on 2024-03-21</caption>
+</figure>
+
+<figure markdown>
+  ![Laughing Kookaburra](./images/laughingKookaburra/S191493556_1.jpeg){data-title="Laughing Kookaburra" data-description="Observed at Postman’s Ridge on 2024-08-15"}
+  <caption>Laughing Kookaburra<br />Observed at Postman’s Ridge on 2024-08-15</caption>
+</figure>
+
+<figure markdown>
   ![Laughing Kookaburra](./images/laughingKookaburra/S191493556.jpeg){data-title="Laughing Kookaburra" data-description="Observed at Postman’s Ridge on 2024-08-15"}
   <caption>Laughing Kookaburra<br />Observed at Postman’s Ridge on 2024-08-15</caption>
+</figure>
+
+<figure markdown>
+  ![Red-tailed Black-Cockatoo](./images/redtailedBlackCockatoo/S192516063_2.jpeg){data-title="Red-tailed Black-Cockatoo" data-description="Observed at Postman’s Ridge on 2024-08-24"}
+  <caption>Red-tailed Black-Cockatoo<br />Observed at Postman’s Ridge on 2024-08-24</caption>
 </figure>
 
 <figure markdown>
@@ -36,6 +51,11 @@ Click on an image to see the full size version and to cycle through the gallery.
 
 <figure markdown>
   ![Sulphur-crested Cockatoo](./images/sulphurcrestedCockatoo/S192222567.jpeg){data-title="Sulphur-crested Cockatoo" data-description="Observed at Postman’s Ridge on 2024-08-21"}
+  <caption>Sulphur-crested Cockatoo<br />Observed at Postman’s Ridge on 2024-08-21</caption>
+</figure>
+
+<figure markdown>
+  ![Sulphur-crested Cockatoo](./images/sulphurcrestedCockatoo/S192222567_1.jpeg){data-title="Sulphur-crested Cockatoo" data-description="Observed at Postman’s Ridge on 2024-08-21"}
   <caption>Sulphur-crested Cockatoo<br />Observed at Postman’s Ridge on 2024-08-21</caption>
 </figure>
 
@@ -52,4 +72,14 @@ Click on an image to see the full size version and to cycle through the gallery.
 <figure markdown>
   ![Australasian Figbird](./images/australasianFigbird/S191724022.jpeg){data-title="Australasian Figbird" data-description="Observed at Postman’s Ridge on 2024-08-17"}
   <caption>Australasian Figbird<br />Observed at Postman’s Ridge on 2024-08-17</caption>
+</figure>
+
+<figure markdown>
+  ![Australasian Figbird](./images/australasianFigbird/S191724022_1.jpeg){data-title="Australasian Figbird" data-description="Observed at Postman’s Ridge on 2024-08-17"}
+  <caption>Australasian Figbird<br />Observed at Postman’s Ridge on 2024-08-17</caption>
+</figure>
+
+<figure markdown>
+  ![Pied Butcherbird](./images/piedButcherbird/S191493621.jpeg){data-title="Pied Butcherbird" data-description="Observed at Postman’s Ridge on 2024-08-15"}
+  <caption>Pied Butcherbird<br />Observed at Postman’s Ridge on 2024-08-15</caption>
 </figure>

@@ -1,0 +1,13 @@
+---
+title: "Pied Butcherbird"
+type: "note"
+tags: birding, birdwatching
+---
+
+See also: [[birding]], [[life-list]]
+
+
+<figure markdown>
+  ![Pied Butcherbird](./images/piedButcherbird/S191493621.jpeg){data-title="Pied Butcherbird" data-description="Observed at Postman’s Ridge on 2024-08-15"}
+  <caption>Pied Butcherbird<br />Observed at Postman’s Ridge on 2024-08-15</caption>
+</figure>

@@ -14,23 +14,23 @@ Collection of birds I've seen. Generated from my [eBird](https://ebird.org) data
 | Maned Duck | Chenonetta jubata |  Postman’s Ridge on 2024-03-16<br /> | 0 | 
 | Pacific Black Duck | Anas superciliosa |  Postman’s Ridge on 2024-08-16<br /> | 0 | 
 | [Australasian Grebe](./australasianGrebe.md) | Tachybaptus novaehollandiae |  Postman’s Ridge on 2024-08-16 (1 photo<br /> | 1 | 
-| Spotted Dove | Spilopelia chinensis |  Postman’s Ridge on 2024-08-16<br /> | 0 | 
+| [Spotted Dove](./spottedDove.md) | Spilopelia chinensis |  Postman’s Ridge on 2024-08-16 (1 photo<br /> | 1 | 
 | Crested Pigeon | Ocyphaps lophotes |  Postman’s Ridge on 2024-08-17<br /> | 0 | 
 | Dusky Moorhen | Gallinula tenebrosa |  Postman’s Ridge on 2024-08-16<br /> | 0 | 
-| [Pacific Heron](./pacificHeron.md) | Ardea pacifica |  Postman’s Ridge on 2024-08-18 (1 photo<br /> | 1 | 
+| Pacific Heron | Ardea pacifica |  Postman’s Ridge on 2024-08-18<br /> | 0 | 
 | [Australian Ibis](./australianIbis.md) | Threskiornis molucca |  Postman’s Ridge on 2024-03-21 (1 photo<br /> | 1 | 
 | Straw-necked Ibis | Threskiornis spinicollis |  Postman’s Ridge on 2024-08-24<br /> | 0 | 
-| Yellow-billed Spoonbill | Platalea flavipes |  Postman’s Ridge on 2024-03-21<br /> | 0 | 
-| [Laughing Kookaburra](./laughingKookaburra.md) | Dacelo novaeguineae |  Postman’s Ridge on 2024-08-15 (1 photo<br /> | 1 | 
-| [Red-tailed Black-Cockatoo](./redtailedBlackCockatoo.md) | Calyptorhynchus banksii |  Postman’s Ridge on 2024-08-20<br /> Postman’s Ridge on 2024-08-24 (1 photo<br /> | 1 | 
-| [Sulphur-crested Cockatoo](./sulphurcrestedCockatoo.md) | Cacatua galerita |  Postman’s Ridge on 2024-08-21 (1 photo<br /> | 1 | 
+| [Yellow-billed Spoonbill](./yellowbilledSpoonbill.md) | Platalea flavipes |  Postman’s Ridge on 2024-03-21 (1 photo<br /> | 1 | 
+| [Laughing Kookaburra](./laughingKookaburra.md) | Dacelo novaeguineae |  Postman’s Ridge on 2024-08-15 (2 photo<br /> | 2 | 
+| [Red-tailed Black-Cockatoo](./redtailedBlackCockatoo.md) | Calyptorhynchus banksii |  Postman’s Ridge on 2024-08-20<br /> Postman’s Ridge on 2024-08-24 (2 photo<br /> | 2 | 
+| [Sulphur-crested Cockatoo](./sulphurcrestedCockatoo.md) | Cacatua galerita |  Postman’s Ridge on 2024-08-21 (2 photo<br /> | 2 | 
 | Superb Fairywren | Malurus cyaneus |  Postman’s Ridge on 2024-08-16<br /> | 0 | 
 | Yellow-faced Honeyeater | Caligavis chrysops |  Postman’s Ridge on 2024-08-15<br /> | 0 | 
 | [Blue-faced Honeyeater](./bluefacedHoneyeater.md) | Entomyzon cyanotis |  Postman’s Ridge on 2024-08-16 (1 photo<br /> | 1 | 
 | White-browed Scrubwren | Sericornis frontalis |  Postman’s Ridge on 2024-08-15<br /> | 0 | 
 | [Black-faced Cuckooshrike](./blackfacedCuckooshrike.md) | Coracina novaehollandiae |  Postman’s Ridge on 2024-08-22 (1 photo<br /> | 1 | 
-| [Australasian Figbird](./australasianFigbird.md) | Sphecotheres vieilloti |  Postman’s Ridge on 2024-08-17 (1 photo<br /> | 1 | 
-| Pied Butcherbird | Cracticus nigrogularis |  Postman’s Ridge on 2024-08-15<br /> | 0 | 
+| [Australasian Figbird](./australasianFigbird.md) | Sphecotheres vieilloti |  Postman’s Ridge on 2024-08-17 (2 photo<br /> | 2 | 
+| [Pied Butcherbird](./piedButcherbird.md) | Cracticus nigrogularis |  Postman’s Ridge on 2024-08-15 (1 photo<br /> | 1 | 
 | Australian Magpie | Gymnorhina tibicen |  Postman’s Ridge on 2024-08-15<br /> | 0 | 
 | Willie-wagtail | Rhipidura leucophrys |  Postman’s Ridge on 2024-08-16<br /> | 0 | 
 | Magpie-lark | Grallina cyanoleuca |  Postman’s Ridge on 2024-08-15<br /> | 0 | 
