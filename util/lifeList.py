@@ -1,6 +1,6 @@
 """
 lifeList.py
-- Convert an eBird life list CSV export into a collection of markdown files
+- Convert an eBird life list CSV export and relveant images into a collection of markdown files
 """
 
 from pathlib import Path
