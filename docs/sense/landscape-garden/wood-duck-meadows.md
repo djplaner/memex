@@ -11,6 +11,8 @@ See also: [[gardens]]
 | Zone | Description |
 | --- | --- |
 | [[fig-tree-berm]] | Pre-existing berm near the bunker |
+| [[the-island]] | The island in the dam |
+| [[pecan-corner]] | |
 
 ## Measurement
 

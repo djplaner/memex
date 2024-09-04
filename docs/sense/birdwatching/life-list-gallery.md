@@ -20,6 +20,16 @@ Click on an image to see the full size version and to cycle through the gallery.
 </figure>
 
 <figure markdown>
+  ![Pacific Heron](./images/pacificHeron/S192925062_1.jpeg){data-title="Pacific Heron" data-description="Observed at Postman’s Ridge on 2024-08-27"}
+  <caption>Pacific Heron<br />Observed at Postman’s Ridge on 2024-08-27</caption>
+</figure>
+
+<figure markdown>
+  ![Pacific Heron](./images/pacificHeron/S192925062.jpeg){data-title="Pacific Heron" data-description="Observed at Postman’s Ridge on 2024-08-27"}
+  <caption>Pacific Heron<br />Observed at Postman’s Ridge on 2024-08-27</caption>
+</figure>
+
+<figure markdown>
   ![Australian Ibis](./images/australianIbis/S191595567.jpeg){data-title="Australian Ibis" data-description="Observed at Postman’s Ridge on 2024-03-21"}
   <caption>Australian Ibis<br />Observed at Postman’s Ridge on 2024-03-21</caption>
 </figure>
@@ -47,6 +57,16 @@ Click on an image to see the full size version and to cycle through the gallery.
 <figure markdown>
   ![Red-tailed Black-Cockatoo](./images/redtailedBlackCockatoo/S192516063.jpeg){data-title="Red-tailed Black-Cockatoo" data-description="Observed at Postman’s Ridge on 2024-08-24"}
   <caption>Red-tailed Black-Cockatoo<br />Observed at Postman’s Ridge on 2024-08-24</caption>
+</figure>
+
+<figure markdown>
+  ![Galah](./images/galah/S192925094.jpeg){data-title="Galah" data-description="Observed at Postman’s Ridge on 2024-08-27"}
+  <caption>Galah<br />Observed at Postman’s Ridge on 2024-08-27</caption>
+</figure>
+
+<figure markdown>
+  ![Little Corella](./images/littleCorella/S193316800.jpeg){data-title="Little Corella" data-description="Observed at Postman’s Ridge on 2024-08-31"}
+  <caption>Little Corella<br />Observed at Postman’s Ridge on 2024-08-31</caption>
 </figure>
 
 <figure markdown>
@@ -82,4 +102,9 @@ Click on an image to see the full size version and to cycle through the gallery.
 <figure markdown>
   ![Pied Butcherbird](./images/piedButcherbird/S191493621.jpeg){data-title="Pied Butcherbird" data-description="Observed at Postman’s Ridge on 2024-08-15"}
   <caption>Pied Butcherbird<br />Observed at Postman’s Ridge on 2024-08-15</caption>
+</figure>
+
+<figure markdown>
+  ![Torresian Crow](./images/torresianCrow/S193656488.jpeg){data-title="Torresian Crow" data-description="Observed at Postman’s Ridge on 2024-09-02"}
+  <caption>Torresian Crow<br />Observed at Postman’s Ridge on 2024-09-02</caption>
 </figure>
