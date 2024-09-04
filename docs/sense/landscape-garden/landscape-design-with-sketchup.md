@@ -71,6 +71,7 @@ Requirements/functionality:
   - Create a 2d surface for the boundary (check the entity info for square metres for approximate check)
     This approach is manual, would be better to be able to do an import.
   - Make surface opaque by editing _View / Face style / x-ray_ 
+  - Alternatively import PDF plans, scale, and then map over the top
 - Other sources
     - [Elvis - elevation and depth - foundation spatial data](https://elevation.fsdf.org.au/) - not that useful, order offline data 
     - [Queensland Globe](https://qldglobe.information.qld.gov.au/) more update to date than following

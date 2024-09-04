@@ -7,11 +7,14 @@ tags: landscape, garden
 See also: [[gardens]]
 
 Tasks 
+- [ ] Create base map 
+
+    - Approximate a location (not available currently new build)
+    
 - [ ] Pre-planning document 
 
     Find an approximate location and share Sketchup pre-planning document.
 
-- [ ] Create base map 
 
 
 
