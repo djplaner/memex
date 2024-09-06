@@ -201,15 +201,17 @@ def generateBirdPage(camelCaseName, commonName, birdRows):
         f.write(content)
 
         #-- for each row
+        imageCount = 0
         for row in birdRows.iterrows():
             #-- loop through images dict
             if row[1]['images'] is not None:
                 for image in row[1]['images']:
+                    imageCount += 1
                     # remove LIFE_LIST_FOLDER from the image path
                     imageRel = f"./{image.relative_to(LIFE_LIST_FOLDER)}"
 
                     f.write(f"""
-<figure markdown>
+<figure markdown id="{imageCount}">
   ![{commonName}]({imageRel}){{data-title="{commonName}" data-description="Observed at {row[1]['Location']} on {row[1]['Date']}"}}
   <caption>{commonName}<br />Observed at {row[1]['Location']} on {row[1]['Date']}</caption>
 </figure>
