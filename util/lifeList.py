@@ -30,8 +30,8 @@ See also: [[birding]], [[life-list-gallery]]
 
 Collection of birds I've seen. Generated from my [eBird](https://ebird.org) data. The [[life-list-gallery]] provides a gallery of all the bird photos I've taken.
 
-| Common Name | Scientific Name | Observations | # Photos |
-| -------------|-----------------|----------| ----- |
+| Common Name | Scientific Name | When | Where | # Photos |
+| -------------|-----------------|----------|-----| ----- |
 """
 
 global GALLERY_TEMPLATE
@@ -166,15 +166,15 @@ def generateLifeList(df):
             #-- iterate through the rows
             for row in birdRows.iterrows():
                 #-- count the number of elements in the list in 'images' column
-                observations = f"{observations} {row[1]['Location']} on {row[1]['Date']}"
+                #observations = f"{observations} {row[1]['Location']} on {row[1]['Date']}"
                 if row[1]['images'] is not None:
                     numImages = len(row[1]['images'])
                     totalImages += numImages
-                    observations = f"{observations} ({numImages} {p.plural('photos')}"
+                    #observations = f"{observations} ({numImages} {p.plural('photos')}"
                     commonNameLink = f"[{commonName}](./{camelCaseName}.md)"
                 observations = f"{observations}<br />"
 
-            f.write(f"""| {commonNameLink} | {scientificName} | {observations} | {totalImages} | \n""")
+            f.write(f"""| {commonNameLink} | {scientificName} | {row[1]['Date']} | {row[1]['Location']} | {totalImages} | \n""")
 
             if totalImages > 0:
                 generateBirdPage(camelCaseName, commonName, birdRows)

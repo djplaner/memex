@@ -11,6 +11,7 @@ See also: [[computational-components]], [[life-list]], [[life-list-gallery]]
 - Populate a data frame with both the eBird and image data
     - Each bird species has a folder (named for the bird) in the images folder. Images in the folders are named with the eBird submission ID followed by numbers (for duplicates)
 - Generate markdown files for individual birds and relevant life lists
+- Modify table to split _Observation_ into _Where_ and _When_
 
 ## To do
 
