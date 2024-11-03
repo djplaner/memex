@@ -8,6 +8,8 @@ Vannevar Bush [writing in 1945](https://en.wikipedia.org/wiki/As_We_May_Think) i
 
 > a device in which an individual stores all his books, records, and communications, and which is mechanized so that it may be consulted with exceeding speed and flexibility. It is an enlarged intimate supplement to his memory.
 
+Early and likely never started or finished work on [[memex-v2]]
+
 ### Related work
 
 Decades later and there are systems (e.g. Obsidian and Notion) and concepts like [personal knowledge management](https://en.wikipedia.org/wiki/Personal_knowledge_management) which echo this vision. This is my attempt to build my own Memex using [Foam](https://foambubble.github.io/) and over time move beyond that.
