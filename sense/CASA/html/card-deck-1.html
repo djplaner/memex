@@ -1,0 +1,400 @@
+<html>
+
+<head>
+    <title>Number Scrabble</title>
+
+    <link rel="stylesheet"
+        href="https://rawcdn.githack.com/deck-of-cards/deck-of-cards/54f2c4787ea51bb43656e51a3bbbd524f248e21b/example/example.css">
+</head>
+
+<body>
+    <script src="https://cdn.jsdelivr.net/npm/party-js@latest/bundle/party.min.js"></script>
+    <script
+        src="https://rawcdn.githack.com/deck-of-cards/deck-of-cards/54f2c4787ea51bb43656e51a3bbbd524f248e21b/dist/deck.min.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.12.0/cdn/themes/light.css" />
+    <script type="module"
+        src="https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.12.0/cdn/shoelace-autoloader.js"></script>
+
+
+    <style>
+        #player-1 {
+            position: absolute;
+            top: -4rem;
+            right: 5rem;
+            border: 1px solid black;
+            border-radius: 5px;
+            /* cards are 77.5 x 110 */
+            width: 380px;
+            height: 180px
+        }
+
+        #player-1-score,
+        #player-2-score {
+            position: absolute;
+            top: 0;
+            right: 0;
+            padding: 0.5rem;
+            font-size: xx-large;
+        }
+
+        #player-2 {
+            position: absolute;
+            top: -4rem;
+            left: 5rem;
+            border: 1px solid black;
+            border-radius: 5px;
+            width: 380px;
+            height: 180px
+        }
+
+        .label {
+            padding: 0.5rem;
+        }
+
+        .winner {
+            font-size: xx-large;
+            background-color: red;
+            animation: blinker 1s linear infinite;
+        }
+    </style>
+
+    <div id="about">
+        <sl-drawer label="About Number Scrabble" class="drawer-overview">
+            <p style="padding:0.5rem;line-height:1.5rem;">A <em>simplistic</em> implementation of the card game
+                <em>Number Scrabble</em>. Developed for class demonstrations.
+            </p>
+            <p style="padding:0.5rem;line-height:1.5rem;">Two players take turns to select three cards from a list of
+                cards numbered from 1 (ace) to 15.</p>
+            <p style="padding:0.5rem;line-height:1.5rem;">The winner is the first player to select three cards that add
+                up to 15.</p>
+            <h3 style="padding:0.5rem">Limitations</h3>
+            <p style="padding:0.5rem;line-height:1.5rem;">Does not enforce player turn taking, assumes the players will
+                play nicely.</p>
+            <h3 style="padding:0.5rem">Hints</h3>
+            <p style="padding:0.5rem;line-height:1.5rem;">There is a trick that makes it very easy to play. See <a
+                    href="https://djplaner.github.io/memex/sense/Representations/number-scrabble/">this page for details</a>, or <a href="card-deck-1.html?cheat=true">play it now</a>.</p>
+
+            <h3 style="padding:0.5rem">Acknowledgements</h3>
+            <p style="padding:0.5rem;line-height:1.5rem;">Not at all possible without <a href="https://github.com/deck-of-cards/deck-of-cards">Deck of Cards</a>.</p>
+            <sl-button slot="footer" variant="primary">Close</sl-button>
+        </sl-drawer>
+
+        <sl-button>About <em>Number Scrabble</em></sl-button>
+
+        <script>
+            const drawer = document.querySelector('.drawer-overview');
+            const openButton = drawer.nextElementSibling;
+            const closeButton = drawer.querySelector('sl-button[variant="primary"]');
+
+            openButton.addEventListener('click', () => drawer.show());
+            closeButton.addEventListener('click', () => drawer.hide());
+        </script>
+    </div>
+
+    <div id="container">
+        <div id="player-1">
+            <div class="label">Player 1</div>
+            <div id="player-1-score"></div>
+        </div>
+        <div id="player-2">
+            <div class="label">Player 2</div>
+            <div id="player-2-score"></div>
+        </div>
+    </div>
+
+
+
+
+    <script>
+        let container = document.getElementById('container');
+
+        let playersCards = { '1': [], '2': [] };
+        let deck = startNewGame();
+        //randomSpread();
+        //deck.unmount();
+        numberScrabble()
+
+
+        function startNewGame() {
+
+            // create Deck
+            let deck = Deck();
+
+
+            updatePlayersScores()
+
+            // add to DOM
+            deck.mount(container);
+
+            return deck;
+        }
+
+        /**
+         * Can't do the card released on a div that's not in the original container
+         */
+        function cardRelease(event, card) {
+            console.log('card released')
+            console.log(card)
+
+            // check to see if event occurred within player-1 or player-2
+            let player1 = document.getElementById('player-1');
+            let player2 = document.getElementById('player-2');
+
+            cardRect = card.$el.getBoundingClientRect();
+            player1Rect = player1.getBoundingClientRect();
+            player2Rect = player2.getBoundingClientRect();
+
+            if (cardRect.left > player1Rect.left && cardRect.right < player1Rect.right &&
+                cardRect.top > player1Rect.top && cardRect.bottom < player1Rect.bottom) {
+                // card has been placed inside player 1 - 2 situations
+                // 1. it is a new card
+                // 2. that card has just been moved around
+                console.log(`card is inside player 1`)
+                updatePlayerCards(card, '1')
+            } else if (cardRect.left > player2Rect.left && cardRect.right < player2Rect.right &&
+                cardRect.top > player2Rect.top && cardRect.bottom < player2Rect.bottom) {
+                // card has been placed inside player 2 - 2 situations
+                // 1. it is a new card
+                // 2. that card has just been moved around
+                console.log(`card is inside player 2`)
+                updatePlayerCards(card, '2')
+            } else {
+                // card has been released outside of the player areas
+                // check if it should be removed from a player's cards
+                console.log(`card is outside player areas`)
+                for (let player in playersCards) {
+                    if (playerHasCard(card, player)) {
+                        removeCard(card, player);
+                        updatePlayersScores();
+                    }
+                }
+            }
+        }
+
+        /**
+         * Given a card and a player
+         * - if the player has the card remove it
+         * - if not add it
+         */
+
+        function updatePlayerCards(card, player) {
+            let cardPresent = playerHasCard(card, player);
+            if (!cardPresent) {
+                playersCards[player].push(card);
+                updatePlayersScores();
+            } else {
+                // remove the card from the player's cards
+                removeCard(card, player);
+                updatePlayersScores();
+            }
+
+        }
+
+        /**
+         * Remove a card from a player's cards
+         */
+        function removeCard(card, player) {
+            let newCards = [];
+            playersCards[player].forEach(function (playerCard) {
+                if (playerCard.suit != card.suit || playerCard.rank != card.rank) {
+                    newCards.push(playerCard);
+                }
+            })
+            playersCards[player] = newCards;
+        }
+
+        function playerHasCard(card, player) {
+            let cardPresent = false;
+
+            playersCards[player].forEach(function (playerCard) {
+                if (playerCard.suit == card.suit && playerCard.rank == card.rank) {
+                    cardPresent = true;
+                }
+            })
+
+            return cardPresent;
+        }
+
+        /**
+         * Display the basic number scrabble desk
+         * - one suit from 1 to 15 all turned up
+         * - enable dragging
+         */
+
+        function numberScrabble( ) {
+
+            let scrabbleCards = deck.cards.slice(0, 9);
+
+            // get viewport width and height
+            // TODO change fontSize based on viewport width and height
+            //let viewportWidth = Math.max(document.documentElement.clientWidth || 0, window.innerWidth || 0);
+            //let viewportHeight = Math.max(document.documentElement.clientHeight || 0, window.innerHeight || 0);
+
+            let fontSize = 24;
+
+            // set cheat to true if there is a query parameter cheat=true
+            let cheat = false;
+            let urlParams = new URLSearchParams(window.location.search);
+            if (urlParams.has('cheat')) {
+                cheat = true;
+            }
+
+            if ( ! cheat ) {
+                standardLayout(scrabbleCards, fontSize);
+            } else {
+                cheatLayout(scrabbleCards, fontSize);
+            }
+        }
+
+        /**
+         * Display the cards in magic square layout 
+         *    2 7 6
+         *    9 5 1
+         *    4 3 8
+         */
+
+        function cheatLayout( scrabbleCards, fontSize  ) {
+            let cardCoords = {
+                '1': [ 100, -285 ],
+                '2': [ -110, -405 ],
+                '3': [ -5, -165 ],
+                '4': [ -110, -165 ],
+                '5': [ -5, -285],
+                '6': [ 100, -405], 
+                '7': [ -5, -405],
+                '8': [ 100, -165 ],
+                '9': [ -110, -285 ]
+            }
+
+            scrabbleCards.forEach(function( card, i) {
+                // skip if card is not in cardCoords
+                if ( ! cardCoords[card.rank] ) {
+                    return;
+                }
+                card.setSide('front');
+                card.enableDragging();
+                card.$el.addEventListener('mouseup', (event) => { cardRelease(event, card) })
+
+                let x = cardCoords[card.rank][0];
+                let y = cardCoords[card.rank][1];
+                console.log(`i ${i} = x: ${x}, y: ${y}`)
+                card.animateTo({
+                    delay: 100 + i * 2,
+                    duration: 250,
+                    x: x,
+                    y: y
+                })
+            })
+        }
+
+        function standardLayout(scrabbleCards, fontSize) {
+            scrabbleCards.forEach(function (card, i) {
+                card.setSide('front');
+                card.enableDragging();
+                card.$el.addEventListener('mouseup', (event) => { cardRelease(event, card) })
+                //card.enableFlipping();
+
+                let x = Math.round((i - 4.05) * 70 * fontSize / 16);
+                let y = Math.round(-110 * fontSize / 16);
+                console.log(`i ${i} = x: ${x}, y: ${y}`)
+                card.animateTo({
+                    delay: 100 + i * 2,
+                    duration: 250,
+                    x: x,
+                    y: y
+                })
+            });
+        }
+
+        function updatePlayersScores() {
+            let p1Elem = document.getElementById('player-1-score');
+            let p2Elem = document.getElementById('player-2-score');
+
+            if (!p1Elem || !p2Elem) {
+                alert("Error: update player score - can't find score element")
+            }
+
+            let player1Score = calculatePlayerScore(playersCards['1']);
+            let player2Score = calculatePlayerScore(playersCards['2']);
+
+            p1Elem.innerHTML = player1Score;
+            p2Elem.innerHTML = player2Score;
+
+            checkForWinner()
+            checkForDraw()
+        }
+
+        function calculatePlayerScore(cards) {
+            let score = 0;
+
+            cards.forEach(function (card) {
+                score += card.rank;
+            })
+
+            return score;
+        }
+
+        /**
+         * checkForDraw()
+         * - check to see if the game is a draw i.e. both players have 3 cards
+         * - if so, generate an alert when the alert is pressed start a new game
+         */
+
+        function checkForDraw() {
+
+            let draw = (playersCards['1'].length == 3 && playersCards['2'].length == 3);
+
+            if (draw) {
+                /* remove all cards from the players */
+                /*                for (let player in playersCards) {
+                                    playersCards[player].forEach(function (card) {
+                                        card.unmount();
+                                    })
+                                } */
+                playersCards = { '1': [], '2': [] };
+                alert("It's a draw - start a new game");
+                restartGame()
+            }
+        }
+
+        function restartGame() {
+            deck.unmount();
+            deck = startNewGame();
+            numberScrabble();
+        }
+
+        /**
+         * checkForWinner()
+         * - generate an alert an confetti celebration if one of the players has one
+         * - To win, a player must have 3 cards and the value of those cards must be 15
+         */
+
+        function checkForWinner() {
+            let winner = false;
+
+            for (let player in playersCards) {
+                if (playersCards[player].length == 3 && calculatePlayerScore(playersCards[player]) == 15) {
+                    winner = player;
+                }
+            }
+
+            if (winner) {
+                party.confetti(document.getElementById('container'), {
+                    count: party.variation.range(50, 100)
+                })
+                // replace content of player-1 with flashing WINNER text
+                console.log(`player ${winner} has won`)
+                let player = document.getElementById(`player-${winner}`);
+                oldHTML = player.innerHTML;
+                player.innerHTML = `<div class="winner">WINNER</div>`;
+
+                playersCards = { '1': [], '2': [] };
+                alert(`Player ${winner} has won - start a new game`);
+                player.innerHTML = oldHTML;
+                restartGame()
+            }
+        }
+    </script>
+</body>
+
+</html>
