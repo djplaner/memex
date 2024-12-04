@@ -5,6 +5,10 @@ See also: [[to-read]]
 
 ### To do
 
+- Wood-duck meadows
+  - [x] brigalow scrub 
+  - [ ] Maderia vine
+
 On-going
 
 - Process the [sense list](#sense)
@@ -14,15 +18,6 @@ Homestead
 - [[landscape-design-with-sketchup]] and generate a model
 - update the soil tests
 - commence work on the [[fig-tree-berm]]
-
-Sketchup
-
-- Work on the fundamentals
-- Generate a homestead model
-  - Importing location information
-  - Developing terrain models 
-  - Creating 3d models/components from photos
-- Experiment with importing building models
 
 Memex tasks
 
