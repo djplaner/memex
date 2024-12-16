@@ -6,6 +6,10 @@ tags: gardens, sense, landscape
 
 See also: [[gardens]]
 
+Home block since 2011. Originally used for small scale framing before being broken up into smaller lots. Ours being the original homestead and the largest block at 10 acres. More recently largely used as a horse meadows with many different non-native trees and plants. Increasingly over grown with various weeds like aspargus fern, lantana,  madiera vine etc.
+
+Plan is to "rewild" the place (re-)developing various regionally [appropriate habitat types](https://www.qld.gov.au/environment/plants-animals/habitats/habitat). An initial possible list including: [Eucalypt woodlands](https://www.qld.gov.au/environment/plants-animals/habitats/habitat/eucalypt-woodlands), [Brigalow scrub](https://www.qld.gov.au/environment/plants-animals/habitats/habitat/brigalow), and [dry rainforest](https://www.qld.gov.au/environment/plants-animals/habitats/habitat/dry-rainforest)
+
 ## Zones
 
 | Zone | Description |
