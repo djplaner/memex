@@ -8,20 +8,38 @@ category="blog"
 img_base_url="https://djplaner.github.io/memex/share/blog/"
 ```
 
-# UNDER CONSTRUCTION
+Links 
 
-It's over a year since the last post to this blog. What I'm doing has changed and consequently what and how I leverage the Internet for [[]] needs to change. The following is an attempt to work through what that change might look like.
 
-_TLDR_: ???
+2024 passed without a post to this blog. Mainly because I've moved on from higher education and found myself taking an early retirement. Suddenly digital learning is not such a big part of my thinking. Hence the poverty of posts. Raising the question, what now? For this blog, the nature and approach to my online presence and engagement, and how I pass my time (not in that order).
 
-- What: Little or no attention to higher education with an increasing focus on the local flora, fauna, and post-work life.
+*TLDR* 
+
+My primary past-time will be the sustainable restoration of the native forests on our home block. I'm not convinced that Wordpress is the blogging tool I'll continue with. Not convinced that blogging is a practice I can maintain. Though I hope not to throw away the content and domain name here. If only to prevent nefarious actors from taking over the expired domain. As has happened with a couple of the higher education technology blogs/sites (e.g. [Mark's](https://www.slideshare.net/marksmithers)) I used to follow. I do want to leverage online to help with our restoration focus.
+
+Hence, apart from some thinking aloud. This post is an opportunity for anyone still keeping an eye on this blog to understand the likely evolution.
+
 - How: A move away from Wordpress and the blog "medium". Re-examination of hosting, in particular the current split between Reclaim Hosting ([personal domain](https://djon.es) and [this blog](https://djon.es/blog/)) and Github pages ([memex](https://djplaner.github.io/memex/)). Exploring integration with other tools and services (e.g. [eBird](https://ebird.org/home) and [iNaturalist](https://inaturalist.ala.org.au/)).
 
-## Changes
+## Sustainable restoration as assemblage
 
 A bit's changed in the last year. I lost a parent, ended my ~30 year career in tertiary education, and came to a joint decision with any prospective employers that full-time employment was not the direction for me. Since this blog arose out of and was largely focused on my employment in the university sector, the lack of activity is no surprise.
 
 Raising some questions...
+
+- [Let's make it game on - not game over - for our precious natural world](https://theconversation.com/in-2025-lets-make-it-game-on-not-game-over-for-our-precious-natural-world-245761)
+
+## Limitations of current digital practices
+
+Wordpress and blogging
+
+Mastadon and indieweb
+
+## Possibilities moving forward
+
+- "ecological" mastodon
+
+    - [best server](https://www.sciencebase.com/science-blog/which-mastodon-server-should-i-use.html)
 
 ## What's next?
 

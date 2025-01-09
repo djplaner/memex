@@ -13,6 +13,7 @@ The front of [[wood-duck-meadows]] has a small stand of [brigalow scrub](https:/
 <figcaption>Brigalow scrub stand</figcaption>
 </figure>
 
+
 ## Possibilities
 
 Long term aim is to increase the size of this stand. Perhaps exploring the option of expanding [mixing in dry rainforest trees](https://www.qld.gov.au/environment/plants-animals/habitats/regrowth/regrowth-guides/brigalow/brigalow-ecology)
