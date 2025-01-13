@@ -1,7 +1,7 @@
 ---
 title: "Madeira vine"
 type: "note"
-tags: gardens, plants, weeds
+tags: garden, plant, weed, vine
 ---
 
 See also: [[plants]]

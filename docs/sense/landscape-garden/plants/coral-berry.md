@@ -1,7 +1,7 @@
 ---
 title: 'Coral Berry'
 type: 'note'
-tags: gardens, plants
+tags: gardens, plant, weed
 ---
 
 See also: [[plants]]

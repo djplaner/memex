@@ -1,7 +1,7 @@
 ---
 title: "Cats claw creeper"
-type: "note"
-tags: gardens, plants, weeds
+type: "plant"
+tags: gardens, plant, weed, vine
 ---
 
 See also: [[plants]]

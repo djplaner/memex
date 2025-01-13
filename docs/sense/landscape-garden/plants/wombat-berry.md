@@ -1,7 +1,7 @@
 ---
 title: "Wombat Berry"
 type: "plant"
-tags: gardens, plants
+tags: garden, plant, vine
 ---
 
 See also: [[plants]], [Wikipedia](https://en.wikipedia.org/wiki/Eustrephus) 

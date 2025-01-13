@@ -1,7 +1,7 @@
 ---
 title: "Privet"
 type: "plant"
-tags: gardens, plant, weed 
+tags: garden, plant, weed 
 ---
 
 See also: [[plants]], [NSW Weedwise](https://weeds.dpi.nsw.gov.au/Weeds/Details/110), [Wikipedia](https://en.wikipedia.org/wiki/Privet)
