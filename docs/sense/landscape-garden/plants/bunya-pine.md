@@ -19,6 +19,38 @@ The pine cones are large (amongst the largest produced by conifers) and dangerou
 <figcaption>Our first (found) Bunya Pine Cone</figcaption>
 </figure>
 
+## Uses
+
+Bunya nuts (from the pine cone) are edible and were an important food source for local indigenous people. There are numerous web pages and videos explaining how to prepare and eat them. The following is a distillation.
+
+### Extract the nuts from the cone
+
+The cone is very tough but may contain 40+ nuts. The cone needs to be pulled apart to extract the nuts. Advice differs. Some suggest doing this ASAP as the husk dries out and becomes harder. Others suggest leaving the cone in the sun for at least a day to make it easier.  
+
+### Extract the nut flesh from the nut shell
+
+Nuts are encased in a very hard shell. The flesh needs to be removed from the shell. Methods include:
+
+- Boiling until the shell softens and opens up. This can take up to and beyond 60 minutes boiling. Once opened up the shell must be cut in half.
+- Focused brute force using a hammer or rock (not recommended).
+- More technical methods, for example using [garden loopers held in place via a vice](https://www.littleecofootprints.com/2015/03/how-to-open-and-cook-bunya-nuts.html)
+
+### Removing the cotyledon (optional)
+
+The cotyledon forms the centre of the nut. Some suggest it is either not edible and/or causes stomach issues. History seems to suggest that indigenous people left it.
+
+Removing the cotyledon can be done by squeezing from the sides nuts that have been split in half. Squeezing the cotyledon out.
+
+### Cooking
+
+The nuts can be eaten raw but it's suggested they are tastier cooked. Options include:
+
+- stir-fryed with oil, garlic etc. 
+- roasted.
+- ground up and used in baking (e.g. flat breads)
+- boiled and eaten as is or further preparation (e.g. used like gnochi)
+
+
 ## History at Wood Duck Meadows
 
 ### 2024 clearing the island 
