@@ -23,15 +23,25 @@ See also: [[gardens]]
 
 - [[wombat-berry]]
 - [[common-rush]]
-- [[arundo-donax]] (aka Elephant Grass)
 
 ## Weeds and other nasties
 
-- [[cats-claw-creeper]]
 - [[coral-berry]]
-- [[madeira-vine]]
+- [[manihot-grahamii]] - Graham's manihot
+- [[solanum-americanum]] - American black nightshade
+- [[macroptilium-lathyroides]] - Phasey bean
+
+### Grasses
+
+- [[arundo-donax]] (aka Elephant Grass)
+- [[megathyrsus-maximus]] aka Guinea grass or green panic.
+
+### Vines
+
 - [[asparagus-fern]]
-- [[manihot-grahamii]] (Graham's manihot)
+- [[cats-claw-creeper]]
+- [[madeira-vine]]
+- [[passiflora-suberosa]] - Corky passionfruit
 
 ## Non-native plants
 
@@ -64,12 +74,15 @@ See also: [[gardens]]
 [dendrodbium-taberi]: dendrodbium-taberi "Dendrodbium taberi"
 [wombat-berry]: wombat-berry "Wombat Berry"
 [common-rush]: common-rush "Common Rush"
-[arundo-donax]: arundo-donax "arundo-donax"
-[cats-claw-creeper]: cats-claw-creeper "Cats claw creeper"
 [coral-berry]: coral-berry "Coral Berry"
-[madeira-vine]: madeira-vine "Madeira vine"
-[asparagus-fern]: asparagus-fern "Climbing asparagus fern"
 [manihot-grahamii]: manihot-grahamii "Manihot Grahamii"
+[solanum-americanum]: solanum-americanum "Solanum americanum"
+[arundo-donax]: arundo-donax "Arundo donax"
+[megathyrsus-maximus]: megathyrsus-maximus "Megathyrsus maximus"
+[asparagus-fern]: asparagus-fern "Climbing asparagus fern"
+[cats-claw-creeper]: cats-claw-creeper "Cats claw creeper"
+[madeira-vine]: madeira-vine "Madeira vine"
+[passiflora-suberosa]: passiflora-suberosa "Passiflora suberosa"
 [schinus-terebinthifolia]: schinus-terebinthifolia "Schinus Terebinthifolia"
 [privet]: privet "Privet"
 [agave]: agave "Agave"

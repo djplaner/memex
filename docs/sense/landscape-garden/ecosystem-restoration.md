@@ -6,7 +6,27 @@ tags: landscape, garden, ecosystem
 
 See also: [[gardens]]
 
-## Andrew Millison - How to fix a broken ecosystem
+
+
+## The Bradley Method
+
+Suggests three principles
+
+1. Always work from good to bad areas.
+
+    Removing weeds from a good area and moving out.
+2. Disturb the soil as little as possible and restore it to its natural condition .
+
+    Weed removal should be done by hand. Replacing soil, leaf litter etc as you go.
+3. Allow the rate of regeneration to dictate the rate of clearing.
+
+    Limit clearing until natives are starting to poke through. Don't seek to leave large amounts of cleared area for weeds to return.
+
+
+
+## Andrew Millison - [How to fix a broken ecosystem](https://www.youtube.com/watch?v=vL-i_yNcFVY)
+
+See also: [blog post](https://www.renature.co/articles/how-to-fix-a-broken-ecosystem/)
 
 1. Soil stabilisation
 
