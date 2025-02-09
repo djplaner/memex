@@ -1,5 +1,5 @@
 ---
-title: "Megathyrsus maximus"
+title: "Megathyrsus maximus (Guinea grass)"
 type: "plants"
 tags: gardens, plants
 ---

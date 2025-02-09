@@ -1,5 +1,5 @@
 ---
-title: "Schinus Terebinthifolia"
+title: "Schinus Terebinthifolia (Brazilian pepper tree)"
 type: "plant"
 tags: garden, plant
 ---

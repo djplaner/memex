@@ -1,5 +1,5 @@
 ---
-title: "Solanum americanum"
+title: "Solanum americanum (American black nightshade)"
 type: "plants"
 tags: gardens, plants
 ---

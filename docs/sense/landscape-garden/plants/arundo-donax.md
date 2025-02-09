@@ -1,5 +1,5 @@
 ---
-title: 'Arundo donax'
+title: 'Arundo donax (Elephant Grass)'
 type: 'plants'
 tags: gardens, plants 
 ---

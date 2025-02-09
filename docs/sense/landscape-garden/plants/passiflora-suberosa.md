@@ -1,5 +1,5 @@
 ---
-title: 'Passiflora suberosa'
+title: 'Passiflora suberosa (Corky passion vine)'
 type: 'plants'
 tags: gardens, plants
 ---

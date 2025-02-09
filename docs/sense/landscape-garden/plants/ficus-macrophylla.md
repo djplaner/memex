@@ -1,5 +1,5 @@
 ---
-title: "Ficus Macrophylla"
+title: "Ficus Macrophylla (Moreton Bay Fig)"
 type: "plant"
 tags: garden, plant
 ---

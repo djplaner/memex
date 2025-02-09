@@ -30,6 +30,7 @@ See also: [[gardens]]
 - [[manihot-grahamii]] - Graham's manihot
 - [[solanum-americanum]] - American black nightshade
 - [[macroptilium-lathyroides]] - Phasey bean
+- [[bidens-pilosa]] - Cobbler's pegs
 
 ### Grasses
 
@@ -47,8 +48,9 @@ See also: [[gardens]]
 
 ### Trees
 
-- [[schinus-terebinthifolia]] (aka Brazilian pepper tree)
+- [[schinus-terebinthifolia]] - Brazilian pepper tree
 - [[privet]]
+- [[gleditsia-triacanthos]] - Honey Locust
 
 ## Others
 
@@ -77,6 +79,8 @@ See also: [[gardens]]
 [coral-berry]: coral-berry "Coral Berry"
 [manihot-grahamii]: manihot-grahamii "Manihot Grahamii"
 [solanum-americanum]: solanum-americanum "Solanum americanum"
+[macroptilium-lathyroides]: macroptilium-lathyroides "Macroptilium lathyroides"
+[bidens-pilosa]: bidens-pilosa "Bidens pilosa"
 [arundo-donax]: arundo-donax "Arundo donax"
 [megathyrsus-maximus]: megathyrsus-maximus "Megathyrsus maximus"
 [asparagus-fern]: asparagus-fern "Climbing asparagus fern"

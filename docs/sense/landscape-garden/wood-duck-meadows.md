@@ -10,6 +10,15 @@ Home block since 2011. Originally used for small scale farming/market garden bef
 
 Plan is to "rewild" the place (re-)developing various regionally [appropriate habitat types](https://www.qld.gov.au/environment/plants-animals/habitats/habitat). An initial possible list including: [Eucalypt woodlands](https://www.qld.gov.au/environment/plants-animals/habitats/habitat/eucalypt-woodlands), [Brigalow scrub](https://www.qld.gov.au/environment/plants-animals/habitats/habitat/brigalow), and [dry rainforest](https://www.qld.gov.au/environment/plants-animals/habitats/habitat/dry-rainforest). Perhaps with a particular focus on [semi-evergreen vine thickets](https://apps.des.qld.gov.au/regional-ecosystems/details/?re=12.8.21)
 
+## Position
+
+The property is located in western side of the Lockyer Valley, Queensland.
+
+- [Lockyer Valley Catchment Story](https://qgsp.maps.arcgis.com/apps/MapJournal/index.html?appid=e64a7303aff74f2e83454e6baf35651a)
+
+    Queensland Government part of a series providing details on SE Qld catchments. **Look more into this**
+
+
 ## Zones
 
 The property is divided into various zones to aid discussion and planning.

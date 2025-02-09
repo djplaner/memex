@@ -1,5 +1,5 @@
 ---
-title: "Harpullia Pendula"
+title: "Harpullia Pendula (Moreton Bay Tulipwood)"
 type: "plant"
 tags: garden, plant
 ---
