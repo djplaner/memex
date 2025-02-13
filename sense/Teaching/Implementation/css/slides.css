@@ -1,0 +1,63 @@
+
+/* slides.css 
+ * - initial simple styling for revealjs slides
+ */
+
+div > p {
+    text-align: left;
+} 
+
+/* used for background-image slides to ensure text is visible */
+
+.m-opaque {
+    background-color: rgba(255,255,255,0.5);
+}
+
+/**
+  * Implement two column grid
+  */
+
+.m-double {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    align-items: baseline;
+}
+
+.m-double > div {
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+    padding-bottom: 0.5rem;
+}
+
+/** Directions - commonly want to give students "what" and "why" to do something
+  * - implement a two column grid with what being 2/3 and why being 1/3
+  * - use m-label to name/label
+  */
+
+.m-directions {
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    align-items: baseline;
+}
+
+.m-what {
+   font-size: 80%;
+   padding: 0.5rem;
+}
+
+.m-why {
+    font-size: 70%; 
+    padding: 0.5rem;
+    opacity: 0.5;
+}
+
+/* Implement a color reversed label aligned left and only fitting the content */
+.m-label {
+    font-size: 70%;
+    font-weight: bold;
+    background-color: var(--r-main-color);
+    color: var(--r-background-color);
+    padding: 0.5rem;
+    block-size: fit-content;
+    width: fit-content;
+}
