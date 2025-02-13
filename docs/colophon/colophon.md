@@ -1,16 +1,57 @@
-# Colophon
+# About (Colophon)
 
-[Colophon](https://en.wikipedia.org/wiki/Colophon_(publishing)), a fancy term for sharing information about the publication of this "book". A way to track the thinking behind the evolution of this site.
+[Colophon](https://en.wikipedia.org/wiki/Colophon_(publishing)), a fancy term for sharing information **about** the publication of this "book". A way to track the thinking behind the evolution of this site.
 
-## What is this?
+## Purpose
 
-Vannevar Bush [writing in 1945](https://en.wikipedia.org/wiki/As_We_May_Think) imagined a device he called Memex as
+Who really knows, but the originally intent was inspired by Vannevar Bush [writing in 1945](https://en.wikipedia.org/wiki/As_We_May_Think) about a device he called Memex as
 
 > a device in which an individual stores all his books, records, and communications, and which is mechanized so that it may be consulted with exceeding speed and flexibility. It is an enlarged intimate supplement to his memory.
 
+This site isn't going to do all of that. But it is an attempt to be more considered about how I seek, make sense of and share knowledge.
+
+!!! note "Always emerging out of bricolage"
+
+    This is not a pre-planned site. Instead emerging out of bricolage as I learn and discover new tools.
+
+    i.e. it isn't polished and probably helps me more in thinking than any reader. 
+
+
+[A 2020 blog post](https://djon.es/blog/2020/07/06/designing-a-personal-memex-with-foam/) gives some origins for this work. I might think and write more about this and the connection with [[ideas-events-people]]
+
 Early and likely never started or finished work on [[memex-v2]]
 
-### Related work
+## Method
+
+### Version 3 - early 2025
+
+[Blog post](https://djon.es/blog/2025/01/12/what-now/) with an early description of the rationale and possibilities for version 3.
+
+See [[version-3-memex-design]] for on-going planning.
+
+### Version 2 - Adding mkdocs - (2nd half 2023)
+
+- August 20 - [[why-mkdocs-foam]]
+- August 26 - [[deploy-with-github-action]]
+- November 11 - [[tags-and-properties]] 
+
+Version 2.0 combines [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) - to improve the user-interface for navigation/reading - with the Obsidian/Roam/Notion type authoring/curating functionality provided by [Foam](https://foambubble.github.io/foam/) 
+    
+Timed with an increased focus on leveraging this site for my [personal learning environment](https://www.downes.ca/cgi-bin/page.cgi?post=71058)
+
+### Version 1 - Initial implementation with Foam using PKM (July 2020)
+
+- July 6 - [Early design](https://djon.es/blog/2020/07/06/designing-a-personal-memex-with-foam/)
+
+
+
+### To do list
+
+- [[publishing-graph-interface]]
+- [[integrate-backlinks-automatically-onto-pages]] 
+- [[computational-components]]
+
+## Related work
 
 Decades later and there are systems (e.g. Obsidian and Notion) and concepts like [personal knowledge management](https://en.wikipedia.org/wiki/Personal_knowledge_management) which echo this vision. This is my attempt to build my own Memex using [Foam](https://foambubble.github.io/) and over time move beyond that.
 
@@ -25,29 +66,7 @@ Decades later and there are systems (e.g. Obsidian and Notion) and concepts like
 
     Mike Caufield delves into the how the Smallest Federated Wiki (SFW) - aka [Federated Wiki](https://en.wikipedia.org/wiki/Federated_Wiki) - offers to improve the basic web into something a little more informed by insights from Ted Nelson and beyond.
 
-
-## Why and what to do with it?
-
-I needed to get better at learning, creating, and sharing. At obtaining information and learning effectively by working into sensible schema. A schema I could use to do interesting, fun, and possibly helpful activities. Activities that would produce artefacts, insights, and products that would provide benefit to others through sharing. For too long, my approach to this is disconnected, ad hoc, and generally ineffective.
-
-See [this blog post](https://djon.es/blog/2020/07/06/designing-a-personal-memex-with-foam/) for more of the initial work. I need to think and write more about this and the connection with [[ideas-events-people]]
-
-## What?
-
-!!! info "Version 2.0 - Foam + Material for MkDocs"
-
-    Version 2.0 combines [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) - to improve the user-interface for navigation/reading - with the Obsidian/Roam/Notion type authoring/curating functionality provided by [Foam](https://foambubble.github.io/foam/) 
-    
-    Timed with an increased focus on leveraging this site for my [personal learning environment](https://www.downes.ca/cgi-bin/page.cgi?post=71058)
-
-## To do list
-
-- [[publishing-graph-interface]]
-- [[integrate-backlinks-automatically-onto-pages]] 
-- [[computational-components]]
-
-
-## Other examples
+### Other examples
 
 Random examples of what others have achieved using Foam combine with other technologies
 
@@ -58,15 +77,6 @@ Random examples of what others have achieved using Foam combine with other techn
 
 ## History
 
-### Version 1 - Initial implementation with Foam using PKM (July 2020)
-
-- July 6 - [Early design](https://djon.es/blog/2020/07/06/designing-a-personal-memex-with-foam/)
-
-### Version 2 - Adding mkdocs - (2nd half 2023)
-
-- August 20 - [[why-mkdocs-foam]]
-- August 26 - [[deploy-with-github-action]]
-- November 11 - [[tags-and-properties]] 
 
 ## Support
 
@@ -74,10 +84,11 @@ Random examples of what others have achieved using Foam combine with other techn
 
 [//begin]: # "Autogenerated link references for markdown compatibility"
 [ideas-events-people]: <../sense/quote collection/ideas-events-people> "Great Minds Discuss Ideas; Average Minds Discuss Events; Small Minds Discuss People"
-[publishing-graph-interface]: publishing-graph-interface "Publishing graph interface"
-[integrate-backlinks-automatically-onto-pages]: integrate-backlinks-automatically-onto-pages "Integrate backlinks automatically onto pages"
-[computational-components]: computational-components "Computational components"
+[memex-v2]: memex-v2 "Thinking about 'memex v2'"
 [why-mkdocs-foam]: why-mkdocs-foam "Why combine mkdocs with Foam"
 [deploy-with-github-action]: deploy-with-github-action "Deploy with github action"
 [tags-and-properties]: tags-and-properties "Tags and properties"
+[publishing-graph-interface]: publishing-graph-interface "Publishing graph interface"
+[integrate-backlinks-automatically-onto-pages]: integrate-backlinks-automatically-onto-pages "Integrate backlinks automatically onto pages"
+[computational-components]: computational-components "Computational components"
 [//end]: # "Autogenerated link references"
