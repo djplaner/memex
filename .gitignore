@@ -1,1 +1,10 @@
+node_modules/
+package-lock.json
 site/
+_site/
+Gemfile*
+.*swp
+.sass-cache/
+.jekyll-cache/
+.DS_Store
+*.csv#
