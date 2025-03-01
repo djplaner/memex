@@ -2,9 +2,8 @@ name: ci
 on:
   push:
     branches:
-      - v3-move
-#      - master 
-#      - main
+      - master 
+      - main
 permissions:
   contents: write
 jobs:
