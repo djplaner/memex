@@ -1,7 +1,5 @@
 # A memex
 
-Hello again
-
 <div class="grid cards" markdown>
 
 - :material-information-variant: __[[colophon|About]]__
