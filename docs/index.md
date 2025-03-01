@@ -1,6 +1,6 @@
 # A memex
 
-Hello
+Hello again
 
 <div class="grid cards" markdown>
 
