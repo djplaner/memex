@@ -1,0 +1,2768 @@
+<!--
+ Copyright (C) 2023 David Jones
+ 
+ This program is free software: you can redistribute it and/or modify
+ it under the terms of the GNU Affero General Public License as
+ published by the Free Software Foundation, either version 3 of the
+ License, or (at your option) any later version.
+ 
+ This program is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ GNU Affero General Public License for more details.
+ 
+ You should have received a copy of the GNU Affero General Public License
+ along with this program.  If not, see <http://www.gnu.org/licenses/>.
+-->
+
+
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+        <meta name="author" content="David Jones">
+      
+      
+        <link rel="canonical" href="https://djplaner.github.io/memex/sense/CASA/design-of-vue-lj-data-structures.html">
+      
+      
+      
+      
+      <link rel="icon" href="../../assets/memex.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.6.5">
+    
+    
+      
+        <title>Design of vue lj data structures - David's Memex</title>
+      
+    
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.8608ea7d.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.06af60db.min.css">
+      
+      
+
+
+    
+
+    
+    
+      
+    
+   <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+    <script>MathJax = {tex: 
+        {
+            inlineMath: [["$", "$"], ['\\(', '\\)']],
+            displayMath: [['$$', '$$'], ['\\[', '\\]']]
+        }
+     }</script>
+
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../../stylesheets/extra.css">
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+  
+
+
+  
+  
+
+<script id="__analytics">function __md_analytics(){function e(){dataLayer.push(arguments)}window.dataLayer=window.dataLayer||[],e("js",new Date),e("config","G-FRPL9T01XP"),document.addEventListener("DOMContentLoaded",(function(){document.forms.search&&document.forms.search.query.addEventListener("blur",(function(){this.value&&e("event","search",{search_term:this.value})}));document$.subscribe((function(){var t=document.forms.feedback;if(void 0!==t)for(var a of t.querySelectorAll("[type=submit]"))a.addEventListener("click",(function(a){a.preventDefault();var n=document.location.pathname,d=this.getAttribute("data-md-value");e("event","feedback",{page:n,data:d}),t.firstElementChild.disabled=!0;var r=t.querySelector(".md-feedback__note [data-md-value='"+d+"']");r&&(r.hidden=!1)})),t.hidden=!1})),location$.subscribe((function(t){e("config","G-FRPL9T01XP",{page_path:t.pathname})}))}));var t=document.createElement("script");t.async=!0,t.src="https://www.googletagmanager.com/gtag/js?id=G-FRPL9T01XP",document.getElementById("__analytics").insertAdjacentElement("afterEnd",t)}</script>
+  
+    <script>"undefined"!=typeof __md_analytics&&__md_analytics()</script>
+  
+
+    
+    
+    
+   <link href="../../assets/stylesheets/glightbox.min.css" rel="stylesheet"/><style>
+    html.glightbox-open { overflow: initial; height: 100%; }
+    .gslide-title { margin-top: 0px; user-select: text; }
+    .gslide-desc { color: #666; user-select: text; }
+    .gslide-image img { background: white; }
+    .gscrollbar-fixer { padding-right: 15px; }
+    .gdesc-inner { font-size: 0.75rem; }
+    body[data-md-color-scheme="slate"] .gdesc-inner { background: var(--md-default-bg-color);}
+    body[data-md-color-scheme="slate"] .gslide-title { color: var(--md-default-fg-color);}
+    body[data-md-color-scheme="slate"] .gslide-desc { color: var(--md-default-fg-color);}</style> <script src="../../assets/javascripts/glightbox.min.js"></script></head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="collections" data-md-color-primary="indigo" data-md-color-accent="indigo">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#usage-of-canvasapidata" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow md-header--lifted" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../.." title="David&#39;s Memex" class="md-header__button md-logo" aria-label="David's Memex" data-md-component="logo">
+      
+  <img src="../../assets/spider_web.png" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            David's Memex
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Design of vue lj data structures
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="collections" data-md-color-primary="indigo" data-md-color-accent="indigo"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a4 4 0 0 0-4 4 4 4 0 0 0 4 4 4 4 0 0 0 4-4 4 4 0 0 0-4-4m0 10a6 6 0 0 1-6-6 6 6 0 0 1 6-6 6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12z"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="slate" data-md-color-primary="indigo" data-md-color-accent="indigo"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 18c-.89 0-1.74-.2-2.5-.55C11.56 16.5 13 14.42 13 12s-1.44-4.5-3.5-5.45C10.26 6.2 11.11 6 12 6a6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12z"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+        <div class="md-search__suggest" data-md-component="search-suggest"></div>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+      <div class="md-header__source">
+        <a href="https://github.com/djplaner/memex" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81"/></svg>
+  </div>
+  <div class="md-source__repository">
+    GitHub
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+    
+      
+<nav class="md-tabs" aria-label="Tabs" data-md-component="tabs">
+  <div class="md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../index.html" class="md-tabs__link">
+          
+  
+    
+  
+  Home
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../seek/seek.html" class="md-tabs__link">
+          
+  
+    
+  
+  Seek
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../sense.html" class="md-tabs__link">
+          
+  
+    
+  
+  Sense
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../share/share.html" class="md-tabs__link">
+          
+  
+    
+  
+  Share
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../birdwatching/birding.html" class="md-tabs__link">
+          
+  
+    
+  
+  Birding
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../landscape-garden/gardens.html" class="md-tabs__link">
+          
+  
+    
+  
+  Gardens
+
+        </a>
+      </li>
+    
+  
+
+      
+    </ul>
+  </div>
+</nav>
+    
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+  
+
+
+<nav class="md-nav md-nav--primary md-nav--lifted" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="David&#39;s Memex" class="md-nav__button md-logo" aria-label="David's Memex" data-md-component="logo">
+      
+  <img src="../../assets/spider_web.png" alt="logo">
+
+    </a>
+    David's Memex
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/djplaner/memex" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81"/></svg>
+  </div>
+  <div class="md-source__repository">
+    GitHub
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_1" >
+        
+          
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../index.html" class="md-nav__link ">
+              
+  
+  <span class="md-ellipsis">
+    Home
+    
+  </span>
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_1" id="__nav_1_label" tabindex="0">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_1_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_1">
+            <span class="md-nav__icon md-icon"></span>
+            Home
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../colophon/colophon.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Colophon
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Seek
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            Seek
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../seek/seek.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Seek
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../seek/seek-triage.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Triage list
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Sense
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            Sense
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../sense.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Sense
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_3_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_3_2" id="__nav_3_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Abstractions
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_2">
+            <span class="md-nav__icon md-icon"></span>
+            Abstractions
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="bad.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    BAD
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="casa.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    CASA
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Bricolage/herding-cats.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Herding Cats
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="know-thy-student.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Know thy student
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../nodt/nodt.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    nodt
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Representations/representations.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Representations
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Sharing-design-knowledge/sharing-design-knowledge.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Sharing design knowledge
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../concepts/concepts.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Concepts
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_3_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_3_4" id="__nav_3_4_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Topics
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_4">
+            <span class="md-nav__icon md-icon"></span>
+            Topics
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../AI/AI.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    AI
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../computing/computing.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Computing
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Design/design.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Design
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../computing/floss.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    FLOSS/FOSS
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Learning/learning.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Learning
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Python/python.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Python
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../relational/relational.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Relational
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Research/research.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Research
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Society/society.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Society
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Web-development/web-development.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Web development
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_3_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_3_5" id="__nav_3_5_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Tasks
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_5">
+            <span class="md-nav__icon md-icon"></span>
+            Tasks
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Conferences/conferences.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Conferences
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../loose/loose.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Loose
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Paper-Ideas/paper-ideas.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Paper Ideas
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Paper-Summaries/paper-summaries.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Paper Summaries
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Recipes/recipes.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Recipes
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../work/work-categories.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Work
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_3_6" >
+        
+          
+          <label class="md-nav__link" for="__nav_3_6" id="__nav_3_6_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Teaching
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_6">
+            <span class="md-nav__icon md-icon"></span>
+            Teaching
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Teaching/teaching.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Teaching
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Quality-and-teaching/quality-and-teaching.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Quality and teaching
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Share
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4">
+            <span class="md-nav__icon md-icon"></span>
+            Share
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../share/share.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Overview
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../share/blog/blog-posts.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Blog
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+      
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_5" id="__nav_5_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Birding
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5">
+            <span class="md-nav__icon md-icon"></span>
+            Birding
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../birdwatching/birding.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Birding
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+      
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_6" >
+        
+          
+          <label class="md-nav__link" for="__nav_6" id="__nav_6_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Gardens
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6">
+            <span class="md-nav__icon md-icon"></span>
+            Gardens
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../landscape-garden/gardens.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Gardens
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#usage-of-canvasapidata" class="md-nav__link">
+    <span class="md-ellipsis">
+      Usage of canvasApiData
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#canvasapidata" class="md-nav__link">
+    <span class="md-ellipsis">
+      canvasApiData
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="canvasApiData">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#groupsets" class="md-nav__link">
+    <span class="md-ellipsis">
+      groupSets
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="groupSets">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#groups" class="md-nav__link">
+    <span class="md-ellipsis">
+      Groups
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#students-and-teachers" class="md-nav__link">
+    <span class="md-ellipsis">
+      students and teachers
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#matching-python-data-structures" class="md-nav__link">
+    <span class="md-ellipsis">
+      Matching Python data structures
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#transformed-graphql-data" class="md-nav__link">
+    <span class="md-ellipsis">
+      Transformed GraphQL data
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#on-the-question-of-stores" class="md-nav__link">
+    <span class="md-ellipsis">
+      On the question of stores
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#object-update" class="md-nav__link">
+    <span class="md-ellipsis">
+      Object update
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+  
+  
+
+
+  <h1>Design of vue lj data structures</h1>
+
+<p>See also: <a href="/memex/vue-canvas-learning-journal.html">vue-canvas-learning-journal</a></p>
+<p>Design and summarise current data structures.</p>
+<p>Currently data structure management entirely in <code>canvasApiData.ts</code></p>
+<h2 id="usage-of-canvasapidata">Usage of canvasApiData<a class="headerlink" href="#usage-of-canvasapidata" title="Permanent link">#</a></h2>
+<p>The root component (<code>App.vue</code>) does the initial <code>const canvasData = getCanvasData()</code>, which initiates the API call. All subsequent calls will be getting the singleton. They are also guaranteed to have the data available as the <code>App.vue</code> does not add any sub-components to the DOM until the data is loaded.</p>
+<p>Some of the sub-components currently have left over crud to be removed.</p>
+<p>Other sub-components (the group set specific stuff) will/may need to do additional queries. Alternatively could do it all initially depending on whether a group set is determined to be a learning journal.</p>
+<h2 id="canvasapidata">canvasApiData<a class="headerlink" href="#canvasapidata" title="Permanent link">#</a></h2>
+<p>Exports a function <code>getCanvasCourse</code> which generates a singleton object of type <code>courseData</code>. It retrieves data from the Canvas API and then transforms it into a more useful object.</p>
+<table>
+<thead>
+<tr>
+<th>Property</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>id</code></td>
+<td>the course id</td>
+</tr>
+<tr>
+<td><code>name</code></td>
+<td>the course name</td>
+</tr>
+<tr>
+<td><code>courseCode</code></td>
+<td>Canvas API course code</td>
+</tr>
+<tr>
+<td><code>hostname</code></td>
+<td>the Canvas instance's hostname (url)</td>
+</tr>
+<tr>
+<td><code>createdAt</code></td>
+<td>the date the course was created</td>
+</tr>
+<tr>
+<td><code>updated</code></td>
+<td>a counter that is incremented each time the object is updated</td>
+</tr>
+<tr>
+<td><code>groupSets</code></td>
+<td>an array of group sets <em>currently undefined</em></td>
+</tr>
+<tr>
+<td><code>groupSetsById</code></td>
+<td>an object with group set ids as keys and group set data as values</td>
+</tr>
+<tr>
+<td><code>students</code></td>
+<td>an array of student data</td>
+</tr>
+<tr>
+<td><code>studentsById</code></td>
+<td>an object with student ids as keys and student data as values</td>
+</tr>
+<tr>
+<td><code>teachers</code></td>
+<td>an array of teacher data</td>
+</tr>
+<tr>
+<td><code>teachersById</code></td>
+<td>an object with teacher ids as keys and teacher data as values</td>
+</tr>
+<tr>
+<td><code>discussions</code></td>
+<td>Array of discussion data retrieved via REST API (no graphQL support) this data is then parsed into appropriate places within <code>groupSets</code> data structure</td>
+</tr>
+<tr>
+<td><code>courseObject</code></td>
+<td><strong>deprecated</strong> object returned by the <a href="/memex/design-of-vue-lj-casa-1.html#graphql">GraphQL query</a></td>
+</tr>
+<tr>
+<td>` @TODO assignments</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<h3 id="groupsets">groupSets<a class="headerlink" href="#groupsets" title="Permanent link">#</a></h3>
+<p>The <code>groupSets</code> property is an array of objects representing an individual groupset, including </p>
+<table>
+<thead>
+<tr>
+<th>Property</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>_id</code></td>
+<td>the group set id</td>
+</tr>
+<tr>
+<td><code>id</code></td>
+<td>the group set GraphQL id</td>
+</tr>
+<tr>
+<td><code>name</code></td>
+<td>the group set name</td>
+</tr>
+<tr>
+<td><code>memberLimit</code></td>
+<td>the maximum number of members allowed in a group</td>
+</tr>
+<tr>
+<td><code>selfSignUp</code></td>
+<td>whether students can self sign up for groups</td>
+</tr>
+<tr>
+<td><code>numGroups</code></td>
+<td>the number of groups in the group set - calculated by code</td>
+</tr>
+<tr>
+<td><code>numMembers</code></td>
+<td>Number of students who are members of groups within the group set</td>
+</tr>
+<tr>
+<td><code>discussionTopics</code></td>
+<td>Discussion topics (Canvas API objects) associated with this group set</td>
+</tr>
+<tr>
+<td><code>groupsConnection</code></td>
+<td>the original GraphQL property</td>
+</tr>
+<tr>
+<td><code>groups</code></td>
+<td>array of data about the groups that belong to the group set</td>
+</tr>
+</tbody>
+</table>
+<h4 id="groups">Groups<a class="headerlink" href="#groups" title="Permanent link">#</a></h4>
+<p>The <code>groups</code> property is an array of objects for each group belonging to the group set with the following properties</p>
+<table>
+<thead>
+<tr>
+<th>Property</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>_id</code></td>
+<td>the group id</td>
+</tr>
+<tr>
+<td><code>name</code></td>
+<td>the group name</td>
+</tr>
+<tr>
+<td><code>updatedAt</code></td>
+<td>the date the group was last updated</td>
+</tr>
+<tr>
+<td><code>membersCount</code></td>
+<td>the number of members in the group</td>
+</tr>
+<tr>
+<td><code>canMessage</code></td>
+<td>whether members can message each other</td>
+</tr>
+<tr>
+<td><code>createdAt</code></td>
+<td>the date the group was created</td>
+</tr>
+<tr>
+<td><code>members</code></td>
+<td>array of data about the members of the group. Which is an array of objects with a <code>nodes</code> property that contains an array (only usually one for a learning journal) with basic user information (_id, name, email, avatarUrl)</td>
+</tr>
+</tbody>
+</table>
+<h3 id="students-and-teachers">students and teachers<a class="headerlink" href="#students-and-teachers" title="Permanent link">#</a></h3>
+<p>The <code>students</code> and <code>teachers</code> properties array arrays of objects representing student/teacher  info in the course with the following properties</p>
+<table>
+<thead>
+<tr>
+<th>Property</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>_id</code></td>
+<td>the student's Canvas id</td>
+</tr>
+<tr>
+<td><code>name</code></td>
+<td>the student's name</td>
+</tr>
+<tr>
+<td><code>email</code></td>
+<td>the student's email address</td>
+</tr>
+<tr>
+<td><code>htmlUrl</code></td>
+<td>the student's avatar/about page for the current course</td>
+</tr>
+</tbody>
+</table>
+<ul>
+<li><a href="#usage-of-canvasapidata">Usage of canvasApiData</a></li>
+<li><a href="#canvasapidata">canvasApiData</a></li>
+<li><a href="#groupsets">groupSets</a><ul>
+<li><a href="#groups">Groups</a></li>
+</ul>
+</li>
+<li><a href="#students-and-teachers">students and teachers</a></li>
+<li><a href="#matching-python-data-structures">Matching Python data structures</a></li>
+<li><a href="#transformed-graphql-data">Transformed GraphQL data</a></li>
+<li><a href="#on-the-question-of-stores">On the question of stores</a></li>
+<li><a href="#object-update">Object update</a></li>
+</ul>
+<div class="highlight"><pre><span></span><code><span class="p">{</span>
+<span class="w">    </span><span class="nt">&quot;id&quot;</span><span class="p">:</span><span class="w"> </span><span class="mi">7446794</span><span class="p">,</span>
+<span class="w">    </span><span class="nt">&quot;name&quot;</span><span class="p">:</span><span class="w"> </span><span class="s2">&quot;Collections Copy&quot;</span><span class="p">,</span>
+<span class="w">    </span><span class="nt">&quot;groupSets&quot;</span><span class="p">:</span><span class="w"> </span><span class="p">[],</span>
+<span class="w">    </span><span class="nt">&quot;courseObject&quot;</span><span class="p">:</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="nt">&quot;_id&quot;</span><span class="p">:</span><span class="w"> </span><span class="s2">&quot;7446794&quot;</span><span class="p">,</span>
+<span class="w">        </span><span class="nt">&quot;name&quot;</span><span class="p">:</span><span class="w"> </span><span class="s2">&quot;Collections Copy&quot;</span><span class="p">,</span>
+<span class="w">        </span><span class="nt">&quot;courseCode&quot;</span><span class="p">:</span><span class="w"> </span><span class="s2">&quot;Collections&quot;</span><span class="p">,</span>
+<span class="w">        </span><span class="nt">&quot;createdAt&quot;</span><span class="p">:</span><span class="w"> </span><span class="s2">&quot;2023-08-05T20:53:16-06:00&quot;</span><span class="p">,</span>
+<span class="w">        </span><span class="nt">&quot;groupSetsConnection&quot;</span><span class="p">:</span><span class="w"> </span><span class="p">{</span>
+<span class="w">            </span><span class="nt">&quot;nodes&quot;</span><span class="p">:</span><span class="w"> </span><span class="p">[</span>
+<span class="w">                </span><span class="p">{</span>
+<span class="w">                    </span><span class="nt">&quot;id&quot;</span><span class="p">:</span><span class="w"> </span><span class="s2">&quot;R3JvdXBTZXQtMjkwMjMy&quot;</span><span class="p">,</span>
+<span class="w">                    </span><span class="nt">&quot;_id&quot;</span><span class="p">:</span><span class="w"> </span><span class="s2">&quot;290232&quot;</span><span class="p">,</span>
+<span class="w">                    </span><span class="nt">&quot;name&quot;</span><span class="p">:</span><span class="w"> </span><span class="s2">&quot;Your reflective journal&quot;</span><span class="p">,</span>
+<span class="w">                    </span><span class="nt">&quot;memberLimit&quot;</span><span class="p">:</span><span class="w"> </span><span class="kc">null</span><span class="p">,</span>
+<span class="w">                    </span><span class="nt">&quot;selfSignup&quot;</span><span class="p">:</span><span class="w"> </span><span class="s2">&quot;disabled&quot;</span><span class="p">,</span>
+<span class="w">                    </span><span class="nt">&quot;groupsConnection&quot;</span><span class="p">:</span><span class="w"> </span><span class="p">{</span>
+<span class="w">                        </span><span class="nt">&quot;nodes&quot;</span><span class="p">:</span><span class="w"> </span><span class="p">[</span>
+<span class="w">                            </span><span class="p">{</span>
+<span class="w">                                </span><span class="nt">&quot;_id&quot;</span><span class="p">:</span><span class="w"> </span><span class="s2">&quot;974036&quot;</span><span class="p">,</span>
+<span class="w">                                </span><span class="nt">&quot;name&quot;</span><span class="p">:</span><span class="w"> </span><span class="s2">&quot;PtjMUwBqFOvn-d1WEezZi1CzZPaIPP1AfWGwEhDE5jU (PtjMUwBqFOvn-d1WEezZi1CzZPaIPP1AfWGwEhDE5jU)&quot;</span><span class="p">,</span>
+<span class="w">                                </span><span class="nt">&quot;updatedAt&quot;</span><span class="p">:</span><span class="w"> </span><span class="s2">&quot;2023-12-12T21:11:39-07:00&quot;</span><span class="p">,</span>
+<span class="w">                                </span><span class="nt">&quot;membersCount&quot;</span><span class="p">:</span><span class="w"> </span><span class="mi">1</span><span class="p">,</span>
+<span class="w">                                </span><span class="nt">&quot;canMessage&quot;</span><span class="p">:</span><span class="w"> </span><span class="kc">true</span><span class="p">,</span>
+<span class="w">                                </span><span class="nt">&quot;createdAt&quot;</span><span class="p">:</span><span class="w"> </span><span class="s2">&quot;2023-12-12T21:05:07-07:00&quot;</span><span class="p">,</span>
+<span class="w">                                </span><span class="nt">&quot;membersConnection&quot;</span><span class="p">:</span><span class="w"> </span><span class="p">{</span>
+<span class="w">                                    </span><span class="nt">&quot;nodes&quot;</span><span class="p">:</span><span class="w"> </span><span class="p">[</span>
+<span class="w">                                        </span><span class="p">{</span>
+<span class="w">                                            </span><span class="nt">&quot;_id&quot;</span><span class="p">:</span><span class="w"> </span><span class="s2">&quot;3750916&quot;</span><span class="p">,</span>
+<span class="w">                                            </span><span class="nt">&quot;createdAt&quot;</span><span class="p">:</span><span class="w"> </span><span class="s2">&quot;2023-12-12T21:05:07-07:00&quot;</span><span class="p">,</span>
+<span class="w">                                            </span><span class="nt">&quot;user&quot;</span><span class="p">:</span><span class="w"> </span><span class="p">{</span>
+<span class="w">                                                </span><span class="nt">&quot;_id&quot;</span><span class="p">:</span><span class="w"> </span><span class="s2">&quot;109793678&quot;</span><span class="p">,</span>
+<span class="w">                                                </span><span class="nt">&quot;name&quot;</span><span class="p">:</span><span class="w"> </span><span class="s2">&quot;PtjMUwBqFOvn-d1WEezZi1CzZPaIPP1AfWGwEhDE5jU&quot;</span><span class="p">,</span>
+<span class="w">                                                </span><span class="nt">&quot;email&quot;</span><span class="p">:</span><span class="w"> </span><span class="s2">&quot;d.jones6@griffith.edu.au&quot;</span><span class="p">,</span>
+<span class="w">                                                </span><span class="nt">&quot;avatarUrl&quot;</span><span class="p">:</span><span class="w"> </span><span class="kc">null</span>
+<span class="w">                                            </span><span class="p">}</span>
+<span class="w">                                        </span><span class="p">}</span>
+<span class="w">                                    </span><span class="p">]</span>
+<span class="w">                                </span><span class="p">}</span>
+<span class="w">                            </span><span class="p">},</span>
+<span class="w">                            </span><span class="p">{</span>
+<span class="w">                                </span><span class="nt">&quot;_id&quot;</span><span class="p">:</span><span class="w"> </span><span class="s2">&quot;974035&quot;</span><span class="p">,</span>
+<span class="w">                                </span><span class="nt">&quot;name&quot;</span><span class="p">:</span><span class="w"> </span><span class="s2">&quot;Steven Booten (s.booten@griffith.edu.au)&quot;</span><span class="p">,</span>
+<span class="w">                                </span><span class="nt">&quot;updatedAt&quot;</span><span class="p">:</span><span class="w"> </span><span class="s2">&quot;2023-12-12T21:11:39-07:00&quot;</span><span class="p">,</span>
+<span class="w">                                </span><span class="nt">&quot;membersCount&quot;</span><span class="p">:</span><span class="w"> </span><span class="mi">1</span><span class="p">,</span>
+<span class="w">                                </span><span class="nt">&quot;canMessage&quot;</span><span class="p">:</span><span class="w"> </span><span class="kc">true</span><span class="p">,</span>
+<span class="w">                                </span><span class="nt">&quot;createdAt&quot;</span><span class="p">:</span><span class="w"> </span><span class="s2">&quot;2023-12-12T21:05:06-07:00&quot;</span><span class="p">,</span>
+<span class="w">                                </span><span class="nt">&quot;membersConnection&quot;</span><span class="p">:</span><span class="w"> </span><span class="p">{</span>
+<span class="w">                                    </span><span class="nt">&quot;nodes&quot;</span><span class="p">:</span><span class="w"> </span><span class="p">[</span>
+<span class="w">                                        </span><span class="p">{</span>
+<span class="w">                                            </span><span class="nt">&quot;_id&quot;</span><span class="p">:</span><span class="w"> </span><span class="s2">&quot;3750915&quot;</span><span class="p">,</span>
+<span class="w">                                            </span><span class="nt">&quot;createdAt&quot;</span><span class="p">:</span><span class="w"> </span><span class="s2">&quot;2023-12-12T21:05:07-07:00&quot;</span><span class="p">,</span>
+<span class="w">                                            </span><span class="nt">&quot;user&quot;</span><span class="p">:</span><span class="w"> </span><span class="p">{</span>
+<span class="w">                                                </span><span class="nt">&quot;_id&quot;</span><span class="p">:</span><span class="w"> </span><span class="s2">&quot;109792759&quot;</span><span class="p">,</span>
+<span class="w">                                                </span><span class="nt">&quot;name&quot;</span><span class="p">:</span><span class="w"> </span><span class="s2">&quot;Steven Booten&quot;</span><span class="p">,</span>
+<span class="w">                                                </span><span class="nt">&quot;email&quot;</span><span class="p">:</span><span class="w"> </span><span class="s2">&quot;s.booten@griffith.edu.au&quot;</span><span class="p">,</span>
+<span class="w">                                                </span><span class="nt">&quot;avatarUrl&quot;</span><span class="p">:</span><span class="w"> </span><span class="kc">null</span>
+<span class="w">                                            </span><span class="p">}</span>
+<span class="w">                                        </span><span class="p">}</span>
+<span class="w">                                    </span><span class="p">]</span>
+<span class="w">                                </span><span class="p">}</span>
+<span class="w">                            </span><span class="p">},</span>
+<span class="w">                            </span><span class="p">{</span>
+<span class="w">                                </span><span class="nt">&quot;_id&quot;</span><span class="p">:</span><span class="w"> </span><span class="s2">&quot;974034&quot;</span><span class="p">,</span>
+<span class="w">                                </span><span class="nt">&quot;name&quot;</span><span class="p">:</span><span class="w"> </span><span class="s2">&quot;wzCp2-sXN4gCyYI8fUw__N4XCm1TDI8EPLNAhayh-Ek (wzCp2-sXN4gCyYI8fUw__N4XCm1TDI8EPLNAhayh-Ek)&quot;</span><span class="p">,</span>
+<span class="w">                                </span><span class="nt">&quot;updatedAt&quot;</span><span class="p">:</span><span class="w"> </span><span class="s2">&quot;2023-12-12T21:11:39-07:00&quot;</span><span class="p">,</span>
+<span class="w">                                </span><span class="nt">&quot;membersCount&quot;</span><span class="p">:</span><span class="w"> </span><span class="mi">1</span><span class="p">,</span>
+<span class="w">                                </span><span class="nt">&quot;canMessage&quot;</span><span class="p">:</span><span class="w"> </span><span class="kc">true</span><span class="p">,</span>
+<span class="w">                                </span><span class="nt">&quot;createdAt&quot;</span><span class="p">:</span><span class="w"> </span><span class="s2">&quot;2023-12-12T21:05:05-07:00&quot;</span><span class="p">,</span>
+<span class="w">                                </span><span class="nt">&quot;membersConnection&quot;</span><span class="p">:</span><span class="w"> </span><span class="p">{</span>
+<span class="w">                                    </span><span class="nt">&quot;nodes&quot;</span><span class="p">:</span><span class="w"> </span><span class="p">[</span>
+<span class="w">                                        </span><span class="p">{</span>
+<span class="w">                                            </span><span class="nt">&quot;_id&quot;</span><span class="p">:</span><span class="w"> </span><span class="s2">&quot;3750914&quot;</span><span class="p">,</span>
+<span class="w">                                            </span><span class="nt">&quot;createdAt&quot;</span><span class="p">:</span><span class="w"> </span><span class="s2">&quot;2023-12-12T21:05:06-07:00&quot;</span><span class="p">,</span>
+<span class="w">                                            </span><span class="nt">&quot;user&quot;</span><span class="p">:</span><span class="w"> </span><span class="p">{</span>
+<span class="w">                                                </span><span class="nt">&quot;_id&quot;</span><span class="p">:</span><span class="w"> </span><span class="s2">&quot;109793756&quot;</span><span class="p">,</span>
+<span class="w">                                                </span><span class="nt">&quot;name&quot;</span><span class="p">:</span><span class="w"> </span><span class="s2">&quot;wzCp2-sXN4gCyYI8fUw__N4XCm1TDI8EPLNAhayh-Ek&quot;</span><span class="p">,</span>
+<span class="w">                                                </span><span class="nt">&quot;email&quot;</span><span class="p">:</span><span class="w"> </span><span class="s2">&quot;h.cook@griffith.edu.au&quot;</span><span class="p">,</span>
+<span class="w">                                                </span><span class="nt">&quot;avatarUrl&quot;</span><span class="p">:</span><span class="w"> </span><span class="kc">null</span>
+<span class="w">                                            </span><span class="p">}</span>
+<span class="w">                                        </span><span class="p">}</span>
+<span class="w">                                    </span><span class="p">]</span>
+<span class="w">                                </span><span class="p">}</span>
+<span class="w">                            </span><span class="p">}</span>
+<span class="w">                        </span><span class="p">]</span>
+<span class="w">                    </span><span class="p">}</span>
+<span class="w">                </span><span class="p">},</span>
+<span class="w">                </span><span class="p">{</span>
+<span class="w">                    </span><span class="nt">&quot;id&quot;</span><span class="p">:</span><span class="w"> </span><span class="s2">&quot;R3JvdXBTZXQtMjkwMjky&quot;</span><span class="p">,</span>
+<span class="w">                    </span><span class="nt">&quot;_id&quot;</span><span class="p">:</span><span class="w"> </span><span class="s2">&quot;290292&quot;</span><span class="p">,</span>
+<span class="w">                    </span><span class="nt">&quot;name&quot;</span><span class="p">:</span><span class="w"> </span><span class="s2">&quot;Weekly learning activities&quot;</span><span class="p">,</span>
+<span class="w">                    </span><span class="nt">&quot;memberLimit&quot;</span><span class="p">:</span><span class="w"> </span><span class="kc">null</span><span class="p">,</span>
+<span class="w">                    </span><span class="nt">&quot;selfSignup&quot;</span><span class="p">:</span><span class="w"> </span><span class="s2">&quot;disabled&quot;</span><span class="p">,</span>
+<span class="w">                    </span><span class="nt">&quot;groupsConnection&quot;</span><span class="p">:</span><span class="w"> </span><span class="p">{</span>
+<span class="w">                        </span><span class="nt">&quot;nodes&quot;</span><span class="p">:</span><span class="w"> </span><span class="p">[</span>
+<span class="w">                            </span><span class="p">{</span>
+<span class="w">                                </span><span class="nt">&quot;_id&quot;</span><span class="p">:</span><span class="w"> </span><span class="s2">&quot;974338&quot;</span><span class="p">,</span>
+<span class="w">                                </span><span class="nt">&quot;name&quot;</span><span class="p">:</span><span class="w"> </span><span class="s2">&quot;PtjMUwBqFOvn-d1WEezZi1CzZPaIPP1AfWGwEhDE5jU (PtjMUwBqFOvn-d1WEezZi1CzZPaIPP1AfWGwEhDE5jU)&quot;</span><span class="p">,</span>
+<span class="w">                                </span><span class="nt">&quot;updatedAt&quot;</span><span class="p">:</span><span class="w"> </span><span class="s2">&quot;2023-12-13T13:34:40-07:00&quot;</span><span class="p">,</span>
+<span class="w">                                </span><span class="nt">&quot;membersCount&quot;</span><span class="p">:</span><span class="w"> </span><span class="mi">1</span><span class="p">,</span>
+<span class="w">                                </span><span class="nt">&quot;canMessage&quot;</span><span class="p">:</span><span class="w"> </span><span class="kc">true</span><span class="p">,</span>
+<span class="w">                                </span><span class="nt">&quot;createdAt&quot;</span><span class="p">:</span><span class="w"> </span><span class="s2">&quot;2023-12-13T13:34:39-07:00&quot;</span><span class="p">,</span>
+<span class="w">                                </span><span class="nt">&quot;membersConnection&quot;</span><span class="p">:</span><span class="w"> </span><span class="p">{</span>
+<span class="w">                                    </span><span class="nt">&quot;nodes&quot;</span><span class="p">:</span><span class="w"> </span><span class="p">[</span>
+<span class="w">                                        </span><span class="p">{</span>
+<span class="w">                                            </span><span class="nt">&quot;_id&quot;</span><span class="p">:</span><span class="w"> </span><span class="s2">&quot;3751770&quot;</span><span class="p">,</span>
+<span class="w">                                            </span><span class="nt">&quot;createdAt&quot;</span><span class="p">:</span><span class="w"> </span><span class="s2">&quot;2023-12-13T13:34:40-07:00&quot;</span><span class="p">,</span>
+<span class="w">                                            </span><span class="nt">&quot;user&quot;</span><span class="p">:</span><span class="w"> </span><span class="p">{</span>
+<span class="w">                                                </span><span class="nt">&quot;_id&quot;</span><span class="p">:</span><span class="w"> </span><span class="s2">&quot;109793678&quot;</span><span class="p">,</span>
+<span class="w">                                                </span><span class="nt">&quot;name&quot;</span><span class="p">:</span><span class="w"> </span><span class="s2">&quot;PtjMUwBqFOvn-d1WEezZi1CzZPaIPP1AfWGwEhDE5jU&quot;</span><span class="p">,</span>
+<span class="w">                                                </span><span class="nt">&quot;email&quot;</span><span class="p">:</span><span class="w"> </span><span class="s2">&quot;d.jones6@griffith.edu.au&quot;</span><span class="p">,</span>
+<span class="w">                                                </span><span class="nt">&quot;avatarUrl&quot;</span><span class="p">:</span><span class="w"> </span><span class="kc">null</span>
+<span class="w">                                            </span><span class="p">}</span>
+<span class="w">                                        </span><span class="p">}</span>
+<span class="w">                                    </span><span class="p">]</span>
+<span class="w">                                </span><span class="p">}</span>
+<span class="w">                            </span><span class="p">},</span>
+<span class="w">                            </span><span class="p">{</span>
+<span class="w">                                </span><span class="nt">&quot;_id&quot;</span><span class="p">:</span><span class="w"> </span><span class="s2">&quot;974337&quot;</span><span class="p">,</span>
+<span class="w">                                </span><span class="nt">&quot;name&quot;</span><span class="p">:</span><span class="w"> </span><span class="s2">&quot;Steven Booten (s.booten@griffith.edu.au)&quot;</span><span class="p">,</span>
+<span class="w">                                </span><span class="nt">&quot;updatedAt&quot;</span><span class="p">:</span><span class="w"> </span><span class="s2">&quot;2023-12-13T13:34:39-07:00&quot;</span><span class="p">,</span>
+<span class="w">                                </span><span class="nt">&quot;membersCount&quot;</span><span class="p">:</span><span class="w"> </span><span class="mi">1</span><span class="p">,</span>
+<span class="w">                                </span><span class="nt">&quot;canMessage&quot;</span><span class="p">:</span><span class="w"> </span><span class="kc">true</span><span class="p">,</span>
+<span class="w">                                </span><span class="nt">&quot;createdAt&quot;</span><span class="p">:</span><span class="w"> </span><span class="s2">&quot;2023-12-13T13:34:38-07:00&quot;</span><span class="p">,</span>
+<span class="w">                                </span><span class="nt">&quot;membersConnection&quot;</span><span class="p">:</span><span class="w"> </span><span class="p">{</span>
+<span class="w">                                    </span><span class="nt">&quot;nodes&quot;</span><span class="p">:</span><span class="w"> </span><span class="p">[</span>
+<span class="w">                                        </span><span class="p">{</span>
+<span class="w">                                            </span><span class="nt">&quot;_id&quot;</span><span class="p">:</span><span class="w"> </span><span class="s2">&quot;3751769&quot;</span><span class="p">,</span>
+<span class="w">                                            </span><span class="nt">&quot;createdAt&quot;</span><span class="p">:</span><span class="w"> </span><span class="s2">&quot;2023-12-13T13:34:39-07:00&quot;</span><span class="p">,</span>
+<span class="w">                                            </span><span class="nt">&quot;user&quot;</span><span class="p">:</span><span class="w"> </span><span class="p">{</span>
+<span class="w">                                                </span><span class="nt">&quot;_id&quot;</span><span class="p">:</span><span class="w"> </span><span class="s2">&quot;109792759&quot;</span><span class="p">,</span>
+<span class="w">                                                </span><span class="nt">&quot;name&quot;</span><span class="p">:</span><span class="w"> </span><span class="s2">&quot;Steven Booten&quot;</span><span class="p">,</span>
+<span class="w">                                                </span><span class="nt">&quot;email&quot;</span><span class="p">:</span><span class="w"> </span><span class="s2">&quot;s.booten@griffith.edu.au&quot;</span><span class="p">,</span>
+<span class="w">                                                </span><span class="nt">&quot;avatarUrl&quot;</span><span class="p">:</span><span class="w"> </span><span class="kc">null</span>
+<span class="w">                                            </span><span class="p">}</span>
+<span class="w">                                        </span><span class="p">}</span>
+<span class="w">                                    </span><span class="p">]</span>
+<span class="w">                                </span><span class="p">}</span>
+<span class="w">                            </span><span class="p">},</span>
+<span class="w">                            </span><span class="p">{</span>
+<span class="w">                                </span><span class="nt">&quot;_id&quot;</span><span class="p">:</span><span class="w"> </span><span class="s2">&quot;974339&quot;</span><span class="p">,</span>
+<span class="w">                                </span><span class="nt">&quot;name&quot;</span><span class="p">:</span><span class="w"> </span><span class="s2">&quot;wzCp2-sXN4gCyYI8fUw__N4XCm1TDI8EPLNAhayh-Ek (wzCp2-sXN4gCyYI8fUw__N4XCm1TDI8EPLNAhayh-Ek)&quot;</span><span class="p">,</span>
+<span class="w">                                </span><span class="nt">&quot;updatedAt&quot;</span><span class="p">:</span><span class="w"> </span><span class="s2">&quot;2023-12-13T13:34:40-07:00&quot;</span><span class="p">,</span>
+<span class="w">                                </span><span class="nt">&quot;membersCount&quot;</span><span class="p">:</span><span class="w"> </span><span class="mi">1</span><span class="p">,</span>
+<span class="w">                                </span><span class="nt">&quot;canMessage&quot;</span><span class="p">:</span><span class="w"> </span><span class="kc">true</span><span class="p">,</span>
+<span class="w">                                </span><span class="nt">&quot;createdAt&quot;</span><span class="p">:</span><span class="w"> </span><span class="s2">&quot;2023-12-13T13:34:40-07:00&quot;</span><span class="p">,</span>
+<span class="w">                                </span><span class="nt">&quot;membersConnection&quot;</span><span class="p">:</span><span class="w"> </span><span class="p">{</span>
+<span class="w">                                    </span><span class="nt">&quot;nodes&quot;</span><span class="p">:</span><span class="w"> </span><span class="p">[</span>
+<span class="w">                                        </span><span class="p">{</span>
+<span class="w">                                            </span><span class="nt">&quot;_id&quot;</span><span class="p">:</span><span class="w"> </span><span class="s2">&quot;3751771&quot;</span><span class="p">,</span>
+<span class="w">                                            </span><span class="nt">&quot;createdAt&quot;</span><span class="p">:</span><span class="w"> </span><span class="s2">&quot;2023-12-13T13:34:40-07:00&quot;</span><span class="p">,</span>
+<span class="w">                                            </span><span class="nt">&quot;user&quot;</span><span class="p">:</span><span class="w"> </span><span class="p">{</span>
+<span class="w">                                                </span><span class="nt">&quot;_id&quot;</span><span class="p">:</span><span class="w"> </span><span class="s2">&quot;109793756&quot;</span><span class="p">,</span>
+<span class="w">                                                </span><span class="nt">&quot;name&quot;</span><span class="p">:</span><span class="w"> </span><span class="s2">&quot;wzCp2-sXN4gCyYI8fUw__N4XCm1TDI8EPLNAhayh-Ek&quot;</span><span class="p">,</span>
+<span class="w">                                                </span><span class="nt">&quot;email&quot;</span><span class="p">:</span><span class="w"> </span><span class="s2">&quot;h.cook@griffith.edu.au&quot;</span><span class="p">,</span>
+<span class="w">                                                </span><span class="nt">&quot;avatarUrl&quot;</span><span class="p">:</span><span class="w"> </span><span class="kc">null</span>
+<span class="w">                                            </span><span class="p">}</span>
+<span class="w">                                        </span><span class="p">}</span>
+<span class="w">                                    </span><span class="p">]</span>
+<span class="w">                                </span><span class="p">}</span>
+<span class="w">                            </span><span class="p">}</span>
+<span class="w">                        </span><span class="p">]</span>
+<span class="w">                    </span><span class="p">}</span>
+<span class="w">                </span><span class="p">},</span>
+<span class="w">                </span><span class="p">{</span>
+<span class="w">                    </span><span class="nt">&quot;id&quot;</span><span class="p">:</span><span class="w"> </span><span class="s2">&quot;R3JvdXBTZXQtMjk2NDk3&quot;</span><span class="p">,</span>
+<span class="w">                    </span><span class="nt">&quot;_id&quot;</span><span class="p">:</span><span class="w"> </span><span class="s2">&quot;296497&quot;</span><span class="p">,</span>
+<span class="w">                    </span><span class="nt">&quot;name&quot;</span><span class="p">:</span><span class="w"> </span><span class="s2">&quot;testing&quot;</span><span class="p">,</span>
+<span class="w">                    </span><span class="nt">&quot;memberLimit&quot;</span><span class="p">:</span><span class="w"> </span><span class="kc">null</span><span class="p">,</span>
+<span class="w">                    </span><span class="nt">&quot;selfSignup&quot;</span><span class="p">:</span><span class="w"> </span><span class="s2">&quot;disabled&quot;</span><span class="p">,</span>
+<span class="w">                    </span><span class="nt">&quot;groupsConnection&quot;</span><span class="p">:</span><span class="w"> </span><span class="p">{</span>
+<span class="w">                        </span><span class="nt">&quot;nodes&quot;</span><span class="p">:</span><span class="w"> </span><span class="p">[]</span>
+<span class="w">                    </span><span class="p">}</span>
+<span class="w">                </span><span class="p">}</span>
+<span class="w">            </span><span class="p">]</span>
+<span class="w">        </span><span class="p">}</span>
+<span class="w">    </span><span class="p">},</span>
+<span class="w">    </span><span class="nt">&quot;hostName&quot;</span><span class="p">:</span><span class="w"> </span><span class="s2">&quot;https://canvas.instructure.com&quot;</span><span class="p">,</span>
+<span class="w">    </span><span class="nt">&quot;updated&quot;</span><span class="p">:</span><span class="w"> </span><span class="mi">1</span>
+<span class="p">}</span>
+</code></pre></div>
+<h2 id="matching-python-data-structures">Matching Python data structures<a class="headerlink" href="#matching-python-data-structures" title="Permanent link">#</a></h2>
+<p>Todo </p>
+<ul>
+<li>
+<p>Extract from each group set's groups' members all the current members of the group set -- to identify if there are any students without a group</p>
+<ul>
+<li>Number of groups should match number of students for initial check</li>
+<li>then list of students compared with all students to find out who's missing</li>
+<li>Get list of discussion topics for a group set, including posts/entries</li>
+<li>Calculate stats for a group set/learning journal</li>
+</ul>
+</li>
+</ul>
+<p>Global </p>
+<table>
+<thead>
+<tr>
+<th>Python</th>
+<th>Vue</th>
+<th>Description</th>
+<th>Used where</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>teachers</td>
+<td>course_object.teachers</td>
+<td>All user info based on enrolment_type "teacher"</td>
+<td></td>
+</tr>
+<tr>
+<td>staff_list</td>
+<td>@todo calculate if/when needed</td>
+<td>An array of staff user ids taken from teachers</td>
+<td></td>
+</tr>
+<tr>
+<td>students</td>
+<td>course_object.students</td>
+<td>All user info based on enrolment type 'student'</td>
+<td>Obtained in Vue</td>
+</tr>
+</tbody>
+</table>
+<p>Group set level -- courseObject.groupSets.nodes</p>
+<table>
+<thead>
+<tr>
+<th>Python</th>
+<th>Vue</th>
+<th>Description</th>
+<th>Used where</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>groupMembers</td>
+<td></td>
+<td>Collection of membership information</td>
+<td><strong>deprecated?</strong> not used in view in Python</td>
+</tr>
+<tr>
+<td>users</td>
+<td></td>
+<td>Paginated list of user information for people in the group</td>
+<td><strong>deprecated</strong></td>
+</tr>
+<tr>
+<td>topic</td>
+<td></td>
+<td>Canvas topic object - posibly not there?</td>
+<td><strong>deprecated</strong></td>
+</tr>
+<tr>
+<td>stats</td>
+<td>@todo further analysis in vue</td>
+<td>num_groups, num_unanswered_student_posts, num_student_entries, num_no_student_entry, num_prompts, num_no_staff_entry</td>
+<td></td>
+</tr>
+<tr>
+<td>prompts</td>
+<td>course_object.assignments gets all assignments. @todo extract out the discussion topics and perhaps get more info or explore another way of getting the info</td>
+<td>Array of objects for the prompts for a group set</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p>Prompts level</p>
+<table>
+<thead>
+<tr>
+<th>Python</th>
+<th>Vue</th>
+<th>Description</th>
+<th>Used where</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>prompt_stats</td>
+<td></td>
+<td>Statistics about the prompt across all groups</td>
+<td></td>
+</tr>
+<tr>
+<td>assignment</td>
+<td></td>
+<td>Info about the assignment, including the parent discussion topic</td>
+<td></td>
+</tr>
+<tr>
+<td>responses</td>
+<td></td>
+<td>Array of objects for all responses to a prompt</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p>Response level</p>
+<table>
+<thead>
+<tr>
+<th>Python</th>
+<th>Vue</th>
+<th>Description</th>
+<th>Used where</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>topic_id</td>
+<td></td>
+<td>Discussion topic information (specific to the group)</td>
+<td></td>
+</tr>
+<tr>
+<td>group_id</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>prompt_topic</td>
+<td></td>
+<td>The actual discussion topic object</td>
+<td></td>
+</tr>
+<tr>
+<td>entries</td>
+<td></td>
+<td>Full discussion topic</td>
+<td></td>
+</tr>
+<tr>
+<td>entry_stats</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<h2 id="transformed-graphql-data">Transformed GraphQL data<a class="headerlink" href="#transformed-graphql-data" title="Permanent link">#</a></h2>
+<p>The GraphQL data isn't directly useful for the Vue components.</p>
+<h2 id="on-the-question-of-stores">On the question of stores<a class="headerlink" href="#on-the-question-of-stores" title="Permanent link">#</a></h2>
+<p>Beyond the basic (singleton) approach initially used there are purpose <a href="https://dev.to/muratcanyuksel/saving-and-using-fetched-data-with-vuex-store-2igj">built stores</a> for Vue. <a href="https://pinia.vuejs.org/introduction.html">Pinia</a> appears to be a current good one. Recommended by the <a href="https://rubenr.dev/pinia-vuex/">Vue originator</a></p>
+<p>But perhaps too heavy weight for usage now. This <a href="https://medium.com/@subodha.sahu91/3-state-management-in-vue-js-c4cda1ca1397">comparison of state management in Vue</a> lists three options</p>
+<ol>
+<li>
+<p>global event bus </p>
+<ul>
+<li>Difficult to maintain as application grows. Also lead to data inconsistencies</li>
+<li>simple global store </li>
+<li>Vuex library (Pinia fits here)</li>
+</ul>
+</li>
+</ol>
+<h2 id="object-update">Object update<a class="headerlink" href="#object-update" title="Permanent link">#</a></h2>
+<div class="highlight"><pre><span></span><code><span class="kd">interface</span><span class="w"> </span><span class="nx">memberNode</span><span class="w"> </span><span class="p">{</span>
+<span class="w">    </span><span class="k">public</span><span class="w"> </span><span class="nx">_id</span><span class="o">:</span><span class="w"> </span><span class="kt">string</span>
+<span class="w">    </span><span class="k">public</span><span class="w"> </span><span class="nx">createdAt</span><span class="o">:</span><span class="w"> </span><span class="kt">string</span>
+<span class="w">    </span><span class="k">public</span><span class="w"> </span><span class="nx">user</span><span class="o">:</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="k">public</span><span class="w"> </span><span class="s2">&quot;_id&quot;</span><span class="o">:</span><span class="w"> </span><span class="kt">string</span>
+<span class="w">    </span><span class="p">}</span>
+<span class="p">}</span>
+
+<span class="kd">interface</span><span class="w"> </span><span class="nx">prompt</span><span class="w"> </span><span class="p">{</span>
+<span class="w">    </span><span class="c1">// currently Canvas API REST response for view all topic</span>
+<span class="w">    </span><span class="c1">// @todo </span>
+<span class="w">    </span><span class="c1">// - add some analysis etc.</span>
+<span class="w">    </span><span class="c1">// - maybe add additional data </span>
+<span class="w">    </span><span class="k">public</span><span class="w"> </span><span class="nx">unread_entries</span><span class="o">:</span><span class="w"> </span><span class="p">[]</span>
+<span class="w">    </span><span class="k">public</span><span class="w"> </span><span class="nx">forced_entries</span><span class="o">:</span><span class="w"> </span><span class="p">[]</span>
+<span class="w">    </span><span class="k">public</span><span class="w"> </span><span class="nx">entry_ratings</span><span class="o">:</span><span class="w"> </span><span class="p">{}</span>
+<span class="w">    </span><span class="k">public</span><span class="w"> </span><span class="nx">participants</span><span class="o">:</span><span class="w"> </span><span class="p">[]</span>
+<span class="w">    </span><span class="k">public</span><span class="w"> </span><span class="nx">view</span><span class="o">:</span><span class="w"> </span><span class="p">[]</span>
+<span class="w">    </span><span class="k">public</span><span class="w"> </span><span class="nx">new_entries</span><span class="o">:</span><span class="w"> </span><span class="p">[]</span>
+<span class="p">}</span>
+
+<span class="kd">interface</span><span class="w"> </span><span class="nx">group</span><span class="w"> </span><span class="p">{</span>
+<span class="w">    </span><span class="k">public</span><span class="w"> </span><span class="nx">_id</span><span class="o">:</span><span class="w"> </span><span class="kt">string</span>
+<span class="w">    </span><span class="k">public</span><span class="w"> </span><span class="nx">name</span><span class="w"> </span><span class="o">:</span><span class="w"> </span><span class="kt">string</span>
+<span class="w">    </span><span class="k">public</span><span class="w"> </span><span class="nx">updatedAt</span><span class="o">:</span><span class="w"> </span><span class="kt">string</span>
+<span class="w">    </span><span class="k">public</span><span class="w"> </span><span class="nx">membersCount</span><span class="o">:</span><span class="w"> </span><span class="kt">number</span>
+<span class="w">    </span><span class="k">public</span><span class="w"> </span><span class="nx">canMessage</span><span class="o">:</span><span class="w"> </span><span class="kt">boolean</span>
+<span class="w">    </span><span class="k">public</span><span class="w"> </span><span class="nx">createdAt</span><span class="o">:</span><span class="w"> </span><span class="kt">string</span>
+<span class="w">    </span><span class="k">public</span><span class="w"> </span><span class="nx">membersConnection</span><span class="o">:</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="k">public</span><span class="w"> </span><span class="nx">nodes</span><span class="o">:</span><span class="w"> </span><span class="kt">memberNode</span><span class="p">[]</span>
+<span class="w">    </span><span class="p">}</span>
+<span class="w">    </span><span class="k">public</span><span class="w"> </span><span class="nx">members</span><span class="o">:</span><span class="w"> </span><span class="kt">memberNode</span><span class="p">[]</span><span class="w"> </span>
+<span class="w">    </span><span class="k">public</span><span class="w"> </span><span class="nx">prompts</span><span class="o">:</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="p">[</span><span class="nx">key</span><span class="o">:</span><span class="w"> </span><span class="kt">string</span><span class="p">]</span><span class="o">:</span><span class="w"> </span><span class="nx">prompt</span>
+<span class="w">    </span><span class="p">}</span>
+<span class="p">}</span>
+
+<span class="cm">/*enum discussion_type: { </span>
+<span class="cm">    threaded,  // fully threaded</span>
+<span class="cm">    side_comment  // only one level of nested comments</span>
+<span class="cm">    }</span>
+
+<span class="cm">enum read_state {</span>
+<span class="cm">    read,</span>
+<span class="cm">    unread</span>
+<span class="cm">}*/</span>
+
+<span class="kd">interface</span><span class="w"> </span><span class="nx">author</span><span class="w"> </span><span class="p">{</span><span class="w"> </span>
+<span class="w">    </span><span class="k">public</span><span class="w"> </span><span class="nx">id</span><span class="o">:</span><span class="w"> </span><span class="kt">number</span><span class="w"> </span>
+<span class="w">    </span><span class="k">public</span><span class="w"> </span><span class="nx">anonymous_id</span><span class="o">:</span><span class="w"> </span><span class="kt">string</span>
+<span class="w">    </span><span class="k">public</span><span class="w"> </span><span class="nx">display_name</span><span class="o">:</span><span class="w"> </span><span class="kt">string</span>
+<span class="w">    </span><span class="k">public</span><span class="w"> </span><span class="nx">avatar_image_url</span><span class="o">:</span><span class="w"> </span><span class="kt">string</span>
+<span class="w">    </span><span class="k">public</span><span class="w"> </span><span class="nx">html_url</span><span class="o">:</span><span class="w"> </span><span class="kt">string</span>
+<span class="w">    </span><span class="k">public</span><span class="w"> </span><span class="nx">pronouns</span><span class="o">:</span><span class="w"> </span><span class="kt">string</span>
+<span class="p">}</span>
+
+<span class="kd">interface</span><span class="w"> </span><span class="nx">group_topic_children</span><span class="p">{</span>
+<span class="w">    </span><span class="k">public</span><span class="w"> </span><span class="nx">id</span><span class="o">:</span><span class="w"> </span><span class="kt">number</span>
+<span class="w">    </span><span class="k">public</span><span class="w"> </span><span class="nx">group_id</span><span class="o">:</span><span class="w"> </span><span class="kt">number</span>
+<span class="p">}</span><span class="w">                        </span>
+
+<span class="kd">interface</span><span class="w"> </span><span class="nx">discussionTopics</span><span class="w"> </span><span class="p">{</span>
+<span class="w">    </span><span class="k">public</span><span class="w"> </span><span class="nx">id</span><span class="o">:</span><span class="w"> </span><span class="kt">number</span>
+<span class="w">    </span><span class="k">public</span><span class="w"> </span><span class="nx">title</span><span class="o">:</span><span class="w"> </span><span class="kt">string</span><span class="w"> </span>
+<span class="w">    </span><span class="k">public</span><span class="w"> </span><span class="nx">last_reply_at</span><span class="o">:</span><span class="w"> </span><span class="kt">string</span>
+<span class="w">    </span><span class="k">public</span><span class="w"> </span><span class="nx">created_at</span><span class="o">:</span><span class="w"> </span><span class="kt">string</span>
+<span class="w">    </span><span class="k">public</span><span class="w"> </span><span class="nx">delayed_post_at</span><span class="o">:</span><span class="w"> </span><span class="kt">string</span>
+<span class="w">    </span><span class="k">public</span><span class="w"> </span><span class="nx">assignment_id</span><span class="o">:</span><span class="w"> </span><span class="kt">number</span>
+<span class="w">    </span><span class="k">public</span><span class="w"> </span><span class="nx">root_topic_id</span><span class="o">:</span><span class="w"> </span><span class="kt">number</span>
+<span class="w">    </span><span class="k">public</span><span class="w"> </span><span class="nx">position</span><span class="o">:</span><span class="w"> </span><span class="kt">number</span>
+<span class="w">    </span><span class="k">public</span><span class="w"> </span><span class="nx">podcast_has_student_posts</span><span class="o">:</span><span class="w"> </span><span class="kt">boolean</span>
+<span class="w">    </span><span class="k">public</span><span class="w"> </span><span class="nx">discussion_type</span><span class="o">:</span><span class="w"> </span><span class="kt">string</span><span class="w"> </span><span class="c1">// values threaded or side_comment</span>
+<span class="w">    </span><span class="k">public</span><span class="w"> </span><span class="nx">lock_at</span><span class="o">:</span><span class="w"> </span><span class="kt">string</span><span class="w"> </span>
+<span class="w">    </span><span class="k">public</span><span class="w"> </span><span class="nx">allow_rating</span><span class="o">:</span><span class="w"> </span><span class="kt">boolean</span>
+<span class="w">    </span><span class="k">public</span><span class="w"> </span><span class="nx">only_graders_can_rate</span><span class="o">:</span><span class="w"> </span><span class="kt">boolean</span>
+<span class="w">    </span><span class="k">public</span><span class="w"> </span><span class="nx">sort_by_rating</span><span class="o">:</span><span class="w"> </span><span class="kt">boolean</span>
+<span class="w">    </span><span class="k">public</span><span class="w"> </span><span class="nx">is_section_specific</span><span class="o">:</span><span class="w"> </span><span class="kt">boolean</span>
+<span class="w">    </span><span class="k">public</span><span class="w"> </span><span class="nx">anonymous_state</span><span class="o">:</span><span class="w"> </span><span class="kt">string</span>
+<span class="w">    </span><span class="k">public</span><span class="w"> </span><span class="nx">user_name</span><span class="o">:</span><span class="w"> </span><span class="kt">string</span>
+<span class="w">    </span><span class="k">public</span><span class="w"> </span><span class="nx">discussion_subentry_count</span><span class="o">:</span><span class="w"> </span><span class="kt">number</span>
+<span class="w">    </span><span class="k">public</span><span class="w"> </span><span class="nx">permissions</span><span class="o">:</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="k">public</span><span class="w"> </span><span class="nx">attach</span><span class="o">:</span><span class="w"> </span><span class="kt">boolean</span>
+<span class="w">        </span><span class="k">public</span><span class="w"> </span><span class="nx">update</span><span class="o">:</span><span class="w"> </span><span class="kt">boolean</span>
+<span class="w">        </span><span class="k">public</span><span class="w"> </span><span class="nx">reply</span><span class="o">:</span><span class="w"> </span><span class="kt">boolean</span>
+<span class="w">        </span><span class="k">public</span><span class="w"> </span><span class="nx">delete</span><span class="o">:</span><span class="w"> </span><span class="kt">boolean</span>
+<span class="w">    </span><span class="p">}</span>
+<span class="w">    </span><span class="k">public</span><span class="w"> </span><span class="nx">require_initial_post</span><span class="o">:</span><span class="w"> </span><span class="kt">boolean</span>
+<span class="w">    </span><span class="k">public</span><span class="w"> </span><span class="nx">user_can_see_posts</span><span class="o">:</span><span class="w"> </span><span class="kt">boolean</span>
+<span class="w">    </span><span class="k">public</span><span class="w"> </span><span class="nx">podcast_url</span><span class="o">:</span><span class="w"> </span><span class="kt">string</span>
+<span class="w">    </span><span class="k">public</span><span class="w"> </span><span class="nx">read_state</span><span class="o">:</span><span class="w"> </span><span class="kt">string</span><span class="w"> </span><span class="c1">// read or unread </span>
+<span class="w">    </span><span class="k">public</span><span class="w"> </span><span class="nx">unread_count</span><span class="o">:</span><span class="w"> </span><span class="kt">number</span>
+<span class="w">    </span><span class="k">public</span><span class="w"> </span><span class="nx">subscribed</span><span class="o">:</span><span class="w"> </span><span class="kt">boolean</span>
+<span class="w">    </span><span class="k">public</span><span class="w"> </span><span class="nx">attachments</span><span class="o">:</span><span class="w"> </span><span class="p">[]</span>
+<span class="w">    </span><span class="k">public</span><span class="w"> </span><span class="nx">published</span><span class="o">:</span><span class="w"> </span><span class="kt">boolean</span>
+<span class="w">    </span><span class="k">public</span><span class="w"> </span><span class="nx">can_unpublish</span><span class="o">:</span><span class="w"> </span><span class="kt">boolean</span>
+<span class="w">    </span><span class="k">public</span><span class="w"> </span><span class="nx">locked</span><span class="o">:</span><span class="w"> </span><span class="kt">boolean</span>
+<span class="w">    </span><span class="k">public</span><span class="w"> </span><span class="nx">can_lock</span><span class="o">:</span><span class="w"> </span><span class="kt">boolean</span>
+<span class="w">    </span><span class="k">public</span><span class="w"> </span><span class="nx">comments_disabled</span><span class="o">:</span><span class="w"> </span><span class="kt">boolean</span>
+<span class="w">    </span><span class="k">public</span><span class="w"> </span><span class="nx">author</span><span class="o">:</span><span class="w"> </span><span class="kt">author</span>
+<span class="w">    </span><span class="k">public</span><span class="w"> </span><span class="nx">html_url</span><span class="o">:</span><span class="w"> </span><span class="kt">string</span>
+<span class="w">    </span><span class="k">public</span><span class="w"> </span><span class="nx">url</span><span class="o">:</span><span class="w"> </span><span class="kt">string</span>
+<span class="w">    </span><span class="k">public</span><span class="w"> </span><span class="nx">pinned</span><span class="o">:</span><span class="w"> </span><span class="kt">boolean</span>
+<span class="w">    </span><span class="k">public</span><span class="w"> </span><span class="nx">group_category_id</span><span class="o">:</span><span class="w"> </span><span class="kt">number</span>
+<span class="w">    </span><span class="k">public</span><span class="w"> </span><span class="nx">can_group</span><span class="o">:</span><span class="w"> </span><span class="kt">boolean</span>
+<span class="w">    </span><span class="k">public</span><span class="w"> </span><span class="nx">topic_children</span><span class="o">:</span><span class="w"> </span><span class="kt">number</span><span class="p">[]</span>
+<span class="w">    </span><span class="k">public</span><span class="w"> </span><span class="nx">group_topic_children</span><span class="o">:</span><span class="w"> </span><span class="kt">group_topic_children</span><span class="p">[]</span>
+<span class="w">    </span><span class="k">public</span><span class="w"> </span><span class="nx">locked_for_user</span><span class="o">:</span><span class="w"> </span><span class="kt">boolean</span>
+<span class="w">    </span><span class="k">public</span><span class="w"> </span><span class="nx">message</span><span class="o">:</span><span class="w"> </span><span class="kt">string</span>
+<span class="w">    </span><span class="k">public</span><span class="w"> </span><span class="nx">subscription_hold</span><span class="o">:</span><span class="w"> </span><span class="kt">string</span>
+<span class="w">    </span><span class="k">public</span><span class="w"> </span><span class="nx">todo_date</span><span class="o">:</span><span class="w"> </span><span class="kt">string</span>
+<span class="w">    </span><span class="k">public</span><span class="w"> </span><span class="nx">is_announcement</span><span class="o">:</span><span class="w"> </span><span class="kt">boolean</span>
+<span class="p">}</span>
+
+<span class="kd">interface</span><span class="w"> </span><span class="nx">learningJournalStatus</span><span class="w"> </span><span class="p">{</span>
+<span class="w">    </span><span class="k">public</span><span class="w"> </span><span class="nx">privateJournal</span><span class="w"> </span><span class="o">:</span><span class="w"> </span><span class="kt">boolean</span>
+<span class="w">    </span><span class="k">public</span><span class="w"> </span><span class="nx">completedConfig</span><span class="w"> </span><span class="o">:</span><span class="w"> </span><span class="kt">boolean</span>
+<span class="w">    </span><span class="k">public</span><span class="w"> </span><span class="nx">promptsCreated</span><span class="w"> </span><span class="o">:</span><span class="w"> </span><span class="kt">boolean</span>
+<span class="w">    </span><span class="k">public</span><span class="w"> </span><span class="nx">groupsCreated</span><span class="w"> </span><span class="o">:</span><span class="w"> </span><span class="kt">boolean</span>
+<span class="w">    </span><span class="k">public</span><span class="w"> </span><span class="nx">selfSignUp</span><span class="w"> </span><span class="o">:</span><span class="w"> </span><span class="kt">boolean</span>
+<span class="w">    </span><span class="k">public</span><span class="w"> </span><span class="nx">studentsWithoutGroup</span><span class="w"> </span><span class="o">:</span><span class="w"> </span><span class="kt">boolean</span>
+<span class="w">    </span><span class="k">public</span><span class="w"> </span><span class="nx">multiStudentGroups</span><span class="w"> </span><span class="o">:</span><span class="w"> </span><span class="kt">boolean</span>
+<span class="p">}</span>
+
+<span class="kd">interface</span><span class="w"> </span><span class="nx">groupSets</span><span class="w"> </span><span class="p">{</span>
+<span class="w">    </span><span class="c1">// Canvas API GraphQL</span>
+<span class="w">    </span><span class="k">public</span><span class="w"> </span><span class="nx">id</span><span class="o">:</span><span class="w"> </span><span class="kt">string</span>
+<span class="w">    </span><span class="k">public</span><span class="w"> </span><span class="nx">_id</span><span class="o">:</span><span class="w"> </span><span class="kt">string</span>
+<span class="w">    </span><span class="k">public</span><span class="w"> </span><span class="nx">name</span><span class="o">:</span><span class="w"> </span><span class="kt">string</span>
+<span class="w">    </span><span class="k">public</span><span class="w"> </span><span class="nx">memberLimit</span><span class="o">:</span><span class="w"> </span><span class="kt">string</span>
+<span class="w">    </span><span class="k">public</span><span class="w"> </span><span class="nx">selfSignup</span><span class="o">:</span><span class="w"> </span><span class="kt">string</span>
+<span class="w">    </span><span class="k">public</span><span class="w"> </span><span class="nx">groupsConnection</span><span class="o">:</span><span class="w"> </span><span class="p">{</span><span class="w"> </span><span class="s2">&quot;nodes&quot;</span><span class="w"> </span><span class="o">:</span><span class="w"> </span><span class="nx">group</span><span class="p">[]}</span>
+<span class="w">    </span><span class="k">public</span><span class="w"> </span><span class="nx">groups</span><span class="o">:</span><span class="w"> </span><span class="kt">group</span><span class="p">[]</span>
+<span class="w">    </span><span class="k">public</span><span class="w"> </span><span class="nx">numGroups</span><span class="o">:</span><span class="w"> </span><span class="kt">number</span>
+<span class="w">    </span><span class="k">public</span><span class="w"> </span><span class="nx">numNonPrivateGroups</span><span class="o">:</span><span class="w"> </span><span class="kt">number</span>
+<span class="w">    </span><span class="k">public</span><span class="w"> </span><span class="nx">numStudentsMembersOfGroups</span><span class="o">:</span><span class="w"> </span><span class="kt">number</span>
+<span class="w">    </span><span class="k">public</span><span class="w"> </span><span class="nx">numStudents</span><span class="o">:</span><span class="w"> </span><span class="kt">number</span>
+<span class="w">    </span><span class="k">public</span><span class="w"> </span><span class="nx">discussionTopics</span><span class="o">:</span><span class="w"> </span><span class="kt">discussionTopics</span><span class="p">[]</span>
+<span class="w">        </span><span class="k">public</span><span class="w"> </span><span class="nx">numPrompts</span><span class="o">:</span><span class="w"> </span><span class="kt">number</span><span class="w"> </span>
+<span class="w">    </span><span class="k">public</span><span class="w"> </span><span class="nx">learningJournalStatus</span><span class="o">:</span><span class="w"> </span><span class="kt">learningJournalStatus</span>
+<span class="w">    </span><span class="k">public</span><span class="w"> </span><span class="nx">groupsById</span><span class="o">:</span><span class="w"> </span><span class="p">{</span><span class="w"> </span><span class="p">[</span><span class="nx">key</span><span class="o">:</span><span class="w"> </span><span class="kt">string</span><span class="p">]</span><span class="o">:</span><span class="w"> </span><span class="nx">group</span><span class="w"> </span><span class="p">}</span>
+<span class="w">    </span><span class="k">public</span><span class="w"> </span><span class="nx">discussionTopicsById</span><span class="o">:</span><span class="w"> </span><span class="p">{</span><span class="w"> </span><span class="p">[</span><span class="nx">key</span><span class="o">:</span><span class="w"> </span><span class="kt">string</span><span class="p">]</span><span class="o">:</span><span class="w"> </span><span class="nx">discussionTopics</span><span class="w"> </span><span class="p">}</span>
+<span class="p">}</span>
+
+<span class="kd">interface</span><span class="w"> </span><span class="nx">user</span><span class="w"> </span><span class="p">{</span>
+<span class="w">    </span><span class="k">public</span><span class="w"> </span><span class="nx">_id</span><span class="o">:</span><span class="w"> </span><span class="kt">string</span>
+<span class="w">    </span><span class="k">public</span><span class="w"> </span><span class="nx">name</span><span class="o">:</span><span class="w"> </span><span class="kt">string</span>
+<span class="w">    </span><span class="k">public</span><span class="w"> </span><span class="nx">email</span><span class="o">:</span><span class="w"> </span><span class="kt">string</span>
+<span class="w">    </span><span class="k">public</span><span class="w"> </span><span class="nx">avatarUrl</span><span class="o">:</span><span class="w"> </span><span class="kt">string</span>
+<span class="p">}</span>
+
+
+<span class="kd">class</span><span class="w"> </span><span class="nx">canvasApiData</span>
+<span class="p">{</span>
+<span class="w">    </span><span class="k">public</span><span class="w"> </span><span class="nx">id</span><span class="o">:</span><span class="w"> </span><span class="kt">number</span>
+<span class="w">    </span><span class="k">public</span><span class="w"> </span><span class="nx">name</span><span class="o">:</span><span class="w"> </span><span class="kt">string</span>
+<span class="w">    </span><span class="k">public</span><span class="w"> </span><span class="nx">hostName</span><span class="o">:</span><span class="w"> </span><span class="kt">string</span>
+<span class="w">    </span><span class="k">public</span><span class="w"> </span><span class="nx">updated</span><span class="o">:</span><span class="w"> </span><span class="kt">number</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="mf">0</span><span class="w"> </span><span class="c1">// TODO consider moving to a struct to include percent loaded etc</span>
+<span class="w">    </span><span class="k">public</span><span class="w"> </span><span class="nx">courseCode</span><span class="o">:</span><span class="w"> </span><span class="kt">string</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s1">&#39;&#39;</span>
+<span class="w">    </span><span class="k">public</span><span class="w"> </span><span class="nx">createdAt</span><span class="o">:</span><span class="w"> </span><span class="kt">string</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s1">&#39;&#39;</span><span class="w"> </span><span class="c1">// TODO move to a date type??</span>
+<span class="w">    </span><span class="k">public</span><span class="w"> </span><span class="nx">groupSets</span><span class="o">:</span><span class="w"> </span><span class="kt">groupSet</span><span class="p">[]</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="p">[]</span>
+<span class="w">    </span><span class="k">public</span><span class="w"> </span><span class="nx">groupSetsById</span><span class="o">:</span><span class="w"> </span><span class="p">{</span><span class="w"> </span><span class="p">[</span><span class="nx">key</span><span class="o">:</span><span class="w"> </span><span class="kt">string</span><span class="p">]</span><span class="o">:</span><span class="w"> </span><span class="nx">groupSet</span><span class="w"> </span><span class="p">}</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="p">{}</span>
+<span class="w">    </span><span class="k">public</span><span class="w"> </span><span class="nx">students</span><span class="o">:</span><span class="w"> </span><span class="kt">user</span><span class="p">[]</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="p">[]</span>
+<span class="w">    </span><span class="k">public</span><span class="w"> </span><span class="nx">teachers</span><span class="o">:</span><span class="w"> </span><span class="kt">user</span><span class="p">[]</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="p">[]</span>
+<span class="w">    </span><span class="k">public</span><span class="w"> </span><span class="nx">studentsById</span><span class="o">:</span><span class="w"> </span><span class="p">{</span><span class="w"> </span><span class="p">[</span><span class="nx">key</span><span class="o">:</span><span class="w"> </span><span class="kt">string</span><span class="p">]</span><span class="o">:</span><span class="w"> </span><span class="nx">user</span><span class="w"> </span><span class="p">}</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="p">{}</span>
+<span class="w">    </span><span class="k">public</span><span class="w"> </span><span class="nx">teachersById</span><span class="o">:</span><span class="w"> </span><span class="p">{</span><span class="w"> </span><span class="p">[</span><span class="nx">key</span><span class="o">:</span><span class="w"> </span><span class="kt">string</span><span class="p">]</span><span class="o">:</span><span class="w"> </span><span class="nx">user</span><span class="w"> </span><span class="p">}</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="p">{}</span>
+<span class="w">    </span><span class="k">public</span><span class="w"> </span><span class="nx">discussionTopics</span><span class="o">:</span><span class="w"> </span><span class="kt">discussionTopics</span><span class="p">[]</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="p">[]</span>
+<span class="w">    </span><span class="k">public</span><span class="w"> </span><span class="nx">learningJournalStatus</span><span class="o">:</span><span class="w"> </span><span class="kt">learningJournalStatus</span>
+<span class="p">}</span>
+</code></pre></div>
+
+
+
+
+
+
+
+  
+  
+
+
+
+  
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+    
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+        <div class="md-social">
+  
+    
+    
+      
+    
+    
+    
+      
+      
+    
+    <a href="https://indieweb.social/@djplaner" target="_blank" rel="noopener me" title="indieweb.social" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M433 179.11c0-97.2-63.71-125.7-63.71-125.7-62.52-28.7-228.56-28.4-290.48 0 0 0-63.72 28.5-63.72 125.7 0 115.7-6.6 259.4 105.63 289.1 40.51 10.7 75.32 13 103.33 11.4 50.81-2.8 79.32-18.1 79.32-18.1l-1.7-36.9s-36.31 11.4-77.12 10.1c-40.41-1.4-83-4.4-89.63-54a102.5 102.5 0 0 1-.9-13.9c85.63 20.9 158.65 9.1 178.75 6.7 56.12-6.7 105-41.3 111.23-72.9 9.8-49.8 9-121.5 9-121.5m-75.12 125.2h-46.63v-114.2c0-49.7-64-51.6-64 6.9v62.5h-46.33V197c0-58.5-64-56.6-64-6.9v114.2H90.19c0-122.1-5.2-147.9 18.41-175 25.9-28.9 79.82-30.8 103.83 6.1l11.6 19.5 11.6-19.5c24.11-37.1 78.12-34.8 103.83-6.1 23.71 27.3 18.4 53 18.4 175z"/></svg>
+    </a>
+  
+    
+    
+    
+    
+      
+      
+    
+    <a href="https://github.com/djplaner" target="_blank" rel="noopener" title="github.com" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><!--! Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6m-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3m44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9M244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8M97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1m-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7m32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1m-11.4-14.7c-1.6 1-1.6 3.6 0 5.9s4.3 3.3 5.6 2.3c1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2"/></svg>
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    <script id="__config" type="application/json">{"base": "../..", "features": ["navigation.tabs", "navigation.tabs.sticky", "navigation.instant", "navigation.tracking", "content.tabs.links", "navigation.expand", "navigation.indexes", "navigation.footer", "navigation.sections", "toc.follow", "header.autohide", "search.suggest"], "search": "../../assets/javascripts/workers/search.f8cc74c7.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.f1b6f286.min.js"></script>
+      
+        <script src="../../javascripts/mathjax.js"></script>
+      
+        <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+      
+        <script src="https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js"></script>
+      
+        <script src="../../javascripts/tablesort.js"></script>
+      
+    
+  <script id="init-glightbox">const lightbox = GLightbox({"touchNavigation": true, "loop": false, "zoomable": true, "draggable": true, "openEffect": "zoom", "closeEffect": "zoom", "slideEffect": "slide"});
+document$.subscribe(() => { lightbox.reload() });
+</script></body>
+</html>

@@ -1,0 +1,2359 @@
+<!--
+ Copyright (C) 2023 David Jones
+ 
+ This program is free software: you can redistribute it and/or modify
+ it under the terms of the GNU Affero General Public License as
+ published by the Free Software Foundation, either version 3 of the
+ License, or (at your option) any later version.
+ 
+ This program is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ GNU Affero General Public License for more details.
+ 
+ You should have received a copy of the GNU Affero General Public License
+ along with this program.  If not, see <http://www.gnu.org/licenses/>.
+-->
+
+
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+        <meta name="author" content="David Jones">
+      
+      
+        <link rel="canonical" href="https://djplaner.github.io/memex/share/blog/2023/conceptualising-educational-design.html">
+      
+      
+      
+      
+      <link rel="icon" href="../../../assets/memex.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.6.5">
+    
+    
+      
+        <title>Conceptualising educational design - David's Memex</title>
+      
+    
+    
+    
+      <link rel="stylesheet" href="../../../assets/stylesheets/main.8608ea7d.min.css">
+      
+        
+        <link rel="stylesheet" href="../../../assets/stylesheets/palette.06af60db.min.css">
+      
+      
+
+
+    
+
+    
+    
+      
+    
+   <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+    <script>MathJax = {tex: 
+        {
+            inlineMath: [["$", "$"], ['\\(', '\\)']],
+            displayMath: [['$$', '$$'], ['\\[', '\\]']]
+        }
+     }</script>
+
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../../../stylesheets/extra.css">
+    
+    <script>__md_scope=new URL("../../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+  
+
+
+  
+  
+
+<script id="__analytics">function __md_analytics(){function e(){dataLayer.push(arguments)}window.dataLayer=window.dataLayer||[],e("js",new Date),e("config","G-FRPL9T01XP"),document.addEventListener("DOMContentLoaded",(function(){document.forms.search&&document.forms.search.query.addEventListener("blur",(function(){this.value&&e("event","search",{search_term:this.value})}));document$.subscribe((function(){var t=document.forms.feedback;if(void 0!==t)for(var a of t.querySelectorAll("[type=submit]"))a.addEventListener("click",(function(a){a.preventDefault();var n=document.location.pathname,d=this.getAttribute("data-md-value");e("event","feedback",{page:n,data:d}),t.firstElementChild.disabled=!0;var r=t.querySelector(".md-feedback__note [data-md-value='"+d+"']");r&&(r.hidden=!1)})),t.hidden=!1})),location$.subscribe((function(t){e("config","G-FRPL9T01XP",{page_path:t.pathname})}))}));var t=document.createElement("script");t.async=!0,t.src="https://www.googletagmanager.com/gtag/js?id=G-FRPL9T01XP",document.getElementById("__analytics").insertAdjacentElement("afterEnd",t)}</script>
+  
+    <script>"undefined"!=typeof __md_analytics&&__md_analytics()</script>
+  
+
+    
+    
+    
+   <link href="../../../assets/stylesheets/glightbox.min.css" rel="stylesheet"/><style>
+    html.glightbox-open { overflow: initial; height: 100%; }
+    .gslide-title { margin-top: 0px; user-select: text; }
+    .gslide-desc { color: #666; user-select: text; }
+    .gslide-image img { background: white; }
+    .gscrollbar-fixer { padding-right: 15px; }
+    .gdesc-inner { font-size: 0.75rem; }
+    body[data-md-color-scheme="slate"] .gdesc-inner { background: var(--md-default-bg-color);}
+    body[data-md-color-scheme="slate"] .gslide-title { color: var(--md-default-fg-color);}
+    body[data-md-color-scheme="slate"] .gslide-desc { color: var(--md-default-fg-color);}</style> <script src="../../../assets/javascripts/glightbox.min.js"></script></head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="collections" data-md-color-primary="indigo" data-md-color-accent="indigo">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#conceptualising-education-design-practice---where-do-we-fit" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow md-header--lifted" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../../.." title="David&#39;s Memex" class="md-header__button md-logo" aria-label="David's Memex" data-md-component="logo">
+      
+  <img src="../../../assets/spider_web.png" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            David's Memex
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Conceptualising educational design
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="collections" data-md-color-primary="indigo" data-md-color-accent="indigo"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a4 4 0 0 0-4 4 4 4 0 0 0 4 4 4 4 0 0 0 4-4 4 4 0 0 0-4-4m0 10a6 6 0 0 1-6-6 6 6 0 0 1 6-6 6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12z"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="slate" data-md-color-primary="indigo" data-md-color-accent="indigo"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 18c-.89 0-1.74-.2-2.5-.55C11.56 16.5 13 14.42 13 12s-1.44-4.5-3.5-5.45C10.26 6.2 11.11 6 12 6a6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12z"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+        <div class="md-search__suggest" data-md-component="search-suggest"></div>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+      <div class="md-header__source">
+        <a href="https://github.com/djplaner/memex" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81"/></svg>
+  </div>
+  <div class="md-source__repository">
+    GitHub
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+    
+      
+<nav class="md-tabs" aria-label="Tabs" data-md-component="tabs">
+  <div class="md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../../index.html" class="md-tabs__link">
+          
+  
+    
+  
+  Home
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../../seek/seek.html" class="md-tabs__link">
+          
+  
+    
+  
+  Seek
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../../sense/sense.html" class="md-tabs__link">
+          
+  
+    
+  
+  Sense
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../share.html" class="md-tabs__link">
+          
+  
+    
+  
+  Share
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../../sense/birdwatching/birding.html" class="md-tabs__link">
+          
+  
+    
+  
+  Birding
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../../sense/landscape-garden/gardens.html" class="md-tabs__link">
+          
+  
+    
+  
+  Gardens
+
+        </a>
+      </li>
+    
+  
+
+      
+    </ul>
+  </div>
+</nav>
+    
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+  
+
+
+<nav class="md-nav md-nav--primary md-nav--lifted" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../../.." title="David&#39;s Memex" class="md-nav__button md-logo" aria-label="David's Memex" data-md-component="logo">
+      
+  <img src="../../../assets/spider_web.png" alt="logo">
+
+    </a>
+    David's Memex
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/djplaner/memex" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81"/></svg>
+  </div>
+  <div class="md-source__repository">
+    GitHub
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_1" >
+        
+          
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../../index.html" class="md-nav__link ">
+              
+  
+  <span class="md-ellipsis">
+    Home
+    
+  </span>
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_1" id="__nav_1_label" tabindex="0">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_1_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_1">
+            <span class="md-nav__icon md-icon"></span>
+            Home
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../colophon/colophon.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Colophon
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Seek
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            Seek
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../seek/seek.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Seek
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../seek/seek-triage.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Triage list
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Sense
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            Sense
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../sense/sense.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Sense
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_3_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_3_2" id="__nav_3_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Abstractions
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_2">
+            <span class="md-nav__icon md-icon"></span>
+            Abstractions
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../sense/CASA/bad.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    BAD
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../sense/CASA/casa.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    CASA
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../sense/Bricolage/herding-cats.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Herding Cats
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../sense/CASA/know-thy-student.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Know thy student
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../sense/nodt/nodt.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    nodt
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../sense/Representations/representations.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Representations
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../sense/Sharing-design-knowledge/sharing-design-knowledge.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Sharing design knowledge
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../sense/concepts/concepts.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Concepts
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_3_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_3_4" id="__nav_3_4_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Topics
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_4">
+            <span class="md-nav__icon md-icon"></span>
+            Topics
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../sense/AI/AI.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    AI
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../sense/computing/computing.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Computing
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../sense/Design/design.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Design
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../sense/computing/floss.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    FLOSS/FOSS
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../sense/Learning/learning.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Learning
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../sense/Python/python.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Python
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../sense/relational/relational.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Relational
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../sense/Research/research.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Research
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../sense/Society/society.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Society
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../sense/Web-development/web-development.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Web development
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_3_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_3_5" id="__nav_3_5_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Tasks
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_5">
+            <span class="md-nav__icon md-icon"></span>
+            Tasks
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../sense/Conferences/conferences.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Conferences
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../sense/loose/loose.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Loose
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../sense/Paper-Ideas/paper-ideas.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Paper Ideas
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../sense/Paper-Summaries/paper-summaries.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Paper Summaries
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../sense/Recipes/recipes.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Recipes
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../sense/work/work-categories.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Work
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_3_6" >
+        
+          
+          <label class="md-nav__link" for="__nav_3_6" id="__nav_3_6_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Teaching
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_6">
+            <span class="md-nav__icon md-icon"></span>
+            Teaching
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../sense/Teaching/teaching.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Teaching
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../sense/Quality-and-teaching/quality-and-teaching.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Quality and teaching
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Share
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4">
+            <span class="md-nav__icon md-icon"></span>
+            Share
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../share.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Overview
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../blog-posts.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Blog
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+      
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_5" id="__nav_5_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Birding
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5">
+            <span class="md-nav__icon md-icon"></span>
+            Birding
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../sense/birdwatching/birding.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Birding
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+      
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_6" >
+        
+          
+          <label class="md-nav__link" for="__nav_6" id="__nav_6_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Gardens
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6">
+            <span class="md-nav__icon md-icon"></span>
+            Gardens
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../sense/landscape-garden/gardens.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Gardens
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#chat-with-emma" class="md-nav__link">
+    <span class="md-ellipsis">
+      Chat with Emma
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#start---draft" class="md-nav__link">
+    <span class="md-ellipsis">
+      Start - draft
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#the-educational-design-problem-space-networked-learning-and-design-patterns" class="md-nav__link">
+    <span class="md-ellipsis">
+      The educational design problem space, networked learning, and design patterns
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#evidence-informed-it-planning-procurement-and-evaluation-in-higher-education" class="md-nav__link">
+    <span class="md-ellipsis">
+      Evidence-informed IT planning, procurement, and evaluation in higher education
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#what-went-wrong-with-design-patterns" class="md-nav__link">
+    <span class="md-ellipsis">
+      What went "wrong" with design patterns?
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="What went "wrong" with design patterns?">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#design-systems---another-approach-to-sharing-design" class="md-nav__link">
+    <span class="md-ellipsis">
+      Design systems - another approach to sharing design
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#the-missing-entanglement-of-educational-design-and-development" class="md-nav__link">
+    <span class="md-ellipsis">
+      The missing entanglement of educational design and development?
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#structural-complexity" class="md-nav__link">
+    <span class="md-ellipsis">
+      Structural complexity
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#end-structural-complexity" class="md-nav__link">
+    <span class="md-ellipsis">
+      End structural complexity
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#gather-weave-augment" class="md-nav__link">
+    <span class="md-ellipsis">
+      Gather, weave, augment
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#other-examples-of-gather-weave-augment" class="md-nav__link">
+    <span class="md-ellipsis">
+      Other examples of gather, weave, augment
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#references" class="md-nav__link">
+    <span class="md-ellipsis">
+      References
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+  
+  
+
+
+<!--
+ Copyright (C) 2023 David Jones
+
+ This file is part of memex.
+
+ memex is free software: you can redistribute it and/or modify
+ it under the terms of the GNU General Public License as published by
+ the Free Software Foundation, either version 3 of the License, or
+ (at your option) any later version.
+
+ memex is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ GNU General Public License for more details.
+
+ You should have received a copy of the GNU General Public License
+ along with memex.  If not, see <http://www.gnu.org/licenses/>.
+-->
+
+<h1 id="conceptualising-education-design-practice---where-do-we-fit">Conceptualising education design practice - where do we fit?<a class="headerlink" href="#conceptualising-education-design-practice---where-do-we-fit" title="Permanent link">#</a></h1>
+<p>See also: <a href="/sense/Paper-Summaries/goodyear-patterns-design-practice.html">goodyear-patterns-design-practice</a>, <a href="/sense/concepts/forward-oriented-design.html">forward-oriented-design</a>, <a href="/sense/Design/design.html">design</a>, <a href="/sense/Teaching/teaching.html">teaching</a></p>
+<h2 id="chat-with-emma">Chat with Emma<a class="headerlink" href="#chat-with-emma" title="Permanent link">#</a></h2>
+<p>My aim is to better understand the work they're doing and figure out how I integrate it into my practice.</p>
+<p>Appears to be focused on exploring the if, how, and utility of using Goodyear's conceptualistion of the educational design problem space pedagogical framework to "Evidence-informed IT planning, procurement, and evaluation" - largely drawn from the slide/diagram.</p>
+<p>Questions </p>
+<ul>
+<li>What have I missed from the purpose? </li>
+<li>Where is it up to?</li>
+</ul>
+<h2 id="start---draft">Start - draft<a class="headerlink" href="#start---draft" title="Permanent link">#</a></h2>
+<p>The first line of the abstract for <a href="https://ajet.org.au/index.php/AJET/article/view/1344">Goodyear (2005)</a> is</p>
+<blockquote>
+<p>There is a growing demand for advice about effective, time efficient ways of using ICT to support student learning in higher education.</p>
+</blockquote>
+<p>Almost 20 years later, higher education is still trying solve this problem. </p>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">&quot;Despite the increased use of digital resources and technology along with the desire for increased flexibility, most participants did not agree that faculty had the skills and know-how to effectively deliver courses in multiple modes.&quot; <a href="https://twitter.com/hashtag/highered?src=hash&amp;ref_src=twsrc%5Etfw">#highered</a> <a href="https://t.co/OEVe1PXiqn">https://t.co/OEVe1PXiqn</a></p>&mdash; Neil Mosley (@neilmosley5) <a href="https://twitter.com/neilmosley5/status/1648930246295539713?ref_src=twsrc%5Etfw">April 20, 2023</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<p>Echoing the impression I took away from <a href="https://ajet.org.au/index.php/AJET/article/view/1344">the THETA'2023 conference</a> a couple of weeks ago (apart from all the AI/LLM discussions).  <a href="https://education.uq.edu.au/profile/2054/jason-lodge">Jason Lodge</a> and colleagues presented on work they are doing to build on the work of Goodyear (2005) to inform IT planning, procurement, and evaluation.  <a href="https://www.linkedin.com/in/steven-booten-7b0271205/">Steven Booten</a>, <a href="https://www.linkedin.com/in/cookhenry/">Henry Cook</a>, and I  <a href="https://djon.es/blog/2023/02/09/gathers-weavers-and-augmenters-three-principles-for-dynamic-and-sustainable-delivery-of-quality-learning-and-teaching/">shared our experience</a> from an LMS migration.</p>
+<p>In that presentation, we derived principles which have appear to have broader application in addressing the core problem both Goodyear and Lodge et al were focused on - providing effective and efficient use of digital technologies to support learning and teaching. <strong>something about productivity commission</strong>  The following seeks to explore the relationship between Goodyear (2005), subsequent work from Goodyear and others, and what we're doing.</p>
+<p>TLDR? </p>
+<ul>
+<li>The gather, weave, augment analogy we use is evident in the work of Goodyear and Lodge. </li>
+<li>From a linear education design and development perspective (see <a href="#table-1">Table 1</a>), Goodyear's work focuses on educational design. Lodge et al appear to be coming from design into the early stages of development (procurement of digital tools). Our work is focused explicitly on contextual educational development - working with the available tools in a context.</li>
+<li>Of course, educational design and development is entangled and not linear. We argue that we need to get better at recognising and responding to this reality.</li>
+<li>While we demonstrate the need for our work, it is also evident in Goodyear's other writing, including:<ul>
+<li>McAndrew, Goodyear &amp; Dalziel (2006) identify a weakness of Goodyear's (2005) work in the complexity of implementing design patterns in the LMS (educational development). A task which appears to have only gotten more difficult.</li>
+<li>Goodyear (2009) suggests that gathering and weaving design knowledge into learning and teaching tools as a method for informing design practice.</li>
+</ul>
+</li>
+</ul>
+<p>Leaving the big questions of if/how we do this better and what happens as a result? </p>
+<blockquote>
+<p>The question of where does the following fit?
+- Tim Klapdoor's ASCILITE work
+- qutoe from ASCILITE by the UTS person 
+- ABC learning design stuff</p>
+</blockquote>
+<h2 id="the-educational-design-problem-space-networked-learning-and-design-patterns">The educational design problem space, networked learning, and design patterns<a class="headerlink" href="#the-educational-design-problem-space-networked-learning-and-design-patterns" title="Permanent link">#</a></h2>
+<p>Goodyear's (2005) focus is on networked learning. Defined as learning in which digital technologies are used to promote learner-learner, learner-teacher, learning community-resources connections. It is not just putting materials online or distance learning. The central element is the connectedness, not the digital technologies. To be successful, networked learning required effective design. Educational design is defined and distinguished from educational development as follows.</p>
+<p><em><a id="table-1"></a>Table 1. Definitions of educational design and development (Goodyear, 2015, p. 82)</em></p>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>educational design</td>
+<td>"set of practices involved in constructing representations of how to support learning in particular cases"</td>
+</tr>
+<tr>
+<td>educational development</td>
+<td>"the practices of turning these representations into support of learning (materials, task specifications, tools, etc)"</td>
+</tr>
+</tbody>
+</table>
+<p>While recognising that resources are provided to help teachers with educational design work, Goodyear (2005) that such resources </p>
+<blockquote>
+<p>are (a) hard to relate to one another, and (b) hard to locate in relation to a particular pedagogical framework. Moreover, &copy; it is unusual to find examples and templates constructed in such a way that they capture, and distil the practical implications of, research based knowledge or (d) sit comfortably with the iterative nature of design practice (p. 92).</p>
+</blockquote>
+<p>This critique and his suggested solution draws on the following model (<a href="#figure-1">Figure 1</a> of the problem space of educational design and a description of the typical educational design process typically used by an individual teacher.</p>
+<figure id="figure-1">
+<p><a class="glightbox" href="/memex/images/goodyearEducationDesignProblemSpace.png" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img alt="" src="/memex/images/goodyearEducationDesignProblemSpace.png" /></a>
+<caption>Figure 1: Conceptualising the problem space of educational design (Goodyear, 2005, p. 85)</caption></p>
+</figure>
+<p>Goodyear (2005) suggests that and explains how design patterns and pattern languages for network learning can help address the identified limitations. In particular, Goodyear (2005, p. 92) suggests that design patterns can help educational design by:</p>
+<blockquote>
+<ul>
+<li>Providing the teacher-designer with a comprehensive set of design ideas </li>
+<li>Providing these design ideas in a structured way – so that relations between design components (design patterns) are easy to understand </li>
+<li>Combining a clear articulation of a design problem and a design solution, and offering a rationale which bridges between pedagogical philosophy, research based evidence and experiential knowledge of design </li>
+<li>Encoding this knowledge in such a way that it supports an iterative, fluid, process of design, extending over hours or days.</li>
+</ul>
+</blockquote>
+<h2 id="evidence-informed-it-planning-procurement-and-evaluation-in-higher-education">Evidence-informed IT planning, procurement, and evaluation in higher education<a class="headerlink" href="#evidence-informed-it-planning-procurement-and-evaluation-in-higher-education" title="Permanent link">#</a></h2>
+<p>Jason Lodge and colleagues gave some early insight into on-going work that is leveraging Goodyear's (2005) conceptualisation of the educational design space to inform IT procurement. <a href="#figure-2">Figure 2</a> is a visual representation of their extension. Beyond adding more detail to Goodyear's conceptualisation of the pedagogical framework, it seeks to connect the work of educational design with educational development. Apparently with the intent of ensuring that the result of technology procurement will be fit for purpose.</p>
+<p>Random thoughts
+- done a lot more expanding out the pedagogical framework
+- But perhaps the arrows are too coarse grained
+- And the boxes of the various components of LMS are too blackbox - don't represent the entangled nature</p>
+<figure id="figure-2">
+<p><a class="glightbox" href="/memex/images/lodgeConceptualisingEducationalDesign.png" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img alt="" src="/memex/images/lodgeConceptualisingEducationalDesign.png" /></a>
+<caption>Figure 2: Adapting Goodyear's conceptualisation (Lodge, 2023, slide 45)</caption></p>
+</figure>
+<h2 id="what-went-wrong-with-design-patterns">What went "wrong" with design patterns?<a class="headerlink" href="#what-went-wrong-with-design-patterns" title="Permanent link">#</a></h2>
+<p>There was a lot work in the mid-noughties on learning design patterns work in the mid-noughties (e.g. <a href="http://www2.tisip.no/E-LEN/">the e-LEN project</a> and the <a href="http://www.pedagogicalpatterns.org/">Pedagogical Patterns group</a>). Work inspired by both Alexander's originating work on design patterns in architecture and the adoption of that work by the object-oriented design &amp; programming (OOP) community. As an occasional practitioner in both the OOP and the learning design communities, my observation is that design patterns have been more successfully integrated into the practice of the OOP community. </p>
+<p>Anecdotally, I've not seen anything like this in action over recent years. It doesn't appear to have entered the mainstream.</p>
+<p>McAndrew, Goodyear, and Dalziel (2006) examine three different ways to support educational design with a particular focus on how effectively they may descriptions of learning designs that are useful for creation, re-use, and adaptation. Design patterns are compared with the IMS Learning Design specification and learning activities as used in the Learning Activity Management System (LAMS). The IMS work offers a formal specification for how to describe quite complex learning activities and the roles involved. A specification that can be then used to digitally use, share, and adapt learning activities. LAMS is (was?) a specific information systems that could be used for learning and teaching. Central to LAMS design was the assumption that learning is "people doing activities with resources". It supported design through the sequencing of learning different activities for use by students.</p>
+<p><em><a id="table-2"></a>Table 2. comparing issues in LAMS, IMS Learning Design, and Patterns (adapted from McAndrew et al, 2006, pp. 217--218)</em></p>
+<table>
+<thead>
+<tr>
+<th>Issue/Question</th>
+<th>LAMS</th>
+<th>IMS Learning Design</th>
+<th>Patterns</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Features</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Representation</td>
+<td>Visual sequence flow &amp; embedded text</td>
+<td>XML &amp; UML</td>
+<td>Stylised sequence of expository text</td>
+</tr>
+<tr>
+<td>How do you modify?</td>
+<td>Rearrange visual flow and rework task text.</td>
+<td>Rework XML/UML</td>
+<td>Rework expository text</td>
+</tr>
+<tr>
+<td>How do you aggregate?</td>
+<td>Collect sequences within folders</td>
+<td>Build bigger designs with sub units.</td>
+<td>Create pattern language</td>
+</tr>
+<tr>
+<td><strong>What is missing?</strong></td>
+<td>Pedagogic wizard</td>
+<td>Abstract tool definitions and operational links. Pedagogic wizard.</td>
+<td><strong>Learning Management System (LMS) and the expertise to get the pattern into the LMS</strong></td>
+</tr>
+<tr>
+<td>Users</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Who can easily understand?</td>
+<td>Academic Practitioner with a little technical knowledge</td>
+<td>Technically aware expert</td>
+<td>Academic Practitioner</td>
+</tr>
+<tr>
+<td>What is the minimal prior knowledge for use?</td>
+<td>Some pedagogical knowledge, Some technical knowledge</td>
+<td>Some pedagogic knowledge, high technical ability</td>
+<td>Only pedagogically adept teachers</td>
+</tr>
+<tr>
+<td><strong>What does ideal use require?</strong></td>
+<td>More pedagogic knowledge and technical understanding</td>
+<td>More pedagogic knowledge and technical understanding</td>
+<td><strong>Pedagogically adept teachers linked to moderate technical knowledge</strong></td>
+</tr>
+<tr>
+<td>Characteristics</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Is a creative jump necessary for implementation</td>
+<td>No</td>
+<td>No</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Minimal complexity in design</td>
+<td>Small</td>
+<td>Small</td>
+<td>Great</td>
+</tr>
+<tr>
+<td>Ease of adaptation mid-stream with students</td>
+<td>Hard</td>
+<td>Hard</td>
+<td>Easy (though depends on supporting technology)</td>
+</tr>
+<tr>
+<td>Potential for student participation in creation of design</td>
+<td>Limited – only possible prior to running the design.</td>
+<td>Moderate</td>
+<td>Extensive</td>
+</tr>
+</tbody>
+</table>
+<h3 id="design-systems---another-approach-to-sharing-design">Design systems - another approach to sharing design<a class="headerlink" href="#design-systems---another-approach-to-sharing-design" title="Permanent link">#</a></h3>
+<p>Arising out of web development and user experience (UX) design systems are a way to describe visual and interactive design components in a way that is useful for creation, re-use, and adaptation (Churchill, 2019). Use of design systems intends to help design teams document, share, and communicate to make the design process more efficient and effective (MacDonald, 2019). Werle (2021) argues that a key turning point for design systems was an evolution from being libraries of guidelines followed during design practice into libraries of live artifacts that embody those guidelines but could also be used in development.</p>
+<p>Given the increasing use of web-based systems for networked learning and increased use of design systems to design web-based system it was perhaps only a matter of time before <em>learning design systems</em> were developed. For example, Joyce Seitzinger gave a webinar titled <a href="https://www.youtube.com/watch?v=iBU76mlA0_w"><em>How learning design systems can help scale and accelerate learning design</em></a>. Tim Klapdoor has shared descriptions of the work his team have been doing on <a href="https://timklapdor.wordpress.com/2022/10/27/a-learning-design-system/"><em>A Learning Design System</em></a> and later work on <a href="https://timklapdor.wordpress.com/2022/12/14/design-at-scale/"><em>Design at scale</em></a>. Work that links design systems with a content management system that actively helps in designing lessons (learning experiences?) and in turn draws on <a href="https://learning-patterns.com/">a library of learning patterns</a>. But as Tim notes, work that has been focused on providing his team of learning designers tools to help them do their job effectively.</p>
+<p>The <a href="https://learning-patterns.com">library learning patterns</a> from Tim's group don't follow the <em>Alexandrian</em> format outlined in Goodyear (2015). Hence, don't explicitly provide advice covering the <em>pedagogical framework</em> section in <a href="#figure-1">Figure 1</a>. One assumes because they have been initially designed to help learning designers - folk generally expected to have some expertise in this area - rather than teachers. However, that absence may still limit the sharing/communicative aspects of design patterns amongst the designers.</p>
+<p><a href="https://djon.es/blog/2020/11/16/reflections-on-how-learning-design-systems-can-help-scale-and-accelerate-learning-design/#is-it-just-a-better-conceptualised-version-of-common-practice">In my limited experience</a>, I've also not seen any design system that implements fully Werle's (2021) key turning point for design systems. That is, include libraries of live artifacts that can be used in development. At least <a href="https://storybook.futurelearn.com/?path=/story/welcome--page">one example design system</a> provides components for this purpose but they demonstrate the origins of design systems by focusing on user interface design, rather than learning design. This may say more about the limits of my experience. It may be related to the initial work on design systems being focused on helping learning designers engage in educational design. Development is still coming?</p>
+<h2 id="the-missing-entanglement-of-educational-design-and-development">The missing entanglement of educational design and development?<a class="headerlink" href="#the-missing-entanglement-of-educational-design-and-development" title="Permanent link">#</a></h2>
+<p>It's fairly typical for educational design and development (as defined in <a href="#table-1">Table 1</a>) to be treated separately both in practice and research
+The work that Steven, Henry and I have been doing is dealing with the entanglement of educational design and development. </p>
+<p>In fact, the definition of design patterns is that they are abstract descriptions of a design that can be implemented in many different, contextually appropriate ways...<em>lead to weakness</em></p>
+<p><strong>refenrece paper on learning objects</strong></p>
+<h2 id="structural-complexity">Structural complexity<a class="headerlink" href="#structural-complexity" title="Permanent link">#</a></h2>
+<p>Goodyear and Carvalho (2016)</p>
+<blockquote>
+<p>So the challenge comes from numbers and a structural complexity that arises – in large part – from the freedom that people have to distribute their activity across a wide number of platforms and spaces</p>
+</blockquote>
+<p>Following on from that gather/weave comment, came across the following quote from ⁠<a href="http://www.networkedlearningconference.org.uk/abstracts/pdf/P16.pdf" title="http://www.networkedlearningconference.org.uk/abstracts/pdf/P16.pdf">Goodyear &amp; Carvahlo</a>, which is useful in our context.  In particular and from a somewhat technical perspective, this echoes the challenge of moving from the single LMS to the Griffith VLE (i.e. an ecosystem of tools). A shift from the ⁠<a href="https://djon.es/blog/2009/08/31/product-models-lms-bob-and-alternatives/" title="https://djon.es/blog/2009/08/31/product-models-lms-bob-and-alternatives/">integrated approach to a best of breed approach</a> which has literature echoing back to 2001 which identified one of the challenges of this shift - integration of applications is time consuming.   i.e. the structural complexity has increased.</p>
+<h2 id="end-structural-complexity">End structural complexity<a class="headerlink" href="#end-structural-complexity" title="Permanent link">#</a></h2>
+<p>The question is, does this approach work?</p>
+<p>Goodyear (2005) mentions the use of patterns by the object-oriented programming (OOPs) crowd as an example of another discipline adopting Alexander's architectural design patterns work. While not universal, design patterns remain fairly widely used by the OOPs community. Much more so than in higher education learning and teaching. Why?</p>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;"></th>
+<th style="text-align: left;">OOP</th>
+<th style="text-align: left;">Higher Ed L&amp;T</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">Design, develop, maintain</td>
+<td style="text-align: left;">Software applications</td>
+<td style="text-align: left;">L&amp;T environments &amp; activities</td>
+</tr>
+<tr>
+<td style="text-align: left;">Practitioner</td>
+<td style="text-align: left;">Primarily OO programmers</td>
+<td style="text-align: left;">Primarily teaching staff</td>
+</tr>
+<tr>
+<td style="text-align: left;">Practitioner purpose</td>
+<td style="text-align: left;">OO programming</td>
+<td style="text-align: left;">Research etc, maybe L&amp;T</td>
+</tr>
+<tr>
+<td style="text-align: left;">Practitioner expertise</td>
+<td style="text-align: left;">OO programming</td>
+<td style="text-align: left;">Disciplinary, bit of L&amp;T etc</td>
+</tr>
+<tr>
+<td style="text-align: left;">Support tools</td>
+<td style="text-align: left;">Integrated development environments</td>
+<td style="text-align: left;">Ad hoc collection of institutional tools with only a few integrated</td>
+</tr>
+<tr>
+<td style="text-align: left;">Focus on improving</td>
+<td style="text-align: left;">Developer experience</td>
+<td style="text-align: left;"><strong>Student experience</strong></td>
+</tr>
+</tbody>
+</table>
+<p>Perhaps it is because the translation of the design problem into practice/artefact is more straight forward and consistent in OO programming than higher ed L&amp;T. In OO programming, the design pattern the software developer translates it into code (that can be tested etc) using increasingly fairly common integrated development practices and tools.  Knowledge of those practices and tools are seen as fairly central to the expertise of the software developer. Software development itself has quite an explicit focus on improving the developer experience. On the other hand, in higher ed L&amp;T translating a design pattern into a learning environment relies on the complex gathering and weaving of of whatever random collection of physical/digital tools and processes within their individual institution. This complex gathering and weaving is not typically seen as central to the expertise of the practitioner. Often quite the opposite. Also, there is typically no on-going focus on "teacher experience" that echoes the focus on the "developer experience".</p>
+<ul>
+<li>THETA presentation - Henry, Steven and I </li>
+<li>Jason Lodge and colleagues were wondering how to weave "what we know about learning" into we do and was harking back to Goodyear (2005)</li>
+<li>If/how does our work fit/relate</li>
+</ul>
+<h2 id="gather-weave-augment">Gather, weave, augment<a class="headerlink" href="#gather-weave-augment" title="Permanent link">#</a></h2>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;"><a class="glightbox" href="/memex/images/gatherWeaveAugment.png" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img alt="" src="/memex/images/gatherWeaveAugment.png" /></a></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;"><em>Adapting, the adaptation to include gather, weave &amp; augment</em></td>
+</tr>
+</tbody>
+</table>
+<p>Link this to
+- and also the idea of the typology of scale idea
+- Ahn et al (2019) - design in context
+- Ellis &amp; Goodyear (2019) - "research practice partnership" stuff</p>
+<p>But still need to spread it to the teachers and the students</p>
+<h2 id="other-examples-of-gather-weave-augment">Other examples of gather, weave, augment<a class="headerlink" href="#other-examples-of-gather-weave-augment" title="Permanent link">#</a></h2>
+<ul>
+<li>
+<p><a href="https://oudigitools.blogspot.com/2020/03/feedback-student-to-student-advice.html">Student to student advice</a></p>
+<p>Describing how one teacher evolved how she gathered and wove student-to-student advice for her course over time. Largely achieved using tools outside the institutional LMS, but also visible through that LMS.
+- <a href="https://www.rmit.edu.au/news/next-in-teaching/the-story-of-emble">Emble</a></p>
+<p>RMIT developed tool to help educators gather and weave visual design knowledge to augment pages in Canvas course sites.</p>
+</li>
+<li>
+<p>various other Canvas community stuff</p>
+</li>
+</ul>
+<h2 id="references">References<a class="headerlink" href="#references" title="Permanent link">#</a></h2>
+<p>Ahn, J., Campos, F., Hays, M., &amp; Digiacomo, D. (2019). Designing in Context: Reaching Beyond Usability in Learning Analytics Dashboard Design. <em>Journal of Learning Analytics</em>, <em>6</em>(2), 70-85-70--85. <a href="https://doi.org/10.18608/jla.2019.62.5">https://doi.org/10.18608/jla.2019.62.5</a></p>
+<p>Churchill, E. F. (2019). Scaling UX with design systems. <em>Interactions</em>, <em>26</em>(5), 22--23. <a href="https://doi.org/10.1145/3352681">https://doi.org/10.1145/3352681</a></p>
+<p>Goodyear, P., &amp; Carvalho, L. (2016). Activity centred analysis and design in the evolution of learning networks. <em>10<sup>th</sup> International Conference on Networked Learning</em>. <a href="http://www.networkedlearningconference.org.uk/abstracts/pdf/P16.pdf">http://www.networkedlearningconference.org.uk/abstracts/pdf/P16.pdf</a></p>
+<p>Inventado, P. S., Scupelli, P., Heffernan, C., &amp; Heffernan, N. (2017). Feedback Design Patterns for Math Online Learning Systems. <em>Proceedings of the 22<sup>nd</sup> European Conference on Pattern Languages of Programs</em>, 1--15. <a href="https://doi.org/10.1145/3147704.3147738">https://doi.org/10.1145/3147704.3147738</a></p>
+<p>MacDonald, D. (2019). Patterns in design systems. In D. MacDonald (Ed.), <em>Practical UI Patterns for Design Systems: Fast-Track Interaction Design for a Seamless User Experience</em> (pp. 143--192). Apress. <a href="https://doi.org/10.1007/978-1-4842-4938-3_4">https://doi.org/10.1007/978-1-4842-4938-3_4</a></p>
+<p>McAndrew, P., Goodyear, P., &amp; Dalziel, J. (2006). Patterns, designs and activities: Unifying descriptions of learning structures. <em>International Journal of Learning Technology</em>, <em>2</em>(2--3), 216--242. <a href="https://doi.org/10.1504/IJLT.2006.010632">https://doi.org/10.1504/IJLT.2006.010632</a></p>
+<p>Naimi-Akbar, I., Weurlander, M., &amp; Barman, L. (2023). Teaching-learning in virtual learning environments: A matter of forced compromises away from student-centredness? <em>Teaching in Higher Education</em>, <em>0</em>(0), 1--17. <a href="https://doi.org/10.1080/13562517.2023.2201674">https://doi.org/10.1080/13562517.2023.2201674</a></p>
+<p>Werle, D. R. (2021). <em>Design Systems: Definitions and Main Elelments</em> [Masters, Tallinn University]. <a href="https://www.idmaster.eu/wp-content/uploads/2022/01/Daniel-Werle-thesis-Vdrw-2.pdf">https://www.idmaster.eu/wp-content/uploads/2022/01/Daniel-Werle-thesis-Vdrw-2.pdf</a></p>
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+    
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+        <div class="md-social">
+  
+    
+    
+      
+    
+    
+    
+      
+      
+    
+    <a href="https://indieweb.social/@djplaner" target="_blank" rel="noopener me" title="indieweb.social" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M433 179.11c0-97.2-63.71-125.7-63.71-125.7-62.52-28.7-228.56-28.4-290.48 0 0 0-63.72 28.5-63.72 125.7 0 115.7-6.6 259.4 105.63 289.1 40.51 10.7 75.32 13 103.33 11.4 50.81-2.8 79.32-18.1 79.32-18.1l-1.7-36.9s-36.31 11.4-77.12 10.1c-40.41-1.4-83-4.4-89.63-54a102.5 102.5 0 0 1-.9-13.9c85.63 20.9 158.65 9.1 178.75 6.7 56.12-6.7 105-41.3 111.23-72.9 9.8-49.8 9-121.5 9-121.5m-75.12 125.2h-46.63v-114.2c0-49.7-64-51.6-64 6.9v62.5h-46.33V197c0-58.5-64-56.6-64-6.9v114.2H90.19c0-122.1-5.2-147.9 18.41-175 25.9-28.9 79.82-30.8 103.83 6.1l11.6 19.5 11.6-19.5c24.11-37.1 78.12-34.8 103.83-6.1 23.71 27.3 18.4 53 18.4 175z"/></svg>
+    </a>
+  
+    
+    
+    
+    
+      
+      
+    
+    <a href="https://github.com/djplaner" target="_blank" rel="noopener" title="github.com" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><!--! Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6m-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3m44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9M244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8M97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1m-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7m32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1m-11.4-14.7c-1.6 1-1.6 3.6 0 5.9s4.3 3.3 5.6 2.3c1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2"/></svg>
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    <script id="__config" type="application/json">{"base": "../../..", "features": ["navigation.tabs", "navigation.tabs.sticky", "navigation.instant", "navigation.tracking", "content.tabs.links", "navigation.expand", "navigation.indexes", "navigation.footer", "navigation.sections", "toc.follow", "header.autohide", "search.suggest"], "search": "../../../assets/javascripts/workers/search.f8cc74c7.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
+    
+    
+      <script src="../../../assets/javascripts/bundle.f1b6f286.min.js"></script>
+      
+        <script src="../../../javascripts/mathjax.js"></script>
+      
+        <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+      
+        <script src="https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js"></script>
+      
+        <script src="../../../javascripts/tablesort.js"></script>
+      
+    
+  <script id="init-glightbox">const lightbox = GLightbox({"touchNavigation": true, "loop": false, "zoomable": true, "draggable": true, "openEffect": "zoom", "closeEffect": "zoom", "slideEffect": "slide"});
+document$.subscribe(() => { lightbox.reload() });
+</script></body>
+</html>

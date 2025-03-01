@@ -1,0 +1,2276 @@
+<!--
+ Copyright (C) 2023 David Jones
+ 
+ This program is free software: you can redistribute it and/or modify
+ it under the terms of the GNU Affero General Public License as
+ published by the Free Software Foundation, either version 3 of the
+ License, or (at your option) any later version.
+ 
+ This program is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ GNU Affero General Public License for more details.
+ 
+ You should have received a copy of the GNU Affero General Public License
+ along with this program.  If not, see <http://www.gnu.org/licenses/>.
+-->
+
+
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+        <meta name="author" content="David Jones">
+      
+      
+        <link rel="canonical" href="https://djplaner.github.io/memex/share/blog/2022/orchestrating-entangled-relations.html">
+      
+      
+      
+      
+      <link rel="icon" href="../../../assets/memex.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.6.5">
+    
+    
+      
+        <title>Orchestrating entangled relations - David's Memex</title>
+      
+    
+    
+    
+      <link rel="stylesheet" href="../../../assets/stylesheets/main.8608ea7d.min.css">
+      
+        
+        <link rel="stylesheet" href="../../../assets/stylesheets/palette.06af60db.min.css">
+      
+      
+
+
+    
+
+    
+    
+      
+    
+   <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+    <script>MathJax = {tex: 
+        {
+            inlineMath: [["$", "$"], ['\\(', '\\)']],
+            displayMath: [['$$', '$$'], ['\\[', '\\]']]
+        }
+     }</script>
+
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../../../stylesheets/extra.css">
+    
+    <script>__md_scope=new URL("../../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+  
+
+
+  
+  
+
+<script id="__analytics">function __md_analytics(){function e(){dataLayer.push(arguments)}window.dataLayer=window.dataLayer||[],e("js",new Date),e("config","G-FRPL9T01XP"),document.addEventListener("DOMContentLoaded",(function(){document.forms.search&&document.forms.search.query.addEventListener("blur",(function(){this.value&&e("event","search",{search_term:this.value})}));document$.subscribe((function(){var t=document.forms.feedback;if(void 0!==t)for(var a of t.querySelectorAll("[type=submit]"))a.addEventListener("click",(function(a){a.preventDefault();var n=document.location.pathname,d=this.getAttribute("data-md-value");e("event","feedback",{page:n,data:d}),t.firstElementChild.disabled=!0;var r=t.querySelector(".md-feedback__note [data-md-value='"+d+"']");r&&(r.hidden=!1)})),t.hidden=!1})),location$.subscribe((function(t){e("config","G-FRPL9T01XP",{page_path:t.pathname})}))}));var t=document.createElement("script");t.async=!0,t.src="https://www.googletagmanager.com/gtag/js?id=G-FRPL9T01XP",document.getElementById("__analytics").insertAdjacentElement("afterEnd",t)}</script>
+  
+    <script>"undefined"!=typeof __md_analytics&&__md_analytics()</script>
+  
+
+    
+    
+    
+   <link href="../../../assets/stylesheets/glightbox.min.css" rel="stylesheet"/><style>
+    html.glightbox-open { overflow: initial; height: 100%; }
+    .gslide-title { margin-top: 0px; user-select: text; }
+    .gslide-desc { color: #666; user-select: text; }
+    .gslide-image img { background: white; }
+    .gscrollbar-fixer { padding-right: 15px; }
+    .gdesc-inner { font-size: 0.75rem; }
+    body[data-md-color-scheme="slate"] .gdesc-inner { background: var(--md-default-bg-color);}
+    body[data-md-color-scheme="slate"] .gslide-title { color: var(--md-default-fg-color);}
+    body[data-md-color-scheme="slate"] .gslide-desc { color: var(--md-default-fg-color);}</style> <script src="../../../assets/javascripts/glightbox.min.js"></script></head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="collections" data-md-color-primary="indigo" data-md-color-accent="indigo">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#introduction" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow md-header--lifted" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../../.." title="David&#39;s Memex" class="md-header__button md-logo" aria-label="David's Memex" data-md-component="logo">
+      
+  <img src="../../../assets/spider_web.png" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            David's Memex
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Orchestrating entangled relations
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="collections" data-md-color-primary="indigo" data-md-color-accent="indigo"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a4 4 0 0 0-4 4 4 4 0 0 0 4 4 4 4 0 0 0 4-4 4 4 0 0 0-4-4m0 10a6 6 0 0 1-6-6 6 6 0 0 1 6-6 6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12z"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="slate" data-md-color-primary="indigo" data-md-color-accent="indigo"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 18c-.89 0-1.74-.2-2.5-.55C11.56 16.5 13 14.42 13 12s-1.44-4.5-3.5-5.45C10.26 6.2 11.11 6 12 6a6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12z"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+        <div class="md-search__suggest" data-md-component="search-suggest"></div>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+      <div class="md-header__source">
+        <a href="https://github.com/djplaner/memex" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81"/></svg>
+  </div>
+  <div class="md-source__repository">
+    GitHub
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+    
+      
+<nav class="md-tabs" aria-label="Tabs" data-md-component="tabs">
+  <div class="md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../../index.html" class="md-tabs__link">
+          
+  
+    
+  
+  Home
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../../seek/seek.html" class="md-tabs__link">
+          
+  
+    
+  
+  Seek
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../../sense/sense.html" class="md-tabs__link">
+          
+  
+    
+  
+  Sense
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../share.html" class="md-tabs__link">
+          
+  
+    
+  
+  Share
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../../sense/birdwatching/birding.html" class="md-tabs__link">
+          
+  
+    
+  
+  Birding
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../../sense/landscape-garden/gardens.html" class="md-tabs__link">
+          
+  
+    
+  
+  Gardens
+
+        </a>
+      </li>
+    
+  
+
+      
+    </ul>
+  </div>
+</nav>
+    
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+  
+
+
+<nav class="md-nav md-nav--primary md-nav--lifted" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../../.." title="David&#39;s Memex" class="md-nav__button md-logo" aria-label="David's Memex" data-md-component="logo">
+      
+  <img src="../../../assets/spider_web.png" alt="logo">
+
+    </a>
+    David's Memex
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/djplaner/memex" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81"/></svg>
+  </div>
+  <div class="md-source__repository">
+    GitHub
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_1" >
+        
+          
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../../index.html" class="md-nav__link ">
+              
+  
+  <span class="md-ellipsis">
+    Home
+    
+  </span>
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_1" id="__nav_1_label" tabindex="0">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_1_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_1">
+            <span class="md-nav__icon md-icon"></span>
+            Home
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../colophon/colophon.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Colophon
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Seek
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            Seek
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../seek/seek.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Seek
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../seek/seek-triage.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Triage list
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Sense
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            Sense
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../sense/sense.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Sense
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_3_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_3_2" id="__nav_3_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Abstractions
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_2">
+            <span class="md-nav__icon md-icon"></span>
+            Abstractions
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../sense/CASA/bad.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    BAD
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../sense/CASA/casa.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    CASA
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../sense/Bricolage/herding-cats.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Herding Cats
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../sense/CASA/know-thy-student.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Know thy student
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../sense/nodt/nodt.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    nodt
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../sense/Representations/representations.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Representations
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../sense/Sharing-design-knowledge/sharing-design-knowledge.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Sharing design knowledge
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../sense/concepts/concepts.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Concepts
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_3_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_3_4" id="__nav_3_4_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Topics
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_4">
+            <span class="md-nav__icon md-icon"></span>
+            Topics
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../sense/AI/AI.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    AI
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../sense/computing/computing.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Computing
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../sense/Design/design.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Design
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../sense/computing/floss.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    FLOSS/FOSS
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../sense/Learning/learning.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Learning
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../sense/Python/python.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Python
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../sense/relational/relational.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Relational
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../sense/Research/research.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Research
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../sense/Society/society.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Society
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../sense/Web-development/web-development.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Web development
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_3_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_3_5" id="__nav_3_5_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Tasks
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_5">
+            <span class="md-nav__icon md-icon"></span>
+            Tasks
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../sense/Conferences/conferences.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Conferences
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../sense/loose/loose.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Loose
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../sense/Paper-Ideas/paper-ideas.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Paper Ideas
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../sense/Paper-Summaries/paper-summaries.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Paper Summaries
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../sense/Recipes/recipes.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Recipes
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../sense/work/work-categories.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Work
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_3_6" >
+        
+          
+          <label class="md-nav__link" for="__nav_3_6" id="__nav_3_6_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Teaching
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_6">
+            <span class="md-nav__icon md-icon"></span>
+            Teaching
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../sense/Teaching/teaching.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Teaching
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../sense/Quality-and-teaching/quality-and-teaching.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Quality and teaching
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Share
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4">
+            <span class="md-nav__icon md-icon"></span>
+            Share
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../share.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Overview
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../blog-posts.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Blog
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+      
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_5" id="__nav_5_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Birding
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5">
+            <span class="md-nav__icon md-icon"></span>
+            Birding
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../sense/birdwatching/birding.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Birding
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+      
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_6" >
+        
+          
+          <label class="md-nav__link" for="__nav_6" id="__nav_6_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Gardens
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6">
+            <span class="md-nav__icon md-icon"></span>
+            Gardens
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../sense/landscape-garden/gardens.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Gardens
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#introduction" class="md-nav__link">
+    <span class="md-ellipsis">
+      Introduction
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#connect-the-lms-with-an-ecosystem-of-tools-using-the-lti-standard" class="md-nav__link">
+    <span class="md-ellipsis">
+      Connect the LMS with an ecosystem of tools using the LTI standard
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Connect the LMS with an ecosystem of tools using the LTI standard">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#wrong-purpose-no-relationship-manual-assemblage" class="md-nav__link">
+    <span class="md-ellipsis">
+      Wrong purpose, no relationship, manual assemblage
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#orchestrating-the-relationships-into-a-semi-automated-assemblage" class="md-nav__link">
+    <span class="md-ellipsis">
+      Orchestrating the relationships into a semi-automated assemblage
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#moving-content-from-one-lms-to-another-using-the-common-cartridge-standard" class="md-nav__link">
+    <span class="md-ellipsis">
+      Moving content from one LMS to another using the common cartridge standard
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Moving content from one LMS to another using the common cartridge standard">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#migrating-content-without-knowing-anything-about-it-or-how-it-should-end-up" class="md-nav__link">
+    <span class="md-ellipsis">
+      Migrating content without knowing anything about it or how it should end up
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#driving-the-car-migration-scaffolded-by-re-entangling-knowledge-of-source-and-destination-structure" class="md-nav__link">
+    <span class="md-ellipsis">
+      Driving the CAR: Migration scaffolded by re-entangling knowledge of source and destination structure
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#to-make-teaching-and-learning-easier-using-a-vanilla-lms" class="md-nav__link">
+    <span class="md-ellipsis">
+      "to make teaching and learning easier" using a vanilla LMS.
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label=""to make teaching and learning easier" using a vanilla LMS.">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#using-a-overly-linear-visually-unappealing-context-free-generic-tool-constrained-by-the-vendor" class="md-nav__link">
+    <span class="md-ellipsis">
+      Using a overly linear, visually unappealing, context-free, generic tool constrained by the vendor
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#canvas-collections-injecting-context-visual-design-and-alternatives-into-the-canvas-modules-page" class="md-nav__link">
+    <span class="md-ellipsis">
+      Canvas Collections: Injecting context, visual design, and alternatives into the Canvas' modules page
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#references" class="md-nav__link">
+    <span class="md-ellipsis">
+      References
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+  
+  
+
+
+  <h1>Orchestrating entangled relations</h1>
+
+<div class="highlight"><pre><span></span><code><span class="n">post_title</span><span class="o">=</span><span class="s1">&#39;Orchestrating entangled relations to break the iron triangle: examples from a LMS migration&#39;</span>
+<span class="n">layout</span><span class="o">=</span><span class="s2">&quot;post&quot;</span>
+<span class="n">published</span><span class="o">=</span><span class="kc">true</span>
+<span class="n">id</span><span class="o">=</span><span class="mi">18226</span>
+<span class="n">link</span><span class="o">=</span><span class="s2">&quot;https://djon.es/blog/2022/07/03/orchestrating-entangled-relations-to-break-the-iron-triangle-examples-from-a-lms-migration&quot;</span>
+<span class="n">category</span><span class="o">=</span><span class="s2">&quot;casa&quot;</span>
+<span class="n">img_base_url</span><span class="o">=</span><span class="s2">&quot;https://djplaner.github.io/memex/share/blog/2022/&quot;</span>
+</code></pre></div>
+<h2 id="introduction">Introduction<a class="headerlink" href="#introduction" title="Permanent link">#</a></h2>
+<p>All university strategies for learning and teaching by necessity are variations on maximising to different levels accessibility (as many people as possible can participate - feel the scale - in as many ways as possible), quality (it's good), and cost effectiveness (it's cheap to produce and offer). Seeking to maximise all three is argued by Ryan et al (2021) as a "key issue for contemporary higher education" (p. 1383) due to inevitable cost constraints, the benefits of increased access to higher education, and requirements to maintain quality standards. However, the literature on the "iron triangle" in higher education formed by these three vectors (Daniel et al, 2009; Mulder, 2013; Ryan et al, 2021) suggests that maximising all three is difficult, if not impossible. As illustrated in Figure 1 (adapted from Mulder, 2013, p. 100), the iron triangle suggests that changes in one quality (e.g. changing accessibility due to COVID) will have negatively impact at least one of the other qualities (e.g. the COVID response involving increase in workload for staff and resulting in less than happy participants). </p>
+<table>
+<thead>
+<tr>
+<th>Figure 1: Illustrating the iron triangle (adapted from Mulder, 2013, p. 100)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a class="glightbox" href="/memex/images/mulder-iron-triangle.png" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img alt="Illustration of the iron triangle" src="/memex/images/mulder-iron-triangle.png" /></a></td>
+</tr>
+</tbody>
+</table>
+<p>Much of the iron triangle literature identifies different strategies to breaking the iron triangle. Mulder (2013) suggests OER. Daniel et al (2009) suggest open and distance eLearning. Ryan et al (2021) suggest high-quality large group teaching and learning; alternative curriculum structures; and automation of assessment and feedback. I'm not convinced that any of these will work. Not due to the inherent validity of the specific solutions (though there are questions), instead my doubts arise from how such suggestions would be implemented in contemporary higher education. Each would be implemented via variations on common methods. My suspicion is that these  methods are likely to hinder any attempts to break the iron triangle. </p>
+<p>Largely because those methods are based on atomistic, and deterministic understandings of education, technology, and organisations. The standard methods - based on practices like <a href="http://sunnyday.mit.edu/16.355/wirth-refinement.html">stepwise refinement</a> and <a href="https://en.wikipedia.org/wiki/Loose_coupling">loose coupling</a> - may be necessary but aren't sufficient for breaking the iron triangle. These methods decompose problems into smaller black boxes (e.g. <a href="/sense/Design/pedagogy-before-technology.html">pedagogy-before-technology</a>, requirements and implementation; enrolment, finance, and HR; learning objects etc.) for easier and separate resolution and assume that solving larger problems (e.g. designing a quality learning experience or migrating to a new LMS) is simply a matter of assembling a solution by combining component black boxes like lego blocks. Entangled views of pedagogy (Fawns, 2022), educational technology (Dron, 2022), and <a href="https://djon.es/blog/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/#how-you-see-the-world-distributed-or-tree-like">associated "distributed" views (Jones and Clark, 2014)</a> argue that atomistic views are naive and simply don't match the reality of learning and teaching. Relying on such views to break the iron triangle appears unlikely to work.</p>
+<p>We're in the process of migrating from Blackboard Learn to Canvas. I work with one part of an institution responsible for migrating some 1400 courses (some with multiple course sites) over 18 months. An LMS migration "is one of the most complex and labor-intensive initiatives that a university might undertake" (Cottam, 2021, p. 66). Hence much of the organisation is expending effort to make sure it succeeds. This includes enterprise information technology players such as the new LMS vendor, our organisational IT division, and various other enterprise systems and practices. The following seeks to illustrate the mismatch between these practices and what we have to actually do as part of an LMS migration. The three standard LMS migration tasks discussed are:</p>
+<ol>
+<li>Connect the LMS with an ecosystem of tools using the <a href="https://www.imsglobal.org/lti-advantage-overview">Learning Tools Interoperability (LTI) standard</a>.</li>
+<li>Moving content from one LMS to another using the <a href="https://www.imsglobal.org/activity/common-cartridge">common cartridge standard</a>.</li>
+<li><a href="https://www.instructure.com/en-gb/canvas/resources/home/canvas-lms-adopted-by-teachers-and-students-worldwide">"to make teaching and learning easier"</a> using a vanilla LMS.</li>
+</ol>
+<p>The following shares the challenges we faced as each of these standardised black boxes fell short. Each were so disconnected from our context and purpose to require significant manual re-entanglement to even approach being fit-for-purpose. Rather than persevere with an inefficient, manual approach to re-entanglement we did what many, many project teams have done before. We leveraged digital technologies to help automate the re-entanglement of these context-free and purposeless black boxes into fit-for-purpose assemblages that were more efficient, effective, and provided a foundation for on-going improvement and practice. Importantly, a key part of this re-entanglement was injecting some knowledge of learning design. Our improved assemblages are described below. </p>
+<p>What we're doing is not new. In the information systems literature it has been labelled light-weight Information Technology (IT) development, which Bygstad (2017) defines as "a socio-technical knowledge regime driven by competent users' need for solutions, enabled by the consumerisation of digital technology, and realized through innovation processes" (p. 181). Light-weight IT development is how users leverage technology to orchestrate the entangled relations into contextually appropriate assemblages to solve their own needs. Rather than the generic, context and purpose free problems solved by the black boxes of heavyweight IT.</p>
+<p>These "light-weight IT" practices aren't new in universities or learning and teaching. Pre-designed templates for the LMS(Perämäki, 2021) are an increasingly common, simple example. The common practice within the Canvas community of <a href="https://community.canvaslms.com/t5/Canvas-Developers-Group/UserScript-development-help-request/td-p/119615">developing and sharing userscripts</a> or <a href="https://github.com/search?q=canvas+instructure+python">sharing Python code</a> are examples. A more surprising examples is that many Universities have significant enterprise projects in the form of <a href="https://en.wikipedia.org/wiki/Robotic_process_automation">Robotic Process Automation (RPA)</a> (e.g. the <a href="https://www.automationanywhere.com/resources/customer-stories/university-of-melbourne">University of Melbourne</a>, the <a href="https://services.anu.edu.au/information-technology/software-systems/robotic-process-automation">Australian National University</a>, <a href="https://intranet.secure.griffith.edu.au/work/robotic-process-automation">Griffith University</a>, and the <a href="https://www.uipath.com/resources/automation-case-studies/university-of-auckland">University of Auckland</a>). RPA is a poster child example of lightweight IT development. These significant enterprise RPA projects are designed to develop the capability to more efficiently and effectively re-entangle the black boxes of enterprise IT. But to date universities appear to be focusing RPA efforts on administrative processes such as HR, Finance, and student enrolment. I'm not aware of any evidence of institutional projects explicitly focused on applying these methods to learning and teaching. Instead, leaving it to us tinkerers.</p>
+<p>The argument here is that more effective orchestration of entangled relations will be a necessary (though not sufficient) enabler for breaking the iron triangle in learning and teaching. On-going reliance on the black-boxes of heavyweight IT will be a barrier to breaking the iron triangle. A big part of the struggle is that lightweight and heavyweight IT are different socio-technical knowledge regimes (Bygstad, 2017). They have different <a href="https://doctorow.medium.com/james-bridles-ways-of-being-e1a43bf6d013">umwelten</a> and in L&amp;T practice the heavyweight umwelten reigns supreme. Hence, I'm not sure if I'm more worried about the absence of lightweight approaches to L&amp;T at universities, or the nature of the "lightweight" approach that universities might develop given their current knowledge regimes. On the plus side, some really <a href="https://twitter.com/mwjtweet/status/1543264417156153344">smart folk are starting to explore the alternatives</a>.</p>
+<h2 id="connect-the-lms-with-an-ecosystem-of-tools-using-the-lti-standard">Connect the LMS with an ecosystem of tools using the LTI standard<a class="headerlink" href="#connect-the-lms-with-an-ecosystem-of-tools-using-the-lti-standard" title="Permanent link">#</a></h2>
+<p>Right now we're working on migrating ~500 Blackboard course sites. <a href="https://echo360.com/">Echo360</a> is used in these course sites for lecture capture and for recording and embedding other videos.  Echo360 is an external tool, it's not part of the LMS (Blackboard or Canvas). Instead, the <a href="https://www.imsglobal.org/lti-advantage-overview">Learning Tools Interoperability (LTI) standard</a> is used to embed and link echo360 videos into the LMS. LTI is a way to provide loose coupling between the separate black boxes of the LMS and other tools. It makes it easy for the individual vendors - both LMS and external tools - to develop their own software. They focus on writing software to meet the LTI standard without a need to understand (much of) the internal detail of each other's software. Once done, their software can interconnect (via a very narrow connection). For institutional information technology folk the presence of LTI support in a tool promises to make it easy to connect one piece of software to another. i.e. it makes it easy to connect the Blackboard LMS and Echo360; or, to connect the Canvas LMS and Echo360.</p>
+<p>From the teacher perspective, one practice LTI enables is a way for an Echo360 button to appear in the LMS content editor. Press that button and you access your Echo360 library of videos from which you select the one you wish to embed. From the student perspective, the echo360 video is embedded in your course content within the LMS. All fairly seamless.</p>
+<h3 id="wrong-purpose-no-relationship-manual-assemblage">Wrong purpose, no relationship, manual assemblage<a class="headerlink" href="#wrong-purpose-no-relationship-manual-assemblage" title="Permanent link">#</a></h3>
+<p>Of the ~500 course sites we're currently working on there are 2162 echo360 embeds. Those are spread across 98 of the course sites. Those 98 course sites have on average 22 echo360 videos. 62 of the course sites have 10 or more echo360 embeds. One course has 142 echo360 embeds. The ability to provide those statistics is not common, more on that in the next section.</p>
+<p>The problem we face in migrating these videos to Canvas is that our purpose falls outside the purpose of LTI. Our purpose is not focused on connecting an individual LMS to echo360. We're moving from one LMS to another LMS. LTI is not designed to help with that purpose. LTI's purpose (one LMS to echo360) and how it's been implemented in Blackboard creates a problem for us. The code to embed an echo360 video in Blackboard (via LTI) is different to the code to embed the same video in Canvas (via LTI). If I use Blackboard's Echo360 LTI plugin to embed an echo360 video into Blackboard the id will be f34e8a01-4f72-46e1-XXXX-105XXXXXf75f. If I use the Canvas Echo360 LIT plugin to embed the very same video into Canvas it will use a very different id (49dbc576-XXXX-4eb0-b0d6-6bXXXXX0707).  This means that for each echo360 video you wish to migrate from Blackboard to Canvas you need to regenerate/identify a new id. </p>
+<p>The initial solution to this problem was:</p>
+<ol>
+<li>A migration person goes through a course site and generates a list of names for all the echo360 videos.</li>
+<li>
+<p>That list is provided to a central helpdesk who use the echo360 search mechanism to find and generate a new id for each video</p>
+<p>Necessary because in echo360 only the owner of the video or the echo360 "root" user can access/see the video. So either the video owner (typically an academic) or the "root" user generate the new ids. From a risk perspective, only a very small number of people should have root access, it can't be given to all the migration people.
+3. The migration person receives the list of new video ids and manually updates the new Canvas course site.</p>
+</li>
+</ol>
+<p>It's evident that this process involves a great deal of manual work and a bottleneck in terms of "root" user access to echo360.</p>
+<h3 id="orchestrating-the-relationships-into-a-semi-automated-assemblage">Orchestrating the relationships into a semi-automated assemblage<a class="headerlink" href="#orchestrating-the-relationships-into-a-semi-automated-assemblage" title="Permanent link">#</a></h3>
+<p>A simple improvement to this approach would be to automate step #2 using something like <a href="https://en.wikipedia.org/wiki/Robotic_process_automation">Robotic Process Automation</a>. With RPA the software (i.e. the "robot") could step through a list of video names, login to the echo360 web interface, search for the video, find it, generate a new echo360 id for Canvas, and write that id back to the original list. Ready for handing back to the migration person.</p>
+<p>A better solution would be to automate the whole process. i.e. have software that will</p>
+<ol>
+<li>Search through an entire Blackboard course site and identify all the echo360 embeds.</li>
+<li>Use the echo360 search mechanism to find and generate a new id for each video.</li>
+<li>Update the Canvas course site with the new video ids.</li>
+</ol>
+<p>That's basically what we did. The Python code helps orchestrate the relationship between Blackboard, Canvas, and Echo360. It helps improve the cost effectiveness of the process though doesn't shift the dial on access or quality.</p>
+<p>But there's more to this better solution than echo360. The software needs to know what's in the Blackboard course site and how to design content for Canvas. The software has to be more broadly connected. As explained in the next example.</p>
+<h2 id="moving-content-from-one-lms-to-another-using-the-common-cartridge-standard">Moving content from one LMS to another using the common cartridge standard<a class="headerlink" href="#moving-content-from-one-lms-to-another-using-the-common-cartridge-standard" title="Permanent link">#</a></h2>
+<p><a href="https://www.imsglobal.org/activity/common-cartridge">Common Cartridge</a> provides "a standard way to represent digital course materials". Within the context of an LMS migration common cartridge (and some similar approaches) provide the main way to migrate content from one LMS to another. Providing the promised lego block encapsulation promise for LMS content. Go to Blackboard and use it to produce a common cartridge export. Head over to the Canvas and use its import feature to bring the content in. Hey presto migration complete.</p>
+<p>If only it were that simple.</p>
+<h3 id="migrating-content-without-knowing-anything-about-it-or-how-it-should-end-up">Migrating content without knowing anything about it or how it should end up<a class="headerlink" href="#migrating-content-without-knowing-anything-about-it-or-how-it-should-end-up" title="Permanent link">#</a></h3>
+<p>Of course it's not as simple as that, there are known problems, including:</p>
+<ol>
+<li>
+<p>Not all systems are the same so not all content can be "standardised".</p>
+<p>Vendors of different LMS seek to differentiate themselves from their competitors. Hence they tend to offer different functionality, or implement/label the same functionality differently. Either way there's a limit to how standardised digital content can be and not all LMS support the same functionality (e.g. <a href="https://community.canvaslms.com/t5/Canvas-Question-Forum/Migrating-Quizzes-that-Use-Pools-of-Questions-from-Blackboard-to/td-p/142448">quizzes</a>). Hence a lot of manual work arounds to identify and remedy issues.</p>
+</li>
+<li>
+<p>Imports are ignorant of learning design in both source and destination LMS.</p>
+<p>Depending on the specific learning design in a course, the structure and nature of the course site can be very different. Standardised export formats - like common cartridge - use standardised formats. They are ignorant of the specifics of course learning design as embodied in the old LMS. They are also ignorant of how best to adapt the course learning design to the requirements of the new LMS. </p>
+</li>
+<li>
+<p>Migrating information specific to the old LMS.</p>
+<p>Since common cartridge just packages up what is in the old LMS, detail specific to the old LMS gets ported to the new and has to be manually changed.  e.g. echo360 embeds as outlined above, but also language specific to the old lms (e.g. <em>Blackboard</em>) but inappropriate to the new.</p>
+</li>
+<li>
+<p>Migrating bad practice.</p>
+<p>e.g. it's quite common for the "content collection" area of Blackboard courses to collect a large number of files. Many of these files are no longer used. Some are mistaken left overs, some are just no longer used. Most of the time the content collection is one long list of files with names like <em>lecture 1.pptx</em>, <em>lecture 1-2019.pptx</em>, <em>lectures 1a.pptx</em>. The common cartridge approach to migration, migrates any bad practice to the new LMS.</p>
+</li>
+</ol>
+<p>All these problems contribute to the initial migration outcome not being all that good. For example, the following images. Figure 2 is the original Blackboard course site. A common cartridge of that Blackboard course site was created and imported into Canvas. Figure 3 is the result.</p>
+<p>It's a mess and that's just the visible structure. What were separate bits of content are now all combined together, because common cartridge is ignorant of that design. Some elements that were not needed in Canvas have been imported. Some information (<em>Staff Information</em>) was lost. And did you notice the default "scroll of death" in Canvas (Figure 3)?</p>
+<table>
+<thead>
+<tr>
+<th><strong>Figure 2: Source LMS</strong></th>
+<th><strong>Figure 3: Destination LMS</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a class="glightbox" href="/memex/images/bb_course.png" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img alt="Student view of a simple Blackboard course" src="/memex/images/bb_course.png" /></a></td>
+<td><a class="glightbox" href="/memex/images/canvas_export_version.png" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img alt="Student view of Canvas course created by importing a Common Cartridge export of the Blackboard course" src="/memex/images/canvas_export_version.png" /></a></td>
+</tr>
+</tbody>
+</table>
+<p>The <a href="https://community.canvaslms.com/t5/Canvas-Basics-Guide/What-are-Files/ta-p/7">Canvas Files area</a> is even worse off. Figure 4 shows the files area of this same course after common cartridge import. Only the first four or five files were in the Blackboard course. All the <em>web_content0000X</em> folders are added by the common cartridge import.</p>
+<table>
+<thead>
+<tr>
+<th><strong>Figure 4: Canvas files area - common cartridge import</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a class="glightbox" href="/memex/images/files_cc_import.png" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img alt="Canvas files area after Common Cartridge import" src="/memex/images/files_cc_import.png" /></a></td>
+</tr>
+</tbody>
+</table>
+<p>You can't leave that course in that stage. The next step is to manually modify and reorganise the Canvas site into a design that works in Canvas. This modification relies on the Canvas web interface (e.g. the Canvas interface still <a href="https://community.canvaslms.com/t5/Canvas-Admin-Blog/Bulk-Publish-Delete-Pages/ba-p/262944">does not provide a way to delete all the pages in a course</a>). Not the most effective or efficient interface for that purpose. Importantly, remember that this manual tidy up process has to be performed for each of the 1400+ course sites.</p>
+<p>The issue here is the common cartridge is a generic standard. It is purpose (in part) is to take content from any LMS (other other tool) and enable it to be imported into another LMS/tool. It has no contextual knowledge.</p>
+<h3 id="driving-the-car-migration-scaffolded-by-re-entangling-knowledge-of-source-and-destination-structure">Driving the CAR: Migration scaffolded by re-entangling knowledge of source and destination structure<a class="headerlink" href="#driving-the-car-migration-scaffolded-by-re-entangling-knowledge-of-source-and-destination-structure" title="Permanent link">#</a></h3>
+<p>On the other hand, we know we are migrating from a specific version of Blackboard to a specific version of Canvas. We know the common approaches used in Blackboard by our courses. We eventually develop the knowledge of how what was common in Blackboard must be modified to work in Canvas. Rather than engage in the manual, de-contextualised process above, a better approach would leverage our additional knowledge and use it to increase the efficiency and the effectiveness of the migration.</p>
+<p>To do this we developed the Course Analysis Report (CAR) approach. Broadly this approach automates the majority of the following steps:</p>
+<ol>
+<li>
+<p>Pickle the Blackboard course site.</p>
+<p>Details of the structure, make up, and the HTML content of the Blackboard course site is <a href="https://en.wikipedia.org/wiki/Web_scraping">extracted</a> out of Blackboard and stored into a file. A single data structure (residing in a shared network folder) that contains a snapshot of the Blackboard course site.</p>
+</li>
+<li>
+<p>Analyse the pickle and generate a CAR.</p>
+<p>Perform various analysis and modifications to the pickle file (e.g. look for Blackboard specific language, modify echo360 embeds, identify which content collections files are actually attached to course content etc.) and generate a Word document providing a summary of the course site.</p>
+</li>
+<li>
+<p>Download the course files and generate specially formatted Word documents representing course site content.</p>
+<p>Using our knowledge of how our Blackboard courses are structured and the modifications necessary for an effective Canvas course embodying a similar design intent create a couple of folders in the shared course folder containing all of the files and Word documents containing the web content of the Blackboard course. Format these files, folders, and documents to scaffold modification (using traditional desktop tools).</p>
+</li>
+<li>
+<p>Upload the modified files and Word documents directly into Canvas as mostly completed course content.</p>
+<p>Step #3 is where almost all the design knowledge necessary gets applied to the migrate the course. All that's left is to upload it into Canvas. Uploading the files is easy and supported by Canvas. Uploading the Word documents into Canvas as <a href="https://community.canvaslms.com/t5/Canvas-Basics-Guide/What-are-Modules/ta-p/6">modules</a> is done via <a href="https://github.com/djplaner/word-to-canvas-module#word-to-canvas-word2canvas-module">word2Canvas</a> a semi-automated tool.</p>
+</li>
+</ol>
+<p>Steps #1 and #2 are entirely automatic as is the download of course content and generation of the Word documents in step #3. These are stored in shared folders available to the entire migration team (the following table provides some stats on those folders). From there the migration is semi-automated. People leveraging their knowledge to make decisions and changes using common desktop tools.</p>
+<table>
+<thead>
+<tr>
+<th><strong>Development Window</strong></th>
+<th><strong># course sites</strong></th>
+<th><strong># of files</strong></th>
+<th><strong>Disk Usage</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>219</td>
+<td>15,213</td>
+<td>163Gb</td>
+</tr>
+<tr>
+<td>2</td>
+<td>555</td>
+<td>2531</td>
+<td>336Gb</td>
+</tr>
+</tbody>
+</table>
+<p>Figures 5 and 6 show the end result of this improved migration process using the same course as the Figures 3 and 4. Figure 5 illustrates how the structure of "modules" in the Blackboard site has been recreated using the matching Canvas functionality. What it doesn't show is that Step 3 of the CAR process has removed or modified Blackboard practices to fit the capabilities of Canvas.</p>
+<p>Figure 6 illustrates a much neater Files area compared to Figure 4. All of the unnecessary common cartridge crud is not there. Figure 5 also illustrates Step 3's addition of structure to the Files area. The three files shown are all within a <em>Learning Module</em> folder. This folder was not present in the Blackboard course site's content collection. It's been added by the CAR to indicate where in the course site structure the files were used. These images were all used within the <em>Learning Modules</em> content area in the Blackboard course site (Figure 2). In a more complex course site this additional structure makes it easier to find the relevant files.</p>
+<p>Figure 5 still has a pretty significant whiff of the 'scroll of death' but that's a <a href="https://www.wired.com/story/its-not-a-bug-its-a-feature/">"feature"</a> of Canvas. As part of this the highly visual <a href="https://djplaner.github.io/Card-Interface-Tweak/">card interface</a> used in the Blackboard course site is also lost. Another "feature" of Canvas. More on that next.</p>
+<table>
+<thead>
+<tr>
+<th><strong>Figure 5: Canvas site via CAR</strong></th>
+<th><strong>Figure 6: Canvas files via CAR</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a class="glightbox" href="/memex/images/canvas-via-car.png" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img alt="Canvas course site created by migrating via CAR" src="/memex/images/canvas-via-car.png" /></a></td>
+<td><a class="glightbox" href="/memex/images/files-car.png" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img alt="Canvas files migrated via CAR" src="/memex/images/files-car.png" /></a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="to-make-teaching-and-learning-easier-using-a-vanilla-lms"><a href="https://www.instructure.com/en-gb/canvas/resources/home/canvas-lms-adopted-by-teachers-and-students-worldwide">"to make teaching and learning easier"</a> using a vanilla LMS.<a class="headerlink" href="#to-make-teaching-and-learning-easier-using-a-vanilla-lms" title="Permanent link">#</a></h2>
+<p>There's quite a bit of literature and other work arguing about the value to learning and the learning experience of the aesthetics, findability, and usability of the LMS and LMS courses. Almost as much as there is literature and work expounding on the value of consistency as a method for addressing those concerns (misguided IMHO). Migrating to a new LMS typically includes some promise of making the experience of teaching and learning easier, better, and more engaging. For example, one of the apparent advantages of Canvas is it looks prettier than the competitors.  People using Canvas generally report the user interface as feeling cleaner.  <a href="https://usc.custhelp.com/app/answers/detail/a_id/1907/~/why-is-blackboard-changing-to-canvas%3F">Apparently it </a> "provides students with an accessible and user-friendly interface through which they can access course learning materials".</p>
+<h3 id="using-a-overly-linear-visually-unappealing-context-free-generic-tool-constrained-by-the-vendor">Using a overly linear, visually unappealing, context-free, generic tool constrained by the vendor<a class="headerlink" href="#using-a-overly-linear-visually-unappealing-context-free-generic-tool-constrained-by-the-vendor" title="Permanent link">#</a></h3>
+<p>Of course beauty is in the eye of the beholder and familiarity can breed contempt. Some think Canvas <a href="https://community.canvaslms.com/t5/Canvas-Question-Forum/Why-is-Canvas-so-plain-and-ugly/m-p/211923">"plain and ugly"</a>. As illustrated above by Figures 2 and 4 the Canvas Modules view - the core of how students interact with study material - is known widely (e.g. <a href="https://canvas.ox.ac.uk/courses/12009/pages/course-presentation-and-navigation-tool?module_item_id=894826">University of Oxford</a>) to be overly linear, involve lots of vertical scrolling, and not be very visually appealing. Years of experience has also shown that the <a href="https://community.canvaslms.com/t5/Canvas-Instructional-Designer/Improving-Course-Navigation-Experience-for-Students/m-p/205042">course navigation experience is less than stellar</a> for a variety of reasons.</p>
+<p>There are <a href="https://community.canvaslms.com/t5/Canvas-Question-Forum/Why-is-Canvas-so-plain-and-ugly/m-p/211930/highlight/true#M112248">common manual workarounds</a> that are widely recommended to teaching staff. There is also a community of <a href="https://community.canvaslms.com/t5/Canvas-Instructional-Designer/Improving-Course-Navigation-Experience-for-Students/m-p/205045/highlight/true#M1000">third party design tools</a> intended to improve the Canvas interface and navigation experience. As well as requests to Canvas to respond to these observations and improve the system. Some examples include: a <a href="https://community.canvaslms.com/t5/Canvas-Question-Forum/Module-groupings/td-p/115610">2015 request</a>; a <a href="https://community.canvaslms.com/t5/Idea-Conversations/Modules-within-Modules/idi-p/357681">suggestion from 2016</a> to allow modules within modules; and <a href="https://community.canvaslms.com/t5/Canvas-Question-Forum/Is-there-a-way-to-group-modules-together/m-p/179757">another grouping modules request in 2019</a>. The last of which <a href="https://community.canvaslms.com/t5/Canvas-Question-Forum/Is-there-a-way-to-group-modules-together/m-p/179757/highlight/true#M84952">includes a comment</a> touching on the shortcomings of most of the existing workarounds.</p>
+<p>As Figure 2 demonstrates, we've been able to do aspects of this since 2019 in <strong>Blackboard Learn</strong>, but we can't do in wonderful new system we're migrating to. We'll be losing functionality. </p>
+<h3 id="canvas-collections-injecting-context-visual-design-and-alternatives-into-the-canvas-modules-page">Canvas Collections: Injecting context, visual design, and alternatives into the Canvas' modules page<a class="headerlink" href="#canvas-collections-injecting-context-visual-design-and-alternatives-into-the-canvas-modules-page" title="Permanent link">#</a></h3>
+<p><a href="https://github.com/djplaner/canvas-collections#canvas-collections">Canvas Collections</a> is a work-in-progress designed to address the shortcomings of the current Canvas modules page. We're working through the prevailing heavyweight umwelt in attempt to move it into production. For now, it's working as a <a href="https://en.wikipedia.org/wiki/Userscript">userscript</a> and being used to semi-automate the typical Canvas workaround for creating visual home pages using cards. Further illustrating the flexibility of the light-weight approach and how Canvas Collections was inspired by related approaches within the Canvas Community, including: <a href="https://www.howtocanvas.com/theme-editor/interactive-cards">CSS-based approaches to creating interactive cards</a>; and, Javascript methods for <a href="https://learntech.medsci.ox.ac.uk/wordpress-blog/a-dashboard-view-of-modules-in-canvas-v2/">inserting cards into Canvas</a> which appears to have <a href="https://canvas.ox.ac.uk/courses/12009/pages/course-presentation-and-navigation-tool?module_item_id=894826">gone into production at the University of Oxford</a>. But also draw upon the experiences of developing and supporting the use of <a href="https://djon.es/blog/2021/03/12/reflecting-on-the-spread-of-the-card-interface-for-blackboard-learn/">the Card Interface in Blackboard</a>.</p>
+<p>Canvas Collections is Javascript to modify the Canvas modules view through a combination of three new abstractions:</p>
+<ol>
+<li>
+<p>Collections;</p>
+<p>Rather than a single, long list of modules. Modules can be grouped into collections that align with the design intent of the course. Figures 7 and 8 illustrate a common use of two collections: course content and assessment. A navigation bar is provided to switch between the two collections. When viewing a collection you only see the modules that belong to that collection.</p>
+</li>
+<li>
+<p>Representations; and,</p>
+<p>Rather than just a text-based list of modules and their contents, collections supports the development of different ways of representing a collection of modules. Figures 7 and 8 demonstrate use of a representation that borrows heavily from <a href="https://djplaner.github.io/Card-Interface-Tweak/">the Card Interface</a>. Such representations - implemented in code - can perform additional tasks to further embed context and design intent. </p>
+</li>
+<li>
+<p>Additional module "meta-data".</p>
+<p>Canvas stores a large collection of <a href="https://canvas.instructure.com/doc/api/modules.html">generic information about Modules</a> for its purposes. However, as you engage in learning design you assign additional information and purpose to modules. The collections abstraction allows you to assign modules for different purposes (e.g. content, assignments, resources for Professional Experience) but may also be useful to assign: a description or driving question to a module to help learners understand the module's intent; a date or date period when learners should pay attention to a module; a different label to a module to further refine its purpose; a picture to ....etc.</p>
+</li>
+</ol>
+<p>Figures 7 and 8 illustrate each of these abstractions. The modules for this sample course have been divided into two collections: <em>Course Content</em> (Figure 7) and <em>Assessment</em> (Figure 8). Perhaps not very creative, but mirroring common organisational practice. Each Canvas module is represented by a card, which includes the title (Canvas), a specific image, a description, relevant dates, and a link to the module. </p>
+<p>The dates are a further example of injecting context into a generic tool to save time and manual effort. The provision of specific dates (e.g. July 18, Friday, September 2) would require manual updating everytime a course site was rolled over to a new offering (at a new time). Alternatively, Canvas Collections <em>Griffith Cards</em> representation knows both the Griffith University calendar and how Griffith's approach to Canvas course ids specify the study period for a course. This means dates can be specific in a generic study period format (e.g. Week 1, or Friday Week 11) and the representation can figure out the actual date.</p>
+<p>Not only does Canvas Collections improve the aesthetics of a Canvas course site it improves the findability of information within the course site by making it possible to move explicitly represent the information architecture. Research (Simmunich et al, 2015) suggests that course sites with higher findability lead to increases in student reported self-efficacy and motivation, and a better overall experience. Experience with the Card Interface and early experience with Canvas Collections suggest that it is just not the students which benefit. Being able to improve a course site using Canvas Collections appears to encourage teaching staff to think more explicitly about the design of their course sites.</p>
+<table>
+<thead>
+<tr>
+<th><strong>Figure 7: Canvas Collections - content collection</strong></th>
+<th><strong>Figure 8: Canvas Collections - assessment collection</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a class="glightbox" href="/memex/images/canvas-collections-content.png" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img alt="" src="/memex/images/canvas-collections-content.png" /></a></td>
+<td><a class="glightbox" href="/memex/images/canvas-collections-assessment.png" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img alt="" src="/memex/images/canvas-collections-assessment.png" /></a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References<a class="headerlink" href="#references" title="Permanent link">#</a></h2>
+<p>Bygstad, B. (2017). Generative Innovation: A Comparison of Lightweight and Heavyweight IT: <em>Journal of Information Technology</em>. <a href="https://doi.org/10.1057/jit.2016.15">https://doi.org/10.1057/jit.2016.15</a></p>
+<p>Cottam, M. E. (2021). An Agile Approach to LMS Migration. <em>Journal of Online Learning Research and Practice</em>, <em>8</em>(1). <a href="https://doi.org/10.18278/jolrap.8.1.5">https://doi.org/10.18278/jolrap.8.1.5</a></p>
+<p>Daniel, J., Kanwar, A., &amp; Uvalić-Trumbić, S. (2009). Breaking Higher Education's Iron Triangle: Access, Cost, and Quality. <em>Change: The Magazine of Higher Learning</em>, <em>41</em>(2), 30--35. <a href="https://doi.org/10.3200/CHNG.41.2.30-35">https://doi.org/10.3200/CHNG.41.2.30-35</a></p>
+<p>Dron, J. (2022). Educational technology: What it is and how it works. <em>AI &amp; SOCIETY</em>, <em>37</em>, 155--166. <a href="https://doi.org/10.1007/s00146-021-01195-z">https://doi.org/10.1007/s00146-021-01195-z</a></p>
+<p>Fawns, T. (2022). An Entangled Pedagogy: Looking Beyond the Pedagogy---Technology Dichotomy. <em>Postdigital Science and Education</em>. <a href="https://doi.org/10.1007/s42438-022-00302-7">https://doi.org/10.1007/s42438-022-00302-7</a></p>
+<p>Jones, D., &amp; Clark, D. (2014). Breaking BAD to bridge the reality/rhetoric chasm. In B. Hegarty, J. McDonald, &amp; S. Loke (Eds.), <em>Rhetoric and Reality: Critical perspectives on educational technology. Proceedings ascilite Dunedin 2014</em> (pp. 262--272). <a href="http://ascilite2014.otago.ac.nz/files/fullpapers/221-Jones.pdf">http://ascilite2014.otago.ac.nz/files/fullpapers/221-Jones.pdf</a></p>
+<p>Mulder, F. (2013). The LOGIC of National Policies and Strategies for Open Educational Resources. <em>International Review of Research in Open and Distributed Learning</em>, <em>14</em>(2), 96--105. <a href="https://doi.org/10.19173/irrodl.v14i2.1536">https://doi.org/10.19173/irrodl.v14i2.1536</a></p>
+<p>Perämäki, M. (2021). <em>Predesigned course templates: Helping organizations teach online</em> [Masters, Tampere University of Applied Sciences]. <a href="http://www.theseus.fi/handle/10024/496169">http://www.theseus.fi/handle/10024/496169</a></p>
+<p>Ryan, T., French, S., &amp; Kennedy, G. (2021). Beyond the Iron Triangle: Improving the quality of teaching and learning at scale. <em>Studies in Higher Education</em>, <em>46</em>(7), 1383--1394. <a href="https://doi.org/10.1080/03075079.2019.1679763">https://doi.org/10.1080/03075079.2019.1679763</a></p>
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+    
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+        <div class="md-social">
+  
+    
+    
+      
+    
+    
+    
+      
+      
+    
+    <a href="https://indieweb.social/@djplaner" target="_blank" rel="noopener me" title="indieweb.social" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M433 179.11c0-97.2-63.71-125.7-63.71-125.7-62.52-28.7-228.56-28.4-290.48 0 0 0-63.72 28.5-63.72 125.7 0 115.7-6.6 259.4 105.63 289.1 40.51 10.7 75.32 13 103.33 11.4 50.81-2.8 79.32-18.1 79.32-18.1l-1.7-36.9s-36.31 11.4-77.12 10.1c-40.41-1.4-83-4.4-89.63-54a102.5 102.5 0 0 1-.9-13.9c85.63 20.9 158.65 9.1 178.75 6.7 56.12-6.7 105-41.3 111.23-72.9 9.8-49.8 9-121.5 9-121.5m-75.12 125.2h-46.63v-114.2c0-49.7-64-51.6-64 6.9v62.5h-46.33V197c0-58.5-64-56.6-64-6.9v114.2H90.19c0-122.1-5.2-147.9 18.41-175 25.9-28.9 79.82-30.8 103.83 6.1l11.6 19.5 11.6-19.5c24.11-37.1 78.12-34.8 103.83-6.1 23.71 27.3 18.4 53 18.4 175z"/></svg>
+    </a>
+  
+    
+    
+    
+    
+      
+      
+    
+    <a href="https://github.com/djplaner" target="_blank" rel="noopener" title="github.com" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><!--! Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6m-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3m44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9M244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8M97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1m-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7m32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1m-11.4-14.7c-1.6 1-1.6 3.6 0 5.9s4.3 3.3 5.6 2.3c1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2"/></svg>
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    <script id="__config" type="application/json">{"base": "../../..", "features": ["navigation.tabs", "navigation.tabs.sticky", "navigation.instant", "navigation.tracking", "content.tabs.links", "navigation.expand", "navigation.indexes", "navigation.footer", "navigation.sections", "toc.follow", "header.autohide", "search.suggest"], "search": "../../../assets/javascripts/workers/search.f8cc74c7.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
+    
+    
+      <script src="../../../assets/javascripts/bundle.f1b6f286.min.js"></script>
+      
+        <script src="../../../javascripts/mathjax.js"></script>
+      
+        <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+      
+        <script src="https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js"></script>
+      
+        <script src="../../../javascripts/tablesort.js"></script>
+      
+    
+  <script id="init-glightbox">const lightbox = GLightbox({"touchNavigation": true, "loop": false, "zoomable": true, "draggable": true, "openEffect": "zoom", "closeEffect": "zoom", "slideEffect": "slide"});
+document$.subscribe(() => { lightbox.reload() });
+</script></body>
+</html>

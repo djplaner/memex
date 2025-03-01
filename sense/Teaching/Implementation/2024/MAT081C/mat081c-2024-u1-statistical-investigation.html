@@ -1,0 +1,2503 @@
+<!--
+ Copyright (C) 2023 David Jones
+ 
+ This program is free software: you can redistribute it and/or modify
+ it under the terms of the GNU Affero General Public License as
+ published by the Free Software Foundation, either version 3 of the
+ License, or (at your option) any later version.
+ 
+ This program is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ GNU Affero General Public License for more details.
+ 
+ You should have received a copy of the GNU Affero General Public License
+ along with this program.  If not, see <http://www.gnu.org/licenses/>.
+-->
+
+
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+        <meta name="author" content="David Jones">
+      
+      
+        <link rel="canonical" href="https://djplaner.github.io/memex/sense/Teaching/Implementation/2024/MAT081C/mat081c-2024-u1-statistical-investigation.html">
+      
+      
+      
+      
+      <link rel="icon" href="../../../../../assets/memex.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.6.5">
+    
+    
+      
+        <title>MAT081C Planning for unit 1 - statistical invesigation - David's Memex</title>
+      
+    
+    
+    
+      <link rel="stylesheet" href="../../../../../assets/stylesheets/main.8608ea7d.min.css">
+      
+        
+        <link rel="stylesheet" href="../../../../../assets/stylesheets/palette.06af60db.min.css">
+      
+      
+
+
+    
+
+    
+    
+      
+    
+   <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+    <script>MathJax = {tex: 
+        {
+            inlineMath: [["$", "$"], ['\\(', '\\)']],
+            displayMath: [['$$', '$$'], ['\\[', '\\]']]
+        }
+     }</script>
+
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../../../../../stylesheets/extra.css">
+    
+    <script>__md_scope=new URL("../../../../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+  
+
+
+  
+  
+
+<script id="__analytics">function __md_analytics(){function e(){dataLayer.push(arguments)}window.dataLayer=window.dataLayer||[],e("js",new Date),e("config","G-FRPL9T01XP"),document.addEventListener("DOMContentLoaded",(function(){document.forms.search&&document.forms.search.query.addEventListener("blur",(function(){this.value&&e("event","search",{search_term:this.value})}));document$.subscribe((function(){var t=document.forms.feedback;if(void 0!==t)for(var a of t.querySelectorAll("[type=submit]"))a.addEventListener("click",(function(a){a.preventDefault();var n=document.location.pathname,d=this.getAttribute("data-md-value");e("event","feedback",{page:n,data:d}),t.firstElementChild.disabled=!0;var r=t.querySelector(".md-feedback__note [data-md-value='"+d+"']");r&&(r.hidden=!1)})),t.hidden=!1})),location$.subscribe((function(t){e("config","G-FRPL9T01XP",{page_path:t.pathname})}))}));var t=document.createElement("script");t.async=!0,t.src="https://www.googletagmanager.com/gtag/js?id=G-FRPL9T01XP",document.getElementById("__analytics").insertAdjacentElement("afterEnd",t)}</script>
+  
+    <script>"undefined"!=typeof __md_analytics&&__md_analytics()</script>
+  
+
+    
+    
+    
+   <link href="../../../../../assets/stylesheets/glightbox.min.css" rel="stylesheet"/><style>
+    html.glightbox-open { overflow: initial; height: 100%; }
+    .gslide-title { margin-top: 0px; user-select: text; }
+    .gslide-desc { color: #666; user-select: text; }
+    .gslide-image img { background: white; }
+    .gscrollbar-fixer { padding-right: 15px; }
+    .gdesc-inner { font-size: 0.75rem; }
+    body[data-md-color-scheme="slate"] .gdesc-inner { background: var(--md-default-bg-color);}
+    body[data-md-color-scheme="slate"] .gslide-title { color: var(--md-default-fg-color);}
+    body[data-md-color-scheme="slate"] .gslide-desc { color: var(--md-default-fg-color);}</style> <script src="../../../../../assets/javascripts/glightbox.min.js"></script></head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="collections" data-md-color-primary="indigo" data-md-color-accent="indigo">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#lessons" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow md-header--lifted" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../../../../.." title="David&#39;s Memex" class="md-header__button md-logo" aria-label="David's Memex" data-md-component="logo">
+      
+  <img src="../../../../../assets/spider_web.png" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            David's Memex
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              MAT081C Planning for unit 1 - statistical invesigation
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="collections" data-md-color-primary="indigo" data-md-color-accent="indigo"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a4 4 0 0 0-4 4 4 4 0 0 0 4 4 4 4 0 0 0 4-4 4 4 0 0 0-4-4m0 10a6 6 0 0 1-6-6 6 6 0 0 1 6-6 6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12z"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="slate" data-md-color-primary="indigo" data-md-color-accent="indigo"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 18c-.89 0-1.74-.2-2.5-.55C11.56 16.5 13 14.42 13 12s-1.44-4.5-3.5-5.45C10.26 6.2 11.11 6 12 6a6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12z"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+        <div class="md-search__suggest" data-md-component="search-suggest"></div>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+      <div class="md-header__source">
+        <a href="https://github.com/djplaner/memex" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81"/></svg>
+  </div>
+  <div class="md-source__repository">
+    GitHub
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+    
+      
+<nav class="md-tabs" aria-label="Tabs" data-md-component="tabs">
+  <div class="md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../../../../index.html" class="md-tabs__link">
+          
+  
+    
+  
+  Home
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../../../../seek/seek.html" class="md-tabs__link">
+          
+  
+    
+  
+  Seek
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../../../sense.html" class="md-tabs__link">
+          
+  
+    
+  
+  Sense
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../../../../share/share.html" class="md-tabs__link">
+          
+  
+    
+  
+  Share
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../../../birdwatching/birding.html" class="md-tabs__link">
+          
+  
+    
+  
+  Birding
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../../../landscape-garden/gardens.html" class="md-tabs__link">
+          
+  
+    
+  
+  Gardens
+
+        </a>
+      </li>
+    
+  
+
+      
+    </ul>
+  </div>
+</nav>
+    
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+  
+
+
+<nav class="md-nav md-nav--primary md-nav--lifted" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../../../../.." title="David&#39;s Memex" class="md-nav__button md-logo" aria-label="David's Memex" data-md-component="logo">
+      
+  <img src="../../../../../assets/spider_web.png" alt="logo">
+
+    </a>
+    David's Memex
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/djplaner/memex" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81"/></svg>
+  </div>
+  <div class="md-source__repository">
+    GitHub
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_1" >
+        
+          
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../../../../index.html" class="md-nav__link ">
+              
+  
+  <span class="md-ellipsis">
+    Home
+    
+  </span>
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_1" id="__nav_1_label" tabindex="0">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_1_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_1">
+            <span class="md-nav__icon md-icon"></span>
+            Home
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../../colophon/colophon.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Colophon
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Seek
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            Seek
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../../seek/seek.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Seek
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../../seek/seek-triage.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Triage list
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Sense
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            Sense
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../sense.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Sense
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_3_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_3_2" id="__nav_3_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Abstractions
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_2">
+            <span class="md-nav__icon md-icon"></span>
+            Abstractions
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../CASA/bad.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    BAD
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../CASA/casa.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    CASA
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../Bricolage/herding-cats.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Herding Cats
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../CASA/know-thy-student.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Know thy student
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../nodt/nodt.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    nodt
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../Representations/representations.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Representations
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../Sharing-design-knowledge/sharing-design-knowledge.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Sharing design knowledge
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../concepts/concepts.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Concepts
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_3_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_3_4" id="__nav_3_4_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Topics
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_4">
+            <span class="md-nav__icon md-icon"></span>
+            Topics
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../AI/AI.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    AI
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../computing/computing.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Computing
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../Design/design.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Design
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../computing/floss.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    FLOSS/FOSS
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../Learning/learning.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Learning
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../Python/python.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Python
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../relational/relational.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Relational
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../Research/research.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Research
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../Society/society.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Society
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../Web-development/web-development.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Web development
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_3_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_3_5" id="__nav_3_5_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Tasks
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_5">
+            <span class="md-nav__icon md-icon"></span>
+            Tasks
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../Conferences/conferences.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Conferences
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../loose/loose.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Loose
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../Paper-Ideas/paper-ideas.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Paper Ideas
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../Paper-Summaries/paper-summaries.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Paper Summaries
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../Recipes/recipes.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Recipes
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../work/work-categories.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Work
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_3_6" >
+        
+          
+          <label class="md-nav__link" for="__nav_3_6" id="__nav_3_6_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Teaching
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_6">
+            <span class="md-nav__icon md-icon"></span>
+            Teaching
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../teaching.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Teaching
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../Quality-and-teaching/quality-and-teaching.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Quality and teaching
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Share
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4">
+            <span class="md-nav__icon md-icon"></span>
+            Share
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../../share/share.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Overview
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../../share/blog/blog-posts.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Blog
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+      
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_5" id="__nav_5_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Birding
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5">
+            <span class="md-nav__icon md-icon"></span>
+            Birding
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../birdwatching/birding.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Birding
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+      
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_6" >
+        
+          
+          <label class="md-nav__link" for="__nav_6" id="__nav_6_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Gardens
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6">
+            <span class="md-nav__icon md-icon"></span>
+            Gardens
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../landscape-garden/gardens.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Gardens
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#lessons" class="md-nav__link">
+    <span class="md-ellipsis">
+      Lessons
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Lessons">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#content-and-pedagogy-resources" class="md-nav__link">
+    <span class="md-ellipsis">
+      Content and pedagogy resources
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Content and pedagogy resources">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#quotes" class="md-nav__link">
+    <span class="md-ellipsis">
+      Quotes
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#specific-resources" class="md-nav__link">
+    <span class="md-ellipsis">
+      Specific resources
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#driving-question" class="md-nav__link">
+    <span class="md-ellipsis">
+      Driving question
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#terminology" class="md-nav__link">
+    <span class="md-ellipsis">
+      Terminology
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#planning" class="md-nav__link">
+    <span class="md-ellipsis">
+      Planning
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#lessons_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      Lessons
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Lessons">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#lesson-2---samples--populations" class="md-nav__link">
+    <span class="md-ellipsis">
+      Lesson 2 - Samples &amp; Populations
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Lesson 2 - Samples & Populations">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#lesson-activities" class="md-nav__link">
+    <span class="md-ellipsis">
+      Lesson activities
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#lesson-3---primary--secondary-data" class="md-nav__link">
+    <span class="md-ellipsis">
+      Lesson 3 - Primary &amp; Secondary data
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Lesson 3 - Primary & Secondary data">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#lesson-activities_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      Lesson Activities
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#lesson-4--5---organising--displaying-data" class="md-nav__link">
+    <span class="md-ellipsis">
+      Lesson 4 &amp; 5 - Organising &amp; displaying data
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#lesson-6---measures-of-centre--spread" class="md-nav__link">
+    <span class="md-ellipsis">
+      Lesson 6 - Measures of centre &amp; spread
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#lesson-7-8-assignment-lessons" class="md-nav__link">
+    <span class="md-ellipsis">
+      Lesson 7-8 Assignment lessons
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#lesson-9---measures-of-centre--spread" class="md-nav__link">
+    <span class="md-ellipsis">
+      Lesson 9 - Measures of centre &amp; spread
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#lesson-10-11-assignment-lessons" class="md-nav__link">
+    <span class="md-ellipsis">
+      Lesson 10-11 Assignment lessons
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#lesson-12---analysing-data" class="md-nav__link">
+    <span class="md-ellipsis">
+      Lesson 12 - Analysing data
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#lesson-13-14-assignment-lessons" class="md-nav__link">
+    <span class="md-ellipsis">
+      Lesson 13-14 Assignment lessons
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+  
+  
+
+
+  <h1>MAT081C Planning for unit 1 - statistical invesigation</h1>
+
+<p>See also: <a href="/memex/mat081c-2024.html">mat081c-2024</a>, <a href="/Mathematics/statistics.html#year-8---data-investigation-and-interpretation">statistics - mathematical content</a></p>
+<p>Where I'll start my more detailed planning for my version of the unit.</p>
+<h2 id="lessons">Lessons<a class="headerlink" href="#lessons" title="Permanent link">#</a></h2>
+<ul>
+<li><a href="/memex/mat081c-2024-u1l1.html">Lesson 1 - You, Mathematics and this class</a></li>
+</ul>
+<h3 id="content-and-pedagogy-resources">Content and pedagogy resources<a class="headerlink" href="#content-and-pedagogy-resources" title="Permanent link">#</a></h3>
+<ul>
+<li><a href="http://amsi.org.au/teacher_modules/Data_Investigation_and_interpretation8.html">TIMES - Data investigation and interpretation - year 8</a></li>
+<li><a href="https://m1maths.com/im-statistics.html">M1Maths statistics</a></li>
+<li><a href="https://mathsisfun.com/data/index.html">MathisFun data</a></li>
+<li><a href="https://www.mathematicshub.edu.au/planning-tool/8/statistics/">Mathematics hub - Year 8 statistics</a></li>
+<li>?? advice/resources on conducting investigation</li>
+<li><a href="https://nzmaths.co.nz/statistical-investigations-units-work">NZ UoW statistical investigation</a></li>
+<li><a href="https://open.ocolearnok.org/psycstats/chapter/chapter-2-vocabulary-of-statistics/">Vocabulary of statistics</a></li>
+<li><a href="https://www.investopedia.com/terms/s/simple-random-sample.asp">Simple random sampling</a></li>
+</ul>
+<p>Images </p>
+<ul>
+<li><a href="https://www.explainxkcd.com/wiki/index.php/2618:_Selection_Bias">xkcd selection bias</a></li>
+</ul>
+<p>Misconceptions</p>
+<ul>
+<li><a href="https://topdrawer.aamt.edu.au/Statistics/Misunderstandings/Misunderstanding-samples-and-sampling">Samples and sampling (top drawer)</a></li>
+</ul>
+<h4 id="quotes">Quotes<a class="headerlink" href="#quotes" title="Permanent link">#</a></h4>
+<p>Aaron Levenstein:</p>
+<blockquote>
+<p>“Statistics are like a bikini. What they reveal is suggestive, but what they conceal is vital”.</p>
+</blockquote>
+<h4 id="specific-resources">Specific resources<a class="headerlink" href="#specific-resources" title="Permanent link">#</a></h4>
+<p>Steam and leaf plots</p>
+<ul>
+<li><a href="https://jeroenjanssens.com/stem/">interactive stem and leaf plot generator</a> - simple textarea, put in data and generates a basic stem and leaf plot - <a href="https://gist.github.com/jeroenjanssens/6395842">gist</a> has the code</li>
+<li><a href="https://www.khanacademy.org/math/statistics-probability/displaying-describing-data/quantitative-data-graphs/a/stem-and-leaf-plots-review">Khan academy</a> review page has some detail and offers a collection of questions testing ability to read a stem and leaf plot</li>
+</ul>
+<h2 id="driving-question">Driving question<a class="headerlink" href="#driving-question" title="Permanent link">#</a></h2>
+<p>Possibilities</p>
+<ul>
+<li><strong>How do we know if someone is lying with data?</strong> </li>
+<li>How can we make better data-informed decisions?  </li>
+<li>How do we use data to make better decisions?  </li>
+<li>What decisions are important to me?</li>
+</ul>
+<p>Search for examples</p>
+<ul>
+<li>Which toothpaste should I buy?</li>
+<li>illustrate types of decisions that might need making</li>
+</ul>
+<h2 id="terminology">Terminology<a class="headerlink" href="#terminology" title="Permanent link">#</a></h2>
+<p><a href="https://artofsmart.com.au/study/qcaa-cognitive-verbs-list">Art of smart - list of cogntive verbs</a></p>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Plan</td>
+<td>knowledge utilisation</td>
+</tr>
+<tr>
+<td>Conduct</td>
+<td>To organise and carry out action</td>
+</tr>
+<tr>
+<td>Investigate</td>
+<td>Carry out research or a formal inquiry to uncover facts and draw new conclusions about data and information</td>
+</tr>
+<tr>
+<td>Analyse</td>
+<td>Examine/consider something for the purpose of finding meaning or identifying similiarties or differences</td>
+</tr>
+<tr>
+<td>Report</td>
+<td></td>
+</tr>
+<tr>
+<td>Compare</td>
+<td>Recognise similarities and differences &amp; identify their significance</td>
+</tr>
+<tr>
+<td>Recognise</td>
+<td>Identify features of information from knowledge of appearance or character</td>
+</tr>
+<tr>
+<td>Solve</td>
+<td>To work out the answer or solution to a problem</td>
+</tr>
+<tr>
+<td>Use</td>
+<td>To apply knowledge or rules to put theory into effect</td>
+</tr>
+</tbody>
+</table>
+<h2 id="planning">Planning<a class="headerlink" href="#planning" title="Permanent link">#</a></h2>
+<ul>
+<li>Driving question - Can I use this data to make a meaningful comment on a more general situation?</li>
+<li>
+<p><em>Question</em> [ ] Can the student survey from the first lesson be used as an exemplar?</p>
+<ul>
+<li>What type of data source is it?</li>
+<li>What types of variables are there?</li>
+<li>Draw on Likert styles from other similar surveys and use them to explore bias?</li>
+</ul>
+</li>
+<li>
+<p><em>task</em> [ ] Explore use of Australian Census data in the region as practical example/data source</p>
+<ul>
+<li><a href="https://www.abs.gov.au/census">Census site</a></li>
+<li>Next census in <a href="https://www.abs.gov.au/census/2026-census-topic-review">2026</a>, last in 2021 on <a href="https://www.abs.gov.au/census/find-census-data/census-data-topic">this topic list</a></li>
+<li><a href="https://www.abs.gov.au/articles/education-australia-abc-bs-and-cs">2021 students data</a> - some nice graphs</li>
+<li><a href="https://www.theguardian.com/australia-news/2024/jan/12/nearly-80-australian-students-say-they-didnt-fully-try-in-latest-pisa-tests">PISA Oz students not trying</a></li>
+<li><a href="https://www.kaggle.com/datasets/mijames/jjj-hottest-100">JJJ hottest 100 kaggle dataset</a> (tsv file)</li>
+<li>
+<p><a href="https://betterintersections.jakecoppinger.com/about">Better intersections dataset</a> - includes articles researching the problems arising from lengthy waits at intersections</p>
+<ul>
+<li><a href="https://www.theguardian.com/australia-news/2018/sep/09/placebo-buttons-australian-pedestrians-press-for-no-reason-at-traffic-lights">Guardian article</a> includes nice visualisation<ul>
+<li>Car colour - various online stories</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>Use of PISA data - including recent information about students not trying</p>
+</li>
+</ul>
+</li>
+<li>
+<p><em>idea</em> [ ] Ask each student in the class to generate a sample to collate results and use to compare variation across samples</p>
+<ul>
+<li>important for illustrating variability </li>
+<li>different samples could be designed to explore different types of variability</li>
+</ul>
+</li>
+<li>
+<p><em>point</em> [ ] Surveys encouraging people to register an opinion are considered very unreliable - use popular online/phone surveys</p>
+</li>
+<li>
+<p><em>task</em> [ ] In general identify contemporary examples of bad sampling for nefarious means</p>
+<ul>
+<li><a href="https://www.datapine.com/blog/misleading-statistics-and-data/">Misuse of statistics - datapine</a> - interesting story about Colgate, and various others - but largely a US focus</li>
+<li><a href="https://news.mit.edu/1994/statistics-1019">Statistics flawed in media</a> - 1994 article that describes some good examples</li>
+</ul>
+</li>
+<li>
+<p><em>task</em> [ ] What visualisation methods for reveal/web can I use for dotplots and steam-and-leaf plot</p>
+<ul>
+<li>including ways to visualise variation and range</li>
+</ul>
+</li>
+</ul>
+<h2 id="lessons_1">Lessons<a class="headerlink" href="#lessons_1" title="Permanent link">#</a></h2>
+<p>13 lessons</p>
+<ul>
+<li>~7 teaching</li>
+<li>~6 investigation</li>
+</ul>
+<h3 id="lesson-2---samples--populations">Lesson 2 - Samples &amp; Populations<a class="headerlink" href="#lesson-2---samples--populations" title="Permanent link">#</a></h3>
+<p>Learning outcomes</p>
+<ul>
+<li>Understand the difference between a sample &amp; a population</li>
+<li>
+<p>Understand the various methods of collecting data (survey, census, questionnaire)</p>
+<p><strong>Question</strong> The relationship between "collecting data" and "collecting primary" data seems arbitrary</p>
+</li>
+<li>
+<p>Select an appropriate sample and know if it is biased or not</p>
+</li>
+<li>Explain where you've seen data used in life - food, sports, online</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>Terms</th>
+<th>Definitions</th>
+<th>Examples and activities</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Population</td>
+<td>The group of things to make conclusions about</td>
+<td>Give concrete examples (PISA, hottest January - 2024 versus 1964, and Oz census ) to illustrate the size of populations, which are then illustrated below</td>
+</tr>
+<tr>
+<td>Census</td>
+<td>Collection of information bout the whole of a population</td>
+<td>- hottest temperature<br>- australian census data</td>
+</tr>
+<tr>
+<td>Survey</td>
+<td>?? Process of gathering information from a sample</td>
+<td></td>
+</tr>
+<tr>
+<td>Sample</td>
+<td>A subset of a population</td>
+<td></td>
+</tr>
+<tr>
+<td>Random Sample</td>
+<td>A subset of the population chosen such that every element of the population has an equal chance of being selected.</td>
+<td></td>
+</tr>
+<tr>
+<td>Representative sample</td>
+<td>Includes only members of the population being studied</td>
+<td></td>
+</tr>
+<tr>
+<td>Data</td>
+<td>A set of observations and measurements collected during any type of systematic investigation</td>
+<td></td>
+</tr>
+<tr>
+<td>Questionnaire</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Observation</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Measurement</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Bias</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Primary data</td>
+<td>Data you collected</td>
+<td></td>
+</tr>
+<tr>
+<td>Secondary data</td>
+<td>Data collected by someone else.</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<h4 id="lesson-activities">Lesson activities<a class="headerlink" href="#lesson-activities" title="Permanent link">#</a></h4>
+<p>Starter</p>
+<ul>
+<li>
+<p>perhaps a <a href="/Mathematics/notice-and-wonder.html">notice-and-wonder</a> activity with data/conclusions from a couple of the chosen "statistical investigations" or perhaps just data</p>
+<p>Perhaps a bit too group for a starter, but perhaps a leader into one of these might be useful. Could be just a TPS type activity.  Aim here being perhaps to get them asking questions about bias, sample size, how do people know?</p>
+</li>
+</ul>
+<p>ToC</p>
+<ul>
+<li>Introduce the driving question - including the Goompi version</li>
+<li>use some of the sample SIs to draw out more discussions link to the Goompi model</li>
+<li>touch on what we'll do in this lesson and the rest of the unit</li>
+</ul>
+<p>Tour of statistical investigation samples</p>
+<ul>
+<li>Delve more deeply into the different samples to introduce and illustrate the different terminology</li>
+<li>Can we get them recording/discussing/filling out some sort of worksheet with details on whether or not the different types of terminology helps/hinders drawing conclusions etc. -- better, structure it with questions that they can use for their own statistical investigation</li>
+<li>
+<p>For example - question about if these questions should focus on the statistical investigation or the reporting of it - highlight the PISA.</p>
+<ul>
+<li>What's the population?</li>
+<li>What's the sample?</li>
+<li>What methods were used to gather the data?</li>
+<li>What's the variation?</li>
+<li>What's the range?</li>
+</ul>
+</li>
+</ul>
+<p>Quality of decision making/reporting - build on the previous step but focus more on the reporting that has arisen around it (including mine re: temperature)</p>
+<div class="codehilite"><pre><span></span><code>**Important** This distinction between the reporting and the details could be very useful to make. Linked to the Goompi model
+
+- What did they say?
+- Can they say it?
+- Sources of bias and reliability? This might need to be exploratory and have some explicit teaching
+- **Need** identify how to visualise/demonstrate using randomly generated numbers to demonstrate random sampling
+</code></pre></div>
+
+<h3 id="lesson-3---primary--secondary-data">Lesson 3 - Primary &amp; Secondary data<a class="headerlink" href="#lesson-3---primary--secondary-data" title="Permanent link">#</a></h3>
+<p>Learning outcomes</p>
+<ul>
+<li>Understand the difference between primary and secondary data</li>
+<li>Understand various methods of collecting primary data (observation, measurement &amp; surveys)</li>
+<li>
+<p>Understand the source and reliability of secondary data</p>
+<ul>
+<li><em>me</em> Evaluate the quality of data</li>
+<li><em>me</em> Considering the constraints on them gathering data (small to medium)</li>
+<li><em>me</em> Have students start sharing the questions/topics they're interested in exploring</li>
+</ul>
+</li>
+</ul>
+<h4 id="lesson-activities_1">Lesson Activities<a class="headerlink" href="#lesson-activities_1" title="Permanent link">#</a></h4>
+<p>Starter</p>
+<ul>
+<li>Some connection with prior lesson and segue into this week</li>
+<li>
+<p><a href="/Mathematics/notice-and-wonder.html">notice-and-wonder</a> with using some secondary data - though all off the data I'm using is secondary</p>
+<ul>
+<li>perhaps showing some of the conditions for the gathering of the data I used</li>
+<li>the Colgate example would be useful</li>
+<li>Something health related (e.g. <a href="https://ed.ted.com/lessons/can-you-spot-the-problem-with-these-headlines-level-1-jeff-leek-and-lucy-mcgowan">this video</a>) could be useful, esp. if recent and real</li>
+<li>Aim being to get students to start identifying the components and start thinking about the source and reliability</li>
+<li>The PISA example is particularly good</li>
+</ul>
+</li>
+</ul>
+<p>ToC (unordered)</p>
+<ul>
+<li>Methods of collecting data</li>
+<li>
+<p>Sources of data (combine the two?)</p>
+<ul>
+<li><a href="https://www.theguardian.com/news/datablog/2013/may/31/times-tables-hardest-easiest-children">newspaper story</a> about a school answering the question "which times tables do students get wrong the most?" (or some such) - data generated by an app - and there's <a href="https://docs.google.com/spreadsheets/d/18QfP_gCptfo6Gf1Y5HAaiNBwrDMhGutyNk2qYl8zYmo/edit#gid=0">a spreadsheet with the data</a></li>
+<li>
+<p>Reliability of secondary data</p>
+</li>
+<li>
+<p>purpose of the original gathering</p>
+</li>
+<li>available details on the data they gathered and analysed (types of questions they need to ask for their investigation)</li>
+</ul>
+</li>
+</ul>
+<h3 id="lesson-4--5---organising--displaying-data">Lesson 4 &amp; 5 - Organising &amp; displaying data<a class="headerlink" href="#lesson-4--5---organising--displaying-data" title="Permanent link">#</a></h3>
+<ul>
+<li>
+<p><a href="https://www.theguardian.com/australia-news/2023/may/21/australias-rising-road-toll-how-the-pandemic-and-a-love-of-big-cars-are-putting-lives-at-risk">Guardian article on road deaths</a> includes a graph that might be useful as a starter - getting students to tell the story - but then showing <a href="https://en.wikipedia.org/wiki/List_of_motor_vehicle_deaths_in_Australia_by_year">wikipedia page</a> on motor vehicle deaths in Australia by year</p>
+<p>Graphs on wikipedia are currently down. Maybe get students to generate their own graphs from the data</p>
+<p><a href="https://www.aaa.asn.au/newsroom/road-deaths-continue-to-rise/">Australian Automobile Association</a> has a press release linking failure in government policy to reduce road deaths. A way to evaluate reality</p>
+</li>
+</ul>
+<h3 id="lesson-6---measures-of-centre--spread">Lesson 6 - Measures of centre &amp; spread<a class="headerlink" href="#lesson-6---measures-of-centre--spread" title="Permanent link">#</a></h3>
+<h3 id="lesson-7-8-assignment-lessons">Lesson 7-8 Assignment lessons<a class="headerlink" href="#lesson-7-8-assignment-lessons" title="Permanent link">#</a></h3>
+<ul>
+<li>Hand out</li>
+<li>Decide their topic</li>
+<li>Design survey Q</li>
+<li>Collect data</li>
+<li>Organise data into frequency table</li>
+</ul>
+<p>Questions</p>
+<ul>
+<li>What scaffolds/activities/starters do we need for this</li>
+</ul>
+<h3 id="lesson-9---measures-of-centre--spread">Lesson 9 - Measures of centre &amp; spread<a class="headerlink" href="#lesson-9---measures-of-centre--spread" title="Permanent link">#</a></h3>
+<h3 id="lesson-10-11-assignment-lessons">Lesson 10-11 Assignment lessons<a class="headerlink" href="#lesson-10-11-assignment-lessons" title="Permanent link">#</a></h3>
+<ul>
+<li>Collect data from other class</li>
+<li>Construct graph from frequency table</li>
+</ul>
+<h3 id="lesson-12---analysing-data">Lesson 12 - Analysing data<a class="headerlink" href="#lesson-12---analysing-data" title="Permanent link">#</a></h3>
+<p>Sources</p>
+<h3 id="lesson-13-14-assignment-lessons">Lesson 13-14 Assignment lessons<a class="headerlink" href="#lesson-13-14-assignment-lessons" title="Permanent link">#</a></h3>
+<ul>
+<li>Analyse data</li>
+<li>Write report</li>
+</ul>
+
+
+
+
+
+
+
+  
+  
+
+
+
+  
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+    
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+        <div class="md-social">
+  
+    
+    
+      
+    
+    
+    
+      
+      
+    
+    <a href="https://indieweb.social/@djplaner" target="_blank" rel="noopener me" title="indieweb.social" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M433 179.11c0-97.2-63.71-125.7-63.71-125.7-62.52-28.7-228.56-28.4-290.48 0 0 0-63.72 28.5-63.72 125.7 0 115.7-6.6 259.4 105.63 289.1 40.51 10.7 75.32 13 103.33 11.4 50.81-2.8 79.32-18.1 79.32-18.1l-1.7-36.9s-36.31 11.4-77.12 10.1c-40.41-1.4-83-4.4-89.63-54a102.5 102.5 0 0 1-.9-13.9c85.63 20.9 158.65 9.1 178.75 6.7 56.12-6.7 105-41.3 111.23-72.9 9.8-49.8 9-121.5 9-121.5m-75.12 125.2h-46.63v-114.2c0-49.7-64-51.6-64 6.9v62.5h-46.33V197c0-58.5-64-56.6-64-6.9v114.2H90.19c0-122.1-5.2-147.9 18.41-175 25.9-28.9 79.82-30.8 103.83 6.1l11.6 19.5 11.6-19.5c24.11-37.1 78.12-34.8 103.83-6.1 23.71 27.3 18.4 53 18.4 175z"/></svg>
+    </a>
+  
+    
+    
+    
+    
+      
+      
+    
+    <a href="https://github.com/djplaner" target="_blank" rel="noopener" title="github.com" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><!--! Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6m-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3m44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9M244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8M97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1m-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7m32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1m-11.4-14.7c-1.6 1-1.6 3.6 0 5.9s4.3 3.3 5.6 2.3c1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2"/></svg>
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    <script id="__config" type="application/json">{"base": "../../../../..", "features": ["navigation.tabs", "navigation.tabs.sticky", "navigation.instant", "navigation.tracking", "content.tabs.links", "navigation.expand", "navigation.indexes", "navigation.footer", "navigation.sections", "toc.follow", "header.autohide", "search.suggest"], "search": "../../../../../assets/javascripts/workers/search.f8cc74c7.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
+    
+    
+      <script src="../../../../../assets/javascripts/bundle.f1b6f286.min.js"></script>
+      
+        <script src="../../../../../javascripts/mathjax.js"></script>
+      
+        <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+      
+        <script src="https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js"></script>
+      
+        <script src="../../../../../javascripts/tablesort.js"></script>
+      
+    
+  <script id="init-glightbox">const lightbox = GLightbox({"touchNavigation": true, "loop": false, "zoomable": true, "draggable": true, "openEffect": "zoom", "closeEffect": "zoom", "slideEffect": "slide"});
+document$.subscribe(() => { lightbox.reload() });
+</script></body>
+</html>

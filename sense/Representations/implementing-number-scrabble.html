@@ -1,0 +1,2250 @@
+<!--
+ Copyright (C) 2023 David Jones
+ 
+ This program is free software: you can redistribute it and/or modify
+ it under the terms of the GNU Affero General Public License as
+ published by the Free Software Foundation, either version 3 of the
+ License, or (at your option) any later version.
+ 
+ This program is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ GNU Affero General Public License for more details.
+ 
+ You should have received a copy of the GNU Affero General Public License
+ along with this program.  If not, see <http://www.gnu.org/licenses/>.
+-->
+
+
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+        <meta name="author" content="David Jones">
+      
+      
+        <link rel="canonical" href="https://djplaner.github.io/memex/sense/Representations/implementing-number-scrabble.html">
+      
+      
+      
+      
+      <link rel="icon" href="../../assets/memex.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.6.5">
+    
+    
+      
+        <title>Implementing number scrabble - David's Memex</title>
+      
+    
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.8608ea7d.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.06af60db.min.css">
+      
+      
+
+
+    
+
+    
+    
+      
+    
+   <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+    <script>MathJax = {tex: 
+        {
+            inlineMath: [["$", "$"], ['\\(', '\\)']],
+            displayMath: [['$$', '$$'], ['\\[', '\\]']]
+        }
+     }</script>
+
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../../stylesheets/extra.css">
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+  
+
+
+  
+  
+
+<script id="__analytics">function __md_analytics(){function e(){dataLayer.push(arguments)}window.dataLayer=window.dataLayer||[],e("js",new Date),e("config","G-FRPL9T01XP"),document.addEventListener("DOMContentLoaded",(function(){document.forms.search&&document.forms.search.query.addEventListener("blur",(function(){this.value&&e("event","search",{search_term:this.value})}));document$.subscribe((function(){var t=document.forms.feedback;if(void 0!==t)for(var a of t.querySelectorAll("[type=submit]"))a.addEventListener("click",(function(a){a.preventDefault();var n=document.location.pathname,d=this.getAttribute("data-md-value");e("event","feedback",{page:n,data:d}),t.firstElementChild.disabled=!0;var r=t.querySelector(".md-feedback__note [data-md-value='"+d+"']");r&&(r.hidden=!1)})),t.hidden=!1})),location$.subscribe((function(t){e("config","G-FRPL9T01XP",{page_path:t.pathname})}))}));var t=document.createElement("script");t.async=!0,t.src="https://www.googletagmanager.com/gtag/js?id=G-FRPL9T01XP",document.getElementById("__analytics").insertAdjacentElement("afterEnd",t)}</script>
+  
+    <script>"undefined"!=typeof __md_analytics&&__md_analytics()</script>
+  
+
+    
+    
+    
+   <link href="../../assets/stylesheets/glightbox.min.css" rel="stylesheet"/><style>
+    html.glightbox-open { overflow: initial; height: 100%; }
+    .gslide-title { margin-top: 0px; user-select: text; }
+    .gslide-desc { color: #666; user-select: text; }
+    .gslide-image img { background: white; }
+    .gscrollbar-fixer { padding-right: 15px; }
+    .gdesc-inner { font-size: 0.75rem; }
+    body[data-md-color-scheme="slate"] .gdesc-inner { background: var(--md-default-bg-color);}
+    body[data-md-color-scheme="slate"] .gslide-title { color: var(--md-default-fg-color);}
+    body[data-md-color-scheme="slate"] .gslide-desc { color: var(--md-default-fg-color);}</style> <script src="../../assets/javascripts/glightbox.min.js"></script></head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="collections" data-md-color-primary="indigo" data-md-color-accent="indigo">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#design" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow md-header--lifted" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../.." title="David&#39;s Memex" class="md-header__button md-logo" aria-label="David's Memex" data-md-component="logo">
+      
+  <img src="../../assets/spider_web.png" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            David's Memex
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Implementing number scrabble
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="collections" data-md-color-primary="indigo" data-md-color-accent="indigo"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a4 4 0 0 0-4 4 4 4 0 0 0 4 4 4 4 0 0 0 4-4 4 4 0 0 0-4-4m0 10a6 6 0 0 1-6-6 6 6 0 0 1 6-6 6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12z"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="slate" data-md-color-primary="indigo" data-md-color-accent="indigo"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 18c-.89 0-1.74-.2-2.5-.55C11.56 16.5 13 14.42 13 12s-1.44-4.5-3.5-5.45C10.26 6.2 11.11 6 12 6a6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12z"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+        <div class="md-search__suggest" data-md-component="search-suggest"></div>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+      <div class="md-header__source">
+        <a href="https://github.com/djplaner/memex" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81"/></svg>
+  </div>
+  <div class="md-source__repository">
+    GitHub
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+    
+      
+<nav class="md-tabs" aria-label="Tabs" data-md-component="tabs">
+  <div class="md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../index.html" class="md-tabs__link">
+          
+  
+    
+  
+  Home
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../seek/seek.html" class="md-tabs__link">
+          
+  
+    
+  
+  Seek
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../sense.html" class="md-tabs__link">
+          
+  
+    
+  
+  Sense
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../share/share.html" class="md-tabs__link">
+          
+  
+    
+  
+  Share
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../birdwatching/birding.html" class="md-tabs__link">
+          
+  
+    
+  
+  Birding
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../landscape-garden/gardens.html" class="md-tabs__link">
+          
+  
+    
+  
+  Gardens
+
+        </a>
+      </li>
+    
+  
+
+      
+    </ul>
+  </div>
+</nav>
+    
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+  
+
+
+<nav class="md-nav md-nav--primary md-nav--lifted" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="David&#39;s Memex" class="md-nav__button md-logo" aria-label="David's Memex" data-md-component="logo">
+      
+  <img src="../../assets/spider_web.png" alt="logo">
+
+    </a>
+    David's Memex
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/djplaner/memex" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81"/></svg>
+  </div>
+  <div class="md-source__repository">
+    GitHub
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_1" >
+        
+          
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../index.html" class="md-nav__link ">
+              
+  
+  <span class="md-ellipsis">
+    Home
+    
+  </span>
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_1" id="__nav_1_label" tabindex="0">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_1_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_1">
+            <span class="md-nav__icon md-icon"></span>
+            Home
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../colophon/colophon.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Colophon
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Seek
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            Seek
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../seek/seek.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Seek
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../seek/seek-triage.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Triage list
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Sense
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            Sense
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../sense.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Sense
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_3_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_3_2" id="__nav_3_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Abstractions
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_2">
+            <span class="md-nav__icon md-icon"></span>
+            Abstractions
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../CASA/bad.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    BAD
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../CASA/casa.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    CASA
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Bricolage/herding-cats.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Herding Cats
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../CASA/know-thy-student.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Know thy student
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../nodt/nodt.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    nodt
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="representations.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Representations
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Sharing-design-knowledge/sharing-design-knowledge.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Sharing design knowledge
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../concepts/concepts.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Concepts
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_3_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_3_4" id="__nav_3_4_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Topics
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_4">
+            <span class="md-nav__icon md-icon"></span>
+            Topics
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../AI/AI.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    AI
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../computing/computing.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Computing
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Design/design.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Design
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../computing/floss.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    FLOSS/FOSS
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Learning/learning.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Learning
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Python/python.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Python
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../relational/relational.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Relational
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Research/research.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Research
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Society/society.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Society
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Web-development/web-development.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Web development
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_3_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_3_5" id="__nav_3_5_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Tasks
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_5">
+            <span class="md-nav__icon md-icon"></span>
+            Tasks
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Conferences/conferences.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Conferences
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../loose/loose.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Loose
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Paper-Ideas/paper-ideas.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Paper Ideas
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Paper-Summaries/paper-summaries.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Paper Summaries
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Recipes/recipes.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Recipes
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../work/work-categories.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Work
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_3_6" >
+        
+          
+          <label class="md-nav__link" for="__nav_3_6" id="__nav_3_6_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Teaching
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_6">
+            <span class="md-nav__icon md-icon"></span>
+            Teaching
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Teaching/teaching.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Teaching
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Quality-and-teaching/quality-and-teaching.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Quality and teaching
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Share
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4">
+            <span class="md-nav__icon md-icon"></span>
+            Share
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../share/share.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Overview
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../share/blog/blog-posts.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Blog
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+      
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_5" id="__nav_5_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Birding
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5">
+            <span class="md-nav__icon md-icon"></span>
+            Birding
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../birdwatching/birding.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Birding
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+      
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_6" >
+        
+          
+          <label class="md-nav__link" for="__nav_6" id="__nav_6_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Gardens
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6">
+            <span class="md-nav__icon md-icon"></span>
+            Gardens
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../landscape-garden/gardens.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Gardens
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#design" class="md-nav__link">
+    <span class="md-ellipsis">
+      Design
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#inspirations" class="md-nav__link">
+    <span class="md-ellipsis">
+      Inspirations
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#20-may-2023" class="md-nav__link">
+    <span class="md-ellipsis">
+      20 May 2023
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="20 May 2023">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#get-a-basic-working-representation" class="md-nav__link">
+    <span class="md-ellipsis">
+      Get a basic working representation
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#add-css-styling" class="md-nav__link">
+    <span class="md-ellipsis">
+      Add CSS styling
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#add-a-switch-to-change-the-representation" class="md-nav__link">
+    <span class="md-ellipsis">
+      Add a switch to change the representation
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#time-for-manual-changes" class="md-nav__link">
+    <span class="md-ellipsis">
+      Time for manual changes
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#trying-again-with-good-prompt-engineering" class="md-nav__link">
+    <span class="md-ellipsis">
+      Trying again with "good" prompt engineering
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+  
+  
+
+
+  <h1>Implementing number scrabble</h1>
+
+<p>See also: <a href="/memex/number-scrabble.html">number-scrabble</a>, <a href="/AI/AI.html">AI</a>, <a href="/CASA/number-scrabble-web.html">number-scrabble-web</a></p>
+<p>Vague idea to implement number scrabble in Svelte for demonstrations etc. Ended up going with a <a href="/CASA/number-scrabble-web.html">simple Javascript implementation</a> (for now)</p>
+<h2 id="design">Design<a class="headerlink" href="#design" title="Permanent link">#</a></h2>
+<ul>
+<li>very visual, perhaps use playing cards to represent the numbers </li>
+<li>the numbers should have different representations that can be switched between </li>
+</ul>
+<h2 id="inspirations">Inspirations<a class="headerlink" href="#inspirations" title="Permanent link">#</a></h2>
+<ul>
+<li>Get ChatGPT to help write it</li>
+</ul>
+<h2 id="20-may-2023">20 May 2023<a class="headerlink" href="#20-may-2023" title="Permanent link">#</a></h2>
+<h3 id="get-a-basic-working-representation">Get a basic working representation<a class="headerlink" href="#get-a-basic-working-representation" title="Permanent link">#</a></h3>
+<p>Start with number scrabble project with first LLM provided code</p>
+<p>Prompt </p>
+<blockquote>
+<p>I'd like to implement Number Scrabble as a Javascript application. Can you provide source code as a starting point?</p>
+</blockquote>
+<p>Response was some code including the following additional work </p>
+<blockquote>
+<p>To use this code, you'll need to create an HTML file that includes the necessary elements for the game's user interface (e.g., an equation display and score display) and link the JavaScript code to the HTML file. You can style the game elements using CSS to enhance the visual presentation.</p>
+</blockquote>
+<p>Prompt </p>
+<blockquote>
+<p>Please provide me with a sample of the required HTML file</p>
+</blockquote>
+<p>The provided HTML file appears correct, but the same error occurs <code>Uncaught TypeError: gameContainer is null</code></p>
+<p>Prompt </p>
+<blockquote>
+<p>What what you've provided I am getting the error "Uncaught TypeError: gameContainer is null". It appears that your initGame function assumes that there are already tiles within game-contain div, but there aren't any.  Can you please fix your Javascript and HTML?</p>
+</blockquote>
+<p>And that has a working representation. Click on the numbers to choose, but there are limitations </p>
+<ul>
+<li>Only 1 player </li>
+<li>Tiles are represented visually as numbers, not cards </li>
+<li>CSS styling is missing</li>
+</ul>
+<h3 id="add-css-styling">Add CSS styling<a class="headerlink" href="#add-css-styling" title="Permanent link">#</a></h3>
+<p>Process</p>
+<ol>
+<li>Style to have the tiles horizontal</li>
+<li>Apply some "fancy styling theme" </li>
+<li>Modify them to be playing cards - spades</li>
+</ol>
+<p>Prompt - horizontal</p>
+<blockquote>
+<p>I think it would work better if the tiles being selected were arranged horizontally, not vertically. Please provide some CSS to achieve this.</p>
+</blockquote>
+<p>Easy for it   </p>
+<p><a class="glightbox" href="/memex/images/horizontalTiles.png" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img alt="" src="/memex/images/horizontalTiles.png" /></a></p>
+<p>Prompt - But the equation tiles are a different styling.</p>
+<blockquote>
+<p>Please provide some CSS to ensure that the tiles display in the p#equation have the same visual styling.</p>
+</blockquote>
+<p>A simple copy and paste of the resulting code would've led to some duplicate code.  Removed that. But also, the Javascript didn't have the same <code>div.title</code> element wrapped around the element. </p>
+<p>Prompt - fix that </p>
+<blockquote>
+<p>Sorry, when you add the numbers to p#equation they aren't within a div.title element, can you fix your Javascript?</p>
+</blockquote>
+<p>Yep, had to remove the old code and copy in the new, but that's working. </p>
+<p>Prompt - fancy styling - new chat </p>
+<blockquote>
+<p>I understand that web design has gone through a number of different visual design styles. Can you name, describe, and provide links to 3 very different visual design styles for the web?</p>
+</blockquote>
+<p>First three examples are </p>
+<ul>
+<li><a href="https://material.io/design/">Material design</a></li>
+<li><a href="https://www.awwwards.com/inspiration/search?text=retro">Retro design</a></li>
+<li>Minimalist design - broken link </li>
+</ul>
+<p>Prompt - more please </p>
+<blockquote>
+<p>Could you suggest another three different web visual design styles?</p>
+</blockquote>
+<ul>
+<li><a href="https://www.awwwards.com/inspiration/search?text=flat">Flat design</a>  (this one was CoPilot's suggestion as I was editing this document)</li>
+<li><a href="https://www.awwwards.com/inspiration/search?text=metro">Metro design</a> (another from CoPilot)</li>
+<li><a href="https://www.awwwards.com/inspiration/search?text=skeuomorphic">Skeuomorphic design</a> (another from CoPilot) - copilot is even suggesting the <code>(another from CoPilot)</code> brackets</li>
+<li><a href="https://www.awwwards.com/inspiration/search?text=neumorphic">Neumorphic design</a> (another from CoPilot)</li>
+</ul>
+<p>ChatGPT provided </p>
+<ul>
+<li><a href="https://onepagelove.com/gallery/grunge">Grunge Design</a> - broken link</li>
+<li><a href="https://dribbble.com/tags/flat_design">Flat design</a></li>
+<li><a href="https://www.behance.net/search/projects?field=illustration">Illustrative design</a></li>
+</ul>
+<p>Prompt - let's go retro (I'm old)</p>
+<blockquote>
+<p>I understand that there are a number of visual design styles for the web. One example being retro design. Please update the CSS for number scrabble to use a retro design.</p>
+</blockquote>
+<p><a class="glightbox" href="/memex/images/retroStyle.png" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img alt="" src="/memex/images/retroStyle.png" /></a></p>
+<p>Prompt - illustrative looked fun </p>
+<blockquote>
+<p>Nice, could you do a redesign using the illustrative design style. Perhaps by drawing inspiration from famous Japanese anime</p>
+</blockquote>
+<p>Not a great success or difference </p>
+<p><a class="glightbox" href="/memex/images/anime1.png" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img alt="" src="/memex/images/anime1.png" /></a></p>
+<p>Prompt - a bit more specific </p>
+<blockquote>
+<p>I didn't detect any influence from Japanese anime. Perhaps try again drawing heavily on the visual design of Dragon Ball Z</p>
+</blockquote>
+<p>Not so much </p>
+<p><a class="glightbox" href="/memex/images/DragonBallZ.png" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img alt="" src="/memex/images/DragonBallZ.png" /></a></p>
+<p>Super Mario Brothers? </p>
+<p><a class="glightbox" href="/memex/images/Mario.png" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img alt="" src="/memex/images/Mario.png" /></a></p>
+<p>Prompt - stop focusing on colour scheme </p>
+<blockquote>
+<p>Update the CSS to make it the Super Mario Brothers inspiration much more obvious, but don't change the colour scheme. Instead, focus on changes to the typography, alignment, and imagery.</p>
+</blockquote>
+<p>There are limits, perhaps my ability to describe what I want visually? </p>
+<p><a class="glightbox" href="/memex/images/mario2.png" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img alt="" src="/memex/images/mario2.png" /></a></p>
+<p>Prompt - lets drop that and go material </p>
+<blockquote>
+<p>Okay, time to drop the illustrative visual design style and the Super Mario Brothers inspiration. Please update the CSS to align with the latest material design style you are aware of</p>
+</blockquote>
+<p><a class="glightbox" href="/memex/images/material.png" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img alt="" src="/memex/images/material.png" /></a></p>
+<p>Prompt - let's go with playing cards </p>
+<blockquote>
+<p>Rather than use simple numeric tiles, update the HTML and CSS to display playing cards. In particular, using spades as the card suit.</p>
+</blockquote>
+<p>My mistake, it provided HTML and CSS that wouldn't work with the existing Javascript. </p>
+<p>Prompt - do the lot </p>
+<blockquote>
+<p>Sorry, what you've provided requires the Javascript to also change. Please update the Javascript, CSS, and HTML to implement number scrabble using playing cards (the suit of spades) to represent the numbers.</p>
+</blockquote>
+<p>Yep, definitely starting to break down.</p>
+<blockquote>
+<p>Could you provide CSS and perhaps the necessary images to ensure that the cards look exactly like real playing cards?</p>
+</blockquote>
+<p>Better, added a hover effect as well (card moves up a bit), but it asks for the HTML to be modified manually. Let's see if we can get this back unified.</p>
+<p>Prompt</p>
+<blockquote>
+<p>Please regenerate the HTML, CSS and Javascript to correctly implement number scrabble using a material visual design style with the numbers being represented as playing cards using the spades suit</p>
+</blockquote>
+<p>Prompt - almost there, but missing some CSS and javascript </p>
+<blockquote>
+<p>Ahh, you've forgotten to retain the playing card representation when move cards to div#equation. Also, cards that are selected are not being removed from the div#card-container. Please update the Javascript to do this correctly.</p>
+</blockquote>
+<p>Prompt - yep, getting there, but equation cards are vertical </p>
+<blockquote>
+<p>Ahh but the cards being added into div#equation are displaying vertically. Please modify the CSS (and the HTML if required) to display the cards horizontally.</p>
+</blockquote>
+<p>Prompt - getting there, but the score isn't being updated </p>
+<blockquote>
+<p>The score is not being updated when cards are selected. Modify the Javascript so it is updated.</p>
+</blockquote>
+<p><a class="glightbox" href="/memex/images/working.png" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img alt="" src="/memex/images/working.png" /></a></p>
+<h3 id="add-a-switch-to-change-the-representation">Add a switch to change the representation<a class="headerlink" href="#add-a-switch-to-change-the-representation" title="Permanent link">#</a></h3>
+<p>The point of number scrabble is that it's an isomorph of tic-tac-toe when the cards are represented using a magic square. What would be good is to have a button to change the representation.</p>
+<p>Prompt - allow a switch between the two representations</p>
+<blockquote>
+<p>Number scrabble is isomorphic with tic-tac-toe when the numbers (i.e. the cards in div#card-container) are represented as a magic square. A 3x3 square where all the vertical, horizontal, and diagonal rows of 3 numbers add up to 15. Modify the HTML, CSS, and Javascript to a button labelled "Change Representation". When the button is clicked it should toggle the current representation of div#card-container between the original horizontal row of all the available cards and magic square representation. </p>
+</blockquote>
+<p>Almost, but the cards aren't displaying at the start and the magic square representation is just another horizontal row.</p>
+<p>Prompt - have the cards appear by default</p>
+<blockquote>
+<p>When first loaded there are no cards visible. Modify the Javascript so when first loaded the cards are displayed as a single horizontal row in ascending order</p>
+</blockquote>
+<p>Prompt - but no magic square being displayed </p>
+<blockquote>
+<p>The Javascript you provided is missing the code to modify the visual representation to the magic square. Please write a Javascript function called showMagicSquare that modifies the representation to display the magic square. Make sure this function does not remove cards from the square. Instead, the cards should be greyed out visually and not able to be clicked on.</p>
+</blockquote>
+<p>Prompt - but the CSS styling is missing </p>
+<blockquote>
+<p>The CSS you provided is missing the styling for div.magic-square to display the cards as a magic square. Please provide that styling
+ChatGPT</p>
+</blockquote>
+<p>Prompt - still no grid </p>
+<blockquote>
+<p>That CSS is displaying the cards horizontally. Not as a 3x3 grid (i.e. magic square). Modify the CSS so the magic square is shown as 3x3 grid</p>
+</blockquote>
+<p>Prompt - still not there </p>
+<blockquote>
+<p>Sorry that still doesn't work. Please modify the CSS and (if necessary) the HTML to use a grid container to display the magic-square as a 3 by 3 grid</p>
+</blockquote>
+<p>Still not there, close.  But updating all three (HTML/CSS/Javascript) isn't quite working. Again raising the question of whether I modify the code manually or try to prompt ChatGPT to re-do the whole thing? </p>
+<p>Prompt - simple re-do relying on its memory</p>
+<blockquote>
+<p>Please regenerate the HTML, CSS, and Javascript to capture all those changes</p>
+</blockquote>
+<p>Nope it forgot stuff.  Perhaps memory, perhaps limits on the size of the input. It is missing: </p>
+<ul>
+<li>Visual styling for the selected cards </li>
+<li>Showing the magic-square as a grid</li>
+<li>As a magic square the cards can't be clicked at all and have lost some visual styling</li>
+</ul>
+<h3 id="time-for-manual-changes">Time for manual changes<a class="headerlink" href="#time-for-manual-changes" title="Permanent link">#</a></h3>
+<p>Show more headers in the HTML to distinguish selected and available cards</p>
+<p>To switch between row and magic square change the class on card-container </p>
+<ul>
+<li>update the <code>showMagicSquare</code> function </li>
+<li>add the CSS for .magic-square</li>
+<li>remove .magic-square when switching back </li>
+</ul>
+<p>Create a createCard function to create the cards and use for both representations</p>
+<p>Update the selected cards when clicked using a CSS style</p>
+<p>Prompt - use ChatGPT to get some CSS for the back of a card.  Which will be shown when clicked </p>
+<blockquote>
+<p>Provide some CSS that emulates the back of a playing card.</p>
+</blockquote>
+<p>Prompt - a bit boring - a square - try again </p>
+<blockquote>
+<p>Can you provide better css for .card-back that better emulates the repeated diamond pattern common to the back of playing cards?</p>
+</blockquote>
+<p>Prompt - better, but black and grey </p>
+<blockquote>
+<p>What change would be necessary for that CSS to use red and green, rather than black and grey</p>
+</blockquote>
+<p>Modify equation to be a list and add visual card display </p>
+<p>...and I could go on, though might be better to re-implement in Svelte, or perhaps the real problem is that my <a href="/AI/prompt-engineering.html">prompt-engineering</a> sucks</p>
+<h3 id="trying-again-with-good-prompt-engineering">Trying again with "good" prompt engineering<a class="headerlink" href="#trying-again-with-good-prompt-engineering" title="Permanent link">#</a></h3>
+<p>Have gone away and revised <a href="/AI/prompt-engineering-for-educators.html">prompt-engineering-for-educators</a> and arrived at a <a href="/AI/prompt-engineering.html">prompt-engineering</a> template to be tried here.</p>
+<p><a href="/memex/number-scrabble-prompt.html">Prompt development</a></p>
+<p>Various evolutions </p>
+<ol>
+<li>Didn't display the cards at the start.</li>
+<li>Reworked the initial prompt to include the starting display, not there. It did include some code for magicSquare. Even though not requested.</li>
+<li>Same prompt as #2 but in a new chat. Intent being to avoid the magic square code.</li>
+</ol>
+<p>This version was closer but the limitations include </p>
+<ul>
+<li>Nothing obviously skeuomorphic about the design</li>
+<li>The playing cards are not shown as obviously playing cards. </li>
+<li>Clicking on cards is always adding to player 1s selected cards </li>
+<li>A NaN error for score and the number on the card (not converting to int?)</li>
+<li>The selected cards are not the same display as the available cards</li>
+<li>The player 1 and player 2 sections are not displayed not to each other</li>
+</ul>
+<p>Definitely a trend here, some issues fixed.  Turn taking is happening. Visual design of the cards is better, but problems include </p>
+<ul>
+<li>Score is being set to the value of the latest selected card, not the sum of all selected cards</li>
+<li>Displaying the back of the card isn't working anymore </li>
+</ul>
+<p>Prompt </p>
+<blockquote>
+<p>Each player's score is now being set to the value of the most recent selected card. Modify the Javascript so that each player's score is equal to the sum of all values for the cards they have selected.  Provide the complete modified Javascript files</p>
+</blockquote>
+
+
+
+
+
+
+
+  
+  
+
+
+
+  
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+    
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+        <div class="md-social">
+  
+    
+    
+      
+    
+    
+    
+      
+      
+    
+    <a href="https://indieweb.social/@djplaner" target="_blank" rel="noopener me" title="indieweb.social" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M433 179.11c0-97.2-63.71-125.7-63.71-125.7-62.52-28.7-228.56-28.4-290.48 0 0 0-63.72 28.5-63.72 125.7 0 115.7-6.6 259.4 105.63 289.1 40.51 10.7 75.32 13 103.33 11.4 50.81-2.8 79.32-18.1 79.32-18.1l-1.7-36.9s-36.31 11.4-77.12 10.1c-40.41-1.4-83-4.4-89.63-54a102.5 102.5 0 0 1-.9-13.9c85.63 20.9 158.65 9.1 178.75 6.7 56.12-6.7 105-41.3 111.23-72.9 9.8-49.8 9-121.5 9-121.5m-75.12 125.2h-46.63v-114.2c0-49.7-64-51.6-64 6.9v62.5h-46.33V197c0-58.5-64-56.6-64-6.9v114.2H90.19c0-122.1-5.2-147.9 18.41-175 25.9-28.9 79.82-30.8 103.83 6.1l11.6 19.5 11.6-19.5c24.11-37.1 78.12-34.8 103.83-6.1 23.71 27.3 18.4 53 18.4 175z"/></svg>
+    </a>
+  
+    
+    
+    
+    
+      
+      
+    
+    <a href="https://github.com/djplaner" target="_blank" rel="noopener" title="github.com" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><!--! Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6m-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3m44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9M244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8M97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1m-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7m32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1m-11.4-14.7c-1.6 1-1.6 3.6 0 5.9s4.3 3.3 5.6 2.3c1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2"/></svg>
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    <script id="__config" type="application/json">{"base": "../..", "features": ["navigation.tabs", "navigation.tabs.sticky", "navigation.instant", "navigation.tracking", "content.tabs.links", "navigation.expand", "navigation.indexes", "navigation.footer", "navigation.sections", "toc.follow", "header.autohide", "search.suggest"], "search": "../../assets/javascripts/workers/search.f8cc74c7.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.f1b6f286.min.js"></script>
+      
+        <script src="../../javascripts/mathjax.js"></script>
+      
+        <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+      
+        <script src="https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js"></script>
+      
+        <script src="../../javascripts/tablesort.js"></script>
+      
+    
+  <script id="init-glightbox">const lightbox = GLightbox({"touchNavigation": true, "loop": false, "zoomable": true, "draggable": true, "openEffect": "zoom", "closeEffect": "zoom", "slideEffect": "slide"});
+document$.subscribe(() => { lightbox.reload() });
+</script></body>
+</html>
