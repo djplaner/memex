@@ -11,8 +11,31 @@ Time for this site to evolve for [reasons explained here](https://djon.es/blog/2
 ## Purpose
 
 - reduce reliance on cloud services (e.g. github) and move to self-hosting, which also unifies my websites
+
+    Just about working
 - improve usefulness of home page 
-  - Move away from seek/sense/share
+
+    - Move away from seek/sense/share
+- Fix errors
+
+## New Methods
+
+### Publish site
+
+Publish site locally into a git repo and push changes to [djon.es/memex/](https://djon.es/memex/).
+
+1. Pre-requisite the site folder in the memex repo needs to be a clone of ssh://djones@djon.es/home/djones/public_html/memex/
+2. Edit memex markdown files and associated in site as per normal.
+3. from `memex` folder run `mkdocs build` to construct HTML in the site folder.
+4. commit the updated site folder by 
+    1. `cd site`
+    2. `git add -u`
+    3. `git commit -m "_Update text_"`
+    4. `git push -u origin master`
+
+### Update github published site
+
+Run `mkdocs gh-deploy --force` from the `memex` folder
 
 ## Dev log
 
@@ -39,14 +62,6 @@ Home page changes
 
 ### Technology 
 
-Publish site locally into a git repo and push changes to [djon.es/memex/](https://djon.es/memex/).
-
-1. Modify markdown files
-2. `mkdocs build`
-3. `cd site`
-4. `git add -u`
-5. `git commit -m "_Update text_"`
-6. `git push -u origin master`
 
 ### Self-publish
 
