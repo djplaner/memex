@@ -1,21 +1,4 @@
-<!--
- Copyright (C) 2023 David Jones
- 
- This program is free software: you can redistribute it and/or modify
- it under the terms of the GNU Affero General Public License as
- published by the Free Software Foundation, either version 3 of the
- License, or (at your option) any later version.
- 
- This program is distributed in the hope that it will be useful,
- but WITHOUT ANY WARRANTY; without even the implied warranty of
- MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
- GNU Affero General Public License for more details.
- 
- You should have received a copy of the GNU Affero General Public License
- along with this program.  If not, see <http://www.gnu.org/licenses/>.
--->
-
-# 001 - Exploring Australian Curriculum - Dev log
+## 001 - Exploring Australian Curriculum - Dev log
 
 See also: [[exploring-australian-curriculum]]
 
@@ -49,7 +32,7 @@ All the fields of the CSV become TEXT columns. `sqlite-utils` can be used to que
 sqlite-utils also offers ways to transform the data and the database.
 
 <figure markdown>
-[![](../images/dataSetteOzCurr.png)](images/dataSetteOzCurr.png)
+[![](../images/dataSetteOzCurr.png)](../images/dataSetteOzCurr.png)
 <figcaption>Initial Datasette visualisation of Australian Curriculum (click to see larger)</figcaption>
 </figure>
 

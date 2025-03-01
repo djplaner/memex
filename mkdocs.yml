@@ -49,6 +49,11 @@ theme:
     - header.autohide
     - search.suggest
 markdown_extensions: 
+  - pymdownx.pathconverter:
+      base_path: /memex/
+      relative_path: ''
+      absolute: true
+      tags: 'a script img link object embed'
   - pymdownx.arithmatex:
       generic: true
   - attr_list # https://squidfunk.github.io/mkdocs-material/reference/images/

@@ -2,32 +2,6 @@
 
 Description and reflections of create a very simple web component using [LitElement's live tutorial](https://lit-element.polymer-project.org/try)
 
-- [My First LitElement Web Component](#my-first-litelement-web-component)
-  - [Basic steps](#basic-steps)
-    - [Impressive first impression](#impressive-first-impression)
-    - [Creating a component](#creating-a-component)
-    - [Properties](#properties)
-    - [Logic in templates](#logic-in-templates)
-    - [Events source](#events-source)
-    - [Styling](#styling)
-  - [Writing your own - choices](#writing-your-own---choices)
-  - [Creating reusable components - LitElement process](#creating-reusable-components---litelement-process)
-  - [Create Open Web components](#create-open-web-components)
-  - [Creating a simple TrimesterDate component](#creating-a-simple-trimesterdate-component)
-    - [Specification](#specification)
-    - [Getting started](#getting-started)
-    - [Local dev server](#local-dev-server)
-    - [Making changes](#making-changes)
-    - [Building](#building)
-  - [Practical example](#practical-example)
-    - [Use the open-wc generator](#use-the-open-wc-generator)
-    - [Install other dependencies](#install-other-dependencies)
-    - [Write the code](#write-the-code)
-    - [Publish the component](#publish-the-component)
-    - [Using the web component](#using-the-web-component)
-  - [Finishing the trimester-date component](#finishing-the-trimester-date-component)
-    - [Load calendar information](#load-calendar-information)
-
 ## Basic steps
 
 Lot's not covered in this, including
@@ -286,7 +260,7 @@ As with the above
 
 Their example web component requires a bit more than mine.
 
-### Write the code  - <trimester-date>
+### Write the code
 
 It's also a bit more complex.  Good example of a more advanced component.
 

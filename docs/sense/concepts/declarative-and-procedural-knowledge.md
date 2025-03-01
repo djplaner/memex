@@ -12,13 +12,17 @@ Saks et al (2021, p. 2)
 
 > The development of procedural knowledge is related to the development of declarative knowledge. Most learning occurs through a combination of declarative and procedural memory. Declarative knowledge is proceduralised through practice, which makes it possible to make connections between these two types of knowledge. Adaptive control of thought–rational (ACT-R) theory [17] describes the knowledge transition from a declarative to a procedural form. However, procedural and declarative knowledge may also be acquired separately, independently of each other.
 
-## Declarative knowledge (aka descriptive, formal, propositional knowledge, or knowing-that)
+## Declarative knowledge 
+
+(aka descriptive, formal, propositional knowledge, or knowing-that)
 
 Saks et al (2021, p. 2)
 
 > Declarative knowledge (also called descriptive, formal, or propositional knowledge or knowing-that) refers to facts or information stored in the memory and is, therefore, sometimes called declarative memory [10]. It is considered static in nature. Declarative knowledge describes things, events, and processes, and their relation to each other. According to Berge and Hezewijk [10] and Tulving [11], declarative knowledge is not conscious until it is retrieved by cues. The retrieval of declarative knowledge requires meaningful cues and directed attention and even then, may retrieve only a limited amount of potentially available information.
 
-## Procedural knowledge (aka practical knowledge or knowing-how)
+## Procedural knowledge 
+
+(aka practical knowledge or knowing-how)
 
 Saks et al (2021, p. 2)
 

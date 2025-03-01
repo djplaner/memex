@@ -10,7 +10,7 @@ Slowly learning that there a numerous methods and as expected various controvers
 
 ## Wingham Brush Method
 
-Developed as part of restoration of the [Wingham Brush](https://en.wikipedia.org/wiki/Wingham_Brush_Nature_Reserve) after observation that the [Bradley Method](#the-bradley-method) - developed in Sydney  - was not the best fit for the rainforest environment.
+Developed as part of restoration of the [Wingham Brush](https://en.wikipedia.org/wiki/Wingham_Brush_Nature_Reserve) after observation that the [Bradley Method](#bradley-method) - developed in Sydney  - was not the best fit for the rainforest environment.
 
 ## Bradley Method
 
