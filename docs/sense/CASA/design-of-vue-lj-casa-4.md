@@ -20,18 +20,18 @@ Also starts the retrieval of course information from the Canvas API using `getCa
 
 Decide which component to display based on the group set id prop
 
-1. If no groupset, display the [cljEveryone component](#cljEveryone).
-2. if there is a group set, display the [cljGroupSet component](#cljGroupSet).
+1. If no groupset, display the [cljEveryone component](#cljeveryone).
+2. if there is a group set, display the [cljGroupSet component](#cljgroupset).
 
 ## cljEveryone
 
 Shown on the user's (people) page of a Canvas course to raise awareness that CLJ is available and to provide a link to the documentation.  Also via expansion provide a holder component that relies on sub-components to do the work
 
-- [cljGroupSets](#cljGroupSets)
+- [cljGroupSets](#cljgroupsets)
 
     Overview of all the groupsets currently in the course.
 
-- [cljCreateLearningJournal](#cljCreateLearningJournal)
+- [cljCreateLearningJournal](#cljcreatelearningjournal)
 
     Form to create a learning journal group set
 

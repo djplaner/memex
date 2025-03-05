@@ -8,9 +8,11 @@ See [[bad_set-casa-gather-weave]] for an attempt to bring together the BAD/SET, 
 
 Collections of technologies and practices that transform digital learning and teaching technologies. Developed in opposition to the generic, hard technologies currently littering higher education. As the acronym suggests, CASA are designed to be 
 
-- **C**ontextually-**A**ppropriate - specific to a particular learning activity and its context, aims, learners, teachers, etc.
-- **S**caffolding - actively seek to support/enable learners and teachers in the tasks they need to complete as part of the activity.
-- **A**ssemblages - designed so that learners and teachers are more easily able to intermingle the CASA into their personal collection of knowledge, tools, and ways of working.
+|   |   |
+| --- | --- | 
+| *C*ontextually-**A**ppropriate | specific to a particular learning activity and its context, aims, learners, teachers, etc. |
+| **S**caffolding | actively seek to support/enable learners and teachers in the tasks they need to complete as part of the activity. |
+| **A**ssemblages | designed so that learners and teachers are more easily able to intermingle the CASA into their personal collection of knowledge, tools, and ways of working. |
 
 - [[casa-design-principles]] - original design principles for CASA design
 

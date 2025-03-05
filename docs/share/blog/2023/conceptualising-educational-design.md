@@ -190,7 +190,7 @@ Perhaps it is because the translation of the design problem into practice/artefa
 ## Gather, weave, augment
 
 
-| ![](images/gatherWeaveAugment.png) |
+| ![](images/gatherWeaveAugment.PNG) |
 |:--:|
 | *Adapting, the adaptation to include gather, weave & augment* |
 

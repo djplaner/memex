@@ -67,10 +67,15 @@ The pandemic reinforced higher educations' difficulty responding to the long-obs
 
 The presentation will be structured around three common tasks: quality assurance of course sites; migrating content between two LMS; and, designing effective course sites. For each task a comparison will be made between the group's innovative orchestrations and standard institutional/vendor orchestrations. These comparisons will: demonstrate the benefits of the innovative orchestrations; outline the development process; and, explain the three principles informing this work - 1) contextual digital augmentation, 2) meso-level automation, and 3) generativity and adaptive reuse. The comparisons will also be used to establish the practical and theoretical inspirations for the approach, including: RPA and citizen development; and, convivial technologies (Illich, 1973), lightweight IT development (Bygstad, 2017), and socio-material understandings of educational technology (Dron, 2022). The breadth of the work will be illustrated through an overview of the growing catalogue of orchestrations using a gatherers, weavers, and augmenters taxonomy.
 ### References
+
 Bennett, S., Lockyer, L., & Agostinho, S. (2018). Towards sustainable technology-enhanced innovation in higher education: Advancing learning design by understanding and supporting teacher design practice. British Journal of Educational Technology, 49(6), 1014--1026\. https://doi.org/10.1111/bjet.12683
+
 Bygstad, B. (2017). Generative Innovation: A Comparison of Lightweight and Heavyweight IT: Journal of Information Technology. https://doi.org/10.1057/jit.2016.15
+
 Dron, J. (2022). Educational technology: What it is and how it works. AI & SOCIETY, 37, 155--166\. https://doi.org/10.1007/s00146-021-01195-z
+
 Ellis, R. A., & Goodyear, P. (2019). The Education Ecology of Universities: Integrating Learning, Strategy and the Academy. Routledge.
+
 Illich, I. (1973). Tools for Conviviality. Harper and Row.
 
 # Presentation structure

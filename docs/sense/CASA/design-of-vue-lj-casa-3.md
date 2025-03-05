@@ -23,7 +23,7 @@ Inline help links implemented with tooltips linking to a mkdocs site hosted on t
 
 ## Tasks
 
-- [ ] [Adopt/adapt the Collections tooltip/help approach](#tooltip/help-approach)
+- [ ] [Adopt/adapt the Collections tooltip/help approach](#tooltiphelp-approach)
 - [ ] Implement the root components for [the people](#people-page-root-component) and [group set pages](#group-set-page-root-component)
 - [ ] Implement [the reporting mechanism](#reporting-mechanism) for the group set pages
 

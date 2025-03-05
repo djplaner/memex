@@ -14,9 +14,9 @@
 # along with this program.  If not, see <http://www.gnu.org/li/licenses/>.
 
 site_name: "David's Memex"
-site_url: https://djplaner.github.io/memex/
+site_url: https://djon.es/memex/
 repo_url: https://github.com/djplaner/memex
-site_author: David Jones
+site_author: "David Jones"
 use_directory_urls: false
 
 theme:
@@ -49,11 +49,11 @@ theme:
     - header.autohide
     - search.suggest
 markdown_extensions: 
-  - pymdownx.pathconverter:
-      base_path: /memex/
-      relative_path: ''
-      absolute: true
-      tags: 'a script img link object embed'
+#  - pymdownx.pathconverter:
+#      base_path: /memex/
+#      relative_path: ''
+#      absolute: true
+#      tags: 'a script img link object embed'
   - pymdownx.arithmatex:
       generic: true
   - attr_list # https://squidfunk.github.io/mkdocs-material/reference/images/
@@ -129,9 +129,9 @@ nav:
   - Home: 
     - index.md
     - Colophon: colophon/colophon.md
-  - Seek: 
-    - seek/seek.md
-    - Triage list: seek/seek-triage.md
+#  - Seek: 
+#    - seek/seek.md
+#    - Triage list: seek/seek-triage.md
   - Sense: 
     - sense/sense.md
     - Abstractions:

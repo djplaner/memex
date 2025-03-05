@@ -70,7 +70,7 @@
 [concepts]: concepts/concepts "Concepts"
 [foundations]: principles/foundations "Foundations"
 [web-development]: Web-development/web-development "Web development"
-[quotes]: <quote collection/quotes> "Quotes"
+[quotes]: quote-collection/quotes "Quotes"
 [AI]: AI/AI "AI"
 [birding]: birdwatching/birding "Birding"
 [computing]: computing/computing "Computing"
