@@ -7,7 +7,7 @@ image_url: "https://djplaner.github.io/memex/sense/landscape-garden/plants/image
 
 See also: [[bunya-pine]]
 
-The original center piece of [[the-island]] at [[wood-duck-meadows]]. By the time we started work it had almost been entirely overgrown by [[asparagus-fern]]. 
+The original center piece of [[the-island]] at [[wood-duck-meadows]]. By the time we started work it had almost been entirely overgrown by [[asparagus-africanus]]. 
 
 <figure markdown>
 ![The original island bunya pine](images/bunya-pine-live-vine.jpeg)

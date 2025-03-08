@@ -17,6 +17,7 @@ site_name: "David's Memex"
 site_url: https://djon.es/memex/
 repo_url: https://github.com/djplaner/memex
 site_author: "David Jones"
+site_dir: ../memex_site
 use_directory_urls: false
 
 theme:
@@ -42,10 +43,12 @@ theme:
     - navigation.tracking
     - content.tabs.links
     - navigation.expand 
+    - navigation.path
     - navigation.indexes
     - navigation.footer
     - navigation.sections
-    - toc.follow
+#    - toc.follow
+#    - toc.integrate
     - header.autohide
     - search.suggest
 markdown_extensions: 
@@ -68,8 +71,10 @@ markdown_extensions:
   - tables
 #  - nl2br # newline-to-break 
   - toc:
-      permalink: '#' # heading anchor 
-      slugify: !!python/object/apply:pymdownx.slugs.slugify {kwds: {case: lower}}
+#      slugify: !!python/object/apply:pymdownx.slugs.slugify 
+#        kwds: 
+#          case: lower
+#      permalink: '#' # heading anchor 
   - admonition
   - codehilite:
       guess_lang: false
@@ -95,7 +100,10 @@ markdown_extensions:
   - pymdownx.tilde
 plugins:
   - glightbox
+  - mkdocs-video
   - search
+#  - literate-nav:
+#      nav_file: NAV.md
   - roamlinks 
     #- autolinks 
   - exclude:
@@ -129,47 +137,55 @@ nav:
   - Home: 
     - index.md
     - Colophon: colophon/colophon.md
+  - Wood duck meadows:
+    - Wood duck meadows: sense/landscape-garden/wood-duck-meadows.md
+  - Plants: 
+    - Plants: sense/landscape-garden/plants/plants.md
+    - Bunya Pine: sense/landscape-garden/plants/bunya-pine.md
+  - PKM:
+    - PKM: pkm.md
 #  - Seek: 
 #    - seek/seek.md
 #    - Triage list: seek/seek-triage.md
-  - Sense: 
-    - sense/sense.md
-    - Abstractions:
-      - BAD: sense/CASA/bad.md
-      - CASA: sense/CASA/casa.md
-      - Herding Cats: sense/Bricolage/herding-cats.md
-      - Know thy student: sense/CASA/know-thy-student.md
-      - nodt: sense/nodt/nodt.md
-      - Representations: sense/Representations/representations.md
-      - Sharing design knowledge: sense/Sharing-design-knowledge/sharing-design-knowledge.md
-    - Concepts: sense/concepts/concepts.md
-    - Topics:
-      - AI: sense/AI/AI.md
-      - Computing: sense/computing/computing.md
-      - Design: sense/Design/design.md
-      - FLOSS/FOSS: sense/computing/floss.md
-      - Learning: sense/Learning/learning.md
-      - Python: sense/Python/python.md
-      - Relational: sense/relational/relational.md
-      - Research: sense/Research/research.md
-      - Society: sense/Society/society.md
-      - Web development: sense/Web-development/web-development.md
-    - Tasks:
-      - Conferences: sense/Conferences/conferences.md
-      - Loose: sense/loose/loose.md
-      - Paper Ideas: sense/Paper-Ideas/paper-ideas.md
-      - Paper Summaries: sense/Paper-Summaries/paper-summaries.md
-      - Recipes: sense/Recipes/recipes.md
-      - Work: sense/work/work-categories.md
-    - Teaching:
-      - sense/Teaching/teaching.md
-      - Quality and teaching: sense/Quality-and-teaching/quality-and-teaching.md
+#  - Sense: 
+#    - sense/sense.md
+#    - Abstractions:
+#      - BAD: sense/CASA/bad.md
+#      - CASA: sense/CASA/casa.md
+#      - Herding Cats: sense/Bricolage/herding-cats.md
+#      - Know thy student: sense/CASA/know-thy-student.md
+#      - nodt: sense/nodt/nodt.md
+#      - Representations: sense/Representations/representations.md
+#      - Sharing design knowledge: sense/Sharing-design-knowledge/sharing-design-knowledge.md
+#    - Concepts: sense/concepts/concepts.md
+#    - Topics:
+#      - AI: sense/AI/AI.md
+#      - Computing: sense/computing/computing.md
+#      - Design: sense/Design/design.md
+#      - FLOSS/FOSS: sense/computing/floss.md
+#      - Learning: sense/Learning/learning.md
+#      - Python: sense/Python/python.md
+#      - Relational: sense/relational/relational.md
+#      - Research: sense/Research/research.md
+#      - Society: sense/Society/society.md
+#      - Web development: sense/Web-development/web-development.md
+#    - Tasks:
+#      - Conferences: sense/Conferences/conferences.md
+#      - Loose: sense/loose/loose.md
+#      - Paper Ideas: sense/Paper-Ideas/paper-ideas.md
+#      - Paper Summaries: sense/Paper-Summaries/paper-summaries.md
+#      - Recipes: sense/Recipes/recipes.md
+#      - Work: sense/work/work-categories.md
+#    - Teaching:
+#      - sense/Teaching/teaching.md
+#      - Quality and teaching: sense/Quality-and-teaching/quality-and-teaching.md
 #    - Principles
 #    - Society
-  - Share: 
-    - Overview: share/share.md
-    - Blog: share/blog/blog-posts.md 
-  - Birding:
-    - Birding: sense/birdwatching/birding.md 
-  - Gardens:
-    - Gardens: sense/landscape-garden/gardens.md
+##
+#  - Share: 
+#    - Overview: share/share.md
+#    - Blog: share/blog/blog-posts.md 
+#  - Birding:
+#    - Birding: sense/birdwatching/birding.md 
+#  - Gardens:
+#    - Gardens: sense/landscape-garden/gardens.md

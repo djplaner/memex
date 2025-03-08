@@ -59,7 +59,7 @@ The nuts can be eaten raw but it's suggested they are tastier cooked. Options in
 
 ### 2024 clearing the island 
 
-The bunya pine on [[the-island]] - like much of [[the-island]] - was suffering from the impact of [[asparagus-fern]]. The following images illustrate our work to rescue it.
+The bunya pine on [[the-island]] - like much of [[the-island]] - was suffering from the impact of [[asparagus-africanus]]. The following images illustrate our work to rescue it.
 
 <figure markdown>
 ![The island's Bunya Pine being suffocated by asparagus fern](images/bunya-pine-live-vine.jpeg)

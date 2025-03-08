@@ -10,6 +10,8 @@ About a half-acre of largely ignored [eucalypt woodland](https://www.qld.gov.au/
 
 Initial intent is to clean it up and transform it into something far more native and enjoyable. Perhaps a [[dry-rainforest]]?
 
+## Location
+
 <figure markdown>
 ![Gatton Creek frontage](./images/gatton-creek-frontage.jpg)
 <figcaption>Gatton Creek frontage location</figcaption>
@@ -17,9 +19,11 @@ Initial intent is to clean it up and transform it into something far more native
 
 ## History 
 
-Initial work started in November 2024 with the removal of a long section of [[agave]] that had taken over the top of the creek bank. From a positive perspective, the agave has probably slowed down the spread of lantana and [[madeira-vine]]. Initial [[agave]] removal completed on Xmas day 2024.
-
-Late December 2024 discovered [[wombat-berry]].
+| Date | Work |
+| ---- | ---- |
+| Nov-Dec 2024 | Removal of a long section of [[agave]] that had taken over the top of the creek bank. From a positive perspective, the agave has probably slowed down the spread of lantana and [[madeira-vine]]. Initial [[agave]] removal completed on Xmas day 2024. |
+| Late Dec 2024 | Discovered [[wombat-berry]] growing in the area. |    
+| Jan-Mar 2025 | Foliar spraying and pulling [[madeira-vine]] and [[agave]] regrowth. |
 
 
 
