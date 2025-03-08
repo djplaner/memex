@@ -10,7 +10,7 @@
 Same post has Danny Hills (who worked with Alan Kay) refined it a touch
 > "Technology," Hills says, "is everything that doesn't work yet"
 
-Which links nicely to Postman's 5th idea that [technology becomes mythic](../../share/Five-things-we-need-to-know-about-technological-change.md#fifth-idea---technology-tends-to-become-mythic)
+Which links nicely to Postman's 5th idea that [technology becomes mythic](../../share/Five-things-we-need-to-know-about-technological-change.md#fifth-idea-technology-tends-to-become-mythic)
 
 ## What you get for free
 

@@ -44,7 +44,7 @@ There look likely to be different projects that will become more useful. Still v
 
 1. [Preparation](#preparation) ✔  - install the software on my laptop  
 2. [Initial testing](#initial-testing) ✔ - get the software working with the supplied test file 
-3. [Test with blog posts](#test-with-blog-posts) ❌   - this initial experiment didn't work and led to the work in the [late update section](#late-update---mingw), includes some details of the process used to convert blog posts to files 
+3. [Test with blog posts](#test-with-blog-posts) ❌   - this initial experiment didn't work and led to the work in the [late update section](#late-update-mingw), includes some details of the process used to convert blog posts to files 
 4. [Working personal chat bot](#working-personal-blog-chat-bot) ✔ - some early questions were asked and answered 
 5. [Refinements and what's next?](#refinements-to-privategpt-and-possible-next-steps) 
 
@@ -208,7 +208,7 @@ And appeared it might be stuck. Try a lot less files - try with 10 and delete th
 
 ## Working personal blog "chat bot" 
 
-With the [late update](#late-update---mingw) all is working. I've a locally working GPT chat bot for [my personal blog](https://djon.es/blog) 
+With the [late update](#late-update-mingw) all is working. I've a locally working GPT chat bot for [my personal blog](https://djon.es/blog) 
 
 What follows is some of the queries I've tried. Formatted for display and accompanied with some commentary. 
 

@@ -49,7 +49,7 @@ List of current development tasks for the [Canvas Learning Journal](https://gith
 
 - Defining group set status as a learning journal 
 
-    - [x] document [status](vue-canvas-learning-journal.md#group-set--learning-journal-states)
+    - [x] document [status](vue-canvas-learning-journal.md#group-set-learning-journal-states)
     - [x] lmsDataApi - implement a 'learningJournalState' property
     - [x] implement the cljStatusLearningJournal component
     - [x] modify cljEveryone to show that state/status
