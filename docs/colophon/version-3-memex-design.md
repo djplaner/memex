@@ -10,13 +10,13 @@ Time for this site to evolve for [reasons explained here](https://djon.es/blog/2
 
 ## Purpose
 
-1. Reduce reliance on cloud services (e.g. github) and move to self-hosting, which also unifies my websites
+1. Reduce reliance on cloud services (e.g. github) and move to self-hosting, which also unifies my websites **DONE**
 
     - Memex now being published on my personal URL [https://djon.es/memex/](https://djon.es/memex/)
     - Old github pages site redirects to the new URL
     - See [Publish site](#publish-site) for more
 
-2. Improve usefulness of home page 
+2. Improve usefulness of home page **Initial work DONE**
 
     - Move away from seek/sense/share
 

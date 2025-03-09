@@ -66,6 +66,16 @@ Decades later and there are systems (e.g. Obsidian and Notion) and concepts like
 
     Mike Caufield delves into the how the Smallest Federated Wiki (SFW) - aka [Federated Wiki](https://en.wikipedia.org/wiki/Federated_Wiki) - offers to improve the basic web into something a little more informed by insights from Ted Nelson and beyond.
 
+- [Wiki Principles](https://wiki.c2.com/?WikiPrinciples) originally developed by Ward Cunningham
+    - Easy text entry
+    - Automatic link generation 
+    - Content editable by all
+    - Recent changes
+    - Search a page by title and/or contents
+    - Quick diff
+    - Page list (list all pages on the wiki)
+    - Backlinks (findn all pages pointing to a page)
+
 ### Other examples
 
 Random examples of what others have achieved using Foam combine with other technologies

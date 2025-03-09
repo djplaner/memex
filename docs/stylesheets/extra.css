@@ -67,10 +67,16 @@
     border-radius: 5px;
     background-color: var(--md-default-fg-color--lightest);
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    padding: 1rem;
   }
-  
+
+  figure > p {
+    padding: 0rem;
+  }
+
   figcaption {
     font-size: 0.7rem;
+    padding: 1rem;
   }
   
   img {
