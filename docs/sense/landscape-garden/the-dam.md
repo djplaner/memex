@@ -12,10 +12,15 @@ Fed by road runoff the dam surrounds [[the-island]] and (occasionally) provides 
 
     **2025** Initial clearing of the bank surrounding the dam and initial experiments in regeneration
 
+<figure markdown>
+![Looking north across the dam back toward the house in August 2024. Reflection of the big Cadaghi tree and some Acacia scrub visible.](./images/the-dam-2023.jpeg)
+<caption>Looking north across [[the-dam]] back toward [[house]] in August 2023. Reflection fo the Cadaghi ([[corymbia-torelliana]]) tree and some Acacia scrub visible.</caption>
+</figure>
+
 ## Location
 
 <figure markdown>
-![Map of property showing the dam to the south of the house. Also visible is the island within the dam](./images/the-dam.jpg)
+![Map of property showing the dam to the south of the house. Also visible is the island within the dam](./images/the-dam-location.jpg)
 <caption>Location of the dam to the south of the house</caption>
 </figure>
 
