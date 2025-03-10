@@ -47,6 +47,7 @@ See: [[pkm]]
 | [[paper-summaries]] | Where the ideas of others go to die |
 | [[recipes]] | Probably the most used section |
 | [[work-categories]] | Really boring stuff |
+| [[health-check]] | One measure of health |
 
 
 ## Teaching
@@ -90,6 +91,7 @@ See: [[pkm]]
 [paper-summaries]: Paper-Summaries/paper-summaries "Paper Summaries"
 [recipes]: Recipes/recipes "Recipes"
 [work-categories]: work/work-categories "Work categories"
+[health-check]: health/health-check "Health check"
 [teaching]: Teaching/teaching "Teaching"
 [quality-and-teaching]: Quality-and-teaching/quality-and-teaching "Quality and teaching"
 [digital-literacy]: Learning/digital-literacy "Digital Literacy"

@@ -16,6 +16,7 @@ The following provides a summary of the plants we've removed, planted, or cared 
 - [[harpullia-pendula]] (aka Moreton Bay Tulipwood)
 - [[ficus-macrophylla]] (Moreton Bay Fig)
 - [[corymbia-torelliana]] (aka Cadaghi) which is native to North Queensland but considered an [environmental pest](https://weeds.brisbane.qld.gov.au/weeds/cadaghi) in South East Queensland.
+- [[macadamia]]
 
 ### Flowers
 
@@ -76,6 +77,7 @@ The following provides a summary of the plants we've removed, planted, or cared 
 [harpullia-pendula]: harpullia-pendula "Harpullia Pendula (Moreton Bay Tulipwood)"
 [ficus-macrophylla]: ficus-macrophylla "Ficus Macrophylla (Moreton Bay Fig)"
 [corymbia-torelliana]: corymbia-torelliana "corymbia-torelliana"
+[macadamia]: macadamia "Macadamia"
 [dendrodbium-taberi]: dendrodbium-taberi "Dendrodbium taberi (King Orchid)"
 [wombat-berry]: wombat-berry "Wombat Berry"
 [common-rush]: common-rush "Common Rush"

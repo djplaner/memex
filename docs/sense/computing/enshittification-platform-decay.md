@@ -1,2 +1,0 @@
-# enshittification|Platform Decay
-
