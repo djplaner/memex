@@ -4,7 +4,7 @@ type: "note"
 tags: colophon, computational-component 
 ---
 
-See also: [[computational-components]]
+See also: [[computational-components]], [wood-duck-gallery](../sense/landscape-garden/wood-duck-gallery.md)
 
 ## Purpose
 
@@ -31,6 +31,8 @@ The resulting page will mirror the user-experience of the [[life-list-gallery]]:
 - Each section to provide links to the originating page.
 
 ## Initial algorithm design
+
+End result was quite different. Major change was loading page content in the initial retrieve methods.
 
 ```Python
 

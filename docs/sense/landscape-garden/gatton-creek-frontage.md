@@ -1,7 +1,7 @@
 ---
-title: "Gatton creek frontage"
-type: "region"
-tags: gardens, region 
+title: Gatton creek frontage
+type: zone
+tags: [gardens, region ]
 ---
 
 See also: [[wood-duck-meadows]]

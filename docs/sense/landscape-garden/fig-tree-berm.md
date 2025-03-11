@@ -1,6 +1,6 @@
 ---
-title: 'Fig tree berm'
-type: 'note'
+title: Fig tree berm
+type: zone
 tags: gardens, sense, landscape
 ---
 
@@ -13,7 +13,7 @@ Fig tree berm is a pre-existing berm located near the bunker. The site for early
     Two rounds of initial clearing undertaken to clear out ground cover weeds. Plans what to do incomplete.
 
 <figure markdown>
-![](./images/fig-tree-berm-2024.jpeg)
+![Fig-tree berm in 2024. Fig tree in the foreground with the large Cadaghi behind.](./images/fig-tree-berm-2024.jpeg)
 <caption>2024 photo of the Fig-tree berm. The fig tree is most visible with the Cadaghi ([[corymbia-torelliana]]) tree behind it.</caption>
 </figure>
 
@@ -52,7 +52,7 @@ Was initially leaning toward [[leucaena-leucocephala]] as the pioneer plant. It 
 [wood-duck-meadows]: wood-duck-meadows "Wood duck meadows"
 [corymbia-torelliana]: plants/corymbia-torelliana "corymbia-torelliana"
 [improving-clay-soil]: improving-clay-soil "Improving clay soil"
-[leucaena-leucocephala]: leucaena-leucocephala "Leucaena leucocephala"
+[leucaena-leucocephala]: plants/leucaena-leucocephala "Leucaena leucocephala"
 [megathyrsus-maximus]: plants/megathyrsus-maximus "Megathyrsus maximus (Guinea grass)"
 [passiflora-suberosa]: plants/passiflora-suberosa "Passiflora suberosa (Corky passion vine)"
 [solanum-americanum]: plants/solanum-americanum "Solanum americanum (American black nightshade)"

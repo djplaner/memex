@@ -1,7 +1,7 @@
 ---
-title: "Horse paddock"
-type: "region"
-tags: gardens, landscape
+title: Horse paddock
+type: zone
+tags: [gardens, landscape]
 ---
 
 See also: [[wood-duck-meadows]]

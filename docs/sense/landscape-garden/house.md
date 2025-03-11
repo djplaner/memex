@@ -1,6 +1,6 @@
 ---
-title: "House"
-type: "note"
+title: House
+type: zone
 tags: wood-duck-meadows
 ---
 

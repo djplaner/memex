@@ -1,6 +1,6 @@
 ---
-title: "The Circle"
-type: "note"
+title: The Circle
+type: zone
 tags: wood-duck-meadows
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Dry Rainforest"
-type: "note"
+title: Dry Rainforest
+type: note
 tags: sense, landscape, garden
 ---
 

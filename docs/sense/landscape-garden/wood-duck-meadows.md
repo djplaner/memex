@@ -1,6 +1,6 @@
 ---
-title: 'Wood duck meadows'
-type: 'note'
+title: Wood duck meadows
+type: note
 tags: gardens, sense, landscape
 ---
 

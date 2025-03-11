@@ -1,6 +1,6 @@
 ---
-title: 'Pecan corner'
-type: 'note'
+title: Pecan corner
+type: zone 
 tags: gardens, sense, landscape
 ---
 

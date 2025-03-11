@@ -1,7 +1,7 @@
 ---
-title: "Roundabout"
-type: "region"
-tags: gardens, landscape
+title: Roundabout
+type: zone
+tags: [gardens, landscape]
 ---
 
 See also: [[wood-duck-meadows]]

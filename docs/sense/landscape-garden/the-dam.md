@@ -1,6 +1,6 @@
 ---
-title: "The Dam"
-type: "note"
+title: The Dam
+type: zone
 tags: wood-duck-meadows
 ---
 

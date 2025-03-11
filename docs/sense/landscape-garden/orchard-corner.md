@@ -1,7 +1,7 @@
 ---
-title: 'The Orchard (Orchard corner)'
-type: 'note'
-tags: gardens, sense, landscape
+title: The Orchard (Orchard corner)
+type: zone
+tags: [gardens, sense, landscape]
 ---
 
 See also: [[wood-duck-meadows]]

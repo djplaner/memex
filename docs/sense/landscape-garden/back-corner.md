@@ -1,6 +1,6 @@
 ---
-title: "The back corner"
-type: "note"
+title: The back corner
+type: zone
 tags: wood-duck-meadows
 ---
 

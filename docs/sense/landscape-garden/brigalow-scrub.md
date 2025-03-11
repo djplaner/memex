@@ -1,6 +1,6 @@
 ---
-title: 'Brigalow scrub'
-type: 'note'
+title: Brigalow scrub
+type: note
 tags: gardens, landscape, wood-duck-meadows
 ---
 

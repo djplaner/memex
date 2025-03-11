@@ -1,7 +1,7 @@
 ---
-title: "The Island"
-type: "note"
-tags: gardens, sense, landscape
+title: The Island
+type: zone
+tags: [gardens, sense, landscape]
 ---
 
 See also: [[wood-duck-meadows]]

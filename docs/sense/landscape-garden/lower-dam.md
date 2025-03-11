@@ -1,6 +1,6 @@
 ---
-title: "The lower dam"
-type: "region"
+title: The lower dam
+type: zone
 tags: gardens, landscape
 ---
 
