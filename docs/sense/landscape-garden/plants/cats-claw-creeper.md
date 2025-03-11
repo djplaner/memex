@@ -41,22 +41,22 @@ Spray new growth.
 
 <figure markdown>
 ![Sapling with simple leaves](https://www.datocms-assets.com/47611/1629193969-macfadyenaunguis-cati7.jpg?ar64=MTY6OQ&fit=crop&fm=webp&w=1440)
-<figcaption>Sapling (Cats Claw) with simple leaves</figcaption>
+<caption>Sapling (Cats Claw) with simple leaves</caption>
 </figure>
 
 <figure markdown>
 ![Large yellow flowers](https://weeds.dpi.nsw.gov.au/WeedImages/ShowPhoto/3679)
-<figcaption>Large yellow flowers</figcaption>
+<caption>Large yellow flowers</caption>
 </figure>
 
 <figure markdown>
 ![Three-pronged tendrils](https://weeds.dpi.nsw.gov.au/WeedImages/ShowPhoto/3680)
-<figcaption>Three-pronged tendrils</figcaption>
+<caption>Three-pronged tendrils</caption>
 </figure>
 
 <figure markdown>
 ![Mature fruit](https://www.datocms-assets.com/47611/1629193951-macfadyenaunguis-cati4.jpg?ar64=MTY6OQ&fit=crop&fm=webp&w=1440)
-<figcaption>Mature fruit</figcaption>
+<caption>Mature fruit</caption>
 </figure>
 
 

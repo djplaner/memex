@@ -4,7 +4,7 @@ type: 'note'
 tags: gardens, sense, landscape
 ---
 
-See also: [[gardens]]
+See also: [[gardens]], [wood-duck-gallery](./wood-duck-gallery.md)
 
 Home since 2012. Property was historically used for small scale farming/market garden before being broken up into smaller lots. Our block being the original homestead and the largest at 10 acres. 
 

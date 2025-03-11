@@ -1,6 +1,6 @@
 ---
-title: "Schinus Terebinthifolia (Brazilian pepper tree)"
-type: "plant"
+title: Schinus Terebinthifolia (Brazilian pepper tree)
+type: plants
 tags: garden, plant
 ---
 
@@ -14,7 +14,7 @@ Apparently planted by previous owners. Visible and removed from the [[roundabout
 
 <figure markdown>
 ![Before & after of the pepper tree mini-forest - 2 Feb 2025](images/pepper-before-after-small.jpg)
-<figcaption>Before & after of the pepper tree mini-forest - 2 Feb 2025</figcaption>
+<caption>Before & after of the pepper tree mini-forest - 2 Feb 2025</caption>
 </figure>
 
 

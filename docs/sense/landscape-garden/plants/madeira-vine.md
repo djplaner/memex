@@ -1,6 +1,6 @@
 ---
-title: "Madeira vine"
-type: "note"
+title: Madeira vine
+type: plants
 tags: garden, plant, weed, vine
 ---
 
@@ -30,12 +30,12 @@ Single treatment needs following up.
 
 <figure markdown>
 ![Madeira vine, leaves and flowers](https://images.ala.org.au/image/proxyImageThumbnailLarge?imageId=00a0ecd8-0cde-467d-a7a7-634919431e94)
-<figcaption>Madeira vine, leaves and flowers</figcaption>
+<caption>Madeira vine, leaves and flowers</caption>
 </figure>
 
 <figure markdown>
 ![Madeira vine leaves](https://images.ala.org.au/image/proxyImageThumbnailLarge?imageId=9a66a656-1dc3-4436-a642-437c2d966168)
-<figcaption>Madeira vine leaves</figcaption>
+<caption>Madeira vine leaves</caption>
 </figure>
 
 ## Experience

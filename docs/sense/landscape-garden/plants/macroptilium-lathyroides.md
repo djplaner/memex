@@ -14,7 +14,7 @@ Found growing on the [[fig-tree-berm]] in February 2025.
 
 <figure markdown>
 ![Phasey Bean](./images/phasey-bean.jpeg)
-<figcaption>Phasey Bean</figcaption>
+<caption>Phasey Bean</caption>
 </figure>
 
 

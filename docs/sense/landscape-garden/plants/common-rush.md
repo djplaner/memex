@@ -1,7 +1,7 @@
 ---
-title: "Common Rush"
-type: "note"
-tags: gardens, landscape
+title: Common Rush
+type: note
+tags: 'gardens, landscape'
 ---
 
 See also: [[plants]]

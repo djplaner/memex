@@ -91,6 +91,7 @@ plugins:
   - gen-files:
       scripts:
         - util/hello_world.py ## initial test case for mdocs-gen-files
+        - util/generators/woodDuck.py ## under dev wood duck meadows generator
   - macros:
       render_by_default: false
   - literate-nav:

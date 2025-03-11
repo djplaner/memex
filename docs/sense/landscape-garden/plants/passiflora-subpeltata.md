@@ -1,6 +1,6 @@
 ---
-title: "Passiflora subpeltata (White passionflower)"
-type: "plants"
+title: Passiflora subpeltata (White passionflower)
+type: plants
 tags: gardens
 ---
 

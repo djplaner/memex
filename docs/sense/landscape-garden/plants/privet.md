@@ -1,6 +1,6 @@
 ---
-title: "Privet"
-type: "plant"
+title: Privet
+type: plant
 tags: garden, plant, weed 
 ---
 
@@ -12,7 +12,7 @@ An evergreen bush or tree of 4-10m.
 
 <figure markdown>
 ![Broad-leaf privet leaves](https://weeds.dpi.nsw.gov.au/WeedImages/ShowPhoto/625)
-<figcaption>Broad-leaf privet leaves</figcaption>
+<caption>Broad-leaf privet leaves</caption>
 </figure>
 
 

@@ -20,7 +20,7 @@ Maybe this will enable me to complete more of the posts I start.
 ### Older
 
 - [[why-out-dated]]
-- [[where is the digital technology]]
+- [[where-is-the-digital-technology]]
 - [[canvas-collections-detail]]
 - [[the-need-for-rpa-in-learning-teaching]]
 - [[ignoring-the-entangled-nature-of-education]]

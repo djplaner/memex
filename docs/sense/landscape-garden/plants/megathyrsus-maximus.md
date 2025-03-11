@@ -1,7 +1,7 @@
 ---
-title: "Megathyrsus maximus (Guinea grass)"
-type: "plants"
-tags: gardens, plants
+title: Megathyrsus maximus (Guinea grass)
+type: plants
+tags: 'gardens, plants'
 ---
 
 See also: [[plants]]

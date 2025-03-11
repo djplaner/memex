@@ -1,6 +1,6 @@
 ---
-title: 'Coral Berry'
-type: 'note'
+title: Coral Berry
+type: note
 tags: gardens, plant, weed
 ---
 
@@ -31,12 +31,12 @@ Flowers
 
 <figure markdown>
 ![Both sides of leaves & flowers](https://www.datocms-assets.com/47611/1630975682-rivinahumilis45.jpg?ar64=MTY6OQ&fit=crop&fm=webp&w=1440)
-<figcaption>Both sides of leaves & flowers</figcaption>
+<caption>Both sides of leaves & flowers</caption>
 </figure>
 
 <figure markdown>
 ![Young plant surrounded by small seedlings](https://www.datocms-assets.com/47611/1630975652-rivinahumilis4.jpg?ar64=MTY6OQ&fit=crop&fm=webp&w=1440)
-<figcaption>Young plant surrounded by small seedlings</figcaption>
+<caption>Young plant surrounded by small seedlings</caption>
 </figure>
 
 
