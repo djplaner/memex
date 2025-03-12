@@ -1,6 +1,6 @@
 ---
-title: "Spotted Dove"
-type: "note"
+title: Spotted Dove
+type: bird
 tags: birding, birdwatching
 ---
 

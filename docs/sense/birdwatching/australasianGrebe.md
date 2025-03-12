@@ -1,6 +1,6 @@
 ---
-title: "Australasian Grebe"
-type: "note"
+title: Australasian Grebe
+type: bird
 tags: birding, birdwatching
 ---
 

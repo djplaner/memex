@@ -1,6 +1,6 @@
 ---
-title: "Laughing Kookaburra"
-type: "note"
+title: Laughing Kookaburra
+type: bird
 tags: birding, birdwatching
 ---
 

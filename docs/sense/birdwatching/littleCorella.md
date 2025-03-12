@@ -1,6 +1,6 @@
 ---
-title: "Little Corella"
-type: "note"
+title: Little Corella
+type: bird
 tags: birding, birdwatching
 ---
 

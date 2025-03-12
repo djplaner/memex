@@ -1,6 +1,6 @@
 ---
-title: "Pacific Heron"
-type: "note"
+title: Pacific Heron
+type: bird
 tags: birding, birdwatching
 ---
 

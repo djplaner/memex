@@ -1,6 +1,6 @@
 ---
-title: "Blue-faced Honeyeater"
-type: "note"
+title: Blue-faced Honeyeater
+type: bird
 tags: birding, birdwatching
 ---
 

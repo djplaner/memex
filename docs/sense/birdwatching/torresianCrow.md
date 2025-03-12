@@ -1,6 +1,6 @@
 ---
-title: "Torresian Crow"
-type: "note"
+title: Torresian Crow
+type: bird
 tags: birding, birdwatching
 ---
 

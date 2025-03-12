@@ -1,6 +1,6 @@
 ---
-title: "Life list gallery"
-type: "note"
+title: Life list gallery
+type: birds
 tags: birdwatching, birding
 ---
 
@@ -10,13 +10,28 @@ Click on an image to see the full size version and to cycle through the gallery.
 
 
 <figure markdown>
+  ![Spotted Dove](./images/spottedDove/S191596000.jpeg){data-title="Spotted Dove" data-description="Observed at Postman’s Ridge on 2024-08-16"}
+  <caption>Spotted Dove<br />Observed at Postman’s Ridge on 2024-08-16</caption>
+</figure>
+
+<figure markdown>
   ![Australasian Grebe](./images/australasianGrebe/S191596337.jpeg){data-title="Australasian Grebe" data-description="Observed at Postman’s Ridge on 2024-08-16"}
   <caption>Australasian Grebe<br />Observed at Postman’s Ridge on 2024-08-16</caption>
 </figure>
 
 <figure markdown>
-  ![Spotted Dove](./images/spottedDove/S191596000.jpeg){data-title="Spotted Dove" data-description="Observed at Postman’s Ridge on 2024-08-16"}
-  <caption>Spotted Dove<br />Observed at Postman’s Ridge on 2024-08-16</caption>
+  ![Australian Ibis](./images/australianIbis/S191595567.jpeg){data-title="Australian Ibis" data-description="Observed at Postman’s Ridge on 2024-03-21"}
+  <caption>Australian Ibis<br />Observed at Postman’s Ridge on 2024-03-21</caption>
+</figure>
+
+<figure markdown>
+  ![Yellow-billed Spoonbill](./images/yellowbilledSpoonbill/S191595482.jpeg){data-title="Yellow-billed Spoonbill" data-description="Observed at Postman’s Ridge on 2024-03-21"}
+  <caption>Yellow-billed Spoonbill<br />Observed at Postman’s Ridge on 2024-03-21</caption>
+</figure>
+
+<figure markdown>
+  ![White-faced Heron](./images/whitefacedHeron/S194900794.jpeg){data-title="White-faced Heron" data-description="Observed at Postman’s Ridge on 2024-09-13"}
+  <caption>White-faced Heron<br />Observed at Postman’s Ridge on 2024-09-13</caption>
 </figure>
 
 <figure markdown>
@@ -37,16 +52,6 @@ Click on an image to see the full size version and to cycle through the gallery.
 <figure markdown>
   ![Great Egret](./images/greatEgret/S194090540_1.jpeg){data-title="Great Egret" data-description="Observed at Postman’s Ridge on 2024-09-06"}
   <caption>Great Egret<br />Observed at Postman’s Ridge on 2024-09-06</caption>
-</figure>
-
-<figure markdown>
-  ![Australian Ibis](./images/australianIbis/S191595567.jpeg){data-title="Australian Ibis" data-description="Observed at Postman’s Ridge on 2024-03-21"}
-  <caption>Australian Ibis<br />Observed at Postman’s Ridge on 2024-03-21</caption>
-</figure>
-
-<figure markdown>
-  ![Yellow-billed Spoonbill](./images/yellowbilledSpoonbill/S191595482.jpeg){data-title="Yellow-billed Spoonbill" data-description="Observed at Postman’s Ridge on 2024-03-21"}
-  <caption>Yellow-billed Spoonbill<br />Observed at Postman’s Ridge on 2024-03-21</caption>
 </figure>
 
 <figure markdown>
@@ -117,6 +122,11 @@ Click on an image to see the full size version and to cycle through the gallery.
 <figure markdown>
   ![Pied Butcherbird](./images/piedButcherbird/S191493621.jpeg){data-title="Pied Butcherbird" data-description="Observed at Postman’s Ridge on 2024-08-15"}
   <caption>Pied Butcherbird<br />Observed at Postman’s Ridge on 2024-08-15</caption>
+</figure>
+
+<figure markdown>
+  ![Willie-wagtail](./images/williewagtail/S191596368.jpeg){data-title="Willie-wagtail" data-description="Observed at Postman’s Ridge on 2024-08-16"}
+  <caption>Willie-wagtail<br />Observed at Postman’s Ridge on 2024-08-16</caption>
 </figure>
 
 <figure markdown>

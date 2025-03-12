@@ -1,6 +1,6 @@
 ---
-title: "Pied Butcherbird"
-type: "note"
+title: Pied Butcherbird
+type: bird
 tags: birding, birdwatching
 ---
 

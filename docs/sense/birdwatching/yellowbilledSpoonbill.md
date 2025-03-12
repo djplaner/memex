@@ -1,6 +1,6 @@
 ---
-title: "Yellow-billed Spoonbill"
-type: "note"
+title: Yellow-billed Spoonbill
+type: bird
 tags: birding, birdwatching
 ---
 

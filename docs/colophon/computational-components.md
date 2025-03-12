@@ -1,6 +1,6 @@
 ---
-title: "Computational components"
-type: "note"
+title: Computational components
+type: note
 tags: colophon
 ---
 

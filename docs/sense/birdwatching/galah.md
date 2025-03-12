@@ -1,6 +1,6 @@
 ---
-title: "Galah"
-type: "note"
+title: Galah
+type: bird
 tags: birding, birdwatching
 ---
 

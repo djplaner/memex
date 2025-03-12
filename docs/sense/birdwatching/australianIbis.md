@@ -1,6 +1,6 @@
 ---
-title: "Australian Ibis"
-type: "note"
+title: Australian Ibis
+type: bird
 tags: birding, birdwatching
 ---
 

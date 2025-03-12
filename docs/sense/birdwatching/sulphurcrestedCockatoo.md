@@ -1,6 +1,6 @@
 ---
-title: "Sulphur-crested Cockatoo"
-type: "note"
+title: Sulphur-crested Cockatoo
+type: bird
 tags: birding, birdwatching
 ---
 

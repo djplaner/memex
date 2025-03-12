@@ -1,6 +1,6 @@
 ---
-title: "Black-faced Cuckooshrike"
-type: "note"
+title: Black-faced Cuckooshrike
+type: bird
 tags: birding, birdwatching
 ---
 

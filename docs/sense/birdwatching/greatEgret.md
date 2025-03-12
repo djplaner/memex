@@ -1,6 +1,6 @@
 ---
-title: "Great Egret"
-type: "note"
+title: Great Egret
+type: bird
 tags: birding, birdwatching
 ---
 

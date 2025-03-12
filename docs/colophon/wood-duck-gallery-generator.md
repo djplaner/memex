@@ -1,6 +1,6 @@
 ---
-title: "Wood duck meadows gallery generator"
-type: "note"
+title: Wood duck meadows gallery generator
+type: note
 tags: colophon, computational-component 
 ---
 

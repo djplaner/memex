@@ -1,6 +1,6 @@
 ---
-title: "Australasian Figbird"
-type: "note"
+title: Australasian Figbird
+type: bird
 tags: birding, birdwatching
 ---
 
