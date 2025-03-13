@@ -94,7 +94,6 @@ plugins:
         - util/generators/woodDuck.py ## under dev wood duck meadows generator
         - util/generators/lifeList.py
   - macros:
-      render_by_default: false
   - literate-nav:
       nav_file: NAV.md
   - roamlinks 
