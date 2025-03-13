@@ -50,6 +50,10 @@ The nuts can be eaten raw but it's suggested they are tastier cooked. Options in
 - ground up and used in baking (e.g. flat breads)
 - boiled and eaten as is or further preparation (e.g. used like gnochi)
 
+<figure markdown>
+![Roasted bunya nuts](./images/roasted-bunya-nuts.jpeg)
+<caption>Roasted bunya nuts</caption>
+</figure>
 
 ## History at Wood Duck Meadows
 
