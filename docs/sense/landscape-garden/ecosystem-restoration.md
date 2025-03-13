@@ -1,18 +1,26 @@
 ---
-title: 'Ecosystem restoration'
-type: 'note'
+title: Ecosystem restoration (aka bush regneration)
+type: note
 tags: landscape, garden, ecosystem
 ---
 
 See also: [[gardens]], Wikipedia on [bush regeneration](https://en.wikipedia.org/wiki/Bush_regeneration)
 
-Slowly learning that there a numerous methods and as expected various controversies between proponents.
+Slowly learning that there a numerous methods and as expected various controversies between proponents. All apparently related to different contexts or perspectives adopted by the different methods.
 
-## Wingham Brush Method
+Bush regeneration has a Wikipedia page suggesting it is an Australian term for "ecological restoration of remnant vegetation areas" with the aim 
 
-Developed as part of restoration of the [Wingham Brush](https://en.wikipedia.org/wiki/Wingham_Brush_Nature_Reserve) after observation that the [Bradley Method](#bradley-method) - developed in Sydney  - was not the best fit for the rainforest environment.
+> to restore and maintain ecosystem health by facilitating the natural regeneration of indigenous flora
+
+A task that can include 
+
+- Reducing invasive species.
+- Mitigating weeds and erosion.
+- Replanting and introducing species.
 
 ## Bradley Method
+
+Arising from work in the early 1960s by the Bradley sisters (see [Wikipedia for more](https://en.wikipedia.org/wiki/Bush_regeneration#Bradley_method)). Further experience suggests this approach very successful for the original context, but less successful in different contexts (e.g. dry rainforest). 
 
 Suggests three principles
 
@@ -27,7 +35,9 @@ Suggests three principles
     Limit clearing until natives are starting to poke through. Don't seek to leave large amounts of cleared area for weeds to return.
 
 
+## Wingham Brush Method
 
+Developed as part of restoration of the [Wingham Brush](https://en.wikipedia.org/wiki/Wingham_Brush_Nature_Reserve) after observation that the [Bradley Method](#bradley-method) - developed in Sydney  - was not the best fit for the rainforest environment.
 ## Andrew Millison - [How to fix a broken ecosystem](https://www.youtube.com/watch?v=vL-i_yNcFVY)
 
 See also: [blog post](https://www.renature.co/articles/how-to-fix-a-broken-ecosystem/)
