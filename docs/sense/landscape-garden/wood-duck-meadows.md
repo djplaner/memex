@@ -35,6 +35,9 @@ To aid discussion and planning we're slowly dividing the property into the diffe
 | --- | --- |
 | [[brigalow-scrub]] | A small stand at the front of the property |
 | [[rocky-creek-frontage]] | Creek frontage to the east of the round about |
+| [[cherry-tree-walk]] | Path along the front berm lined with cherry trees |
+| [[front-yard]] | Semi-open area between the house the front entrance |
+| [[mango-paddock]] | South-western paddock now with two mango trees |
 | [[the-island]] | The island in [[the-dam]] |
 | [[the-dam]] | Surrounds [[the-island]] and fed by road run-off |
 | [[roundabout]] | Long established lawn and path |
@@ -95,9 +98,12 @@ List of projects/tools to help with various forms of measurement of what we're d
 [madeira-vine]: plants/madeira-vine "Madeira vine"
 [cats-claw-creeper]: plants/cats-claw-creeper "Cats claw creeper"
 [ecosystem-restoration]: ecosystem-restoration "Ecosystem restoration (aka bush regneration)"
+[wood-duck-regeneration-process]: wood-duck-regeneration-process "Wood Duck Regeneration Process"
 [house]: house "House"
 [brigalow-scrub]: brigalow-scrub "Brigalow scrub"
 [rocky-creek-frontage]: rocky-creek-frontage "Rocky Creek Frontage"
+[cherry-tree-walk]: cherry-tree-walk "Cherry Tree walk"
+[front-yard]: front-yard "Front yard"
 [the-island]: the-island "The Island"
 [the-dam]: the-dam "The Dam"
 [roundabout]: roundabout "Roundabout"
