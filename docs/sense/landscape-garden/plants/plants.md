@@ -14,7 +14,7 @@ The following provides a summary of the plants we've removed, planted, or cared 
 
 - [[bunya-pine]]
 - [[harpullia-pendula]] (aka Moreton Bay Tulipwood)
-- [[ficus-altissima]] (Moreton Bay Fig)
+- [[unknown-ficus]]
 - [[corymbia-torelliana]] (aka Cadaghi) which is native to North Queensland but considered an [environmental pest](https://weeds.brisbane.qld.gov.au/weeds/cadaghi) in South East Queensland.
 - [[macadamia]]
 
@@ -75,7 +75,7 @@ The following provides a summary of the plants we've removed, planted, or cared 
 [wood-duck-meadows]: ../wood-duck-meadows "Wood duck meadows"
 [bunya-pine]: bunya-pine "Bunya Pine"
 [harpullia-pendula]: harpullia-pendula "Harpullia Pendula (Moreton Bay Tulipwood)"
-[ficus-macrophylla]: ficus-macrophylla "Ficus Macrophylla (Moreton Bay Fig)"
+[unknown-ficus]: unknown-ficus "Unknown ficus"
 [corymbia-torelliana]: corymbia-torelliana "corymbia-torelliana"
 [macadamia]: macadamia "Macadamia"
 [dendrodbium-taberi]: dendrodbium-taberi "Dendrodbium taberi (King Orchid)"
