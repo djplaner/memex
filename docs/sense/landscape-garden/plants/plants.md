@@ -14,7 +14,7 @@ The following provides a summary of the plants we've removed, planted, or cared 
 
 - [[bunya-pine]]
 - [[harpullia-pendula]] (aka Moreton Bay Tulipwood)
-- [[ficus-macrophylla]] (Moreton Bay Fig)
+- [[ficus-altissima]] (Moreton Bay Fig)
 - [[corymbia-torelliana]] (aka Cadaghi) which is native to North Queensland but considered an [environmental pest](https://weeds.brisbane.qld.gov.au/weeds/cadaghi) in South East Queensland.
 - [[macadamia]]
 

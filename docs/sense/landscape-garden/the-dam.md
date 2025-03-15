@@ -29,7 +29,7 @@ Fed by road runoff the dam surrounds [[the-island]] and (occasionally) provides 
 Most of the work around the dam has been clearing out various weeds in an attempt to give the native vegetation a chance.
 
 <figure markdown>
-![](./images/before-after-dam-asparagus.jpg)
+![Before and after example of removing some climbing asparagus and green panic from the dam bank. ](./images/before-after-dam-asparagus.jpg)
 <caption>Before and after example of removing some [[asparagus-africanus]] and [[megathyrsus-maximus]] from the dam bank</caption>
 </figure>
 

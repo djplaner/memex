@@ -1,7 +1,7 @@
 ---
 title: Fig tree berm
 type: zone
-tags: gardens, sense, landscape
+tags: [gardens, sense, landscape]
 ---
 
 See also: [[wood-duck-meadows]]

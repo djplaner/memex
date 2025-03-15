@@ -40,7 +40,7 @@ The first step was getting rid of the climbing asparagus and other unwanted plan
 Following image shows progress from an early stage where some bamboo and [[asparagus-africanus]] (Climbing asparagus fern) had been removed. Though with large amounts still visible climbing up the trees and just about anything else. In the _how it's going_ image the house and the Mauritius hemp are now visible.
 
 <figure markdown>
-![A comparison of clearing on the island. The "how it started" image shows a small number of trees largely overtaken by asparagus fern. With only a the odd trunk and branch visible. The "how it's going" image shows the same trees (and Mauritius hemp) now almost entirely visible. The house is also visible.](images/early-clearing.jpg)
+![A comparison of clearing on the island. The 'how it started' image shows a small number of trees largely overtaken by asparagus fern. With only a the odd trunk and branch visible. The 'how it's going' image shows the same trees (and Mauritius hemp) now almost entirely visible. The house is also visible.](images/early-clearing.jpg)
 <figcaption>Early clearing progress</figcaption>
 </figure>
 
