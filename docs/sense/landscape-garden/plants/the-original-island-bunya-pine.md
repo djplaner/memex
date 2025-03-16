@@ -3,6 +3,11 @@ title: "The original island bunya pine"
 type: "specific-plant"
 tags: [garden, plant, bunya-pine]
 image_url: "https://djplaner.github.io/memex/sense/landscape-garden/plants/images/bunya-pine-live-vine.jpeg"
+photo_island_bunya_pine_pre-restoration:
+    latitude: -37.876
+    longitude: 145.042
+    caption: "The original island bunya pine when we started restoration"
+    title: "The original island bunya pine"
 ---
 
 See also: [[bunya-pine]]

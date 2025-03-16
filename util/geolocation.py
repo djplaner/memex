@@ -8,6 +8,8 @@ from PIL.ExifTags import TAGS
 
 import folium
 
+import osxphotos
+
 HOME_LAT = -27.53831
 HOME_LONG = 152.05599
 
@@ -93,8 +95,7 @@ def saveMap( points, mapPath ):
                       popup=point['title']).add_to(map)
     map.save(mapPath)
     
-    
-if __name__ == "__main__":
+def generateMapFromImages( ):
     images = [
         '/Users/davidjones/memex/docs/sense/landscape-garden/plants/images/honey-locust.jpeg',
         '/Users/davidjones/Downloads/honey-locust-copy.jpg',
@@ -102,12 +103,27 @@ if __name__ == "__main__":
         '/Users/davidjones/Downloads/Export/dam-bank-clearing.jpeg'
     ]
 
+
     points = getPointsFromImages( images )
 
 #    print(points)
 
     saveMap( points, "index.html")
 
+def osxPhotos():
+    photosdb = osxphotos.PhotosDB()
+    photos = photosdb.photos(albums=["TheIsland"])
+    for photo in photos:
+        print(photo.original_filename, photo.date, photo.title, photo.keywords, photo.comments ) 
+        print(f"  latitude: {photo.latitude}, longitude: {photo.longitude}")
+        print(f"  path: {photo.path}")
+    
+    
+if __name__ == "__main__":
+
+    # generateMapFromImages()
+
+    osxPhotos() 
 
 
 

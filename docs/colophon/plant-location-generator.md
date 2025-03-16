@@ -23,6 +23,39 @@ Initial aims include:
     - Macros that help with maintaining information about individual plants, plant species, and zones.
     - Generating map-based representations of [[wood-duck-meadows]] indicating individual plant locations and providing subsequent access to plant information.
 
+## Workflow
+
+### Design 1
+
+1. Photos of plants taken with GPS enabled.
+2. In Photos 
+    - Add photos to zone-based albums.
+    - Add title and captions.
+3. Use Python to extract GPS location and other metadata from photos.
+4. Store extracted data in required places, possibly including
+    - Markdown files for individual plants.
+    - ???
+
+| Photo metadata | Memex equiv | 
+| --- | --- |
+| Title | Descriptive title used in figure |
+| Caption | Alt tag for photo |
+| Keywords | Name of markdown file (for the individual plant) into which to add/update the yaml front matter | 
+| Lat, Long | Part of the yaml |
+
+Markdown files ~/plants/individual/[keyword[0]]
+
+Each individual plant can have multiple photos, each with their own yaml.
+```yaml
+photo_${title}:
+    latitude: 45.123
+    longitude: -123.456
+    caption: "This is a photo of a plant"
+    title: "Plant photo"
+    path: "..."
+```
+
+
 ## Considerations
 
 ### Sharing geolocation data
@@ -47,6 +80,16 @@ The [folium module](https://python-visualization.github.io/folium/latest/) provi
 
 Photos are currently stored in the Photos app. The [osxphotos module](https://github.com/RhetTbull/osxphotos?tab=readme-ov-file) seems to provide an answer.
 
+- `osxphotos.PhotosDB` - connects to Photosdb
+  - `photos` - retrieve photos using various queries
+    - return a list of `PhotoInfo` objects
+        - path
+        - latitude, longitude
+        - place
+        - comments
+        - labels
+        - exif_info
+        - `export()` - save photos to different path, numerous options
 
 
 
