@@ -3,6 +3,8 @@
 import markdown
 import re
 from bs4 import BeautifulSoup
+import frontmatter
+from pprint import pprint
 
 
 # open calls using mkdocs-gen-files inherently uses docs
@@ -19,7 +21,7 @@ def extractFrontMatter(path):
     with open(path, "r") as f:
         content = f.read()
         fMatter = frontmatter.loads(content)
-        return fMatter
+        return fMatter.metadata
 
     return {}
 
@@ -103,8 +105,12 @@ def extractFigures(html):
 
 #path=f"{PLANTS_FOLDER}asparagus-africanus.md"
 path=f"{PLANTS_FOLDER}schinus-terebinthifolia.md"
-#results = extractFrontMatter(path)
+path=f"{PLANTS_FOLDER}the-original-island-bunya-pine.md"
 results = extractFrontMatterPython(path)
+frontMatter = extractFrontMatter(path)
+print("-------- FRONT MATTER")
+print(frontMatter)
+print("--------")
 figures = extractFigures(results['html'])
 
 print("-------- FIGURES")

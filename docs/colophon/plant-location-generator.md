@@ -6,7 +6,11 @@ tags: colophon, computational-components
 
 See also: [[computational-components]]
 
-Early experiments with extracting information (about plants) from photos.
+Early experiments with extracting information (about plants) from photos resulting in the design and development of the following:
+
+- [ ] `addPlantPhoto` - Python script to extract metadata from Photos and add to individual plant markdown files.
+- [ ] `plantPhotoMetadata` - mkdocs macro (Python script) to extract metadata from individual plant YAML frontmatter in markdown files and auto-add to markdown content.
+- [ ] `woodDuckMeadowsMap` - mkdocs generator (Python script) to generate a map of the garden with plant locations marked.
 
 ## Purpose
 
@@ -16,25 +20,59 @@ Initial aims include:
 
 1. Extract information (including GPS location) of plants from photos;
 2. Store that information in markdown/yaml frontmatter associated with individual plants; and,
+
+    Putting it into individual plant markdown files will allow for changes to plant names etc. General moving around of Markdown files.
 3. Use that information in a number of other [[computational-components]].
 
     Examples to include:
 
     - Macros that help with maintaining information about individual plants, plant species, and zones.
+
+        - \{\{ plantLocation("plant-name") \}\} - returns the location (lat,long) of a plant with a link to some sort of map.
     - Generating map-based representations of [[wood-duck-meadows]] indicating individual plant locations and providing subsequent access to plant information.
 
+        - `woodDuckMeadowsMap()` - generate a markdown page that includes a map of the garden with plant locations marked.
+
 ## Workflow
+
+1. Photos taken with GPS enabled.
+2. Imported into Photos app.
+3. `addPhoto <photosName> <plantName>
+        - _photosName_ is identifier for Photos
+        - _plantName_ is the filename for the individual plant's markdown file in memex
+        - Adds YAML frontmatter for photo into markdown file (iff not there already)
+        - exports appropriately the photo to the relevant pics folder
+            `~/sense/landscape-garden/individual-plants/photos/{plantName}_{photoNumber}.jpeg`
+
+At next `mkdocs`
+
+- `plantPhotoMetadata.py` macro is available to be used. Will include photo metadata in the markdown.
+    - Retrives and makes available YAML frontmatter from the nominated plant markdown file
+- `woodDuckMeadowsMap.py` generator produces the `wood-ducks-plant-map.md` file
+    - Loops through each individual plant markdown file using YAML frontmatter to populate
 
 ### Design 1
 
 1. Photos of plants taken with GPS enabled.
-2. In Photos 
-    - Add photos to zone-based albums.
-    - Add title and captions.
-3. Use Python to extract GPS location and other metadata from photos.
-4. Store extracted data in required places, possibly including
-    - Markdown files for individual plants.
-    - ???
+2. Stored in Photos 
+    - Add photos to zone-based albums. (not necessary)
+    - Add title and captions. (useful)
+3. Add a memex folder `individual-plants` to hold markdown files for individual plants.
+
+    - Information about photos for individual plants stored in these files using YAML front matter.
+    - Stored under tags `photo_${x}` where x is the number (order) of photo for the plant.
+
+    - Information stored will include
+        - full path/name for the photo in Photos - useful for Python to get back to the original photo
+        - Title and caption information from Photos/exif
+        - Location
+        - Date taken
+        - ?? figure out additional useful information
+4. Use Python to extract GPS location and other metadata from photos.
+
+    - `addPlantPhoto` is a Python util that takes Photos' name of the photo and the name of an individual plant and adds markdown information to the individual plant's markdown file.
+
+
 
 | Photo metadata | Memex equiv | 
 | --- | --- |
@@ -47,20 +85,17 @@ Markdown files ~/plants/individual/[keyword[0]]
 
 Each individual plant can have multiple photos, each with their own yaml.
 ```yaml
-photo_${title}:
-    latitude: 45.123
-    longitude: -123.456
-    caption: "This is a photo of a plant"
-    title: "Plant photo"
-    path: "..."
+photos:
+    1:
+        photos_path: ...
+        latitude: -37.876
+        longitude: 145.042
+        caption: "The original island bunya pine when we started restoration"
+        title: "The original island bunya pine"
+    2:
+        ...
 ```
 
-
-## Considerations
-
-### Sharing geolocation data
-
-Currently, the photos shared via memex are stripped of geolocation data. This makes the task here a bit more complicated. Suggesting a need for another private source of photos with geolocation data.
 
 ## Development/exploration
 

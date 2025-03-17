@@ -6,16 +6,16 @@ The [new tutorial](https://svelte.dev/tutorial/basics) for Svelte 3. Interactive
 
 ## Components
 
-A Svelte application is composed from one or more components. A component encapsulated HTML, CSS and JS in a ```.svelte``` file. It can be one or more of these.
+A Svelte application is composed from one or more components. A component encapsulated HTML, CSS and JS in a `.svelte` file. It can be one or more of these.
 
-2. JS - JS wrapped in a ```<script>``` tag
+2. JS - JS wrapped in a `<script>` tag
 1. HTML - mark up apparently not wrapped with anything
 
     - Can embed and execute JS using braces
-	- HTML attributes can be set with " but also if named correct ```<img {src}>```
-	- ```{@html }``` tells Svelte to insert HTML into the DOM (by default treated as string)
-	- ```{#if }``` and ```{:else}``` are used for conditional rendering
-3. CSS - CSS wrapped in ```<style>``` tag
+	- HTML attributes can be set with " but also if named correct `<img {src}>`
+	- `{@html }` tells Svelte to insert HTML into the DOM (by default treated as string)
+	- `(#if )` and `():else)` are used for conditional rendering (where the round brackets in those statements should be curly braces - _kludge_ to prevent mkdocs parsing error)
+3. CSS - CSS wrapped in `<style>` tag
 
 Components can be imported and used as tags
 

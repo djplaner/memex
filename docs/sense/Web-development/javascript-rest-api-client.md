@@ -140,7 +140,7 @@ const canvasCourse = getCanvasCourse();
 and then used reactively in the template
 
 ```html
- <p>Name: {{ canvasCourse.name }} </p>
+ <p>Name: \{\{ .name \}\} </p>
 
   <ul>
     <li> Change course name: <input v-model="canvasCourse.name" /> </li>
