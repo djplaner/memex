@@ -8,7 +8,7 @@ See also: [[computational-components]]
 
 Early experiments with extracting information (about plants) from photos resulting in the design and development of the following:
 
-- [ ] `addPlantPhoto` - Python script to extract metadata from Photos and add to individual plant markdown files.
+- [x] `addPlantPhoto` - Python script to extract metadata from Photos and add to individual plant markdown files.
 - [ ] `plantPhotoMetadata` - mkdocs macro (Python script) to extract metadata from individual plant YAML frontmatter in markdown files and auto-add to markdown content.
 - [ ] `woodDuckMeadowsMap` - mkdocs generator (Python script) to generate a map of the garden with plant locations marked.
 

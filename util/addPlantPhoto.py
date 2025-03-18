@@ -32,14 +32,16 @@ from osxphotos.cli import query_command, verbose
 import markdown
 import frontmatter
 
-from PIL import Image
+from PIL import Image, ImageOps
 
 from pprint import pprint
 
 SINGLE_PLANT_DIR="../docs/sense/landscape-garden/individual-plants/"
+SINGLE_PLANT_IMAGES_PATH="images/"
 TMP_DIR="/Users/davidjones/downloads/"
 TMP_FILENAME="testing-small"
 IMAGE_SCALE=0.3333
+PHOTO_YAML_FIELDS = [ "title", "filename", "latitude", "longitude", "description", "date"  ]
 
 @query_command
 def addPlantPhoto(photos: list[osxphotos.PhotoInfo], **kwargs):
@@ -83,8 +85,7 @@ def findPhoto(name: str):
     print("--------- photo")
 
     for photo in photos:
-        for field in ( "title", "filename", "latitude", "longitude", 
-                      "height", "width" ):
+        for field in ( PHOTO_YAML_FIELDS ):
             print(f"-- {field}: {getattr(photo, field)}")
 #        pprint(photo.info)
     if len(photos) == 0:
@@ -94,21 +95,29 @@ def findPhoto(name: str):
 
     return photos[0]
 
-def exportPhoto(photo: osxphotos.PhotoInfo, plant: str) -> bool:
+def exportPhoto(photo: osxphotos.PhotoInfo, plant: str, photoNum : int) -> bool:
     """Export the photo out of Photos app and resize it, saving it to the relevant direction
     - extract the photos from the Photos library
     - reduce the size by 1/3
     - save to the relevant folder
 
+    {SINGLE_PLANT_DIR}/images/{plant}/{photoNum}.jpeg
+
     Parameters:
     photo (osxphotos.PhotoInfo): PhotoInfo object for the photo
     plant (str): Name of the plant (matching the markdown filename)
+    photoNum (int): Which number has been allocated to this photo
     Returns:
     bool: True if successful, False otherwise
     
     """
 
-    # TODO work on which options shoudl be set, perhaps parameterise
+    #-- create the path for the photo both as a string and as a directory
+    photoPath = f"{SINGLE_PLANT_DIR}images/{plant}/"
+    if not os.path.exists(photoPath):
+        os.makedirs(photoPath)
+
+    # TODO work on which options should be set, perhaps parameterise
     exportOptions = osxphotos.ExportOptions(
        convert_to_jpeg=True, 
        jpeg_quality=1, 
@@ -119,15 +128,21 @@ def exportPhoto(photo: osxphotos.PhotoInfo, plant: str) -> bool:
        use_photos_export=True
     )
     exporter = osxphotos.PhotoExporter( photo )
-    exporter.export( dest=TMP_DIR, 
-                    filename=TMP_FILENAME, options=exportOptions )
+    #exporter.export( dest=TMP_DIR, 
+    exporter.export( dest=photoPath, 
+                    filename=str(photoNum), options=exportOptions )
 
-    with Image.open(f"{TMP_DIR}{TMP_FILENAME}.jpeg") as img:
+    #with Image.open(f"{TMP_DIR}{TMP_FILENAME}.jpeg") as img:
+    if not os.path.exists(f"{photoPath}{photoNum}.jpeg"):
+        raise ValueError(f"Failed to export photo to {photoPath}{photoNum}.jpeg")
+    with Image.open(f"{photoPath}{photoNum}.jpeg") as img:
+        img = ImageOps.exif_transpose(img)
         (width, height) = (img.width*IMAGE_SCALE, img.height*IMAGE_SCALE)
         img_resized = img.resize((int(width), int(height)))
+        img.close()
 
         ## Save the image into individual plant/images/plant/<number>.jpeg
-        img_resized.save("/Users/davidjones/downloads/testing-small-pil-X.jpeg")
+        img_resized.save(f"{photoPath}{photoNum}.jpeg")
 
         return True
 
@@ -245,12 +260,14 @@ def writePlantFile( plantName: str, yaml: str, markdownContent: str ):
         f.write("---\n")
         f.write(markdownContent)
 
-def createYamlString( yamlStruct: dict, photoInfo: osxphotos.PhotoInfo ) -> str:
+def createYamlString( plantName: str, yamlStruct: dict, 
+                     photoInfo: osxphotos.PhotoInfo ) -> str:
     """Create a string containing YAML information ready to write to markdown file.
 
     Create the photos and all other sections separtely
 
     Parameters:
+    plantName (str): Name of the plant (matching the markdown filename)
     yamlStruct (dict): YAML structure from the existing YAML front matter
     photoInfo (osxphotos.PhotoInfo): PhotoInfo object for the photo
     Returns:
@@ -279,17 +296,34 @@ def createYamlString( yamlStruct: dict, photoInfo: osxphotos.PhotoInfo ) -> str:
         for photoNum in yamlStruct["photos"].keys(): 
             #-- update the yamlStruct if filename matches
             if yamlStruct["photos"][photoNum]["filename"] == pDict["filename"]:
-                for key in ( "title", "filename", "latitude", "longitude", "description"):
-                    yamlStruct["photos"][photoNum][key] = pDict[key]
+                for key in ( PHOTO_YAML_FIELDS ):
+                    if key != "date":
+                        yamlStruct["photos"][photoNum][key] = pDict[key]
+                    else:
+                        yamlStruct["photos"][photoNum][key] = pDict[key].strftime("%Y-%m-%d %H:%M:%S")
                 updatePhoto = True
+                #-- export the photo to the relevant directory to overwrite
+                if exportPhoto(photoInfo, plantName,  photoNum ):
+                    yamlStruct["photos"][photoNum]["memexFilename"] = f"{SINGLE_PLANT_IMAGES_PATH}{plantName}/{photoNum}.jpeg"
+                else:
+                    raise ValueError(f"Failed to export photo to {SINGLE_PLANT_DIR}{plantName}/{photoNum}.jpeg")
+
             lastPhoto = photoNum
 
     #-- if not updatePhoto then add new photo to yamlStruct
     if not updatePhoto:
         lastPhoto = str(int(lastPhoto) + 1)
         yamlStruct["photos"][lastPhoto] = {}
-        for key in ( "title", "filename", "latitude", "longitude", "description"):
-            yamlStruct["photos"][lastPhoto][key] = pDict[key]
+        for key in ( PHOTO_YAML_FIELDS ):
+            if key != "date":
+                yamlStruct["photos"][lastPhoto][key] = pDict[key]
+            else:
+                yamlStruct["photos"][photoNum][key] = pDict[key].strftime("%Y-%m-%d %H:%M:%S")
+        #-- export the photo to the relevant directory to add it
+        if exportPhoto(photoInfo, plantName,  lastPhoto ):
+            yamlStruct["photos"][lastPhoto]["memexFilename"] = f"{SINGLE_PLANT_IMAGES_PATH}{plantName}/{lastPhoto}.jpeg"
+        else:
+            raise ValueError(f"Failed to export photo to {SINGLE_PLANT_DIR}{plantName}/{lastPhoto}.jpeg")
 
     #-- convert yamlStruct into a yaml string and append to yaml
     yaml += "photos:\n"
@@ -325,7 +359,7 @@ def updatePlantYAML( plantName: str, plantMemex: dict,
         markdown = markdown[markdown.find("---", 3)+4:]
 
     #-- convert plantMemex[yaml] dict to a yaml string
-    yaml = createYamlString(plantMemex["yaml"], photoInfo)
+    yaml = createYamlString(plantName, plantMemex["yaml"], photoInfo)
     print("--- final YAML string")
     print(yaml)
 
@@ -352,7 +386,7 @@ if __name__ == "__main__":
 
     #-- export the photo to the relevant directory
     # - would need to know the number of the image (from the YAML)
-    exportPhoto(photo, "the-original-bunya-pine" )
+#    exportPhoto(photo, "the-original-bunya-pine" )
 
     updatePlantYAML(args.plant, plantMemex, photo)
 
