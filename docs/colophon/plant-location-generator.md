@@ -11,6 +11,7 @@ Early experiments with extracting information (about plants) from photos resulti
 - [x] `addPlantPhoto` - Python script to extract metadata from Photos and add to individual plant markdown files.
 - [ ] `plantPhotoMetadata` - mkdocs macro (Python script) to extract metadata from individual plant YAML frontmatter in markdown files and auto-add to markdown content.
 - [ ] `woodDuckMeadowsMap` - mkdocs generator (Python script) to generate a map of the garden with plant locations marked.
+- [ ] Add individual-plants files to `woodDuckGallery` 
 
 ## Purpose
 
@@ -71,6 +72,7 @@ At next `mkdocs`
 4. Use Python to extract GPS location and other metadata from photos.
 
     - `addPlantPhoto` is a Python util that takes Photos' name of the photo and the name of an individual plant and adds markdown information to the individual plant's markdown file.
+    - Issue is that the Photos app can have multiple photos with the same name. Suggesting we need other parameters to uniquely identify the photo.
 
 
 

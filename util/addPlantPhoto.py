@@ -1,26 +1,16 @@
-# Copyright (C) 2025 David Jones
-#
-# This program is free software: you can redistribute it and/or modify
-# it under the terms of the GNU Affero General Public License as
-# published by the Free Software Foundation, either version 3 of the
-# License, or (at your option) any later version.
-#
-# This program is distributed in the hope that it will be useful,
-# but WITHOUT ANY WARRANTY; without even the implied warranty of
-# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-# GNU Affero General Public License for more details.
-#
-# You should have received a copy of the GNU Affero General Public License
-# along with this program.  If not, see <https://www.gnu.org/licenses/>
-
 """
-Add a photo for an individual plant from the Photos library into Memex, including
-1. Add metadata information into the YAML frontmatter of the plant's page
+Add a photo for an individual plant from the Photos library into Memex, including:
+
+1. Add metadata information into the YAML frontmatter of the individual plant's page
 2. Add the photo to the relevant images directory
 
-addPlantPhoto.py --name FILENAME --verbose
+addPlantPhoto.py --photo <photoName> | --uuid <uuid> --plant <plantName>
 
-IMG_2578.HEIC
+use one of 
+--photo: Name of the photo in the Photos app
+--uuid: Name of the file in the Photos app
+to identify the photo to be added. And following to nominate plant in Memex
+--plant: Name of the plant (matching the markdown filename)
 """
 
 import argparse
@@ -43,54 +33,46 @@ TMP_FILENAME="testing-small"
 IMAGE_SCALE=0.3333
 PHOTO_YAML_FIELDS = [ "title", "filename", "latitude", "longitude", "description", "date"  ]
 
-@query_command
-def addPlantPhoto(photos: list[osxphotos.PhotoInfo], **kwargs):
-    """
-    Add a photo for an individual plant from the Photos library into Memex, including
-    1. Add metadata information into the YAML frontmatter of the plant's page
-    2. Add the photo to the relevant images directory
-    """
-
-    verbose(f"Found {len(photos)} photos")
-    verbose(f"kwargs: {kwargs}")
-
-    findPhotos = []  # photos.query( **kwargs )
-    verbose(
-        f"Searching for name {kwargs['name']} in photos found {len(findPhotos)} photos")
-    verbose(findPhotos)
-
-    """ osxphoto query to get a specific file
-    --name FILENAME
-    --title TITLE
-    """
-
-
-def findPhoto(name: str):
-    """Extract photo from Photos app matching the name
+def showFoundPhotos( photos):
+    """Show summary of key details of a list of photos. 
+    Used when findPhoto finds multiple photos.
 
     Parameters:
-    name (str): Name of the photo in the Photos app
-    Returns:
-    osxphotos.PhotoInfo: PhotoInfo object for the photo
+    photos (list): List of osxphotos.PhotoInfo objects
     """
+
+    print("---------- Photos found ")
+    for photo in photos:
+        print("--")
+        pDict = photo.asdict()
+        fields = PHOTO_YAML_FIELDS
+        fields.append( "uuid")
+        for field in fields:
+            print(f"{field}: {pDict[field]}")
+        
+def findPhoto(args: argparse.Namespace) -> osxphotos.PhotoInfo:
+    """Extract photo matching the name from Photos app library
+    Error if num photos found is 0 or more than 1
+    Photos can be searched for by other filename of photo
+
+    Parameters:
+    args (argparse.Namespace): Command line arguments
+    Returns:
+    osxphotos.PhotoInfo: PhotoInfo object for the single photo
+    """
+
     photosData = osxphotos.PhotosDB()
 
-    options = osxphotos.QueryOptions(name=[name])
-    print(f"Searching for name {name}")
-#    print(options)
+    if args.uuid:
+        options = osxphotos.QueryOptions(uuid=[args.uuid])
+    elif args.photo:
+        options = osxphotos.QueryOptions(name=[args.photo])
     photos = photosData.query(options)
 
-    print(f"Found {len(photos)} photos with name {name}")
-    # print(photos)
-    print("--------- photo")
-
-    for photo in photos:
-        for field in ( PHOTO_YAML_FIELDS ):
-            print(f"-- {field}: {getattr(photo, field)}")
-#        pprint(photo.info)
     if len(photos) == 0:
         raise ValueError(f"No photo found in Photos app with name matching {args.photo}")
     if len(photos) > 1:
+        showFoundPhotos(photos)
         raise ValueError(f"Multiple photos found in Photos app with name matching {args.photo}")
 
     return photos[0]
@@ -128,14 +110,13 @@ def exportPhoto(photo: osxphotos.PhotoInfo, plant: str, photoNum : int) -> bool:
        use_photos_export=True
     )
     exporter = osxphotos.PhotoExporter( photo )
-    #exporter.export( dest=TMP_DIR, 
     exporter.export( dest=photoPath, 
                     filename=str(photoNum), options=exportOptions )
 
-    #with Image.open(f"{TMP_DIR}{TMP_FILENAME}.jpeg") as img:
     if not os.path.exists(f"{photoPath}{photoNum}.jpeg"):
         raise ValueError(f"Failed to export photo to {photoPath}{photoNum}.jpeg")
     with Image.open(f"{photoPath}{photoNum}.jpeg") as img:
+        #-- ensure photo orientation is correct
         img = ImageOps.exif_transpose(img)
         (width, height) = (img.width*IMAGE_SCALE, img.height*IMAGE_SCALE)
         img_resized = img.resize((int(width), int(height)))
@@ -162,8 +143,7 @@ def extractPlantYAML(path):
 
 def extractPlantMarkdown(path):
     """
-    Given path local to DOCS_FOLDER for a markdown file, extract the front matter
-    and return it"""
+    Given path local to DOCS_FOLDER for a markdown file, extract the front matter and return it"""
 
     md = markdown.Markdown(extensions = ['meta'])
     pageData = {}
@@ -173,17 +153,10 @@ def extractPlantMarkdown(path):
         pageData['yaml'] = md.Meta
         pageData['html'] = html
 
-#        print(pageData['yaml'])
-#        print("------- YAML AFTER")
-        
         for key in pageData['yaml'].keys():
             pageData['yaml'][key] = pageData['yaml'][key][0]
             # remove any quotes surrounding the value
             pageData['yaml'][key] = pageData['yaml'][key].lstrip('\"').rstrip('\"')
-#            print(f"{key}: {pageData['yaml'][key]}")
-
-        #fMatter = frontmatter.load(content)
-#        fMatter = frontmatter.load(f)
 
         return pageData
 
@@ -205,13 +178,7 @@ def retrievePlantFile(plant: str):
         raise ValueError(f"No such file {markdownFile}")
 
     markdown = extractPlantMarkdown(markdownFile)
-    print("------- MARKDOWN")
-    pprint(markdown)
-    print("------- YAML")
     yaml = extractPlantYAML(markdownFile)
-    pprint(yaml)
-    print("----- end")
-    print(yaml)
 
     if markdown is None:
         raise ValueError(f"No markdown for plant found matching {markdownFile}")
@@ -230,14 +197,15 @@ def parseArgs():
     """
 
     parser = argparse.ArgumentParser(description="Add a photo for an individual plant from the Photos library into Memex")
-    parser.add_argument("--photo", help="Photo name - matching Photos app name")
+    parser.add_argument("--photo", help="Photo name - matching Photos app name", required=False)
     parser.add_argument("--plant", help="Plant name - matching markdown filename" )
+    parser.add_argument("--uuid", help="Uuid of the photo in the Photos app", required=False)
     args = parser.parse_args()
 
-    if not args.photo:
-        parser.error("Please provide a photo name")
+    if not args.photo and not args.uuid:
+        parser.error("Please provide either a photo name (--photo) or a uuid (--uuid) matching a photo in the Photos app")
     if not args.plant:
-        parser.error("Please provide a plant name")
+        parser.error("Please provide a plant name (--plant) matching memex markdown filename")
     return args
 
 def writePlantFile( plantName: str, yaml: str, markdownContent: str ):
@@ -249,7 +217,6 @@ def writePlantFile( plantName: str, yaml: str, markdownContent: str ):
     """
 
     filePath = f"{SINGLE_PLANT_DIR}{plantName}.md"
-    #filePath = f"/tmp/{plantName}.md"
 
     if not os.path.exists(filePath):
         raise ValueError(f"No such file to writePlantFile {filePath}")
@@ -289,7 +256,6 @@ def createYamlString( plantName: str, yamlStruct: dict,
     lastPhoto = 0
     updatePhoto = False
     pDict = photoInfo.asdict()
-    pprint(pDict, indent=2)
     if "photos" not in yamlStruct.keys():
         yamlStruct["photos"] = {}
     else:
@@ -318,7 +284,7 @@ def createYamlString( plantName: str, yamlStruct: dict,
             if key != "date":
                 yamlStruct["photos"][lastPhoto][key] = pDict[key]
             else:
-                yamlStruct["photos"][photoNum][key] = pDict[key].strftime("%Y-%m-%d %H:%M:%S")
+                yamlStruct["photos"][lastPhoto][key] = pDict[key].strftime("%Y-%m-%d %H:%M:%S")
         #-- export the photo to the relevant directory to add it
         if exportPhoto(photoInfo, plantName,  lastPhoto ):
             yamlStruct["photos"][lastPhoto]["memexFilename"] = f"{SINGLE_PLANT_IMAGES_PATH}{plantName}/{lastPhoto}.jpeg"
@@ -332,13 +298,9 @@ def createYamlString( plantName: str, yamlStruct: dict,
         for key in yamlStruct["photos"][photoNum].keys():
             yaml += f"      {key}: {yamlStruct['photos'][photoNum][key]}\n"
 
-    print("------ FINAL YAML")
-    print(yaml)
-    print("----")
-
     return yaml
 
-def updatePlantYAML( plantName: str, plantMemex: dict, 
+def updateMemex( plantName: str, plantMemex: dict, 
                     photoInfo : osxphotos.PhotoInfo ):
     """Modify the memex YAML front matter for the individual plant to include information about the new photo
 
@@ -360,12 +322,8 @@ def updatePlantYAML( plantName: str, plantMemex: dict,
 
     #-- convert plantMemex[yaml] dict to a yaml string
     yaml = createYamlString(plantName, plantMemex["yaml"], photoInfo)
-    print("--- final YAML string")
-    print(yaml)
 
     writePlantFile( plantName, yaml, markdown ) 
-
-    pass
 
 if __name__ == "__main__":
 
@@ -373,20 +331,12 @@ if __name__ == "__main__":
     args = parseArgs()
 
     #-- Find single photo in Photos app matching name
-    photo = findPhoto(args.photo)
+    photo = findPhoto(args)
 
     #-- get the content of the markdown file, including YAML
     # - { markdown: full content, yaml: YAML front matter }
     plantMemex = retrievePlantFile(args.plant)
 
-    #-- check to see if that photo is already associated with that plant
-    #   - does it exist in the YAML frontmatter
-    #   - does it exist in the images directory (this name is based on 
-    #   - YAML front matter )
-
-    #-- export the photo to the relevant directory
-    # - would need to know the number of the image (from the YAML)
-#    exportPhoto(photo, "the-original-bunya-pine" )
-
-    updatePlantYAML(args.plant, plantMemex, photo)
+    #-- update the YAML front matter and export the image
+    updateMemex(args.plant, plantMemex, photo)
 
