@@ -6,9 +6,11 @@ purpose: Experiments in using Pillow to read exif data from images
 from PIL import Image, ExifTags, IptcImagePlugin
 from PIL.ExifTags import TAGS
 
+from pprint import pprint
 import folium
 
 import osxphotos
+import exifread
 
 HOME_LAT = -27.53831
 HOME_LONG = 152.05599
@@ -17,8 +19,31 @@ def getLatLong(image_file_path):
     image = Image.open(image_file_path)
     imageData = {
         'title': "no title", 'caption': None, 'latitude': None, 'longitude': None,
-        'path': image_file_path
+        'path': image_file_path, 'Image ImageDescription': "No description",
+        'Image DateTime': "No date"
     }
+
+    with open(image_file_path, 'rb') as f:
+        exif = exifread.process_file(f)
+#        print("------ exif read")
+#        for tag in tags.keys():
+#            if tag not in ('JPEGThumbnail', 'TIFFThumbnail', 'Filename', 'EXIF MakerNote'):
+#                print(f"**{tag}** = {tags[tag]}")
+#        print("----- /end")
+
+        for field in ( "Image ImageDescription", "Image DateTime"):
+            if field in exif:
+                print(f"{field} = {exif[field]}")
+                imageData[field] = str(exif[field])
+#    ifreadTags = [
+#        "Image ImageDescription", "Image DateTime",
+#    ]
+
+#    print("--------- TAGS")
+#    for tag in TAGS:
+#        print(f"{tag} = {TAGS[tag]}")
+#    print("------- END TAGS")
+
     if image is None:
         raise ValueError(f"Could not open image file {image_file_path}")
 
@@ -26,30 +51,48 @@ def getLatLong(image_file_path):
     info = image.getexif()
     iptc = IptcImagePlugin.getiptcinfo(image)
 
+#    exifTranslate = {
+#        "ImageDescription": 270,
+#        "UserComment": 37510,
+#        "XPTitle": 40091,
+#        "ExifImageWidth": 40962,
+#        "ExifImageLength": 40963,
+#    }
+
+#    pprint(info)
+#    pprint(iptc)
+
+#    for key in exifTranslate.keys():
+#        print(f"--- testing {key} -- {exifTranslate[key]}")
+#        print(f"    -- info {info[exifTranslate[key]]}")
+#        if ExifTags.TAGS.get(exifTranslate[key]) in info:
+#            print(f"{key}: {info[ExifTags.TAGS.get(exifTranslate[key])]}")
+
     # loop through exif tags
-    print("=================")
-    #print(image.info)
-    if iptc is not None:
-        print("---- iptc")
-        print(f"dict is type {type(iptc)}")
-        for tag in iptc.keys():
-            print(f"{tag} = {iptc[tag]}")
-        print(iptc)
-        print("------")
-    print(info)
-    print("=================")
+#   print("=================")
+#    if iptc is not None:
+#        print("---- iptc")
+#        print(f"dict is type {type(iptc)}")
+#        for tag in iptc.keys():
+#            print(f"{tag} = {iptc[tag]}")
+#        print(iptc)
+#        print("------")
+#    print(info)
+#    print("=================")
+#    quit()
 
     #-- get the title and caption from exif
-    if ExifTags.TAGS.get(270) in info:
-        print(f"Title: {info[ExifTags.TAGS.get(270)]}")
-        imageData['title'] = info[ExifTags.TAGS.get(270)]
-    if ExifTags.TAGS.get(37510) in info:
-        print(f"Caption: {info[ExifTags.TAGS.get(37510)]}")
-        imageData['caption'] = info[ExifTags.TAGS.get(37510)]
+    #    if ExifTags.TAGS.get(270) in info:
+    #        print(f"Title: {info[ExifTags.TAGS.get(270)]}")
+    #        imageData['title'] = info[ExifTags.TAGS.get(270)]
 
-    if ExifTags.IFD.GPSInfo not in info:
-        print("No GPS data found")
-        return None
+#    if ExifTags.TAGS.get(37510) in info:
+#        print(f"Caption: {info[ExifTags.TAGS.get(37510)]}")
+#        imageData['caption'] = info[ExifTags.TAGS.get(37510)]
+
+#    if ExifTags.IFD.GPSInfo not in info:
+#        print("No GPS data found")
+#        return None
 
     gps_ifd = info.get_ifd(ExifTags.IFD.GPSInfo)
 #    print(" -- GPS dict")
@@ -66,6 +109,11 @@ def getLatLong(image_file_path):
 
     imageData['latitude'] = latitude
     imageData['longitude'] = longitude
+
+    print("-----------------")
+    print("-----------------")
+    pprint(imageData)
+    print("-----------------")
 
     return imageData
 
@@ -90,40 +138,53 @@ def saveMap( points, mapPath ):
                      tiles="Esri.WorldImagery")
 #                     tiles="Stadia.AlidadeSatellite")
 
+    photoNames = [ "ficus", "dam clearing", "Oma's phone", "Sandy's phone"]
+    count = 0
     for point in points:
         folium.Marker([point['latitude'], point['longitude']], 
-                      popup=point['title']).add_to(map)
+                      popup=point["Image ImageDescription"]).add_to(map)
+        count += 1
     map.save(mapPath)
     
 def generateMapFromImages( ):
     images = [
-        '/Users/davidjones/memex/docs/sense/landscape-garden/plants/images/honey-locust.jpeg',
-        '/Users/davidjones/Downloads/honey-locust-copy.jpg',
-        '/Users/davidjones/Downloads/Export/Ficus leaves from the roundabout.jpeg',
-        '/Users/davidjones/Downloads/Export/dam-bank-clearing.jpeg'
+        "/Users/davidjones/Downloads/Sandys/IMG_0324.jpeg",
+        "/Users/davidjones/Downloads/Sandys/IMG_0325.jpeg",
+        "/Users/davidjones/Downloads/Sandys/IMG_0326.jpeg",
+        "/Users/davidjones/Downloads/Sandys/IMG_0327.jpeg",
+        "/Users/davidjones/Downloads/Sandys/IMG_0328.jpeg",
+        "/Users/davidjones/Downloads/Sandys/IMG_0330.jpeg",
+        "/Users/davidjones/Downloads/Sandys/IMG_0331.jpeg",
+        "/Users/davidjones/Downloads/Sandys/IMG_0332.jpeg",
+        "/Users/davidjones/Downloads/Sandys/IMG_0334.jpeg",
+        "/Users/davidjones/Downloads/Sandys/IMG_0335.jpeg",
+        "/Users/davidjones/Downloads/Sandys/IMG_0336.jpeg",
+        "/Users/davidjones/Downloads/Sandys/IMG_0337.jpeg",
+        "/Users/davidjones/Downloads/Sandys/IMG_0339.jpeg",
+        "/Users/davidjones/Downloads/Sandys/IMG_0344.jpeg",
+        "/Users/davidjones/Downloads/Sandys/IMG_0345.jpeg",
+        "/Users/davidjones/Downloads/Sandys/IMG_0346.jpeg",
+        "/Users/davidjones/Downloads/Sandys/IMG_1179.jpeg",
+        "/Users/davidjones/Downloads/Sandys/IMG_7435.jpeg",
     ]
 
 
     points = getPointsFromImages( images )
 
-#    print(points)
+    pprint(points, indent=4)
 
     saveMap( points, "index.html")
 
-def osxPhotos():
-    photosdb = osxphotos.PhotosDB()
-    photos = photosdb.photos(albums=["TheIsland"])
-    for photo in photos:
-        print(photo.original_filename, photo.date, photo.title, photo.keywords, photo.comments ) 
-        print(f"  latitude: {photo.latitude}, longitude: {photo.longitude}")
-        print(f"  path: {photo.path}")
+#    for photo in photos:
+#        print(photo.original_filename, photo.date, photo.title, photo.keywords, photo.comments ) 
+#        print(f"  latitude: {photo.latitude}, longitude: {photo.longitude}")
+#        print(f"  path: {photo.path}")
     
     
 if __name__ == "__main__":
 
-    # generateMapFromImages()
+    generateMapFromImages()
 
-    osxPhotos() 
 
 
 
