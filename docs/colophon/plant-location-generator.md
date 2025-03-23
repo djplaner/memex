@@ -113,7 +113,58 @@ Reading exif and other associated data via PIL is harder and less well documente
 
 ### Map generation
 
-The [folium module](https://python-visualization.github.io/folium/latest/) provide Python access to the [Leaflet.js](https://leafletjs.com/) library. 
+The [folium module](https://python-visualization.github.io/folium/latest/) provide Python access to the [Leaflet.js](https://leafletjs.com/) library. But there's an issue with the map providers available with leaflet not having sufficient resolution to meaningfully work. e.g. two plants too close together to interact with separately via the web page.
+
+!!! abstract "Google maps or free versions"
+
+    Begging the question whether or not Google maps might offer better resolution, without the need to pay. Do I feed the Google monster, or look further for alternatives?
+
+#### Free versions
+
+- [Open Web Mapping course](https://www.e-education.psu.edu/geog585/node/519)
+
+
+Web mapping frameworks that display a [tiled web map](https://en.wikipedia.org/wiki/Tiled_web_map). The Google Maps API is another web mapping framework.
+
+- [Folium](https://python-visualization.github.io/folium/quickstart.html) and [Leaflet.js](https://leafletjs.com/)
+- [OpenLayers](https://openlayers.org)
+
+    Open source, Free BSD licence. Similar to Leaflet. Long term and active development.
+
+- [Polymaps](http://polymaps.org/docs/)
+
+    Javascript library. Not actively developed.
+
+Sources for tiled web maps include
+
+- [OSM (Open Street Map)](https://www.openstreetmap.org/#map=15/-27.54545/152.06518)
+
+    Open and leveraging local/community-based input
+- Bing 
+- [MapBox](https://www.mapbox.com/)
+
+    Open source and paid versions.
+- [Stadia Maps](https://stadiamaps.com)
+
+- [Protomaps](https://docs.protomaps.com)
+
+    Opensource provision of a world map (based on OpenMaps) as a single file. Can be used with Leaflet and OpenLayers.
+
+Satellite resolution
+
+- [OpenMapTiles](https://www.maptiler.com/news/2017/12/openmaptiles-satellite/) at 1 to 2 metres per pixel - only available in some places, not relevant
+
+    - Via [MapTiler](https://www.maptiler.com/satellite/#dates-and-resolution)
+- [Redit question](https://www.reddit.com/r/QGIS/comments/q0su5b/what_are_some_freeforcommercialuse_satellite/)
+
+
+
+#### Google Maps
+
+- Had to sign up for a Google Maps API key, which included providing details for a credit card.
+- [Details about cost](https://mapsplatform.google.com/resources/blog/build-more-for-free-and-access-more-discounts-online-with-google-maps-platform-updates/) - $3250 free per month
+- [Google maps console](https://console.cloud.google.com/google/maps-apis/home;onboard=true?project=micro-mediator-279707) 
+- [Maps Javascript API](https://developers.google.com/maps/documentation/javascript)
 
 ### Accessing OS X Photos app
 

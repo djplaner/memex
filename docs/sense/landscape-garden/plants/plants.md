@@ -26,6 +26,7 @@ The following provides a summary of the plants we've removed, planted, or cared 
 
 - [[wombat-berry]]
 - [[common-rush]]
+- [[azola]]
 
 ## Weeds and other nasties
 
@@ -76,6 +77,7 @@ The following provides a summary of the plants we've removed, planted, or cared 
 [individual-plants]: ../individual-plants/individual-plants "Individual plants"
 [bunya-pine]: bunya-pine "Bunya Pine"
 [harpullia-pendula]: harpullia-pendula "Harpullia Pendula (Moreton Bay Tulipwood)"
+[unknown-ficus]: ../individual-plants/unknown-ficus "Unknown ficus"
 [corymbia-torelliana]: corymbia-torelliana "corymbia-torelliana"
 [macadamia]: macadamia "Macadamia"
 [dendrodbium-taberi]: dendrodbium-taberi "Dendrodbium taberi (King Orchid)"
