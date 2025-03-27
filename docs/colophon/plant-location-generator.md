@@ -150,6 +150,8 @@ The [folium module](https://python-visualization.github.io/folium/latest/) provi
 
     Begging the question whether or not Google maps might offer better resolution, without the need to pay. Do I feed the Google monster, or look further for alternatives?
 
+    **Status** Feeding the monster
+
 #### Free versions
 
 - [Open Web Mapping course](https://www.e-education.psu.edu/geog585/node/519)

@@ -8,6 +8,9 @@ What do I want to share with the world?
 - [[my-publications]] see also the [Publications page](https://djon.es/blog/publications/) on my blog
 - Software etc on [GitHubs](https://github.com/djplaner?tab=repositories)
 
+## Family
+
+- [[music]]
 
 ## Others
 
