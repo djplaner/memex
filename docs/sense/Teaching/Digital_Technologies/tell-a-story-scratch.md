@@ -1,5 +1,5 @@
 ---
-title: "Tell a story - Scratch"
+title: Tell a story - Scratch
 type: "note"
 tags: teaching-digital-technologies, digital-technologies, programming, scratch
 ---

@@ -1,6 +1,6 @@
 ---
 title: Brigalow scrub
-type: note
+type: "note"
 tags: gardens, landscape, wood-duck-meadows
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Asparagus africanus (Climbing asparagus fern)"
+title: Asparagus africanus (Climbing asparagus fern)
 type: "note"
 tags: garden, plant, weed
 ---

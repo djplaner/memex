@@ -1,6 +1,6 @@
 ---
 title: Madeira vine
-type: plants
+type: "plants"
 tags: garden, plant, weed, vine
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Careers in mathematics"
-type: note
+title: Careers in mathematics
+type: "note"
 tags: teaching-mathematics, mathematics
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Arundo donax (Elephant Grass)
-type: plants
+type: "plants"
 tags: gardens, plants 
 ---
 

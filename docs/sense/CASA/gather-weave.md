@@ -1,6 +1,6 @@
 ---
 title: Gather and weave
-type: note
+type: "note"
 tags: design, gather-weave, CASA
 ---
 # Gather and Weave

@@ -1,5 +1,5 @@
 ---
-title: "New Zealand Trip - 2025"
+title: New Zealand Trip - 2025
 type: "note"
 tags: travel, new-zealand
 ---

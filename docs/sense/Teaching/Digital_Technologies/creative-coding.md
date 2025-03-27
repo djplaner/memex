@@ -1,5 +1,5 @@
 ---
-title: "Creative Coding"
+title: Creative Coding
 type: "note"
 tags: digital,art, creative-coding
 ---

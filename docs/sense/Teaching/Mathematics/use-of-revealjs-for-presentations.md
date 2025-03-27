@@ -1,5 +1,5 @@
 ---
-title: "Use of reveal.js for presentations"
+title: Use of reveal.js for presentations
 type: "note"
 tags: teaching, teaching-mathematics, teaching-digital-technologies
 ---

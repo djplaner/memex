@@ -1,5 +1,5 @@
 ---
-title: "Macroptilium lathyroides (Phasey Bean)"
+title: Macroptilium lathyroides (Phasey Bean)
 type: "plants"
 tags: gardens, plants
 ---

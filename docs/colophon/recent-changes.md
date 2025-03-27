@@ -1,6 +1,6 @@
 ---
 title: Recent changes
-type: computational-component
+type: "computational-component"
 tags: 
     - colophon
     - computational-component

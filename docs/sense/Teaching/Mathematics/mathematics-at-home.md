@@ -1,5 +1,5 @@
 ---
-title: "Mathematics at home"
+title: Mathematics at home
 type: "note"
 tags: teaching-mathematics, teaching
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Teaching Mathematics"
-type: index
+title: Teaching Mathematics
+type: "index"
 tags: mathematics, teaching
 ---
 

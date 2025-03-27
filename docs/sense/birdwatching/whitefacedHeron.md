@@ -1,6 +1,6 @@
 ---
 title: White-faced Heron
-type: bird
+type: "bird"
 tags: birding, birdwatching
 ---
 

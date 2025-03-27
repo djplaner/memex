@@ -1,5 +1,5 @@
 ---
-title: "CSER Math Connections with Community"
+title: CSER Math Connections with Community
 type: "note"
 tags: cser, teaching, teaching-mathematics, cser-mathematics
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Mathematical Content Knowledge"
-type: index
+title: Mathematical Content Knowledge
+type: "index"
 tags: teaching, mathematics
 ---
 

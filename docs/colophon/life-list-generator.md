@@ -1,6 +1,6 @@
 ---
 title: Life list generator
-type: note
+type: "note"
 tags: 
     - colophon
     - birding

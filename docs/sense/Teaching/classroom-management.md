@@ -1,6 +1,6 @@
 ---
-title: 'Classroom management'
-type: 'note'
+title: Classroom management
+type: "note"
 tags: teaching, classroom-management
 ---
 

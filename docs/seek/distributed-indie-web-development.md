@@ -1,6 +1,6 @@
 ---
 title: Distributed indie web development
-type: note
+type: "note"
 tags:
     - seek
 ---

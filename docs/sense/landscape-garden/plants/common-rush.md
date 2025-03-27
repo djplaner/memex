@@ -1,6 +1,6 @@
 ---
 title: Common Rush
-type: note
+type: "note"
 tags: 'gardens, landscape'
 ---
 

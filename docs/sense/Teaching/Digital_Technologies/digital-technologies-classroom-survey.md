@@ -1,5 +1,5 @@
 ---
-title: "Digital technologies classroom survey"
+title: Digital technologies classroom survey
 type: "note"
 tags: teaching-digital-technologies
 ---

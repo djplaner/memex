@@ -1,5 +1,5 @@
 ---
-title: "Teaching Professional Development"
+title: Teaching Professional Development
 type: "index"
 tags: teaching 
 ---

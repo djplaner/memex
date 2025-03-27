@@ -1,5 +1,5 @@
 ---
-title: "Unpicking the Digital Technologies Hub"
+title: Unpicking the Digital Technologies Hub
 type: "note"
 tags: teaching, teaching-digital-technologies
 ---

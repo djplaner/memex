@@ -1,5 +1,5 @@
 ---
-title: "Starter activities for mathematics"
+title: Starter activities for mathematics
 type: "index"
 tags: teaching, mathematics, teaching-mathematics
 ---

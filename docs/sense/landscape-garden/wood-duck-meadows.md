@@ -1,6 +1,6 @@
 ---
 title: Wood duck meadows
-type: note
+type: "note"
 tags: gardens, sense, landscape
 ---
 
@@ -10,7 +10,7 @@ Home since 2012. Property was historically used for small scale farming/market g
 
 More recently largely used as for horse paddocks. Closer to the house being planted with many different ornamental/non-native trees and plants (e.g. [[agave]]). More recently many areas have been increasingly over grown with various weeds (e.g. climbing asparagus fern ([[asparagus-africanus]]), lantana, [[madeira-vine]], [[cats-claw-creeper]] etc).
 
-Our plan is to undertake a process of [[ecosystem-restoration]] to bring back various regionally [appropriate habitat types](https://www.qld.gov.au/environment/plants-animals/habitats/habitat). We're slowly developing a specific [[wood-duck-regeneration-process]] to achieve this.
+Our plan is to undertake a process of bush [[regeneration]] to bring back various regionally [appropriate habitat types](https://www.qld.gov.au/environment/plants-animals/habitats/habitat). We're slowly developing a specific [[regeneration]] to achieve this.
 
 The [[house]] is also undergoing a regeneration to be more appropriate to the changing context.
 
@@ -98,8 +98,7 @@ List of projects/tools to help with various forms of measurement of what we're d
 [asparagus-africanus]: plants/asparagus-africanus "Asparagus africanus (Climbing asparagus fern)"
 [madeira-vine]: plants/madeira-vine "Madeira vine"
 [cats-claw-creeper]: plants/cats-claw-creeper "Cats claw creeper"
-[ecosystem-restoration]: ecosystem-restoration "Ecosystem restoration (aka bush regneration)"
-[wood-duck-regeneration-process]: wood-duck-regeneration-process "Wood Duck Regeneration Process"
+[regeneration]: regeneration "Bush regeneration (Wood duck meadows)"
 [house]: house "House"
 [brigalow-scrub]: brigalow-scrub "Brigalow scrub"
 [gatton-creek-frontage]: gatton-creek-frontage "Gatton creek frontage"

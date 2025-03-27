@@ -1,6 +1,6 @@
 ---
 title: Stretching education's iron triangle
-type: note
+type: "note"
 tags:
     - seek
 --- 

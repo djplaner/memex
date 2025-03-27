@@ -1,6 +1,6 @@
 ---
 title: Deploy with GitHub Action
-type: note
+type: "note"
 tags:
     - colophon
     - about

@@ -1,6 +1,6 @@
 ---
 title: Life list
-type: birds
+type: "birds"
 tags: birdwatching, birding
 ---
 

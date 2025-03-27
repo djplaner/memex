@@ -1,6 +1,6 @@
 ---
 title: Horse paddock
-type: zone
+type: "zone"
 tags: [gardens, landscape]
 ---
 

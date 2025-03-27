@@ -1,5 +1,5 @@
 ---
-title: "Open data sources"
+title: Open data sources
 type: "note"
 tags: teaching-digital-technologies, computing
 ---

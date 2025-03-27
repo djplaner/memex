@@ -1,5 +1,5 @@
 ---
-title: "Corymbia Torelliana (Cadaghi)""
+title: Corymbia Torelliana (Cadaghi)"
 type: "plant"
 tags: gardens
 ---

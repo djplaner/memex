@@ -1,6 +1,6 @@
 ---
-title: "How to get into birdwatching"
-type: 'note'
+title: How to get into birdwatching
+type: "note"
 tags: birdwatching, birding
 ---
 

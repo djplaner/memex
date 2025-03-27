@@ -1,6 +1,6 @@
 ---
 title: Torresian Crow
-type: bird
+type: "bird"
 tags: birding, birdwatching
 ---
 

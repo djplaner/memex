@@ -1,5 +1,5 @@
 ---
-title: "My classroom management approaches"
+title: My classroom management approaches
 type: "note"
 tags: teaching, classroom-management
 ---

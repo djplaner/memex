@@ -1,6 +1,6 @@
 ---
 title: Privet
-type: plant
+type: "plant"
 tags: garden, plant, weed 
 ---
 

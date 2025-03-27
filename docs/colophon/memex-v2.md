@@ -1,6 +1,6 @@
 ---
 title: Thinking about 'memex v2'
-type: note
+type: "note"
 tags: 
     - colophon
     - about

@@ -1,5 +1,5 @@
 ---
-title: "Data informed teaching"
+title: Data informed teaching
 type: "note"
 tags: teaching
 ---

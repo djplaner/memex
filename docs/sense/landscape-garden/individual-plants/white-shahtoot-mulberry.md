@@ -1,6 +1,6 @@
 ---
 title: White Shahtoot mulberry
-type: single-plant
+type: "single-plant"
 tags: ['individual-plants']
 photos:
   1:

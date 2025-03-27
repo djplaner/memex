@@ -1,5 +1,5 @@
 ---
-title: "There's more than one way to do it (TIMTOWTDI)"
+title: There's more than one way to do it (TIMTOWTDI)
 type: "note"
 tags: teaching-mathematics, perl, mathematics
 ---

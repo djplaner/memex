@@ -1,6 +1,6 @@
 ---
 title: Galah
-type: bird
+type: "bird"
 tags: birding, birdwatching
 ---
 

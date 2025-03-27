@@ -1,5 +1,5 @@
 ---
-title: "Class Expectations"
+title: Class Expectations
 type: "note"
 tags: teaching, teaching-implementation
 ---

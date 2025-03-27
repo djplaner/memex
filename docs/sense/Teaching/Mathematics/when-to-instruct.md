@@ -1,5 +1,5 @@
 --- 
-title: "When to instruct"
+title: When to instruct
 type: "note"
 tags: teaching, teaching-mathematics
 ---

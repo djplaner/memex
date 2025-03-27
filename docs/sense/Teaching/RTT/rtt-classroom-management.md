@@ -1,5 +1,5 @@
 ---
-title: "Classroom management"
+title: Classroom management
 type: "note"
 tags: teaching, rtt
 ---

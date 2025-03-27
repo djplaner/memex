@@ -1,5 +1,5 @@
 ---
-title: "Teaching as gathering, weaving, and augmenting"
+title: Teaching as gathering, weaving, and augmenting
 type: "note"
 tags: teaching, pedagogy, technology
 ---

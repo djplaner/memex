@@ -1,6 +1,6 @@
 ---
-title: 'Pythagorean Theorem'
-type: note
+title: Pythagorean Theorem
+type: "note"
 tags: [mathematics,teaching-mathematics]
 ---
 

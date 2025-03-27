@@ -1,6 +1,6 @@
 ---
-title: "Macadamia"
-type: "plants"
+title: Macadamia
+type: "plant"
 tags: gardens, wood-duck-meadows, landscape
 ---
 

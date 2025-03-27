@@ -1,5 +1,5 @@
 ---
-title: "STEM"
+title: STEM
 type: "note"
 tags: STEM, teaching
 ---

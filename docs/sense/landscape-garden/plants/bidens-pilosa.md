@@ -1,6 +1,6 @@
 ---
-title: "Bidens pilosa (Cobbler's Pegs)"
-type: "plants"
+title: Bidens pilosa (Cobbler's Pegs)
+type: "plant"
 tags: gardens, plants
 ---
 

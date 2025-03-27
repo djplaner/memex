@@ -1,5 +1,5 @@
 ---
-title: "Statistical Investigation Checklist (CSER)"
+title: Statistical Investigation Checklist (CSER)
 type: "note"
 tags: cser, teaching-mathematics
 ---

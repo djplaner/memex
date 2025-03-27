@@ -1,6 +1,6 @@
 ---
 title: Cherry Tree walk
-type: note
+type: "note"
 tags: [zone, wood-duck-meadows, landscape]
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Complexity leadership"
+title: Complexity leadership
 type: "note"
 tags: complexity, distribution, BAD
 ---

@@ -1,6 +1,6 @@
 ---
 title: Australasian Grebe
-type: bird
+type: "bird"
 tags: birding, birdwatching
 ---
 

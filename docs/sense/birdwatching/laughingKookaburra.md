@@ -1,6 +1,6 @@
 ---
 title: Laughing Kookaburra
-type: bird
+type: "bird"
 tags: birding, birdwatching
 ---
 

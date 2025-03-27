@@ -1,5 +1,5 @@
 ---
-title: "Worked examples"
+title: Worked examples
 type: "note"
 tags: teaching, teaching-mathematics, teaching-digital-technology
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Log 4 - Canvas learning journal dev"
+title: Log 4 - Canvas learning journal dev
 type: "note"
 tags: [canvas-learning-journal, casa]
 ---

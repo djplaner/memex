@@ -1,6 +1,6 @@
 ---
-title: "Number talk - Cups of flour"
-type: numberTalk
+title: Number talk - Cups of flour
+type: "numberTalk"
 tags: number-talk, mathematics, teaching, fractions
 ---
 

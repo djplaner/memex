@@ -1,6 +1,6 @@
 ---
-title: "Design for the margins"
-type: note
+title: Design for the margins
+type: "note"
 tags: design, technology
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Why combine mkdocs with Foam
-type: note
+type: "note"
 tags:
     - colophon
 ---

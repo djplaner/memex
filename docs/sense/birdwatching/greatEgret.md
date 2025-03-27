@@ -1,6 +1,6 @@
 ---
 title: Great Egret
-type: bird
+type: "bird"
 tags: birding, birdwatching
 ---
 

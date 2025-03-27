@@ -1,5 +1,5 @@
 ---
-title: "Effective learning"
+title: Effective learning
 type: "note"
 tags: teaching, rtt
 ---

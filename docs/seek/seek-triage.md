@@ -1,6 +1,6 @@
 ---
 title: Seek triage list
-type: note
+type: "note"
 tags:
     - seek
 ---

@@ -1,6 +1,6 @@
 ---
 title: The Island
-type: zone
+type: "zone"
 tags: [gardens, sense, landscape]
 ---
 

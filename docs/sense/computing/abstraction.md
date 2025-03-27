@@ -1,5 +1,5 @@
 ---
-title: "Abstraction"
+title: Abstraction
 type: "note"
 tags: computing, teaching-digital-technology, computational-thinking
 ---

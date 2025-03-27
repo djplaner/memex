@@ -1,5 +1,5 @@
 ---
-title: "STEM Crisis"
+title: STEM Crisis
 type: "note"
 tags: society, STEM 
 ---

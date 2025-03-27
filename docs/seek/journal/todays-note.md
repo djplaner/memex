@@ -1,6 +1,6 @@
 ---
 title: Today's note 
-type: note
+type: "note"
 tags:
     - seek
     - journal

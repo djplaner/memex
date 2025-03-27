@@ -1,5 +1,5 @@
 ---
-title: "Health check"
+title: Health check
 type: "note"
 tags: health, personal
 ---

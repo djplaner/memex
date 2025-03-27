@@ -1,6 +1,6 @@
 ---
 title: Computational components
-type: note
+type: "note"
 tags: 
     - colophon
 ---

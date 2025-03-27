@@ -1,5 +1,5 @@
 ---
-title: "Unpicking technologies education"
+title: Unpicking technologies education
 type: "note"
 tags: teaching, teaching-digital-technology
 ---

@@ -1,6 +1,6 @@
 ---
-title: 'Notes on birding resources'
-type: 'note'
+title: Notes on birding resources
+type: "note"
 tags: birdwatching, birding
 ---
 

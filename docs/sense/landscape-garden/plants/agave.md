@@ -1,5 +1,5 @@
 ---
-title: "Agave"
+title: Agave
 type: "plant"
 tags: gardens, plant
 --- 

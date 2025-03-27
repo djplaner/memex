@@ -1,5 +1,5 @@
 ---
-title: "Wombat Berry"
+title: Wombat Berry
 type: "plant"
 tags: garden, plant, vine
 ---

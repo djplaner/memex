@@ -1,5 +1,5 @@
 ---
-title: "Pattern recognition"
+title: Pattern recognition
 type: "note"
 tags: computing, teaching-digital-technology, computational-thinking
 ---

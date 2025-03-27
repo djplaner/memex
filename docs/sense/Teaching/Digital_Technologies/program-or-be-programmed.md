@@ -1,5 +1,5 @@
 ---
-title: "Program or be programmed"
+title: Program or be programmed
 type: "note"
 tags: teaching, programming, software
 ---

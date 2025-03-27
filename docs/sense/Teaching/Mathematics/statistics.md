@@ -1,6 +1,6 @@
 ---
-title: "Statistics - mathematical content"
-type: note
+title: Statistics - mathematical content
+type: "note"
 tags: statistics, teaching-mathematics
 ---
 

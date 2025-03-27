@@ -1,6 +1,6 @@
 ---
 title: House
-type: zone
+type: "zone"
 tags: wood-duck-meadows
 ---
 

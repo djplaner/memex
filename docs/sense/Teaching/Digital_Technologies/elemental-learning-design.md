@@ -1,6 +1,6 @@
 ---
-title: "Elemental learning design"
-type: note
+title: Elemental learning design
+type: "note"
 tags: learning, teaching, teaching-digital-technologies
 ---
 

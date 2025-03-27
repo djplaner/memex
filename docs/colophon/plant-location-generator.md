@@ -1,6 +1,6 @@
 ---
 title: Plant location generator
-type: note
+type: "note"
 tags: 
     - colophon
     - computational-components

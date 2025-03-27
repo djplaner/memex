@@ -1,6 +1,6 @@
 ---
 title: Memex - Version 3
-type: note
+type: "note"
 tags: 
     - colophon
 ---

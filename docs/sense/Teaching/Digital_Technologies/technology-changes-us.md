@@ -1,6 +1,6 @@
 ---
 title: Technology Changes us
-type: note
+type: "note"
 tags: digitalTechnology, technology, brainPlasticity
 ---
 

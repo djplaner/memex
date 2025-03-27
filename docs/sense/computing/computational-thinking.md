@@ -1,5 +1,5 @@
 ---
-title: "Computational thinking"
+title: Computational thinking
 type: "note"
 tags: computing, teaching-digital-technology
 ---

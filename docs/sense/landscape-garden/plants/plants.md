@@ -1,5 +1,5 @@
 ---
-title: "Plants"
+title: Plants
 type: "note"
 tags: gardens
 ---
@@ -78,7 +78,7 @@ The following provides a summary of the plants we've removed, planted, or cared 
 [bunya-pine]: bunya-pine "Bunya Pine"
 [harpullia-pendula]: harpullia-pendula "Harpullia Pendula (Moreton Bay Tulipwood)"
 [unknown-ficus]: ../individual-plants/unknown-ficus "Unknown ficus"
-[corymbia-torelliana]: corymbia-torelliana "corymbia-torelliana"
+[corymbia-torelliana]: corymbia-torelliana "Corymbia Torelliana (Cadaghi)""
 [macadamia]: macadamia "Macadamia"
 [dendrodbium-taberi]: dendrodbium-taberi "Dendrodbium taberi (King Orchid)"
 [wombat-berry]: wombat-berry "Wombat Berry"

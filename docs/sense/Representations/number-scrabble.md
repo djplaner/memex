@@ -1,5 +1,5 @@
 ---
-title: "Number scrabble (aka Fifteen)"
+title: Number scrabble (aka Fifteen)
 type: "note"
 tags: representations, design, mathematics, teaching-mathematics
 ---

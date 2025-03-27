@@ -1,5 +1,5 @@
 --- 
-title: "DIG101A 2024 Unit 1 Lesson 1"
+title: DIG101A 2024 Unit 1 Lesson 1
 type: "note"
 tags: teaching-digital-technologies
 ---

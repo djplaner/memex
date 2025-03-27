@@ -1,5 +1,5 @@
 ---
-title: "Building a thinking classroom"
+title: Building a thinking classroom
 type: "note"
 tags: teaching-mathematics, teaching
 ---

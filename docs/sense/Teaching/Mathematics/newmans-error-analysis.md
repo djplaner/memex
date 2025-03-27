@@ -1,5 +1,5 @@
 ---
-title: "Newman's error analysis"
+title: Newman's error analysis
 type: "note"
 tags: teaching-mathematics
 ---

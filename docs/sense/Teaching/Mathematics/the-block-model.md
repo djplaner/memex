@@ -1,5 +1,5 @@
 ---
-title: "The block model"
+title: The block model
 type: "note"
 tags: teaching-digital-technologies, computing, programming, teaching-programming
 ---

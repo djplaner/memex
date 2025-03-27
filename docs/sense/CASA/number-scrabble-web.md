@@ -1,5 +1,5 @@
 ---
-title: "Number Scrabble - web implementation"
+title: Number Scrabble - web implementation
 type: "note"
 tags: teaching, number-scrabble 
 ---

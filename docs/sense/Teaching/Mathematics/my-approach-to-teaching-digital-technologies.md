@@ -1,6 +1,6 @@
 ---
-title: "My approach to teaching digital technologies"
-type: note
+title: My approach to teaching digital technologies
+type: "note"
 tags: teaching, digital-technologies, teaching-digital-technologies
 ---
 

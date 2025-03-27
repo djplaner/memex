@@ -1,6 +1,6 @@
 ---
-title: "Complex instruction"
-type: note
+title: Complex instruction
+type: "note"
 tags: [teaching, mathematics, complex-instruction]
 ---
 

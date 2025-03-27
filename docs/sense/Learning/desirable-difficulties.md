@@ -1,5 +1,5 @@
 ---
-title: "Desirable difficulties"
+title: Desirable difficulties
 type: "note"
 tags: learning, learning-science, teaching
 ---

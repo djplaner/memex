@@ -1,6 +1,6 @@
 ---
 title: Random Notes 
-type: note
+type: "note"
 tags:
     - seek
 ---

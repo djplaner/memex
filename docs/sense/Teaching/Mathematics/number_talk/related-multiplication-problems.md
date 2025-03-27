@@ -1,6 +1,6 @@
 --- 
-title: "Related multiplication problems"
-type: content
+title: Related multiplication problems
+type: "content"
 tags: teaching, mathematics, number-talks, multiplication, arithmetic
 ---
 

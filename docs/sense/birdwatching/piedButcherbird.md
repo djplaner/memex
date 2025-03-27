@@ -1,6 +1,6 @@
 ---
 title: Pied Butcherbird
-type: bird
+type: "bird"
 tags: birding, birdwatching
 ---
 

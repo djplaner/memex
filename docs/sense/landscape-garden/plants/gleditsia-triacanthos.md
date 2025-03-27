@@ -1,6 +1,6 @@
 ---
 title: Gleditsia triacanthos (Honey Locust)
-type: plants
+type: "plants"
 tags: gardens, plants
 ---
 

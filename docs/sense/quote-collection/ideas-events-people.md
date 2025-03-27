@@ -1,6 +1,6 @@
 ---
-title: 'Great Minds Discuss Ideas; Average Minds Discuss Events; Small Minds Discuss People'
-type: 'note'
+title: Great Minds Discuss Ideas; Average Minds Discuss Events; Small Minds Discuss People
+type: "note"
 tags: quotes, pkm
 ---
 

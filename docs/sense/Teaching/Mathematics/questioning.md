@@ -1,5 +1,5 @@
 ---
-title: "Questioning"
+title: Questioning
 type: "note"
 tags: teaching, teaching-mathematics, questioning
 ---

@@ -1,5 +1,5 @@
 ---
-title: "TIMMS Video Studies"
+title: TIMMS Video Studies
 type: "note"
 tags: teaching-mathematics 
 ---

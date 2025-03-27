@@ -1,6 +1,6 @@
 ---
-title: "Teaching Programming"
-type: note
+title: Teaching Programming
+type: "note"
 tags: computing, digital-technology, teaching-digital-technology
 ---
 

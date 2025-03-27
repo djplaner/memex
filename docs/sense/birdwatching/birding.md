@@ -1,6 +1,6 @@
 ---
-title: 'Birding'
-type: 'note'
+title: Birding
+type: "note"
 tags: hobby, birdwatching, birding
 ---
 

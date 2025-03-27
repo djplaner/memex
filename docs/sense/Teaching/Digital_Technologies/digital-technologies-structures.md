@@ -1,5 +1,5 @@
 ---
-title: "Digital Technologies Structures"
+title: Digital Technologies Structures
 type: "note"
 tags: digital-technologies, computing, teaching-digital-technologies
 ---

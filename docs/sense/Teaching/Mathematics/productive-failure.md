@@ -1,5 +1,5 @@
 ---
-title: "Productive Failure"
+title: Productive Failure
 type: "note"
 tags: teaching, teaching-mathematics, 
 ---

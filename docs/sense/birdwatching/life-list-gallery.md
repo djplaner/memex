@@ -1,6 +1,6 @@
 ---
 title: Life list gallery
-type: birds
+type: "birds"
 tags: birdwatching, birding
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Wood duck meadows gallery generator
-type: computational-component
+type: "computational-component"
 tags: 
     - colophon
     - computational-component 

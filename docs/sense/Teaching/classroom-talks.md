@@ -1,5 +1,5 @@
 ---
-title: "Classroom Talks"
+title: Classroom Talks
 type: "note"
 tags: teaching
 ---

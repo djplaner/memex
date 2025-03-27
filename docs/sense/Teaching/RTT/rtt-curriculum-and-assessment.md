@@ -1,5 +1,5 @@
 ---
-title: "Curriculum"
+title: Curriculum
 type: "note"
 tags: [teaching, rtt]
 ---

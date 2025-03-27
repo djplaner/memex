@@ -1,6 +1,6 @@
 ---
 title: Mango (Nam Doc Mai) - mango paddock
-type: single-plant
+type: "single-plant"
 tags: plants, wood-duck-meadows
 photos:
   1:

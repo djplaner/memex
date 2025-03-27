@@ -1,6 +1,6 @@
 ---
 title: The Bunker
-type: zone
+type: "zone"
 tags: wood-duck-meadows
 ---
 

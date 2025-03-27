@@ -1,6 +1,6 @@
 ---
 title: Pacific Heron
-type: bird
+type: "bird"
 tags: birding, birdwatching
 ---
 

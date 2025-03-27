@@ -1,6 +1,6 @@
 ---
 title: The Dam
-type: zone
+type: "zone"
 tags: wood-duck-meadows
 ---
 

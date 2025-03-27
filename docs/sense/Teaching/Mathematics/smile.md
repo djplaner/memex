@@ -1,6 +1,6 @@
 ---
-title: "SMILE"
-type: note
+title: SMILE
+type: "note"
 tags: teaching, mathematics
 ---
 

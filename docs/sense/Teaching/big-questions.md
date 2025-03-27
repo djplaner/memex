@@ -1,5 +1,5 @@
 ---
-title: "Big questions"
+title: Big questions
 type: "note"
 tags: teaching
 ---

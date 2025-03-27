@@ -1,5 +1,5 @@
 ---
-title: "Learning statistical investigation checklist"
+title: Learning statistical investigation checklist
 type: "note"
 tags: teaching-mathematics, statistics
 ---

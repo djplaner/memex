@@ -1,6 +1,6 @@
 ---
-title: 'Dendrodbium taberi (King Orchid)'
-type: 'plants'
+title: Dendrodbium taberi (King Orchid)
+type: "plant"
 tags: gardens, plants
 ---
 

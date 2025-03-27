@@ -1,6 +1,6 @@
 ---
 title: Megathyrsus maximus (Guinea grass)
-type: plants
+type: "plants"
 tags: 'gardens, plants'
 ---
 

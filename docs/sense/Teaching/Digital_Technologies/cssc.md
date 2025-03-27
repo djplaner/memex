@@ -1,5 +1,5 @@
 ---
-title: "Computer Science Student-Centered Instructional (CSSC) Continuum"
+title: Computer Science Student-Centered Instructional (CSSC) Continuum
 type: "note"
 tags: computing, teaching-digital-technologies
 ---

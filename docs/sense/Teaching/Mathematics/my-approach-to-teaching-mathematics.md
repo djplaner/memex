@@ -1,6 +1,6 @@
 ---
-title: "My approach to teaching mathematics"
-type: note
+title: My approach to teaching mathematics
+type: "note"
 tags: teaching, teaching-mathematics
 ---
 

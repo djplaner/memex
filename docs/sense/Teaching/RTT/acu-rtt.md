@@ -1,5 +1,5 @@
 ---
-title: "ACU's Return to Teaching course"
+title: ACU's Return to Teaching course
 type: "note"
 tags: teaching
 ---

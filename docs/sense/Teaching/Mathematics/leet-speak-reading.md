@@ -1,6 +1,6 @@
 ---
-title: "Leet speak reading"
-type: note
+title: Leet speak reading
+type: "note"
 tags: teaching, mathematics, growth-mindset, brain-plasticity
 ---
 

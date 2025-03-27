@@ -1,5 +1,5 @@
 --- 
-title: "Reality, Abstraction, Mathematics, Reality (RAMR) cycle"
+title: Reality, Abstraction, Mathematics, Reality (RAMR) cycle
 type: "note"
 tags: teaching-mathematics, teaching, goompi-model
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Bricolage programming"
+title: Bricolage programming
 type: "note"
 tags: digital-technology, programming
 ---

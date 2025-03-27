@@ -1,5 +1,5 @@
 ---
-title: "Use-modify-create"
+title: Use-modify-create
 type: "note"
 tags: teaching, digital-technologies, teaching-digital-technologies
 ---

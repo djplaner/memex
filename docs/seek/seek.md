@@ -1,6 +1,6 @@
 ---
 title: Seek
-type: index
+type: "index"
 tags:
     - seek
 ---

@@ -1,6 +1,6 @@
 ---
 title: Plumcot (Spring Satin) - pecan corner
-type: single-plant
+type: "single-plant"
 tags: 'plants', 'wood-duck-meadows', 'stone-fruit', 'plumcot'
 photos:
   1:

@@ -1,6 +1,6 @@
 ---
-title: 'Disabling professions'
-type: 'note'
+title: Disabling professions
+type: "note"
 tags: sense, concepts
 ---
 

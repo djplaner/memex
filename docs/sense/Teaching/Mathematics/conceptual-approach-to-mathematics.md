@@ -1,6 +1,6 @@
 ---
-title: "Conceptual approach to mathematics"
-type: note
+title: Conceptual approach to mathematics
+type: "note"
 tags: teaching-mathematics, mathematical-mindset
 ---
 

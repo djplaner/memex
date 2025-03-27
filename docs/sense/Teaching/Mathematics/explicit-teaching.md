@@ -1,5 +1,5 @@
 ---
-title: "Explicit teaching"
+title: Explicit teaching
 type: "note"
 tags: teaching, teaching-mathematics
 ---

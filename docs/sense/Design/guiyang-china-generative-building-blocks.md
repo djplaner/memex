@@ -1,5 +1,5 @@
 ---
-title: "Guiyang China Generative Building Blocks"
+title: Guiyang China Generative Building Blocks
 type: "note"
 tags: consistency, design
 ---

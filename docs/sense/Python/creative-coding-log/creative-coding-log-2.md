@@ -1,6 +1,6 @@
 ---
-title: "Creative coding log 2"
-type: note
+title: Creative coding log 2
+type: "note"
 tags: creativeCoding, python
 ---
 

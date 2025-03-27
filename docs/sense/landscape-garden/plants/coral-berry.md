@@ -1,6 +1,6 @@
 ---
 title: Coral Berry
-type: note
+type: "note"
 tags: gardens, plant, weed
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Australasian Figbird
-type: bird
+type: "bird"
 tags: birding, birdwatching
 ---
 

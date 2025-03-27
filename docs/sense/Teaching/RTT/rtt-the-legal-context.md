@@ -1,6 +1,6 @@
 ---
-title: "The legal context"
-type: "note" 
+title: The legal context
+type: "note"
 tags: teaching, rtt
 ---
 

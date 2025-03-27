@@ -1,5 +1,5 @@
 ---
-title: "Random Group Allocator"
+title: Random Group Allocator
 type: "note"
 tags: casa, teaching, visibly-random-groups, complex-instruction
 ---

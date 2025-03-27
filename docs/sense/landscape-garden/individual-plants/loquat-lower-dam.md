@@ -1,6 +1,6 @@
 ---
 title: Loquat on the lower dam
-type: single-plant
+type: "single-plant"
 tags: ['plants', 'wood-duck-meadows', 'loquat']
 photos:
   1:

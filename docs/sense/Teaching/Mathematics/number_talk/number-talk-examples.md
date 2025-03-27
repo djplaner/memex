@@ -1,6 +1,6 @@
 ---
-title: "Number talk examples"
-type: index
+title: Number talk examples
+type: "index"
 tags: teaching, mathematics, number-talks
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Concrete, Representation (Pictorial), Abstract (CRA)"
+title: Concrete, Representation (Pictorial), Abstract (CRA)
 type: "note"
 tags: teaching, teaching-mathematics
 ---

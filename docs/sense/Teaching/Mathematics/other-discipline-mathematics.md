@@ -1,5 +1,5 @@
 ---
-title: "Other Discipline Mathematics"
+title: Other Discipline Mathematics
 type: "index"
 tags: mathematics, teaching-mathematics
 ---

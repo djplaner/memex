@@ -1,6 +1,6 @@
 ---
 title: Red-tailed Black-Cockatoo
-type: bird
+type: "bird"
 tags: birding, birdwatching
 ---
 

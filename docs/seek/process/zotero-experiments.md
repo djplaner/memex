@@ -1,6 +1,6 @@
 ---
 title: Experiments with Zotero
-type: note
+type: "note"
 tags:
     - seek
 ---

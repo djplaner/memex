@@ -1,5 +1,5 @@
 ---
-title: "Reading and writing the world with mathematics"
+title: Reading and writing the world with mathematics
 type: "note"
 tags: teaching, mathematics, teaching-mathematics
 ---

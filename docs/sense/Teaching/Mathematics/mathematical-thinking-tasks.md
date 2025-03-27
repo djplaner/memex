@@ -1,5 +1,5 @@
 ---
-title: "Mathematical thinking tasks"
+title: Mathematical thinking tasks
 type: "note"
 tags: teaching-mathematics, teaching
 ---

@@ -1,6 +1,6 @@
 ---
 title: Schinus Terebinthifolia (Brazilian pepper tree)
-type: plants
+type: "plants"
 tags: garden, plant
 ---
 

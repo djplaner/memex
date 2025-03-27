@@ -1,6 +1,6 @@
 ---
 title: Pecan corner
-type: zone 
+type: zone
 tags: gardens, sense, landscape
 ---
 

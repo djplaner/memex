@@ -1,6 +1,6 @@
 ---
 title: Mango paddock
-type: zone
+type: "zone"
 tags: gardens, landscape, wood-duck-meadows
 ---
 

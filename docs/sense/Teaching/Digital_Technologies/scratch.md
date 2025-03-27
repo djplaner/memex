@@ -1,5 +1,5 @@
 ---
-title: "Scratch"
+title: Scratch
 type: "note"
 tags: teaching-digital-technologies, digital-technologies, programming 
 ---

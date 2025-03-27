@@ -1,6 +1,6 @@
 ---
-title: "Teaching implementation"
-type: index
+title: Teaching implementation
+type: "index"
 tags: teaching
 ---
 

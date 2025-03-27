@@ -1,5 +1,5 @@
 ---
-title: "Mathematics: lessons and resources"
+title: Mathematics: lessons and resources
 tags: teaching, mathematics
 ---
 

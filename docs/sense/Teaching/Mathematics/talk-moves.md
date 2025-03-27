@@ -1,6 +1,6 @@
 ---
-title: "Talk moves"
-type: note
+title: Talk moves
+type: "note"
 tags: teaching, teaching-mathematics
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Instructions"
+title: Instructions
 type: "note"
 tags: computing, teaching-digital-technology, teaching, documentation
 ---

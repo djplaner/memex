@@ -1,6 +1,6 @@
 ---
-title: "Discipline role models"
-type: note
+title: Discipline role models
+type: "note"
 tags: teaching
 ---
 

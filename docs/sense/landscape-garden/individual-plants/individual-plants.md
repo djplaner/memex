@@ -1,6 +1,6 @@
 ---
 title: Individual plants
-type: index
+type: "index"
 tags: [ plants, wood-duck-meadows]
 ---
 

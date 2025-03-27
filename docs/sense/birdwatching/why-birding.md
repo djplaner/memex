@@ -1,6 +1,6 @@
 ---
-title: 'Why birding?'
-type: 'note'
+title: Why birding?
+type: "note"
 tags: birdwatching, birding
 ---
 

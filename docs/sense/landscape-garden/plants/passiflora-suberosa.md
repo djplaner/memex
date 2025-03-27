@@ -1,6 +1,6 @@
 ---
 title: Passiflora suberosa (Corky passion vine)
-type: plants
+type: "plants"
 tags: gardens, plants
 ---
 

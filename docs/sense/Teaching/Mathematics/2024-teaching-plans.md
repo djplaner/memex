@@ -1,5 +1,5 @@
 ---
-title: "Plans for teaching in 2024"
+title: Plans for teaching in 2024
 type: "note"
 tags: teaching
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Crackers"
+title: Crackers
 type: "note"
 tags: teaching, teaching-digital-technologies, teaching-mathematics
 ---

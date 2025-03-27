@@ -1,5 +1,5 @@
 ---
-title: "Personal Knowledge Management"
+title: Personal Knowledge Management
 type: "index"
 tags: academia, pkm
 ---

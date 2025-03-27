@@ -1,6 +1,6 @@
 ---
 title: The original island bunya pine
-type: single-plant
+type: "single-plant"
 tags: ['garden', 'plant', 'bunya-pine']
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Spotted Dove
-type: bird
+type: "bird"
 tags: birding, birdwatching
 ---
 

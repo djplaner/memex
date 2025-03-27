@@ -1,6 +1,6 @@
 ---
 title: Blue-faced Honeyeater
-type: bird
+type: "bird"
 tags: birding, birdwatching
 ---
 

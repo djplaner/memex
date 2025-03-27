@@ -1,6 +1,6 @@
 ---
 title: Macadamia integrifolia
-type: plants
+type: "plants"
 tags: gardens, wood-duck-meadows, landscape, macadamia
 ---
 

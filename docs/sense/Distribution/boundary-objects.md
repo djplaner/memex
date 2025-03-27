@@ -1,5 +1,5 @@
 ---
-title: "Boundary objects"
+title: Boundary objects
 type: "note"
 tags: distribution, bricolage, concepts
 ---

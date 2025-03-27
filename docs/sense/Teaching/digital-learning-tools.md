@@ -1,5 +1,5 @@
 ---
-title: "Digital learning tools"
+title: Digital learning tools
 type: "note"
 tags: teaching, digitalLearning
 ---

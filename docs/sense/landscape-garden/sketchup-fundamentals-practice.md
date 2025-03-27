@@ -1,5 +1,5 @@
 ---
-title: "Sketchup Fundamentals and Practice"
+title: Sketchup Fundamentals and Practice
 type: "note"
 tags: sense, landscape, garden, sketchup
 ---

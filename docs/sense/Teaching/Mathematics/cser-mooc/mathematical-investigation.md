@@ -1,5 +1,5 @@
 ---
-title: "Mathematical Investigation"
+title: Mathematical Investigation
 type: "note"
 tags: teaching-mathematics
 ---

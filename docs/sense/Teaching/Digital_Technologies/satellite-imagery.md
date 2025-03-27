@@ -1,5 +1,5 @@
 ---
-title: "Satellite imagery"
+title: Satellite imagery
 type: "note"
 tags: computing, digital-technologies, teaching-digital-technologies
 ---

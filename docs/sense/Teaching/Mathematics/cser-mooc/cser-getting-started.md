@@ -1,6 +1,6 @@
 ---
-title: "CSER MiS - Getting started module"
-type: note
+title: CSER MiS - Getting started module
+type: "note"
 tags: cser, cser-maths-in-schools, cser-getting-started, teaching-mathematics
 ---
 
@@ -215,7 +215,7 @@ What follows is a brief (but probably still longer than necessary for these purp
 [teaching-mathematics]: ../teaching-mathematics "Teaching Mathematics"
 [australian-curriculum]: ../../Curriculum/australian-curriculum "Australian Curriculum"
 [mathematical-structure]: ../mathematical-structure "Mathematical structure"
-[v9-learning-areas]: ../../Curriculum/v9/v9-learning-areas "Learning Areas"
+[v9-learning-areas]: ../../Curriculum/v9/v9-learning-areas "v9-learning-areas"
 [AC9M7SP04]: ../../Curriculum/v9/Mathematics/AC9M7SP04 "AC9M7SP04"
 [AC9M8SP04]: ../../Curriculum/v9/Mathematics/AC9M8SP04 "AC9M8SP04"
 [computational-thinking]: ../../../computing/computational-thinking "Computational thinking"

@@ -1,6 +1,6 @@
 ---
 title: Rocky Creek Frontage
-type: zone
+type: "zone"
 tags: gardens, region
 ---
 

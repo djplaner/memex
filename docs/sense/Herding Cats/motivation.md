@@ -1,5 +1,5 @@
 ---
-title: "Motivation"
+title: Motivation
 type: "note"
 tags: learning, knowledge, teaching
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Theory and technology"
-type: "none"
+title: Theory and technology
+type: note
 tags: paper-ideas 
 ---
 

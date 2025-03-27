@@ -1,6 +1,6 @@
 ---
-title: "Poetic Computation"
-type: note
+title: Poetic Computation
+type: "note"
 tags: digital,art, creative-coding, poetic-computation
 ---
 

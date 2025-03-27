@@ -1,6 +1,6 @@
 ---
-title: "Creative coding experiments"
-type: note
+title: Creative coding experiments
+type: "note"
 tags: python, teaching, creativeCoding
 ---
 

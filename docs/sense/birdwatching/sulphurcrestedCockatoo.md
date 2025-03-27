@@ -1,6 +1,6 @@
 ---
 title: Sulphur-crested Cockatoo
-type: bird
+type: "bird"
 tags: birding, birdwatching
 ---
 

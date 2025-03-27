@@ -1,6 +1,6 @@
 ---
 title: Australian Ibis
-type: bird
+type: "bird"
 tags: birding, birdwatching
 ---
 

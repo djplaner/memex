@@ -227,7 +227,7 @@ Ward, N., & Nicholas, N. (n.d.). *Benefits of Machine Readable Curricula*. [http
 [003-exploring-oz-dev-log]: exploring-oz-curriculum/003-exploring-oz-dev-log "003-exploring-oz-dev-log"
 [004-exploring-oz-dev-log]: exploring-oz-curriculum/004-exploring-oz-dev-log "004-exploring-oz-dev-log"
 [005-exploring-oz-dev-log]: exploring-oz-curriculum/005-exploring-oz-dev-log "004-exploring-oz-dev-log"
-[v9-learning-areas]: ../Teaching/Curriculum/v9/v9-learning-areas "Learning Areas"
+[v9-learning-areas]: ../Teaching/Curriculum/v9/v9-learning-areas "v9-learning-areas"
 [teaching-mathematics]: ../Teaching/Mathematics/teaching-mathematics "Teaching Mathematics"
 [teaching-digital-technologies]: ../Teaching/Digital_Technologies/teaching-digital-technologies "Teaching Digital Technologies"
 [ALIVE]: ../Teaching/Mathematics/alive "ALIVE"

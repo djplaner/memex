@@ -1,5 +1,5 @@
 ---
-title: "Schotia brachypetala (Drunken Parrot Tree)"
+title: Schotia brachypetala (Drunken Parrot Tree)
 type: "plants"
 tags: gardens
 ---

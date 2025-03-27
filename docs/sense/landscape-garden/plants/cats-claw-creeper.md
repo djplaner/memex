@@ -1,5 +1,5 @@
 ---
-title: "Cats claw creeper"
+title: Cats claw creeper
 type: "plant"
 tags: gardens, plant, weed, vine
 ---

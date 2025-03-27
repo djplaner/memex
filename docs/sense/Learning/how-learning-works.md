@@ -1,5 +1,5 @@
 ---
-title: "How learning works"
+title: How learning works
 type: "note"
 tags: learning
 ---

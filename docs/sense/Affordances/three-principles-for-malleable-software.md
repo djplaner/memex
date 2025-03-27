@@ -1,4 +1,8 @@
-# Three principles for malleable software
+---
+title: Three principles for malleable software
+type: "note"
+tags: software
+---
 
 See also: [[protean]]
 

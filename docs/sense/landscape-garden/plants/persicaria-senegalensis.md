@@ -1,6 +1,6 @@
 ---
 title: Senegal knotweed (Persicaria senegalensis)
-type: plants
+type: "plants"
 tags: garden, plant, weed
 ---
 

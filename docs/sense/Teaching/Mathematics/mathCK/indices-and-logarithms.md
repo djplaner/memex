@@ -1,6 +1,6 @@
 ---
-title: "Indices and logarithms"
-type: mathContent
+title: Indices and logarithms
+type: "mathContent"
 tags: teaching, mathematics, indicies, logarithms 
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Shrinkflation"
-type: note
+title: Shrinkflation
+type: "note"
 tags: mathematics
 ---
 

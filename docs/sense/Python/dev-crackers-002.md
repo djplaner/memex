@@ -1,5 +1,5 @@
 ---
-title: "Developing Crackers - log 2 - Scratch"
+title: Developing Crackers - log 2 - Scratch
 type: "note"
 tags: crackers, teaching, teaching-digital-technologies, teaching-mathematics
 ---

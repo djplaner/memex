@@ -1,6 +1,6 @@
 ---
 title: The lower dam
-type: zone
+type: "zone"
 tags: gardens, landscape
 ---
 

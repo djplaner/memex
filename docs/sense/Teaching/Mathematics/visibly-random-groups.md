@@ -1,6 +1,6 @@
 ---
-title: "Visibly random groups"
-type: note
+title: Visibly random groups
+type: "note"
 tags: teaching, complex-instruction 
 ---
 

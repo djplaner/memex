@@ -1,6 +1,6 @@
 ---
 title: About (Colophon)
-type: note
+type: "note"
 tags: colophon, about
 ---
 

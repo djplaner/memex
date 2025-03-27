@@ -1,5 +1,5 @@
 ---
-title: "Algorithm design"
+title: Algorithm design
 type: "note"
 tags: computing, teaching-digital-technology, computational-thinking
 ---

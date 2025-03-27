@@ -1,5 +1,5 @@
 ---
-title: "CSER Number - Content In Action"
+title: CSER Number - Content In Action
 type: "note"
 tags: cser, teaching-mathematics, number
 ---
@@ -615,7 +615,7 @@ Exploring various representations of real numbers (fractions, decimals, percenta
 [cser-content-in-action]: cser-content-in-action "CSER Maths in Schools - Content in Action"
 [maths-in-schools]: ../maths-in-schools "Maths in Schools Online: Year 7 - 10 course"
 [teaching-mathematics]: ../teaching-mathematics "Teaching Mathematics"
-[v9-learning-areas]: ../../Curriculum/v9/v9-learning-areas "Learning Areas"
+[v9-learning-areas]: ../../Curriculum/v9/v9-learning-areas "v9-learning-areas"
 [newmans-error-analysis]: ../newmans-error-analysis "Newman's error analysis"
 [mathematical-misconceptions]: ../math-misconceptions/mathematical-misconceptions "Mathematical misconceptions and difficulties"
 [AC9M8N01]: ../../Curriculum/v9/Mathematics/AC9M8N01 "AC9M8N01"

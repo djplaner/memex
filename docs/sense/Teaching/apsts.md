@@ -1,5 +1,5 @@
 ---
-title: "Australian Professional Standards for Teachers"
+title: Australian Professional Standards for Teachers
 type: "note"
 tags: teaching
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Big ideas in mathematics"
+title: Big ideas in mathematics
 type: "note"
 tags: teaching,mathematics,teachingMathematics
 ---

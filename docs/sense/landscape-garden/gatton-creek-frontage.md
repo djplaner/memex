@@ -1,6 +1,6 @@
 ---
 title: Gatton creek frontage
-type: zone
+type: "zone"
 tags: [gardens, region ]
 ---
 

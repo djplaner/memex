@@ -1,5 +1,5 @@
 ---
-title: "My creative coding projects"
+title: My creative coding projects
 type: "note"
 tags: creative-coding, python 
 ---

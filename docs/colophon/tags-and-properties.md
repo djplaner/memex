@@ -1,6 +1,6 @@
 ---
 title: Tags and properties
-type: colophon
+type: "colophon"
 tags: tags
 ---
 

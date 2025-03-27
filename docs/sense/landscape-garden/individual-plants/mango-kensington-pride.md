@@ -1,6 +1,6 @@
 ---
 title: Mango (Kensington Pride)
-type: note
+type: "note"
 tags: ['single-plant']
 photos:
   1:

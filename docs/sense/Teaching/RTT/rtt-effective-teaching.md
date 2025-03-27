@@ -1,6 +1,6 @@
 ---
-title: "Effective teaching"
-type: "note" 
+title: Effective teaching
+type: "note"
 tags: teaching, rtt
 ---
 

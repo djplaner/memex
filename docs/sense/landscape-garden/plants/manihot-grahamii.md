@@ -1,5 +1,5 @@
 ---
-title: "Manihot Grahamii (Graham's Manihot)"
+title: Manihot Grahamii (Graham's Manihot)
 type: "plant"
 tags: garden, plant
 ---

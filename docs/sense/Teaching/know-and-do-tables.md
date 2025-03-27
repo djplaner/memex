@@ -1,5 +1,5 @@
 ---
-title: "Know and do tables"
+title: Know and do tables
 type: "note"
 tags: teaching
 ---

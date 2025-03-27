@@ -1,5 +1,5 @@
 ---
-title: "All models are wrong"
+title: All models are wrong
 type: "note"
 tags: philosophy
 ---

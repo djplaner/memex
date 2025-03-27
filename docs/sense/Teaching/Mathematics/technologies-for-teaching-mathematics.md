@@ -1,5 +1,5 @@
 ---
-title: "Technologies for teaching mathematics"
+title: Technologies for teaching mathematics
 type: "note"
 tags: teaching,teachingMathematics
 ---

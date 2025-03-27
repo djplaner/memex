@@ -1,6 +1,6 @@
 ---
 title: Teacher preparation
-type: note
+type: "note"
 tags:
     - seek
     - teaching

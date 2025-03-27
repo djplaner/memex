@@ -1,6 +1,6 @@
 ---
-title: "Minute paper"
-type: note
+title: Minute paper
+type: "note"
 tags: [teaching, assessment]
 ---
 

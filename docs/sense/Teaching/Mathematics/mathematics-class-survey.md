@@ -1,5 +1,5 @@
 ---
-title: "Mathematics Class Survey"
+title: Mathematics Class Survey
 type: "note"
 tags: teaching-mathematics
 ---

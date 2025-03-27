@@ -1,5 +1,5 @@
 ---
-title: "Excel World Championship"
+title: Excel World Championship
 type: "note"
 tags: teaching, excel, mathematics, society
 ---

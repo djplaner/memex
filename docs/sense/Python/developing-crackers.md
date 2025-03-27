@@ -1,5 +1,5 @@
 ---
-title: "Developing Crackers"
+title: Developing Crackers
 type: "note"
 tags: teaching, teaching-digital-technologies, teaching-mathematics, python
 ---

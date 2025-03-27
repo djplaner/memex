@@ -1,6 +1,6 @@
 ---
 title: Unknown ficus
-type: plant
+type: "plant"
 tags: regeneration, plant
 ---
 

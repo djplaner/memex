@@ -1,5 +1,5 @@
 ---
-title: "Implementing number scrabble"
+title: Implementing number scrabble
 type: "note"
 tags: teaching-mathematics, representation, design, number-scrabble
 ---

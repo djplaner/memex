@@ -1,6 +1,6 @@
 ---
 title: Azola
-type: plants
+type: "plants"
 tags: 
     - gardens
     - azolla

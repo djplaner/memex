@@ -1,5 +1,5 @@
 ---
-title: "Goompi model"
+title: Goompi model
 type: "note"
 tags: teaching-mathematics, teaching
 ---

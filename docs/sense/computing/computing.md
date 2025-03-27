@@ -1,5 +1,5 @@
 ---
-title: "Computing"
+title: Computing
 type: "note"
 tags: computing, digital-technology
 ---

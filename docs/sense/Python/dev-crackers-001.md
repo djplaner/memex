@@ -1,5 +1,5 @@
 ---
-title: "Crackers - dev log 1"
+title: Crackers - dev log 1
 type: "note"
 tags: crackers, teaching, python
 ---

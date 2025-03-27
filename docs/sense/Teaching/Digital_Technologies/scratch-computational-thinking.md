@@ -1,5 +1,5 @@
 ---
-title: "Computational thinking with Scratch"
+title: Computational thinking with Scratch
 type: "note"
 tags: teaching-digital-technologies, digital-technologies, programming, scratch, computational-thinking
 ---

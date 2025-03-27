@@ -1,5 +1,5 @@
 ---
-title: "Digital Humanism"
+title: Digital Humanism
 type: "note"
 tags: computing, teaching, rww, digital-humanism
 ---

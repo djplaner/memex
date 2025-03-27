@@ -1,6 +1,6 @@
 ---
-title: "Brain Plasticity"
-type: note
+title: Brain Plasticity
+type: "note"
 tags: learning, plasticity, brain-plasticity
 ---
 

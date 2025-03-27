@@ -1,5 +1,5 @@
 ---
-title: "Targeted teaching"
+title: Targeted teaching
 type: "note"
 tags: assessment-for-learning, teaching, teaching-mathematics
 ---

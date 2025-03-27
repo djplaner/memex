@@ -1,6 +1,6 @@
 ---
-title: "Quadratic equations"
-type: mathContent
+title: Quadratic equations
+type: "mathContent"
 tags: teaching, mathematics, quadratic
 ---
 

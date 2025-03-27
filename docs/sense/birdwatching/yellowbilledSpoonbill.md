@@ -1,6 +1,6 @@
 ---
 title: Yellow-billed Spoonbill
-type: bird
+type: "bird"
 tags: birding, birdwatching
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Subsidiarity
-type: note
+type: "note"
 tags: bad, distribution 
 ---
 

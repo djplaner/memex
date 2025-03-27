@@ -1,5 +1,5 @@
 ---
-title: "PIRAC"
+title: PIRAC
 type: "note"
 tags: teaching,data,analytics
 ---

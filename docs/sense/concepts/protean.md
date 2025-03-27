@@ -1,5 +1,5 @@
 ---
-title: "Protean"
+title: Protean
 type: "note"
 tags: computing, digital-technology, nodt, generativity, papert
 ---

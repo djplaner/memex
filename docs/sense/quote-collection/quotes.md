@@ -1,6 +1,6 @@
 ---
-title: 'Quotes'
-type: 'note'
+title: Quotes
+type: "note"
 tags: sense, quotes
 ---
 

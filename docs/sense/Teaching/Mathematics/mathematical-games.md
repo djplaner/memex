@@ -1,5 +1,5 @@
 ---
-title: "Mathematical games"
+title: Mathematical games
 type: "index"
 tags: teaching, mathematics, teaching-mathematics
 ---

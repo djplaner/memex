@@ -1,5 +1,5 @@
 ---
-title: "Platform Decay (enshittification)"
+title: Platform Decay (enshittification)
 type: "note"
 tags: digital-humanism, teaching-digital-technologies, BAD
 ---

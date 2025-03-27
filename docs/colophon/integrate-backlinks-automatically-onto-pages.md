@@ -1,6 +1,6 @@
 ---
 title: Integrate backlinks automatically onto pages
-type: note
+type: "note"
 tags: 
     - colophon
     - about

@@ -1,6 +1,6 @@
 ---
-title: "CSER Maths in Schools - Practices and pedagogies"
-type: note
+title: CSER Maths in Schools - Practices and pedagogies
+type: "note"
 tags: cser, cser-maths-in-schools, cser-getting-started, teaching-mathematics
 ---
 

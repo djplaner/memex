@@ -1,5 +1,5 @@
 ---
-title: "First Nations"
+title: First Nations
 type: "note"
 tags: teaching
 ---

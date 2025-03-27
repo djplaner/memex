@@ -1,5 +1,5 @@
 ---
-title: "Declarative and procedural knowledge"
+title: Declarative and procedural knowledge
 type: "note"
 tags: concept, learning, knowledge
 ---

@@ -1,6 +1,6 @@
 ---
 title: Leveraging digital technologies
-type: note
+type: "note"
 tags:
     - seek
 ---

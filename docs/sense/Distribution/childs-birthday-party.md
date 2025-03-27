@@ -1,5 +1,5 @@
 ---
-title: "Organising a child's birthday party"
+title: Organising a child's birthday party
 type: "note"
 tags: complexity, distribution, ateleological
 ---
