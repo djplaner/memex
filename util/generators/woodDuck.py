@@ -1,6 +1,10 @@
 """
 FILE:   woodDuck.py
-PURPOSE: Use mkdocs-gen-file to generate a page containing all photos from Wood duck meadows zones and plants
+PURPOSE: Use mkdocs-gen-file to generate a page containing all photos from three
+ Wood duck meadows folders 
+ - zones
+ - plants
+ - individual-plants
 """
 
 import re
@@ -10,6 +14,7 @@ import logging
 #import frontmatter
 import markdown
 from bs4 import BeautifulSoup
+from pprint import pprint
 
 logger = logging.getLogger("woodDuck")
 
@@ -21,7 +26,8 @@ GARDEN_FOLDER = "sense/landscape-garden/"
 PLANTS_PATH = "plants/"
 DOCS_FOLDER="/Users/davidjones/memex/docs/"
 PLANTS_FOLDER = f"{DOCS_FOLDER}sense/landscape-garden/plants/"
-#PLANTS_FOLDER = "plants/"
+INDIVIDUAL_PLANTS_FOLDER = f"{DOCS_FOLDER}sense/landscape-garden/individual-plants/"
+INDIVIDUAL_PLANTS_PATH="individual-plants/"
 
 
 def retrieveZonePages(gardenFolder=GARDEN_FOLDER):
@@ -61,7 +67,10 @@ def retrieveZonePages(gardenFolder=GARDEN_FOLDER):
                               })
     return pages
 
-def generatePage(zonePages, plantsPages):
+def generatePage(zonePages, plantsPages, individualPlantPages):
+    """
+    Write the wood-duck-gallery.md file, adding three sections. One each for zone, plants, and individual plants
+    """
     
     with mkdocs_gen_files.open("sense/landscape-garden/wood-duck-gallery.md", "w") as f:
         f.write(f"""# Wood duck meadows gallery
@@ -108,11 +117,29 @@ View the photos either by:
 
             addImages(f, page['title'], page['figures'])
 
+        f.write(f"""
+## Individual Plants
+
+""")
+        for page in individualPlantPages:
+            #-- skip if page['figures'] is empty
+            if len(page['figures']) == 0:
+                continue
+            f.write(f"""
+                    
+### [{page['title']}]({page['path']})
+
+""")
+
+            addImages(f, page['title'], page['figures'])
+
 
 def addImages(f, pageTitle, figures):
     """
     Given a file handle and hash of hashes representing figures 
     convert figure information into relevant markdown
+
+    Called from generatePage
     """
 
     for imagePath in figures: 
@@ -125,7 +152,7 @@ def addImages(f, pageTitle, figures):
 
 def retrievePlantsPages(plantsFolder=PLANTS_FOLDER):
     """
-    Generate array of hashes for all pages in PLANTS_FOLDER
+    Generate array of hashes for all pages from a given folder. By default looking in the PLANTS_FOLDER and other folders as called (only INDIVIDUAL_PLANTS_FOLDER at present)
     { page-title: "", path: "" }
     """
 
@@ -139,7 +166,10 @@ def retrievePlantsPages(plantsFolder=PLANTS_FOLDER):
         # Gallery is now in this folder, hence prefix is not needed
         path = path.replace("sense/landscape-garden/", "")  
         pageData = extractFileContent(file)
-        figures = extractFigures(pageData['html'], True)
+        if plantsFolder == PLANTS_FOLDER:
+            figures = extractFigures(pageData['html'], True)
+        elif plantsFolder == INDIVIDUAL_PLANTS_FOLDER:
+            figures = extractFigures(pageData['html'], False, True)
         pages.append(
             { 
              "title": pageData['yaml']['title'], "path": path,
@@ -152,10 +182,14 @@ def retrievePlantsPages(plantsFolder=PLANTS_FOLDER):
             
     return pages
 
-def extractFigures(html, PLANTS=False):
+
+def extractFigures(html, PLANTS=False, INDIVIDUAL_PLANTS=False):
     """
     Given some content in HTML format, return a hash of hashes keyed on path to the figure.
     One hash for each figure in the content.
+
+    Called three times from each of the retrieve functions. Each one sets the boolean flags to decide how image URLs are modified.
+
     {
         "plants/images/pepper-before-after-small.jpeg": {
             "alt": "Pepper before and after",
@@ -196,6 +230,9 @@ def extractFigures(html, PLANTS=False):
             if not figureComponents['image_path'].startswith("http"):
                 if ( PLANTS):
                     figureComponents['image_path'] = f"{PLANTS_PATH}{figureComponents['image_path']}"
+                elif (INDIVIDUAL_PLANTS):
+                    figureComponents['image_path'] = f"{INDIVIDUAL_PLANTS_PATH}{figureComponents['image_path']}"
+                
                     
         # extract the caption
         match = captionRE.search(str(figureTag))
@@ -246,7 +283,9 @@ def generator():
     # excluding some specific ones
     # { page-title: "", path: "" }
     plantPages = retrievePlantsPages()
-    generatePage(zonePages, plantPages)
+    individualPlantPages = retrievePlantsPages(INDIVIDUAL_PLANTS_FOLDER)
+
+    generatePage(zonePages, plantPages, individualPlantPages)
 
     # Generate hash (on zone page title) of array of hashes (photo details)
     # { alt-tag: "", path: "", caption: ""}

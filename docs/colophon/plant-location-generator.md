@@ -37,7 +37,7 @@ To do
 - [x] `addPlantPhoto` - Python script to extract metadata from Photos and add to individual plant markdown files.
 - [ ] `plantPhotoMetadata` - mkdocs macro (Python script) to extract metadata from individual plant YAML frontmatter in markdown files and auto-add to markdown content.
 - [ ] `woodDuckMeadowsMap` - mkdocs generator (Python script) to generate a map of the garden with plant locations marked.
-- [ ] Explore [#offline-map-generation](offline map generation) for a solution to the resolution issue with Leaflet maps.
+- [ ] Explore offline-map-generation for a solution to the resolution issue with Leaflet maps.
 
     Currently working when given file paths. Need to change to work with the single plant frontmatter from markdown files.
 

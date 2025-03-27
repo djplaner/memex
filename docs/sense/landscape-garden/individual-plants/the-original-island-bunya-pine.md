@@ -6,10 +6,6 @@ tags: ['garden', 'plant', 'bunya-pine']
 
 See also: [[bunya-pine]], [[individual-plants]], [[wood-duck-meadows]]
 
-![](images/the-original-island-bunya-pine/1.jpeg)
-
-![](images/the-original-island-bunya-pine/2.jpeg)
-
 The original center piece of [[the-island]] at [[wood-duck-meadows]]. By the time we started work it had almost been entirely overgrown by [[asparagus-africanus]]. 
 
 <figure markdown>
