@@ -1,7 +1,8 @@
 ---
-title: 'Memex - Version 3 '
-type: 'note'
-tags: colophon
+title: Memex - Version 3
+type: note
+tags: 
+    - colophon
 ---
 
 See also: [[colophon]]

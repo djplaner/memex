@@ -3,7 +3,7 @@ title: Azola
 type: plants
 tags: 
     - gardens
-    - azola
+    - azolla
     - ferns
     - wood-duck-meadows
 ---

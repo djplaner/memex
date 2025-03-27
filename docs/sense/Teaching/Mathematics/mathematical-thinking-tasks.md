@@ -51,7 +51,7 @@ Liljedahl, P. (2020). Pulling the 14 practices together to build a thinking clas
 [building-a-thinking-classroom]: building-a-thinking-classroom "Building a thinking classroom"
 [teaching-mathematics]: teaching-mathematics "Teaching Mathematics"
 [rich-mathematical-tasks]: rich-mathematical-tasks "Rich mathematical tasks"
-[low-floor-high-ceiling-wide-walls]: ..%2Flow-floor-high-ceiling-wide-walls "Low Floor, High Ceiling, Wide Walls"
+[low-floor-high-ceiling-wide-walls]: ../low-floor-high-ceiling-wide-walls "Low Floor, High Ceiling, Wide Walls"
 [inquiry-learning]: inquiry-learning "Inquiry Learning"
 [productive-failure]: productive-failure "Productive Failure"
 [explicit-teaching]: explicit-teaching "Explicit teaching"

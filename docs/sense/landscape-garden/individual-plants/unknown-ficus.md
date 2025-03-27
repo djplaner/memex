@@ -1,7 +1,7 @@
 ---
 title: Unknown ficus
 type: plant
-tags: garden, plant
+tags: regeneration, plant
 ---
 
 See also: [[plants]]

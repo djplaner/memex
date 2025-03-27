@@ -1,4 +1,12 @@
-# Teacher preparation
+---
+title: Teacher preparation
+type: note
+tags:
+    - seek
+    - teaching
+    - mathematics
+    - digital-technologies
+---
 
 See also: [[seek]]
 

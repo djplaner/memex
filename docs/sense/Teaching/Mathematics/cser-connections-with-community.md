@@ -289,7 +289,7 @@ Make use of past resources from [[pi-day|PI Day]] to raise student awareness of 
 [teaching-mathematics]: teaching-mathematics "Teaching Mathematics"
 [pi-day]: pi-day "pi-day"
 [resolve-mathematics-by-inquiry]: resolve-mathematics-by-inquiry "reSolve - Mathematics by inquiry"
-[goompi-model|Goompi Model]: cser-mooc%2Fgoompi-model "Goompi model"
+[goompi-model|Goompi Model]: cser-mooc/goompi-model "Goompi model"
 [notice-and-wonder|Notice and wonder tasks]: notice-and-wonder "Notice and wonder"
 [notice-and-wonder|notice and wonder]: notice-and-wonder "Notice and wonder"
 [contemplate-then-calculate|contemplate then calculate]: contemplate-then-calculate "Contemplate then calculate"

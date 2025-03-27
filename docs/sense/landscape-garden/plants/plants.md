@@ -26,7 +26,7 @@ The following provides a summary of the plants we've removed, planted, or cared 
 
 - [[wombat-berry]]
 - [[common-rush]]
-- [[azola]]
+- [[azolla]]
 
 ## Weeds and other nasties
 
@@ -83,6 +83,7 @@ The following provides a summary of the plants we've removed, planted, or cared 
 [dendrodbium-taberi]: dendrodbium-taberi "Dendrodbium taberi (King Orchid)"
 [wombat-berry]: wombat-berry "Wombat Berry"
 [common-rush]: common-rush "Common Rush"
+[azolla]: azolla "Azola"
 [coral-berry]: coral-berry "Coral Berry"
 [manihot-grahamii]: manihot-grahamii "Manihot Grahamii (Graham's Manihot)"
 [solanum-americanum]: solanum-americanum "Solanum americanum (American black nightshade)"

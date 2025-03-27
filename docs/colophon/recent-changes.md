@@ -1,7 +1,9 @@
 ---
 title: Recent changes
 type: computational-component
-tags: colophon, computational-component
+tags: 
+    - colophon
+    - computational-component
 ---
 
 See also: [[computational-components]]

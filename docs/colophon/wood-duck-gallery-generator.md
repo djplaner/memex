@@ -1,7 +1,9 @@
 ---
 title: Wood duck meadows gallery generator
-type: note
-tags: colophon, computational-component 
+type: computational-component
+tags: 
+    - colophon
+    - computational-component 
 ---
 
 See also: [[computational-components]], [wood-duck-gallery](../sense/landscape-garden/wood-duck-gallery.md)

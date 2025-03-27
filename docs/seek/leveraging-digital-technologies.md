@@ -1,3 +1,10 @@
+---
+title: Leveraging digital technologies
+type: note
+tags:
+    - seek
+---
+
 # Leveraging digital technologies
 
 Digital technologies - personal computers, the Internet, multimedia, business computing, LLMs/AIs... - have held great promise. Many have suggested significant social promise. Yet, the reality has not lived up to the promise. Why? What can be done to improve the situation?

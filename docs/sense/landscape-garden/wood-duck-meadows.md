@@ -4,7 +4,7 @@ type: note
 tags: gardens, sense, landscape
 ---
 
-See also: [wood-duck-gallery](./wood-duck-gallery.md), [[plants]], [[individual-plants]]
+See also: [wood-duck-gallery](./wood-duck-gallery.md), [[plants]], [[individual-plants]], [plant-locations](./individual-plants/plant-location.html)
 
 Home since 2012. Property was historically used for small scale farming/market garden before being broken up into smaller lots. Our block being the original homestead and the largest at 10 acres. 
 
@@ -34,14 +34,14 @@ To aid discussion and planning we're slowly dividing the property into the diffe
 | Zone | Description |
 | --- | --- |
 | [[brigalow-scrub]] | A small stand at the front of the property |
-| [[rocky-creek-frontage]] | Creek frontage to the east of the round about |
+| [[gatton-creek-frontage]] | Creek frontage to the west of the round about |
 | [[cherry-tree-walk]] | Path along the front berm lined with cherry trees |
 | [[front-yard]] | Semi-open area between the house the front entrance |
 | [[mango-paddock]] | South-western paddock now with two mango trees |
 | [[the-island]] | The island in [[the-dam]] |
 | [[the-dam]] | Surrounds [[the-island]] and fed by road run-off |
 | [[roundabout]] | Long established lawn and path |
-| [[gatton-creek-frontage]] | Creek frontage to the west of the round about |
+| [[rocky-creek-frontage]] | Creek frontage to the east of the round about |
 | [[house]] | House, stables, sheds and surrounding gardens |
 | [[pecan-corner]] | Pecan and other fruit/nut trees |
 | [[lower-dam]] | Dam area on the Gatton creek frontage |
@@ -102,14 +102,14 @@ List of projects/tools to help with various forms of measurement of what we're d
 [wood-duck-regeneration-process]: wood-duck-regeneration-process "Wood Duck Regeneration Process"
 [house]: house "House"
 [brigalow-scrub]: brigalow-scrub "Brigalow scrub"
-[rocky-creek-frontage]: rocky-creek-frontage "Rocky Creek Frontage"
+[gatton-creek-frontage]: gatton-creek-frontage "Gatton creek frontage"
 [cherry-tree-walk]: cherry-tree-walk "Cherry Tree walk"
 [front-yard]: front-yard "Front yard"
 [mango-paddock]: mango-paddock "Mango paddock"
 [the-island]: the-island "The Island"
 [the-dam]: the-dam "The Dam"
 [roundabout]: roundabout "Roundabout"
-[gatton-creek-frontage]: gatton-creek-frontage "Gatton creek frontage"
+[rocky-creek-frontage]: rocky-creek-frontage "Rocky Creek Frontage"
 [pecan-corner]: pecan-corner "Pecan corner"
 [lower-dam]: lower-dam "The lower dam"
 [orchard-corner]: orchard-corner "The Orchard (Orchard corner)"

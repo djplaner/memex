@@ -1,4 +1,10 @@
-# Publishing graph interface
+---
+title: Publishing graph interface
+type: note
+tags:
+    - colophon
+    - about
+---
 
 Foam has a graph/map feature for notes from within VS-Code
 

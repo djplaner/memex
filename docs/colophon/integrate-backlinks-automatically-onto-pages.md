@@ -1,4 +1,10 @@
-# Integrate backlinks automatically onto pages
+---
+title: Integrate backlinks automatically onto pages
+type: note
+tags: 
+    - colophon
+    - about
+---
 
 Remove the need for "see also" and better allow navigation through structure - by adding to a page links back to pages that link to the current page
 

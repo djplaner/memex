@@ -1,18 +1,18 @@
 ---
 title: Plumcot (Spring Satin) - pecan corner
 type: single-plant
-tags: ['plants', 'wood-duck-meadows', 'stone-fruit', 'plumcot']
+tags: 'plants', 'wood-duck-meadows', 'stone-fruit', 'plumcot'
 photos:
   1:
       title: Oma's phone
       filename: D760A43E-63DD-41F6-8CD2-8D07FD5C580B.heic
       latitude: -27.53799666666667
       longitude: 152.0560445
-      description: None
+      description: 
       date: 2025-03-19 07:47:14
       memexFilename: images/plumcot-pecan-corner/1.jpeg
   2:
-      title: Sandy's phone
+      title: Plumcot - Spring Satin
       filename: 07BEB14F-8A6B-41AE-AFD5-8F0D62841F45.heic
       latitude: -27.538421666666668
       longitude: 152.05587783333334

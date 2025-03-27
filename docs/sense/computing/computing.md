@@ -86,6 +86,7 @@ See also: [[computational-thinking]]
 [pattern-recognition]: pattern-recognition "Pattern recognition"
 [abstraction]: abstraction "Abstraction"
 [algorithm-design]: algorithm-design "Algorithm design"
+[data-structures-and-algorithms]: goodrich/data-structures-and-algorithms "Data Structures and Algorithms"
 [floss]: floss "FLOSS and FOSS"
 [digital-transformation]: digital-transformation "Digital Transformation"
 [recoding-america]: recoding-america "Recoding America"

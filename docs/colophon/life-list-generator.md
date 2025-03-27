@@ -1,7 +1,9 @@
 ---
-title: 'Life list generator'
-type: 'note'
-tags: colophon, birding
+title: Life list generator
+type: note
+tags: 
+    - colophon
+    - birding
 ---
 
 See also: [[computational-components]], [[life-list]], [[life-list-gallery]]
