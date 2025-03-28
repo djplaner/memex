@@ -2,6 +2,8 @@
 title: Loquat on the lower dam
 type: "single-plant"
 tags: ['plants', 'wood-duck-meadows', 'loquat']
+latitude: -27.537888333333335
+longitude: 152.056075
 photos:
   1:
       title: Loquat - Honey Dew

@@ -2,6 +2,8 @@
 title: Mango (Kensington Pride)
 type: "note"
 tags: ['single-plant']
+latitude: -27.539595
+longitude: 152.05545
 photos:
   1:
       title: None

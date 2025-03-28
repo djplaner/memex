@@ -2,6 +2,8 @@
 title: White Shahtoot mulberry
 type: "single-plant"
 tags: ['individual-plants']
+latitude: -27.538371666666666
+longitude: 152.0554055
 photos:
   1:
       title: None

@@ -2,6 +2,8 @@
 title: Abiu (Pouteria caimito) on the lower dam
 type: "single-plant"
 tags: ['plants', 'wood-duck-meadows', 'abiu']
+latitude: -27.537911666666666
+longitude: 152.056075
 photos:
   1:
       title: Abiu

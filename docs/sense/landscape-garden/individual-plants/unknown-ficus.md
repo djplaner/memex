@@ -1,7 +1,18 @@
 ---
 title: Unknown ficus
-type: "plant"
+type: plant
 tags: regeneration, plant
+latitude: -27.53847
+longitude: 152.055175
+photos:
+  1:
+      title: Ficus leaves from the roundabout
+      filename: 1AB8438B-5613-41B8-8143-4B6B5D3240BD.heic
+      latitude: -27.53847
+      longitude: 152.055175
+      description: Still trying to identify exactly which ficus this is
+      date: 2025-03-15 10:26:03
+      memexFilename: images/unknown-ficus/1.jpeg
 ---
 
 See also: [[plants]]
@@ -10,7 +21,7 @@ The [[roundabout]] includes a mature, very large Ficus (fig tree). We're yet to 
 
 ## History at Wood Duck Meadows
 
-The first was planted by previous owners in the [[roundabout]]. Hopefully many more to come.
+The first was planted by previous owners in the [[roundabout]]. 
 
 <figure markdown>
 ![Tip of a branch of the unknown ficus. Multiple large green leaves with vivid yellow veins. Four different yellow fruits are located along the branch.](../plants/images/ficus-altissima-leaves.jpeg)

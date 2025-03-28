@@ -2,6 +2,8 @@
 title: Mango (Nam Doc Mai) - mango paddock
 type: "single-plant"
 tags: plants, wood-duck-meadows
+latitude: -27.539463333333334
+longitude: 152.0554195
 photos:
   1:
       title: None
