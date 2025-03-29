@@ -14,9 +14,14 @@ An index of all the individual plants we're tracking on [[wood-duck-meadows]]. T
 - [[mango-kensington-pride]]
 - [[unknown-ficus-mango-paddock]]
 
+## [[gatton-creek-frontage | Gatton Creek frontage]]
+
+- [[hugh-and-kays-sandpaper-fig]]
+
 ## [[roundabout | The Roundabout]]
 
 - [[unknown-ficus]]
+- [[mature-macadamia-integrifolia]]
 
 ## [[rocky-creek-frontage | Rocky Creek frontage]]
 
@@ -32,6 +37,7 @@ An index of all the individual plants we're tracking on [[wood-duck-meadows]]. T
 ## [[the-island | The Island]]
 
 - [[the-original-island-bunya-pine]]
+- [[island-sandpaper-fig]]
 
 ## [[lower-dam | Lower dam]]
 
@@ -50,7 +56,9 @@ An index of all the individual plants we're tracking on [[wood-duck-meadows]]. T
 [mango-nam-doc-mai]: mango-nam-doc-mai "Mango (Nam Doc Mai) - mango paddock"
 [mango-kensington-pride]: mango-kensington-pride "Mango (Kensington Pride)"
 [unknown-ficus-mango-paddock]: unknown-ficus-mango-paddock "Unknown ficus (mango paddock)"
+[hugh-and-kays-sandpaper-fig]: hugh-and-kays-sandpaper-fig "Hugh and Kay's Sandpaper Fig (Gatton Creek frontage)"
 [unknown-ficus]: unknown-ficus "Unknown ficus"
+[mature-macadamia-integrifolia]: mature-macadamia-integrifolia "Mature macadamia integrifolia (Roundabout)"
 [white-shahtoot-mulberry]: white-shahtoot-mulberry "White Shahtoot mulberry"
 [unknown-mulberry-rocky-creek-frontage]: unknown-mulberry-rocky-creek-frontage "Unknown mulberry (Rocky Creek frontage)"
 [lychee-no-mai-chee]: lychee-no-mai-chee "Lychee (No Mai Chee)"
@@ -60,6 +68,7 @@ An index of all the individual plants we're tracking on [[wood-duck-meadows]]. T
 [persimmon-twentieth-century]: persimmon-twentieth-century "Persimmon (Twentieth Century)"
 [custard-apple-paxton-prolific]: custard-apple-paxton-prolific "Custard apple (Paxton Prolific)"
 [the-original-island-bunya-pine]: the-original-island-bunya-pine "The original island bunya pine"
+[island-sandpaper-fig]: island-sandpaper-fig "Sandpaper fig - The island"
 [loquat-lower-dam]: loquat-lower-dam "Loquat on the lower dam"
 [abiu-lower-dam]: abiu-lower-dam "Abiu (Pouteria caimito) on the lower dam"
 [plumcot-pecan-corner]: plumcot-pecan-corner "plumcot-pecan-corner"

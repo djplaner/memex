@@ -24,6 +24,25 @@ Fed by road runoff the dam surrounds [[the-island]] and (occasionally) provides 
 <caption>Location of the dam to the south of the house</caption>
 </figure>
 
+## Seasonal levels
+
+The dam is seasonal and fed largely by road runoff. At times it can be dry for extended periods. At other times it can be full and overflow into the neighbour's place making for one large dam.
+
+<figure markdown>
+![Panorama showing the "big" dam](./images/dam-pano-2025.jpeg)
+<caption>Panorama of the dam from March 2025. The neighbour's place is on the far left with the house on the right</caption>
+</figure>
+
+However, there is a limit. The dam bank has an overflow section designed into it.
+
+<figure markdown>
+![Water slowly flowing out of the dam as designed](./images/dam-overflow.jpeg)
+<caption>The dam's overflow working as designed</caption>
+</figure>
+
+
+
+
 ## History
 
 Most of the work around the dam has been clearing out various weeds in an attempt to give the native vegetation a chance.
