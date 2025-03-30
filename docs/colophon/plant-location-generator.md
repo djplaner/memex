@@ -14,14 +14,13 @@ Early experiments with extracting information (about plants) from photos resulti
 
 ### [plant-locations](../sense/landscape-garden/individual-plants/plant-location.html)
 
-Google map with markers for each plant location. Currently hard-coded drawing on data from the front
-matter individual plant markdown files.
+Google map with markers for each plant location. Currently hard-coded drawing on data from the front matter individual plant markdown files.
 
 To do
 
 - Integrate with standard process of updating memex
 
-    i.e. a generator that extracts the first image from all the markdown files in the individual-plants folder and generate the JS/JSON file used by the map.
+    i.e. a generator that extracts the first image from all the markdown files in the individual-plants folder and generate the JS/JSON file used by the map (~/sense/landscape-garden/individual-plants/plant-gps.js).
 
 ## Adding a plant
 

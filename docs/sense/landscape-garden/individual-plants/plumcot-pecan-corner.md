@@ -1,7 +1,7 @@
 ---
 title: Plumcot (Spring Satin) - pecan corner
-type: "single-plant"
-tags: 'plants', 'wood-duck-meadows', 'stone-fruit', 'plumcot'
+type: single-plant
+tags: ['plants', 'wood-duck-meadows', 'stone-fruit', 'plumcot']
 latitude: -27.53799666666667
 longitude: 152.0560445
 photos:

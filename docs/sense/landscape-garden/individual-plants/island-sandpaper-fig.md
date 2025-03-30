@@ -20,7 +20,7 @@ See also: [[individual-plants]], [[the-island]]
 With [[the-dam]] level low during 2024 we planted out a [[sandpaper-fig]] onto [[the-island]]. Though we are yet to identify the specific type. [Cyclone Alfred](https://en.wikipedia.org/wiki/Cyclone_Alfred_(2025)) and a subsequent low kept the dam level high, making it interesting to water the fig.
 
 <figure markdown>
-![Slowly growing sandpaper fig on the island surrounded by green panic grass](../images/island-sandpaper-fig/1.jpeg)
+![Slowly growing sandpaper fig on the island surrounded by green panic grass](images/island-sandpaper-fig/1.jpeg)
 <caption>Slowly growing sandpaper fig on the island surrounded by green panic grass</caption>
 </figure>
 
