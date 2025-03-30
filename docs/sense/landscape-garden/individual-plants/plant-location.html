@@ -1,5 +1,6 @@
 <!doctype html>
 <html>
+
 <head>
     <title>Plant locations - Wood duck meadows</title>
     <style>
@@ -24,6 +25,18 @@
     <script>
 
         let map;
+
+        function generateImageString(plantLocation) {
+            const imageString = `<h3>${plantLocation.title}</h3>
+                    <p>${plantLocation.description} 
+                        (<a href="${plantLocation.memex}.html">For more</a>)
+                    </p> 
+                    <img src="${plantLocation.imageUrl}" alt="${plantLocation.title}" style="width: 100%;" /> `;
+
+            return imageString;
+
+        }
+
         async function initMap() {
             const position = { lat: -27.538414001464844, lng: 152.05630493164062 };
             // Request needed libraries.
@@ -56,13 +69,8 @@
 
                     infoWindow.close();
                     //infoWindow.setContent(marker.title);
-                    const contentString = 
-                    `<h3>${plantLocation.title}</h3> 
-                    <p>${plantLocation.description} 
-                        (<a href="${plantLocation.memex}.html">For more</a>)
-                    </p> 
-                    <img src="${plantLocation.imageUrl}" alt="${plantLocation.title}" style="width: 100%;" /> `;
-                    infoWindow.setContent( contentString );
+                    const contentString = generateImageString(plantLocation);
+                    infoWindow.setContent(contentString);
                     infoWindow.open(marker.map, marker);
                 });
 
@@ -76,8 +84,9 @@
 </head>
 
 <body>
-    <h3>Locations of individual plants at 
-        <a href="../wood-duck-meadows.html">Wood duck meadows</a></h3>
+    <h3>Locations of individual plants at
+        <a href="../wood-duck-meadows.html">Wood duck meadows</a>
+    </h3>
     <!--The div element for the map -->
     <div id="map"></div>
 

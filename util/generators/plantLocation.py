@@ -107,11 +107,12 @@ def generatePlantJS(plantData):
             description = ""
             imageUrl = ""
             date = ""
-            if plant['photos'] is None:
-                print(f"Warning: No photos for {title}")
+            if len(plant['photos']) > 0:
                 description = plant['photos'][1]['description']
                 imageUrl = plant['photos'][1]['memexFilename']
                 date = plant['photos'][1]['date']
+            else:
+                print(f"Warning: No photos for {title}")
             memex = plant["memex"]
             zone = "unknown"  # TODO: how to get the zone?
 
