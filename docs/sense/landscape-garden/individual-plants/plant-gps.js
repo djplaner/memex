@@ -176,4 +176,3 @@ const plantLocations = [
         zone: 'unknown'
     },
 ];
-export default plantLocations;
