@@ -16,7 +16,7 @@ import markdown
 from bs4 import BeautifulSoup
 from pprint import pprint
 
-logger = logging.getLogger("woodDuck")
+#logger = logging.getLogger("woodDuck")
 
 # open calls using mkdocs-gen-files inherently uses docs
 #DOC_FOLDER = "use mkdocs-gen-files to get docs folder"
@@ -84,6 +84,7 @@ View the photos either by:
 1. Scrolling down the page.
 
     Smaller images, but with links to the original pages.
+
 2. Click on a photo and move left/right through all photos.
 
     Full width images.

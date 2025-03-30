@@ -6,6 +6,7 @@ tags:
     - computational-components
 ---
 
+
 See also: [[computational-components]]
 
 Early experiments with extracting information (about plants) from photos resulting in the design and development of the following:

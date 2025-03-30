@@ -36,6 +36,7 @@ The following provides a summary of the plants we've removed, planted, or cared 
 - [[solanum-americanum]] - American black nightshade
 - [[macroptilium-lathyroides]] - Phasey bean
 - [[bidens-pilosa]] - Cobbler's pegs
+- [[heliotropium-amplexicaule]] - Clasping heliotrope
 
 ### Grasses
 
@@ -81,6 +82,7 @@ The following provides a summary of the plants we've removed, planted, or cared 
 [unknown-ficus]: ../individual-plants/unknown-ficus "Unknown ficus"
 [corymbia-torelliana]: corymbia-torelliana "Corymbia Torelliana (Cadaghi)""
 [macadamia]: macadamia "Macadamia"
+[sandpaper-fig]: sandpaper-fig "Sandpaper fig"
 [dendrodbium-taberi]: dendrodbium-taberi "Dendrodbium taberi (King Orchid)"
 [wombat-berry]: wombat-berry "Wombat Berry"
 [common-rush]: common-rush "Common Rush"
@@ -90,6 +92,7 @@ The following provides a summary of the plants we've removed, planted, or cared 
 [solanum-americanum]: solanum-americanum "Solanum americanum (American black nightshade)"
 [macroptilium-lathyroides]: macroptilium-lathyroides "Macroptilium lathyroides (Phasey Bean)"
 [bidens-pilosa]: bidens-pilosa "Bidens pilosa (Cobbler's Pegs)"
+[heliotropium-amplexicaule]: heliotropium-amplexicaule "Heliotropium amplexicaule (Clasping heliotrope)"
 [arundo-donax]: arundo-donax "Arundo donax (Elephant Grass)"
 [megathyrsus-maximus]: megathyrsus-maximus "Megathyrsus maximus (Guinea grass)"
 [asparagus-africanus]: asparagus-africanus "Asparagus africanus (Climbing asparagus fern)"

@@ -1,3 +1,4 @@
+/* 3 */ 
 const plantLocations = [
 
     {
@@ -176,4 +177,3 @@ const plantLocations = [
         zone: 'unknown'
     },
 ];
-export default plantLocations;

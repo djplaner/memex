@@ -90,9 +90,9 @@ plugins:
   - mkdocs-video
   - gen-files:
       scripts:
-        - util/hello_world.py ## initial test case for mdocs-gen-files
-        - util/generators/woodDuck.py ## under dev wood duck meadows generator
-        - util/generators/lifeList.py
+        - util/generators/woodDuck.py ## working wood duck meadows generator
+        - util/generators/lifeList.py ## working updating eBird life list
+        - util/generators/plantLocation.py ## dev - generating javascript for plant locations
   - macros:
   - literate-nav:
       nav_file: NAV.md
