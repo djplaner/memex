@@ -19,6 +19,7 @@ The following provides a summary of the plants we've removed, planted, or cared 
 - [[corymbia-torelliana]] (aka Cadaghi) which is native to North Queensland but considered an [environmental pest](https://weeds.brisbane.qld.gov.au/weeds/cadaghi) in South East Queensland.
 - [[macadamia]]
 - [[sandpaper-fig]]
+- [[brachychiton-rupestris]] - Queensland Bottle Tree
 
 ### Flowers
 
@@ -82,6 +83,7 @@ The following provides a summary of the plants we've removed, planted, or cared 
 [corymbia-torelliana]: corymbia-torelliana "Corymbia Torelliana (Cadaghi)""
 [macadamia]: macadamia "Macadamia"
 [sandpaper-fig]: sandpaper-fig "Sandpaper fig"
+[brachychiton-rupestris]: brachychiton-rupestris "Brachychiton rupestris (Queensland Bottle Tree)"
 [dendrodbium-taberi]: dendrodbium-taberi "Dendrodbium taberi (King Orchid)"
 [wombat-berry]: wombat-berry "Wombat Berry"
 [common-rush]: common-rush "Common Rush"
