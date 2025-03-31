@@ -1,4 +1,4 @@
-/* 10 */ 
+/* 5 */ 
 const plantLocations = [
 
     {
@@ -152,17 +152,6 @@ const plantLocations = [
         imageUrl: 'images/lychee-erdon-lee/1.jpeg',
         memex: 'lychee-erdon-lee',
         date: '2025-03-14 17:25:47',
-        zone: 'unknown'
-    },
-
-    {
-        title: 'Ficus obliqua (Small-leaved fig)',
-        lat: -27.53784332426967,
-        long: 152.0567883086875,
-        description: 'None',
-        imageUrl: 'images/ficus-obliqua-berm/1.jpeg',
-        memex: 'ficus-obliqua-berm',
-        date: '2025-03-31 16:58:22',
         zone: 'unknown'
     },
 
