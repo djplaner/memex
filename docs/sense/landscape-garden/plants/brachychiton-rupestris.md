@@ -4,7 +4,7 @@ type: single-plant
 tags: ['plants', 'wood-duck-meadows']
 ---
 
-See also: [[plants]]
+See also: [[plants]], [[wood-duck-meadows]]
 
 [[wood-duck-meadows]] has a handful of [Queensland Bottle Trees](https://en.wikipedia.org/wiki/Brachychiton_rupestris) spread across the property. A native deciduous succulent tree that grows to 10-20m.
 

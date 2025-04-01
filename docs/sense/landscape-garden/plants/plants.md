@@ -8,6 +8,12 @@ See also: [[wood-duck-meadows]], [[individual-plants]]
 
 The following provides a summary of the plants we've removed, planted, or cared for on [[wood-duck-meadows]]. It is a far from complete list.
 
+!!! info "Photo gallery"
+
+    Check out the [Wood duck gallery](../wood-duck-gallery.md#plants) for all the photos of the following plants available below.
+
+    Click on any of the images to view the photos in a gallery mode.
+
 ## Native plants
 
 ### Trees
@@ -27,9 +33,10 @@ The following provides a summary of the plants we've removed, planted, or cared 
 
 ### Others
 
-- [[wombat-berry]]
-- [[common-rush]]
 - [[azolla]]
+- [[common-rush]]
+- [[rubus-probus]] - Atherton raspberry
+- [[wombat-berry]]
 
 ## Weeds and other nasties
 
@@ -39,6 +46,7 @@ The following provides a summary of the plants we've removed, planted, or cared 
 - [[macroptilium-lathyroides]] - Phasey bean
 - [[bidens-pilosa]] - Cobbler's pegs
 - [[heliotropium-amplexicaule]] - Clasping heliotrope
+- [[talinum-paniculatum]] - fameflower or pink baby's breath
 
 ### Grasses
 
@@ -85,15 +93,17 @@ The following provides a summary of the plants we've removed, planted, or cared 
 [sandpaper-fig]: sandpaper-fig "Sandpaper fig"
 [brachychiton-rupestris]: brachychiton-rupestris "Brachychiton rupestris (Queensland Bottle Tree)"
 [dendrodbium-taberi]: dendrodbium-taberi "Dendrodbium taberi (King Orchid)"
-[wombat-berry]: wombat-berry "Wombat Berry"
-[common-rush]: common-rush "Common Rush"
 [azolla]: azolla "Azola"
+[common-rush]: common-rush "Common Rush"
+[rubus-probus]: rubus-probus "Rubus probus (Atherton raspberry)"
+[wombat-berry]: wombat-berry "Wombat Berry"
 [coral-berry]: coral-berry "Coral Berry"
 [manihot-grahamii]: manihot-grahamii "Manihot Grahamii (Graham's Manihot)"
 [solanum-americanum]: solanum-americanum "Solanum americanum (American black nightshade)"
 [macroptilium-lathyroides]: macroptilium-lathyroides "Macroptilium lathyroides (Phasey Bean)"
 [bidens-pilosa]: bidens-pilosa "Bidens pilosa (Cobbler's Pegs)"
 [heliotropium-amplexicaule]: heliotropium-amplexicaule "Heliotropium amplexicaule (Clasping heliotrope)"
+[talinum-paniculatum]: talinum-paniculatum "Talinum paniculatum"
 [arundo-donax]: arundo-donax "Arundo donax (Elephant Grass)"
 [megathyrsus-maximus]: megathyrsus-maximus "Megathyrsus maximus (Guinea grass)"
 [asparagus-africanus]: asparagus-africanus "Asparagus africanus (Climbing asparagus fern)"

@@ -14,6 +14,12 @@ Our plan is to undertake a process of bush [[regeneration]] to bring back variou
 
 The [[house]] is also undergoing a regeneration to be more appropriate to the changing context.
 
+!!! info "Photo gallery"
+
+    Check out the [Wood duck gallery](./wood-duck-gallery.md) to view all that photos of the property available here.
+
+    Click on an image to view the photos in a galley mode.
+
 <figure markdown>
 ![10s (100s?) of ducks lining the banks of the dam](./images/wood-duck-meadows-2013.jpeg)
 <caption>2013 photo (yes we did have horses for a while) taken from the veranda of the house looking towards [[the-dam]] offering an insight into the origins of the name "Wood duck meadows"</caption>

@@ -11,23 +11,23 @@ import re
 import glob
 import mkdocs_gen_files
 import logging
-#import frontmatter
+# import frontmatter
 import markdown
 from bs4 import BeautifulSoup
 from pprint import pprint
 
-#logger = logging.getLogger("woodDuck")
+# logger = logging.getLogger("woodDuck")
 
 # open calls using mkdocs-gen-files inherently uses docs
-#DOC_FOLDER = "use mkdocs-gen-files to get docs folder"
+# DOC_FOLDER = "use mkdocs-gen-files to get docs folder"
 GARDEN_FOLDER = "sense/landscape-garden/"
-#GARDEN_FOLDER = ""
-#PLANTS_PATH = f"{GARDEN_FOLDER}plants/"
+# GARDEN_FOLDER = ""
+# PLANTS_PATH = f"{GARDEN_FOLDER}plants/"
 PLANTS_PATH = "plants/"
-DOCS_FOLDER="/Users/davidjones/memex/docs/"
+DOCS_FOLDER = "/Users/davidjones/memex/docs/"
 PLANTS_FOLDER = f"{DOCS_FOLDER}sense/landscape-garden/plants/"
 INDIVIDUAL_PLANTS_FOLDER = f"{DOCS_FOLDER}sense/landscape-garden/individual-plants/"
-INDIVIDUAL_PLANTS_PATH="individual-plants/"
+INDIVIDUAL_PLANTS_PATH = "individual-plants/"
 
 
 def retrieveZonePages(gardenFolder=GARDEN_FOLDER):
@@ -51,27 +51,28 @@ def retrieveZonePages(gardenFolder=GARDEN_FOLDER):
             #   append hash to array
             match = linePattern.match(line)
             if (match):
-                #lines.append({ "title": match.group(1), "path": match.group(2) })
+                # lines.append({ "title": match.group(1), "path": match.group(2) })
                 # path has just the name of the file
                 relativePath = match.group(2)
                 filePath = f"{DOCS_FOLDER}{GARDEN_FOLDER}{relativePath}"
                 pageData = extractFileContent(filePath)
                 figures = extractFigures(pageData['html'])
-                pages.append( 
-                             { 
-                              "title": pageData['yaml']['title'],
-                              "path": relativePath, 
-                              "content": pageData['content'],
-                              "html": pageData['html'], 
-                              "figures": figures 
-                              })
+                pages.append(
+                    {
+                        "title": pageData['yaml']['title'],
+                        "path": relativePath,
+                        "content": pageData['content'],
+                        "html": pageData['html'],
+                        "figures": figures
+                    })
     return pages
+
 
 def generatePage(zonePages, plantsPages, individualPlantPages):
     """
     Write the wood-duck-gallery.md file, adding three sections. One each for zone, plants, and individual plants
     """
-    
+
     with mkdocs_gen_files.open("sense/landscape-garden/wood-duck-gallery.md", "w") as f:
         f.write(f"""# Wood duck meadows gallery
 
@@ -79,19 +80,16 @@ See also: [[wood-duck-meadows]]
 
 A dynamically generated gallery of all the photos from the pages associated with the zones and plants of [[wood-duck-meadows]]. An early exploration into integrating "[[computational-components]]" into the site.
 
-View the photos either by:
+!!! info "How to use the gallery"
 
-1. Scrolling down the page.
+    1. Scroll down the page to view smaller images and links to the original page holding the photo.
 
-    Smaller images, but with links to the original pages.
+    2. Click on a photo to enter photo gallery mode which displays full size images and to click left/right through all the photos.
 
-2. Click on a photo and move left/right through all photos.
-
-    Full width images.
 
 ## Zones
 
-""")               
+""")
 
         for page in zonePages:
             f.write(f"""
@@ -107,7 +105,7 @@ View the photos either by:
 
 """)
         for page in plantsPages:
-            #-- skip if page['figures'] is empty
+            # -- skip if page['figures'] is empty
             if len(page['figures']) == 0:
                 continue
             f.write(f"""
@@ -123,7 +121,7 @@ View the photos either by:
 
 """)
         for page in individualPlantPages:
-            #-- skip if page['figures'] is empty
+            # -- skip if page['figures'] is empty
             if len(page['figures']) == 0:
                 continue
             f.write(f"""
@@ -143,13 +141,14 @@ def addImages(f, pageTitle, figures):
     Called from generatePage
     """
 
-    for imagePath in figures: 
+    for imagePath in figures:
         f.write(f"""
 <figure markdown>
 ![{figures[imagePath]['alt']}]({figures[imagePath]['image_path']}){{data-title="{pageTitle}" data-description="{figures[imagePath]['alt']}"}}
 <caption>{figures[imagePath]['caption']}</caption>
 </figure> 
 """)
+
 
 def retrievePlantsPages(plantsFolder=PLANTS_FOLDER):
     """
@@ -158,29 +157,29 @@ def retrievePlantsPages(plantsFolder=PLANTS_FOLDER):
     """
 
     files = glob.glob(f"{plantsFolder}*.md")
-    pages = [ ]
+    pages = []
 
     for file in files:
-        #-- remove DOCS_FOLDER from file
+        # -- remove DOCS_FOLDER from file
         path = file.replace(DOCS_FOLDER, "")
         # remove the landscape-garden path as well
         # Gallery is now in this folder, hence prefix is not needed
-        path = path.replace("sense/landscape-garden/", "")  
+        path = path.replace("sense/landscape-garden/", "")
         pageData = extractFileContent(file)
         if plantsFolder == PLANTS_FOLDER:
             figures = extractFigures(pageData['html'], True)
         elif plantsFolder == INDIVIDUAL_PLANTS_FOLDER:
             figures = extractFigures(pageData['html'], False, True)
         pages.append(
-            { 
-             "title": pageData['yaml']['title'], "path": path,
-             "content": pageData['content'],
-             "html": pageData['html'],
-             "figures": figures
-             })
+            {
+                "title": pageData['yaml']['title'], "path": path,
+                "content": pageData['content'],
+                "html": pageData['html'],
+                "figures": figures
+            })
 #        title = fMatter['title']
 #        pages.append({ "title": title, "path": path, "frontMatter": fMatter })
-            
+
     return pages
 
 
@@ -203,7 +202,7 @@ def extractFigures(html, PLANTS=False, INDIVIDUAL_PLANTS=False):
     figures = {}
     soup = BeautifulSoup(html, 'html.parser')
 
-    #-- extract all figure tags from html
+    # -- extract all figure tags from html
     figureTags = soup.find_all('figure')
 
     imageRE = re.compile(r"!\[(.*)\]\((.*)\)")
@@ -216,7 +215,7 @@ def extractFigures(html, PLANTS=False, INDIVIDUAL_PLANTS=False):
         ![alt](image_path)
         <caption>caption</caption>
         </figure>
-        """ 
+        """
         figureComponents = {
             "alt": "",
             "image_path": "",
@@ -229,12 +228,11 @@ def extractFigures(html, PLANTS=False, INDIVIDUAL_PLANTS=False):
             figureComponents['image_path'] = match.group(2)
             # if image_path isn't a compete URL, prepend PLANTS_PATH
             if not figureComponents['image_path'].startswith("http"):
-                if ( PLANTS):
+                if (PLANTS):
                     figureComponents['image_path'] = f"{PLANTS_PATH}{figureComponents['image_path']}"
                 elif (INDIVIDUAL_PLANTS):
                     figureComponents['image_path'] = f"{INDIVIDUAL_PLANTS_PATH}{figureComponents['image_path']}"
-                
-                    
+
         # extract the caption
         match = captionRE.search(str(figureTag))
         if match:
@@ -256,21 +254,23 @@ def extractFileContent(path):
     }
     """
 
-    md = markdown.Markdown(extensions = ['meta'])
+    md = markdown.Markdown(extensions=['meta'])
     pageData = {}
     with open(path, encoding="utf-8-sig") as f:
         pageData["content"] = f.read()
         html = md.convert(pageData["content"])
         pageData['yaml'] = md.Meta
         pageData['html'] = html
-                
+
         for key in pageData['yaml'].keys():
             # if key is a list, get the first item
             if isinstance(pageData['yaml'][key], list):
                 pageData['yaml'][key] = pageData['yaml'][key][0]
-            pageData['yaml'][key] = pageData['yaml'][key].lstrip('\"').rstrip('\"')
+            pageData['yaml'][key] = pageData['yaml'][key].lstrip(
+                '\"').rstrip('\"')
 
     return pageData
+
 
 def generator():
     """
@@ -309,8 +309,7 @@ def generator():
     #   Add zonePage boilerplate
 
 
-#if __name__ == "__main__":
+# if __name__ == "__main__":
 #    generator()
 
 generator()
-    

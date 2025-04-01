@@ -156,6 +156,17 @@ const plantLocations = [
     },
 
     {
+        title: 'Atherton raspberry (Gatton Creek)',
+        lat: -27.53902760336878,
+        long: 152.0546644182429,
+        description: 'None',
+        imageUrl: 'images/atherton-raspberry-gatton-creek/1.jpeg',
+        memex: 'atherton-raspberry-gatton-creek',
+        date: '2025-04-01 09:54:47',
+        zone: 'unknown'
+    },
+
+    {
         title: 'Ficus obliqua (Small-leaved fig)',
         lat: -27.53784332426967,
         long: 152.0567883086875,
