@@ -137,18 +137,39 @@ Can also add comments
 
 ### Outstanding work
 
+- [ ] Out of date content to remove (cleanUpContent) 
+    - [ ] \[googlevideo=http://video.google.com/videoplay?docid=961814934919323661#3m30s\]
+    - [ ] broken links that are gone
+        - indicate that in someway?
+
+
 - [ ] Posts
 - [ ] Pages
-    - [ ] Need to handle folder hierarchy
+    - [ ] the "about" page is old, out of data content, 
+    - [x] Need to handle folder hierarchy
 
         Currently assumes a flat structure, But some of the pages are in folders.
-        **HANDLE THIS**
+    - [ ] add publication date information to all posts (perhaps author?)
+        - also categories etc
+    - [ ] Do any pages have comments?
+
+        - Proper about page has comments
 - [ ] Navigation
+    - Links to other djon.es/blog pages are currently full http links, rather than relative. Requires complete re-creation of the blog to work.
+        - [ ] Is there a way to automatically convert these to relative links? 
+            May have to wait for pages to be created first
 - [ ] Misc
     - Misc. conversion issues
         Going from Wordpress to Markdown to HTML means formatting breaks 
 
-        - Use of # in markdown files overwriting the YAML title for page title 
+        - [ ] Use of # in markdown files overwriting the YAML title for page title 
+        - [ ] Use of "funny" characters in YAML title can cause issues, can be solved by surrounding with : (but may be parser specific)
+            - colon, hyphen
+            - _working for colon_ others???
+        - internal links (esp on headings) will get modified by mkdocs practice 
+            - Look to remove internal links (the page nav provides links)
+        - markdown tables need an empty line before they start to be displayed
+            - solving some problems of university learning part II (example)
     - Errors being reported by mkdocs on serve/build
 
 

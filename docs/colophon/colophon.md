@@ -90,6 +90,8 @@ Random examples of what others have achieved using Foam combine with other techn
 - [DevBook](https://devbook.baum.software/) - using [Just the Docs](https://github.com/pmarsceill/just-the-docs) - Jekyll
 - [Paul's Digital Garden](https://garden.paulderaaij.nl/) - uses the [PARA method](https://fortelabs.com/blog/para/) and a Gatsby theme
 - [lzrd.dev](https://lzrd.dev/) - 11ty with foam, pages include backlinks
+- [A working library](https://aworkinglibrary.com/writing/make-life-possible) - used quite a bit, more traditional "book" style design - good functionality
+
 
 ## History
 

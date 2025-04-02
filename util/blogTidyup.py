@@ -20,11 +20,19 @@ import glob
 import markdown
 import re
 import urllib.request
+from datetime import datetime
 
 from wpparser import parse
 from pprint import pprint
 
 BROKEN_LINKS = {}
+
+OUTDATED_CONTENT = [
+    {
+        "pattern": r"\\\[googlevideo=[^\]]*\\\]",
+        "replace": "Google video no longer available"
+    },
+]
 
 # Location of XML files from Wordpress
 WORDPRESS_EXPORT_FILE = "/Users/davidjones/Downloads/export.xml"
@@ -118,8 +126,17 @@ def cleanupContent(content):
         # if link not in BROKEN_LINKS check if broken link
 #        if link not in BROKEN_LINKS and isBrokenLink(link):
 #            BROKEN_LINKS[link] = True
+
+    #-- replace any outdated content
+    for outdated in OUTDATED_CONTENT:
+        print(f"SSSSSSSs {outdated['pattern']} -> {outdated['replace']}")
+        content = re.sub(outdated["pattern"], f"""
+!!! warning "Outdated content no longer available"
+
+    {outdated["replace"]}\n""", content)
         
     return content
+
 
 def updatePages(xml):
     """
@@ -178,8 +195,12 @@ def updatePages(xml):
 
         updateMemexFolder(page, pageData, pageXmlData)
 
-        #-- update pagesAdded with the last 
-        pagesAdded.append( page.replace("index.md", "").split("/")[-2] )
+        #-- update pagesAdded with sub-folders that the page was copied to local to docs
+        # - pageXmlData['link'] without the CURRENT_BLOG_URL
+        pageAdd = pageXmlData['link'].replace(CURRENT_BLOG_URL, '')
+        #pageAdd = page.replace("index.md", "").split("/")[-2]
+        print(f")))))))) page: {page} >>> Page added: {pageAdd}")
+        pagesAdded.append( pageAdd )
 
         #input("Press Enter to continue...")
 
@@ -200,7 +221,11 @@ def writePagesIndex(pages):
         f.write(f"\nSee also: [[blog-home]], [[pages]], [[posts]]\n\n")
         #-- write the content
         for page in pages:
-            f.write(f"- [{page}]({page}/)\n")
+            #-- get the last part of the path for the name
+            name = page.split("/")[-2]
+            #-- remove any leading / from page
+            page = page.lstrip("/")
+            f.write(f"- [{name}]({page})\n")
 
         
 def updateMemexFolder(page : str, pageData, pageXmlData):
@@ -218,7 +243,7 @@ def updateMemexFolder(page : str, pageData, pageXmlData):
 
     sourcePath = f"{OUTPUT_FOLDER}/{pageXmlData['link'].replace(CURRENT_BLOG_URL, '')}"
     destinationPath = page.replace("index.md", "")
-    print(f"New Folder path: {sourcePath} old folderpath {destinationPath}" )
+    print(f"$$$$$$ New Folder path: {sourcePath} old folderpath {destinationPath}" )
 
     #-- create the new folder if it doesn't exist 
     if not os.path.exists(sourcePath):
@@ -235,15 +260,44 @@ def updateMemexFolder(page : str, pageData, pageXmlData):
         for key in pageData['yaml'].keys():
             if key == "author":
                 continue
+            if key == "title" and ":" in pageData['yaml'][key]:
+                pageData['yaml'][key] = f'"{pageData['yaml'][key]}"';
             f.write(f"{key}: {pageData['yaml'][key]}\n")
         #-- add in memex frontmatter
         f.write(f"type: {pageXmlData['post_type']}\n")
         f.write("---\n")
-        #-- add in some additional pre-amble
+        #----------- add in some additional pre-amble
+        # add metadata for the post (date, tags, etc)
+        metaData = generateMetaDataMarkdown(pageXmlData)
+        f.write(f"\n{metaData}\n")
+
+        #- see also links
         f.write(f"\nSee also: [[blog-home]]\n")
         #-- write the content
         f.write(pageData['content'])
 
+def generateMetaDataMarkdown(pageXmlData):
+    """
+    Convert XML data about a post into formatted markdown to be shown at the top of a post/page
+
+    Showing at least post_date, tags, categories
+    """
+
+    dateObject = datetime.strptime( pageXmlData['post_date'], "%Y-%m-%d %H:%M:%S")
+    postDateMd = f"**Post date:** {dateObject.strftime("%A, %B %d, %Y %I:%M %p")}\n"
+    categoryMd = ""
+    if 'categories' in pageXmlData and len(pageXmlData['categories']) > 0:
+        categoryMd = f"    **Categories:** {', '.join( str(x) for x in pageXmlData['categories'])}\n"
+    ## create string tags by joining with commas
+    tagMd = ""
+    if 'tags' in pageXmlData and len(pageXmlData['tags']) > 0:
+        tagMd = f"\    **Tags:** {', '.join( str(x) for x in pageXmlData['tags'])} \n"
+
+    return f"""
+!!! info inline end ""
+
+    {postDateMd}{categoryMd}{tagMd}
+"""
 
 def findXmlPost( xml, title, type="page"):
     """
