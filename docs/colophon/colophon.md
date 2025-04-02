@@ -31,7 +31,9 @@ Early and likely never started or finished work on [[memex-v2]]
 
 [Blog post](https://djon.es/blog/2025/01/12/what-now/) with an early description of the rationale and possibilities for version 3.
 
-See [[version-3-memex-design]]  for on-going planning.
+See [[version-3-memex-design]] for on-going planning.
+
+Figuring out how to [[convert-wordpress-into-memex]]
 
 ### Version 2 - Adding mkdocs - (2nd half 2023)
 
@@ -100,6 +102,7 @@ Random examples of what others have achieved using Foam combine with other techn
 [ideas-events-people]: ../sense/quote-collection/ideas-events-people "Great Minds Discuss Ideas; Average Minds Discuss Events; Small Minds Discuss People"
 [memex-v2]: memex-v2 "Thinking about 'memex v2'"
 [version-3-memex-design]: version-3-memex-design "Memex - Version 3"
+[convert-wordpress-into-memex]: convert-wordpress-into-memex "Convert Wordpress into Memex"
 [why-mkdocs-foam]: why-mkdocs-foam "Why combine mkdocs with Foam"
 [deploy-with-github-action]: deploy-with-github-action "Deploy with GitHub Action"
 [tags-and-properties]: tags-and-properties "Tags and properties"

@@ -135,6 +135,8 @@ nav:
     - Seek: seek/seek.md
     - Sense: sense/sense.md
     - Share: share/share.md
+  - Blog:
+    - Blog: blog/index.md
 #  - Seek: 
 #    - seek/seek.md
 #    - Triage list: seek/seek-triage.md

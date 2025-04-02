@@ -96,8 +96,8 @@ def generatePlantJS(plantData):
     #-- open the file for writing
     #with open(f"{INDIVIDUAL_PLANTS_FOLDER}/plant-gps.js", "w") as f:
     print(f"Writing {INDIVIDUAL_PLANTS_FOLDER}/plant-gps.md with {len(plantData)} entries")
-#    with mkdocs_gen_files.open(f"{INDIVIDUAL_PLANTS_FOLDER}/plant-gps.js", "w") as f:
-    with open(f"{DOCS_FOLDER}/{INDIVIDUAL_PLANTS_FOLDER}/plant-gps.js", "w") as f:
+    with mkdocs_gen_files.open(f"{INDIVIDUAL_PLANTS_FOLDER}/plant-gps.js", "w") as f:
+#    with open(f"{DOCS_FOLDER}/{INDIVIDUAL_PLANTS_FOLDER}/plant-gps.js", "w") as f:
         f.write("/* 10 */ \nconst plantLocations = [\n")
 
         #-- loop through the list of dicts
