@@ -11,18 +11,6 @@ See also: [[colophon]], [[version-3-memex-design]]
 
 Convert my [Wordpress](https://djon.es/blog) blog into collection of markdown files hosted within this site.
 
-## Components
-
-- [What?](#what)
-- [Components](#components)
-- [Export wordpress to markdown](#export-wordpress-to-markdown)
-  - [Resources](#resources)
-  - [Process](#process)
-  - [What's missing in display](#whats-missing-in-display)
-- [Post conversion - Work to do](#post-conversion---work-to-do)
-  - [How to do it](#how-to-do-it)
-  - [Outstanding work](#outstanding-work)
-
 ## Export wordpress to markdown
 
 Use [Wordpress export to Markdown](https://github.com/lonekorean/wordpress-export-to-markdown)
@@ -83,6 +71,10 @@ Resources considered include
     - `--include-time=true`
     - `--date-format=YYYY-MM-DD HH:mm:ss`
 
+```bash
+    npx wordpress-export-to-markdown --frontmatter-fields=title,date,categories,tags,author,draft --timezone=Australia/Brisban --include-time=true --date-format="YYYY-MM-DD HH:mm:ss" --request-delay=1000
+```
+
 ### What's missing in display
 
 - Pages
@@ -141,11 +133,12 @@ Can also add comments
     - [ ] \[googlevideo=http://video.google.com/videoplay?docid=961814934919323661#3m30s\]
     - [ ] broken links that are gone
         - indicate that in someway?
+    - [ ] Adding a disclaimer of sorts along the bottom of older pages - warning it's out of date etc.
 
 
 - [ ] Posts
 - [ ] Pages
-    - [ ] the "about" page is old, out of data content, 
+    - [x] the "about" page is old, out of data content, **Maybe two posts with same name**
     - [x] Need to handle folder hierarchy
 
         Currently assumes a flat structure, But some of the pages are in folders.
@@ -158,21 +151,35 @@ Can also add comments
     - Links to other djon.es/blog pages are currently full http links, rather than relative. Requires complete re-creation of the blog to work.
         - [ ] Is there a way to automatically convert these to relative links? 
             May have to wait for pages to be created first
+    - make categories and tags links to appropriate generators
 - [ ] Misc
     - Misc. conversion issues
         Going from Wordpress to Markdown to HTML means formatting breaks 
 
         - [ ] Use of # in markdown files overwriting the YAML title for page title 
-        - [ ] Use of "funny" characters in YAML title can cause issues, can be solved by surrounding with : (but may be parser specific)
+        - [ ] Use of "funny" characters in YAML title can cause issues, can be solved by surrounding with : and # (but may be parser specific)
             - colon, hyphen
-            - _working for colon_ others???
-        - internal links (esp on headings) will get modified by mkdocs practice 
+            - _working for colon_ others??  ?
+        - [ ] internal links (esp on headings) will get modified by mkdocs practice 
             - Look to remove internal links (the page nav provides links)
         - markdown tables need an empty line before they start to be displayed
             - solving some problems of university learning part II (example)
+        - lots of images missing and slowing down serve
+        - \[code lang=""\]...\[/code] blocks e.g. concrete-lounge-1 
+        - Just ``` all by themselves???
     - Errors being reported by mkdocs on serve/build
+    - Files stored by Wordpress need to be moved
+
+## Blog interface design
+
+### Resources
+
+- [Material for Mkdocs blog templates](https://andre601.ch/blog/2025/02-10-integrate-gitea-forgejo-stats/) and [here in the repo](https://github.com/squidfunk/mkdocs-material/blob/master/material/templates/blog-post.html)
 
 
+### Blog templates
+
+Define some templates for blog posts and pages
 
 
 

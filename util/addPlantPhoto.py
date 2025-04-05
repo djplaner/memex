@@ -1,16 +1,17 @@
 """
-Add a photo for an individual plant from the Photos library into Memex, including:
+Add a photo for an individual plant or plant species from the Photos library into Memex, including:
 
 1. Add metadata information into the YAML frontmatter of the individual plant's page
 2. Add the photo to the relevant images directory
 
-addPlantPhoto.py --photo <photoName> | --uuid <uuid> --plant <plantName>
+addPlantPhoto.py --photo <photoName> | --uuid <uuid> --plant <plantName> --species
 
 use one of 
 --photo: Name of the photo in the Photos app
 --uuid: Name of the file in the Photos app
 to identify the photo to be added. And following to nominate plant in Memex
 --plant: Name of the plant (matching the markdown filename)
+--species: Boolean flag to indicate if the photo is for a species or not
 """
 
 import argparse
@@ -27,7 +28,8 @@ from PIL import Image, ImageOps
 from pprint import pprint
 
 SINGLE_PLANT_DIR="../docs/sense/landscape-garden/individual-plants/"
-SINGLE_PLANT_IMAGES_PATH="images/"
+PLANTS_DIR="../docs/sense/landscape-garden/plants/"
+PLANT_IMAGES_PATH="images/"
 TMP_DIR="/Users/davidjones/downloads/"
 TMP_FILENAME="testing-small"
 IMAGE_SCALE=0.3333
@@ -77,7 +79,7 @@ def findPhoto(args: argparse.Namespace) -> osxphotos.PhotoInfo:
 
     return photos[0]
 
-def exportPhoto(photo: osxphotos.PhotoInfo, plant: str, photoNum : int) -> bool:
+def exportPhoto(photo: osxphotos.PhotoInfo, plant: str, photoNum : int, species : bool) -> bool:
     """Export the photo out of Photos app and resize it, saving it to the relevant direction
     - extract the photos from the Photos library
     - reduce the size by 1/3
@@ -86,16 +88,20 @@ def exportPhoto(photo: osxphotos.PhotoInfo, plant: str, photoNum : int) -> bool:
     {SINGLE_PLANT_DIR}/images/{plant}/{photoNum}.jpeg
 
     Parameters:
-    photo (osxphotos.PhotoInfo): PhotoInfo object for the photo
-    plant (str): Name of the plant (matching the markdown filename)
-    photoNum (int): Which number has been allocated to this photo
+    - photo (osxphotos.PhotoInfo): PhotoInfo object for the photo
+    - plant (str): Name of the plant (matching the markdown filename)
+    - photoNum (int): Which number has been allocated to this photo
+    - species (bool): Boolean flag to indicate if the photo is for a species or not
     Returns:
-    bool: True if successful, False otherwise
+    - bool: True if successful, False otherwise
     
     """
 
     #-- create the path for the photo both as a string and as a directory
-    photoPath = f"{SINGLE_PLANT_DIR}images/{plant}/"
+    if species:
+        photoPath = f"{PLANTS_DIR}images/{plant}/"
+    else:
+        photoPath = f"{SINGLE_PLANT_DIR}images/{plant}/"
     if not os.path.exists(photoPath):
         os.makedirs(photoPath)
 
@@ -162,16 +168,20 @@ def extractPlantMarkdown(path):
 
     return None
 
-def retrievePlantFile(plant: str):
+def retrievePlantFile(plant: str, species: bool = False) -> dict:
     """Return data extract from the markdown file for an individual plant
 
     Parameters:
-    plant (str): Name of the plant (matching the markdown filename)
+    - plant (str): Name of the plant (matching the markdown filename)
+    - species (bool): Boolean flag to indicate if the photo is for a species or not
     Returns:
-    dict: { markdown: full content, yaml: YAML front matter }
+    - dict: { markdown: full content, yaml: YAML front matter }
     """
 
-    markdownFile = f"{SINGLE_PLANT_DIR}{plant}.md"
+    if species:
+        markdownFile = f"{PLANTS_DIR}{plant}.md"        
+    else:
+        markdownFile = f"{SINGLE_PLANT_DIR}{plant}.md"
 
     #-- error if no such file
     if not os.path.exists(markdownFile):
@@ -200,6 +210,7 @@ def parseArgs():
     parser.add_argument("--photo", help="Photo name - matching Photos app name", required=False)
     parser.add_argument("--plant", help="Plant name - matching markdown filename" )
     parser.add_argument("--uuid", help="Uuid of the photo in the Photos app", required=False)
+    parser.add_argument("--species", help="Boolean flag to indicate if the photo is for a species or not", action="store_true", default=False, required=False)
     args = parser.parse_args()
 
     if not args.photo and not args.uuid:
@@ -208,15 +219,20 @@ def parseArgs():
         parser.error("Please provide a plant name (--plant) matching memex markdown filename")
     return args
 
-def writePlantFile( plantName: str, yaml: str, markdownContent: str ):
+def writePlantFile( plantName: str, yaml: str, markdownContent: str, species: bool = False):
     """Update the markdown file for the individual plant with the new YAML front matter (update the file)
 
     Parameters:
-    plantName (str): Name of the plant (matching the markdown filename)
-    markdown (str): Full content of the markdown file
+    - plantName (str): Name of the plant (matching the markdown filename)
+    - yaml (str): YAML front matter to be written to the file
+    - markdown (str): Full content of the markdown file
+    - species (bool): Boolean flag to indicate if the photo is for a species or not
     """
 
-    filePath = f"{SINGLE_PLANT_DIR}{plantName}.md"
+    if species:
+        filePath = f"{PLANTS_DIR}{plantName}.md"
+    else:
+        filePath = f"{SINGLE_PLANT_DIR}{plantName}.md"
 
     if not os.path.exists(filePath):
         raise ValueError(f"No such file to writePlantFile {filePath}")
@@ -228,15 +244,16 @@ def writePlantFile( plantName: str, yaml: str, markdownContent: str ):
         f.write(markdownContent)
 
 def createYamlString( plantName: str, yamlStruct: dict, 
-                     photoInfo: osxphotos.PhotoInfo ) -> str:
+                     photoInfo: osxphotos.PhotoInfo, species: bool ) -> str:
     """Create a string containing YAML information ready to write to markdown file.
 
     Create the photos and all other sections separtely
 
     Parameters:
-    plantName (str): Name of the plant (matching the markdown filename)
-    yamlStruct (dict): YAML structure from the existing YAML front matter
-    photoInfo (osxphotos.PhotoInfo): PhotoInfo object for the photo
+    - plantName (str): Name of the plant (matching the markdown filename)
+    - yamlStruct (dict): YAML structure from the existing YAML front matter
+    - photoInfo (osxphotos.PhotoInfo): PhotoInfo object for the photo
+    - species (bool): Boolean flag to indicate if the photo is for a species or not
     Returns:
     str: YAML string
     """
@@ -269,8 +286,8 @@ def createYamlString( plantName: str, yamlStruct: dict,
                         yamlStruct["photos"][photoNum][key] = pDict[key].strftime("%Y-%m-%d %H:%M:%S")
                 updatePhoto = True
                 #-- export the photo to the relevant directory to overwrite
-                if exportPhoto(photoInfo, plantName,  photoNum ):
-                    yamlStruct["photos"][photoNum]["memexFilename"] = f"{SINGLE_PLANT_IMAGES_PATH}{plantName}/{photoNum}.jpeg"
+                if exportPhoto(photoInfo, plantName,  photoNum, species ):
+                    yamlStruct["photos"][photoNum]["memexFilename"] = f"{PLANT_IMAGES_PATH}{plantName}/{photoNum}.jpeg"
                 else:
                     raise ValueError(f"Failed to export photo to {SINGLE_PLANT_DIR}{plantName}/{photoNum}.jpeg")
 
@@ -286,8 +303,8 @@ def createYamlString( plantName: str, yamlStruct: dict,
             else:
                 yamlStruct["photos"][lastPhoto][key] = pDict[key].strftime("%Y-%m-%d %H:%M:%S")
         #-- export the photo to the relevant directory to add it
-        if exportPhoto(photoInfo, plantName,  lastPhoto ):
-            yamlStruct["photos"][lastPhoto]["memexFilename"] = f"{SINGLE_PLANT_IMAGES_PATH}{plantName}/{lastPhoto}.jpeg"
+        if exportPhoto(photoInfo, plantName,  lastPhoto, species):
+            yamlStruct["photos"][lastPhoto]["memexFilename"] = f"{PLANT_IMAGES_PATH}{plantName}/{lastPhoto}.jpeg"
         else:
             raise ValueError(f"Failed to export photo to {SINGLE_PLANT_DIR}{plantName}/{lastPhoto}.jpeg")
 
@@ -301,7 +318,7 @@ def createYamlString( plantName: str, yamlStruct: dict,
     return yaml
 
 def updateMemex( plantName: str, plantMemex: dict, 
-                    photoInfo : osxphotos.PhotoInfo ):
+                    photoInfo : osxphotos.PhotoInfo, species: bool = False):
     """Modify the memex YAML front matter for the individual plant to include information about the new photo
 
     - If photo information already exists in the YAML, error/update it??? TODO
@@ -309,9 +326,10 @@ def updateMemex( plantName: str, plantMemex: dict,
     - update the markdown file with the new YAML
 
     Parameters:
-    plantName (str): Name of the plant (matching the markdown filename)
-    plantMemex (dict): { markdown: full content, yaml: YAML front matter }
-    photoInfo (osxphotos.PhotoInfo): PhotoInfo object for the photo
+    - plantName (str): Name of the plant (matching the markdown filename)
+    - plantMemex (dict): { markdown: full content, yaml: YAML front matter }
+    - photoInfo (osxphotos.PhotoInfo): PhotoInfo object for the photo
+    - species (bool): Boolean flag to indicate if the photo is for a species or not
     """
 
     #-- content is a string with current contents of the markdow file
@@ -321,9 +339,9 @@ def updateMemex( plantName: str, plantMemex: dict,
         markdown = markdown[markdown.find("---", 3)+4:]
 
     #-- convert plantMemex[yaml] dict to a yaml string
-    yaml = createYamlString(plantName, plantMemex["yaml"], photoInfo)
+    yaml = createYamlString(plantName, plantMemex["yaml"], photoInfo, species)
 
-    writePlantFile( plantName, yaml, markdown ) 
+    writePlantFile( plantName, yaml, markdown, species ) 
 
 if __name__ == "__main__":
 
@@ -335,8 +353,8 @@ if __name__ == "__main__":
 
     #-- get the content of the markdown file, including YAML
     # - { markdown: full content, yaml: YAML front matter }
-    plantMemex = retrievePlantFile(args.plant)
+    plantMemex = retrievePlantFile(args.plant, args.species)
 
     #-- update the YAML front matter and export the image
-    updateMemex(args.plant, plantMemex, photo)
+    updateMemex(args.plant, plantMemex, photo, args.species)
 

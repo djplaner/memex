@@ -114,7 +114,7 @@ def generatePlantJS(plantData):
             description = ""
             imageUrl = ""
             date = ""
-            if len(plant['photos']) > 0:
+            if 'photos' in plant and len(plant['photos']) > 0:
                 description = plant['photos'][1]['description']
                 imageUrl = plant['photos'][1]['memexFilename']
                 date = plant['photos'][1]['date']

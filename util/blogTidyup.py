@@ -32,6 +32,10 @@ OUTDATED_CONTENT = [
         "pattern": r"\\\[googlevideo=[^\]]*\\\]",
         "replace": "Google video no longer available"
     },
+    {
+        "pattern": r"\\\[slideshare [^\]]*\\\]",
+        "replace": "Presentation from Slideshare no long available"
+    }
 ]
 
 # Location of XML files from Wordpress
@@ -41,6 +45,7 @@ INPUT_FOLDER = "/Users/davidjones/blog/output"
 OUTPUT_FOLDER = "/Users/davidjones/memex/docs/blog"
 
 OLD_BLOG_URL="https://davidtjones.wordpress.com"
+OLD_BLOG_URL_MISSING="davidtjones.wordpress.com"
 CURRENT_BLOG_URL = "https://djon.es/blog"
 
 def readBlogMarkdown(markdownFile):
@@ -122,6 +127,24 @@ def cleanupContent(content):
 
             # replace the link in the content
             content = content.replace(link, newLink)
+        #-- check for old blog links without http[s]
+        regex = rf"^{OLD_BLOG_URL_MISSING}"
+        if re.match(regex, link):
+            newLink = link.replace(OLD_BLOG_URL_MISSING, CURRENT_BLOG_URL)
+            links[link] = newLink
+            #-- replace all text [.*](link) with .*
+        
+        regex = r"^#.*"
+        if '#' in link:
+            print(f"Link: {link} ->")
+        if re.match(regex, link):
+#            print(f"-------- before")
+#            print(content)
+            content = re.sub(rf"\[(.*?)\]\({link}\)", r"\1", content)
+#            print(f"-------- after")
+#            print(content)
+#            print(f"Replaced Link: {link} ")
+#            quit()
 
         # if link not in BROKEN_LINKS check if broken link
 #        if link not in BROKEN_LINKS and isBrokenLink(link):
@@ -137,6 +160,80 @@ def cleanupContent(content):
         
     return content
 
+def updatePosts(xml):
+    """
+    Perform all updates required for blog posts
+
+    - Move from YYYY/MM/<slug> to YYYY/MM/DD/<slug> folder structure
+    - Look for old links to wordpress.com and update
+    - Look for broken links
+    - Copy the images folder if it exists
+    - Create the updated index.md file
+
+    Also create the dummy pages.md file with an index of all pages added
+    """
+
+    # get full paths for the markdown files for all posts
+    postMarkdownFiles = glob.glob(f"{INPUT_FOLDER}/posts/*/*/*/index.md")
+
+    postsAdded = []
+
+    for post in postMarkdownFiles:
+        #----------- get content for this post
+        # - postData - yaml and content (markdown) from exported markdown file
+        # - postXmlData - raw content from XML export file
+
+        #- get the markdown content and frontmatter
+        postData = readBlogMarkdown(post)
+        if postData is None:
+            raise Exception(f"Error reading {post}")
+
+        title = postData['yaml']['title']
+        postDate = ""
+        if 'date' in postData['yaml']:
+            postDate = postData['yaml']['date']
+        #- find the post in the XML
+        postXmlData = findXmlPost( xml, title, postDate )
+        if postXmlData is None:
+            print(f"Error: No matching post found for {title} in XML...skipping")
+            continue
+
+
+        print("--" * 40)
+        print(f"Title: {postXmlData['title']} type {postXmlData['post_type']} status {postXmlData['status']}")
+        print(f"post_date {postXmlData['post_date']}")
+        print(f"post_link {postXmlData['link']}")
+
+        #---------------------- perform various cleanups on the content
+        #-- clean up the markdown content
+        postData['content'] = cleanupContent(postData['content'])
+
+        #--------------------- create and copy new folder/content
+        # - destination will mirror the xmlData link YYYY/MM/DD/<slug>
+        destinationPath = f"{OUTPUT_FOLDER}{postXmlData['link'].replace(CURRENT_BLOG_URL, '')}"
+        sourcePath = post.replace("index.md", "")
+        print(f"\n -- New Folder path: {destinationPath} old folderpath {sourcePath}" )
+
+        # update the destinationPath folder - create it iff ! exist and copy images
+        updateMemexFolder(sourcePath, destinationPath)
+        # add in the index.md file for the post
+        writeMemexIndex(destinationPath, postData, postXmlData)
+
+        #------------ Track the posts that were added for use to write the page index
+        # - pageXmlData['link'] without the CURRENT_BLOG_URL
+        postAdd = postXmlData['link'].replace(CURRENT_BLOG_URL, '')
+        print(f")))))))) post: {post} >>> Post added: {postAdd}")
+        postsAdded.append( postAdd )
+
+        #input("Press Enter to continue...")
+
+    #pprint(postsAdded)
+    writePostsIndex(postsAdded)
+
+
+
+    quit()
+
 
 def updatePages(xml):
     """
@@ -145,6 +242,8 @@ def updatePages(xml):
     - Move from date to old blog file structure
     - Look for old links to wordpress.com and update
     - Look for other broken links??
+    - Copy the images folder if it exists
+    - Create the updated index.md file
 
     Also create the dummy pages.md file with an index of all pages added
 
@@ -177,23 +276,31 @@ def updatePages(xml):
 
 #        pageData['content'] = cleanupContent(pageData['content'])
         title = pageData['yaml']['title']
+        postDate = ""
+        if 'date' in pageData['yaml']:
+            postDate = pageData['yaml']['date']
         #- find the post in the XML
-        pageXmlData = findXmlPost( xml, title, "page" )
+        pageXmlData = findXmlPost( xml, title, postDate, "page" )
         if pageXmlData is None:
             print(f"Error: No matching page found for {title} in XML...skipping")
             continue
 
-        #---------------------- perform various cleanups on the content
-        #-- clean up the markdown content
-        pageData['content'] = cleanupContent(pageData['content'])
 
         print("--" * 40)
         print(f"Title: {pageXmlData['title']} type {pageXmlData['post_type']} status {pageXmlData['status']}")
         print(f"post_date {pageXmlData['post_date']}")
         print(f"post_link {pageXmlData['link']}")
-#        print(pageData['content'])
 
-        updateMemexFolder(page, pageData, pageXmlData)
+        #---------------------- perform various cleanups on the content
+        #-- clean up the markdown content
+        pageData['content'] = cleanupContent(pageData['content'])
+#        print(pageData['content'])
+        destinationPath = f"{OUTPUT_FOLDER}/{pageXmlData['link'].replace(CURRENT_BLOG_URL, '')}"
+        sourcePath = page.replace("index.md", "")
+
+        #updateMemexFolder(page, pageData, pageXmlData)
+        updateMemexFolder(sourcePath, destinationPath)
+        writeMemexIndex(destinationPath, pageData, pageXmlData)
 
         #-- update pagesAdded with sub-folders that the page was copied to local to docs
         # - pageXmlData['link'] without the CURRENT_BLOG_URL
@@ -206,9 +313,36 @@ def updatePages(xml):
 
     writePagesIndex(pagesAdded)
 
+def writePostsIndex(posts):
+    """
+    Create a temp index.md file in the blog folder with a list of all posts added
+
+    TODO A better format might be better, but this is simply testing, eventually a generator may do this work
+    """
+
+    #-- write the new index.md file
+    with open(f"{OUTPUT_FOLDER}/posts.md", "w", encoding="utf-8") as f:
+        f.write("---\n")
+        f.write("title: Posts\n")
+        f.write("type: posts\n")
+        f.write("---\n")
+        #-- add in some additional pre-amble
+        f.write(f"\nSee also: [[blog-home]], [[pages]], [[posts]]\n\n")
+        #-- write the content
+        for post in posts:
+            #-- get the last part of the path for the name
+            name = post.split("/")[-2]
+            #-- remove any leading / from page
+            post = post.lstrip("/")
+            f.write(f"- [{name}]({post})\n")
+
 def writePagesIndex(pages):
     """
     Create a temp page.md file in the blog folder with a list of all pages added
+
+    Simply an un-organised list of all pages added
+
+    TODO - put into a better structure - may not be required?
     """
 
     #-- write the new index.md file
@@ -228,39 +362,47 @@ def writePagesIndex(pages):
             f.write(f"- [{name}]({page})\n")
 
         
-def updateMemexFolder(page : str, pageData, pageXmlData):
+def updateMemexFolder(sourcePath : str, destinationPath : str):
     """
-    Copy content into memex for a new post/page.
-    - Create a new folder for the page in memex
-    - Create an images folder within it iff not exists
-    - Create an index.md file in the folder with updated content 
+    Create a new folder for the page in memex
+    Create an images folder within it iff not exists
 
     Parameters
-    page: full path to the old markdown file
-    pageData: dict containing the content and frontmatter (from original markdown file)
-    pageXmlData: dict containing the XML data for the page
+    - sourcePath: str  Folder where markdown page file and images folder created
+    - destinationPath: str Path for folder under memex where content will be placed
     """
 
-    sourcePath = f"{OUTPUT_FOLDER}/{pageXmlData['link'].replace(CURRENT_BLOG_URL, '')}"
-    destinationPath = page.replace("index.md", "")
-    print(f"$$$$$$ New Folder path: {sourcePath} old folderpath {destinationPath}" )
+#    destinationPath = f"{OUTPUT_FOLDER}/{pageXmlData['link'].replace(CURRENT_BLOG_URL, '')}"
+#    sourcePath = page.replace("index.md", "")
+    print(f"$$$$$$ New Folder path: {destinationPath} old folderpath {sourcePath}" )
 
     #-- create the new folder if it doesn't exist 
-    if not os.path.exists(sourcePath):
-        os.makedirs(sourcePath)
-    if os.path.exists(f"{destinationPath}/images"):
-        os.makedirs(f"{sourcePath}/images", exist_ok=True)
+    if not os.path.exists(destinationPath):
+        os.makedirs(destinationPath)
+    if os.path.exists(f"{sourcePath}/images"):
+        os.makedirs(f"{destinationPath}/images", exist_ok=True)
         #-- copy the images folder contents
-        shutil.copytree(f"{destinationPath}/images", f"{sourcePath}/images", dirs_exist_ok=True)
+        shutil.copytree(f"{sourcePath}/images", f"{destinationPath}/images", dirs_exist_ok=True)
 
-    #-- write the new index.md file
-    with open(f"{sourcePath}/index.md", "w", encoding="utf-8") as f:
+def writeMemexIndex( memexPath, pageData, pageXmlData ):
+    """
+    Write the index.md file for a given page/post in the appropriate folder
+
+    - Add additional YAML 
+        - type
+
+    - Add pre-amble to beginning of markdown
+        - admonition for post date, tags, categories
+        - See also links
+    """
+
+    with open(f"{memexPath}/index.md", "w", encoding="utf-8") as f:
         #-- write the frontmatter
         f.write("---\n")
         for key in pageData['yaml'].keys():
             if key == "author":
                 continue
-            if key == "title" and ":" in pageData['yaml'][key]:
+            if key == "title" and ( ":" in pageData['yaml'][key] or "#" in pageData['yaml'][key]):
                 pageData['yaml'][key] = f'"{pageData['yaml'][key]}"';
             f.write(f"{key}: {pageData['yaml'][key]}\n")
         #-- add in memex frontmatter
@@ -287,11 +429,11 @@ def generateMetaDataMarkdown(pageXmlData):
     postDateMd = f"**Post date:** {dateObject.strftime("%A, %B %d, %Y %I:%M %p")}\n"
     categoryMd = ""
     if 'categories' in pageXmlData and len(pageXmlData['categories']) > 0:
-        categoryMd = f"    **Categories:** {', '.join( str(x) for x in pageXmlData['categories'])}\n"
+        categoryMd = f"    <br />**Categories:** {', '.join( str(x) for x in pageXmlData['categories'])}"
     ## create string tags by joining with commas
     tagMd = ""
     if 'tags' in pageXmlData and len(pageXmlData['tags']) > 0:
-        tagMd = f"\    **Tags:** {', '.join( str(x) for x in pageXmlData['tags'])} \n"
+        tagMd = f"    <br />**Tags:** {', '.join( str(x) for x in pageXmlData['tags'])} <br />"
 
     return f"""
 !!! info inline end ""
@@ -299,23 +441,39 @@ def generateMetaDataMarkdown(pageXmlData):
     {postDateMd}{categoryMd}{tagMd}
 """
 
-def findXmlPost( xml, title, type="page"):
+def findXmlPost( xml, title, postDate, type="post"):
     """
-    Return the Wordpress XML post matching the given title and type, but only if the post is published
+    Return the Wordpress XML post matching the given title, post date, and type, but only if the post is published
 
     params:
     xml - the parsed XML data
     title - the title of the post to find
+    postDate - full date/time when post was created
     type - the post type to find (page, post, attachment)
     """
 
+    foundPosts = []
+    #-- convert postDate to GMT from local zone
+    gmtPostDate = ""
+    if postDate != "":
+        gmtPostDate = datetime.strptime(postDate, "%Y-%m-%dT%H:%M:%S.%f%z").strftime("%Y-%m-%d %H:%M:%S")
+
+#    print(f"\nLOOKING Title: {title} Post date: {postDate} gmtPostDate: {gmtPostDate}")
     for post in xml["posts"]:
         if post['status'] != "publish":
             continue
         if post['post_type'] == type and post['title'] == title:
-            return post
+#            print(f"FOUND Title: {title} Post Title: {post['title']} XML Post date: {post['post_date']} gmtPostDate: {gmtPostDate}")
+            if post['post_date'] == gmtPostDate:
+                foundPosts.append(post)
 
-    return None
+    if len(foundPosts) == 0:
+        return None
+    if len(foundPosts) == 1:
+        return foundPosts[0]
+    
+#    pprint(foundPosts)
+    raise Exception(f"Error: Found multiple posts with the same title {title} in XML...skipping")
 
 def showPosts(data):
     """
@@ -359,7 +517,10 @@ if __name__ == "__main__":
 
 #    showPosts(wordpressXml)
 
+    # TODO uncomment this
     updatePages(wordpressXml)
+
+    updatePosts(wordpressXml)
 
     reportOutcomes()
 

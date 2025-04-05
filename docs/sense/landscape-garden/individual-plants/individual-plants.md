@@ -25,6 +25,8 @@ An index of all the individual [[plants]] we're tracking on [[wood-duck-meadows]
 
 - [[hugh-and-kays-sandpaper-fig]]
 - [[atherton-raspberry-gatton-creek]]
+- [[tom-thumb-finger-lime-gc]]
+- [[garys-ficus]]
 
 ## [[roundabout | The Roundabout]]
 
@@ -68,6 +70,9 @@ An index of all the individual [[plants]] we're tracking on [[wood-duck-meadows]
 [mango-kensington-pride]: mango-kensington-pride "Mango (Kensington Pride)"
 [unknown-ficus-mango-paddock]: unknown-ficus-mango-paddock "Unknown ficus (mango paddock)"
 [hugh-and-kays-sandpaper-fig]: hugh-and-kays-sandpaper-fig "Hugh and Kay's Sandpaper Fig (Gatton Creek frontage)"
+[atherton-raspberry-gatton-creek]: atherton-raspberry-gatton-creek "Atherton raspberry (Gatton Creek)"
+[tom-thumb-finger-lime-gc]: tom-thumb-finger-lime-gc "Tom Thumb Finger Lime - Gatton Creek Frontage"
+[garys-ficus]: garys-ficus "Gary's Ficus"
 [unknown-ficus]: unknown-ficus "Unknown ficus"
 [mature-macadamia-integrifolia]: mature-macadamia-integrifolia "Mature macadamia integrifolia (Roundabout)"
 [white-shahtoot-mulberry]: white-shahtoot-mulberry "White Shahtoot mulberry"

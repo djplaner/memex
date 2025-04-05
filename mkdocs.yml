@@ -3,7 +3,7 @@ site_name: "David's Memex"
 site_url: https://djon.es/memex/
 repo_url: https://github.com/djplaner/memex
 site_author: "David Jones"
-site_dir: ../memex_site # stick HTML outside main repo
+site_dir: ../memex # stick HTML outside main repo
 use_directory_urls: false
 
 theme:
@@ -136,9 +136,15 @@ nav:
     - Sense: sense/sense.md
     - Share: share/share.md
   - Blog:
-    - Blog: blog/index.md
-#  - Seek: 
-#    - seek/seek.md
+    - Blog: blog/blog-home.md
+  - About: colophon/colophon.md
+
+
+not_in_nav: |
+  seek/*
+  sense/*
+  share/*
+  blog/publications/*
 #    - Triage list: seek/seek-triage.md
 #  - Sense: 
 #    - Sense: sense/sense.md
