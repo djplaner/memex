@@ -136,6 +136,10 @@ Can also add comments
     - [ ] Adding a disclaimer of sorts along the bottom of older pages - warning it's out of date etc.
 
 
+- [ ] Cover images may not have been downloaded
+
+    - Announcing Canvas collecitons post, cover image
+    - Check to see if others are missing
 - [ ] Posts
 - [ ] Pages
     - [x] the "about" page is old, out of data content, **Maybe two posts with same name**
@@ -179,9 +183,31 @@ Can also add comments
 
 ### Blog templates
 
-Define some templates for blog posts and pages
+mkdocs template for blog home and blog post.
 
+- How then to dynamically retrieve blog post details and add them?
+- How does material do this
 
+macro/generator as an alternatively
+
+- How for blog template to call the generator - which is typically in the markdown file
+
+### Design requirements
+
+- All outdated information have a warning about out of date content, broken links etc
+
+    - Possible via the `hero` block re-defined in `blog-post.html` template
+    - Likely using variable metadata to test if the date is older than 2025
+
+- Display publish date and categories/tags for each post
+
+    - Possible by overriding the `content.html` partial to add this data under the title
+
+- blog post cover image
+
+- Explore a template for blog posts that adds
+  - a header for old posts
+  - ?? comments ??
 
 
 

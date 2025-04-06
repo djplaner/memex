@@ -1,7 +1,7 @@
 ---
 title: Blog posts
 type: note
-theme: blog
+template: blog-post.html
 tags: 
     - blog
 ---

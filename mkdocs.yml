@@ -3,7 +3,7 @@ site_name: "David's Memex"
 site_url: https://djon.es/memex/
 repo_url: https://github.com/djplaner/memex
 site_author: "David Jones"
-site_dir: ../memex # stick HTML outside main repo
+site_dir: ../memex_site # stick HTML outside main repo
 use_directory_urls: false
 
 theme:
@@ -60,7 +60,7 @@ markdown_extensions:
 #      slugify: !!python/object/apply:pymdownx.slugs.slugify 
 #        kwds: 
 #          case: lower
-#      permalink: '#' # heading anchor 
+      permalink: '#' # heading anchor 
   - admonition
   - codehilite:
       guess_lang: false

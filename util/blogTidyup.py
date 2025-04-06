@@ -359,7 +359,7 @@ def writePagesIndex(pages):
             name = page.split("/")[-2]
             #-- remove any leading / from page
             page = page.lstrip("/")
-            f.write(f"- [{name}]({page})\n")
+            f.write(f"- [{name}]({page}/index.md)\n")
 
         
 def updateMemexFolder(sourcePath : str, destinationPath : str):
@@ -390,6 +390,7 @@ def writeMemexIndex( memexPath, pageData, pageXmlData ):
 
     - Add additional YAML 
         - type
+        - template
 
     - Add pre-amble to beginning of markdown
         - admonition for post date, tags, categories
@@ -407,6 +408,7 @@ def writeMemexIndex( memexPath, pageData, pageXmlData ):
             f.write(f"{key}: {pageData['yaml'][key]}\n")
         #-- add in memex frontmatter
         f.write(f"type: {pageXmlData['post_type']}\n")
+        f.write(f"template: blog-post.html\n")
         f.write("---\n")
         #----------- add in some additional pre-amble
         # add metadata for the post (date, tags, etc)
@@ -520,7 +522,7 @@ if __name__ == "__main__":
     # TODO uncomment this
     updatePages(wordpressXml)
 
-    updatePosts(wordpressXml)
+#    updatePosts(wordpressXml)
 
     reportOutcomes()
 
