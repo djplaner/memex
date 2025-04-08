@@ -31,12 +31,13 @@ mkdocs navigation includes
 
 YAML frontmatter for a page can specify a template. If specified, this template is used to render the page, rather than the default `main.html`.
 
-See [jinja templates](https://jinja.palletsprojects.com/en/latest/templates/#template-inheritance) for more
+Templates are written using [jinja templates](https://jinja.palletsprojects.com/en/stable/) and the [template designer docs](https://jinja.palletsprojects.com/en/stable/templates/).
 
 How it works
 
 - A template defines numerous blocks which can be overridden by child templates.
 - Child template is defined by the `extends` statement
+- Templates are [passed variables](https://mkdocs.readthedocs.io/en/859/user-guide/custom-themes/#template-variables) in the context of the page being rendered - global or [page](https://mkdocs.readthedocs.io/en/859/user-guide/custom-themes/#template-variables).
 
 `base.html` defines the page layout. `Material for mkdocs` defines the [default `base.html`](https://github.com/squidfunk/mkdocs-material/blob/master/material/templates/base.html)
 
