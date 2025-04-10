@@ -126,14 +126,14 @@ def generatePlantJS(plantData):
             #-- write the data to the file
             f.write(f"""
     {{
-        title: '{title}',
+        title: "{title}",
         lat: {lat},
         long: {long},
-        description: '{description}',
-        imageUrl: '{imageUrl}',
-        memex: '{memex}',
-        date: '{date}',
-        zone: '{zone}'
+        description: "{description}",
+        imageUrl: "{imageUrl}",
+        memex: "{memex}",
+        date: "{date}",
+        zone: "{zone}"
     }},
 """)
 
