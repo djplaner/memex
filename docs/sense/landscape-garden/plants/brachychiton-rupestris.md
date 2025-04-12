@@ -1,7 +1,7 @@
 ---
 title: Brachychiton rupestris (Queensland Bottle Tree)
 type: single-plant
-tags: ['plants', 'wood-duck-meadows']
+tags: ['plant', 'wood-duck-meadows', 'native', 'tree']
 ---
 
 See also: [[plants]], [[wood-duck-meadows]]

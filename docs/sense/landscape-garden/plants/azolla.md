@@ -2,10 +2,11 @@
 title: Azola
 type: "plants"
 tags: 
-    - gardens
     - azolla
     - ferns
     - wood-duck-meadows
+    - plant
+    - native
 ---
 
 See also: [[plants]], [[wood-duck-meadows]], [[the-dam]], [[lower-dam]]

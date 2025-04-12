@@ -1,24 +1,14 @@
 ---
-title: Cats claw creeper
+title: Cat's claw creeper (Dolichandra unguis-cati)
 type: "plant"
-tags: gardens, plant, weed, vine
+tags: [ wood-duck-meadows, plant, weed, vine, introduced ]
 ---
 
 See also: [[plants]]
 
+[Cat's claw creeper](https://en.wikipedia.org/wiki/Dolichandra_unguis-cati) is a woody vine native to central/southern America and the Caribbean. A long-lived, aggressive climber considered [one of the worst weeds in Australia](https://profiles.ala.org.au/opus/weeds-australia/profile/Dolichandra%20unguis-cati) and is known to smother native vegetation.
 
-## Details
-
-Leaves 
-
-- 2-7cm long and 1-3cm wide
-- oval oblong with a pointed tip
-- usually in groups of two leaflets (opposite)
-- vigorous root and tuber system
-
-Seeds are winged (2 papery wings), 2-4cm long and contained in seedpods 15-45cm long.
-
-Flowers in spring & summer
+Seeds are winged (2 papery wings), 2-4cm long and contained in seedpods 15-45cm long. Flowering in spring and summer. Leaves are oblong ovals with a pointed tip, usually in groups of two leaflets (opposite). The climbing stems are green and hairy with three-pronged tendrils.
 
 ## Control
 
@@ -37,34 +27,11 @@ Remove tubers from site.
 
 Spray new growth.
 
-## Images
-
-<figure markdown>
-![Sapling with simple leaves](https://www.datocms-assets.com/47611/1629193969-macfadyenaunguis-cati7.jpg?ar64=MTY6OQ&fit=crop&fm=webp&w=1440)
-<caption>Sapling (Cats Claw) with simple leaves</caption>
-</figure>
-
-<figure markdown>
-![Large yellow flowers](https://weeds.dpi.nsw.gov.au/WeedImages/ShowPhoto/3679)
-<caption>Large yellow flowers</caption>
-</figure>
-
-<figure markdown>
-![Three-pronged tendrils](https://weeds.dpi.nsw.gov.au/WeedImages/ShowPhoto/3680)
-<caption>Three-pronged tendrils</caption>
-</figure>
-
-<figure markdown>
-![Mature fruit](https://www.datocms-assets.com/47611/1629193951-macfadyenaunguis-cati4.jpg?ar64=MTY6OQ&fit=crop&fm=webp&w=1440)
-<caption>Mature fruit</caption>
-</figure>
-
-
 ## Experience
 
 Initial introduction when working with the [Friends of Redwood Park](https://fep.org.au/our-parks/redwood-park/) where it is one of the major weeds. 
 
-Subsequent identification of some evidence on [[wood-duck-meadows]].
+Subsequent identification on [[wood-duck-meadows]], but very obvious and widespread in the Gatton and Rocky creeks running alongside the property.
 
 ## References
 

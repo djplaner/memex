@@ -1,7 +1,7 @@
 ---
 title: Asparagus africanus (Climbing asparagus fern)
 type: "note"
-tags: garden, plant, weed
+tags: [ wood-duck-meadows, plant, weed, introduced ]
 ---
 
 See also: [[plants]]

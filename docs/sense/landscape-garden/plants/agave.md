@@ -1,7 +1,7 @@
 ---
 title: Agave
 type: "plant"
-tags: gardens, plant
+tags: [ wood-duck-meadows, plant, introduced]
 --- 
 
 See also: [[plants]]

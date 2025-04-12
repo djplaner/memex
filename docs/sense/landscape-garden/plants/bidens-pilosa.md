@@ -1,7 +1,7 @@
 ---
 title: Bidens pilosa (Cobbler's Pegs)
 type: "plant"
-tags: gardens, plants
+tags: [ wood-duck-meadows, plant, weed, introduced, invasive ]
 ---
 
 See also: [[plants]]

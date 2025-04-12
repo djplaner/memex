@@ -1,7 +1,7 @@
 ---
 title: Senna pendula (Easter Cassia)
 type: plant
-tags: ['plants', 'weeds', 'wood-duck-meadows']
+tags: ['plants', 'weed', 'wood-duck-meadows']
 photos:
   1:
       title: None
