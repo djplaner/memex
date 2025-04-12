@@ -1,7 +1,7 @@
 ---
 title: Heliotropium amplexicaule (Clasping heliotrope)
 type: plant
-tags: plants, weeds
+tags: [ 'plant', 'weed', 'introduced', 'wood-duck-meadows' ]
 ---
 
 See also: [[plants]], [[wood-duck-meadows]]

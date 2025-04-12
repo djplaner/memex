@@ -1,7 +1,7 @@
 ---
 title: Portulacaria afra (Elephant bush)
 type: plant
-tags: ['plants', 'wood-duck-meadows']
+tags: ['plant', 'wood-duck-meadows', 'bush']
 photos:
   1:
       title: None

@@ -1,7 +1,7 @@
 ---
 title: Passiflora subpeltata (White passionflower)
 type: "plants"
-tags: gardens
+tags: [ 'wood-duck-meadows', 'plant', 'weed', 'vine', 'introduced' ]
 ---
 
 See also: [[plants]]

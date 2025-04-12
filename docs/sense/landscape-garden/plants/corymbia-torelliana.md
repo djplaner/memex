@@ -1,7 +1,7 @@
 ---
 title: Corymbia Torelliana (Cadaghi)"
 type: "plant"
-tags: gardens
+tags: [ 'wood-duck-meadows', 'tree', 'native', 'weed', 'plant' ]
 ---
 
 See also: [[plants]]

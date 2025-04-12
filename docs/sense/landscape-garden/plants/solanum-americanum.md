@@ -1,7 +1,7 @@
 ---
 title: Solanum americanum (American black nightshade)
 type: "plants"
-tags: gardens, plants
+tags: [ 'wood-duck-meadows', 'plant', 'introduced', 'weed' ]
 ---
 
 See also: [[plants]]

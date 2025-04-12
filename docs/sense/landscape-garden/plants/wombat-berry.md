@@ -1,7 +1,7 @@
 ---
 title: Wombat Berry
 type: "plant"
-tags: garden, plant, vine
+tags: [ 'wood-duck-meadows', 'plant', 'vine', 'native']
 ---
 
 See also: [[plants]], [Wikipedia](https://en.wikipedia.org/wiki/Eustrephus) 

@@ -1,7 +1,7 @@
 ---
 title: Common Rush
 type: "note"
-tags: 'gardens, landscape'
+tags: [ 'gardens, landscape', 'native' ]
 ---
 
 See also: [[plants]]

@@ -1,20 +1,12 @@
 ---
 title: Privet
 type: "plant"
-tags: garden, plant, weed 
+tags: [ 'wood-duck-meadows', 'plant', 'weed', 'introduced' ]
 ---
 
 See also: [[plants]], [NSW Weedwise](https://weeds.dpi.nsw.gov.au/Weeds/Details/110), [Wikipedia](https://en.wikipedia.org/wiki/Privet)
 
 An evergreen bush or tree of 4-10m.
-
-## Photos
-
-<figure markdown>
-![Broad-leaf privet leaves](https://weeds.dpi.nsw.gov.au/WeedImages/ShowPhoto/625)
-<caption>Broad-leaf privet leaves</caption>
-</figure>
-
 
 ## Control
 

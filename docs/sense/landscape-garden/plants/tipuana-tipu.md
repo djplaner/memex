@@ -1,7 +1,7 @@
 ---
 title: Tipuana tipu (Rosewood)
 type: plant
-tags: ['plants', 'tipuana-tipu']
+tags: ['plant', 'tipuana-tipu', 'introduced', 'tree']
 photos:
   1:
       title: None

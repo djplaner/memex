@@ -1,7 +1,7 @@
 ---
 title: Macadamia
 type: "plant"
-tags: gardens, wood-duck-meadows, landscape
+tags: [ 'wood-duck-meadows', 'native', 'plant', 'tree' ]
 ---
 
 See also: [[plants]]

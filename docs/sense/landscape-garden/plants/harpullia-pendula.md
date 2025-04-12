@@ -1,7 +1,7 @@
 ---
 title: Harpullia Pendula (Moreton Bay Tulipwood)
 type: "plant"
-tags: garden, plant
+tags: [ 'wood-duck-meadows', 'plant', 'native', 'tree' ]
 ---
 
 See also: [[plants]]

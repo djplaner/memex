@@ -1,7 +1,7 @@
 ---
 title: Dendrodbium taberi (King Orchid)
 type: "plant"
-tags: gardens, plants
+tags: [ wood-duck-meadows, plant, native, orchid ]
 ---
 
 See also: [[plants]]

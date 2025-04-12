@@ -1,7 +1,16 @@
 ---
 title: Cat's claw creeper (Dolichandra unguis-cati)
-type: "plant"
-tags: [ wood-duck-meadows, plant, weed, vine, introduced ]
+type: plant
+tags: ['wood-duck-meadows', 'plant', 'weed', 'vine', 'introduced']
+photos:
+  1:
+      title: None
+      filename: 4CDD4664-375E-4D21-9698-8CE196001E4A.heic
+      latitude: -27.538461666666667
+      longitude: 152.05633616666665
+      description: None
+      date: 2025-02-09 09:55:26
+      memexFilename: images/cats-claw-creeper/1.jpeg
 ---
 
 See also: [[plants]]
@@ -9,6 +18,11 @@ See also: [[plants]]
 [Cat's claw creeper](https://en.wikipedia.org/wiki/Dolichandra_unguis-cati) is a woody vine native to central/southern America and the Caribbean. A long-lived, aggressive climber considered [one of the worst weeds in Australia](https://profiles.ala.org.au/opus/weeds-australia/profile/Dolichandra%20unguis-cati) and is known to smother native vegetation.
 
 Seeds are winged (2 papery wings), 2-4cm long and contained in seedpods 15-45cm long. Flowering in spring and summer. Leaves are oblong ovals with a pointed tip, usually in groups of two leaflets (opposite). The climbing stems are green and hairy with three-pronged tendrils.
+
+<figure markdown>
+![Dead tree with cat's claw creeping up one of the trunks. Numerous long thing green seedpods are visible over dense green foliage.](./images/cats-claw-creeper/1.jpeg)
+<caption>Cat's claw creeper smothering a dead tree in Rocky Creek near the [[roundabout]]</caption>
+</figure>
 
 ## Control
 

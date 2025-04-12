@@ -1,7 +1,7 @@
 ---
 title: Ficus obliqua (Small-leaved fig)
 type: plant
-tags: [plants, ficus, fig, wood-duck-meadows]
+tags: [plant, tree, ficus, fig, wood-duck-meadows]
 ---
 
 See also: [[plants]], [[wood-duck-meadows]], [[fig-tree-berm]]

@@ -1,7 +1,7 @@
 ---
 title: Senegal knotweed (Persicaria senegalensis)
 type: "plants"
-tags: garden, plant, weed
+tags: [ 'wood-duck-meadows' , 'plant', 'introduced' ]
 ---
 
 See also: [[plants]]

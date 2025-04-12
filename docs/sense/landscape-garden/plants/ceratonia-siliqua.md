@@ -1,7 +1,7 @@
 ---
 title: Ceratonia siliqua (Carob tree)
 type: plant
-tags: ['plant', 'tree', 'wood-duck-meadows']
+tags: ['plant', 'tree', 'wood-duck-meadows', 'introduced']
 photos:
   1:
       title: None

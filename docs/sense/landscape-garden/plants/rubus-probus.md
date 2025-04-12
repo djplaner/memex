@@ -1,7 +1,7 @@
 ---
 title: Rubus probus (Atherton raspberry)
 type: plant 
-tags: [plants, wood-duck-meadows]
+tags: ['plants', 'wood-duck-meadows', 'native', 'edible', 'fruit', 'scrambling shrub']
 ---
 
 See also: [[plants]], [[wood-duck-meadows]]

@@ -1,12 +1,12 @@
 ---
 title: Megathyrsus maximus (Guinea grass)
 type: "plants"
-tags: 'gardens, plants'
+tags: [ 'wood-duck-meadows', 'plants', 'weed', 'introduced', 'grass' ]
 ---
 
 See also: [[plants]]
 
-[[wood-duck-meadows]] was designed to provide sizeable horse paddocks, with lots of grass. This includes [Megathyrsus maximus](https://en.wikipedia.org/wiki/Megathyrsus_maximus) (Guinea grass or green panic) which is a tall, tufted perennial grass that grows in clumps. Which means that after a good season with lots of rain there is a requirement for a lot of mowing. Without which the paddocks are overgrown with stands of 3+ metre high grass. Not surprisingly, this grass is [considered a week in Queensland](https://weeds.brisbane.qld.gov.au/weeds/guinea-grass)
+[[wood-duck-meadows]] was designed to provide sizeable horse paddocks, with lots of grass. This includes [Megathyrsus maximus](https://en.wikipedia.org/wiki/Megathyrsus_maximus) (Guinea grass or green panic) which is a tall, tufted perennial grass that grows in clumps. Which means that after a good season with lots of rain there is a requirement for a lot of mowing. Without which the paddocks are overgrown with stands of 3+ metre high grass. Not surprisingly, this grass is [considered a weed in Queensland](https://weeds.brisbane.qld.gov.au/weeds/guinea-grass)
 
 ## History at Wood Duck Meadows
 

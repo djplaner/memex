@@ -1,7 +1,7 @@
 ---
 title: Schotia brachypetala (Drunken Parrot Tree)
 type: "plants"
-tags: gardens
+tags: [ 'wood-duck-meadows', 'plant', 'introduced', 'tree', 'weed' ]
 ---
 
 See also: [[plants]]
