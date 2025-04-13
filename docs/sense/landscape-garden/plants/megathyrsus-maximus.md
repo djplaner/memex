@@ -1,7 +1,7 @@
 ---
 title: Megathyrsus maximus (Guinea grass)
 type: "plants"
-tags: [ 'wood-duck-meadows', 'plants', 'weed', 'introduced', 'grass' ]
+tags: [ 'wood-duck-meadows', 'plant', 'weed', 'introduced', 'grass' ]
 ---
 
 See also: [[plants]]

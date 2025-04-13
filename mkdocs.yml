@@ -88,6 +88,7 @@ plugins:
   - search
   - glightbox
   - mkdocs-video
+  - mkdocs-pdf
   - gen-files:
       scripts:
         - util/generators/woodDuck.py ## working wood duck meadows generator

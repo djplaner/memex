@@ -3,8 +3,8 @@ title: Tom Thumb Finger Lime - Gatton Creek Frontage
 type: single-plant
 tags: ['plants', 'wood-duck-meadows', 'finger-lime', 'citrus']
 XXXlatitude: -27.53681372047709
-latitude: -27.537175
-longitude: 152.0512390377823
+yylatitude: -27.537175
+zzlongitude: 152.0512390377823
 photos:
   1:
       title: None

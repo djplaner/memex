@@ -6,19 +6,11 @@
 {% block hero %}
 <aside class="md-banner">
   <div class="md-banner__inner md-grid md-typeset">
-    Here blog<br />
-   title: {{ page.meta.title }} &nbsp;&nbsp;date: {{ page.meta.date }}<br />   
-   {{ date_time }}<br />
-   Year {{ page.meta.date  }}<br />
-   {{ "2025-10-05".split("-")[0] }}
    {% set myDate = page.meta.date %}
-    set myDate = myDate.split("-") <br />
-   {{ myDate }}<br />
-   {% set strDate = "{}".format(myDate) %}
-   strDate {{ strDate }}<br />
-   splitYear {{ strDate.split("-")[0] }} <br />
-   Year: page.meta.date | datefmt("%Y") | int 
-
+   {% set year = "{}".format(myDate).split("-")[0] | int %}
+   {% if year < 2025 %}
+    <p><strong>Note:</strong> old Wordpress post ({{ year }}) may have broken links, embeds, etc.</p>
+    {% endif %}
   </div>
 </aside>
 {% endblock %}
