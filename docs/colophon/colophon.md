@@ -6,15 +6,21 @@ tags: colophon, about
 
 See also: [[related-work]], [[support-documentation]]
 
-[Colophon](https://en.wikipedia.org/wiki/Colophon_(publishing)), a fancy term for sharing information **about** the publication of this "book". A way to track the thinking behind the evolution of this site.
+The following tracks the thinking behind the evolution of this site and the purpose it serves its ["author"](https://djon.es/blog/about-2/).
 
 ## Purpose
 
-Who really knows, but the originally intent was inspired by Vannevar Bush [writing in 1945](https://en.wikipedia.org/wiki/As_We_May_Think) about a device he called Memex as
+Who really knows? The original intent was inspired by Vannevar Bush [writing in 1945](https://en.wikipedia.org/wiki/As_We_May_Think) about a device he called Memex as
 
 > a device in which an individual stores all his books, records, and communications, and which is mechanized so that it may be consulted with exceeding speed and flexibility. It is an enlarged intimate supplement to his memory.
 
 This site isn't going to do all of that. But it is an attempt to be more considered about how I seek, make sense of and share knowledge.
+
+[A 2020 blog post](https://djon.es/blog/2020/07/06/designing-a-personal-memex-with-foam/) gives some origins for this work. I might think and write more about this and the connection with [[ideas-events-people]]
+
+Early and likely never started or finished work on [[memex-v2]], which is being followed by [[version-3-memex-design]].
+
+## Method
 
 !!! note "Always emerging out of bricolage"
 
@@ -22,25 +28,22 @@ This site isn't going to do all of that. But it is an attempt to be more conside
 
     i.e. it isn't polished and probably helps me more in thinking than any reader. 
 
-
-[A 2020 blog post](https://djon.es/blog/2020/07/06/designing-a-personal-memex-with-foam/) gives some origins for this work. I might think and write more about this and the connection with [[ideas-events-people]]
-
-Early and likely never started or finished work on [[memex-v2]]
-
-## Method
+The following tracks the broad evolution of the method behind the implementation of this site.
 
 ### Version 3 - early 2025
 
+Details on version 3 covered in [[version-3-memex-design]].
+
 !!! info "Current status"
 
-    Memex moved to personal site, initial [[computational-components]] working. 
-
-    Starting work on importing blog
+    - ✔   Memex moved from GitHub to [my personal site](https://djon.es/memex/) .
+    - ✔  Initial [[computational-components]] working. 
+    - Starting work on importing [Wordpress blog](https://djon.es/blog/) 
+    - Update user interface
 
 Related writing
 
 - early [blog post](https://djon.es/blog/2025/01/12/what-now/) with initial description of the rationale and possibilities for version 3.
-- [[version-3-memex-design]] outlining major woro.
 
 
 ### Version 2 - Adding mkdocs - (2nd half 2023)

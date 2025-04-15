@@ -9,7 +9,7 @@
    {% set myDate = page.meta.date %}
    {% set year = "{}".format(myDate).split("-")[0] | int %}
    {% if year < 2025 %}
-    <p><strong>Note:</strong> old Wordpress post ({{ year }}) may have broken links, embeds, etc.</p>
+    <p><strong>⚠</strong> old Wordpress post ({{ year }}) may have broken links, embeds, etc.</p>
     {% endif %}
   </div>
 </aside>

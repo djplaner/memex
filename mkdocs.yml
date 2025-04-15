@@ -91,9 +91,10 @@ plugins:
   - mkdocs-pdf
   - gen-files:
       scripts:
-        - util/generators/woodDuck.py ## working wood duck meadows generator
-        - util/generators/lifeList.py ## working updating eBird life list
-        - util/generators/plantLocation.py ## dev - generating javascript for plant locations
+        - util/generators/woodDuck.py ## wood duck meadows generator
+        - util/generators/lifeList.py ## updating eBird life list
+        - util/generators/plantLocation.py ## generating javascript for plant locations
+        - util/generators/category.py ## TODO show list of posts in a category 
   - macros:
   - literate-nav:
       nav_file: NAV.md
@@ -139,6 +140,13 @@ nav:
   - Blog:
     - Blog: blog/blog-home.md
   - About: colophon/colophon.md
+
+validation:
+  nav:
+    omitted_files: ignore
+  links: 
+    absolute_links: ignore
+
 
 
 not_in_nav: |

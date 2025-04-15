@@ -9,55 +9,33 @@ See also: [[colophon]]
 
 Time for this site to evolve for [reasons explained here](https://djon.es/blog/2025/01/12/what-now/). More detail on how and what was done will appear here.
 
-## Purpose
+## Stages
 
-1. Reduce reliance on cloud services (e.g. github) and move to self-hosting, which also unifies my websites **DONE**
+1. [x] [[from-github-to-djones]]
 
-    - Memex now being published on my personal URL [https://djon.es/memex/](https://djon.es/memex/)
-    - Old github pages site redirects to the new URL
-    - See [Publish site](#publish-site) for more
+    Reduce reliance on cloud services (e.g. github) and move to self-hosting, which also unifies my websites **DONE**
 
-2. Improve usefulness of home page **Initial work DONE**
+       - ☑  Memex now being published on my personal URL [https://djon.es/memex/](https://djon.es/memex/)
+       - ☑  Old github pages site redirects to the new URL
 
-    - Move away from seek/sense/share
+3. [ ] [[improving-interface]] 
 
-3. Work on [[computational-components]]
+    Including re-do the home page
 
-    - [[wood-duck-gallery-generator]]
-    - [[plant-location-generator]]
+       - [x]  Move away from seek/sense/share
+       - Improve navigation
+          - top, left, and right
+       - Transform interface (move away from mkdocs default)
 
-4. Import content from Wordpress blog [djon.es/blog](https://djon.es/blog)
+4. [ ] Adopting [[computational-components]]
 
-    - [[convert-wordpress-into-memex]]
+    - [x] [[wood-duck-gallery-generator]]
+    - [x] [[plant-location-generator]]
 
-## New Methods
+5. [ ] [[convert-wordpress-into-memex]]
 
-### Publish site
+    Import content from Wordpress blog [djon.es/blog](https://djon.es/blog)
 
-Site publication no longer happens on github pages. Instead use `mkdocs build` to create a local site in the fixed folder `~/memex_site`. A git repo connected to [djon.es/memex/](https://djon.es/memex/).
-
-1. Pre-requisite: `~/memex_site` is a clone of ssh://djones@djon.es/home/djones/public_html/memex/
-2. Use Foam locally editing markdown files as per normal.
-3. When ready to publish updates 
-   1. Run `mkdocs build` from the `memex` report to construct HTML in `~/memex_site` and now commit the updates 
-   2. `cd ~/memex_site`
-   3. `git add -u`
-   4. `git commit -m "_Update text_"` **figure out how to add more in update text**
-   5. `git push -u origin master`
-
-### Update github published site
-
-Run `mkdocs gh-deploy --force` from the `memex` folder
-
-## Dev log
-
-Tasks 
-
-- [ ] [Fix bugs](#fix-bugs) in the markdown files - pdf bug remaining
-- [x] Changes to [design of the website](#web-design) 
-- [x] Move to [self-publishing](#self-publish) the site
-- [x] Add redirect from github pages
-- [x] move `site` directory outside memex directory
 
 ### Fix bugs
 
@@ -65,71 +43,12 @@ Tasks
 
     [Stackoverflow](https://stackoverflow.com/questions/69237778/how-to-embed-a-local-pdf-file-in-mkdocs-generated-website-on-github-pages/69276900#69276900)
 
-### Self-publish
 
-Possible approaches
-
-1. **FAIL** GitHub using [git-deploy](https://www.frontendhero.dev/tutorial/deploying-github-commits-to-ftp-server/)
-
-    Commit is only managing the markdown files, not the publishing of the site.
-
-2. **FAIL** git-ftp
-
-    Ditto, commit (locally) only doing the markdown files.
-
-3. **FAIL** mkdocs build ; Cyberduck sync
-
-    mkdocs build rebuilds the entire site, meaning that the entire site is uploaded each time.
-
-4. **SUCCESS** mkdocs build to a git repo that is synced to djon.es
-
-    - mkdocs build to a folder outside original _memex_ repo **not possible**
-    - create a git repo within _site_ folder **DONE**
-        - `git init .`
-        - `git add --all`
-        - `git commit -m "Initial commit"`
-    - Test if git is able to pick up only changes with a new _mkdocs build_
-        - Update this file
-        - `mkdocs build`
-        - `git add -u`
-        - `git commit -m "First update"`
-    - Can the repo be pushed to djon.es?
-        See ["Hosting remote git repos with cpanel"](https://cpanel.net/blog/tips-and-tricks/hosting-remote-git-repositories-with-cpanel/) with the process 
-        1. Create & upload ssh keys to djon.es
-
-### Web design
-
-Home page changes
-
-- [ ] Replace the current seek/sense/share structure as home page
-- [ ] Update navigation
-
-    - How to keep on-page navigation whilst remove top frame?
-    - Ponder [awesome-nav](https://lukasgeiter.github.io/mkdocs-awesome-nav/)
-- [ ] Add "Recent changes" section - updated from git commits
-
-        Use git commit logs
-
-Look to support my own sense-making/record keeping and to help keep family informed. Secondary purpose provide information that others may find useful.
-
-Personal sense making tasks
-
-- View current tasks, including a daily summary?
-
-    - Wood duck meadows
-      - Birding
-      - Regeneration
-      - Plants
-    - Travel
-
-- View previous tasks
-
-    - Academia
-    - High school teaching
-    - Software development
 
 [//begin]: # "Autogenerated link references for markdown compatibility"
 [colophon]: colophon "About (Colophon)"
+[from-github-to-djones]: from-github-to-djones "Moving Memex from GitHub to djon.es"
+[improving-interface]: improving-interface "Improving memex's interface"
 [computational-components]: computational-components "Computational components"
 [wood-duck-gallery-generator]: wood-duck-gallery-generator "Wood duck meadows gallery generator"
 [plant-location-generator]: plant-location-generator "Plant location generator"
