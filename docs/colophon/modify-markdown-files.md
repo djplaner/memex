@@ -47,13 +47,16 @@ Get basic Markdown files for pages
 
 ### Misc other
 
-- [ ] Handle category pages
+- [ ] Blog posts that have been saved in folders named after post id
+    - 4668
+- [ ] Handle category pages (blog.py)
 
     Category pages provide an index to all posts/pages in the category
+    - initial dummys implemented, still to be completed
 
-- [ ] Handle tag pages
+- [ ] Handle tag pages (blog.py)
 
-- [ ] Handle archive pages (months, years)
+- [ ] Handle archive pages (months, years) (blog.py)
 
 ### What's missing in display
 
@@ -176,6 +179,23 @@ Interface
 - Don't add index.md if there's a ?, publications includes
     ?attachment_id=502 and ?page_id=503
 - publications/index.md is breaking link to student-feedback-anonymity-observable-change-and-course-barometers/index.md
+
+
+
+### Comments
+
+INFO    -  Doc file 'blog/2010/05/25/understanding-what-teachers-do-first-step-in-improving-lt/index.md' contains a link
+           '../../09/requirements-for-an-indicators-moodle-block/index.md#comment-3164', but the doc
+           'blog/2010/05/09/requirements-for-an-indicators-moodle-block/index.md' does not contain an anchor '#comment-3164'.
+
+
+
+
+### Attachements
+
+### PDFs
+
+
 
 
 

@@ -94,7 +94,7 @@ plugins:
         - util/generators/woodDuck.py ## wood duck meadows generator
         - util/generators/lifeList.py ## updating eBird life list
         - util/generators/plantLocation.py ## generating javascript for plant locations
-        - util/generators/category.py ## TODO show list of posts in a category 
+        - util/generators/blog.py ## TODO generate dynamically generated blogs
   - macros:
   - literate-nav:
       nav_file: NAV.md

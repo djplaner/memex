@@ -51,6 +51,18 @@ OLD_LINKS = [
         "pattern": r"\(/memex/blog/research/the-moodle-open-book-module-project/\)",  
         "replace": r"(/memex/blog/the-moodle-open-book-module-project/)"
     },
+    {
+        "pattern": r"\(/memex/blog/elearning-and-innovation/\)",
+        "replace": r"(/memex/blog/2009/08/20/elearning-and-innovation-specialist-report-1-4-20-august)/"
+    },
+    {
+        "pattern" :r"\(/memex/blog/\)",
+        "replace": r"(/memex/blog/blog-home.md)"
+    },
+    {
+        "pattern": r"\(/memex/blog/category/bim/bim2\)",
+        "replace": r"(/memex/blog/category/bim2)"
+    }
 #    { . djon.es/blog links should already be converted
 #        "pattern": r"\(https://djon.es/blog/([^/]+)/\)",
 #        "replace": r"(/memex/blog/\1/index.md)"
@@ -202,6 +214,10 @@ def transformAbsoluteMemexLinks(content, memexPath):
                 memexRelPath = os.path.relpath(newLink, start=memexPath)
                 print(f"##    -- CATEGORY {memexPath}\n#### Replacing Link: \n## {newLink}\n## {memexRelPath}.md")
                 content = content.replace(f"({newLink})", f"({memexRelPath}.md)")
+            elif newLink.endswith(".md"):
+                memexRelPath = os.path.relpath(newLink, start=memexPath)
+                print(f"##    -- CATEGORY {memexPath}\n#### Replacing Link: \n## {newLink}\n## {memexRelPath}.md")
+                content = content.replace(f"({newLink})", f"({memexRelPath})")
             else:
                 #-- add index.md to the end of the link
                 print(f"##    -- {memexPath}\n#### Replacing Link: \n## {newLink}\n## {memexRelPath}/index.md")
@@ -321,7 +337,6 @@ def updatePosts(xml):
         if postXmlData is None:
             print(f"Error: No matching post found for {title} in XML...skipping")
             continue
-
 
         print("--" * 40)
         print(f"Title: {postXmlData['title']} type {postXmlData['post_type']} status {postXmlData['status']}")
@@ -463,7 +478,7 @@ def writePostsIndex(posts):
             name = post.split("/")[-2]
             #-- remove any leading / from page
             post = post.lstrip("/")
-            f.write(f"- [{name}]({post})\n")
+            f.write(f"- [{name}]({post}index.md)\n")
 
 def writePagesIndex(pages):
     """
@@ -583,6 +598,8 @@ def findXmlPost( xml, title, postDate, type="post"):
     type - the post type to find (page, post, attachment)
     """
 
+    #-- remove any \" from the title"
+    title = title.replace('\\\"', '\"')
     foundPosts = []
     #-- convert postDate to GMT from local zone
     gmtPostDate = ""
@@ -593,10 +610,13 @@ def findXmlPost( xml, title, postDate, type="post"):
     for post in xml["posts"]:
         if post['status'] != "publish":
             continue
-        if post['post_type'] == type and post['title'] == title:
-#            print(f"FOUND Title: {title} Post Title: {post['title']} XML Post date: {post['post_date']} gmtPostDate: {gmtPostDate}")
-            if post['post_date'] == gmtPostDate:
-                foundPosts.append(post)
+#        print(f"Title: {post['title']} type {post['post_type']} status {post['status']}")
+        if post['title'] == title:
+            print(f">>> FOUND Title: {title} Post Title: {post['title']} XML Post date: {post['post_date']} gmtPostDate: {gmtPostDate}")
+            if post['post_type'] == type:
+                print(f">>> FOUND Title: {title} Post Title: {post['title']} XML Post date: {post['post_date']} gmtPostDate: {gmtPostDate}")
+                if post['post_date'] == gmtPostDate:
+                    foundPosts.append(post)
 
     if len(foundPosts) == 0:
         return None
@@ -644,6 +664,20 @@ if __name__ == "__main__":
 
 
     wordpressXml = parse(WORDPRESS_EXPORT_FILE)
+
+#    for post in wordpressXml["posts"]:
+#        if post['title']=="Getting started with the blog":
+#            pprint(post)
+    
+
+#    quit()
+#    categoryNames = ""
+#    for category in wordpressXml["categories"]:
+#        categoryNames += f'"{category['name']}", '
+#        #print(f"Category: {category}")
+#
+#    print(categoryNames)
+#    quit()
 #    showPosts(wordpressXml)
 
 #    showPosts(wordpressXml)
@@ -651,7 +685,7 @@ if __name__ == "__main__":
     # TODO uncomment this
     updatePages(wordpressXml)
 
-#    updatePosts(wordpressXml)
+    updatePosts(wordpressXml)
 
-    reportOutcomes()
+#    reportOutcomes()
 

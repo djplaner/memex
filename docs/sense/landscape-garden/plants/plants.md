@@ -21,6 +21,7 @@ The following provides a summary of the plants we've removed, planted, or cared 
 
 - [[bunya-pine]]
 - [[ficus-obliqua]] (aka small-leaved fig)
+- [[ficus-macrophylla]] (aka Moreton Bay fig)hylaa
 - [[harpullia-pendula]] (aka Moreton Bay Tulipwood)
 - [[unknown-ficus]]
 - [[corymbia-torelliana]] (aka Cadaghi) which is native to North Queensland but considered an [environmental pest](https://weeds.brisbane.qld.gov.au/weeds/cadaghi) in South East Queensland.
@@ -96,6 +97,7 @@ The following provides a summary of the plants we've removed, planted, or cared 
 [individual-plants]: ../individual-plants/individual-plants "Individual plants"
 [bunya-pine]: bunya-pine "Bunya Pine"
 [ficus-obliqua]: ficus-obliqua "Ficus obliqua (Small-leaved fig)"
+[ficus-macrophylla]: ficus-macrophylla "Ficus macrophylla (Moreton Bay fig)"
 [harpullia-pendula]: harpullia-pendula "Harpullia Pendula (Moreton Bay Tulipwood)"
 [unknown-ficus]: ../individual-plants/unknown-ficus "Unknown ficus"
 [corymbia-torelliana]: corymbia-torelliana "Corymbia Torelliana (Cadaghi)""
@@ -108,7 +110,7 @@ The following provides a summary of the plants we've removed, planted, or cared 
 [rubus-probus]: rubus-probus "Rubus probus (Atherton raspberry)"
 [wombat-berry]: wombat-berry "Wombat Berry"
 [bidens-pilosa]: bidens-pilosa "Bidens pilosa (Cobbler's Pegs)"
-[coral-berry]: coral-berry "Coral Berry"
+[coral-berry]: coral-berry "Coral Berry (Symphoricarpos orbiculatus)"
 [heliotropium-amplexicaule]: heliotropium-amplexicaule "Heliotropium amplexicaule (Clasping heliotrope)"
 [macroptilium-lathyroides]: macroptilium-lathyroides "Macroptilium lathyroides (Phasey Bean)"
 [manihot-grahamii]: manihot-grahamii "Manihot Grahamii (Graham's Manihot)"
@@ -118,8 +120,8 @@ The following provides a summary of the plants we've removed, planted, or cared 
 [arundo-donax]: arundo-donax "Arundo donax (Elephant Grass)"
 [megathyrsus-maximus]: megathyrsus-maximus "Megathyrsus maximus (Guinea grass)"
 [asparagus-africanus]: asparagus-africanus "Asparagus africanus (Climbing asparagus fern)"
-[cats-claw-creeper]: cats-claw-creeper "Cats claw creeper"
-[madeira-vine]: madeira-vine "Madeira vine"
+[cats-claw-creeper]: cats-claw-creeper "Cat's claw creeper (Dolichandra unguis-cati)"
+[madeira-vine]: madeira-vine "Madeira vine (Anredera cordifolia)"
 [passiflora-suberosa]: passiflora-suberosa "Passiflora suberosa (Corky passion vine)"
 [passiflora-subpeltata]: passiflora-subpeltata "Passiflora subpeltata (White passionflower)"
 [schinus-terebinthifolia]: schinus-terebinthifolia "Schinus Terebinthifolia (Brazilian pepper tree)"
