@@ -15,13 +15,19 @@ Done using Python and [`wpparse`](https://github.com/marteinn/wpparser) to provi
 
 Immediate
 
-- [x] Handling links with internal anchors
-    - about-2/index.md includes some e.g. breaking-bad
-    - need to detect any links that include the # and add the index.md before that
-        This will get some of them to work.
-- [x] Don't add "index.md" to category links
-    /memex/blog/category/.*
-- Problems with posts
+- [ ] post details
+  - [ ] test category being added to template
+  - [ ] tags??
+- [ ] Comments 
+  - [ ] Add comments to metadata
+  - [ ] update template to include comments with link ids
+- [ ] Generate RSS
+- [ ] Archives
+    - [ ] Add to navigation column list of months/years
+    - [ ] Generate content for each month/year
+- [ ] Category
+    Doc file 'blog/2012/03/30/bim2-status-check-and-whats-next/index.md' contains a link '../../../../category/bim/bim2.md',
+           but the target 'blog/category/bim/bim2.md' is not found among documentation files.
 
 ### Pages working
 
@@ -183,11 +189,6 @@ Interface
 
 
 ### Comments
-
-INFO    -  Doc file 'blog/2010/05/25/understanding-what-teachers-do-first-step-in-improving-lt/index.md' contains a link
-           '../../09/requirements-for-an-indicators-moodle-block/index.md#comment-3164', but the doc
-           'blog/2010/05/09/requirements-for-an-indicators-moodle-block/index.md' does not contain an anchor '#comment-3164'.
-
 
 
 

@@ -33,7 +33,10 @@ def generateCategoryPage(categoryName, categoryPages):
     """
     """
 
+
+    #with mkdocs_gen_files.open(f"blog/category/{categoryName}.md", "w") as f:
     with mkdocs_gen_files.open(f"blog/category/{categoryName}.md", "w") as f:
+        print(f"#### Generating category page for {categoryName} at blog/category/{categoryName}.md")
         f.write(f"""---
 title: Items for category {categoryName}
 type: blog_category
@@ -46,13 +49,14 @@ See also: [[blog-home]], [[posts]], [[pages]]
 - [[blog-home]]
 - [[pkm]]
 """)
+    mkdocs_gen_files.set_edit_path( f"blog/category/{categoryName}.md", "blog.py")
 
 def generateCategories(categories={}):
     """
     Generate all categories
     """
 
-    categoryNames = [ "#dlrn15", "4paths", "5rs", "academicdevelopment", "addie", "alignment", "anu", "ascilite", "asciliteMentor", "bad", "bam", "bambimbad", "bim", "bim2", "bimErrors", "blackboardIndicators", "bricolage", "c2d2", "casa", "cck09", "Chapter 1", "Chapter 2", "Chapter 3", "Chapter 4", "Chapter 5", "coding", "cognitiveEdge", "colophon", "complexityLeadership", "computationalThinking", "concretelounge", "concretelounges", "connectedcourses", "courseSites", "cquLearningHistory", "curriculumDesign", "curriculumMapping", "dejavu", "design theory", "development", "digitalIgnorance", "distributedcognition", "dlrn", "dLRN15", "dojo", "e-learning", "eating", "edc3100", "eded20455", "eded20456", "eded20458", "eded20487", "eded20488", "EDED20491", "edm8006", "eds4406", "edu8117", "edu8719", "eei", "eep", "elearning", "emd", "enterprise 2.0", "etmooc", "evaluation", "exploring", "fad", "FedWiki", "foult", "futures", "games", "herding cats", "highereducation", "ict", "iLecture", "indicators", "information systems", "innovation", "intuitionFail", "ipt", "irac", "journey", "lak11", "learningAnalytics", "literacies", "lmsEvaluation", "lmsreview", "lxdesign", "math", "mathematics", "mav", "memex", "missingPs", "moneyburner", "moodle", "moodleopenbook", "music", "narrative", "netgl", "ngl", "nvivo", "oasis", "oasm", "ocw", "oep", "oer", "open", "openbook", "opencase", "Outcomes And Analytics", "paperIdeas", "paris2008", "patterns", "phd", "photography", "pirac", "pkm", "plagiarism", "ple", "ples@CQUni", "plos", "presentations", "protean", "PsFramework", "pstn", "publication", "publications", "qilters", "quotes", "react", "react2008", "Reading", "redesign", "reflectivealignment", "research", "sdo", "secondLife", "set", "shadowsystems", "site2016", "tam", "teachered", "teaching", "theory", "thesis", "to read", "tools", "tpack", "twitter", "Uncategorized", "uxdesign", "visitor", "voiceThreadResearchPosters", "votapedia", "WCYDWT", "web 2.0 course sites", "web3dx", "webfuse", "WebfuseReflectionsImplications", "website"]
+    categoryNames = [ "#dlrn15", "4paths", "5rs", "academicdevelopment", "addie", "alignment", "anu", "ascilite", "asciliteMentor", "bad", "bam", "bambimbad", "bim", "bim2", "bimErrors", "blackboardIndicators", "bricolage", "c2d2", "casa", "cck09", "Chapter 1", "Chapter 2", "Chapter 3", "Chapter 4", "Chapter 5", "coding", "cognitiveEdge", "colophon", "complexityLeadership", "computationalThinking", "concretelounge", "concretelounges", "connectedcourses", "courseSites", "cquLearningHistory", "curriculumDesign", "curriculumMapping", "dejavu", "design theory", "development", "digitalIgnorance", "distributedcognition", "dlrn", "design-theory", "dLRN15", "dojo", "e-learning", "eating", "edc3100", "eded20455", "eded20456", "eded20458", "eded20487", "eded20488", "EDED20491", "edm8006", "eds4406", "edu8117", "edu8719", "eei", "eep", "elearning", "emd", "enterprise 2.0", "etmooc", "evaluation", "exploring", "fad", "FedWiki", "foult", "futures", "games", "herding cats", "highereducation", "ict", "iLecture", "indicators", "information systems", "innovation", "intuitionFail", "ipt", "irac", "journey", "lak11", "learningAnalytics", "literacies", "lmsEvaluation", "lmsreview", "lxdesign", "math", "mathematics", "mav", "memex", "missingPs", "moneyburner", "moodle", "moodleopenbook", "music", "narrative", "netgl", "ngl", "nvivo", "oasis", "oasm", "ocw", "oep", "oer", "open", "openbook", "opencase", "Outcomes And Analytics", "paperIdeas", "paris2008", "patterns", "phd", "photography", "pirac", "pkm", "plagiarism", "ple", "ples@CQUni", "plos", "presentations", "protean", "PsFramework", "pstn", "publication", "publications", "qilters", "quotes", "react", "react2008", "Reading", "redesign", "reflectivealignment", "research", "sdo", "secondLife", "set", "shadowsystems", "site2016", "tam", "teachered", "teaching", "theory", "thesis", "to read", "tools", "tpack", "twitter", "Uncategorized", "uxdesign", "visitor", "voiceThreadResearchPosters", "votapedia", "WCYDWT", "web 2.0 course sites", "web3dx", "webfuse", "WebfuseReflectionsImplications", "website"]
 
     for name in categoryNames:
         generateCategoryPage(name, [ ] )

@@ -18,6 +18,7 @@ import os
 import shutil
 import glob
 import markdown
+import frontmatter
 import re
 import urllib.request
 from datetime import datetime
@@ -81,15 +82,16 @@ CURRENT_BLOG_URL = "https://djon.es/blog"
 MEMEX_BLOG_URL = "/memex/blog"
 
 
-def readBlogMarkdown(markdownFile):
-    """
+#def readBlogMarkdown(markdownFile):
+"""
     Return the markdown content and frontmatter content for a markdown file given by full path
 
     returns a dict containing the following keys
     - content - the markdown content (minus YAML front matter)
     - yaml - the YAML front matter (as a dict)
-    """
+"""
 
+"""    
     md = markdown.Markdown(extensions=['meta'])
     pageData = {}
     with open(markdownFile, encoding="utf-8-sig") as f:
@@ -112,6 +114,23 @@ def readBlogMarkdown(markdownFile):
         return pageData
 
     return None
+"""
+
+def readBlogMarkdown(markdownFile):
+    pageData = {}
+    with open(markdownFile, encoding="utf-8-sig") as f:
+        post = frontmatter.load(f)
+
+    pageData['content'] = post.content
+    pageData['yaml'] = post.metadata
+
+    return pageData
+#    print("------------ post")
+#    print(post)
+#    print("--- metadata")
+#    for key in post.keys():
+#        print(f"{key}: {post[key]}")
+#    quit()
 
 
 def isBrokenLink(link):
@@ -332,6 +351,10 @@ def updatePosts(xml):
         postDate = ""
         if 'date' in postData['yaml']:
             postDate = postData['yaml']['date']
+            #-- convert postDate datetime.datetime to string
+            postDate = postData['yaml']['date'].strftime("%Y-%m-%dT%H:%M:%S.%f%z")
+#        print(f"postDate {postDate} type {type(postDate)}")
+#        quit()
         #- find the post in the XML
         postXmlData = findXmlPost( xml, title, postDate )
         if postXmlData is None:
@@ -541,6 +564,13 @@ def writeMemexIndex( memexPath, pageData, pageXmlData ):
         - See also links
     """
 
+#    print("--------- pageXmlData")
+#    pprint(pageXmlData)
+#    print("--------- pageData")
+#    pprint(pageData)
+    #quit()
+    print(f"\nWriting index.md for {pageXmlData['title']} to {memexPath}/index.md")
+
     with open(f"{memexPath}/index.md", "w", encoding="utf-8") as f:
         #-- write the frontmatter
         f.write("---\n")
@@ -550,19 +580,31 @@ def writeMemexIndex( memexPath, pageData, pageXmlData ):
             if key == "title" and ( ":" in pageData['yaml'][key] or "#" in pageData['yaml'][key]):
                 pageData['yaml'][key] = f'"{pageData['yaml'][key]}"';
             f.write(f"{key}: {pageData['yaml'][key]}\n")
+#            print(f"Writing {key}: {pageData['yaml'][key]}")
         #-- add in memex frontmatter
         f.write(f"type: {pageXmlData['post_type']}\n")
         f.write(f"template: blog-post.html\n")
+#        if "categories" in pageXmlData and len(pageXmlData['categories']) > 0:
+#            pprint(pageXmlData['categories'])
+#            quit()
+#            f.write(f"categories: [")
+#            for category in pageXmlData['categories']:
+#                f.write(f"{category}, ")
+#            f.write("]\n")
+        #-- need to add categories
         f.write("---\n")
         #----------- add in some additional pre-amble
         # add metadata for the post (date, tags, etc)
-        metaData = generateMetaDataMarkdown(pageXmlData)
-        f.write(f"\n{metaData}\n")
+#        metaData = generateMetaDataMarkdown(pageXmlData)
+#        f.write(f"\n{metaData}\n")
 
         #- see also links
         f.write(f"\nSee also: [[blog-home]]\n")
         #-- write the content
         f.write(pageData['content'])
+
+#    if len(pageData['yaml']['categories']) > 1:
+#        quit()
 
 def generateMetaDataMarkdown(pageXmlData):
     """
@@ -575,7 +617,10 @@ def generateMetaDataMarkdown(pageXmlData):
     postDateMd = f"**Post date:** {dateObject.strftime("%A, %B %d, %Y %I:%M %p")}\n"
     categoryMd = ""
     if 'categories' in pageXmlData and len(pageXmlData['categories']) > 0:
-        categoryMd = f"    <br />**Categories:** {', '.join( str(x) for x in pageXmlData['categories'])}"
+        categoryString = ""
+        for category in pageXmlData['categories']:
+            categoryString += f"[{category['name']}]({MEMEX_BLOG_URL}/category/{category['name']}.md) "
+        categoryMd = f"    \n**Categories:** {categoryString} \n"
     ## create string tags by joining with commas
     tagMd = ""
     if 'tags' in pageXmlData and len(pageXmlData['tags']) > 0:
@@ -683,7 +728,7 @@ if __name__ == "__main__":
 #    showPosts(wordpressXml)
 
     # TODO uncomment this
-    updatePages(wordpressXml)
+#    updatePages(wordpressXml)
 
     updatePosts(wordpressXml)
 
