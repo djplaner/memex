@@ -11,7 +11,7 @@ import re
 import glob
 import mkdocs_gen_files
 import logging
-# import frontmatter
+import frontmatter
 import markdown
 from bs4 import BeautifulSoup
 from pprint import pprint
@@ -170,6 +170,12 @@ def retrievePlantsPages(plantsFolder=PLANTS_FOLDER):
             figures = extractFigures(pageData['html'], True)
         elif plantsFolder == INDIVIDUAL_PLANTS_FOLDER:
             figures = extractFigures(pageData['html'], False, True)
+        print(f"--- plant file {file}")
+        if "title" not in pageData['yaml']:
+            pprint(pageData['yaml'], indent=4)
+            print(f"--- no title in {file}")
+            raise Exception(
+                f"--- no title in {file} - check the front matter for the title")
         pages.append(
             {
                 "title": pageData['yaml']['title'], "path": path,
@@ -243,8 +249,20 @@ def extractFigures(html, PLANTS=False, INDIVIDUAL_PLANTS=False):
 
     return figures
 
-
 def extractFileContent(path):
+    md = markdown.Markdown(extensions=['meta'])
+    pageData = {}
+    print(f"XXXXXX Extracting file content {path}")
+    with open(path, encoding="utf-8-sig") as f:
+        post = frontmatter.load(f)
+
+    pageData['content'] = post.content
+    pageData['yaml'] = post.metadata
+    pageData['html'] = md.convert(pageData['content'])
+
+    return pageData
+
+def extractXXFileContent(path):
     """
     Given full path to DOCS_FOLDER for a markdown file, extract the file content and return it as a hash
     {
@@ -253,7 +271,6 @@ def extractFileContent(path):
         "html": "content of file converted to HTML
     }
     """
-
     md = markdown.Markdown(extensions=['meta'])
     pageData = {}
     with open(path, encoding="utf-8-sig") as f:

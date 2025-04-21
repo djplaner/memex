@@ -9,7 +9,7 @@
    {% set myDate = page.meta.date %}
    {% set year = "{}".format(myDate).split("-")[0] | int %}
    {% if year < 2025 %}
-    <p><strong><span style="color:yellow">⚠</span></strong> old Wordpress post ({{ year }}) may have broken links, embeds, etc.</p>
+    <p><strong><span style="color:yellow">⚠</span></strong> old Wordpress post ({{ year }}) may have broken links, embeds, and <a href="/memex/colophon/wordpress-to-markdown.html">other limitations</a></p>
     {% endif %}
   </div>
 </aside>
@@ -23,6 +23,51 @@
       {% include "partials/post-content.html" %}
     {% endblock %}
   </article>
+  {% if page.meta.comments %}
+  <style>
+    .comments-container {
+      margin-top: 1em;
+      margin-bottom: 1em;
+      padding: 1em;
+      background-color: var(--md-admonition-bg-color);
+      color: var(--md-admonition-fg-color);
+      font-size: 0.8rem;
+    }
+    .comments-container ul {
+      list-style-type: none;
+      padding: 0;
+    }
+    .comments-container li {
+      margin-bottom: 1em;
+      padding: 0.5em;
+      line-height: 1.5;
+    }
+  </style>
+  <div class="comments-container">
+    <h3>{{ page.meta.comments|length }} Comment{% if page.meta.comments|length > 1 %}s{% endif %}</h3>
+
+    <ul>
+      {% for comment in page.meta.comments %}
+        <li>
+          <p><strong>{{ comment.author }}</strong> on {{ comment.date }}</p>
+          <div class="comment-content">
+            {{ comment.content | replace("\n", "<br />") }}
+          </div>
+        </li>
+      {% endfor %}
+  </div>
+  {% endif %}
+  {% if page.meta.pingbacks %}
+  <div class="comments-container">
+    <h3>{{ page.meta.pingbacks|length }} Pingbacks</h3>
+
+    <ul>
+      {% for pingback in page.meta.pingbacks %}
+        <li>
+          <p><a href="{{ pingback.url }}">{{ pingback.author }}</a> on {{ pingback.date }}</p>
+        </li>
+      {% endfor %}
+  {% endif %}
 </div>
 
 

@@ -33,17 +33,14 @@ The dam is seasonal and fed largely by road runoff. At times it can be dry for e
 <caption>Panorama of the dam from March 2025. The neighbour's place is on the far left with the house on the right</caption>
 </figure>
 
-However, there is a limit. The dam bank has an overflow section designed into it.
+However, there is a limit. The dam bank has an overflow section designed into it. A section put to good use due to the heavy rain of early 2025.
 
 <figure markdown>
 ![Water slowly flowing out of the dam as designed](./images/dam-overflow.jpeg)
 <caption>The dam's overflow working as designed</caption>
 </figure>
 
-
-
-
-## History
+## Clearing
 
 Most of the work around the dam has been clearing out various weeds in an attempt to give the native vegetation a chance.
 
@@ -51,6 +48,15 @@ Most of the work around the dam has been clearing out various weeds in an attemp
 ![Before and after example of removing some climbing asparagus and green panic from the dam bank. ](./images/before-after-dam-asparagus.jpg)
 <caption>Before and after example of removing some [[asparagus-africanus]] and [[megathyrsus-maximus]] from the dam bank</caption>
 </figure>
+
+All the rain of 2025 combined with early clearing work created a nice spot for the ducks to graze and hang out during the day.
+
+<figure markdown>
+![30+ Plumed Whistling ducks grazing on cleared dam bank](./images/grazing-ducks.jpeg)
+<caption>Collection of Plumed Whistling Ducks grazing on the cleared area shown above</caption>
+</figure>
+
+## History
 
 | Date | Work |
 | --- | --- |

@@ -17,7 +17,8 @@ Work to be done
 import os
 import shutil
 import glob
-import markdown
+#import markdown
+import yaml
 import frontmatter
 import re
 import urllib.request
@@ -440,6 +441,8 @@ def updatePages(xml):
         postDate = ""
         if 'date' in pageData['yaml']:
             postDate = pageData['yaml']['date']
+            # convert postDate from datetime:datetime to string
+            postDate = pageData['yaml']['date'].strftime("%Y-%m-%dT%H:%M:%S.%f%z")
         #- find the post in the XML
         pageXmlData = findXmlPost( xml, title, postDate, "page" )
         #pprint(pageXmlData)
@@ -551,6 +554,51 @@ def updateMemexFolder(sourcePath : str, destinationPath : str):
         #-- copy the images folder contents
         shutil.copytree(f"{sourcePath}/images", f"{destinationPath}/images", dirs_exist_ok=True)
 
+def generateCommentsString(xmlComments):
+    """
+    Turn an array of comment data structures from Wordpress into YAML frontmatter
+    that can be inserted into the post/page markdown file
+
+    Comments and pingbacks are split
+
+    comments:
+        - author: <author>
+          author_url: <url>
+          content: <content>
+          date: <date>
+    pingbacks:
+        - author: <author>
+          author_url: <url>
+        - author: <author>
+          author_url
+        
+
+    Params:
+    - comments: array of comment data structures from Wordpress
+    Returns:
+    - commentsString: str  The YAML string to display the comments/pingbacks
+    """
+
+    #-- separate the comments and pingbacks
+    comments = []
+    pingbacks = []
+    for comment in xmlComments:
+        if comment['approved']=="0":
+            continue
+        if comment['type'] == "pingback":
+            pingbacks.append(comment)
+        else:
+            comments.append(comment)
+
+    commentString = yaml.dump(comments)
+    # TODO need to add <br />
+    # indent comment string by 4 spaces
+    commentString = re.sub(r"^", "    ", commentString, flags=re.MULTILINE)
+    pingbackString = yaml.dump(pingbacks)
+    pingbackString = re.sub(r"^", "    ", pingbackString, flags=re.MULTILINE)
+
+    return f"comments:\n{commentString}\npingbacks:\n{pingbackString}\n"
+
 def writeMemexIndex( memexPath, pageData, pageXmlData ):
     """
     Write the index.md file for a given page/post in the appropriate folder
@@ -584,6 +632,13 @@ def writeMemexIndex( memexPath, pageData, pageXmlData ):
         #-- add in memex frontmatter
         f.write(f"type: {pageXmlData['post_type']}\n")
         f.write(f"template: blog-post.html\n")
+
+        #-- write comments
+        if len(pageXmlData['comments'])>0:
+            pprint(pageXmlData['comments'])
+            commentString = generateCommentsString(pageXmlData['comments'])
+            print(commentString)
+            f.write(commentString)
 #        if "categories" in pageXmlData and len(pageXmlData['categories']) > 0:
 #            pprint(pageXmlData['categories'])
 #            quit()
@@ -728,9 +783,9 @@ if __name__ == "__main__":
 #    showPosts(wordpressXml)
 
     # TODO uncomment this
-#    updatePages(wordpressXml)
+    updatePages(wordpressXml)
 
-    updatePosts(wordpressXml)
+#    updatePosts(wordpressXml)
 
 #    reportOutcomes()
 

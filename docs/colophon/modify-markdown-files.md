@@ -16,10 +16,18 @@ Done using Python and [`wpparse`](https://github.com/marteinn/wpparser) to provi
 Immediate
 
 - [ ] post details
-  - [ ] test category being added to template
+  - [x] test category being added to template
   - [ ] tags??
 - [ ] Comments 
   - [ ] Add comments to metadata
+    - writeMeta use XML to check for comments
+       https://djon.es/blog/research/bam-blog-aggregation-management/ as example
+       18 comments, 78 pingbacks
+        - comment types: pingback
+        - approved - integer 1 true, 0 false
+        - pingback may contain link to davidtjones.wordpress.com etc
+            Maybe leave those in, what about djon.es?
+    - add to frontmatter
   - [ ] update template to include comments with link ids
 - [ ] Generate RSS
 - [ ] Archives

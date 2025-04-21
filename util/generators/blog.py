@@ -36,7 +36,7 @@ def generateCategoryPage(categoryName, categoryPages):
 
     #with mkdocs_gen_files.open(f"blog/category/{categoryName}.md", "w") as f:
     with mkdocs_gen_files.open(f"blog/category/{categoryName}.md", "w") as f:
-        print(f"#### Generating category page for {categoryName} at blog/category/{categoryName}.md")
+        #print(f"#### Generating category page for {categoryName} at blog/category/{categoryName}.md")
         f.write(f"""---
 title: Items for category {categoryName}
 type: blog_category
