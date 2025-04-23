@@ -42,6 +42,27 @@
       padding: 0.5em;
       line-height: 1.5;
     }
+    .comments-container a {
+      color: var(--md-typeset-a-color);
+      text-decoration: none;
+    }
+    .pingbacks-container {
+      margin-top: 1em;
+      margin-bottom: 1em;
+      padding: 1em;
+      background-color: var(--md-admonition-bg-color);
+      color: var(--md-admonition-fg-color);
+      font-size: 0.8rem;
+    }
+    .pingbacks-container a {
+      color: var(--md-typeset-a-color);
+      text-decoration: none;
+    }
+    .pingbacks-container li {
+      margin-bottom: 0.5em;
+      padding: 0.5em;
+      line-height: 1.5;
+    }
   </style>
   <div class="comments-container">
     <h3>{{ page.meta.comments|length }} Comment{% if page.meta.comments|length > 1 %}s{% endif %}</h3>
@@ -49,7 +70,13 @@
     <ul>
       {% for comment in page.meta.comments %}
         <li>
-          <p><strong>{{ comment.author }}</strong> on {{ comment.date }}</p>
+          <p><strong>
+            {% if comment.author.url %}
+              <a href="{{ comment.author_url }}">{{ comment.author }}</a>
+            {% else %}
+              {{ comment.author }}
+            {% endif %}
+          </strong> 📅 {{ comment.date }}</p>
           <div class="comment-content">
             {{ comment.content | replace("\n", "<br />") }}
           </div>
@@ -58,13 +85,14 @@
   </div>
   {% endif %}
   {% if page.meta.pingbacks %}
-  <div class="comments-container">
+  <div class="pingbacks-container">
     <h3>{{ page.meta.pingbacks|length }} Pingbacks</h3>
 
     <ul>
       {% for pingback in page.meta.pingbacks %}
         <li>
-          <p><a href="{{ pingback.url }}">{{ pingback.author }}</a> on {{ pingback.date }}</p>
+          <p><a href="{{ pingback.author_url }}">
+            {{ pingback.author }}</a> 📅 {{ pingback.date }} </p>
         </li>
       {% endfor %}
   {% endif %}

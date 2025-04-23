@@ -252,7 +252,6 @@ def extractFigures(html, PLANTS=False, INDIVIDUAL_PLANTS=False):
 def extractFileContent(path):
     md = markdown.Markdown(extensions=['meta'])
     pageData = {}
-    print(f"XXXXXX Extracting file content {path}")
     with open(path, encoding="utf-8-sig") as f:
         post = frontmatter.load(f)
 

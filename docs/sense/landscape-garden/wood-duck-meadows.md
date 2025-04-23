@@ -69,6 +69,7 @@ List of projects/tools to help with various forms of measurement of what we're d
 - [BioCollect](https://www.ala.org.au/biocollect/) from the [Atlas of Living Australia](https://www.ala.org.au/) or related [iNaturalist Australia](https://inaturalist.ala.org.au/)
 - Qld government
     - [Regrowth benefits interactive map](https://www.qld.gov.au/environment/plants-animals/habitats/regrowth/regrowth-mapping) - part of a re-growing native forest site, including [regrowth management guides](https://www.qld.gov.au/environment/plants-animals/habitats/regrowth/regrowth-guides)
+    - [Rainforests: Regrowth benefits - management guidelines](https://www.qld.gov.au/__data/assets/pdf_file/0035/68588/rainforest-management-guideline.pdf)
 
 - [Lockyer Upland Catchements Inc](https://www.lockyeruplandscatchmentsinc.org.au/)
 
@@ -102,8 +103,8 @@ List of projects/tools to help with various forms of measurement of what we're d
 [individual-plants]: individual-plants/individual-plants "Individual plants"
 [agave]: plants/agave "Agave"
 [asparagus-africanus]: plants/asparagus-africanus "Asparagus africanus (Climbing asparagus fern)"
-[madeira-vine]: plants/madeira-vine "Madeira vine"
-[cats-claw-creeper]: plants/cats-claw-creeper "Cats claw creeper"
+[madeira-vine]: plants/madeira-vine "Madeira vine (Anredera cordifolia)"
+[cats-claw-creeper]: plants/cats-claw-creeper "Cat's claw creeper (Dolichandra unguis-cati)"
 [regeneration]: regeneration "Bush regeneration (Wood duck meadows)"
 [house]: house "House"
 [brigalow-scrub]: brigalow-scrub "Brigalow scrub"

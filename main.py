@@ -46,3 +46,11 @@ def define_env(env):
         Get the last X changes to the current git repo, convert them into formatted markdown and return.
         """
         return getRecentChanges( numChanges )
+
+    def formatStringDate( strDate : str ):
+        """
+        Given a string date in the format YYYY-MM-DD HH:MM:SS, convert it to a datetime object
+        and return it in the format 'dd MMM YYYY'
+        """
+        datetime_object = datetime.datetime.strptime(strDate, '%Y-%m-%d %H:%M:%S')
+        return datetime_object.strftime('%d %b %Y')
