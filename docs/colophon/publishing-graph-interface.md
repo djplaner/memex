@@ -32,6 +32,9 @@ Foam has a graph/map feature for notes from within VS-Code
 
 - [Cosmograph](https://cosmograph.app/#library)
 - [Foam detail on graph visualisation](https://foambubble.github.io/foam/user/features/graph-visualization.html)
+- Foam gatsby templates including graph visualisations
+  - [foam-gatsby-template](https://github.com/mathieudutour/foam-gatsby-template)
+  - [foam-gatsby-template-kb](https://github.com/hikerpig/foam-template-gatsby-kb) - quite nice
 - [mkdocs-roamlinks-plugin](https://github.com/Jackiexiao/mkdocs-roamlinks-plugin) - could help with ideas
 - [Python code](https://github.com/foambubble/foam/issues/1351#issuecomment-2206544442) that geneates are graphml file by reading all markdown files
 

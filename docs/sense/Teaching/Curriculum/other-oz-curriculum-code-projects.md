@@ -27,7 +27,7 @@ Not a lot of detail on tech - quite old
 
 [Ben Peddell](http://klightspeed.killerwolves.net/) - Catholic Education Office - developer
 
-## [[australiancurriculum]](https://github.com/jamesrcurran/australiancurriculum)
+## [australiancurriculum](https://github.com/jamesrcurran/australiancurriculum)
 
 Ruby/Jekyll project offering analysis of Australian Curriculum
 

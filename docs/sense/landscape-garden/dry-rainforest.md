@@ -33,6 +33,8 @@ See [PDF list](https://jerry-coleby-williams.net/wp-content/uploads/2014/03/dry-
 
 ## Regeneration advice
 
+### Qld government guidlines
+
 The [Rainforest regrowth management guidelines](https://www.publications.qld.gov.au/dataset/423dafdb-be26-4aba-b225-1fab3495f7bf/resource/48792874-4ef2-4ecc-814d-565460ee7969/download/rainforest-regrowth-mgmt-guideline.pdf) provide some advice. Some of which is summarised here.
 
 Regeneration from scratch is difficulty due to slow plant growth rates and that far less is known about such work.
@@ -48,10 +50,45 @@ Site preparation
 - Revegetate using maximum diversity method and direct seeding.
 - Consider supplementary planting of large-fruited tree species.
 - Establish a diversity of rainforest plant species. 
-- 
 
+### Rainforest CRC
 
+Following taken from the report ["Rainforest restoration activities in Australia's tropics and subtropics"](https://rainforest-crc.jcu.edu.au/publications/restoration_activities.pdf) from the [JCU Rainforest CRC](https://rainforest-crc.jcu.edu.au)
 
+Common attempts involve:
+
+- Weed control
+- Planting to fill gaps/increase area
+- planting to establish corridor linkages to other rainforest
+
+Identifies four pathways of restoration of Australian rainforests
+
+- ecological restoration - reinstatement of diverse native rainforest
+- farm forestry - mainly for timber production
+- (enhancement) Regrowth - both managed and unmanaged
+
+Vegetation reinstatement techniques typically involve **"planting seedlings of rainforest trees at a high density"** with the intent of quickly establishing a canopy which subsequently start generating shade and leaf litter. 1 to 2 metres between plants. High early planting density also leads to development of structural features required by fauna: high foliage volume, dead timber, leaf litter, trunk crevices, and areas of vine tangle or dense stems.
+
+From the late 1990s saw significant effort in Australia to restore bush of all descriptions. Work exhibiting "relatively little emphasis on documentation and record-keeping". Largely due to participants being "too busy".
+
+> The achievement of canopy closure is a significant threshold, which corresponds with a change in biodiversity and ecological processes towards a more rainforest-like state (Kanowski et al.  2003; Erskine et al. 2005; Catterall et al. in press)
+
+Kanowski et al (2004) and Catterall et al (in press) identify three phases of vegetation development
+
+1. _establishment phase_ - during which the canopy has not yet closed.
+2. _building phase_ - development of diverse rainforest flora and fauna and the ecological processes that support them.
+3. _maintenance phase_ - processes stablise at a level similar to an intact rainforest.
+
+### South Eastern Australia
+
+Peel, B. (2010). *Rainforest restoration manual for south-eastern Australia*. CSIRO Pub.
+
+Key findings include:
+
+> - Rainforest restoration is possible; it works rapidly and rainforest-dependent species will start to use restored sites within 3 years. 
+> - Integrated weed management is critical to your success and that weeds kill rainforest stone dead. 
+> - Adaptive management is the foundation stone of good (efficient, flexible) rainforest restoration. 
+> - Keeping roots cool (with mulch or shade) is fundamental to the establishment of rainforest species (including pioneers and secondary species).
 
 
 ## Resources

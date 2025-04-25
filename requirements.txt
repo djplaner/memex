@@ -1,0 +1,7 @@
+Markdown
+markdown-it-py
+MarkupSafe
+mkdocs-material
+mkdocs
+mkdocs-roamlinks-plugin
+mkdocs-exclude

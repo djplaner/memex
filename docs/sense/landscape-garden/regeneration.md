@@ -21,7 +21,7 @@ Still in the early days, but our approach will not be straight [[ecosystem-resto
 
 - [Eucalypt woodlands](https://www.qld.gov.au/environment/plants-animals/habitats/habitat/eucalypt-woodlands), 
 
-    The [[gatton-creek-frontage]] zone is almost a Eucalypt woodland now. Given its size, [[the-circle]] zone would be a good candidate for this habitat type. 
+    The [[gatton-creek-frontage]] zone is almost a Eucalypt woodland now. Given its size, [[the-circle]] zone might be a candidate for this habitat type. 
 
 - [Brigalow scrub](https://www.qld.gov.au/environment/plants-animals/habitats/habitat/brigalow), and 
 
@@ -29,7 +29,7 @@ Still in the early days, but our approach will not be straight [[ecosystem-resto
 
 - [dry rainforest](https://www.qld.gov.au/environment/plants-animals/habitats/habitat/dry-rainforest) and [semi-evergreen vine thickets (aka dry rainforest)](https://apps.des.qld.gov.au/regional-ecosystems/details/?re=12.8.21).
 
-    There are dry rainforest trees spread across the property, including: [[bunya-pine]], hoop pines; [[macadamia]] trees; [[harpullia-pendula]] (Tulipwoods); numerous fig trees of different species (e.g. [[unknown-ficus]]); and, some bottletrees.
+    There are dry rainforest trees spread across the property, including: [[bunya-pine]], hoop pines; [[macadamia]] trees; [[harpullia-pendula]] (Tulipwoods); numerous fig trees of different species (e.g. [[unknown-ficus]]); and, some [[brachychiton-rupestris]]].
 
 
 ## Levels of thinking
@@ -100,6 +100,7 @@ Levels of thinking about bush regeneration
 [macadamia]: plants/macadamia "Macadamia"
 [harpullia-pendula]: plants/harpullia-pendula "Harpullia Pendula (Moreton Bay Tulipwood)"
 [unknown-ficus]: individual-plants/unknown-ficus "Unknown ficus"
+[brachychiton-rupestris]: plants/brachychiton-rupestris "Brachychiton rupestris (Queensland Bottle Tree)"
 [using-sketchup]: using-sketchup "Using Sketchup"
 [ecosystem-metrics]: ecosystem-metrics "Ecosystem metrics"
 [plants]: plants/plants "Plants"

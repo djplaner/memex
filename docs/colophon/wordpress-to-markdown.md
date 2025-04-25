@@ -45,20 +45,32 @@ Process
 1. [Getting started with Foam](https://foambubble.github.io/foam/#getting-started)
 
     - [x] Create a new Github repo using the provided template
-    - [ ] Clone the repo locally
-    - [ ] Configure vscode
+    - [x] Clone the repo locally
+    - [x] Configure vscode
 
 2. Configure Material for MkDocs
 
-    - local serving
-    - publish to ...
+    - [x] Create a requirements.txt
+        - Start from [here](https://github.com/Jackiexiao/foam-mkdocs-template/blob/master/requirements.txt) and update
+    - [x] Create a [virtual environment for Python](https://packaging.python.org/en/latest/guides/installing-using-pip-and-virtual-environments/)
+    - [x] Install the modules
+    - [x] Create a mkdocs.yml file
+    - [x] Local server running
 
-3. Additional configuration
+3. Create content 
+
+    - Edit/create Markdown files in the `docs` folder.
+    - [ ] Add old blog posts and pages
+
+4. Additional configuration
 
     - Create [Foam templates](https://foambubble.github.io/foam/user/features/note-templates)
 
         - Template for blog posts, pages?
         - Using Foam variables, FILE_PATH based on dates
+
+    - Custom templates for mkdocs
+    - mkdocs generators and filters
 
 
 

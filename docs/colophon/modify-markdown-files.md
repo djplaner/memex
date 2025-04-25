@@ -204,6 +204,15 @@ Interface
 
 ### PDFs
 
+### Cover images
+
+metaData will contain `coverImage`, but the image is not downloaded (in some cases). SHould be in the relative `images` folder
+
+Two different templates 
+
+- post content
+- post excerpt
+
 
 
 

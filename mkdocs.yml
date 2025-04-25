@@ -94,7 +94,6 @@ plugins:
         - util/generators/woodDuck.py ## wood duck meadows generator
         - util/generators/lifeList.py ## updating eBird life list
         - util/generators/plantLocation.py ## generating javascript for plant locations
-        - util/generators/blog.py ## TODO generate dynamically generated blogs
   - macros:
   - literate-nav:
       nav_file: NAV.md
@@ -137,8 +136,6 @@ nav:
     - Seek: seek/seek.md
     - Sense: sense/sense.md
     - Share: share/share.md
-  - Blog:
-    - Blog: blog/blog-home.md
   - About: colophon/colophon.md
 
 validation:
