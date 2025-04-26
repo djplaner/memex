@@ -33,6 +33,25 @@ The property is located in western side of the Lockyer Valley, Queensland. In th
 
     Queensland Government part of a series providing details on SE Qld catchments. **Look more into this**
 
+Potential regional ecosystem types:
+
+- [12.9-10.15](https://apps.des.qld.gov.au/regional-ecosystems/details/?re=12.9-10.15) Semi-evergreen vine thicket with Narrow-leaved bottle trees on sedimentary rocks (part of softwood scrub) - but not a wetland.
+
+    Common trees: narrow-leaved bottle tree ([[brachychiton-rupestris]]), Crows Ash (Flindersia australis), Rosewood (Acaia fasciculifera) and small-leaved fig ([[ficus-obliqua]])
+
+    The sedimentary rocks are soft and easily weathered and form loamy to light clay soils.
+
+    Often co-occurs with RE 12.9-10.6 Brigalow (Acacia hapophylla). Softwood scrub species may also establish in some adjacent types of Eucalyptus woodland in the absence of fire.
+
+- [12.8.21 Semi-evergreen vine thicket](https://apps.des.qld.gov.au/regional-ecosystems/details/?re=12.8.21) with Brachychiton rupestris on Cainozoic igneous rocks
+
+Land types ([Lockyer Valley](https://www.hlw.org.au/resources/downloads/seq-land-types/223-land-type-booklet-lockyer-catchment/file)):
+
+- Riparian forests - Narrow strips along creeks/rivers
+- Softwood vine scrub
+
+    More on mid to upper slopes of rolling and steep hills. Hoop pine, crow's ash. Some soils are shallow dark, clay loams, but typically friable well drained loamy soils that are brown, yellowish/reddish brown
+
 ## Zones
 
 To aid discussion and planning we're slowly dividing the property into the different zones list in the following table.
@@ -108,6 +127,8 @@ List of projects/tools to help with various forms of measurement of what we're d
 [cats-claw-creeper]: plants/cats-claw-creeper "Cat's claw creeper (Dolichandra unguis-cati)"
 [regeneration]: regeneration "Bush regeneration (Wood duck meadows)"
 [house]: house "House"
+[brachychiton-rupestris]: plants/brachychiton-rupestris "Brachychiton rupestris (Queensland Bottle Tree)"
+[ficus-obliqua]: plants/ficus-obliqua "Ficus obliqua (Small-leaved fig)"
 [brigalow-scrub]: brigalow-scrub "Brigalow scrub"
 [gatton-creek-frontage]: gatton-creek-frontage "Gatton creek frontage"
 [cherry-tree-walk]: cherry-tree-walk "Cherry Tree walk"

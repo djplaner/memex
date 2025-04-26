@@ -25,6 +25,7 @@ The following provides a summary of the plants we've removed, planted, or cared 
 - [[ficus-macrophylla]] (aka Moreton Bay fig)
 - [[harpullia-pendula]] (aka Moreton Bay Tulipwood)
 - [[macadamia]]
+- [[melia-azedarach]] (aka White Cedar)
 - [[polyscias-elegans]] (aka Celery Wood)
 - [[rhodosphaera]] (aka yellowwood)
 - [[sandpaper-fig]]
@@ -41,6 +42,8 @@ The following provides a summary of the plants we've removed, planted, or cared 
 - [[rubus-probus]] - Atherton raspberry
 - [[senna-acclinis]] - Rainforest cassia, bush senna
 - [[wombat-berry]]
+- Pittosporum revolutum (aka Brisbane Laurel) seeds provided by Tony ([Wikipedia](https://en.wikipedia.org/wiki/Pittosporum_revolutum)), [SOWN](http://sown.com.au/pittosporum-revolutum-pittosporaceae-brisbane-laurel)
+- Pararistolochia praevenosa (aka Richmond Birdwing Vine) - [SOWN](https://sown.com.au/pararistolochia-praevenosa-aristolochiaceae-richmond-birdwing-vine-2/) - purchased by Sandy and provided by H&K.
 
 ## Weeds and other nasties
 
@@ -57,6 +60,7 @@ The following provides a summary of the plants we've removed, planted, or cared 
 
 - [[arundo-donax]] (aka Elephant Grass)
 - [[megathyrsus-maximus]] aka Guinea grass or green panic.
+- Cymbopogon refractus (aka barbed wire grass) - clumping grass native to eastern Australia ([SOWN](https://sown.com.au/cymbopogon-refractus-poaceae-barbed-wire-grass/)). H&K have provided potential seeds.
 
 ### Vines
 
@@ -104,6 +108,7 @@ The following provides a summary of the plants we've removed, planted, or cared 
 [ficus-macrophylla]: ficus-macrophylla "Ficus macrophylla (Moreton Bay fig)"
 [harpullia-pendula]: harpullia-pendula "Harpullia Pendula (Moreton Bay Tulipwood)"
 [macadamia]: macadamia "Macadamia"
+[melia-azedarach]: ../melia-azedarach "Melia azedarach (white cedar)"
 [polyscias-elegans]: polyscias-elegans "Polyscias elegans (aka Celery Wood)"
 [rhodosphaera]: rhodosphaera "Rhodosphaera (deep yellowwood, yellow cedar)"
 [sandpaper-fig]: sandpaper-fig "Sandpaper fig"
@@ -113,7 +118,7 @@ The following provides a summary of the plants we've removed, planted, or cared 
 [common-rush]: common-rush "Common Rush"
 [rubus-probus]: rubus-probus "Rubus probus (Atherton raspberry)"
 [senna-acclinis]: senna-acclinis "Senna acclinis (rainforest cassia or brush senna)"
-[wombat-berry]: wombat-berry "Wombat Berry"
+[wombat-berry]: wombat-berry "Wombat Berry - Eustrephus latifolius"
 [bidens-pilosa]: bidens-pilosa "Bidens pilosa (Cobbler's Pegs)"
 [coral-berry]: coral-berry "Coral Berry (Symphoricarpos orbiculatus)"
 [heliotropium-amplexicaule]: heliotropium-amplexicaule "Heliotropium amplexicaule (Clasping heliotrope)"
