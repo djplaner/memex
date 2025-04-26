@@ -78,6 +78,36 @@ Greening Australia (n.d.) provides a revegetation guide for sub-tropical rainfor
 5. Planting
 6. Monitoring and maintenance
 
+Stages of sub-tropical rainforest succession (succession - process of natural regeneration in sub-tropical rainforest)
+
+- Pioneer to early secondary species
+
+    Require sun to germinate and survive, generally quick growing, and have a relatively short life span. Condition a site for latter species by improving soil and forming a temporary canopy. These species predominantly make up the soil seed reserves of a rainforest.
+
+- Late secondary species
+
+    More shad tolerant, slower growing, and longer lived.
+
+- Mature phase
+
+    Form the canopy of mature rainforest. Seeds are usually very short lived but can germinate and live in a suppressed state in the understorey. Will fill small gaps.
+
+Planting models
+
+- Late succession planting for isolated sites
+
+    Using a diversity of mature and secondary phase tree species.
+
+- Early successional planting for sites adjacent to rainforest patches
+
+    Predominantly tall and fast growing (shade tolerant) species from pioneer and early secondary phases. Only a few mature phase tress.
+
+- Pioneer plantings for exposed sites
+
+    Single or mixed species of pioneer plants.
+
+Reports that the Big Scrub Rainforest Landcare Group suggest spacing trees at 1.8m as most effective
+
 ### Rainforest restoration manual for south-eastern Australia
 
 Peel (2010) uses a 10 steps for rainforest restoration

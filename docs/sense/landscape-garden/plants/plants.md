@@ -14,7 +14,6 @@ The following provides a summary of the plants we've removed, planted, or cared 
 
     Click on any of the images to view the photos in a gallery mode.
 
-
 ## Native plants
 
 ### Trees
