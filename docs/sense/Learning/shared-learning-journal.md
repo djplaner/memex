@@ -18,59 +18,63 @@ Aiming to produce a course learning journal to encourage more active and deeper 
 
 A shared Google doc for a course containing the following sections
 
-- About the course
+### About the course
 
-    Information and insight about the course as a whole, including
+Information and insight about the course as a whole, including
 
-    - Course Information
+- Course Information
 
-        Accessible links to all course related information. Course outline, website, synopsis etc.
+    Accessible links to all course related information. Course outline, website, synopsis etc.
 
-    - Assessment
+- Assessment
 
-        Summary of what, when etc of the course assessment.
+    Summary of what, when etc of the course assessment.
 
-    - Course expectations/predictions
+- Course expectations/predictions
 
-        What does the learner expect and want to learn from this course? Do they expect to learn anything new? Do they expect to struggle or find it easy? What will be the likely challenges?
+    What does the learner expect and want to learn from this course? Do they expect to learn anything new? Do they expect to struggle or find it easy? What will be the likely challenges?
 
-    - Course connections
+- 🆕 Course resources 🆕 
 
-        An evolving (fill in this section as early as possible and modify as learning proceeds) description of how the course (and its content) connects with other courses and broader professional practice.
+    Pointers to releveant resources, including: textbooks, online resources, timetable for lectures/tutes/practicals etc.
 
-    - Course reflections
+- Course connections
 
-        Reflections on the course as a whole. What worked, what didn't, what was useful, what was not useful, what was interesting, what was boring, etc.
+    An evolving (fill in this section as early as possible and modify as learning proceeds) description of how the course (and its content) connects with other courses and broader professional practice.
 
-        This section should be updated regularly (e.g. weekly) to reflect the learner's evolving understanding of the course and its content.
+- Course reflections
 
-- Weekly content (one of these for each week)
+    Reflections on the course as a whole. What worked, what didn't, what was useful, what was not useful, what was interesting, what was boring, etc.
 
-    Information and insight about each week of the course.
+    This section should be updated regularly (e.g. weekly) to reflect the learner's evolving understanding of the course and its content.
 
-    - Information
+### Weekly content (one of these for each week)
 
-        Accessible links to all information/resources related to the week both provided to you (e.g. lecture slides, readings, tutorial sheets, etc,) and used by you (e.g. YouTube videos, articles etc)
+Information and insight about each week of the course.
 
-    - Required actions
+- Information
 
-        What you need to do this week. A space to plan what's required, both learning and assessment.
+    Accessible links to all information/resources related to the week both provided to you (e.g. lecture slides, readings, tutorial sheets, etc,) and used by you (e.g. YouTube videos, articles etc)
 
-    - Diary
+- Required actions
 
-        Descriptions of the individual learning sessions you did for the week, including
+    What you need to do this week. A space to plan what's required, both learning and assessment.
 
-        - What you did, When you did it
-        - Links to artefacts you generated whilst learning (e.g. notes, code etc.)
-        - What you learned
-        - What you didn't understand
+- Diary
 
-    - Minute paper 
+    Descriptions of the individual learning sessions you did for the week, including
 
-        Answers to these two questions
+    - What you did, When you did it
+    - Links to artefacts you generated whilst learning (e.g. notes, code etc.)
+    - What you learned
+    - What you didn't understand
 
-        - What was the most important thing(s) you learned this week?
-        - What questions do you have about the week? What's not clear?
+- Minute paper 
+
+    Answers to these two questions
+
+    - What was the most important thing(s) you learned this week?
+    - What questions do you have about the week? What's not clear?
 
 
 ## Random supports

@@ -20,6 +20,8 @@ This site isn't going to do all of that. But it is an attempt to be more conside
 
 Early and likely never started or finished work on [[memex-v2]], which is being followed by [[version-3-memex-design]].
 
+An on-going task is to figure out [[note-taking-strategies]] to help improve this site.
+
 ## Method
 
 !!! note "Always emerging out of bricolage"
@@ -75,6 +77,7 @@ Timed with an increased focus on leveraging this site for my [personal learning 
 [ideas-events-people]: ../sense/quote-collection/ideas-events-people "Great Minds Discuss Ideas; Average Minds Discuss Events; Small Minds Discuss People"
 [memex-v2]: memex-v2 "Thinking about 'memex v2'"
 [version-3-memex-design]: version-3-memex-design "Memex - Version 3"
+[note-taking-strategies]: note-taking-strategies "Note taking strategies"
 [why-mkdocs-foam]: why-mkdocs-foam "Why combine mkdocs with Foam"
 [deploy-with-github-action]: deploy-with-github-action "Deploy with GitHub Action"
 [tags-and-properties]: tags-and-properties "Tags and properties"
