@@ -27,10 +27,12 @@ Putting people at the centre of technology.
 - [[current-digital-dark-age]]
 - [[computing-ethics]]
 - [[digital-humanism]]
+- [[alternate-conceptions-of-the-web]]
 
 ## Basics 
 
 - [[computing-discipline-definitions]]
+- [[learning-computer-science]]
 
 ### Computational thinking
 
@@ -81,7 +83,9 @@ See also: [[computational-thinking]]
 [current-digital-dark-age]: current-digital-dark-age "Current Digital Dark Age"
 [computing-ethics]: computing-ethics "Computing related ethics"
 [digital-humanism]: digital-humanism "Digital Humanism"
+[alternate-conceptions-of-the-web]: alternate-conceptions-of-the-web "alternate-conceptions-of-the-web"
 [computing-discipline-definitions]: computing-discipline-definitions "Definitions of computing related disciplines"
+[learning-computer-science]: learning-cs/learning-computer-science "Learning computer science"
 [decomposition]: decomposition "Decomposition"
 [pattern-recognition]: pattern-recognition "Pattern recognition"
 [abstraction]: abstraction "Abstraction"
