@@ -7,19 +7,24 @@ tags:
 
 See also: [[convert-wordpress-into-memex]], [[colophon]]
 
-Take the output of the [[export-wordpress-to-markdown]] process, modify the files, and place them into the memex structure.
+Take the output of the [[export-wordpress-to-markdown]] process and modify the files for the purposes of:
+
+- Tidying up any outdated content/links to make it fit within Memex
+- Modifying the structure of the exported data to re-create the blog structure
+- Generating new content to re-create additional blog content (e.g. category pages, tag pages, archives, RSS feeds, adding comments/pingbacks)
 
 Done using Python and [`wpparse`](https://github.com/marteinn/wpparser) to provide more detailed data from the XML file.
 
-## To do
 
-Immediate
+## Generate new content
 
 - [ ] post details
   - [x] test category being added to template
   - [ ] tags??
-- [ ] Comments 
-  - [ ] Add comments to metadata
+- [x] Comments 
+  - [x] Add comments to metadata
+    - add ability to link to comments
+        - add div id "comment-<id>"
     - writeMeta use XML to check for comments
        https://djon.es/blog/research/bam-blog-aggregation-management/ as example
        18 comments, 78 pingbacks
@@ -28,7 +33,7 @@ Immediate
         - pingback may contain link to davidtjones.wordpress.com etc
             Maybe leave those in, what about djon.es?
     - add to frontmatter
-  - [ ] update template to include comments with link ids
+  - [x] update template to include comments with link ids
 - [ ] Generate RSS
 - [ ] Archives
     - [ ] Add to navigation column list of months/years
@@ -36,6 +41,22 @@ Immediate
 - [ ] Category
     Doc file 'blog/2012/03/30/bim2-status-check-and-whats-next/index.md' contains a link '../../../../category/bim/bim2.md',
            but the target 'blog/category/bim/bim2.md' is not found among documentation files.
+- [ ] home page - latest posts - how to implement archives as a scrollable way through pages
+
+### Home page
+
+- [ ] add X latest posts with some form of continuation to the next page
+
+    Re-write the home page each time, or just toward the end of it. Use frontmatter to store intro stuff??
+
+
+### Category
+
+- [ ] Create a "list of categories" page
+
+## Tidying
+
+## Modifying structure
 
 ### Pages working
 

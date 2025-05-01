@@ -527,7 +527,7 @@ def writePostsIndex(posts):
         f.write("type: posts\n")
         f.write("---\n")
         #-- add in some additional pre-amble
-        f.write(f"\nSee also: [[blog-home | Home]], [[pages]], [[posts]]\n\n")
+#        f.write(f"\nSee also: [[blog-home | Home]], [[pages]], [[posts]]\n\n")
         #-- write the content
         for post in posts:
             #-- get the last part of the path for the name
@@ -552,7 +552,7 @@ def writePagesIndex(pages):
         f.write("type: pages\n")
         f.write("---\n")
         #-- add in some additional pre-amble
-        f.write(f"\nSee also: [[blog-home | Home]], [[pages]], [[posts]]\n\n")
+#        f.write(f"\nSee also: [[blog-home | Home]], [[pages]], [[posts]]\n\n")
         #-- write the content
         for page in pages:
             #-- get the last part of the path for the name
@@ -684,7 +684,7 @@ def writeMemexIndex( memexPath, pageData, pageXmlData ):
 #        f.write(f"\n{metaData}\n")
 
         #- see also links
-        f.write(f"\nSee also: [[blog-home | Home]]\n\n")
+#        f.write(f"\nSee also: [[blog-home | Home]]\n\n")
         #-- write the content
         f.write(pageData['content'])
 

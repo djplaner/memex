@@ -20,24 +20,17 @@ from pprint import pprint
 import inflect
 import mkdocs_gen_files
 
-global MEMEX_HOME
 MEMEX_HOME="/Users/davidjones/memex/"
-global LIFE_LIST_FOLDER
 LIFE_LIST_FOLDER = Path(f"{MEMEX_HOME}/docs/sense/birdwatching/")
 LIFE_LIST_DOCS_FOLDER = Path(f"sense/birdwatching")
 #LIFE_LIST_FOLDER = Path("sense/birdwatching")
-global LIFE_LIST_DATA_FILE
 LIFE_LIST_DATA_FILE = Path(LIFE_LIST_FOLDER / "ebirdData.csv")
-global LIFE_LIST_PAGE
 #LIFE_LIST_PAGE = Path(LIFE_LIST_FOLDER / "life-list.md")
 LIFE_LIST_PAGE = Path("sense/birdwatching/life-list.md")
-global LIFE_LIST_IMAGE_FOLDER
 LIFE_LIST_IMAGE_FOLDER = Path(LIFE_LIST_FOLDER / "images")
-global GALLERY_PAGE
 #GALLERY_PAGE = Path(LIFE_LIST_FOLDER / "life-list-gallery.md")
 GALLERY_PAGE = Path("sense/birdwatching/life-list-gallery.md")
 
-global LIFE_LIST_TEMPLATE
 LIFE_LIST_TEMPLATE = """---
 title: Life list
 type: birds

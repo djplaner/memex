@@ -13,6 +13,11 @@ See also: [[colophon]], [[convert-wordpress-into-memex]]
 
 - [Material for Mkdocs blog templates](https://andre601.ch/blog/2025/02-10-integrate-gitea-forgejo-stats/) and [here in the repo](https://github.com/squidfunk/mkdocs-material/blob/master/material/templates/blog-post.html)
 
+To do
+
+- [ ] How to integrate existing pages into the new structure
+
+    Old blog had various interface elements: About, Teaching, Research, ...
 
 ### Blog templates
 
