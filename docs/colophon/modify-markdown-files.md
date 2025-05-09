@@ -7,241 +7,102 @@ tags:
 
 See also: [[convert-wordpress-into-memex]], [[colophon]]
 
-Take the output of the [[export-wordpress-to-markdown]] process and modify the files for the purposes of:
+The second last step of the process to [[convert-wordpress-into-memex|convert my Wordpress blog]] into `mkdocs` generated site. This step modifies the markdown files produced in the  [[export-wordpress-to-markdown]] process for the purposes of:
 
-- Tidying up any outdated content/links to make it fit within Memex
+- Tidying up any outdated content/links to make it fit within `mkdocs` requirements
 - Modifying the structure of the exported data to re-create the blog structure
 - Generating new content to re-create additional blog content (e.g. category pages, tag pages, archives, RSS feeds, adding comments/pingbacks)
 
-Done using Python and [`wpparse`](https://github.com/marteinn/wpparser) to provide more detailed data from the XML file.
+Done in two main Python scripts
 
+1. `blogTidyUp.py` - Run from the [Memex repo](https://djon.es/memex) to modify the markdown files from the previous step and relocate them into the blog repo. Run once to generate/rewrite the blog structure.
+2. Use [[computational-components]] (e.g. `blog.py`) running from within `mkdocs` to generation additional markdown files during the site build process.
 
-## Generate new content
+## To do
 
-- [ ] post details
-  - [x] test category being added to template
-  - [ ] tags??
-- [x] Comments 
-  - [x] Add comments to metadata
-    - add ability to link to comments
-        - add div id "comment-<id>"
-    - writeMeta use XML to check for comments
-       https://djon.es/blog/research/bam-blog-aggregation-management/ as example
-       18 comments, 78 pingbacks
-        - comment types: pingback
-        - approved - integer 1 true, 0 false
-        - pingback may contain link to davidtjones.wordpress.com etc
-            Maybe leave those in, what about djon.es?
-    - add to frontmatter
-  - [x] update template to include comments with link ids
-- [ ] Generate RSS
-- [ ] Archives
-    - [ ] Add to navigation column list of months/years
-    - [ ] Generate content for each month/year
-- [ ] Category
-    Doc file 'blog/2012/03/30/bim2-status-check-and-whats-next/index.md' contains a link '../../../../category/bim/bim2.md',
-           but the target 'blog/category/bim/bim2.md' is not found among documentation files.
-- [ ] home page - latest posts - how to implement archives as a scrollable way through pages
+- When viewing a post, would be good if the the prev/next footer menu could be active - adding links to the previous/next blog posts
+    - Maybe use the same method as being used on the archive pages
+    Add to header
+    previous:
+       text: <text>
+       url: <url>
+    - Posts written in the `updatePosts` method by reading individual post files one at a time.
+        - filenames only have YYYY and MM, can't sort in order
+        - but the relevant markdown file does have full date in the YAML front matter
+    - New process might be
+        - get all post names as a list
+        - create empty dict posts { fileName: <postName>, postData: <postData> } 
+        - for all post names
+            - read the blog post file - getting full file content
+            -  add to posts dict
+        - create ordered list `orderdPosts` containing the valuses from posts in date order
+        - for each post in orderedPosts
+            - if the post is the current post
+                - add to the previous/next dict
+                - break out of the loop
 
-### Home page
 
-- [ ] add X latest posts with some form of continuation to the next page
+- Add prev/next to the category pages
+- Add list of categories in the right hand menu
 
-    Re-write the home page each time, or just toward the end of it. Use frontmatter to store intro stuff??
+## `blogTidyUp.py`
 
+Three main steps
 
-### Category
+1. Parse the Wordpress XML file to extract additional data used in the following steps.
+2. Read, modify, and move the markdown files for blog pages.
+3. Read, modify, and move the markdown files for blog posts.
 
-- [ ] Create a "list of categories" page
+The distinction between pages and posts is made because:
 
-## Tidying
+- `wpparse` places pages and posts into separate folders; and,
+- the `mkdoc` blog's intended folder structure for pages and posts differs.
 
-## Modifying structure
+However, the the same process is performed for both pages and posts:
 
-### Pages working
+1. Read the content of the markdown file produced by `wpparse`
+2. Modify the content by
 
-Get basic Markdown files for pages
+    - converting the publish date to a string
+    - clean up the content of the file using data from the XML file
 
-- [ ] Add comments to Markdown
+        Changes made includes:
 
-    - Possibly adding them as frontmatter and then using a template to add them to the page. Reuse the template for pages.
-    - Comments have internal anchors e.g. `#comment-6088` which appears linked to the comment ID
+        - replace davidtjones.wordpress.com links with djon.es links
+        - convert djon.es full links to absolute links within mkdocs
+        - remove any links internal to the blog post/page
+        - change Comments author "admin" to "David Jones"
+    - clean up the YAML front matter for the post/page
+3. Move the file to the correct location by
 
-- [ ] Implement category generator
+    - creating and copying any images and other resource files to the correct location
+    - writing an updated index file with the post/page content
 
-    - [ ] Add category details into the frontmatter of posts with categories - generator retrieves them
+## Computational components
 
-### Posts working
+[`mkdocs-gen-file`](https://oprypin.github.io/mkdocs-gen-files/index.html) is a plugin for the `mkdocs` static site generator used to publish the new blog. `mkdocs-gen-file` enables the integration of local Pythons scripts into the `mkdocs` build process. A primary enabler of the [[computational-components]] approach used in this site.
 
-### Templates
+For the blog, the primary computational components is `blog.py`, which performs the following tasks:
 
-- [ ] show publication date, categories, tags in template
-- [ ] show comments
-- [ ] cover images ?? other images ??
+- Generate category pages.
 
+    At the time of this work blog posts were allocated into 152 different categories. A category page lists an excerpt of all the posts belonging to the category.
+- Generate an RSS feed.
 
-### Misc other
+    Generate an RSS feed of the 20 most recent posts.
+- Generate the home page, which
 
-- [ ] Blog posts that have been saved in folders named after post id
-    - 4668
-- [ ] Handle category pages (blog.py)
+    - adds excerpts of the 20 most recent posts to the home page
+    - generate archive pages for all posts
 
-    Category pages provide an index to all posts/pages in the category
-    - initial dummys implemented, still to be completed
-
-- [ ] Handle tag pages (blog.py)
-
-- [ ] Handle archive pages (months, years) (blog.py)
-
-### What's missing in display
-
-- Pages
-    - Stored in month/year/folder format, need to recreate old structure?
-- Navigation
-    - nav to pages
-    - Does not maintain links within pages to other pages - 3.0.0 had a bug, fixed in 3.0.1
-    - **Yes** Is it possible to have different navigation/different template for the blog section 
-    - Most recent posts block
-    - Latest comments
-    - Block with archives by month
-    - Home page with latest blog posts
-- Posts 
-  - A way to comment on a post
-  - Post pre-amble - author, date, categories
-  - Cover images for posts, cover images are included in yaml
-  - RSS feed
-  - Some images missing - need to check and recover
-- No category pages - _Possible generator_
-- No comments on posts
-    - Are they included in the XML?
-    - Are they included in the conversion process?
-
-## Post conversion - Work to do
-
-Fixing up old content
-
-- [ ] Search and replace for old blog links and update
-
-    davidtjones.wordpress
-
-- [ ] Place blog post folders into relevant date folders
-
-    - 2015/10/university... needs to be 2015/10/01/university
-
-- [ ] Convert djon.es/blog links in Markdown to matching memex links 
-
-    current-research-projects
-
-    - [ ] links to posts
-        - https://djon.es/blog/2015/10/01/university-e-learning-removing-the-context-and-adding-the-sediment/
-        - ~/memex/blog/2015/10/university-e-learning-removing-the-context-and-adding-the-sediment
-    - [ ] links to pages
-        Will have to re-create the structure done elsewhere, but this is **not** possible. e.g. current-research-projects can be linked to by research/current-research-projects/, but URL is without research. Need to do it manually in blogTidyUp
-
-        See `Current research projects` and early link to `Moodle open book project`. On the blog it's in the '/research/the-moodle-open-book..' Need to recreate
-
-- [ ] Move pages from date structure to original structure
-
-### Outstanding work
-
-- [ ] Out of date content to remove (cleanUpContent) 
-    - [x] \[googlevideo=http://video.google.com/videoplay?docid=961814934919323661#3m30s\]
-    - [ ] slideshare similar to google video
-    - \[code lang=""\]...\[/code] blocks e.g. concrete-lounge-1 
-
-Errors reported by mkdocs
-
-- [ ] broken links that are gone
-
-Interface
-
-- [x] Adding a disclaimer of sorts along the bottom of older pages - warning it's out of date etc.
-- [ ] Cover images may not have been downloaded
-
-    - Announcing Canvas collecitons post, cover image
-    - Check to see if others are missing
-
-- [ ] Wordpress functionality
-    - [ ] Add existing comments to pages and posts
-    - [ ] Method for people adding comments to pages
-    - [ ] Category pages
-    - [ ] tag pages
-    - [ ] Posts pages (archives)
-    - [x] add publication date information to all posts (perhaps author?)
-        - also categories etc
-
-
-- [ ] Posts
-- [ ] Pages
-    - [x] the "about" page is old, out of data content, **Maybe two posts with same name**
-    - [x] Need to handle folder hierarchy
-
-        Currently assumes a flat structure, But some of the pages are in folders.
-    - Doc file 'blog/publications/index.md' contains an absolute link '/papers/3.pdf', it was left as is.
-    -  Doc file 'blog/publications/online-courses-and-collaborative-learning-underlying-philosophies-and-practices/index.md' contains a link 'images/Image3.gif', but the target 'blog/publications/online-courses-and-collaborative-learning-underlying-philosophies-and-practices/images/Image3.gif' is not found among documentation files.
-    -  Doc file 'blog/publications/solving-some-problems-of-university-education-a-case-study/index.md' contains a link 'sound01.au', but the target 'blog/publications/solving-some-problems-of-university-education-a-case-study/sound01.au' is not found among documentation files.
- 
-
-
-- [ ] Navigation
-    - Links to other djon.es/blog pages are currently full http links, rather than relative. Requires complete re-creation of the blog to work.
-        - [ ] Is there a way to automatically convert these to relative links? 
-            May have to wait for pages to be created first
-    - make categories and tags links to appropriate generators
-- [ ] Misc
-    - Misc. conversion issues
-        Going from Wordpress to Markdown to HTML means formatting breaks 
-
-        - [ ] Use of # in markdown files overwriting the YAML title for page title 
-        - [x] Use of "funny" characters in YAML title can cause issues, can be solved by surrounding with : and # (but may be parser specific)
-            - colon, hyphen
-            - _working for colon_ others??  ?
-        - [x] internal links (esp on headings) will get modified by mkdocs practice 
-            - Look to remove internal links (the page nav provides links)
-        - markdown tables need an empty line before they start to be displayed
-            - solving some problems of university learning part II (example)
-        - lots of images missing and slowing down serve
-        - Just ``` all by themselves???
-    - Errors being reported by mkdocs on serve/build
-    - Files stored by Wordpress need to be moved
-
-## Tmp working space
-
-### Implementing relative links
-
-- Don't add index.md to relative links if there's a # (internal anchor) in the link
-    blog/about-2/index.md
-- Don't add index.md if there's a ?, publications includes
-    ?attachment_id=502 and ?page_id=503
-- publications/index.md is breaking link to student-feedback-anonymity-observable-change-and-course-barometers/index.md
-
-
-
-### Comments
-
-
-
-### Attachements
-
-### PDFs
-
-### Cover images
-
-metaData will contain `coverImage`, but the image is not downloaded (in some cases). SHould be in the relative `images` folder
-
-Two different templates 
-
-- post content
-- post excerpt
-
-
-
-
-
+        An archive page is a list of all posts for a month and year.
+    - adds to the left-column of the home page a navigable list of archive pages.
 
 
 [//begin]: # "Autogenerated link references for markdown compatibility"
 [convert-wordpress-into-memex]: convert-wordpress-into-memex "Convert Wordpress into Memex"
 [colophon]: colophon "About (Colophon)"
+[convert-wordpress-into-memex|convert my Wordpress blog]: convert-wordpress-into-memex "Convert Wordpress into Memex"
 [export-wordpress-to-markdown]: export-wordpress-to-markdown "Export Wordpress to Markdown"
+[computational-components]: computational-components "Computational components"
 [//end]: # "Autogenerated link references"

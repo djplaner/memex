@@ -46,6 +46,71 @@ Sources from [advanced SQL](https://15445.courses.cs.cmu.edu/fall2019/notes/02-a
 
 ## Set operations
 
+SQL provides operators equivalent to mathematical set operations. These appear to be used to join together two select statements using a process equivalent to the set operation. 
+
+```sql
+(select course_id from section where semester = 'Fall' and year= 2017) 
+union 
+(select course_id from section where semester = 'Spring' and year= 2018);
+```
+
+- _union_, 
+
+    Find tuples that belong in either set. Duplicates are removed. Unless using _union all_
+
+- _intersection_, and 
+
+    Find tuples that belong in both sets. Duplicates are removed. Unless using _intersect all_
+
+- _except_.
+
+    Find tuples that belong in the first set but not the second. Duplicates are removed. Unless using _except all_
+
+## Subqueries
+
+Nest a **select-from-where** expression inside another
+
+Common uses
+
+### set membership 
+
+Finding the intersection of two sets of tuples by using the **IN** operator and a nested subquery
+
+### make set comparisons
+
+Comparing value(s) from a set 
+
+### determine set cardinality
+
+## Views
+
+A method of defining a "virtual" relation. This virtual relation is computed at execution time. A couple of methods:
+
+- **with** clause 
+
+    Named query creating the virtual relation is local to the query in which it is defined.
+
+- **create view** statement
+
+    Once created the view is available until explicitly dropped.
+
+Creating a view requires a name and a query that computes the view. The name can used anywhere in a query where a relation name is expected.
+
+## Integrity constraints
+
+Ensure database changes do not result in a loss of consistency/integrity within the database. Essentially an arbitrary predicate applied to the database. Some predicates can be expensive to test.
+
+Constraints applied in SQL during relation creation (`create table`) or after the fact (using `alter table`).
+
+Types of constraints
+
+- constraints on a single relation 
+- not null constraint
+- unique constraint - applied to a set of attributes
+- check clause - comomonly used to ensure that attribute values satisfy some condition
+- referential integrity
+- Functional dependencies
+
 
 
 ## Resources
