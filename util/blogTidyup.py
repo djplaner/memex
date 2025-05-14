@@ -54,7 +54,13 @@ OUTDATED_CONTENT = [
     {
         "pattern": r"\\\[h5p [^\]]*\\\]",
         "replace": "H5P content no longer available"
-    }
+    },
+]
+    
+CONTENT_TIDYUP = [
+    { "pattern": "<figure>", "replace": "<figure markdown>" },
+    { "pattern": "<figcaption>", "replace": "<caption>" },
+    { "pattern": "</figcaption>", "replace": "</caption>" }
 ]
 
 # Update any old blog links to current strucutre (mostly for pages)
@@ -325,6 +331,14 @@ def cleanupContent(content, memexPath):
 !!! warning "Outdated content no longer available"
 
     {outdated["replace"]}\n""", content)
+
+    #-- tidy up other content
+    for contentTidy in CONTENT_TIDYUP:
+        regex = rf"{contentTidy['pattern']}"
+        ## does regex exist in content
+        if re.search(regex, content):
+#            print(f"SSSSS Found outdated content: {contentTidy['pattern']}")
+            content = re.sub(contentTidy["pattern"], contentTidy["replace"], content)
         
     return content
 
@@ -389,6 +403,8 @@ def getOrderedPosts(xml, postMarkdownFiles):
 #            input("Press Enter to continue...")
             continue
         destinationPath = f"{OUTPUT_FOLDER}{postXmlData['link'].replace(CURRENT_BLOG_URL, '')}"
+        link = f"{MEMEX_BLOG_URL}{postXmlData['link'].replace(CURRENT_BLOG_URL, '')}"
+
         sourcePath = postPath.replace("index.md", "")
 
         posts.append( {
@@ -396,6 +412,7 @@ def getOrderedPosts(xml, postMarkdownFiles):
             "postContent": postData,
             "postXML": postXmlData,
             "postDate": postDate,
+            "postLink": link,
             "destinationPath": destinationPath,
             "sourcePath": sourcePath
         })
@@ -435,30 +452,19 @@ def updatePosts(xml):
 
     #for post in postMarkdownFiles:
     for postData in orderedPosts:
-        #----------- get content for this post
-        # - postData - yaml and content (markdown) from exported markdown file
-        # - postXmlData - raw content from XML export file
-
-        #- get the markdown content and frontmatter
-#        postData = readBlogMarkdown(post)
-#        if postData is None:
-#            raise Exception(f"Error reading {post}")
-
-#        postData = post["postContent"]
-
         # default previous/next is loop back to home page
         previous = { 'text': 'Home', 'url': '/blog2/index.html' }
         next = { 'text': 'Home', 'url': '/blog2/index.html' }
         if count > 0:
             next = { 
-                    'text': f'{orderedPosts[count-1]["postContent"]["yaml"]["title"][:30]}',
-                    'url': orderedPosts[count-1]["destinationPath"]
+                    'text': f'{orderedPosts[count-1]["postContent"]["yaml"]["title"]}',
+                    'url': orderedPosts[count-1]["postLink"]
                        }
         if count < numPosts - 1:
 #            pprint(orderedPosts[count+1])
             previous = { 
-                    'text': f'{orderedPosts[count+1]["postContent"]["yaml"]["title"][:30]}',
-                    'url': orderedPosts[count+1]["destinationPath"]
+                    'text': f'{orderedPosts[count+1]["postContent"]["yaml"]["title"]}',
+                    'url': orderedPosts[count+1]["postLink"]
                    }
 
         count += 1
@@ -468,25 +474,7 @@ def updatePosts(xml):
 
         title = postData["postContent"]['yaml']['title']
         postDate = postData["postDate"]
-#        if 'date' in postData['yaml']:
-#            postDate = postData['yaml']['date']
-#            #-- convert postDate datetime.datetime to string
-#            postDate = postData['yaml']['date'].strftime("%Y-%m-%dT%H:%M:%S.%f%z")
-#        print(f"postDate {postDate} type {type(postDate)}")
-#        quit()
-        #- find the post in the XML
-#        postXmlData = findXmlPost( xml, title, postDate )
-#        if postXmlData is None:
-#            print(f"Error: No matching post found for {title} in XML...skipping")
-#            continue
-
-#        print("--" * 40)
-#        print(f"Title: {postXmlData['title']} type {postXmlData['post_type']} status {postXmlData['status']}")
-#        print(f"post_date {postXmlData['post_date']}")
-#        print(f"post_link {postXmlData['link']}")
-
         #-- identify the posts absolute memex path
-        #postMemexPath = f"{MEMEX_BLOG_URL}{postXmlData['link'].replace(CURRENT_BLOG_URL, '')}"
         postMemexPath = postData["destinationPath"]
 
         #---------------------- perform various cleanups on the content
@@ -496,28 +484,21 @@ def updatePosts(xml):
 
         #--------------------- create and copy new folder/content
         # - destination will mirror the xmlData link YYYY/MM/DD/<slug>
-#        destinationPath = f"{OUTPUT_FOLDER}{postXmlData['link'].replace(CURRENT_BLOG_URL, '')}"
-#        sourcePath = post.replace("index.md", "")
         destinationPath = postData["destinationPath"]
         sourcePath = postData["sourcePath"]
-#        print(f"\n -- New Folder path: {destinationPath} old folderpath {sourcePath}" )
 
         # update the destinationPath folder - create it iff ! exist and copy images
         updateMemexFolder(sourcePath, destinationPath)
         # add in the index.md file for the post
-        #writeMemexIndex(destinationPath, postData, postXmlData)
         writeMemexIndex(destinationPath, postData['postContent'], postData['postXML'])
 
 
         #------------ Track the posts that were added for use to write the page index
         # - pageXmlData['link'] without the CURRENT_BLOG_URL
         postAdd = postData['postXML']['link'].replace(CURRENT_BLOG_URL, '')
-#        print(f")))))))) post: {post} >>> Post added: {postAdd}")
         postsAdded.append( postAdd )
 
-        #input("Press Enter to continue...")
 
-    #pprint(postsAdded)
     writePostsIndex(postsAdded)
 
 
@@ -757,6 +738,9 @@ def writeMemexIndex( memexPath, pageData, pageXmlData ):
         if "title" in yamlData:
             if ":" in yamlData["title"] or "#" in yamlData["title"]:
                 yamlData["title"] = f'"{yamlData["title"]}"'
+            if '\"' in yamlData["title"]:
+                #-- remove the backslash from the title
+                yamlData["title"] = yamlData["title"].replace('\\\"', '\"')
         yaml.dump(yamlData, f)
 
             #f.write(f"{key}: {pageData['yaml'][key]}\n")
@@ -897,27 +881,8 @@ if __name__ == "__main__":
 
     wordpressXml = parse(WORDPRESS_EXPORT_FILE)
 
-#    for post in wordpressXml["posts"]:
-#        if post['title']=="Getting started with the blog":
-#            pprint(post)
-    
-
-#    quit()
-#    categoryNames = ""
-#    for category in wordpressXml["categories"]:
-#        categoryNames += f'"{category['name']}", '
-#        #print(f"Category: {category}")
-#
-#    print(categoryNames)
-#    quit()
-#    showPosts(wordpressXml)
-
-#    showPosts(wordpressXml)
-
-    # TODO uncomment this
-#    updatePages(wordpressXml)
+    updatePages(wordpressXml)
 
     updatePosts(wordpressXml)
 
-#    reportOutcomes()
 

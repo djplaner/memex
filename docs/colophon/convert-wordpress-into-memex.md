@@ -24,9 +24,73 @@ Convert my [Wordpress](https://djon.es/blog) blog into collection of `mkdocs` ge
     - Implement additional [[computational-components]]
 - [ ] [[comparing-wordpress-to-memex]]
     - Evaluate and compare the two different blogs (and hopefully document the improvements)
+- [ ] Refine the authoring/management process
+
+    - How to build links with Memex (build in Memex?)
+    - How to avoid manual creation of next/previous links in blog
+        e.g. run a script that updates the `/blog` repo from `memex` repo, including adding the next/previous links, setting date, placing in folder etc.
 - [ ] Replace Wordpress 
     - Pension off Wordpress and start using the `mkdocs` version of the blog
 
+
+## Early Results
+
+See also [webpagetest.org](https://www.webpagetest.org/result/250511_AiDcZT_2HD/)
+
+Possible improvements
+
+- defer/async render-blocking scripts
+    ```html 
+    <script src="assets/javascripts/glightbox.min.js" defer></script>
+    <script src="assets/javascripts/glightbox.min.js" async></script>
+    ```
+- if/how to move Google font (Gabarito) to local
+
+Suggestions
+
+- [Enable text compression](https://developer.chrome.com/docs/lighthouse/performance/uses-text-compression/?utm_source=lighthouse&utm_medium=lr)
+
+- [Pagespeed analysis of a blog post](https://pagespeed.web.dev/analysis/https-djon-es-blog2-2019-01-03-understanding-my-role-as-meso-level-practitioner/apkm99jig4?form_factor=mobile) - with cover image
+
+    - Mobile
+      - Performance 81
+      - Accessibility 91
+      - Best practices 100
+      - SEO 92
+    - Computer
+        - performance 95
+        - accessibility 91
+        - Best practices 100
+        - SEO 92
+
+- [Pagespeed analysis of same post from Wordpress](https://pagespeed.web.dev/analysis/https-djon-es-blog2-2019-01-03-understanding-my-role-as-meso-level-practitioner/apkm99jig4?form_factor=desktop)
+
+    - Mobile
+      - Performance 50
+      - Accessibility 85
+      - Best practices 100
+      - SEO 92
+    - Computer
+        - performance 58
+        - accessibility 86
+        - Best practices 100
+        - SEO 92
+
+
+- Analysis of home page 
+  - Memex
+    - Computer
+        - Performance 61
+        - Accessibility 92
+        - Best practices 100
+        - SEO 92
+
+  - (Wordpress)
+    - Computer
+        - Performance 39
+        - Accessibility 77
+        - Best practices 56
+        - SEO 82
 
 
 

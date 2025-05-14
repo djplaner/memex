@@ -59,7 +59,7 @@ The mkdocs community has already faced this issue. Some related resources, inclu
 
     Blog post with section on using [`mkdocs-gen-files`](https://oprypin.github.io/mkdocs-gen-files/index.html) plugin that provides a method to build this work into site generation. Works by generating entire markdown files (that are in a tmp position and not available in the `docs` folder)
 
-- `mkdocs-gen-files` suggests `mkdocs-macros-plugin` as a way to generate content within a markdown file.
+- `mkdocs-gen-files` suggests [`mkdocs-macros-plugin`](https://mkdocs-macros-plugin.readthedocs.io/en/latest/) as a way to generate content within a markdown file.
 
 
 

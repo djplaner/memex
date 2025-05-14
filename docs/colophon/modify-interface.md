@@ -28,6 +28,24 @@ To do
 
 ### Interface components
 
+#### Template implementation
+
+`main.html` - extends base and provides a couple of local modifications header/footer.html
+  - header.html - the header, title, search, light/dark mode toggle, navigation menu
+  - footer.html - bottom two rows/footer
+
+`blog-post.html` - extends base.html and used for any single blog post page
+
+    - adds hero block if required
+    - adds the "old content" aside
+    - container for content
+       - `partials/prev-next.html`
+           - somehow this is generating HTML with duplicate links otuside of the nav
+       - `partials/post-content.html`
+       - `partials/comments-pingbacks.html`
+       - partials/prev-next.html`
+
+
 #### Header
 
 Components
@@ -47,10 +65,6 @@ Consider adopting a more cloud based design
 #### Footer
 
 Components
-
-- Previous/next menu -- **possible remove**
-- Made with Material & social links
-    - **TODO** modify the "made with" to link to a specific page providing more details about all the technologies used to create the blog (material for mkdocs and so much more)
 
 #### Navigation list (list of archives)
 

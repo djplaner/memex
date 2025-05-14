@@ -20,28 +20,6 @@ Done in two main Python scripts
 
 ## To do
 
-- When viewing a post, would be good if the the prev/next footer menu could be active - adding links to the previous/next blog posts
-    - Maybe use the same method as being used on the archive pages
-    Add to header
-    previous:
-       text: <text>
-       url: <url>
-    - Posts written in the `updatePosts` method by reading individual post files one at a time.
-        - filenames only have YYYY and MM, can't sort in order
-        - but the relevant markdown file does have full date in the YAML front matter
-    - New process might be
-        - get all post names as a list
-        - create empty dict posts { fileName: <postName>, postData: <postData> } 
-        - for all post names
-            - read the blog post file - getting full file content
-            -  add to posts dict
-        - create ordered list `orderdPosts` containing the valuses from posts in date order
-        - for each post in orderedPosts
-            - if the post is the current post
-                - add to the previous/next dict
-                - break out of the loop
-
-
 - Add prev/next to the category pages
 - Add list of categories in the right hand menu
 
@@ -90,6 +68,12 @@ For the blog, the primary computational components is `blog.py`, which performs 
 - Generate an RSS feed.
 
     Generate an RSS feed of the 20 most recent posts.
+
+    **TODO** feed items limited
+        - no pubDate
+        - Not the full description
+        - no categories
+        - Content quoting has &gt; type 
 - Generate the home page, which
 
     - adds excerpts of the 20 most recent posts to the home page

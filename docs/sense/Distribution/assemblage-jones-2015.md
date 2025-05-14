@@ -5,7 +5,7 @@ Jones, C. (2015). Networked Learning: A New Paradigm? In C. Jones (Ed.), Network
 ## Definition
 
 Jones does not adopt the radical view of ontology of Latour etc which
-> argues that there are multiple realities constituted by practices and that in some cases the realities that are constituted by different practices although they are related to the same object are incommensurable.....My preferences remain solidly realist in relation to this question about ontology, although my empahsis is firmly on how we come to know, rather than the nature of reality itself.
+> argues that there are multiple realities constituted by practices and that in some cases the realities that are constituted by different practices although they are related to the same object are incommensurable.....My preferences remain solidly realist in relation to this question about ontology, although my emphasis is firmly on how we come to know, rather than the nature of reality itself.
 
 ## Other Definitions
 
@@ -13,11 +13,11 @@ Jones does not adopt the radical view of ontology of Latour etc which
 
 Latour's view of assemblage is linked to Deleuze's metaphor of rhizomes with quote on p. 231
 
-Arthur (2009, p. 28) argues that one of the three distinct ways to thing of technology is "as an assemblage of practices and components". Jones argues this is more mundane than Latour's
+Arthur (2009, p. 28) argues that one of the three distinct ways to think of technology is "as an assemblage of practices and components". Jones argues this is more mundane than Latour's
 
 ## Application
 
-> It is as assemblages offering various kinds of complex affordances that technologies are most likely to be found in education and learning. A Learning Management System is one such assemblage of various tools and technologies that presents students and teachers with a complex of potenital affordances many of which are interdependent (p. 226)
+> It is as assemblages offering various kinds of complex affordances that technologies are most likely to be found in education and learning. A Learning Management System is one such assemblage of various tools and technologies that presents students and teachers with a complex of potential affordances many of which are interdependent (p. 226)
 
 ## Related 
 
