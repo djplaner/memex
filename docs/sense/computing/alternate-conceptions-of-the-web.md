@@ -15,6 +15,13 @@ As of 2025, most individuals' experience with the web is through spaces controll
 ## Examples
 
 - [Nice touches](https://www.joshwcomeau.com/css/interactive-guide-to-grid/)
+- [Sample knowledge graph](https://www.jamestharpe.com/markdown/)
+
+    Includes a limited network graph at the bottom of each page to show connections.
+- ["simple" blog design](https://blog.jim-nielsen.com/2024/rss-in-html-follow-up/) that includes some interesting "computational components" 
+    - [archive visualisation](https://blog.jim-nielsen.com/archive/) using numerical graphs
+    - [network visualisation of internal links](https://blog.jim-nielsen.com/about/internal-links/) - [explaination how](https://blog.jim-nielsen.com/2022/visualizing-my-blogs-links/)
+    - [advanced stats page](https://blog.jim-nielsen.com/about/)
 - [Very small](https://lucumr.pocoo.org/projects/)
 - [Black & white - small](https://hugotunius.se), [another](https://sjmulder.nl/en/textonly.html), [different](https://h.dhairyashah.dev)
 - [Small, funky design](https://jvns.ca/about/)

@@ -7,11 +7,11 @@ tags:
 
 See also: [[convert-wordpress-into-memex]], [[colophon]]
 
-The second last step of the process to [[convert-wordpress-into-memex|convert my Wordpress blog]] into `mkdocs` generated site. This step modifies the markdown files produced in the  [[export-wordpress-to-markdown]] process for the purposes of:
+The second last step of the process to [[convert-wordpress-into-memex|convert my Wordpress blog]] into `mkdocs` generated site. This step modifies the markdown files produced in the  [[export-wordpress-to-markdown]] process and generates new content for the purposes of:
 
-- Tidying up any outdated content/links to make it fit within `mkdocs` requirements
-- Modifying the structure of the exported data to re-create the blog structure
-- Generating new content to re-create additional blog content (e.g. category pages, tag pages, archives, RSS feeds, adding comments/pingbacks)
+- Modify markdown sourced from Wordpress to tidy up any outdated content/links to make it fit within `mkdocs` requirements.
+- Modify the structure of the exported data to re-create the blog structure.
+- Generate new content to re-create additional blog content (e.g. category pages, tag pages, archives, RSS feeds, adding comments/pingbacks)
 
 Done in two main Python scripts
 
@@ -20,8 +20,9 @@ Done in two main Python scripts
 
 ## To do
 
-- Add prev/next to the category pages
-- Add list of categories in the right hand menu
+- Add list of categories in the right hand menu on category pages
+- Create "home pages" for categories and archives - e.g. https://blog.jim-nielsen.com/archive/)
+- Add RSS button to header/navigation
 
 ## `blogTidyUp.py`
 
@@ -65,15 +66,7 @@ For the blog, the primary computational components is `blog.py`, which performs 
 - Generate category pages.
 
     At the time of this work blog posts were allocated into 152 different categories. A category page lists an excerpt of all the posts belonging to the category.
-- Generate an RSS feed.
-
-    Generate an RSS feed of the 20 most recent posts.
-
-    **TODO** feed items limited
-        - no pubDate
-        - Not the full description
-        - no categories
-        - Content quoting has &gt; type 
+- Generate an RSS feed - using [python-feedgen](https://feedgen.kiesow.be) of the 20 most recent posts.
 - Generate the home page, which
 
     - adds excerpts of the 20 most recent posts to the home page

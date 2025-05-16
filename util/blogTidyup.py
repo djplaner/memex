@@ -94,40 +94,6 @@ OLD_LINKS = [
 ]
 
 
-#def readBlogMarkdown(markdownFile):
-"""
-    Return the markdown content and frontmatter content for a markdown file given by full path
-
-    returns a dict containing the following keys
-    - content - the markdown content (minus YAML front matter)
-    - yaml - the YAML front matter (as a dict)
-"""
-
-"""    
-    md = markdown.Markdown(extensions=['meta'])
-    pageData = {}
-    with open(markdownFile, encoding="utf-8-sig") as f:
-        pageData["content"] = f.read()
-        html = md.convert(pageData["content"])
-        pageData['yaml'] = md.Meta
-        pageData['html'] = html
-
-        for key in pageData['yaml'].keys():
-            pageData['yaml'][key] = pageData['yaml'][key][0]
-            # remove any quotes surrounding the value
-            pageData['yaml'][key] = pageData['yaml'][key].lstrip(
-                '\"').rstrip('\"')
-
-            # -- remove the yaml frontmatter from pageData['content']
-            pattern = r"^---\n.*---\n"
-            pageData['content'] = re.sub(
-                pattern, "", pageData['content'], flags=re.DOTALL)
-
-        return pageData
-
-    return None
-"""
-
 def readBlogMarkdown(markdownFile):
     pageData = {}
     with open(markdownFile, encoding="utf-8-sig") as f:
