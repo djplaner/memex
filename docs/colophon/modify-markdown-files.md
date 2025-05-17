@@ -20,8 +20,30 @@ Done in two main Python scripts
 
 ## To do
 
+- Create categories and archives pages
+
+    - linked from the top nav
+        - ~/archives/
+        - ~/category/
+    - go to a page that shows a list of all archives/categories
+    - perhaps with nice interface (eventually)
+    - perhaps with some sort of introduction
 - Add list of categories in the right hand menu on category pages
+- Add list of archives in the right hand menu on archive pags
+
+    - add "categories" list to the YAML frontmatter of each category page
+    - add "archives" list to the YAML frontmatter of each archive page
+    - both use the blog-cagtegory.html template
+    - Use a conditional in the template to modify the right/left menu contents  
+
 - Create "home pages" for categories and archives - e.g. https://blog.jim-nielsen.com/archive/)
+
+- Increase font size to 1rem
+
+RSS
+- Explore if possible to set the feed URL to same as Wordpress - djon.es/blog/feed/
+    - There is a redirect mod for mkdocs, but doesn't like to work with genfiles, use apache config instead?
+- Improve the <link> header embeds in template to match Wordpress
 - Add RSS button to header/navigation
 
 ## `blogTidyUp.py`

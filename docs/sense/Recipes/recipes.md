@@ -32,11 +32,12 @@ Other baking recipes
 - [[chilli-chicken]]
 - [Serious Eats' Lamb Biryani](https://www.seriouseats.com/recipes/2020/07/lamb-biryani.html)
 
-## Stews etc
+## Stews and curries
 
 - [Spicy Pork Stew with Peppers and Potatoes](https://www.finecooking.com/recipe/spicy-pork-stew-with-peppers-and-potatoes)
 - [Sausage-tomato coconut curry](https://www.tasteofhome.com/recipes/sausage-tomato-coconut-curry/)
 - [[Chicken-spuds-carrots-honey-garlic]]
+- [[thai-red-curry-chicken-pieces]]
 
 ## Pasta
 
@@ -58,6 +59,7 @@ Other baking recipes
 [fried-green-beans-chilli]: fried-green-beans-chilli "fried-green-beans-chilli"
 [chilli-chicken]: chilli-chicken "Chilli Chicken"
 [Chicken-spuds-carrots-honey-garlic]: chicken-spuds-carrots-honey-garlic "Chicken-spuds-carrots-honey-garlic"
+[thai-red-curry-chicken-pieces]: thai-red-curry-chicken-pieces "Thai red curry chicken pieces"
 [nats-bolognaise]: nats-bolognaise "Nat's What I Reckon - bolagnaise"
 [baked-ziti]: baked-ziti "Baked Ziti"
 [blue-cheese-sauce]: blue-cheese-sauce "Blue cheese sauce"
