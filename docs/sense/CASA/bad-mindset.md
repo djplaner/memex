@@ -1,10 +1,15 @@
-# BAD - Bricolage Affordances Distribution 
+---
+title: The BAD (Bricolage, Affordances, Distribution) mindset
+type: note
+tags:
+    - BAD
+    - SET
+    - CASA
+---
 
 See also: [[bricolage]], [[affordances]], [[distribution]], [[casa]], [[ateleogical-versus-teleological]]
 
-See [[bad_set-casa-gather-weave]] for an attempt to bring together the BAD/SET, CASA, and Gather/Weave mini-theories.
-
-
+See [[bad_set-casa-gather-weave]] for an attempt to bring together the BAD/SET, CASA, and Gather/Weave mini-"theories".
 
 ## Description
 

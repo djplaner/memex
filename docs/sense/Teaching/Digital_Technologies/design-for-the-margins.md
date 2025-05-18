@@ -6,7 +6,7 @@ tags: design, technology
 
 See also: [[technology-changes-us]]
 
-Idea from Agre (1997) which I'm still finding out and thinking about. There is a lot here which resonates with experiences with [[bad]]
+Idea from Agre (1997) which I'm still finding out and thinking about. There is a lot here which resonates with experiences with [[bad-mindset]]
 
 My current take
 

@@ -21,7 +21,7 @@
 
 Over the last 10+ years colleagues and I have been reflecting on experiences trying to stretch the [[iron-triangle]]. That work has resulted in three different abstractions/mini-theories:
 
-1. The [[bad]]/set (Bricolage, Affordances, Distribution / Strategic, Established, Tree-like) framework (Jones & Clark, 2014) and [related blog posts](https://djon.es/blog/category/bad/)
+1. The [[bad-mindset]]/set (Bricolage, Affordances, Distribution / Strategic, Established, Tree-like) framework (Jones & Clark, 2014) and [related blog posts](https://djon.es/blog/category/bad/)
 2. [[casa]] - Context Appropriate Scaffolding Assessmblages (Jones, Lawson, Beer, & Jones, 2018; Jones, 2019) and [related blog posts](https://djon.es/blog/category/casa/)
 3. The idea of gather/weave/augment ([Jones, 2022](https://djon.es/blog/2022/10/10/orchestrating-entangled-relations-to-stretch-the-iron-triangle-observations-from-an-lms-migration/#poster); [Booten, Cook, & Jones, 2023](https://djon.es/blog/2023/02/09/gathers-weavers-and-augmenters-three-principles-for-dynamic-and-sustainable-delivery-of-quality-learning-and-teaching/))
 
@@ -46,7 +46,7 @@ Increasingly, I'm wondering
 
 ## BAD/SET - The current situation
 
-The [[bad]]/SET mindsets describe two (arguably) incommensurable approaches to supporting design for learning/stretch the iron triangle. The SET mindset describes most of how/what institutions do to stretch the iron triangle. The BAD mindset describes how/what individual teachers/teaching do. We argued that there is a chasm between these two approaches and a need to interweave both (Jones & Clark, 2014)
+The [[bad-mindset]]/SET mindsets describe two (arguably) incommensurable approaches to supporting design for learning/stretch the iron triangle. The SET mindset describes most of how/what institutions do to stretch the iron triangle. The BAD mindset describes how/what individual teachers/teaching do. We argued that there is a chasm between these two approaches and a need to interweave both (Jones & Clark, 2014)
 
 An approach that appears to resonate (duplicate) points from [[complexity-leadership]]
 

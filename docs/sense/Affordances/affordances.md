@@ -1,6 +1,6 @@
 # Affordances
 
-See also: [[bad]] 
+See also: [[bad-mindset]] 
 
 Wikipedia on [affordance](https://en.wikipedia.org/wiki/Affordance)
 
@@ -20,7 +20,7 @@ Norman (2002)
 
 ## The affordances of digital technology 
 
-The [[bad]] mindset includes the nascent idea of [_the affordance mindset_](https://djon.es/blog/2014/11/07/established-versus-affordances-part-of-the-reason-institutional-e-learning-is-like-teenage-sex/#the-affordance-mindset). A mindset that 
+The [[bad-mindset]] mindset includes the nascent idea of [_the affordance mindset_](https://djon.es/blog/2014/11/07/established-versus-affordances-part-of-the-reason-institutional-e-learning-is-like-teenage-sex/#the-affordance-mindset). A mindset that 
 
 - knows that digital technologies can be changed; and,
 - sees value in changing digital technologies to suit the purposes of the people using it.

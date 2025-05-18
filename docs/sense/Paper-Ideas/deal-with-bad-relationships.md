@@ -40,7 +40,7 @@ The "actual" column from Fawn's entangled view of the relationship provides the 
 - 
 ## Related
 
-- [[bad]] mindset
+- [[bad-mindset]] mindset
 - [[task-activity-distinction]]
 
 

@@ -1,6 +1,6 @@
 # Relational Agency
 
-See also: [[bad]], [[distribution]]
+See also: [[bad-mindset]], [[distribution]]
 
 Edwards (2011) offers this definition of _relational agency_
 > relational agency involves a capacity for working with others to strengthen purposeful responses to complex problems. It arises in a two stage process within a constant dynamic which consists of:

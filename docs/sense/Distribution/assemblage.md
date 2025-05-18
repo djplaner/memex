@@ -6,7 +6,7 @@ tags:
     - assemblage
 ---
 
-See also: [[distribution]], [[bad]], [[assemblage-jones-2015]]
+See also: [[distribution]], [[bad-mindset]], [[assemblage-jones-2015]]
 
 Origins with Deleuze and Guattari
 

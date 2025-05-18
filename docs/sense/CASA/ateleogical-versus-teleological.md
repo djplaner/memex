@@ -1,6 +1,6 @@
 # Ateleological versus teleological
 
-See also: [[bad]]
+See also: [[bad-mindset]]
 
 Introna (1996) proposed a distinction between ateleological and teleoogical design.
 

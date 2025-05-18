@@ -36,7 +36,7 @@ Following was written as part of a report on my internship whilst studying by Gr
 
 I like that I used the wicked design problem idea. Though, today, I wouldn't have gone with connectivism. I'd go with pragmatism. i.e. Box's quote "That all models are wrong, but some are useful". Pragmatism was the philosophy underpinning my PhD. 
 
-This echoes arguments Dron and Anderson (2023) make in terms of [[bricalogogy]]. Which in turn resonates strongly with the Bricolage Affordances Distribution ([[bad]]) mindset I've written about. 
+This echoes arguments Dron and Anderson (2023) make in terms of [[bricalogogy]]. Which in turn resonates strongly with the Bricolage Affordances Distribution ([[bad-mindset]]) mindset I've written about. 
 
 ### The original
 

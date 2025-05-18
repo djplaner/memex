@@ -19,7 +19,7 @@
 
 See also: [[teaching-mathematics]], [[abc-learning-design-and-acad]], [[evolution-of-design-for-learning]]
 
-Nascent idea to underpin [[my-approach-to-teaching-mathematics]] on an activity centered design for learning approach. i.e. moving the focus beyond learning outcomes, curriculum, direct instruction, etc. and other reductionist assumptions toward are more socio-cultural ([[bad]]) approach.
+Nascent idea to underpin [[my-approach-to-teaching-mathematics]] on an activity centered design for learning approach. i.e. moving the focus beyond learning outcomes, curriculum, direct instruction, etc. and other reductionist assumptions toward are more socio-cultural ([[bad-mindset]]) approach.
 
 ## Current ideas
 

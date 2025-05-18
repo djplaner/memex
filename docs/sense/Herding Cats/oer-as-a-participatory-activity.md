@@ -8,7 +8,7 @@ The Moodle open book project is a small step toward that [site](https://davidtjo
 
 Which in turn raises the issue of the [[reusability-paradox]]
 
-Tags: [[bad]], [[distribution]], [[affordances]], [[bricolage]] 
+Tags: [[bad-mindset]], [[distribution]], [[affordances]], [[bricolage]] 
 
 ## Related categories
 

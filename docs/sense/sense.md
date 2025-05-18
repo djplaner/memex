@@ -6,7 +6,7 @@ See: [[pkm]]
 
 | Notes | Description |
 |---|---|
-| [[bad]] - [[bricolage]], [[affordances]], [[distribution]] | Ponderings about the BAD mindset |
+| [[bad-mindset]] - [[bricolage]], [[affordances]], [[distribution]] | Ponderings about the BAD mindset |
 | [[casa]] | Contextually Appropriate Scaffolding Assemblages |
 | [[herding-cats]] | And why it's often the wrong metaphor? |
 | [[know-thy-student]] | Experiment with an early CASA |

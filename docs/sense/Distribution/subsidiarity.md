@@ -6,13 +6,13 @@ tags: bad, distribution
 
 See also: [[distribution]]
 
-An idea I was introduced to by [Col Beer's blog post](https://beerc.wordpress.com/2025/03/14/subsidiarity/). An idea which resonates with the [[distribution]] aspect of the [[bad]] mindset, and which likely suffers the same challenges. Col offers the following definition:
+An idea I was introduced to by [Col Beer's blog post](https://beerc.wordpress.com/2025/03/14/subsidiarity/). An idea which resonates with the [[distribution]] aspect of the [[bad-mindset]] mindset, and which likely suffers the same challenges. Col offers the following definition:
 
 > The principle of subsidiarity is simple and asserts that decisions should be made at the lowest possible level of governance that can effectively address a given issue (Garrick et al., 2011). Subsidiarity involves the transfer of responsibility and authority from higher management to employees, facilitating greater ownership of tasks and contextual informed decision-making processes
 
-Having worked through some thoughts below, it strikes me that _subsidiarity_ suffers the same challenge as ideas like the [[bad]] mindset. A challenge arising from the complexity of action within a complex environment leading and the tendency for organisations to handle that by adopting less that effective outcomes/practices that are accepted as implementable proxies. For example, completing a quality checklist is easier than actually demonstrating the quality in 1000+ courses. Another example is the bastardisation of agile software development into the bastardised corporate practice SCRUM has become.
+Having worked through some thoughts below, it strikes me that _subsidiarity_ suffers the same challenge as ideas like the [[bad-mindset]] mindset. A challenge arising from the complexity of action within a complex environment leading and the tendency for organisations to handle that by adopting less that effective outcomes/practices that are accepted as implementable proxies. For example, completing a quality checklist is easier than actually demonstrating the quality in 1000+ courses. Another example is the bastardisation of agile software development into the bastardised corporate practice SCRUM has become.
 
-Implementing something like _subsidiarity_ across an organisation is likely suffer the same fate. The complexity of successful implementation would be just too hard leading to proxy practices that are ineffective, but easy to implement. _Subsidiarity_ (like the [[bad]] mindset) faces the additional complexity that arises from being based on a philosophy directly opposite to that used by most contemporary organisations. Especially in times of financial constraint and within a less than friendly environment.
+Implementing something like _subsidiarity_ across an organisation is likely suffer the same fate. The complexity of successful implementation would be just too hard leading to proxy practices that are ineffective, but easy to implement. _Subsidiarity_ (like the [[bad-mindset]] mindset) faces the additional complexity that arises from being based on a philosophy directly opposite to that used by most contemporary organisations. Especially in times of financial constraint and within a less than friendly environment.
 
 ## The competence problem in a complex environment
 

@@ -9,20 +9,11 @@ See also: [[colophon]], [[convert-wordpress-into-memex]]
 
 A near final step of [[convert-wordpress-into-memex|converting my Wordpress blog]] to markdown files is updating the interface of the website. Tweaking [Material for Mkdocs](https://squidfunk.github.io/mkdocs-material/) to better suit my design intent.
 
-To do
-
-- Overall design
-    - get light/dark mode working
-    - set dark mode as default
-- 
-
-
 ## Blog interface design
 
 ### Resources
 
 - [Material for Mkdocs blog templates](https://andre601.ch/blog/2025/02-10-integrate-gitea-forgejo-stats/) and [here in the repo](https://github.com/squidfunk/mkdocs-material/blob/master/material/templates/blog-post.html)
-
 
 ## Overall design
 

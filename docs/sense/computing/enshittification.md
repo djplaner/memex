@@ -4,7 +4,7 @@ type: "note"
 tags: digital-humanism, teaching-digital-technologies, BAD
 ---
 
-See also: [[BAD]], [[digital-humanism]], [[teaching-digital-technologies]]
+See also: [[bad-mindset]], [[digital-humanism]], [[teaching-digital-technologies]]
 
 Sources:
 

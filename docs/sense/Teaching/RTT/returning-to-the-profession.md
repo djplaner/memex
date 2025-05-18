@@ -74,7 +74,7 @@ Identifies reflection as important, but how important for education has only sta
 For me this highlights a possible echoing between the 
 
 - [[set-mindset]] typically of our increasingly corporate education systems and their adoption of teleological design, resonating with routine action; and,
-- the [[bad]] mindset which is more about reflection and bricolage, about ateleological design - resonating strongly with reflective action.
+- the [[bad-mindset]] mindset which is more about reflection and bricolage, about ateleological design - resonating strongly with reflective action.
 
 Killen reinforces this through mention of Gilberts (1994) perspective of two views of education
 

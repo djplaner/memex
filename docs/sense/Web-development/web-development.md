@@ -7,7 +7,9 @@ Resources on all things developing web applications
 - Usable projects - Aim to develop quick way of developing [[usable-casa]] using [[svelte]]
 - [[foam-dev]] - explorations around [Foam](https://foambubble.github.io/)
 
+
 ## Resources
+
 
 ### Knowledge
 

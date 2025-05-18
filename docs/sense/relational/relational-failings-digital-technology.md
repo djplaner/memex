@@ -1,6 +1,6 @@
 # The Relational Failings of Digital Technology
 
-See also: [[bad]], [[distribution]], [[computing]], [[teaching]]
+See also: [[bad-mindset]], [[distribution]], [[computing]], [[teaching]]
 
 ## As workplace learning
 

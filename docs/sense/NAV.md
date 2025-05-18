@@ -1,6 +1,6 @@
 * [Sense](sense.md)
    * Abstractions:
-      * [BAD](CASA/bad.md)
+      * [BAD](CASA/bad-mindset.md)
       * [CASA](CASA/casa.md)
       * [Herding Cats](Bricolage/herding-cats.md)
       * [Know thy student](CASA/know-thy-student.md)

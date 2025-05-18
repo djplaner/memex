@@ -8,39 +8,48 @@ tags:
 
 See also: [[colophon]], [[convert-wordpress-into-memex]]
 
-A new day dawns. A [planned technology migration](https://djon.es/blog/2025/01/12/what-now/) of my blog is complete. Goodbye to "big tech" Wordpress and its (IMHO) horrid authoring environment and bloated performance. Hello to a markdown based static site generated through Python and numerous open source tools. 
+A new day dawns. A [planned technology migration](https://djon.es/blog/2025/01/12/what-now/) of my blog is complete. 
 
-Authoring this post marks a functionally complete blog. However, the tinkering will continue. This first post using the new assemblage is intended to:
+Goodbye to "big tech" Wordpress and its (IMHO) horrid authoring environment and bloated performance. Hello to a markdown based static site generated through Python and numerous open source tools. The blog is reasonably functionally complete, but tinkering will continue. After all, enabling tinkering was a key motivation for the migration. 
 
-1. share what was done and the results;
-2. help develop the authoring process;
-3. reflect on the process; and,
-4. document some initial ideas for next steps.
+This post celebrates that move and is intended to:
 
-## What was done
+1. share how it was done;
+3. help develop the authoring process;
+4. reflect on the process; and,
+5. document some initial ideas for next steps.
 
 !!! note "Linking the stream and the garden"
 
-    The links below demonstrate my attempt to link the ["garden and the stream"](https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/). This blog is a stream. A serialisation of more complete ideas I'm sharing with others. My [memex site](https://djon.es/memex) is a garden. An iterative space within which I iteratively develop, refine and share ideas in ways that are tentative and interconnected. A space where I try to make sense of these ideas and use them for my own purposes. 
+    Many of the links below demonstrate a linkage between the ["garden and the stream"](https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/). 
     
-    Purposes like figuring out how to [[convert-wordpress-into-memex|convert my Wordpress blog]]. The remaining links in this section connect my work-in-progress on this activity.
+    This blog post is part of my stream. A serialisation of more complete ideas I'm sharing with others. 
 
+    Many of the links below are to my [memex site](https://djon.es/memex). My garden of ideas. A space within which I iteratively develop, refine and share ideas in ways that are tentative and interconnected. A space where I document experiments and slowly grapple with ideas.
+    
+    Experiments like [[convert-wordpress-into-memex|converting my Wordpress blog to Markdown]]. 
 
-The task of [[convert-wordpress-into-memex|converting my Wordpress blog]] into a markdown based static site involved the following steps:
+## How it was was done
+
+The task of [[convert-wordpress-into-memex|converting my Wordpress blog to markdown]] included the following steps:
 
 1. [[export-wordpress-to-markdown|Export]] contents of the Wordpress blog to markdown.
 
-    Use Wordpress' in-built export to download an XML file and then use [Wordpress export to Markdown](https://github.com/lonekorean/wordpress-export-to-markdown) to generate a structured collection of markdown files ready for the next step.
-2. [[modify-markdown-files|Modify the markdown]] to mirror the old blog structure using the new technology stack.
+    Use Wordpress' in-built export functionality to download an XML file with all of the blog's content. Then use [Wordpress export to Markdown](https://github.com/lonekorean/wordpress-export-to-markdown) to generate a structured collection of markdown files ready for the next step. 
+2. [[modify-markdown-files|Modify the markdown]] to mirror the old blog structure, fix outdated content, and create blog functionality. 
 
-    Starting by using custom Python scripts to tidy up and correct the markdown files due to outdated blog content (e.g. Slideshare links I now longer use) and other issues (e.g. various outdated links). Other Python scripts were used to modify the structure of the markdown files from the previous step to re-create the existing blog structure. Meaning that existing links to blog posts and pages would still work. Finally more Python scripts were used to generate additional blog functionality using [[computational-components]] (e.g. category pages, archives, RSS feeds, existing comments/pingbacks).
-3. [[modify-interface|Tweak the interface]] provided by my static site generator to better suit the design of my new blog.
+    Tidy up and correct the markdown files due to outdated blog content (e.g. Slideshare links I now longer use) and other issues (e.g. various outdated links). Modify the structure of the markdown files from the previous step to re-create the existing blog structure so that long-term URLs for blog posts stay the same. Add explicit support for blog functionality (e.g. category pages, archives, RSS feeds, existing comments/pingbacks) to the [MkDocs static site generator (SSG)](https://www.mkdocs.org).
+    
+        All done using Python. Initially standard Python scripts. Then using the ability provided by MkDocs' plugins to embed custom Python scripts which I've been calling my [[computational-components]].
+4. [[modify-interface|Tweak the SSG interface]] to better suit the design of my new blog.
 
     Mostly involving tweaking the static site generator's ([Material for MkDocs](https://squidfunk.github.io/mkdocs) HTML and CSS templates.
-4. [[comparing-wordpress-to-memex|Compare and refine]] the new blog against the old and expectations.
+5. [[comparing-wordpress-to-memex|Compare and refine]] the new blog against the old and expectations.
 
     Speed, accessibility, and validation tests on the new blog to see if it was faster and better than the old. 
-5. Replace Wordpress.
+6. Replace Wordpress.
+
+    Edit the web server configuration to move the Wordpress blog and replace it with the new blog.
 
 ## Authoring process
 
@@ -51,6 +60,26 @@ The other the additional functionality required of a blog. For example, links to
 ```sh
 python util/updatePost.py --post <markdown file>
 ```
+
+## Reflections
+
+### everything old is new again - static sites
+
+Harking back to webfuse days
+
+Svelte
+
+### interoperability 
+
+Shirky (2008) - "The web is a platform for interoperability". The blog is now a collection of markdown files that can be used in other contexts. For example, the blog posts are now available in my memex.
+
+### Reusability paradox
+
+Not something that anyone else could easily use. Assemblage to something that is specific to me. VS-Code, Foam, Python,
+
+### House of cards
+
+Technologies change. Perl > Python > Svelte > Python
 
 
 ## Next steps
@@ -72,10 +101,10 @@ python util/updatePost.py --post <markdown file>
 [//begin]: # "Autogenerated link references for markdown compatibility"
 [colophon]: ../../../colophon/colophon "About (Colophon)"
 [convert-wordpress-into-memex]: ../../../colophon/convert-wordpress-into-memex "Convert Wordpress into Memex"
-[convert-wordpress-into-memex|converting my Wordpress blog]: ../../../colophon/convert-wordpress-into-memex "Convert Wordpress into Memex"
+[convert-wordpress-into-memex|converting my Wordpress blog to markdown]: ../../../colophon/convert-wordpress-into-memex "Convert Wordpress into Memex"
 [export-wordpress-to-markdown|Export]: ../../../colophon/export-wordpress-to-markdown "Export Wordpress to Markdown"
 [modify-markdown-files|Modify the markdown]: ../../../colophon/modify-markdown-files "Modify Markdown files"
-[computational-components]: ../../../colophon/computational-components "Computational components"
-[modify-interface|Tweak the interface]: ../../../colophon/modify-interface "Modify blog interface"
+[modify-interface|Tweak the SSG interface]: ../../../colophon/modify-interface "Modify blog interface"
 [comparing-wordpress-to-memex|Compare and refine]: ../../../colophon/comparing-wordpress-to-memex "Comparing Wordpress to Memex"
+[computational-components]: ../../../colophon/computational-components "Computational components"
 [//end]: # "Autogenerated link references"

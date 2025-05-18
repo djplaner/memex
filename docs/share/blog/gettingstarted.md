@@ -91,7 +91,7 @@ The plan here is:
 
 One of the problems I face is that I doubt I ever used Wikity all that well. And what is there seems to have broken links
 
-[Card:Three types of decentralisation](https://wikity.djon.es/three-types-of-decentralisation/) as some wonky content but does include a "see" link that is meant to point to a Cardbox. The content is in markdown and the "see" link is a wiki link `[[BAD]]`
+[Card:Three types of decentralisation](https://wikity.djon.es/three-types-of-decentralisation/) as some wonky content but does include a "see" link that is meant to point to a Cardbox. The content is in markdown and the "see" link is a wiki link `[[bad-mindset]]`
 
 [Cardbox:Affordances](http://wikity.djon.es/why-the-web-scales/?cardbox=Affordances) contains two cards. It shows that a CardBox is essentially only links to other cards.  The content is shown in the left hand nav bar. The content of this Wordpress post is two wiki links to the cards e.g.
 > `[[Why the web scales]]`
