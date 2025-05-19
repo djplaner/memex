@@ -131,11 +131,11 @@ nav:
   - Wood Duck Meadows: sense/landscape-garden/
   - Plants: sense/landscape-garden/plants/plants.md
   - Birding: sense/birdwatching/birding.md
-  - PKM:
-    - PKM: pkm.md
-    - Seek: seek/seek.md
-    - Sense: sense/sense.md
-    - Share: share/share.md
+#  - PKM:
+#    - PKM: pkm.md
+#    - Seek: seek/seek.md
+#    - Sense: sense/sense.md
+#    - Share: share/share.md
   - About: colophon/colophon.md
 
 validation:

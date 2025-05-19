@@ -36,7 +36,7 @@ OUTPUT_FOLDER = "/Users/davidjones/blog/docs"
 OLD_BLOG_URL = "https://davidtjones.wordpress.com"
 OLD_BLOG_URL_MISSING = "davidtjones.wordpress.com"
 CURRENT_BLOG_URL = "https://djon.es/blog"
-MEMEX_BLOG_URL = "/blog2"
+MEMEX_BLOG_URL = "/blog"
 
 
 BROKEN_LINKS = {}
@@ -419,8 +419,8 @@ def updatePosts(xml):
     #for post in postMarkdownFiles:
     for postData in orderedPosts:
         # default previous/next is loop back to home page
-        previous = { 'text': 'Home', 'url': '/blog2/index.html' }
-        next = { 'text': 'Home', 'url': '/blog2/index.html' }
+        previous = { 'text': 'Home', 'url': '/blog/index.html' }
+        next = { 'text': 'Home', 'url': '/blog/index.html' }
         if count > 0:
             next = { 
                     'text': f'{orderedPosts[count-1]["postContent"]["yaml"]["title"]}',

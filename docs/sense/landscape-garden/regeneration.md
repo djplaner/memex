@@ -15,7 +15,9 @@ Nascent work on bush regeneration (aka [[ecosystem-restoration]]) of [[wood-duck
 
 Still in the early days, but our approach will not be straight [[ecosystem-restoration]]. It will include insights from [[permaculture]] and [[permaculture-principles]]. In particular, the idea of obtaining a yield. For example, the planning of fruit trees that aren't native (e.g. [[mango-nam-doc-mai]], [[loquat-lower-dam]]).
 
-### Context
+Any approach should be appropriate to the context.
+
+### Our context
 
 [[wood-duck-meadows]] is located within the Lockyer Valley. There are a number of [regionally appropriate habitat types](https://www.qld.gov.au/environment/plants-animals/habitats/habitat) that we may be looking to regenerate/develop, including
 
@@ -32,25 +34,35 @@ Still in the early days, but our approach will not be straight [[ecosystem-resto
     There are dry rainforest trees spread across the property, including: [[bunya-pine]], hoop pines; [[macadamia]] trees; [[harpullia-pendula]] (Tulipwoods); numerous fig trees of different species (e.g. [[unknown-ficus]]); and, some [[brachychiton-rupestris]]].
 
 
-## Levels of thinking
+## Levels of thinking about bush regeneration
 
-Levels of thinking about bush regeneration
+<div class="grid cards" markdown>
 
-1. Approaches.
+- Philosophies.
+
+    ---
 
     Broad principles/philosophies/mindset about how to perform bush regeneration.
 
-2. Stages.
+- [[regeneration-strategies|Strategies]].
+
+    ---
 
     Broad stages in the process of bush regeneration. Stages that are visible in different approaches and which are implemented using various different techniques. Common stages might include:
 
     - Reducing invasive species.
     - Mitigating weeds and erosion.
     - Replanting and introducing species.
+    - [[improving-soil]].
 
-3. Techniques.
+3. [[regeneration-techniques|Techniques]]
+
+    ---
 
     Specific methods for carrying out the work required in stages.
+
+</div>
+
 
 ## Design
 
@@ -101,6 +113,9 @@ Levels of thinking about bush regeneration
 [harpullia-pendula]: plants/harpullia-pendula "Harpullia Pendula (Moreton Bay Tulipwood)"
 [unknown-ficus]: individual-plants/unknown-ficus "Unknown ficus"
 [brachychiton-rupestris]: plants/brachychiton-rupestris "Brachychiton rupestris (Queensland Bottle Tree)"
+[regeneration-strategies|Strategies]: strategies/regeneration-strategies "Regeneration strategies"
+[improving-soil]: stages/improving-soil "Improving soil"
+[regeneration-techniques|Techniques]: techniques/regeneration-techniques "Regeneration techniques"
 [using-sketchup]: using-sketchup "Using Sketchup"
 [ecosystem-metrics]: ecosystem-metrics "Ecosystem metrics"
 [plants]: plants/plants "Plants"

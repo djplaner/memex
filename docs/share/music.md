@@ -31,9 +31,14 @@ See also: [[share]]
 
 ## Zeke
 
-### 2018 QYO Performances<
+### 2017
 
-- QYO2 with Zeke solo basson playing [The Dragoons of Alcala](https://djon.es/music/QYO/Les dragons dAlcala.mp3) from the Carmen Suite #1<
+- [Early steps with the bassoon - Jan 2017](https://djon.es/music/2017/jan2017.mp3)
+- [Early accompanied bassoon performance July 2017](https://djon.es/music/2017/july2017.mp3)]
+
+### 2018 QYO Performances
+
+- QYO2 with Zeke solo basson playing [The Dragoons of Alcala](https://djon.es/music/QYO/lesDragons.mp3) from the Carmen Suite #1
 
 ### 2018 competition recordings
 
