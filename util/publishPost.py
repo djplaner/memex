@@ -196,6 +196,8 @@ def readBlogMarkdown(markdownFile, transformLinks=True):
     pageData['content'] = post.content
     pageData['yaml'] = post.metadata
 
+    pageData['old-content'] = post.content
+
     if transformLinks:
         # remove the link definitions from the content
         pageData = extractLinkDefs(pageData)
@@ -385,7 +387,6 @@ def publishPost(memexFileName:str):
     #   yaml, content, linkDefs
     postData = readBlogMarkdown(memexFileName)
     # save the original content for latter use
-    originalContent = postData['content']
     postData['content'] = convertWikiLinks(postData)
 
     if DEBUG:
@@ -397,21 +398,11 @@ def publishPost(memexFileName:str):
     #     postData['yaml']['publishedPath'] = <path to published post>
     #  (relative to the blog folder)
     postFolderPath = ""
-    nextPost = {}
-    prevPost = {}
     if "publishedPath" in postData['yaml']:
-        print("---- post already published")
         #-- if the post is already published, then just copy it to the blog folder
         # - no extra work required, already in the YAML
-        postFolderPath = postData['yaml']['publishedPath']
+        postFolderPath = f"{BLOG_FOLDER}/{postData['yaml']['publishedPath']}/"
         #-- 
-        nextPost = postData['yaml']['next']
-        prevPost = postData['yaml']['previous']
-        print("--- next")
-        pprint(nextPost)
-        print("--- prev")
-        pprint(prevPost)
-        input("Press Enter to continue...")
     else:
         #-- if the post is not published, then
         #   - calculate the publish date-based folder format yyyy/mm/dd/slug
@@ -431,7 +422,7 @@ def publishPost(memexFileName:str):
     #-- write the content to the blog file
     writePost(postData)
     #-- update the original blog post md file to include path to published post to support updating
-    postData['content'] = originalContent
+    postData['content'] = postData['old-content']
     writePost(postData, memexFileName)
 
 if __name__ == "__main__":

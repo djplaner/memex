@@ -1,7 +1,7 @@
 ﻿---
 categories:
 - colophon
-date: 2025-05-23 13:49:58.198880+00:00
+date: 2025-05-23 14:17:25.821396+00:00
 next:
   text: Home
   url: /blog/index.html
@@ -13,6 +13,7 @@ template: blog-post.html
 title: A new day
 type: post
 ---
+## Introduction
 
 A new day dawns. The [planned technology migration](https://djon.es/blog/2025/01/12/what-now/) of my blog is complete.  Goodbye to "big tech" Wordpress and its (IMHO) horrid authoring environment and bloated performance. 
 
@@ -20,19 +21,19 @@ Hello to a markdown based static site generated through Python and numerous open
 
 This post celebrates that move and:
 
-1. Introduces the new technology stack;
-2. Shares the migration method;
-3. Outlines the new authoring process;
-4. Reflects on the process; and,
-5. Lists some initial ideas for next steps.
+1. [Introduces the new technology stack](#the-new-technology-stack);
+2. [Shares the migration method](#the-migration-method);
+3. [Outlines the new authoring process](#the-authoring-process);
+4. [Reflects on the process](#reflections); and,
+5. Lists some initial ideas for [next steps](#next-steps).
 
 !!! note "Linking the stream and the garden"
 
     Many of the links below demonstrate a linkage between my ["garden and the stream"](https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/). Another key motivation for the migration.
     
-    This blog post is part of my _stream_. A serialisation of more complete ideas I'm sharing with others. 
+    The published version of this blog post is part of my _stream_. A serialisation of more complete ideas I'm explicitly sharing with others. 
 
-    Many of the links below are to my [memex site](https://djon.es/memex). My _garden_ of ideas. A space within which I iteratively develop, refine and share ideas in ways that are tentative and interconnected. A space where I document experiments and slowly grapple with ideas. Experiments like this migration.
+    Some of the links below point to some of the formative and still under construction ideas/work that underpin this published post. These formative ideas exist in my [memex site](https://djon.es/memex). My _garden_ of ideas. The space where I iteratively develop, refine and share ideas in ways that are tentative and interconnected. A space where I document experiments and slowly grapple with ideas. Experiments like this migration.
 
 ## The new technology stack
 
@@ -40,19 +41,19 @@ First, a quick overview of the technology stack for the new blog.
 
 ### Content and authoring
 
-The new blog is a collection of markdown files saved in a git repository (currently [hosted on GitHub](https://github.com/djplaner/blog)). Content authoring is done via VSCode leveraging the [Foam extension](https://marketplace.visualstudio.com/items?itemName=foam.foam-vscode). Foam is an assemblage of existing VSCode extensions configured to provide [Roam Research](https://roamresearch.com) like functionality.
+The new blog starts as a collection of markdown files saved in a git repository (currently [hosted on GitHub](https://github.com/djplaner/blog)). There markdown files are created/edited using VSCode leveraging the [Foam extension](https://marketplace.visualstudio.com/items?itemName=foam.foam-vscode). 
 
-I've been using Foam for Memex and authoring Wordpress blog posts since 2020. The aim is to continue/improve this process for the new blog - see below for more details.
+Foam is an assemblage of existing VSCode extensions configured to provide [Roam Research](https://roamresearch.com) like functionality. I've been using Foam for Memex and authoring Wordpress blog posts since 2020. The aim is to continue/improve this process for the new blog - see below for more details.
 
 ### Publishing the blog
 
-The markdown files are converted into a collection of HTML files using [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/). Material for MkDocs is a template (extension) of the Python based [MkDocs static site generator (SSG)](https://www.mkdocs.org). MkDocs reads the markdown files and generates a collection of HTML files which are added to another git repository. This repository is hosted on my personal web server and thus the web pages become available to you.
+The markdown files are converted into a collection of HTML files using [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/). A template (extension) of the Python based [MkDocs static site generator (SSG)](https://www.mkdocs.org). MkDocs reads the markdown files and generates a collection of HTML files. The HTML files are added to another git repository hosted on my personal web server. From which you've retrieved what you're reading.
 
-The collection of HTML files is supplemented and customised by Python scripts I write. Python scripts that are implemented with two different methods ([mkdocs-gen-files](https://oprypin.github.io/mkdocs-gen-files/index.html) and [mkdocs-macros-plugin](https://mkdocs-macros-plugin.readthedocs.io/en/latest/)) provided by the MkDocs community. 
-
-Methods I've already started using in Memex under the title of [[computational-components]]. For the blog, `mkdocs-gen-files` is used to generate the [archive](/blog/archives/index.html) and [category](/blog/category/index.html) pages. `mkdocs-macros-plugin` is used to generate "macros" that can be included in the final HTML files. For example, the following table is generated by a `blogStats` macro. Intended for use on the [blog's About page](/blog/about.html), but which can now be added to any page. 
+Material for MkDocs also runs additional Python scripts I've written to generate additional HTML (inserted into existing HTML files) and new HTML files. The [archive](/blog/archives/index.html) and [category](/blog/category/index.html) pages are generated by these Python scripts. A Python script also generates the "blog stats" table on the [About page](/blog/about.html). "Blog stats" is implemented as a macro that can be inserted into any page. For example, here it is on this page.
 
 {{ blogStats() }}
+
+This use of Python is an expansion of the [[computational-components]] approach I've started using in Memex. 
 
 ### Serving the blog
 
@@ -65,17 +66,20 @@ The task of [[convert-wordpress-into-memex|converting my Wordpress blog to Markd
 1. [[export-wordpress-to-markdown|Export]] the contents of the Wordpress blog to markdown.
 
     - Use Wordpress' in-built export functionality to download an XML file with all of the blog's content. 
-    - Use [Wordpress export to Markdown](https://github.com/lonekorean/wordpress-export-to-markdown) to generate a structured collection of markdown files.
+    - Use ["Wordpress export to Markdown"](https://github.com/lonekorean/wordpress-export-to-markdown) to generate a structured collection of markdown files.
+
 2. [[modify-markdown-files|Modify the markdown files]] to mirror the old blog structure, fix outdated content, and create blog functionality. 
 
-    Markdown files were moved into a different directory structure that matched the old Wordpress blog structure. This was done to ensure that long-term URLs for blog posts stay the same. The content of the markdown files were modified to tidy up and correct outdated content (e.g. Slideshare links I now longer use, outdated links etc). Add to MkDocs' generic functionality support for blog functionality (e.g. category pages, archives, RSS feeds, comments/pingbacks) so additions to the [MkDocs static site generator (SSG)](https://www.mkdocs.org). All done using Python.
+    In order to retain the same URLs for individual blog posts, the markdown files produced by step 1 had to be placed into a different folder structure. The content of the markdown files was modified to tidy up and correct outdated content (e.g. Slideshare links I now longer use, outdated links etc) and to add blog functionality to MkDocs (e.g. category pages, archives, RSS feeds, comments/pingbacks).
     
 3. [[modify-interface|Tweak the default SSG template]] to better suit the design of my new blog.
 
     Mostly involving tweaking [Material for MkDocs](https://squidfunk.github.io/mkdocs) HTML and CSS templates.
+
 4. [[comparing-wordpress-to-memex|Compare and refine]] the new blog against the old and expectations.
 
     Analyse the speed and accessibility of the new blog HTML to compare with Wordpress. Confirming it is faster, but not without some issues to address.
+
 5. Replace Wordpress.
 
     Modify the the web server configuration to move the Wordpress blog to its [new location](https://djon.es/wordpress-blog) and replace it with [the new blog](https://djon.es/blog/).
@@ -88,27 +92,25 @@ The task of [[convert-wordpress-into-memex|converting my Wordpress blog to Markd
 
     Hence the stream and garden exist in separate Foam workspaces.
 
-Since I wanted to continue my existing practice of [writing blog posts in my garden](http://djon.es/blog/2020/07/07/getting-started-with-memex/index.html#writing-blog-posts-in-memex) I now need a script to "publish" a post from Memex to the blog. Mirroring a process I've been using (sparingly) with Wordpress since 2020.
-
-The new script would also need to add some blog functionality to the markdown files. Previously, Wordpress already provided this. But Foam and MkDocs don't offer an explicit blog functionality. For example, each blog post contains next/previous links. There are added by the script.
+Given that I wanted to continue my existing practice of [writing blog posts in my garden](http://djon.es/blog/2020/07/07/getting-started-with-memex/index.html#writing-blog-posts-in-memex), and Memex and the blog are in separate repositories I needed a script to "publish" a post from Memex to the blog. In essence keeping the process I've using since 2020 to "publish" posts from Memex to Wordpress. In the absence of Wordpress the new _pubish_ script also needed to add some blog functionality to the Memex markdown files. 
 
 ## Reflections
 
 Overall, the migration has met my expectations. The blog is faster. The content is in a more interoperable format. The authoring process remains embedded in Memex. The linkages between the blog and Memex have improved. The MkDocs ecosystem seems to be a good foundation for extensibility and personal tinkering.
 
-Hopefully that translates to a bit more useful writing.
+Hopefully that translates to a bit more writing.
 
 Misc. other reflections follow.
 
 ### Everything old is new again - static sites
 
-Moving away from Wordpress to static site generation using a scripting language has strong echoes of my early days on the web [with Webfuse](/blog/2010/03/10/webfuse-is-dead-long-live-webfuse/index.html). A bespoke "LMS" that formed much of my work in the late 1990s and early 2000s and was the basis of my [PhD](/blog/category/phd.html). A very different approach to my recent dead forays into Javascript frameworks and dynamic sites.
+Moving away from Wordpress to static site generation using a scripting language generate nostalgia for my early days publishing on the web with [Webfuse](/blog/2010/03/10/webfuse-is-dead-long-live-webfuse/index.html). A bespoke "LMS" that formed much of my work in the late 1990s and early 2000s and was the basis of my [PhD](/blog/category/phd.html). Unlike other LMS, Webfuse generated static HTML for speed reasons. A very different approach to my recent, no longer active forays into Javascript frameworks and dynamic sites.
 
-The nostalgia for the good old days may be one reason why I liked the return to static sites. However, another big factor has to be the fluidity of the Javascript ecosystem. The Svelte projects I worked on a few years ago have become obsolete due (amongst other things) to changes in the Svelte ecosystem. Python and MkDocs aren't static, but they aren't running pell mell into the future either.
+The nostalgia for the good old days may be one reason why I liked the return to static sites. However, another big factor has to be the ever-changing fluidity of the Javascript ecosystem. The Svelte projects I worked on a few years ago have become obsolete due (amongst other things) to changes in the Svelte ecosystem. Python and MkDocs aren't static, but they aren't running pell mell into the future either.
 
 ### All models (e.g. software) are wrong
 
-Not that all is perfect, [all models are wrong](/blog/2015/08/28/all-models-are-wrong-but-some-are-useful-and-its-application-to-e-learning/index.html). As shown above, Foam has limitations on the number of documents. Material for MkDocs also has a limit (though much larger). MkDocs was designed to manage online documentation. Stretching it for blogs and Memex starts to reveal more of the mismatch between capability and need. For example, the blog isn't as responsive/fast as I'd like. A major part of that is how Material for MkDocs implements its search engine (via a large JSON file). 
+Not that all is perfect, [all models are wrong](/blog/2015/08/28/all-models-are-wrong-but-some-are-useful-and-its-application-to-e-learning/index.html). As mentioned above, Foam has limitations on the number of documents. Material for MkDocs also has a similar limit (though much larger). MkDocs was designed to manage online documentation. Stretching it for blogs and Memex starts to reveal more of the mismatch between capability and need. For example, the blog isn't as responsive/fast as I'd like. A major part of that is how Material for MkDocs implements its search engine (via a large JSON file). 
 
 There are other problems (e.g. I haven't yet been able to get the [URL for the Wordpress RSS feed](/blog/feed/) to point to the [new blog's feed](/blog/feed/feed.rss)). 
 
@@ -116,13 +118,13 @@ For now, I'm happier to live with this collection of _wrongness_, rather than th
 
 ### Some assemblage required and enabled, fighting the reusability paradox
 
-As the tag line for this blog says, some assemblage is always required. The migration and authoring sections above describe some of the assemblage required so far. The _wrongness_ is a pointer to some further required assemblage. My ability to engage in that assemblage has been better enabled by the migration. Foam and MkDocs are extensible open source projects in technologies I'm familiar with. Having my blog content in Markdown also enables this ongoing assemblage.
+As the tag line for this blog says, some [[assemblage]] is always required. The migration and authoring sections above describe some of the assemblage required so far. The _wrongness_ is a pointer to some further required assemblage. My ability to engage in that assemblage has been better enabled by the migration. Foam and MkDocs are extensible open source projects in technologies I'm familiar with. Having my blog content in Markdown also enables this ongoing assemblage.
 
 Which provides the opportunity to engage more directly with the [[reusability-paradox]]. The notion that the more generic a tool/resource (e.g. MkDocs, Wordpress) the less useful it will be for a specific purpose (e.g. my personal knowledge management). However, the ability to leverage interoperability and the extensibility of some tools means I can add some personal utility. At the cost of genericity.
 
 ### House of cards, Web of complexity
 
-That personal utility also comes at the cost of complexity. The extensibility of the tools I'm using is not really just inherent in the tool. It's an affordance. A relationship between the tool and my background, knowledge, and context. If I weren't retired (time) with a background in scripting languages and engaging in PKM on the web, I wouldn't be able to do this.
+That personal utility also comes at the cost of complexity. The extensibility of the tools I'm using is not really just inherent in the tool. It's an affordance. A relationship between the tool and my background, knowledge, and context. If I weren't retired (time) with a background in scripting languages (knowledge) and engaging in PKM on the web (purpose), I wouldn't be able to do this.
 
 ## Next steps
 
@@ -144,9 +146,9 @@ Interaction is a key argument for a blog. At the moment, the new blog has a reco
 
 Some possible approaches:
 
-- Point to Mastodon
+- Mastodon and ActivityPub
 
-    An approach [Tim uses on some posts](https://heartsoulmachine.com./blog/2025/04-29-a-value-proposition-and-outcomes-focus/) is to ask for comments as replies to a [matching Mastodon toot](https://mastodon.social/@timklapdor/114420226599573017). It does seem somewhat limiting to require comments via a specific platform, but it is a good platform. I wonder if there's a method for displaying comments automatically on the original post?
+    An approach [Tim uses on some posts](https://heartsoulmachine.com./blog/2025/04-29-a-value-proposition-and-outcomes-focus/) is to ask for comments as replies to a [matching Mastodon toot](https://mastodon.social/@timklapdor/114420226599573017). It does seem somewhat limiting to require comments via a specific platform, but it is a good platform (and protocol). There appears to be [code and advice](https://cassidyjames.com/blog/fediverse-blog-comments-mastodon/) on how to do this. 
 
 - [Gicus](https://giscus.app)
 
@@ -178,5 +180,6 @@ The visual design is functional (at best). Being prettier would be nice, especia
 [modify-markdown-files|Modify the markdown files]: ../../../colophon/modify-markdown-files "Modify Markdown files"
 [modify-interface|Tweak the default SSG template]: ../../../colophon/modify-interface "Modify blog interface"
 [comparing-wordpress-to-memex|Compare and refine]: ../../../colophon/comparing-wordpress-to-memex "Comparing Wordpress to Memex"
+[assemblage]: ../../../sense/Distribution/assemblage "Assemblage"
 [reusability-paradox]: ../../../sense/Bricolage/reusability-paradox "reusability-paradox"
 [//end]: # "Autogenerated link references"
