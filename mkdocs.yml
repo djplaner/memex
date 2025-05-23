@@ -3,6 +3,7 @@ site_name: "David's Memex"
 site_url: https://djon.es/memex/
 repo_url: https://github.com/djplaner/memex
 site_author: "David Jones"
+site_description: "David's personal knowledge management garden"
 site_dir: ../memex_site # stick HTML outside main repo
 use_directory_urls: false
 
@@ -11,16 +12,20 @@ theme:
   #  favicon: attachment/portrait.png
   favicon: assets/memex.png
   logo: assets/spider_web.png
-  palette:
-  - scheme: collections
-    toggle:
-      icon: material/brightness-7
-      name: Switch to dark mode
-  - scheme: slate
-    toggle:
-      icon: material/brightness-4
-      name: Switch to light mode
-  custom_dir: .overrides
+  font: 
+    text: Gabarito
+    code: Roboto Mono
+  palette: 
+    - scheme: memexdark
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
+    - scheme: memexlight
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+
+  custom_dir: overrides
   language: en
   features:
     - navigation.tabs
@@ -128,7 +133,7 @@ extra:
 
 nav:
   - Home: index.md
-  - Wood Duck Meadows: sense/landscape-garden/
+  - Regeneration: sense/landscape-garden/regeneration.md
   - Plants: sense/landscape-garden/plants/plants.md
   - Birding: sense/birdwatching/birding.md
 #  - PKM:

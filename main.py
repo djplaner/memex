@@ -54,3 +54,11 @@ def define_env(env):
         """
         datetime_object = datetime.datetime.strptime(strDate, '%Y-%m-%d %H:%M:%S')
         return datetime_object.strftime('%d %b %Y')
+
+    @env.macro
+    def blogStats():
+        """
+        Placeholder for macro from blog stats - implemented in the blog
+        """
+
+        return "{{ blogStats() }}"
