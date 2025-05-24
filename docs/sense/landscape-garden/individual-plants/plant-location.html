@@ -15,9 +15,10 @@
             padding: 0;
         }
     </style>
-    <script>(g => { var h, a, k, p = "The Google Maps JavaScript API", c = "google", l = "importLibrary", q = "__ib__", m = document, b = window; b = b[c] || (b[c] = {}); var d = b.maps || (b.maps = {}), r = new Set, e = new URLSearchParams, u = () => h || (h = new Promise(async (f, n) => { await (a = m.createElement("script")); e.set("libraries", [...r] + ""); for (k in g) e.set(k.replace(/[A-Z]/g, t => "_" + t[0].toLowerCase()), g[k]); e.set("callback", c + ".maps." + q); a.src = `https://maps.${c}apis.com/maps/api/js?` + e; d[q] = f; a.onerror = () => h = n(Error(p + " could not load.")); a.nonce = m.querySelector("script[nonce]")?.nonce || ""; m.head.append(a) })); d[l] ? console.warn(p + " only loads once. Ignoring:", g) : d[l] = (f, ...n) => r.add(f) && u().then(() => d[l](f, ...n)) })
+
+<!--    <script>(g => { var h, a, k, p = "The Google Maps JavaScript API", c = "google", l = "importLibrary", q = "__ib__", m = document, b = window; b = b[c] || (b[c] = {}); var d = b.maps || (b.maps = {}), r = new Set, e = new URLSearchParams, u = () => h || (h = new Promise(async (f, n) => { await (a = m.createElement("script")); e.set("libraries", [...r] + ""); for (k in g) e.set(k.replace(/[A-Z]/g, t => "_" + t[0].toLowerCase()), g[k]); e.set("callback", c + ".maps." + q); a.src = `https://maps.${c}apis.com/maps/api/js?` + e; d[q] = f; a.onerror = () => h = n(Error(p + " could not load.")); a.nonce = m.querySelector("script[nonce]")?.nonce || ""; m.head.append(a) })); d[l] ? console.warn(p + " only loads once. Ignoring:", g) : d[l] = (f, ...n) => r.add(f) && u().then(() => d[l](f, ...n)) })
             ({ key: "AIzaSyD5Zp0NfrpwAbWBq4nTMGoCR_r1odybxgo", v: "weekly" });</script>
-    </script>
+    </script> -->
 
     <script src="https://unpkg.com/@googlemaps/markerclusterer/dist/index.min.js"></script>
     <script type="text/javascript" src="plant-gps.js" type="module"></script>
@@ -87,6 +88,11 @@
     <h3>Locations of individual plants at
         <a href="../wood-duck-meadows.html">Wood duck meadows</a>
     </h3>
+
+
+    <h3>We can't have nice (free) things</h3>
+    <p>Google Maps API is free for the type of lowish use you might expect for a personal website. That worked fine for this site for a few months. Then the web crawlers arrived and usage of this page skyrocketed. Meaning Google wants to start charging. Not much, but enough to limit access to this page.</p>
+    <p>Completely understand the need to charge for a service. Not so understanding of the web crawlers.</p>
     <!--The div element for the map -->
     <div id="map"></div>
 
