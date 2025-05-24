@@ -6,7 +6,7 @@ tags: gardens
 
 See also: [[wood-duck-meadows]], [[individual-plants]]
 
-The following provides a summary of the plant species we've come across on [[wood-duck-meadows]]. It is a far from complete list. See [[individual-plants]] for details on specific plants on [[wood-duck-meadows]].
+The following provides a summary of the plant species we've come across on [[wood-duck-meadows]]. It is a far from complete list. See [[individual-plants]] for details on the [[wood-duck-meadows]] plants we're maintaining.
 
 !!! info "Photo gallery"
 
@@ -55,6 +55,7 @@ The following provides a summary of the plant species we've come across on [[woo
 - [[senna-pendula]] - Easter Cassia/Golden shower
 - [[solanum-americanum]] - American black nightshade
 - [[talinum-paniculatum]] - fameflower or pink baby's breath
+- [[ochna-serrulata]] - Mickey mouse plant/bush
 
 ### Grasses
 
@@ -127,6 +128,7 @@ The following provides a summary of the plant species we've come across on [[woo
 [senna-pendula]: senna-pendula "Senna pendula (Easter Cassia)"
 [solanum-americanum]: solanum-americanum "Solanum americanum (American black nightshade)"
 [talinum-paniculatum]: talinum-paniculatum "Talinum paniculatum"
+[ochna-serrulata]: ochna-serrulata "Ochna serrulata (Mickey Mouse Plant)"
 [arundo-donax]: arundo-donax "Arundo donax (Elephant Grass)"
 [megathyrsus-maximus]: megathyrsus-maximus "Megathyrsus maximus (Guinea grass)"
 [asparagus-africanus]: asparagus-africanus "Asparagus africanus (Climbing asparagus fern)"
