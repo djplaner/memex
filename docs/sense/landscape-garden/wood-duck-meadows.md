@@ -8,9 +8,9 @@ See also: [wood-duck-gallery](./wood-duck-gallery.md), [[plants]], [[individual-
 
 Home since 2012. Property was historically used for small scale farming/market garden before being broken up into smaller lots. Our block being the original homestead and the largest at 10 acres. 
 
-More recently largely used as for horse paddocks. Closer to the house being planted with many different ornamental/non-native trees and plants (e.g. [[agave]]). More recently many areas have been increasingly over grown with various weeds (e.g. climbing asparagus fern ([[asparagus-africanus]]), lantana, [[madeira-vine]], [[cats-claw-creeper]] etc).
+More recently largely used as for horse paddocks. Closer to the house being planted with many different ornamental/non-native trees and plants (e.g. [[agave]]). More recently many areas have been increasingly over grown with various weeds (e.g. [[asparagus-africanus|climbing asparagus fern]], lantana, [[madeira-vine]], [[cats-claw-creeper]] etc).
 
-Our plan is to undertake a process of bush [[regeneration]] to bring back various regionally [appropriate habitat types](https://www.qld.gov.au/environment/plants-animals/habitats/habitat). We're slowly developing a specific [[regeneration]] to achieve this.
+We're slowly engaging in bush [[regeneration]] to bring back various regionally [appropriate habitat types](https://www.qld.gov.au/environment/plants-animals/habitats/habitat). 
 
 The [[house]] is also undergoing a regeneration to be more appropriate to the changing context.
 
@@ -122,7 +122,7 @@ List of projects/tools to help with various forms of measurement of what we're d
 [plants]: plants/plants "Plants"
 [individual-plants]: individual-plants/individual-plants "Individual plants"
 [agave]: plants/agave "Agave"
-[asparagus-africanus]: plants/asparagus-africanus "Asparagus africanus (Climbing asparagus fern)"
+[asparagus-africanus|climbing asparagus fern]: plants/asparagus-africanus "Asparagus africanus (Climbing asparagus fern)"
 [madeira-vine]: plants/madeira-vine "Madeira vine (Anredera cordifolia)"
 [cats-claw-creeper]: plants/cats-claw-creeper "Cat's claw creeper (Dolichandra unguis-cati)"
 [regeneration]: regeneration "Bush regeneration (Wood duck meadows)"

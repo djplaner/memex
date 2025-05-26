@@ -241,3 +241,15 @@ blockquote {
     grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
     grid-gap: 0.5rem;
   }
+
+
+
+    html.glightbox-open { overflow: initial; height: 100%; }
+    .gslide-title { margin-top: 0px; user-select: text; }
+    .gslide-desc { color: #666; user-select: text; }
+    .gslide-image img { background: white; }
+    .gscrollbar-fixer { padding-right: 15px; }
+    .gdesc-inner { font-size: 0.75rem; }
+    body .gdesc-inner { background: var(--md-default-bg-color);}
+    body .gslide-title { color: var(--md-default-fg-color);}
+    body .gslide-desc { color: var(--md-default-fg-color);}

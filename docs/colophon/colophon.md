@@ -34,18 +34,16 @@ The following tracks the broad evolution of the method behind the implementation
 
 ### Version 3 - early 2025
 
-Details on version 3 covered in [[version-3-memex-design]].
-
-!!! info "Current status"
-
-    - ✔   Memex moved from GitHub to [my personal site](https://djon.es/memex/) .
-    - ✔  Initial [[computational-components]] working. 
-    - Starting work on importing [Wordpress blog](https://djon.es/blog/) 
-    - Update user interface
+Details on version 3 covered in [[version-3-memex-design]]. Initial work is complete.
 
 Related writing
 
 - early [blog post](https://djon.es/blog/2025/01/12/what-now/) with initial description of the rationale and possibilities for version 3.
+- [A new day](https://djon.es/blog/2025/05/23/a-new-day/) authored using the new process for the new blog, this post steps through the process. 
+
+On-going tweaks
+
+- [[statistics-and-analytics]] - exploring how to improve statistics and analytics for the site and the blog.
 
 
 ### Version 2 - Adding mkdocs - (2nd half 2023)
@@ -78,6 +76,7 @@ Timed with an increased focus on leveraging this site for my [personal learning 
 [memex-v2]: memex-v2 "Thinking about 'memex v2'"
 [version-3-memex-design]: version-3-memex-design "Memex - Version 3"
 [note-taking-strategies]: note-taking-strategies "Note taking strategies"
+[statistics-and-analytics]: statistics-and-analytics "Statistics and Analytics"
 [why-mkdocs-foam]: why-mkdocs-foam "Why combine mkdocs with Foam"
 [deploy-with-github-action]: deploy-with-github-action "Deploy with GitHub Action"
 [tags-and-properties]: tags-and-properties "Tags and properties"
