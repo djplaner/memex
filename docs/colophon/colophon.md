@@ -44,6 +44,7 @@ Related writing
 On-going tweaks
 
 - [[statistics-and-analytics]] - exploring how to improve statistics and analytics for the site and the blog.
+- [[add-activity-pub]] - have the blog post/retrieve comments via ActivityPub.
 
 
 ### Version 2 - Adding mkdocs - (2nd half 2023)
