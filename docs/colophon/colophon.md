@@ -46,6 +46,12 @@ On-going tweaks
 - [[statistics-and-analytics]] - exploring how to improve statistics and analytics for the site and the blog.
 - [[add-activity-pub]] - have the blog post/retrieve comments via ActivityPub.
 
+To do
+
+- expand recent changes
+
+    - Stand alone page that lists all changes, provides graphical representations of frequency etc.
+
 
 ### Version 2 - Adding mkdocs - (2nd half 2023)
 
@@ -78,6 +84,7 @@ Timed with an increased focus on leveraging this site for my [personal learning 
 [version-3-memex-design]: version-3-memex-design "Memex - Version 3"
 [note-taking-strategies]: note-taking-strategies "Note taking strategies"
 [statistics-and-analytics]: statistics-and-analytics "Statistics and Analytics"
+[add-activity-pub]: add-activity-pub "Adding ActivityPub to the blog"
 [why-mkdocs-foam]: why-mkdocs-foam "Why combine mkdocs with Foam"
 [deploy-with-github-action]: deploy-with-github-action "Deploy with GitHub Action"
 [tags-and-properties]: tags-and-properties "Tags and properties"

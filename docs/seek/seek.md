@@ -13,10 +13,23 @@ And there are also things [[to-read]] and some [[zotero-experiments]]
 
 ## To do
 
-- Finish porting the blog to memex
-- Implement RSS feed for memex based on [[recent-changes]]
+Memex
+
 - Re-work the NAV
 - Implement a current "personal" about page
+- expand recent changes into a stand alone page - RSS feed
+- note taking
+
+    - different strategies and software support
+
+- foam open source dev -  [[foam-dev]]
+
+Blog
+
+- charts for statistics - [[blog-statistics]]
+- comments
+- trackbacks
+
 
 ## Questions
 
@@ -40,7 +53,8 @@ And there are also things [[to-read]] and some [[zotero-experiments]]
 [pkm]: ../pkm "Personal Knowledge Management"
 [to-read]: to-read "To Read"
 [zotero-experiments]: process/zotero-experiments "Experiments with Zotero"
-[recent-changes]: ../colophon/recent-changes "Recent changes"
+[foam-dev]: ../sense/Web-development/foam-dev/foam-dev "Explorations in Foam development"
+[blog-statistics]: ../colophon/blog-statistics "Blog Statistics"
 [wood-duck-meadows]: ../sense/landscape-garden/wood-duck-meadows "Wood duck meadows"
 [ecosystem-restoration]: ../sense/landscape-garden/ecosystem-restoration "Ecosystem restoration (aka bush regneration)"
 [bad-mindset]: ../sense/CASA/bad-mindset "The BAD (Bricolage, Affordances, Distribution) mindset"

@@ -100,6 +100,7 @@ plugins:
         - util/generators/lifeList.py ## updating eBird life list
         - util/generators/plantLocation.py ## generating javascript for plant locations
   - macros:
+      module_name: util/macros
   - literate-nav:
       nav_file: NAV.md
   - roamlinks 

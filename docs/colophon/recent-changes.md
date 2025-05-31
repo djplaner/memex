@@ -14,11 +14,23 @@ Implemented use `mkdocs-macros-plugin`
 
 ## Usage
 
-Use standard [`mkdocs-macros-plugin`](https://mkdocs-macros-plugin.readthedocs.io/en/latest/) syntax to include the following in a markdown file. Where 5 is the number of recent changes to display. 5 is the default, if none given.
+### What
+
+Recent changes defines a macro "function" `recentChanges` that takes the number of recent changes to display as a parameter. e.g. `recentChanges(10)` will display a table of the 10 most recent changes.
+
+### How
+
+Include this macro anywhere in a Markdown file using the standard [`mkdocs-macros-plugin`](https://mkdocs-macros-plugin.readthedocs.io/en/latest/) syntax.
+
+For example, something like the following (which is used on [the memex home page](../index.md))
 
 ```markdown
-{{ recentChanges(5) }}
+{{ '{{ recentChanges(5) }}' }}
 ```
+
+Will produce the following.
+
+{{ recentChanges(5) }}
 
 ## Implementation
 
