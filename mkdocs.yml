@@ -89,6 +89,7 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.tasklist
   - pymdownx.tilde
+  - pymdownx.progressbar
 plugins:
   - search
   - glightbox
@@ -99,6 +100,7 @@ plugins:
         - util/generators/woodDuck.py ## wood duck meadows generator
         - util/generators/lifeList.py ## updating eBird life list
         - util/generators/plantLocation.py ## generating javascript for plant locations
+        - util/generators/corpusActions.py
   - macros:
       module_name: util/macros
   - literate-nav:
@@ -108,7 +110,6 @@ plugins:
   - exclude:
       glob:
         - "*.tmp"
-        - "*.pdf"
         - "*.gz"
       regex:
         - '.*\.(tmp|bin|tar)$'

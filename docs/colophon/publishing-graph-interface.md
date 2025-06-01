@@ -22,6 +22,16 @@ Foam has a graph/map feature for notes from within VS-Code
 
 - [Obsidian example](https://notes.nicolevanderhoeven.com/obsidian-playbook/Using+Obsidian/01+First+steps+with+Obsidian/Obsidian)
 
+- [Excalibrain](https://github.com/zsviczian/excalibrain) an interactive, structured mind-map for Obsidian.
+
+  Distinguishes between 5 types of relationships: 
+  
+  - children - a forward link.
+  - parents  - a back link
+  - friends - files mutually link to each other
+  - other friends, 
+  - siblings - children of parents
+
 
 - Use the code from Foam
 - Add in some external JS

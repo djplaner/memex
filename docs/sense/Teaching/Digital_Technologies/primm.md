@@ -1,6 +1,6 @@
 ---
-title: "Predict Run Investigate Modify Make (PRIMM)
-type: "note"
+title: "Predict Run Investigate Modify Make (PRIMM)"
+type: note
 tags: teaching, teaching-digital-technologies
 ---
 

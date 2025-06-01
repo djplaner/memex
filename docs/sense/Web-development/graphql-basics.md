@@ -1,7 +1,7 @@
 ---
 name: "GraphQL basics"
-type: "note"
-tags: "Web development", "GraphQL"
+type: note
+tags: ["Web development", "GraphQL"]
 ---
 
 See also: [[vue-canvas-learning-journal]], [[web-development]]

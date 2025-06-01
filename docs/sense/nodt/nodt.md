@@ -1,4 +1,11 @@
-# Nature of Digital Technology
+---
+title: Nature of Digital Technology
+type: note
+tags:
+    - digital-technology
+    - affordances
+    - generativity
+---
 
 Yoo et al (2012) identified two fundamental properties of digital technology 
 

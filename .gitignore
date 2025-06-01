@@ -11,4 +11,3 @@ Gemfile*
 bin/
 lib/
 __pycache__/
-#docs/blog/

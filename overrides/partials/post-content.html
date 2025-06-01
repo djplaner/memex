@@ -1,19 +1,9 @@
-{% include "partials/tags.html" %}
-{% include "partials/actions.html" %}
-{% if "\x3ch1" not in page.content %}
-  <h1>{{ page.title | d(config.site_name, true)}}</h1>
-{% endif %}
+<!-- {% include "partials/tags.html" %}
+{% include "partials/actions.html" %}  -->
+
+
+  <h1>{{ page.meta.title }}</h1>
 <style>
-  .pre-amble {
-    font-size: 0.64rem;
-    color: var(--md-admonition-fg-color);
-    background-color: var(--md-admonition-bg-color);
-    padding-right: 0.6rem; 
-    padding-left: 0.6rem;
-    margin-top: 1.5625em; 
-    margin-bottom: 1.5625em;
-    page-break-inside: avoid;
-  }
 </style>
 <!-- Add date, categories, and tag information -->
  <div class="pre-amble">
@@ -22,7 +12,7 @@
     {% if page.meta.categories %}
       <strong>in:</strong>
       {% for category in page.meta.categories %}
-        <a href="/memex/blog/category/{{ category | urlize }}.html">{{ category }}</a>{% if not loop.last %}, {% endif %}
+        <a href="/blog/category/{{ category }}.html">{{ category }}</a>{% if not loop.last %}, {% endif %}
       {% endfor %}
     {% endif %}
 <!--    {% if page.meta.tags %}
@@ -34,6 +24,3 @@
   </p>
  </div>
 {{ page.content }}
-{% include "partials/source-file.html" %}
-{% include "partials/feedback.html" %}
-{% include "partials/comments.html" %}

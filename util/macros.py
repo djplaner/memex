@@ -31,7 +31,6 @@ def getRecentChanges( numChanges : int ):
 
         changes += MARKDOWN_TEMPLATE.format(MESSAGE=commit.message, DATE=dateStr, AUTHOR=commit.author)
 
-
     return changes
 
 
@@ -47,6 +46,7 @@ def define_env(env):
         """
         return getRecentChanges( numChanges )
 
+    @env.macro
     def formatStringDate( strDate : str ):
         """
         Given a string date in the format YYYY-MM-DD HH:MM:SS, convert it to a datetime object
@@ -58,7 +58,7 @@ def define_env(env):
     @env.macro
     def blogStats():
         """
-        Placeholder for macro from blog stats - implemented in the blog
+        Placeholder function for use in draft blog posts. Actual blog stats is implemented on the blog site.
         """
 
-        return "{{ blogStats() }}"
+        return "{{ blogStats()}}"

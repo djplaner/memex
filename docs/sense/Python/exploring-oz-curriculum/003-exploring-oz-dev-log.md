@@ -1,5 +1,5 @@
 --- 
-title: Dev log - 003: Exploring Oz Curriculum
+title: "Dev log - 003: Exploring Oz Curriculum"
 type: "devLog"
 tags: python, v9ozCurriculum, curriculum
 ---

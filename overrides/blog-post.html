@@ -1,102 +1,38 @@
-
 {% extends "base.html" %}
 
-
+<!-- simple blog post template used for posts being authored here before migration to blog -->
 
 {% block hero %}
 <aside class="md-banner">
+ {% if page.meta.date %}
+    {% set myDate = page.meta.date %}
+    {% set year = "{}".format(myDate).split("-")[0] | int %}
+    {% if year < 2025 %} 
   <div class="md-banner__inner md-grid md-typeset">
-   {% set myDate = page.meta.date %}
-   {% set year = "{}".format(myDate).split("-")[0] | int %}
-   {% if year < 2025 %}
-    <p><strong><span style="color:yellow">⚠</span></strong> old Wordpress post ({{ year }}) may have broken links, embeds, and <a href="/memex/colophon/wordpress-to-markdown.html">other limitations</a></p>
-    {% endif %}
+    <p><strong><span style="color:yellow">⚠</span></strong> old Wordpress post (circa {{ year }})
+      may have broken links, embeds, and <a href="/blog2/about.html">other limitations</a></p>
   </div>
+      {% endif %}
+  {% endif %}
+  {% if page.meta.coverImage %}
+  <!-- figure class="md-cover-image" style="margin: 0px; background-image: url('images/{{ page.meta.coverImage }}');" -->
+    <img class="memex-image" src="images/{{ page.meta.coverImage }}" alt="{{ page.title }}" width="100%" height="auto">
+  <!-- /figure -->
+  {% endif %}
+
 </aside>
 {% endblock %}
 
 {% block container %}
 
 <div class="md-content" data-md-component="content">
+
   <article class="md-content__inner md-typeset">
     {% block content %}
-      {% include "partials/post-content.html" %}
+    {% include "partials/post-content.html" %}
     {% endblock %}
   </article>
-  {% if page.meta.comments %}
-  <style>
-    .comments-container {
-      margin-top: 1em;
-      margin-bottom: 1em;
-      padding: 1em;
-      background-color: var(--md-admonition-bg-color);
-      color: var(--md-admonition-fg-color);
-      font-size: 0.8rem;
-    }
-    .comments-container ul {
-      list-style-type: none;
-      padding: 0;
-    }
-    .comments-container li {
-      margin-bottom: 1em;
-      padding: 0.5em;
-      line-height: 1.5;
-    }
-    .comments-container a {
-      color: var(--md-typeset-a-color);
-      text-decoration: none;
-    }
-    .pingbacks-container {
-      margin-top: 1em;
-      margin-bottom: 1em;
-      padding: 1em;
-      background-color: var(--md-admonition-bg-color);
-      color: var(--md-admonition-fg-color);
-      font-size: 0.8rem;
-    }
-    .pingbacks-container a {
-      color: var(--md-typeset-a-color);
-      text-decoration: none;
-    }
-    .pingbacks-container li {
-      margin-bottom: 0.5em;
-      padding: 0.5em;
-      line-height: 1.5;
-    }
-  </style>
-  <div class="comments-container">
-    <h3>{{ page.meta.comments|length }} Comment{% if page.meta.comments|length > 1 %}s{% endif %}</h3>
 
-    <ul>
-      {% for comment in page.meta.comments %}
-        <li>
-          <p><strong>
-            {% if comment.author.url %}
-              <a href="{{ comment.author_url }}">{{ comment.author }}</a>
-            {% else %}
-              {{ comment.author }}
-            {% endif %}
-          </strong> 📅 {{ comment.date }}</p>
-          <div class="comment-content">
-            {{ comment.content | replace("\n", "<br />") }}
-          </div>
-        </li>
-      {% endfor %}
-  </div>
-  {% endif %}
-  {% if page.meta.pingbacks %}
-  <div class="pingbacks-container">
-    <h3>{{ page.meta.pingbacks|length }} Pingbacks</h3>
-
-    <ul>
-      {% for pingback in page.meta.pingbacks %}
-        <li>
-          <p><a href="{{ pingback.author_url }}">
-            {{ pingback.author }}</a> 📅 {{ pingback.date }} </p>
-        </li>
-      {% endfor %}
-  {% endif %}
 </div>
-
 
 {% endblock %}

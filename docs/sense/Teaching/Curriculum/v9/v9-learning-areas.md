@@ -1,9 +1,7 @@
 ---
 title: Learning Areas
 type: teaching
-tags: 
-	- teaching
-	- australian-curriculum
+tags: [teaching, australian-curriculum]
 ---
 
 See also: [[australian-curriculum]], [[teaching]]

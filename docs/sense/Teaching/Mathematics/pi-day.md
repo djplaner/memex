@@ -1,5 +1,5 @@
 ---
-title: "PI Day (International day of mathematics)
+title: "PI Day (International day of mathematics)"
 type: "note"
 tags: teaching-mathematics, mathematics
 ---

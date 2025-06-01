@@ -1,6 +1,6 @@
 ---
 title: Reusability Paradox
-type: note:
+type: note
 tags: [reusability, paradox]
 ---
 

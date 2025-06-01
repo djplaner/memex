@@ -133,6 +133,7 @@ background: linear-gradient(138deg,rgba(10, 4, 4, 1) 20%, rgba(34, 34, 48, 1) 63
     --md-code-hl-punctuation-color: #ffffff;
     --md-code-hl-variable-color: #ffffff;
     --md-code-hl-operator-color: #ffffff;
+    --md-code-hl-comment-color: #888888;
       --md-search-fg-color: #ffffff;
   --md-search-bg-color: #000000;
   /*--md-shadow-z2: 0 0.2rem 0.5rem #0000001a,0 0 0.05rem #00000040;*/
@@ -279,3 +280,15 @@ blockquote {
     body .gdesc-inner { background: var(--md-default-bg-color);}
     body .gslide-title { color: var(--md-default-fg-color);}
     body .gslide-desc { color: var(--md-default-fg-color);}
+
+
+  .pre-amble {
+    font-size: 0.64rem;
+    color: var(--md-admonition-fg-color);
+    background-color: var(--md-admonition-bg-color);
+    padding-right: 0.6rem; 
+    padding-left: 0.6rem;
+    margin-top: 1.5625em; 
+    margin-bottom: 1.5625em;
+    page-break-inside: avoid;
+  }

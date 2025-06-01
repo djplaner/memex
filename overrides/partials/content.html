@@ -1,0 +1,16 @@
+{% include "partials/tags.html" %}
+{% include "partials/actions.html" %}
+{% if "\x3ch1" not in page.content %}
+  <h1>{{ page.title | d(config.site_name, true)}}</h1>
+{% endif %}
+{% if page.meta.backlinks %}
+    <div class="foam-backlinks">Backlinks: 
+    {% for backlink in page.meta.backlinks %}
+        <a href="{{ backlink.url }}">{{ backlink.text }}</a>{% if not loop.last %}, {% endif %}
+    {% endfor %}
+    </div>
+{% endif %}
+{{ page.content }}
+{% include "partials/source-file.html" %}
+{% include "partials/feedback.html" %}
+{% include "partials/comments.html" %}

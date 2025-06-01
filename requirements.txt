@@ -5,3 +5,5 @@ mkdocs-material
 mkdocs
 mkdocs-roamlinks-plugin
 mkdocs-exclude
+pygments
+pymdown-extensions

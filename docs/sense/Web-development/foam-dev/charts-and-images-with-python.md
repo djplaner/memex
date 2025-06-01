@@ -12,6 +12,10 @@ See also: [[foam-dev]], [[colophon]]
 
 What are the possibilities and methods for plotting charts and generating images with Python that can subsequently be used in web pages (here on Memex and the blog)?
 
+!!! info "Latest exploration"
+
+    Discovered the [MkDocs Plotl Plugin](https://haoda-li.github.io/mkdocs-plotly-plugin/)
+
 ## Possibilities
 
 See also [2022 post "What is the best interactive plotting library for Python"](https://sites.northwestern.edu/researchcomputing/2022/02/03/what-is-the-best-interactive-plotting-package-in-python/) which suggests a three-way tie between Bokeh, Plotly and Altair. However, [a later post](https://sites.northwestern.edu/researchcomputing/2023/04/12/experimenting-with-shiny-for-python/) from the same author recommends [Shiny for Python](https://shiny.posit.co/py/)]
