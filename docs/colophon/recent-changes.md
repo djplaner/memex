@@ -1,18 +1,16 @@
 ---
 title: Recent changes
-type: "computational-component"
+type: computational-component
 tags: 
     - colophon
     - computational-component
 ---
 
-See also: [[computational-components]]
-
 Recent changes defines a macro "function" `recentChanges` that takes the number of recent changes to display as a parameter. For example, using the macro `recentChanges(10)` appropriately will display a table of the 10 most recent changes in the published page.
 
-Implemented use [`mkdocs-macros-plugin`](https://mkdocs-macros-plugin.readthedocs.io/en/latest/)
+Implemented using the [`mkdocs-macros-plugin`](https://mkdocs-macros-plugin.readthedocs.io/en/latest/) for MkDocs.
 
-# How
+## How
 
 Include the macro anywhere in a Markdown file using the standard [`mkdocs-macros-plugin`](https://mkdocs-macros-plugin.readthedocs.io/en/latest/) syntax. For example, the following (which is used on [the memex home page](../index.md))
 

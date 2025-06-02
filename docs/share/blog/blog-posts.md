@@ -16,6 +16,7 @@ Maybe this will enable me to complete more of the posts I start.
 
 - [[ed-tech-some-missing-flavours]]
 - [[conceptualising-educational-design]]
+- [[announce-canvas-collections]]
 
 ### Older
 
@@ -29,6 +30,7 @@ Maybe this will enable me to complete more of the posts I start.
 - [[the-importance-of-orchestration-to-quality-learning-and-teaching]]
 - [[needs-for-learning-design-systems]]
 - [[integrating-zotero-into-memex]] - Documenting exploration and plans for integrating Zotero into my PKM with memex
+- [[representing-problems-to-make-the-solution-transparent]]
 - [[what-help-do-we-provide-for-online-teaching]] 
 
      Attempt to use "theory" to analyse the nature and limitations of the assistance provided to university teaching staff as they engage in online teaching
@@ -75,6 +77,7 @@ Maybe this will enable me to complete more of the posts I start.
 [what-now]: 2024/what-now "what-now"
 [ed-tech-some-missing-flavours]: 2023/ed-tech-some-missing-flavours "Ed tech - some missing flavours"
 [conceptualising-educational-design]: 2023/conceptualising-educational-design "Conceptualising education design practice - where do we fit?"
+[announce-canvas-collections]: 2023/announce-canvas-collections "announce-canvas-collections"
 [why-out-dated]: 2023/why-out-dated "why-out-dated"
 [where-is-the-digital-technology]: 2022/where-is-the-digital-technology "where-is-the-digital-technology"
 [canvas-collections-detail]: 2022/canvas-collections-detail "Canvas Collection: Purpose, How, and Functionality"
@@ -85,6 +88,7 @@ Maybe this will enable me to complete more of the posts I start.
 [the-importance-of-orchestration-to-quality-learning-and-teaching]: the-importance-of-orchestration-to-quality-learning-and-teaching "the-importance-of-orchestration-to-quality-learning-and-teaching"
 [needs-for-learning-design-systems]: needs-for-learning-design-systems "Needs for Learning Design Systems"
 [integrating-zotero-into-memex]: integrating-zotero-into-memex "Integrating Zotero into Foam"
+[representing-problems-to-make-the-solution-transparent]: 2021/representing-problems-to-make-the-solution-transparent "representing-problems-to-make-the-solution-transparent"
 [what-help-do-we-provide-for-online-teaching]: what-help-do-we-provide-for-online-teaching "What Help Do We Provide for Online Teaching"
 [integrating-hax-editor-with-blackboard]: integrating-hax-editor-with-blackboard "Integrating Hax Editor with Blackboard"
 [broader-implications-hax-web-compontents]: broader-implications-hax-web-compontents "Broader Implications Hax Web Compontents"

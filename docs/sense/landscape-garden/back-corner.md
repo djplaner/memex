@@ -4,7 +4,7 @@ type: "zone"
 tags: wood-duck-meadows
 ---
 
-See also: [[wood-duck-meadows]]
+
 
 The least explored zone of [[wood-duck-meadows]] the _back corner_ is located in the north-eastern corner of the property. It's largely grass covered with the odd tree. An observations based solely on the satellite image.
 

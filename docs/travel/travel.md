@@ -1,9 +1,8 @@
----
-title: Travel
-type: "note"
+﻿---
 tags: travel
+title: Travel
+type: note
 ---
-
 Planning and details of travel experiences.
 
 - [[new-zealand-2025]]

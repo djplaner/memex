@@ -99,7 +99,7 @@ plugins:
       scripts:
         - util/generators/woodDuck.py ## wood duck meadows generator
         - util/generators/lifeList.py ## updating eBird life list
-        - util/generators/plantLocation.py ## generating javascript for plant locations
+# Turned off due to Google Maps activity        - util/generators/plantLocation.py ## generating javascript for plant locations
         - util/generators/corpusActions.py
   - macros:
       module_name: util/macros

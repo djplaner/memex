@@ -4,7 +4,7 @@ type: "index"
 tags: teaching 
 ---
 
-See also: [[teaching]]
+
 
 Collection point for details of all professional development done for [[teaching]]
 

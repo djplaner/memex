@@ -1,4 +1,6 @@
-# Systemism
+---
+title: Systemism
+---
 
 @voineaDesigningConviviality2018 
 > an ontological framework that accommodates both agency and social structure, stressing that everything is a system or part of a system (p. 70)

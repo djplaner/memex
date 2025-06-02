@@ -4,7 +4,7 @@ type: "note"
 tags: gardens
 ---
 
-See also: [[wood-duck-meadows]], [[individual-plants]]
+
 
 The following provides a summary of the plant species we've come across on [[wood-duck-meadows]]. It is a far from complete list. See [[individual-plants]] for details on the [[wood-duck-meadows]] plants we're maintaining.
 

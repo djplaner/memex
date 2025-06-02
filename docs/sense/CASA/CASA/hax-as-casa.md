@@ -19,7 +19,7 @@
 
 # H-A-X as CASA? 
 
-See also: [[casa]]
+
 
 ## Introduction 
 

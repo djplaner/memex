@@ -4,7 +4,7 @@ type: "note"
 tags: assessment-for-learning, teaching, teaching-mathematics
 ---
 
-See also: [[assessment-for-learning]]
+
 
 A variation/extension of [[assessment-for-learning]] where teacher knowledge (and evidence of that knowledge) about each student's learning is used to adapt [[design-for-learning]].
 

@@ -1,6 +1,6 @@
 # SvelteKit and Github pages 
 
-See also: [[foam-dev]]
+
 
 !!! warning "Deprecated"
 

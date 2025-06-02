@@ -4,7 +4,7 @@ type: "zone"
 tags: wood-duck-meadows
 ---
 
-See also: [[wood-duck-meadows]]
+
 
 The "bunker" is a small concrete walled building with an iron roof located in the north-eastern corner of [[wood-duck-meadows]] (just south of the [[rocky-creek-frontage]]). It and the small area of land in front of it is called _the bunker_.
 
