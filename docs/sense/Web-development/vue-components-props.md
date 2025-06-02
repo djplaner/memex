@@ -1,5 +1,5 @@
 ---
-name: "Vue components/props in depth"
+title: "Vue components/props in depth"
 type: "note"
 tags: web-development, javascript, vue
 ---

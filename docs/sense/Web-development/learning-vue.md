@@ -1,5 +1,5 @@
 ---
-name: "Learning Vue"
+title: "Learning Vue"
 type: "note"
 tags: web-development, javascript, vue
 ---

@@ -1,5 +1,5 @@
 ---
-name: "Javascript REST API Client"
+title: "Javascript REST API Client"
 type: "note"
 tags: javascript, web-development, rest-api, client
 ---

@@ -17,6 +17,7 @@ Maybe this will enable me to complete more of the posts I start.
 - [[ed-tech-some-missing-flavours]]
 - [[conceptualising-educational-design]]
 - [[announce-canvas-collections]]
+- [[do-it-themselves]]
 
 ### Older
 
@@ -78,6 +79,7 @@ Maybe this will enable me to complete more of the posts I start.
 [ed-tech-some-missing-flavours]: 2023/ed-tech-some-missing-flavours "Ed tech - some missing flavours"
 [conceptualising-educational-design]: 2023/conceptualising-educational-design "Conceptualising education design practice - where do we fit?"
 [announce-canvas-collections]: 2023/announce-canvas-collections "announce-canvas-collections"
+[do-it-themselves]: 2021/do-it-themselves ""Do it themselves" and technology/purpose mismatch"
 [why-out-dated]: 2023/why-out-dated "why-out-dated"
 [where-is-the-digital-technology]: 2022/where-is-the-digital-technology "where-is-the-digital-technology"
 [canvas-collections-detail]: 2022/canvas-collections-detail "Canvas Collection: Purpose, How, and Functionality"

@@ -4,11 +4,14 @@
   <h1>{{ page.meta.title | d(config.site_name, true)}}</h1>
 {% endif %}
 {% if page.meta.backlinks %}
-    <div class="foam-backlinks">Backlinks: 
-    {% for backlink in page.meta.backlinks %}
-        <a href="{{ backlink.url }}">{{ backlink.title }}</a>{% if not loop.last %}, {% endif %}
-    {% endfor %}
-    </div>
+    <details class="foam-backlinks">
+      <summary>{{ page.meta.backlinks | length }} related links: </summary>
+        <ul>
+          {% for backlink in page.meta.backlinks %}
+          <li> <a href="{{ backlink.url }}">{{ backlink.title }}</a> </li> 
+          {% endfor %}
+        </ul>
+    </details>
 {% endif %}
 {{ page.content }}
 {% include "partials/source-file.html" %}

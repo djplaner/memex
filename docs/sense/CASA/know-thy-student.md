@@ -1,4 +1,9 @@
-# Know thy student
+---
+title: Know thy student
+type: "note"
+tags:
+    - teaching
+---
 
 ## Path
 

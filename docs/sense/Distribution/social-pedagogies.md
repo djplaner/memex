@@ -16,6 +16,4 @@
 
 - [Commons-based Peer Production and Virtue](https://nissenbaum.tech.cornell.edu/papers/jopp_235.pdf)
 
-### Related categories
 
-- [Distribution](distribution.md)

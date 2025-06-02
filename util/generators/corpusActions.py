@@ -141,15 +141,10 @@ def extractLinkDefs(pageData):
                 }
 
         # DO NOT Remove the link definitions from the content
-#        pageData['content'] = pageData['content'][:start] + pageData['content'][end+len("[[//end]]"):]
         # Need to convert the links to absolute link, where / is the docs folder
         pageData['linkDefs'] = generateAbsoluteLinks(pageData['filePath'], pageData['linkDefs']) 
     else:
         pageData['linkDefs'] = []
-
-#    pprint(pageData['linkDefs'])
-#    print(f"path to file: {pageData['filePath']}")
-#    input("Press Enter to continue...")
 
     return pageData
 
@@ -344,9 +339,6 @@ def updateFrontMatterBackLinks(bubbles, backLinks):
     #   are pointing to
     for destinationFilePath in backLinks.keys():
 #    for destinationFilePath in ['/seek/stretching-educations-iron-triangle.md']:
-        print(f"================ Updating backlinks for {destinationFilePath}")
-#        pprint(backLinks[destinationFilePath])
-
         #-- construct a array of dicts to add to the bubbles[destinationFilePath]['yaml'] aka frontmatter
         backlinks = []
         # destinationPath = /seek/stretching-educations-iron-triangle.md
@@ -364,13 +356,7 @@ def updateFrontMatterBackLinks(bubbles, backLinks):
             #fileLink = sourceLink.replace(PREFIX, "")
             fileLink = re.sub( rf"^{PREFIX}", "", sourceLink)
 
-#            print(f"XXXXXXXXXX Updating backlinks for {destinationFilePath}")
-#            print(f"fileLink: {fileLink} from sourceLink: {sourceLink}")
-            #pprint(backLinks[destinationFilePath][sourceLink]['linkDefs'])
-#            pprint(backLinks[destinationFilePath])
-#            print(f"------- bubbles' linkdefs for {sourceLink}    ")
-#            pprint(bubbles[fileLink]['linkDefs'])
-            title = "Unknnown title"
+            title = "Unknown title"
             if 'title' in bubbles[fileLink]['yaml']:
                 title = bubbles[fileLink]['yaml']['title']
             else:
@@ -387,7 +373,6 @@ def updateFrontMatterBackLinks(bubbles, backLinks):
         if destinationFilePath not in bubbles:
             raise ValueError(f"Destination file path {destinationFilePath} not found in bubbles")
         if backlinks == bubbles[destinationFilePath]['yaml'].get('backlinks', []):
-            print(f"No changes to backlinks for {destinationFilePath}")
             continue
         bubbles[destinationFilePath]['yaml']['backlinks'] = backlinks
 
@@ -399,12 +384,6 @@ def updateFrontMatterBackLinks(bubbles, backLinks):
 
 config = configure()
 
-#-- obtain all bubbles in the docs folder
 bubbles = retrieveMemexBubbles()
-
-#pprint(bubbles.keys(), indent=4)
-
-#-- update bubbles with backLinks
 backLinks = generateBackLinks(bubbles)
-
 updateFrontMatterBackLinks(bubbles, backLinks)

@@ -1,5 +1,5 @@
 ---
-name: "Design of root components - (Canvas Learning Journal CASA 4)"
+title: "Design of root components - (Canvas Learning Journal CASA 4)"
 type: "note"
 tags: web-development, javascript, vue, canvas, casa
 ---

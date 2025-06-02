@@ -1,5 +1,5 @@
 ---
-name: "Development tasks - Canvas Learning Journal"
+title: "Development tasks - Canvas Learning Journal"
 type: "note"
 tags: web-development, javascript, vue, canvas, casa
 ---

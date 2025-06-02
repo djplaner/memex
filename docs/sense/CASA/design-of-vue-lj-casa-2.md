@@ -1,5 +1,5 @@
 ---
-name: "Design of Canvas Learning Journal CASA 2"
+title: "Design of Canvas Learning Journal CASA 2"
 type: "note"
 tags: web-development, javascript, vue, canvas, casa
 ---

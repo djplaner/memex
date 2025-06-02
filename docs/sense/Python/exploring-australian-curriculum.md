@@ -1,4 +1,6 @@
-# Exploring australian curriculum
+---
+title: Exploring australian curriculum
+---
 
 
 

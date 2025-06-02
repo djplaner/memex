@@ -1,5 +1,5 @@
 ---
-name: "Vue quick start"
+title: "Vue quick start"
 type: "note"
 tags: web-development, javascript, vue
 ---

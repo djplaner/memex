@@ -1,5 +1,5 @@
 ---
-name: "GraphQL basics"
+title: "GraphQL basics"
 type: note
 tags: ["Web development", "GraphQL"]
 ---

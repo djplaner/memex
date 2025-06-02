@@ -1,5 +1,5 @@
 ---
-name: "Design of the VUE Learning Journal CASA"
+title: "Design of the VUE Learning Journal CASA"
 type: "note"
 tags: web-development, javascript, vue, casa
 ---

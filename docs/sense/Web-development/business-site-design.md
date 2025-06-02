@@ -1,5 +1,5 @@
 ---
-name: "Business site design"
+title: "Business site design"
 type: "note"
 tags: web-development
 ---

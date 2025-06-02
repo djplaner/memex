@@ -1,5 +1,5 @@
 ---
-name: "Design of Vue Learning Journal Data Structures"
+title: "Design of Vue Learning Journal Data Structures"
 type: "note"
 tags: web-development, javascript, vue, canvas, casa
 ---
