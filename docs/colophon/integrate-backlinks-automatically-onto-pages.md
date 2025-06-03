@@ -12,7 +12,17 @@ Until June 2025. Automatic creation and visualisation of backlinks is now integr
 
 ## Impact
 
-Apart from removing the need for manual "see also" work, this should also significantly change the network map for Foam (with the removal of the manual See also)
+Apart from removing the need for manual "see also" work, this should also remove the "pollution" of those "see also" links from the site's network graph. The following two figures offer a comparison. While (IMHO) recognisably the same graph, the second graph is cleaner. With numerous network structures formed by the "see also" links no longer visible.
+
+<figure markdown>
+![](./images/beforeBackLinks.png)
+<caption>Memex network graph before backlinks implemented</caption>
+</figure>
+
+<figure markdown>
+![](./images/afterBackLinks.png)
+<caption>Memex network graph after backlinks implemented</caption>
+</figure>
 
 ## Sources of inspiration
 
