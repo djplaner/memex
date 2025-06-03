@@ -31,6 +31,8 @@ Where a garden is located somewhere between a personal blog and a wiki. A collec
     - Includes a collection of links: [How-to's and tutorials](https://github.com/MaggieAppleton/digital-gardeners?tab=readme-ov-file#how-tos-and-tutorials) and [theory, philosophy and navel-gazing](https://github.com/MaggieAppleton/digital-gardeners?tab=readme-ov-file#theory-philosophy-and-navel-gazing)
 
 - [My blog is a digital garden, not a blog](https://joelhooks.com/digital-garden)
+- [Digital garden as a static website](https://stereobooster.com/posts/digital-garden-as-static-website/) - Detailed article looking at features of a digital garden, including publishing. See also - [astro digital garden](https://astro-digital-garden.stereobooster.com)
+- [Useful modern tools for static websites](https://stereobooster.com/posts/useful-modern-tools-for-static-websites/) 
 
 ### Process strategies
 

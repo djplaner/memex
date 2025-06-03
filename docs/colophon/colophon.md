@@ -26,6 +26,7 @@ An on-going task is to figure out [[note-taking-strategies]] to help improve thi
 
 - [[publishing-graph-interface]]
 - [[statistics-and-analytics]] - exploring how to improve statistics and analytics for the site and the blog.
+- [[improve-static-search]]
 - [[add-activity-pub]] - have the blog post/retrieve comments via ActivityPub.
 - expand recent changes
 
@@ -85,6 +86,7 @@ Timed with an increased focus on leveraging this site for my [personal learning 
 [note-taking-strategies]: note-taking-strategies "Note taking strategies"
 [publishing-graph-interface]: publishing-graph-interface "Publishing graph interface"
 [statistics-and-analytics]: statistics-and-analytics "Statistics and Analytics"
+[improve-static-search]: improve-static-search "Improve static search"
 [add-activity-pub]: add-activity-pub "Adding ActivityPub to the blog"
 [version-3-memex-design]: version-3-memex-design "Memex - Version 3"
 [computational-components]: computational-components "Computational components"

@@ -41,7 +41,7 @@ theme:
 #    - toc.follow
 #    - toc.integrate
     - header.autohide
-    - search.suggest
+#    - search.suggest
 markdown_extensions: 
 #  - pymdownx.pathconverter:
 #      base_path: /memex/
@@ -91,7 +91,7 @@ markdown_extensions:
   - pymdownx.tilde
   - pymdownx.progressbar
 plugins:
-  - search
+#  - search
   - glightbox
   - mkdocs-video
   - mkdocs-pdf
