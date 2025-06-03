@@ -1,9 +1,6 @@
-
-
-# Distributed Situational Awareness
-
-
-
+﻿---
+title: Distributed Situational Awareness
+---
 ## Salmon et al (2022)
 
 Giving an overview of a model proposed by Stanton 
@@ -18,5 +15,3 @@ Rejects the notion of shared SA as "misguided" because the goals and tasks of in
 ## References
 
 Salmon, P. M., & Plant, K. L. (2022). Distributed situation awareness: From awareness in individuals and teams to the awareness of technologies, sociotechnical systems, and societies. *Applied Ergonomics*, *98*, 103599. <https://doi.org/10.1016/j.apergo.2021.103599>
-
-

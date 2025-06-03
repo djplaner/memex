@@ -1,7 +1,6 @@
-# local-canvas-dev
-
-
-
+﻿---
+title: local-canvas-dev
+---
 ## docker - mac 
 
  Running Canvas:
@@ -50,4 +49,3 @@ Token - mpH4O1mxzC0mwnp071wOLWsMREpi2SSTwhSK61yGC9IqiUOnRW96Io0bro0SZk4H
 
 To test that it's all working 
 curl http://canvas.docker/api/v1/users/self -H "Authorization: Bearer mpH4O1mxzC0mwnp071wOLWsMREpi2SSTwhSK61yGC9IqiUOnRW96Io0bro0SZk4H"
-

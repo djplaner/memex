@@ -1,5 +1,6 @@
-# Developer automation
-
+﻿---
+title: Developer automation
+---
 Ideas about how, why, and perspectives on software developers automating tasks.
 
 ## See also

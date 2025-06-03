@@ -18,7 +18,7 @@ Collections of technologies and practices that transform digital learning and te
 
 |   |   |
 | --- | --- | 
-| *C*ontextually-**A**ppropriate | specific to a particular learning activity and its context, aims, learners, teachers, etc. |
+| <strong>C</strong>ontextually-**A**ppropriate | specific to a particular learning activity and its context, aims, learners, teachers, etc. |
 | **S**caffolding | actively seek to support/enable learners and teachers in the tasks they need to complete as part of the activity. |
 | **A**ssemblages | designed so that learners and teachers are more easily able to intermingle the CASA into their personal collection of knowledge, tools, and ways of working. |
 
@@ -61,8 +61,8 @@ Jones, D. (2019). [Exploring knowledge reuse in design for digital learning: Twe
 [hax-as-casa]: CASA/hax-as-casa "H-A-X as CASA?"
 [canvas-learning-journal]: CASA/canvas-learning-journal "Canvas Learning Journal"
 [vue-canvas-learning-journal]: vue-canvas-learning-journal "Canvas Learning Journal - Vue implementation"
-[canvas-collections]: CASA/canvas-collections "Canvas Collections"
-[word-to-canvas]: CASA/word-to-canvas "Word to Canvas"
+[canvas-collections]: CASA/canvas-collections "No title found"
+[word-to-canvas]: CASA/word-to-canvas "No title found"
 [mathematics-in-canvas]: mathematics-in-canvas "Mathematics in Canvas"
 [exploring-australian-curriculum]: ../Python/exploring-australian-curriculum "Exploring australian curriculum"
 [mathematical-examples-generator]: mathematical-examples-generator "Mathematical Examples Generator"

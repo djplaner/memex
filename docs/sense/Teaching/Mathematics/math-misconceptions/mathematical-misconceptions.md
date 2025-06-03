@@ -1,9 +1,6 @@
-# Mathematical misconceptions and difficulties
-
-
-
-
-
+﻿---
+title: Mathematical misconceptions and difficulties
+---
 A list of various types of mathematical misconceptions, grouped into two categories 
 
 1. Mathematical - related largely to understanding mathematical concepts.

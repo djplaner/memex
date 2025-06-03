@@ -1,7 +1,6 @@
-# ALIVE
-
-
-
+﻿---
+title: ALIVE
+---
 De Geest & Lee (2019) define ALIVE teaching as 
 
 - **A** accessible

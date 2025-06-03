@@ -1,5 +1,6 @@
-# Ponderings on AI 
-
+﻿---
+title: 'Ponderings on AI '
+---
 The rise of chatGPT has seen various ponderings, here's mine.
 
 At some level the following three questions might be useful ways to talk about it.
@@ -66,7 +67,3 @@ Some related AI resources (some of which blur between can/will)
 
 - [Education focusing on ChatGPT and plagiarism](https://twitter.com/gsiemens/status/1604996057531760640)
     - [Australian Universities seek to curb ChatGPT use by students](https://synthedia.substack.com/p/australian-universities-seek-to-curb)
-
-
-
-

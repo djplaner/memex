@@ -1,5 +1,6 @@
-# Getting started with memex
-
+﻿---
+title: Getting started with memex
+---
 ```toml
 post_title='Getting started with memex'
 layout="post"

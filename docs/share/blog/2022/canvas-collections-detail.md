@@ -1,5 +1,6 @@
-# Canvas Collection: Purpose, How, and Functionality
-
+﻿---
+title: 'Canvas Collection: Purpose, How, and Functionality'
+---
 ```toml
 post_title='Canvas Collections: why, how and what'
 layout="post"

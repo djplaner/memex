@@ -1,7 +1,6 @@
-# Fibonacci sequence
-
-
-
+﻿---
+title: Fibonacci sequence
+---
 References:  [Wikipedia](https://en.wikipedia.org/wiki/Fibonacci_sequence), [Math is fun](https://www.mathsisfun.com/numbers/fibonacci-sequence.html)
 
 Boaler (2015) suggests it is the best known of all patterns. Named after an Italian mathematician who published on the sequence in 1202. However, earlier evidence of the sequence has been found in Indian mathematics as far back as 200 b.c. In fact, it was used in the meter of Sanskrit poetry.
@@ -22,4 +21,3 @@ $$
 ## References
 
 Boaler, J. (2015). Mathematical Mindsets: Unleashing Students’ Potential Through Creative Math, Inspiring Messages and Innovative Teaching. John Wiley & Sons, Incorporated.
-

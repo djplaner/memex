@@ -1,7 +1,6 @@
-# Student Centred Mathematics instruction
-
-
-
+﻿---
+title: Student Centred Mathematics instruction
+---
 Defined by Thanheiser & Melhuish (2023) as instruction where
 
 1. student mathematical thinking is made public, 
@@ -14,5 +13,3 @@ Defined by Thanheiser & Melhuish (2023) as instruction where
 ## References
 
 Thanheiser, E., & Melhuish, K. (2023). Teaching routines and student-centered mathematics instruction: The essential role of conferring to understand student thinking and reasoning. *The Journal of Mathematical Behavior*, *70*, 101032. <https://doi.org/10.1016/j.jmathb.2023.101032>
-
-

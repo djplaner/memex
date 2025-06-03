@@ -1,5 +1,6 @@
-# fenwick-2015
-
+﻿---
+title: fenwick-2015
+---
 Fenwick, T. (2015). Sociomateriality and Learning: A Critical Approach. In D. Scott & E. Hargreaves, The SAGE Handbook of Learning (pp. 83–93). SAGE Publications Ltd. https://doi.org/10.4135/9781473915213.n8
 
 ## Annotations

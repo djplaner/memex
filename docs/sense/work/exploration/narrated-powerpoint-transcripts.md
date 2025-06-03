@@ -1,5 +1,6 @@
-# Narrated Powerpoint transcripts
-
+﻿---
+title: Narrated Powerpoint transcripts
+---
 ## Problem
 
 A course that has narrated powerpoints. How can we quickly generate transcripts from the existing powerpoints.

@@ -1,5 +1,6 @@
-# Problems with Modular Thinking
-
+﻿---
+title: Problems with Modular Thinking
+---
 **TODO**
 - [ ] Look at literature of CAS and software (modular) design
 - [ ] Look at quote from other paper I was reading (Zotero faile)

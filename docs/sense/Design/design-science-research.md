@@ -1,7 +1,6 @@
-# Design Science Research
-
-
-
+﻿---
+title: Design Science Research
+---
 ## Definitions
 
 > Design Science Research (DSR) is a problem-solving paradigm that seeks to enhance human knowledge via the creation of innovative artifacts. Simply stated, DSR seeks to enhance technology and science knowledge bases via the creation of innovative artifacts that solve problems and improve the environment in which they are instantiated. The results of DSR include both the newly designed artifacts and design knowledge (DK) that provides a fuller understanding via design theories of why the artifacts enhance (or, disrupt) the relevant application contexts. (vom Brocke, Hevener & Maedche, 2020)
@@ -51,6 +50,3 @@ Brocke, J. vom, Hevner, A., & Maedche, A. (2020). *Introduction to Design Scienc
 Gill, T. G., & Hevner, A. R. (2013). A Fitness-Utility Model for Design Science Research. ACM Transactions on Management Information Systems, 4(2), 5:1-5:24. https://doi.org/10.1145/2499962.2499963
 
 Gregor, S., & Hevner, A. (2013). Positioning and Presenting Design Science Research for Maximum Impact Positioning and Presenting Design Science Research for. *MIS Quarterly*, *37*(2), 337--335.
-
-
-

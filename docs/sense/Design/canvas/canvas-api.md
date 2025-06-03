@@ -1,3 +1,6 @@
+﻿---
+title: '# Canvas LMS API'
+---
 ## Canvas LMS API
 
 See also [[canvas-development]], [[canvas-api-dev]]

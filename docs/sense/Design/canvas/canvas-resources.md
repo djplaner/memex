@@ -1,5 +1,6 @@
-# Canvas resources
-
+﻿---
+title: Canvas resources
+---
 Collection point for misc Canvas resources - see also [[canvas-models]] and [[canvas-api]]
 
 # to do   

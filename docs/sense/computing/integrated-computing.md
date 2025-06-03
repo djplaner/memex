@@ -1,3 +1,6 @@
+﻿---
+title: No title found
+---
 <!--
  Copyright (C) 2023 David Jones
  
@@ -39,4 +42,3 @@ Is it a phrase getting broader acceptance, or limited to a researcher?
 ## Related references 
 
 Zhu, M., & Wang, C. (2023). K-12 Computer Science Teaching Strategies, Challenges, and Teachers' Professional Development Opportunities and Needs. *Computers in the Schools*, *0*(0), 1--22. <https://doi.org/10.1080/07380569.2023.2178868>
-

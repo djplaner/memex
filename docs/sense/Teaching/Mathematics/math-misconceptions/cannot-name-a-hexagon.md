@@ -1,3 +1,6 @@
+﻿---
+title: No title found
+---
 <!--
  Copyright (C) 2023 David Jones
  
@@ -32,4 +35,3 @@ Does it help if you're told it has the same name as the following shape
 ## References
 
 Boaler, J. (2015). Creating Mathematical Mindsets: The Importance of Flexibility with Numbers. In *Mathematical Mindsets: Unleashing Students' Potential Through Creative Math, Inspiring Messages and Innovative Teaching* (pp. 33--56). John Wiley & Sons, Incorporated.
-

@@ -1,7 +1,6 @@
-# Three acts of a mathematical story
-
-
-
+﻿---
+title: Three acts of a mathematical story
+---
 Dan Meyer's idea for ["The three acts of a mathematical story"](https://blog.mrmeyer.com/2011/the-three-acts-of-a-mathematical-story/). Also available is a [list of three act tasks](https://docs.google.com/spreadsheets/u/0/d/1jXSt_CoDzyDFeJimZxnhgwOVsWkTQEsfqouLWNNC6Z4/pub?output=html) and [another list](https://tapintoteenminds.com/3act-math/)
 
 His argument is that most teachers see act two as their focus. "Hit the board, offer students three worked examples and twenty practice problems" - very [[explicit-teaching]]. The problem is that's not the biggest part of our job. Meyer argues that students can find these resources many places. Hence a need to focus on providing the whole story. The ability to motivate the second act and pay off on the hard work.

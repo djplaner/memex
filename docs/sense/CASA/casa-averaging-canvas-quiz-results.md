@@ -1,5 +1,6 @@
-# Average Canvas quiz results 
-
+﻿---
+title: 'Average Canvas quiz results '
+---
 See [[casa-gallery]]
 
 ## Example seen in chat

@@ -1,5 +1,6 @@
-# Shaping Spaces - Peter Goodyear ALTC 2017 Keynote
-
+﻿---
+title: Shaping Spaces - Peter Goodyear ALTC 2017 Keynote
+---
 Related resources
 
 - [Video source](https://www.youtube.com/watch?v=bpG87z6MXrI) 

@@ -1,3 +1,6 @@
+﻿---
+title: No title found
+---
 <!--
  Copyright (C) 2023 David Jones
  
@@ -34,4 +37,3 @@ A sample of prompts that cause problems with LLMS/demonstrate their limitations.
 [link](https://chat.openai.com/share/ef9b9b3d-ff30-444b-8c8a-f6af9fb2a7cc)
 
 ![](images/mostGoals.png)
-

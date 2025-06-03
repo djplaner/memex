@@ -1,5 +1,6 @@
-# Interoperability Taxonomy
-
+﻿---
+title: Interoperability Taxonomy
+---
 Based on Cory Doctrow's [Interoperaability: Fix the Internet, Not the Tech Companies](https://www.eff.org/deeplinks/2019/07/interoperability-fix-internet-not-tech-companies)
 
 The argument is that fixing big problems with the tech companies needs to allow adversarial interoperability so that new players can come in, rather than trust the existing big players (e.g. facebook)
@@ -28,4 +29,3 @@ But standards use can be "managed" by companies to prefer certain things (e.g. b
 ## Adversarial interoperability
 
 Where the manufacturer is outright hostile to it and work against it.  Adversarial interoperability is when someone does it anyway. In spite of the manufacturer
-

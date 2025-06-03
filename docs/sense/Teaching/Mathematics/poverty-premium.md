@@ -1,7 +1,6 @@
-# Poverty Premium
-
-
-
+﻿---
+title: Poverty Premium
+---
 Anglicare report - [The Poverty Premium](https://www.anglicare.asn.au/publications/the-poverty-premium/) - makes a similar point as [[boots-theory]]. Other examples: [South Australian Council of Social Services (2017)](https://www.sacoss.org.au/sites/default/files/public/documents/Reports/APW%20Statements/A-P%20Week%20Statement%202017%20-%20FINAL.pdf)
 
 From a related [ABC News report](https://www.abc.net.au/news/2023-09-12/anglicare-poverty-premium-low-income-australians-cost-of-living/102843886)

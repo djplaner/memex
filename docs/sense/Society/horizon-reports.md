@@ -1,5 +1,6 @@
-# Horizon Repors
-
+﻿---
+title: Horizon Repors
+---
 ## Value and criticism
 
 Watters' history and criticism - [one](http://hackeducation.com/2015/02/17/horizon) and [two](http://horizon.hackeducation.com/). Number 100 of [edtech disasters](http://hackeducation.com/2019/12/31/what-a-shitshow) and on [the 2017 report](http://horizon.hackeducation.com/2017/08/30/horizon-k12) - "is not even wrong"
@@ -34,4 +35,3 @@ Watters' history and criticism - [one](http://hackeducation.com/2015/02/17/horiz
 - Constraint
 - Collapse
 - Transformation
-  

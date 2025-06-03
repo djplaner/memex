@@ -1,3 +1,6 @@
+﻿---
+title: No title found
+---
 ```toml
 post_title='What are the symbols in digital education/design for learning?'
 layout="post"

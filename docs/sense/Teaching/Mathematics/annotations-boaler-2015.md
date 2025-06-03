@@ -1,7 +1,6 @@
-# Creating mathematical mindsets - annotations
-
-
-
+﻿---
+title: Creating mathematical mindsets - annotations
+---
 Boaler, J. (2015). Creating Mathematical Mindsets: The Importance of Flexibility with Numbers. In *Mathematical Mindsets: Unleashing Students' Potential Through Creative Math, Inspiring Messages and Innovative Teaching* (pp. 33--56). John Wiley & Sons, Incorporated. 
 
 ## Annotations Boaler 2015
@@ -47,5 +46,3 @@ Boaler, J. (2015). Creating Mathematical Mindsets: The Importance of Flexibility
 > Research also shows that the only time homework is effective is when students are given a worthwhile learning experience, not worksheets of practice problems, and when homework is seen not as a norm but as an occasional opportunity to offer a meaningful task. (Boaler, 2015, p. 46)
 
 > Two innovative teachers I work with in Vista Unified School District, Yekaterina Milvidskaia and Tiana Tebelman, developed a set of homework reflection questions that they choose from each day to help their students process and understand the mathematics they have met that day at a deeper level. Th (Boaler, 2015, p. 46)
-
-

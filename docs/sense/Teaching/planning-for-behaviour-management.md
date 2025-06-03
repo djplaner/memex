@@ -1,7 +1,6 @@
-# Planning for behaviour management
-
-
-
+﻿---
+title: Planning for behaviour management
+---
 Dunk (2020) suggests the follow strategies to increase engagement
 
 - attention capture (what will capture their interest)
@@ -13,5 +12,3 @@ Dunk (2020) suggests the follow strategies to increase engagement
 
 
 Behaviour Management: an Essential Guide for Student and Newly Qualified Teachers, edited by Eleanor Overland, et al., Taylor & Francis Group, 2020. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/griffith/detail.action?docID=6128217.
-
-

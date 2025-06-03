@@ -1,5 +1,6 @@
-# ABC learning design explained
-
+﻿---
+title: ABC learning design explained
+---
 [ABC Learning Design](https://abc-ld.org/) is
 
 > a collaborative programme and module design method created at University College London (UCL) in 2015 and now used widely across the sector to help develop new programmes and review existing provision.

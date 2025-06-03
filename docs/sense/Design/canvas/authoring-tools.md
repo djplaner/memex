@@ -1,7 +1,6 @@
-# Authoring tools
-
-
-
+﻿---
+title: Authoring tools
+---
 Collections of various content authoring tools
 
 ## docsify
@@ -16,5 +15,3 @@ some more advance features. Very e-learning content like. Questions about integr
 - [Adapt Learning Framwork website](https://www.adaptlearning.org/) (aka the community site) or [this one](http://www.allthingsjavascript.com/adapt.html)
 - [demo](https://adaptlearning.github.io/v4demo/) 
 - [github](https://github.com/adaptlearning/adapt_framework)
-
-

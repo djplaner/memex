@@ -1,7 +1,6 @@
-# Bricolagogy
-
-
-
+﻿---
+title: Bricolagogy
+---
 Dron and Anderson (2022) provide an overview of "pedagogical paradigms". Documenting a shift beyond the traditional paradigms - objectivist (behaviourist/cognitivist), subjectivists (social constructivist), and complexivist (connectivist) - to include three-free and theory agnostic paradigms.  The theory agnostic paradigm is defined as _bricolagogy_.
 
 Driven by the increasing need of learning being about charting and wayfinding "in a cornucopia of information, competing values, and incompatible world-views" (p. 13), there is an increasing need for the ability to critically and reflectively choose the most appropriate pedagogies for the task at hand - the act of [[bricolage]].

@@ -1,5 +1,6 @@
-# Carpentaries training course
-
+﻿---
+title: Carpentaries training course
+---
 Software Carpentaries [instructor training course](https://carpentries.github.io/instructor-training/) gives a good overview
 
 - Building skill with practice
@@ -10,4 +11,3 @@ Software Carpentaries [instructor training course](https://carpentries.github.io
 - Motivation and demotivation
 - Live coding is a skill
 - Managing a diverse classroom
-

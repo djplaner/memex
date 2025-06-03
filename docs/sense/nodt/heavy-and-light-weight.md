@@ -1,5 +1,6 @@
-# Heavy Weight and Light Weight Information Technology
-
+﻿---
+title: Heavy Weight and Light Weight Information Technology
+---
 Idea generated from Bygstad (2017, p. 180)
 > Lightweight IT is suggested as a term for the new knowledge regime of mobile apps, sensors and bring-your-own-device, also called consumerisation and Internet-of-Things. The key aspect of **lightweight IT is not only the cheaper** and more available technology compared with heavyweight IT, but the fact that its deployment is frequently done by users or vendors, bypassing the IT departments
 

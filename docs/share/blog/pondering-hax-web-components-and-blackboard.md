@@ -1,5 +1,6 @@
-# Pondering Hax Web Components and Blackboard
-
+﻿---
+title: Pondering Hax Web Components and Blackboard
+---
 ```toml
 post_title='Pondering if and how Hax & web components fit in Blackboard'
 layout="post"

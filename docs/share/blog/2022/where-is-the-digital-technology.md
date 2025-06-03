@@ -1,3 +1,6 @@
+﻿---
+title: No title found
+---
 ```toml
 post_title='Where is the digital technology?'
 layout="post"
@@ -78,4 +81,3 @@ Dewey
 
 Jonassen
 > we can never educate directly but can design the environment for learning to be happening
-

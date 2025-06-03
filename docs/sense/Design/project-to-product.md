@@ -1,5 +1,6 @@
-# Project to Product
-
+﻿---
+title: Project to Product
+---
 Idea from agile, lean, devops, digital transformation. In part about moving IT from cost to profit center.
 
 [Shift IT from projects to products: Part 1- What is a product?](https://www.thoughtworks.com/en-au/insights/blog/shift-it-projects-products-part-1-what-product)
@@ -12,4 +13,4 @@ Idea from agile, lean, devops, digital transformation. In part about moving IT f
 
 ## Key differences
 
-![](images/diffProjectProduct.png)  
+![](images/diffProjectProduct.png)

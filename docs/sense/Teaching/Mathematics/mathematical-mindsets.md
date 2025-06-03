@@ -1,7 +1,6 @@
-# Mathematical mindsets
-
-
-
+﻿---
+title: Mathematical mindsets
+---
 Resources: [YouTube video](https://www.youtube.com/watch?v=bxrPy1fjVU4&t=472s) - associated with YouCubed - Boaler and students
 
 Following are rough notes from reading 

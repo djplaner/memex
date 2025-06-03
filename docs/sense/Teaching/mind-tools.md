@@ -1,3 +1,6 @@
+﻿---
+title: Mind Tools (and Mindstorms)
+---
 # Mind Tools (and Mindstorms)
 
 
@@ -35,5 +38,3 @@ Arising from Papert's work with Logo with the aim of allowing "children to engag
 ## References
 
 Jonassen, D., Carr, C., & Yueh, H. (1998). Computers as mindtools for engaging learners in critical thinking. *TechTrends*, *43*(2), 24--32.
-
-

@@ -1,5 +1,6 @@
-# Canvas Rubrics
-
+﻿---
+title: Canvas Rubrics
+---
 ## Misc resources
 
 - [Griffith VLE-Help - rubrics](https://www.griffith.edu.au/vle-help/staff/marking-and-feedback/rubrics)

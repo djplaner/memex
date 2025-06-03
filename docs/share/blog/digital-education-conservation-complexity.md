@@ -1,5 +1,6 @@
-
-
+﻿---
+title: No title found
+---
 Pondering whether [Tesler's "Law of Conservation of Complexity"](http://www.nomodes.com/Larry_Tesler_Consulting/Complexity_Law.html) (Tesler’s law from now on) applies to digital (e-)learning, and if so, what implications might arise, especially given the great 
 
 TL;DR. Creating a high quality, contextually appropriate digital learning space is complex. That complexity will always be conserved. Properly addressing this complexity requires knowledge which costs time & money. Most current approaches fail to address this. 

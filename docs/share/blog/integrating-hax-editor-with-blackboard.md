@@ -1,5 +1,6 @@
-# Integrating Hax Editor with Blackboard
-
+﻿---
+title: Integrating Hax Editor with Blackboard
+---
 ```toml
 post_title='Integrating the HEX editor with Blackboard content items'
 layout="post"
@@ -34,5 +35,4 @@ _Explain the content items on a Blackboard page_ _Show both the normal Blackboar
 2. View the Blackboard page with _edit mode on_
 3. Click on the HAX Blackboard button to invoke the HAX editor
 4. Use the HAX editor to make changes.
-5. 
-
+5.

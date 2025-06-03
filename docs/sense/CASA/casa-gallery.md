@@ -1,5 +1,6 @@
-# CASA Gallery
-
+﻿---
+title: CASA Gallery
+---
 A place to dump various ideas and examples for [[casa]]
 
 - [[casa-averaging-canvas-quiz-results]]

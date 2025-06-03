@@ -1,7 +1,6 @@
-# Checks for pedagogy
-
-
-
+﻿---
+title: Checks for pedagogy
+---
 Checklist for pedagogy in mathematics teaching offered by Grant Sanderson in a talk titled [_Math's pedagogical curse_](https://www.youtube.com/watch?v=UOuxo6SA8Uc)
 
 - Are core ideas given diagrams? see [[dual-coding]]

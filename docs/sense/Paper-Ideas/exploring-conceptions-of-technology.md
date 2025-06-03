@@ -1,5 +1,7 @@
-# Exploring conceptions of technology: Implications for learning, teaching, and meso-level practitioners
-
+﻿---
+title: 'Exploring conceptions of technology: Implications for learning, teaching,
+  and meso-level practitioners'
+---
 Moved authoring to [[ascilite-2021-exploring-conceptions-of-technology]]
 
 What might different conceptions of technology imply for learning, teaching, and meso-level practitioners

@@ -1,3 +1,6 @@
+﻿---
+title: No title found
+---
 * [Sense](sense.md)
    * Abstractions:
       * [BAD](CASA/bad-mindset.md)

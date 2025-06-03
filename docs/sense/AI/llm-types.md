@@ -1,3 +1,6 @@
+﻿---
+title: No title found
+---
 <!--
  Copyright (C) 2023 David Jones
  
@@ -25,6 +28,3 @@
 
 [Source](https://towardsdatascience.com/getting-started-with-langchain-a-beginners-guide-to-building-llm-powered-applications-95fc8898732c)
 ![](images/llm-types.png)
-
-
-

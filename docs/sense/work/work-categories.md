@@ -1,5 +1,6 @@
-# Work categories
-
+﻿---
+title: Work categories
+---
 Collection of resources related to work.
 
 

@@ -1,5 +1,6 @@
-# vite-plugin-monkey
-
+﻿---
+title: vite-plugin-monkey
+---
 See also:  [[usable-casa]]
 
 [Vite plugin server](https://github.com/lisonge/vite-plugin-monkey) to build userscripts, including support for svelte

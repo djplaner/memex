@@ -1,3 +1,6 @@
+﻿---
+title: No title found
+---
 ```toml
 post_title="Higher ed L&T's scale problem?"
 layout="post"
@@ -72,5 +75,3 @@ Ryan, T., French, S., & Kennedy, G. (2021). Beyond the Iron Triangle: Improving 
 Macfarlan, B., & Hook, J. (2022). 'As long as you use the template': Fostering creativity in a pedagogic model. *ASCILITE Publications*, *Proceedings of ASCILITE 2022 in Sydney*, Article Proceedings of ASCILITE 2022 in Sydney. <https://doi.org/10.14742/apubs.2022.34>
 
 Morel, R. P., Coburn, C., Catterson, A. K., & Higgs, J. (2019). The Multiple Meanings of Scale: Implications for Researchers and Practitioners. *Educational Researcher*, *48*(6), 369--377\. <https://doi.org/10.3102/0013189X19860531>
-
-

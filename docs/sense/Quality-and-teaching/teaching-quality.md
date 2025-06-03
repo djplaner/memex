@@ -1,5 +1,6 @@
-# Teaching quality
-
+﻿---
+title: Teaching quality
+---
 Raban (2007)
 > most universities’ quality management systems employ annual monitoring and periodic review procedures that are retrospective and provision focused. These systems are weakly integrated with an institution’s decisions on resource allocation and longer term strategic planning.....The CNAA-derived systems employed by most universities were designed for the purpose of securing accountability of (and within) institutions that were, at that time, working in more stable environments. Today, when the agility of institutions is at a premium, they seem unhelpfully dirigiste and burdensome.
 > The second respect in which conventional systems are ‘self-defeating’ is their tendency to promote an ‘unintelligent accountability’ (O’Neill, 2002). Institutions respond to external requirements by strengthening their arrangements for internal accountability; managerial approaches to accountability, based on a lack of trust, undermine the professional commitment and motivation of academic staff; resources and effort are diverted from the core activities of teaching and research; and thus the effort to assure quality impedes its enhancement.

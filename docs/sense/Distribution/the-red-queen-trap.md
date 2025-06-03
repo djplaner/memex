@@ -1,5 +1,6 @@
-# The Red Queen Trap
-
+﻿---
+title: The Red Queen Trap
+---
 Reflections on [The Red Queen Trap](https://www.tedmitew.net/2020/11/the-red-queen-trap/) by [Teodor Mitew](https://www.tedmitew.net/about-teodor-mitew/)
 
 Uses systems thinking to explore why Universities find themselves falling into the Red Queen Trap 

@@ -1,5 +1,6 @@
-# Pedagogical Paradigms
-
+﻿---
+title: Pedagogical Paradigms
+---
 Summary of Dron and Anderson (2022)
 
 ## Immediate reflections

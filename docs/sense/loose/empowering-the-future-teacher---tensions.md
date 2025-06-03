@@ -1,5 +1,6 @@
-# Empowering the future teacher - tensions
-
+﻿---
+title: Empowering the future teacher - tensions
+---
 Highlights some of the key tensions.
 
 From [Empower the future teacher](http://cloudworks.ac.uk/cloud/view/8041)

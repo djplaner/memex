@@ -1,5 +1,6 @@
-# Canvas Development
-
+﻿---
+title: Canvas Development
+---
 Placeholder for all sorts of information related to developing for //community.canvaslms.com/t5/Canvas
 
 - [[local-canvas-dev]]

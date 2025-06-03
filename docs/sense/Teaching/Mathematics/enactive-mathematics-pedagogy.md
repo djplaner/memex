@@ -1,7 +1,6 @@
-# Enactive mathematics pedagogy
-
-
-
+﻿---
+title: Enactive mathematics pedagogy
+---
 Linked to [Jerome Bruner's](https://en.wikipedia.org/wiki/Jerome_Bruner#Developmental_psychology) elaboration of _enactive_ (action-based), _iconic_ (image-based), and _symbolic_ (language-based) modes of representation (of tasks). Not clearly delineated, only loosely sequential since they can be translated into each other. However, moving from enactive > iconic > symbolic can be better for learning.
 
 ## Effective use of manipulatives
@@ -38,4 +37,3 @@ They also suggest that evidence for number lines is strong, but evidence is weak
 ## References
 
 Henderson, P., Hodgen, J., Foster, C., Kuchemann, D., Deeble, M., Toon, D., Vaughan, T., & Schoeffel, S. (2020). *Improve mathematics in upper primary and lower secondary*. Evidence for Learning.
-

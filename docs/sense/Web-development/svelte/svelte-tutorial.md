@@ -1,5 +1,6 @@
-# Svelte tutorial
- 
+﻿---
+title: Svelte tutorial
+---
 See [[svelte]]
 
 The [new tutorial](https://svelte.dev/tutorial/basics) for Svelte 3. Interactive.

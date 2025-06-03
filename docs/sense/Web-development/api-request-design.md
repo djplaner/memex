@@ -1,5 +1,6 @@
-# Designing API request mechanisms
-
+﻿---
+title: Designing API request mechanisms
+---
 ## Purpose
 
 Explore methods for designing methods for generating and handling asynchronous API request in Javascript.

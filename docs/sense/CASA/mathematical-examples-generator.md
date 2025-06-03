@@ -1,7 +1,6 @@
-# Mathematical Examples Generator
-
-
-
+﻿---
+title: Mathematical Examples Generator
+---
 ## Origins
 
 In teaching Mathematics examples are important. Especially in certain forms of explicit teaching. [[learner-generated-examples]] are very useful, but often come after teacher-generated examples used as part of explicit teaching.

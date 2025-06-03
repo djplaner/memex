@@ -1,6 +1,6 @@
-
-# My Publications
-
+﻿---
+title: My Publications
+---
 A list of 30 formal academic publications. My [Google Scholar Profile](http://scholar.google.com/citations?user=k8DkjXIqUl4J) has more detail
 
 | Publication Type | Total |
@@ -157,5 +157,3 @@ A list of 30 formal academic publications. My [Google Scholar Profile](http://sc
 <div class="csl-bib-body" style="line-height: 2; padding-left: 1em; text-indent:-1em;">
   <div class="csl-entry">Jones, D. (1993). <i>Teaching systems administration</i>.</div>
 </div>
-
-

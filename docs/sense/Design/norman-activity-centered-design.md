@@ -1,7 +1,6 @@
-# norman-activity-centered-design
-
-
-
+﻿---
+title: norman-activity-centered-design
+---
 ## Norman
 
 > The more something is tailored for the particular likes, dislikes, skills, and needs of a particular target population, the less likely it will be appropriate for others.
@@ -48,5 +47,3 @@ He then compares reviews of various mobile phones contrasting taskonomy versus t
 Norman, D. A. (2006). Logic versus usage: The case for activity-centered design. Interactions, 13(6), 45-ff.
 
 Taskonomy: A Practical Approach to Knowledge Structures on JSTOR. (n.d.). Retrieved November 12, 2021, from https://www-jstor-org.libraryproxy.griffith.edu.au/stable/644695?pq-origsite=360link&seq=1#metadata_info_tab_contents
-
-

@@ -1,5 +1,6 @@
-# Exploring the Messy Realities of Post-Digital Education
-
+﻿---
+title: Exploring the Messy Realities of Post-Digital Education
+---
 ## Background
 
 Fawns (2019, p. 138)

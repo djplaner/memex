@@ -1,5 +1,6 @@
-# Society
-
+﻿---
+title: Society
+---
 Insights and opinions into the nature of Society.
 
 ## General

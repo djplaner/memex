@@ -1,5 +1,6 @@
-# Webpack essentials
-
+﻿---
+title: Webpack essentials
+---
 ## Background
 
 Based [on this video](https://www.youtube.com/watch?v=lFjinlwpcHY)

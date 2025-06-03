@@ -1,5 +1,6 @@
-# Recipes
-
+﻿---
+title: Recipes
+---
 ## Gra's recipes - via Mum's book
 
 - [[ginger-nuts]]

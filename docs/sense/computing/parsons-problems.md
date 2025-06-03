@@ -1,3 +1,6 @@
+﻿---
+title: No title found
+---
 <!--
  Copyright (C) 2023 David Jones
  
@@ -33,5 +36,3 @@ The key idea behind Parsons Problems is that they focus on the structural aspect
 Parsons Problems can be implemented using different formats. For example, the code snippets may be presented as blocks of text that learners need to reorder, or they can be provided as drag-and-drop elements that learners arrange in the correct sequence. Additionally, Parsons Problems can be used with different programming languages and cover a wide range of topics and difficulty levels.
 
 Research has shown that Parsons Problems can be an effective pedagogical tool in computer science education. They help learners build mental models of program structure, enhance problem-solving abilities, and provide a low-stress environment for practicing programming concepts. Parsons Problems also encourage active learning and engagement, making them particularly valuable for introductory programming courses and online learning environments.
-
-

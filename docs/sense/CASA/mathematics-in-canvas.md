@@ -1,7 +1,6 @@
-# Mathematics in Canvas
-
-
-
+﻿---
+title: Mathematics in Canvas
+---
 Early explorations into how to make use of Canvas to support the teaching of mathematics.
 
 ## Canvas Maths Editor (aka Equations Editor)
@@ -23,4 +22,3 @@ Maths Editor is a plugin available via the RCE. Stores data in LaTeX format - Ca
 Works in new quiz for MCQ. What about other question types?
 
 matching - works in question, but not answer.
-

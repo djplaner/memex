@@ -1,9 +1,6 @@
-
-
-# prompt-engineering-for-educators
-
-
-
+﻿---
+title: prompt-engineering-for-educators
+---
 ## Designing effective AI Prompts (for Primary and High School Teachers)
 
 From Annesha Bakharia 
@@ -350,4 +347,3 @@ Tell me more!
 ---
 
 Clipped on Saturday, May 6, 2023, 2:05 PM
-

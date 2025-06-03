@@ -1,6 +1,6 @@
-# Broader Implications Hax Web Compontents
-
-
+﻿---
+title: Broader Implications Hax Web Compontents
+---
 ## Broader implications: the NGDLE and the VLE 
 
 The rise of the idea of the Next Generation Digital Learning Environment (NGDLE) is a recognition that no single system can meet the requirements of learning and teaching. Instead, there needs to be an ecosystem of components available that “allow individuals and institutions the opportunity to construct learning environments tailored to their requirements and goals” (Brown et al., 2015, p. 1). This "lego approach" to constructing an ecosystem of technologies requires standards that specify how the lego pieces connect. Otherwise there will be a disconnected user experience.

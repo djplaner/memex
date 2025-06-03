@@ -1,5 +1,6 @@
-# Digital Literacy
-
+﻿---
+title: Digital Literacy
+---
 ## Path
 
 - [[exploring-digital-literacy-moving-from-buzzwords-toward-a-social-construction-of-competency]]

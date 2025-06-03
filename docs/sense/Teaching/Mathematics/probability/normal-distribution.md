@@ -1,3 +1,6 @@
+﻿---
+title: No title found
+---
 <!--
  Copyright (C) 2023 David Jones
  
@@ -56,5 +59,3 @@ E.g. in stock market, an index is a combination of individual stocks whose price
 This should be taught in every statistics class as literally the first thing after CLT. But often isn't. And hence people misuse statistics and apply wrong models to complex data. Read more from [@nntaleb](https://twitter.com/nntaleb) who was an inspiration for this little thread.
 
 BTW: Here is the code snippet I wrote to generate these animations if you want to fiddle with it [github.com/piekniewski/ra…](https://github.com/piekniewski/random/blob/main/gauss/gaussian_experiment.py)
-
-

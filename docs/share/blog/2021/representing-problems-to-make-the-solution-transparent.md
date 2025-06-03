@@ -1,3 +1,6 @@
+﻿---
+title: No title found
+---
 ```toml
 post_title='Representing problems to make the solution transparent'
 layout="post"
@@ -78,5 +81,3 @@ The different representation made the solution transparent!!
 Dron, J. (2021). Educational technology: What it is and how it works. AI & SOCIETY. https://doi.org/10.1007/s00146-021-01195-z
 
 Simon, H. (1996). The sciences of the artificial (3rd ed.). MIT Press.
-
-

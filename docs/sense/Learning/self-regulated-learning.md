@@ -1,7 +1,6 @@
-# Self Regulated Learning
-
-
-
+﻿---
+title: Self Regulated Learning
+---
 ## Zimmerman
 
 ![Self-regulated learning - Figure created by Dr Sakinah Alhadad and Goksu Dines based on Zimmerman's sociocognitive framework of self-regulated learning.](images/self-regulated-learning.png)
@@ -40,4 +39,3 @@ But offers this table which suggests there is more to it.
 ## References
 
 Panadero, E. (2017). A Review of Self-regulated Learning: Six Models and Four Directions for Research. *Frontiers in Psychology*, *8*. <https://www.frontiersin.org/articles/10.3389/fpsyg.2017.00422>
-

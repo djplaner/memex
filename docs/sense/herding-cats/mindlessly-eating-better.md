@@ -1,6 +1,5 @@
-# Mindlessly eating better
-
+﻿---
+title: Mindlessly eating better
+---
 > Plate shapes and package sizes, lighting and layout, color and convenience: these are a few of hidden persuaders that can contribute to how much food a person eats. This review first posits that these environmental factors influence eating because they increase consumption norms and decrease consumption monitoring. Second, it suggests that simply increasing awareness and offering nutrition education will be disappointingly ineffective in changing mindless eating. Third, promising pilot results from the National Mindless Eating Challenge provide insights into helping move from mindless eating to mindlessly eating better. [source](http://www.sciencedirect.com/science/article/pii/S003193841000199X)
 > It is less clear that consumers need more nutrition information than it is that they need better heuristics to help them develop a bias toward eating less and eating healthier.
-
-

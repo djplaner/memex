@@ -1,5 +1,6 @@
-# Chilli Chicken
-
+﻿---
+title: Chilli Chicken
+---
 ## Ingredients
 
 - 500-800g Chicken Thigh

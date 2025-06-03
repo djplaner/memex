@@ -1,7 +1,6 @@
-# Canvas learning journal - log 2
-
-
-
+﻿---
+title: Canvas learning journal - log 2
+---
 Finalising requirements and design for a [[canvas-learning-journal]] CASA. A method to increase the efficiency and effectiveness of the single student group kludge for implementing a learning journal in Canvas.
 
 Basic model is some code (Python script) that is run daily (early hours of the morning). It uses a configuration file to

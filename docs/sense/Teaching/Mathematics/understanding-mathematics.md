@@ -1,7 +1,6 @@
-# Understanding Mathematics
-
-
-
+﻿---
+title: Understanding Mathematics
+---
 # Understanding Mathematics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 ## Articles
@@ -166,6 +165,3 @@ Links to resources talking about "the mathematical language" and how to overcome
 #### Articles
 
 - [Some Help on Reading Mathematics and Creating Proofs](http://www.math.ucsd.edu/~ebender/proofs.html)
-
-
-

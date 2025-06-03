@@ -1,7 +1,6 @@
-# Doer Effect
-
-
-
+﻿---
+title: Doer Effect
+---
 [Source](https://research.vitalsource.com/research/doer-effect)
 
 > The Doer Effect is the learning science principle that students who do practice as they read (learn by doing) have higher learning gains than those who only read.  
@@ -17,5 +16,3 @@ video. This study confirmed what most people understand: doing practice is good 
 coincidental; doing caused learning.2 Causal results are critical for educational research because we should
 know with a high degree of certainty that the learning methods presented to students will be effective
 for their learning.
-
-

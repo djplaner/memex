@@ -1,7 +1,6 @@
-# Effective pedagogy in mathematics
-
-
-
+﻿---
+title: Effective pedagogy in mathematics
+---
 A collection of suggestions from literature etc about what makes for effective mathematics pedagogy.
 
 ## Henderson et al (2020) - Improving upper primary and lower secondary

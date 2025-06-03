@@ -15,6 +15,11 @@ Actions include
               title: <title of the bubble>
     Displayed by Jinja template
 
+ Also provides some utility functions
+
+ - addYamlFrontMatter 
+
+    Which adds YAML front matter to all bubbles that don't have it. Run only once
 
 Limitations:
 
@@ -292,17 +297,24 @@ def saveBubble(bubble:dict):
 
     mkdocs_gen_files.set_edit_path(filePath, "corpousActions.py")
 
-def extractTitleFromContent(content):
+def extractTitleFromContent(content : str):
     """
     Given the markdown content of a bubble, extract the title from the content.
     It will be the first heading 1 title "# title" in the content.
+
+    Parameters
+    content: str - the content of the bubble
+    title: str - the title of the bubble, or "No title found" if no title is found
     """
 
     titleRegEx = r"^#\s*(.*)$"
 
     title = re.match(titleRegEx, content, re.MULTILINE)
 
-    return title.group(1) if title else "No title found"
+    if title:
+        return title.group(1) 
+    else: 
+        return "No title found"
     
 
 def updateFrontMatterBackLinks(bubbles, backLinks):
@@ -378,12 +390,44 @@ def updateFrontMatterBackLinks(bubbles, backLinks):
 
         saveBubble(bubbles[destinationFilePath])
 
-        
-        
+def addYamlFrontMatter(bubbles):
+    """
+    Some bubbles may not have front matter, so add it if it doesn't exist.
 
+    This is a clean up method. Should only need to be run once.
+
+    Parameters
+    bubbles: dict of dicts - all of the bubble content 
+       keyed on the file path of the destination bubble
+    """
+
+    for filePath in bubbles.keys():
+        #-- ignore any file that already has YAML with title
+        if 'yaml' in bubbles[filePath]:
+            if 'title' in bubbles[filePath]['yaml']:
+                continue
+
+        bubbles[filePath]['yaml'] = {}
+        bubbles[filePath]['yaml']['title'] = extractTitleFromContent(bubbles[filePath]['content'])
+
+        #-- remove the title from the content
+        titleRegEx = rf"^# {bubbles[filePath]['yaml']['title']}\s*$"
+        bubbles[filePath]['content'] = re.sub(
+            titleRegEx, "", bubbles[filePath]['content'], count=1, flags=re.MULTILINE )
+        #-- remove any leading newlines
+        bubbles[filePath]['content'] = bubbles[filePath]['content'].lstrip("\n")
+
+        # save the new bubble
+        saveBubble(bubbles[filePath])
+
+"""
+Main entry point for the generator
+
+"""
 
 config = configure()
 
 bubbles = retrieveMemexBubbles()
+#addYamlFrontMatter(bubbles)
 backLinks = generateBackLinks(bubbles)
 updateFrontMatterBackLinks(bubbles, backLinks)

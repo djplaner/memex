@@ -1,7 +1,6 @@
-# COVID response what unis did 
-
-
-
+﻿---
+title: 'COVID response what unis did '
+---
 - COVID and broad economic, societal and personal impacts...but also L&T
 - Universities had to adjust rapidly to COVID moving the bulk online
 - Universities had to rationalise their offerings, employment etc

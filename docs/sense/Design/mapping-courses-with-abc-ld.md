@@ -1,5 +1,6 @@
-# Mapping courses with ABC LD
-
+﻿---
+title: Mapping courses with ABC LD
+---
 Is it possible to map an existing course and its activities using ABC LD?
 
 i.e. could an existing course be abstracted to a collection of and sequence of certain activities. Activities abstracted enough to allow analysis and translation?

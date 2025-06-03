@@ -1,5 +1,6 @@
-# Teaching with video in Canvas
-
+﻿---
+title: Teaching with video in Canvas
+---
 See also:  [[canvas-resources]]
 
 ![](images/video-agenda.png)

@@ -1,5 +1,6 @@
-# Forward-oriented design
-
+﻿---
+title: Forward-oriented design
+---
 Idea first suggested in [Dimitriadis & Goodyear (2013)](https://petergoodyear.files.wordpress.com/2017/07/dimitriadis-goodyear-2013-forward-oriented-design.pdf) and [Goodyear and Dimitriadis (2013)](https://petergoodyear.files.wordpress.com/2017/07/goodyear-dimitriadis-2013-in-medias-res.pdf)
 
 Encourages thinking of designing learning as including different phases that focus attention on different necessary questions.

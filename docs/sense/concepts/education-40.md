@@ -1,3 +1,6 @@
+﻿---
+title: No title found
+---
 <!--
  Copyright 2023 s2986288
  
@@ -48,8 +51,3 @@ Goldin et al (2022)
 ## References
 
 Goldin, T., Rauch, E., Pacher, C., & Woschank, M. (2022). Reference Architecture for an Integrated and Synergetic Use of Digital Tools in Education 4.0. *Procedia Computer Science*, *200*, 407--417. <https://doi.org/10.1016/j.procs.2022.01.239>
-
-
-
-
-

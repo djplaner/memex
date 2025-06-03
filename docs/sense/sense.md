@@ -1,5 +1,6 @@
-# Sense
-
+﻿---
+title: Sense
+---
 See: [[pkm]]
 
 ## Abstractions

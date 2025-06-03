@@ -1,3 +1,6 @@
+﻿---
+title: '# 001 - Exploring Australian Curriculum - Dev log'
+---
 ## 001 - Exploring Australian Curriculum - Dev log
 
 
@@ -138,5 +141,3 @@ There is a [JSON API](https://docs.datasette.io/en/stable/json_api.html) built i
 There is a [graphql plugin](https://datasette.io/plugins/datasette-graphql)...nice.  Install the plugin via pip, restart datasette and the interface is modified to include option to use GraphiQL to interact with
 
 And there are various options for [publishing](https://docs.datasette.io/en/stable/publish.html) and [deploying](https://docs.datasette.io/en/stable/deploying.html) and [DataSette cloud](https://datasette.substack.com/p/datasette-cloud-and-the-datasette) is designed to make that easier.
-
-

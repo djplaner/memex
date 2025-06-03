@@ -1,3 +1,7 @@
+﻿---
+title: Notes from ["Learning Design SIG webinar on entangled pedagogy and learning
+  design"](https://ascilite.org/events/learning-design-sig-webinar-on-entangled-pedagogy-and-learning-design/)
+---
 # Notes from ["Learning Design SIG webinar on entangled pedagogy and learning design"](https://ascilite.org/events/learning-design-sig-webinar-on-entangled-pedagogy-and-learning-design/)
 
 ## Abstract

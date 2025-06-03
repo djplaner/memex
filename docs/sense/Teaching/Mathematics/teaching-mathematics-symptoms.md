@@ -1,7 +1,6 @@
-# Symptoms of the state of mathematics teaching
-
-
-
+﻿---
+title: Symptoms of the state of mathematics teaching
+---
 ## Misc reports
 
 - [Engineers Australia warning](https://www.news.com.au/finance/work/careers/engineers-australia-warns-prosperity-at-risk-from-declining-capacity/news-story/d0023495db67a814e02e45fa74ae066e) - late 2023 News.com.au story citing an [AMSI report](https://amsi.org.au/?publications=year-12-participation-in-calculus-based-mathematics-subjects-takes-a-dive) showing drop in students taking intermediate (24% drop) and higher (20% drop) mathematics between 2008 and 2023.

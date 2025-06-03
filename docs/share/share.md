@@ -1,5 +1,6 @@
-# Share
-
+﻿---
+title: Share
+---
 What do I want to share with the world?
 
 ## My stuff

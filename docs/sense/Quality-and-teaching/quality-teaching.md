@@ -1,5 +1,6 @@
-# Quality teaching
-
+﻿---
+title: Quality teaching
+---
 **See also**: [[quality]] [[teaching-quality]] 
 
 > Quality teaching is the use of pedagogical techniques to produce learning outcomes for students.

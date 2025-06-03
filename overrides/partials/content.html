@@ -5,7 +5,10 @@
 {% endif %}
 {% if page.meta.backlinks %}
     <details class="foam-backlinks">
-      <summary>{{ page.meta.backlinks | length }} related links: </summary>
+      <summary>
+        {{ page.meta.backlinks | length }} related 
+        {% if page.meta.backlinks | length == 1 %}link{% else %}links{% endif %}
+      </summary>
         <ul>
           {% for backlink in page.meta.backlinks %}
           <li> <a href="{{ backlink.url }}">{{ backlink.title }}</a> </li> 

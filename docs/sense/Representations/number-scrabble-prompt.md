@@ -1,5 +1,6 @@
-# Prompt exploration for preparing number scrabble
-
+﻿---
+title: Prompt exploration for preparing number scrabble
+---
 ## Initial prompt
 
 As a web developer write a 2-player version of Herb Simon's number scrabble game using HTML, Javascript and CSS.  Provide the HTML, Javascript, and CSS to implement the game. 

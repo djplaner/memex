@@ -1,7 +1,6 @@
-# Cognitive Strategies
-
-
-
+﻿---
+title: Cognitive Strategies
+---
 ## Three groups
 
 McCrindle and Christensen (1995, p. 170-171) describe three groups of cognitive strategies proposed by Weinstein and Mayer (1986)
@@ -16,4 +15,3 @@ McCrindle and Christensen (1995, p. 170-171) describe three groups of cognitive 
 ## References
 
 McCrindle, A. R., & Christensen, C. a. (1995). The impact of learning journals on metacognitive and cognitive processes and learning performance. *Learning and Instruction*, *5*(2), 167--185. <https://doi.org/10.1016/0959-4752(95)00010-Z>
-

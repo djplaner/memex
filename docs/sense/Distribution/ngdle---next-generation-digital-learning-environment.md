@@ -1,5 +1,6 @@
-# NGDLE - Next Generation Digital Learning Environment
-
+﻿---
+title: NGDLE - Next Generation Digital Learning Environment
+---
 [EDUCAUSE define the NGDLE](https://www.educause.edu/ecar/research-publications/foundations-for-a-next-generation-digital-learning-environment-faculty-students-and-the-lms/ngdle-the-wave-of-the-future) as
 > a digital learning architecture encompassing a confederation of learning applications, tools, and resources woven together by means of open standards.
 

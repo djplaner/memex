@@ -1,5 +1,6 @@
-# Web Components
-
+﻿---
+title: Web Components
+---
 Definition from [open-wc Web Components basics](https://open-wc.org/codelabs/basics/web-components.html?index=/codelabs/#0)
 
 > Web Components are a set of low-level browser features that allow us to write modular, encapsulated and reusable HTML elements. Web Components are based on web standards and work in any environment that supports basic HTML and JavaScript. This means that there is no complex setup required for you to get started.

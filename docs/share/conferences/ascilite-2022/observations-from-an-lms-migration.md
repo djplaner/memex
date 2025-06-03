@@ -1,5 +1,7 @@
-# Orchestrating entangled relations to break the iron triangle: Observations from an LMS migration
-
+﻿---
+title: 'Orchestrating entangled relations to break the iron triangle: Observations
+  from an LMS migration'
+---
 Early work on developing an actual poster
 
 ## Broad design

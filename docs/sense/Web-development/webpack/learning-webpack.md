@@ -1,5 +1,6 @@
-# Learning Webpack
-
+﻿---
+title: Learning Webpack
+---
 Finally grok Webpack.  ~/code/2021/webpack
 
 ## Testing process

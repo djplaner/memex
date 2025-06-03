@@ -1,5 +1,6 @@
-# Tweaks, templates and the LMS: exploring how to improve the learning environment
-
+﻿---
+title: 'Tweaks, templates and the LMS: exploring how to improve the learning environment'
+---
 ## Published
 
 Jones, D. (2018). [Exploring knowledge reuse in design for digital learning: tweaks, H5P, constructive templates and CASA.](https://djon.es/blog/2019/11/28/how-to-share-design-knowledge-in-design-for-digital-learning/) In Y. W. Chew, K. M. Chan, and A. Alphonso (Eds.), Personalised Learning. Diverse Goals. One Heart. ASCILITE 2019 Singapore (pp. 139-148).
@@ -30,5 +31,3 @@ What is missing ... Goodyear and Retalis.
 ## Related categories
 
 - [[Paper Ideas]]
-
-

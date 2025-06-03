@@ -1,3 +1,6 @@
+﻿---
+title: No title found
+---
 <!--
  Copyright (C) 2023 David Jones
  
@@ -42,5 +45,3 @@ One reason for this move is that to move L&T forward in higher ed - esp. in how 
 ## References 
 
 Laurillard, D. (2012). Teaching as Developing Pedagogical Patterns. In *Teaching As a Design Science: Building Pedagogical Patterns for Learning and Technology* (pp. 210--258). Taylor & Francis Group.
-
-

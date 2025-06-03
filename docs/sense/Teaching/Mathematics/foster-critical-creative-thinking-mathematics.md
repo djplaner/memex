@@ -1,7 +1,6 @@
-# Fostering critical and creative thinking - mathematics
-
-
-
+﻿---
+title: Fostering critical and creative thinking - mathematics
+---
 ## 7 Methods
 
 [Source](https://www.monash.edu/education/teachspace/articles/seven-reasons-why-maths-is-important-for-21st-century-thinking)
@@ -24,5 +23,3 @@
    2. Critically - when justifying an interpretation fo the problem and evaluation of the solution
 7. Creative and critical thinking are fundamental skills for the future
    1. Normal creativity justification - in Maths, start by teaching problem solving and reasoning
-
-

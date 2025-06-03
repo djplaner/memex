@@ -25,8 +25,11 @@ An on-going task is to figure out [[note-taking-strategies]] to help improve thi
 ### To do list
 
 - [[publishing-graph-interface]]
-- [x] [[integrate-backlinks-automatically-onto-pages]] 
-- [[computational-components]]
+- [[statistics-and-analytics]] - exploring how to improve statistics and analytics for the site and the blog.
+- [[add-activity-pub]] - have the blog post/retrieve comments via ActivityPub.
+- expand recent changes
+
+    - Stand alone page that lists all changes, provides graphical representations of frequency etc.
 
 ## Method
 
@@ -38,9 +41,9 @@ An on-going task is to figure out [[note-taking-strategies]] to help improve thi
 
 The following tracks the broad evolution of the method behind the implementation of this site through the following phases
 
-1. [Version 3 - early 2025](#version-3---early-2025)
-2. [Version 2 - Adding mkdocs - (2nd half 2023)](#version-2---adding-mkdocs---2nd-half-2023)
-3. [Version 1 - Initial implementation with Foam using PKM (July 2020)](#version-1---initial-implementation-with-foam-using-pkm-july-2020)
+1. [Version 3 - early 2025](#version-3-early-2025)
+2. [Version 2 - Adding mkdocs - (2nd half 2023)](#version-2-adding-mkdocs-2nd-half-2023)
+3. [Version 1 - Initial implementation with Foam using PKM (July 2020)](#version-1-initial-implementation-with-foam-using-pkm-july-2020)
 
 ### Version 3 - early 2025
 
@@ -51,17 +54,9 @@ Related writing
 - early [blog post](https://djon.es/blog/2025/01/12/what-now/) with initial description of the rationale and possibilities for version 3.
 - [A new day](https://djon.es/blog/2025/05/23/a-new-day/) authored using the new process for the new blog, this post steps through the process. 
 
-On-going tweaks
+Where [[computational-components]] started being heavily used.
 
-- [[statistics-and-analytics]] - exploring how to improve statistics and analytics for the site and the blog.
-- [[add-activity-pub]] - have the blog post/retrieve comments via ActivityPub.
-
-To do
-
-- expand recent changes
-
-    - Stand alone page that lists all changes, provides graphical representations of frequency etc.
-
+- [x] [[integrate-backlinks-automatically-onto-pages]] completed June 2025
 
 ### Version 2 - Adding mkdocs - (2nd half 2023)
 
@@ -89,11 +84,11 @@ Timed with an increased focus on leveraging this site for my [personal learning 
 [ideas-events-people]: ../sense/quote-collection/ideas-events-people "Great Minds Discuss Ideas; Average Minds Discuss Events; Small Minds Discuss People"
 [note-taking-strategies]: note-taking-strategies "Note taking strategies"
 [publishing-graph-interface]: publishing-graph-interface "Publishing graph interface"
-[integrate-backlinks-automatically-onto-pages]: integrate-backlinks-automatically-onto-pages "Integrate backlinks automatically onto pages"
-[computational-components]: computational-components "Computational components"
-[version-3-memex-design]: version-3-memex-design "Memex - Version 3"
 [statistics-and-analytics]: statistics-and-analytics "Statistics and Analytics"
 [add-activity-pub]: add-activity-pub "Adding ActivityPub to the blog"
+[version-3-memex-design]: version-3-memex-design "Memex - Version 3"
+[computational-components]: computational-components "Computational components"
+[integrate-backlinks-automatically-onto-pages]: integrate-backlinks-automatically-onto-pages "Integrate backlinks automatically onto pages"
 [why-mkdocs-foam]: why-mkdocs-foam "Why combine mkdocs with Foam"
 [deploy-with-github-action]: deploy-with-github-action "Deploy with GitHub Action"
 [tags-and-properties]: tags-and-properties "Tags and properties"

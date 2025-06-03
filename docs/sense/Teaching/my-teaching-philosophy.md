@@ -1,7 +1,6 @@
-# My Teaching Philosophy
-
-
-
+﻿---
+title: My Teaching Philosophy
+---
 Nascent attempt to articulate my teaching philosophy. Initially focused on listing ideas that resonate.
 
 ## Misc aphorisms

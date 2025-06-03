@@ -1,7 +1,6 @@
-# Differentiation - Mathematics
-
-
-
+﻿---
+title: Differentiation - Mathematics
+---
 ## Mathematics Strategies that promote equity and achievement 
 
 D'Ambrosio & Kastberg (2008) provide the following.

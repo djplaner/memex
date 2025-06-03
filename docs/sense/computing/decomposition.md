@@ -1,8 +1,6 @@
-
-# Decomposition 
-
-
-
+﻿---
+title: 'Decomposition '
+---
 ## Problems/challenges 
 
 - [[cross-cutting-concerns]]

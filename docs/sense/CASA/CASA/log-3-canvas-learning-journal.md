@@ -1,5 +1,6 @@
-# Log 3 - Canvas learning journal
-
+﻿---
+title: Log 3 - Canvas learning journal
+---
 Implementation of a [[canvas-learning-journal]] [[casa]].
 
 In particular, the aim here is to develop a web-based report on activity/contributions to an individual group graded discussion.

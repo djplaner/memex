@@ -1,8 +1,6 @@
-# Queensland schools and digital technologies
-
-
-
-
+﻿---
+title: Queensland schools and digital technologies
+---
 ## 2023
 
 [Qld DoE page](https://education.qld.gov.au/curriculum/stages-of-schooling/stem/technology) offers rationale and description of what students will learn re: digital technologies.

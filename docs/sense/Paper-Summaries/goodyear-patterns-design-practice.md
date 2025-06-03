@@ -1,5 +1,6 @@
-# Patterns, pattern languages and design practice
-
+﻿---
+title: Patterns, pattern languages and design practice
+---
 Goodyear, P. (2005). Educational design and networked learning: Patterns, pattern languages and design practice. *Australasian Journal of Educational Technology*, *21*(1). <https://doi.org/10.14742/ajet.1344>
 
 ## Summary

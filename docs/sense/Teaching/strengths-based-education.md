@@ -1,5 +1,6 @@
-# strengths-based-education
-
+﻿---
+title: strengths-based-education
+---
 id Jones
  
  This program is free software: you can redistribute it and/or modify
@@ -34,4 +35,3 @@ Lopez ?? - strengths in everyone, teachers have to provide experiences..."
 - 7015HSV - Disability theories and approaches
   - video explanation an example
   - non-graded assessment - complete/incomplete
-

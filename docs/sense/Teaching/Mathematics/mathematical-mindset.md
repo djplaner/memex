@@ -1,7 +1,6 @@
-# Mathematical Mindset
-
-
-
+﻿---
+title: Mathematical Mindset
+---
 Related: [[mathematical-mindsets]] - vague notes from reading Boaler (2015)
 
 ## Definitions

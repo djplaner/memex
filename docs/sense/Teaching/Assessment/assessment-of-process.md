@@ -1,3 +1,6 @@
+﻿---
+title: No title found
+---
 <!--
  Copyright (C) 2023 David Jones
  
@@ -29,4 +32,4 @@
 - In an AI context, the human learning journey "with all its accompanying challenges, discoveries and moments of insight" can't be replicated.
 - but assessment processes of learning "is complex, difficult, and resource-intensive"
 - "Reflection activities, e-portfolios, nested tasks, peer collaborations, and other approaches all have potential...but do not scale easily or leave too much room for threats to academic integrity" 
-- 
+-

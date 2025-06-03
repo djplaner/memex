@@ -1,7 +1,6 @@
-# Curriculum Ergonomics
-
-
-
+﻿---
+title: Curriculum Ergonomics
+---
 Choppin et al (2018) "conceptualize curriculum ergonomics as a field that studies the interactions between users and curriculum materials" 
 
 ## Origins
@@ -82,5 +81,3 @@ Choppin et al (2018) suggest three contributions
 ## References
 
 Choppin, J., Roth McDuffie, A., Drake, C., & Davis, J. (2018). Curriculum ergonomics: Conceptualizing the interactions between curriculum design and use. *International Journal of Educational Research*, *92*, 75--85. <https://doi.org/10.1016/j.ijer.2018.09.015>
-
-

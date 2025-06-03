@@ -1,8 +1,6 @@
-# Inquiry Learning
-
-
-
-
+﻿---
+title: Inquiry Learning
+---
 ## Guided inquiry
 
 Fry & Hillman (2018) talk about guided inquiry as includes opportunities (necessity) for explicit teaching. As opposed to the common positioning of inquiry learning as leaving students to sink or swim without guidance.
@@ -12,6 +10,3 @@ Fry & Hillman (2018) talk about guided inquiry as includes opportunities (necess
 ## References
 
 Fry, K., & Hillman, J. (2018). The Explicitness of Teaching in Guided Inquiry. In *Mathematics Education Research Group of Australasia*. Mathematics Education Research Group of Australasia. <https://eric.ed.gov/?id=ED592484>
-
-
-

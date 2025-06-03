@@ -1,5 +1,6 @@
-# Strategic Planning
-
+﻿---
+title: Strategic Planning
+---
 Need to specify the strategic goals of the institution and the methods to be used.
 
 [Issues-based approach](http://managementhelp.org/blogs/strategic-planning/2010/05/17/should-i-use-goals-based-or-issues-based-planning/) to strategic planning is an alternative to goal-based.  It allows the focus to remain on the present, rather than some imaginary future. Also [other models.](http://managementhelp.org/strategicplanning/models.htm)

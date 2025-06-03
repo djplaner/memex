@@ -1,7 +1,6 @@
-# Law of Requisite Complexity
-
-
-
+﻿---
+title: Law of Requisite Complexity
+---
 Related: [[law-of-requisite-variety]]
 
 An update to the [[law-of-requisite-variety]] from Boisot and McKelvey which [Wikipedia describes as]

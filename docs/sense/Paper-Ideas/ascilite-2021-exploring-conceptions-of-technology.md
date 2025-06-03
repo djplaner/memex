@@ -1,5 +1,7 @@
-# Exploring conceptions of technology: Implications for learning, teaching, and meso-level practitioners
-
+﻿---
+title: 'Exploring conceptions of technology: Implications for learning, teaching,
+  and meso-level practitioners'
+---
 ## Abstract
 
 It appears likely that the post-COVID landscape for learning in tertiary education will entail more widespread adoption, conversion and transformation or practice through educational technology. 

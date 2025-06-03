@@ -1,3 +1,6 @@
+﻿---
+title: No title found
+---
 <!--
  Copyright (C) 2023 David Jones
  
@@ -49,5 +52,3 @@ Klockner, K., Shields, P., Pillay, M., & Ames, K. (2021). Pragmatism as a teachi
 > The 4P's of pragmatism include the notions that education needs to be Practical (scientific inquiry should incorporate practical problem solving), Pluralistic (the study of phenomena should be multiand inter- disciplinary), Participatory (learning includes diverse (Klockner et al., 2021, p. 5)
 
 > perspectives of multiple stakeholders) and Provisional (experience is advanced by flexibility, exploration and revision), as show (Klockner et al., 2021, p. 5)
-
-

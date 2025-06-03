@@ -1,5 +1,6 @@
-# Twitter Memex Wordpress
-
+﻿---
+title: Twitter Memex Wordpress
+---
 ```toml
 post_title='Integrating Twitter, Wordpress and Memex'
 layout="post"

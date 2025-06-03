@@ -1,5 +1,6 @@
-# LangChain
-
+﻿---
+title: LangChain
+---
 Resources
 
 - [LangChain](https://docs.langchain.com/docs/)
@@ -21,4 +22,3 @@ Common examples of application types
 
 1. Install langchain via pip 
 2. Install openai python bindings
-

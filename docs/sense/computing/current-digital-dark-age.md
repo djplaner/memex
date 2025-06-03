@@ -1,7 +1,6 @@
-# Current Digital Dark Age
-
-
-
+﻿---
+title: Current Digital Dark Age
+---
 Dave Lane wrote [_The current (digital) Dark age](https://davelane.nz/current-digital-dark-age) arguing "that we're in the midst of a new Dark Age" (also [written about previously](https://davelane.nz/midnight-musing-history-repeats-only-time-its-digital))
 
 Comparing the "old" dark age with its three layers (my phrasing) with current day
@@ -22,5 +21,3 @@ Raises the question about whether there will be a second enlightenment. Raising 
 
 Lane hopes such a new age would be
 > characterised by enabled communities, where self-reliance and empowerment are championed ("the user is the developer) rather than sneered at by the fearful, insecure masses.
-
-

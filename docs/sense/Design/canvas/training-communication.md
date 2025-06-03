@@ -1,5 +1,6 @@
-# Canvas training communication
-
+﻿---
+title: Canvas training communication
+---
 - Communicating for online learning
 
 - Inbox vs Announcements
@@ -24,5 +25,3 @@ InBox/Conversations is almost a mailing list. Allows students to reply.
 - groupings of students? by section/tutorial/group
 - replies could be interesting
 - doesn't appear that students can reply to the entire recipient list?
-
-

@@ -1,5 +1,6 @@
-# Moving to Third Age development
-
+﻿---
+title: Moving to Third Age development
+---
 The Card and Content Interface are extended copies of the of [the original Blackboard Tweaks code](https://tweaks.github.io/Tweaks/index.html). Code released in 2011. Even though it's a bit late, it could be labelled part of the first age of Javascript (see [[third-age-of-javascript]]) given its reliance on jQuery and approach to build (i.e. nothing). My extension into the Card and Content Interface is that of a novice learning.  Time to move to something more contemporary.
 
 Aim is to move the Card and Content Interface "seamlessly" into web components and [[third-age-of-javascript]] to enable quicker and more responsive feature development. In particular, the ability to build out a design system of learning activities based on Web components.

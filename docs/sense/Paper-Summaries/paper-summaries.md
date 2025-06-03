@@ -1,5 +1,6 @@
-# Paper Summaries
-
+﻿---
+title: Paper Summaries
+---
 [[summary-template]]
 
 ## General

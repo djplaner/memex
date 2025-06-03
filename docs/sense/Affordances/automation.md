@@ -1,5 +1,6 @@
-# Automation
-
+﻿---
+title: Automation
+---
 - [[rpa-suitable-tasks]]
 
 ## Machine learning's crumbling foundations

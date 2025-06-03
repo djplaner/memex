@@ -1,7 +1,6 @@
-# Critical pedagogy
-
-
-
+﻿---
+title: Critical pedagogy
+---
 > Critical Pedagogy is an approach to teaching and learning predicated on fostering agency and empowering learners (implicitly and explicitly critiquing oppressive power structures). [source](http://www.digitalpedagogylab.com/hybridped/critical-digital-pedagogy-definition/)
 
 Follows up with offering examples of critical
@@ -13,7 +12,3 @@ Follows up with offering examples of critical
 > - Critical Pedagogy, as a disciplinary approach, which inflects (and is inflected by) each of these other meanings.
 
 What does this look like? How does it apply to (critical) academic professional learning?
-
-
-
-

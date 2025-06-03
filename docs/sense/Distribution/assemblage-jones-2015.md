@@ -1,3 +1,6 @@
+﻿---
+title: Assemblage (Jones, 2015)
+---
 # Assemblage (Jones, 2015)
 
 Jones, C. (2015). Networked Learning: A New Paradigm? In C. Jones (Ed.), Networked Learning: An  Educational Paradigm for the Age of Digital Networks (pp. 225–243). Springer International Publishing. [https://doi.org/10.1007/978-3-319-01934-5_9](https://doi.org/10.1007/978-3-319-01934-5_9)

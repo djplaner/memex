@@ -1,5 +1,6 @@
-# Blog posts
-
+﻿---
+title: Blog posts
+---
 I'm no longer writing posts for my [blog](https://djon.es/blog/) directly in Wordpress. Instead, the are being written using [Foam](https://foambubble.github.io/foam/) which is used to maintain this site. Doing this unifies my writing process into one tool ([Visual Studio Code](https://en.wikipedia.org/wiki/Visual_Studio_Code)), avoids the schmozzle that is Wordpress editing, and lets me leverage the VSCode/Foam ecosystem of tools and practices. 
 
 This ecosystem of tools brings many good things. For example, content is available in a form that is very interoperable enabling interesting manipulation. That content is stored on GitHub i.e. in a git repository, which provides a high level of control. Enables me to write blog posts on numerous computers and devices. Provide the ability to link my blog posts to the ideas and concepts stored here.

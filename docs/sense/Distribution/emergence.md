@@ -1,5 +1,6 @@
-# Emergence
-
+﻿---
+title: Emergence
+---
 [This youtube video on emergence](https://www.youtube.com/watch?v=iHBF72lVVrc) cropped up in my YouTube feed.
 
 Provided description
@@ -38,4 +39,3 @@ Aside - What I wonder about OnTask and SRES is the difference in how they've evo
 But the end result, is that it is perhaps the ability for new patterns of analytics to emerge over time that is the key. It's not about designing a fixed system at the start. It's about being able to encourage emergence of new patterns as efficiently as possible.
 
 The challenge for meso-level practitioners (and academics) is that the "energy" they have available to encourage this emergence is limited. Limited by their technical skills, their data analysis skills, their time, the available tools, what they are allowed to do etc. Suggesting perhaps the design principles need to help the meso-level practitioners figure out what energy efficient ways exist for them in their context to encourage this emergence?
-

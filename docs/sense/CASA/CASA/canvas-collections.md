@@ -1,3 +1,6 @@
+﻿---
+title: No title found
+---
 <!--
  Copyright (C) 2023 David Jones
  
@@ -29,5 +32,3 @@ Originally developed whilst working at Griffith University it has subsequently b
 
 > People who know me well will know that I have some opinions about the Canvas LMS and its highly linear structure, but this blog post from David Jones (Griffith) about an open source tool that they have developed makes me think there might be hope for it yet. In a nutshell, it allows users to add a basic nav bar and cluster modules into a few collections. Visual information about modules can be added, with other basic course information - dates, summary details and coming soon information about unpublished modules. 
 > I will, naturally, add the relevant disclaimers that any modifications/customisations come with an element of risk the next time the official version of the platform is updated - and the more changes you make, the greater the risk - so talk to your Ed Tech team to see if Canvas Collections is right for you. (But it does look kind of cool)
-
-

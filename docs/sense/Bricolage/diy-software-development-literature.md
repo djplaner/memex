@@ -1,11 +1,6 @@
-
-
-
-# Literature of DIY software development
-
-
-
-
+﻿---
+title: Literature of DIY software development
+---
 ## Shell and DIY/Citizen development
 
 Caroll and Maher (2023)
@@ -23,4 +18,3 @@ From the VP for DIY Software Development
 ## References 
 
 Carroll, N., & Maher, M. (2023). How Shell Fueled Digital Transformation by Establishing DIY Software Development. *MIS Quarterly Executive*, *22*(2). <https://aisel.aisnet.org/misqe/vol22/iss2/3>
-

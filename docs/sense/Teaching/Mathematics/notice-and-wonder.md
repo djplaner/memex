@@ -1,7 +1,6 @@
-# Notice and wonder
-
-
-
+﻿---
+title: Notice and wonder
+---
 Method for prompting students to generate and explore mathematical questions of their own choosing. An example of a [[mathematically-productive-tasks]]
 
 Rumack and Huinker (2019, p. 396) offer the following routine

@@ -1,5 +1,6 @@
-# Sharing the ABC Approach
-
+﻿---
+title: Sharing the ABC Approach
+---
 Hasenknopf, B., Michou, V., Milani, M., Perovic, N., & Young, C. (n.d.). [Sharing the ABC approach to learning design across three European Universities](https://eua.eu/downloads/content/2019.39_hasenknopf_michou_milani_perovic_young.pdf). *European University Association (EUA), 2019 European Learning & Teaching Forum*.
 
 ## Early thoughts

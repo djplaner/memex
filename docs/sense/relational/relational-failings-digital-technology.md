@@ -1,5 +1,6 @@
-# The Relational Failings of Digital Technology
-
+﻿---
+title: The Relational Failings of Digital Technology
+---
 ## As workplace learning
 
 Ramsten & Saljo (2012)
@@ -8,4 +9,3 @@ Ramsten & Saljo (2012)
 ## References
 
 Ramsten, A.-C., & Säljö, R. (2012). Communities, boundary practices and incentives for knowledge sharing?: A study of the deployment of a digital control system in a process industry as a learning activity. *Learning, Culture and Social Interaction*, *1*(1), 33--44. <https://doi.org/10.1016/j.lcsi.2012.04.001>
-

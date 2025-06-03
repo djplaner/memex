@@ -1,5 +1,6 @@
-# Concrete Lounges
-
+﻿---
+title: Concrete Lounges
+---
 Originally expressed [in a blog post](https://djon.es/blog/2014/12/18/concrete-lounge/).
 
 The Concrete Lounge is a nascent analogy intended to help explain the need for more people to take on the role of [digital renovator](https://djon.es/blog/2015/09/10/what-type-of-digital-knowledge-does-a-teacher-need/). Especially in the context of university-based educational technology.

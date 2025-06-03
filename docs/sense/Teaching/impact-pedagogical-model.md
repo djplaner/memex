@@ -1,7 +1,6 @@
-# Impact pedagogical model
-
-
-
+﻿---
+title: Impact pedagogical model
+---
 Queensland (GU) based model - as a form of [golden circle]
 
 > - It starts with 'why': Create a lasting IMPACT.
@@ -16,5 +15,3 @@ The authors identify the following important features
 - Are not a linear sequence, can be used creatively
 - All six elements should occur across a unit/project, only some in a single lesson
 - Aims to be more holistic than other frameworks
-
-

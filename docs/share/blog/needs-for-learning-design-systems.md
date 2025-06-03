@@ -1,5 +1,6 @@
-# Needs for Learning Design Systems
-
+﻿---
+title: Needs for Learning Design Systems
+---
 The 2020 rush to emergency online teaching...
 - We got thru it.
 - but showed issues - even the nature of the Swinburne add showing student complainign "all we do is watch videos"
@@ -75,5 +76,3 @@ My focus is more on mapping out for me what's required to engage in this task pr
 ## Support services are talking at crossed purposes
 
 The IT/Facilities/Education divide from Ellis and Goodyear
-
-

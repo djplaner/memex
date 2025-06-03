@@ -1,3 +1,6 @@
+﻿---
+title: No title found
+---
 <!--
  Copyright (C) 2023 David Jones
  
@@ -30,5 +33,3 @@ Dron and Anderson (2022)
 ## References
 
 Dron, J., & Anderson, T. (2022). Pedagogical Paradigms in Open and Distance Education. In *Handbook of Open, Distance and Digital Education* (pp. 1--17). Springer. [https://doi.org/10.1007/978-981-19-0351-9\_9-1](https://doi.org/10.1007/978-981-19-0351-9_9-1)
-
-

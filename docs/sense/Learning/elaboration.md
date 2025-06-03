@@ -1,3 +1,6 @@
+﻿---
+title: No title found
+---
 <!--
  Copyright (C) 2023 David Jones
  
@@ -47,4 +50,3 @@ There are numerous methods of elaboration, not all are supported by research to 
 Rawson, K. A., Thomas, R. C., & Jacoby, L. L. (2015). The Power of Examples: Illustrative Examples Enhance Conceptual Learning of Declarative Concepts. *Educational Psychology Review*, *27*(3), 483--504. <https://doi.org/10.1007/s10648-014-9273-3>
 
 Weinstein, Y., Madan, C. R., & Sumeracki, M. A. (2018). Teaching the science of learning. *Cognitive Research: Principles and Implications*, *3*(1), 2. <https://doi.org/10.1186/s41235-017-0087-y>
-

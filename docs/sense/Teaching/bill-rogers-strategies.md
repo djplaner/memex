@@ -1,7 +1,6 @@
-# Bill Rogers' - on the spot strategies
-
-
-
+﻿---
+title: Bill Rogers' - on the spot strategies
+---
 Rogers (2005), p. 95
 
 > Discipline is effectively leading, guiding and teaching children to own (and be responsible for) their behaviour in the context of respecting others’ rights (Rogers 1998). The elements of effective and positive discipline involves a challenging balance between prevention, correction, encouragement, support and repairing and rebuilding. ([Rogers, 2005, p. 95]
@@ -23,4 +22,3 @@ Related
 ## References
 
 Rogers, B. (2005). *Behaviour Recovery: Practical Programs for Challenging Behaviour*. ACER Press.
-

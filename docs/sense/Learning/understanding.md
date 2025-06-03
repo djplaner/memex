@@ -1,8 +1,6 @@
-# Understanding
-
-
-
-
+﻿---
+title: Understanding
+---
 Skemp (2006) identifies two types of understanding and links them to [[teaching]] practices
 
 1. Relational understanding; and,

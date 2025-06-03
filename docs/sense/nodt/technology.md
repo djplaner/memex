@@ -1,5 +1,6 @@
-# Technology
-
+﻿---
+title: Technology
+---
 ## Invented after you were born
 
 [This post](https://kk.org/thetechnium/everything-that/) offer's Alan Kay's apparent definitions

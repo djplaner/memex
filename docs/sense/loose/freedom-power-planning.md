@@ -1,5 +1,6 @@
-# Freedom, power, planning
-
+﻿---
+title: Freedom, power, planning
+---
 > With respect to the central concepts of political philosophy, namely the conceptual pair of power and freedom, Foucault’s bet was that people are likely to win more for freedom by declining to define in advance all the forms that freedom could possibly take. That means too refusing to latch on to static definitions of power. Only in following power everywhere that it operates does freedom have a good chance of flourishing. Only by analysing power in its multiplicity, as Foucault did, do we have a chance to mount a multiplicity of freedoms that would counter all the different ways in which power comes to define the limits of who we can be. [source](https://aeon.co/essays/why-foucaults-work-on-power-is-more-important-than-ever)
 > The irony of a philosophy that would define power once and for all is that it would thereby delimit the essence of freedom. Such a philosophy would make freedom absolutely unfree. Those who fear freedom’s unpredictability find Foucault too risky. But those who are unwilling to decide today what might begin to count as freedom tomorrow find Foucault, at least with respect to our philosophical perspectives, freeing. Foucault’s approach to power and freedom therefore matters not only for philosophy, but also more importantly for what philosophy can contribute to the changing orders of things in which we find ourselves
 

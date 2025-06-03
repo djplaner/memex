@@ -1,3 +1,6 @@
+﻿---
+title: Four levels of computer skills (and how little most people know)
+---
 # Four levels of computer skills (and how little most people know)
 
 > The OECD, a club of mostly rich nations, recently published a survey on adult skills, which captures information on proficiency in literacy, numeracy and computer skills.

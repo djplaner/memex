@@ -1,8 +1,6 @@
-# Growth Mindset
-
-
-
-
+﻿---
+title: Growth Mindset
+---
 ## Comparing growth and fixed mindsets
 
 Campbell et al (2020, p. 29) offers the following comparison of behaviours characteristics of the two mindsets

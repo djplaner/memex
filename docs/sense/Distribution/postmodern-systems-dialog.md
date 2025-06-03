@@ -1,5 +1,6 @@
-# Postmodern systems: Intersubjectivity through dialog
-
+﻿---
+title: 'Postmodern systems: Intersubjectivity through dialog'
+---
 - Quinn Wilton
 - @quinn@ocotodon.social
 - [Slides](https://ipfs.runfission.com/ipns/quinn.files.fission.name/p/aaron-swartz-day-2022.pdf)
@@ -23,7 +24,3 @@ Reject universal explanations common to modernity.
 A mode of thinking that recognises diversity and tries to understand through multiple perspectives.
 
 System design relies on simple representations.
-
-
-
-

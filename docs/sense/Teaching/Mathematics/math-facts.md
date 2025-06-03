@@ -1,7 +1,6 @@
-# Math Facts
-
-
-
+﻿---
+title: Math Facts
+---
 e.g. 8 x 4 = 32 is a mathematical fact.
 
 Boaler (2015) suggests that "many people believe that it is not possible to think conceptually about mathematics all of the time because there are lots of math facts that have to be memorised" (p. 37)
@@ -17,6 +16,3 @@ Some people are better memorisers. In maths they can be deemed to have more abil
 ## References
 
 Boaler, J. (2015). Creating Mathematical Mindsets: The Importance of Flexibility with Numbers. In *Mathematical Mindsets: Unleashing Students' Potential Through Creative Math, Inspiring Messages and Innovative Teaching* (pp. 33--56). John Wiley & Sons, Incorporated.
-
-
-

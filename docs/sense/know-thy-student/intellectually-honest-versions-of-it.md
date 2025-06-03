@@ -2,7 +2,7 @@
 title: Intellectually honest versions of it
 ---
 
-From a common on [this post](https://computinged.wordpress.com/2019/01/21/standards-are-limiting-and-long-lasting-alan-kay-was-right/) Alan Kay shares a quote from Jerome Bruner that he is "a bit enthusiast about"
+From a comment on [this post](https://computinged.wordpress.com/2019/01/21/standards-are-limiting-and-long-lasting-alan-kay-was-right/) Alan Kay shares a quote from Jerome Bruner that he is "a bit enthusiast about"
 
 > *for every learner you can (and need to) find an intellectually honest version of a subject they can learn if you heed their level of development
 

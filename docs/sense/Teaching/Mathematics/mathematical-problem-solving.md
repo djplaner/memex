@@ -1,7 +1,6 @@
-# Mathematical problem solving
-
-
-
+﻿---
+title: Mathematical problem solving
+---
 A collection of insights/perspectives on problem solving in mathematics - particularly related pedagogies.
 
 There does appear to be a tendency for these problem solving models to be represented as sequential steps. i.e. mini waterfall methods where one step is completed before the next is started - the [world (and what we do it it) isn't that sequential](https://djon.es/blog/2016/09/11/which-comes-first-pedagogy-or-technology/) - see [[pedagogy-before-technology]]. A perspective which echoes with a comment Boaler makes about mathematicians doing a lot of "playing with mathematics" as they try to solve a problem.

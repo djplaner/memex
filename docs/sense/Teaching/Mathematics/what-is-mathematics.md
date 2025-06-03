@@ -1,7 +1,6 @@
-# What is mathematics
-
-
-
+﻿---
+title: What is mathematics
+---
 Boaler (2015) sees the "the heart of the math problems we face in education" as being "the wide gulf between real mathematics and school mathematics"
 
 ## Mathematics and Numeracy

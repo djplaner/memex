@@ -1,7 +1,6 @@
-# Rubric Design
-
-
-
+﻿---
+title: Rubric Design
+---
 ## Designing an assessment rubric
 
 [Designing and assessment rubric](https://www.teqsa.gov.au/sites/default/files/2022-10/designing-assessment-rubric.pdf) - TEQSA
@@ -113,4 +112,3 @@ Methods for describing the relative differences between performance levels
 
 - [UQ - Practical guidelines for designing rubrics](https://elearning.uq.edu.au/guides/turnitin/practical-guidelines-designing-rubrics) - some good advice on writing performance descriptors
 - [GU - Developing assessment rubrics with criteria and standards](https://app.secure.griffith.edu.au/exlnt/entry/6385/view) - storyline resource - uses some of the same approach as the workshop
-

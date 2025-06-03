@@ -1,7 +1,6 @@
-# "Do it themselves" and technology/purpose mismatch
-
-
-
+﻿---
+title: '"Do it themselves" and technology/purpose mismatch'
+---
 Or perhaps the "invisibility of purpose"
 
 Mark Smiths makes some points about what he sees as the "sweet" spot distinction between Moodle and Canvas
@@ -48,5 +47,3 @@ Education is technology. Failure to see that is a problem?
 Franklin - [technology as practice](https://www.media-studies.ca/articles/franklin.htm)
 
 Arthur/Dron - def of technology
-
-

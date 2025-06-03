@@ -1,7 +1,6 @@
-# Software for teaching mathematics
-
-
-
+﻿---
+title: Software for teaching mathematics
+---
 ## [Code4Math](http://code4math.org/)
 
 New professional organisation seeking to build high-quality sociotechnical infrastructure to support mathematics research and learning.  New in 2023 - tag line "Consortium of Digital Ecosystems for Mathematics"
@@ -39,4 +38,3 @@ Common way to organise class notes, lesson resources etc.
 ## References
 
 Williamson, B. (2022). Big EdTech. *Learning, Media and Technology*, *47*(2), 157--162. <https://doi.org/10.1080/17439884.2022.2063888>
-

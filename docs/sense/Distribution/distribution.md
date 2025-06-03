@@ -1,5 +1,6 @@
-# Distribution
-
+﻿---
+title: Distribution
+---
 - [[evaluating-orchestration]]
 - [[hacker-ethos-collective-intelligence]]
 - [[forest-for-the-trees]]

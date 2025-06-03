@@ -1,3 +1,6 @@
+﻿---
+title: Pygmalion Effect (aka "Rosenthal effect")
+---
 # Pygmalion Effect (aka "Rosenthal effect")
 
 
@@ -33,5 +36,3 @@ Doubts raised about the design of the original IQ test.
 Chang, J. (2011). A Case Study of the "Pygmalion Effect": Teacher Expectations and Student Achievement. *International Education Studies*, *4*(1), 198--201.
 
 Rosenthal, R., & Jacobson, L. (1968). Pygmalion in the classroom. *The Urban Review*, *3*(1), 16--20. <https://doi.org/10.1007/BF02322211>
-
-

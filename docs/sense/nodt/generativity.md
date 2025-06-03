@@ -1,5 +1,6 @@
-# Generativity
-
+﻿---
+title: Generativity
+---
 ## Zittrain (2006)
 
 _generative technology_

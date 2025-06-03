@@ -1,7 +1,6 @@
-# High impact teaching strategies
-
-
-
+﻿---
+title: High impact teaching strategies
+---
 Sources: [Victorian DoE](https://www.education.vic.gov.au/school/teachers/teachingresources/practice/improve/Pages/hits.aspx) and related [full PDF](https://www.education.vic.gov.au/Documents/school/teachers/support/high-impact-teaching-strategies.pdf)
 
 > 10 instructional practices that are internationally recognised as some of the most reliable teaching strategies for delivery learning outcomes

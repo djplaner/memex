@@ -1,3 +1,6 @@
+﻿---
+title: No title found
+---
 <!--
  Copyright (C) 2023 David Jones
  
@@ -60,4 +63,3 @@ Sankey, M., Zhang, Y., & Xiao, J. (2020). Putting the pedagogic horse in front o
 Tsui, A. B. M., & Tavares, N. J. (2021). The Technology Cart and the Pedagogy Horse in Online Teaching. *English Teaching & Learning*, *45*(1), 109--118. <https://doi.org/10.1007/s42321-020-00073-z>
 
 Watson, D. M. (2001). Pedagogy before Technology: Re-thinking the Relationship between ICT and Teaching. *Education and Information Technologies*, *6*(4), 251--266. <https://doi.org/10.1023/A:1012976702296>
-

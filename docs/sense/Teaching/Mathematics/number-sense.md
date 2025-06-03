@@ -1,7 +1,6 @@
-# Number sense
-
-
-
+﻿---
+title: Number sense
+---
 Boaler (2015)
 > Number sense reflects a deep understanding of mathematics, but it comes about through a mathematical mindset that is focused on making sense of numbers and quantities. It is useful to think about the ways number sense is developed in students, not only because number sense is the foundation for all higher level mathematics (Feikes & Schwingendorf, 2008) but also because number sense and mathematical mindsets develop together, and learning about ways to develop one helps the development of the other. (p. 36)
 

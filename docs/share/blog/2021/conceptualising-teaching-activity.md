@@ -1,5 +1,6 @@
-# Conceptutalising the complexity of teaching activity
-
+﻿---
+title: Conceptutalising the complexity of teaching activity
+---
 Big picture thinking.
 
 - Activity centered design - Don Norman - have a focus on the activity itself, not the student, nor the teacher, nor the technology, not the pedagogy.

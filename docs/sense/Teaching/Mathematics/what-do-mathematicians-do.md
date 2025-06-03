@@ -1,3 +1,6 @@
+﻿---
+title: What do mathematicians do?
+---
 # What do mathematicians do?
 
 

@@ -1,3 +1,6 @@
+﻿---
+title: No title found
+---
 <!--
  Copyright (C) 2023 David Jones
  
@@ -76,4 +79,3 @@ Calls for more studies on
 Kranz, J., Kuebler-Wachendorff, S., Syrmoudis, E., Grossklags, J., Mager, S., Luzsa, R., & Mayr, S. (2023). Data Portability. *Business & Information Systems Engineering*. <https://doi.org/10.1007/s12599-023-00815-w>
 
 Kuebler-Wachendorff, S., Luzsa, R., Kranz, J., Mager, S., Syrmoudis, E., Mayr, S., & Grossklags, J. (2021). The Right to Data Portability: Conception, status quo, and future directions. *Informatik Spektrum*, *44*(4), 264--272. <https://doi.org/10.1007/s00287-021-01372-w>
-

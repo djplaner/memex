@@ -1,5 +1,6 @@
-# Unjustified faith in numerical quantities
-
+﻿---
+title: Unjustified faith in numerical quantities
+---
  Labels metricophilia as
 > “the unjustified faith in numerical quantities as having particularly special status as ‘evidence’ (Smith 2011)” [source](http://jonandrews.edublogs.org/2017/02/13/opportunity-knocks-again/)
 

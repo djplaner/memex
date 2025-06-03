@@ -1,5 +1,6 @@
-# Educational technology: what is it and how it works
-
+﻿---
+title: 'Educational technology: what is it and how it works'
+---
 ## Definition: Educational Technology
 
 Defines educational technology (tentatively) as
@@ -155,4 +156,3 @@ Hard technologies are less flexible and cannot be easily changed.  Hence usually
 ## References
 
 Dron, J. (2021). Educational technology: What it is and how it works. *AI & SOCIETY*. <https://doi.org/10.1007/s00146-021-01195-z>
-

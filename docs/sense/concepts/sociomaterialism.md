@@ -1,7 +1,6 @@
-# Sociomaterialism
-
-
-
+﻿---
+title: Sociomaterialism
+---
 [Fawns](https://timfawns.com/expanding-the-unit-of-analysis-of-learning/) offers this definition
 
 > Sociomaterialism is a label for a wide range of theoretical approaches that see people and things as holistic assemblages that are inseparably entangled in activity (Fenwick, 2015)  

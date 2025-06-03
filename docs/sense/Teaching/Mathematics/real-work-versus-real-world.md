@@ -1,7 +1,6 @@
-# Real work versus Real world
-
-
-
+﻿---
+title: Real work versus Real world
+---
 Dan Meyer [makes the distinction between real work v real world](https://blog.mrmeyer.com/2014/developing-the-question-real-work-v-real-world/). The idea being that how much real world (e.g. adding mobile phones to a problem) is only one dimension. Another is the reality/interestingness of the work students do. Meyer suggests problem formulation and question development as being more "real" types of work.
 
 i.e. if the students are given a formula to apply, simply adding in some real world context (number of likes on Instagram) doesn't change the fact that the work is formulaic.

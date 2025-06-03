@@ -1,3 +1,6 @@
+﻿---
+title: Mathematical discussion and communication (in the classroom)
+---
 # Mathematical discussion and communication (in the classroom)
 
 

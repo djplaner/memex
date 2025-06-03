@@ -1,5 +1,6 @@
-# Quality and teaching
-
+﻿---
+title: Quality and teaching
+---
 ## Path
 
 - [[iterative-practices-and-academic-development]]

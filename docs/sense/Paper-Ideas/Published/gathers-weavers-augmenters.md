@@ -1,5 +1,7 @@
-# Gathers, Weavers and Augmenters: Three principles for dynamic and sustainable delivery of quality learning and teaching
-
+﻿---
+title: 'Gathers, Weavers and Augmenters: Three principles for dynamic and sustainable
+  delivery of quality learning and teaching'
+---
 See also: [blog post with full resources](https://djon.es/blog/2023/02/09/gathers-weavers-and-augmenters-three-principles-for-dynamic-and-sustainable-delivery-of-quality-learning-and-teaching/)
 
 ## Abstract

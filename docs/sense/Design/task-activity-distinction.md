@@ -1,5 +1,6 @@
-# The distinction between task and activity
-
+﻿---
+title: The distinction between task and activity
+---
 My current take
 
 - Task - a description/prescription of what must be done

@@ -1,5 +1,6 @@
-# Integrating Zotero into Foam
-
+﻿---
+title: Integrating Zotero into Foam
+---
 ```toml
 post_title='Integrating Zotero into Foam'
 layout="post"
@@ -125,4 +126,4 @@ The [publications page](https://djplaner.github.io/memex/share/My%20Publications
 e.g.
 
 - Have a to read folder linked to "seek"
-- 
+-

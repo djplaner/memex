@@ -1,5 +1,6 @@
-# Commons-based peer production
-
+﻿---
+title: Commons-based peer production
+---
 Benkler & Nissenbaum (2006) define common-based peer production as
 > a socio-economic system of production that is emerging in the digitally networked environment. Facilitated by the technical infrastructure of the Internet, the hallmark of this socio-technical system is collaboration among large groups of individuals, sometimes in the order of tens or even hundreds of thousands, who cooperate effectively to provide information, knowledge or cultural goods without relying on either market pricing or managerial hierarchies to coordinate their common enterprise.
 

@@ -1,5 +1,7 @@
-# Exploring digital literacy: moving from buzzwords towards a social construction of competency
-
+﻿---
+title: 'Exploring digital literacy: moving from buzzwords towards a social construction
+  of competency'
+---
 ## Abstract
 
 > What is digital literacy? Is it something that we want or need to have? Do we have to be able to measure it? What does it mean in practice? Is it relevant in universities? Of interest to this project is not to define digital literacy, as there is extensive existing literature on the subject, but to gain an understanding of what digital literacy means in practice for people's everyday working and learning lives. This understanding may feed into a better understanding of the definition of digital literacy, but its main goal is to look at what digital literacy means for individuals and groups. The focus is less on functional skills but on how people themselves conceptualise and articulate their understanding of the technology that many use daily. Research such as (Lovell and Baker 2009) indicates that assumptions about 'digital nativity' on the part of university students may be just that and that many students have not had 'universal and uniform digital upbringing.' (Kennedy, Judd et al. 2008) Some of the stories shared here may illustrate just that.

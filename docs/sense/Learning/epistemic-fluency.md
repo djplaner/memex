@@ -1,3 +1,6 @@
+﻿---
+title: No title found
+---
 <!--
  Copyright (C) 2023 David Jones
  
@@ -36,4 +39,3 @@
 Goodyear, P., Carvalho, L., & Yeoman, P. (2021). Activity-Centred Analysis and Design (ACAD): Core purposes, distinctive qualities and current developments. *Educational Technology Research and Development*, *69*(2), 445--464. <https://doi.org/10.1007/s11423-020-09926-7>
 
 Markauskaite, L., & Goodyear, P. (2017). *Epistemic Fluency and Professional Education* (Vol. 14). Springer Netherlands. <https://doi.org/10.1007/978-94-007-4369-4>
-

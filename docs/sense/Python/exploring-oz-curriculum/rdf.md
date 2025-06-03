@@ -1,5 +1,6 @@
-# rdf
-
+﻿---
+title: rdf
+---
 Sources 
 
 - [TechTarget](https://www.techtarget.com/searchapparchitecture/definition/Resource-Description-Framework-RDF)

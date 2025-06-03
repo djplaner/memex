@@ -1,5 +1,6 @@
-# NPM Projects - How to
-
+﻿---
+title: NPM Projects - How to
+---
 Trying to figure out and document a process for developing NPM JS projects, mainly to take advantage of associated CDN availability of the modules.
 
 I'm actually using [this process](https://auth0.com/blog/developing-npm-packages/)

@@ -1,5 +1,6 @@
-# Digital technologies and impact of bad/absent schema
-
+﻿---
+title: Digital technologies and impact of bad/absent schema
+---
 Ben-Ari and Yeshno (2006) found that people with appropriate conceptual models of digital technologies were better able to analyse and solve problems. While learners without appropriate conceptual models were limited to aimless trial and error.
 
 The problem is that digital technologies are increasingly [blackboxes/opaque](http://djon.es/blog/2016/06/29/nature-of-digital-technology-part-2-expansion/#blackbox) , which makes it very difficult to figure out the conceptual models that underpinned their design. To make matters worse most of the training/documentation offered with new digital technology is focused on providing recipes to follow, rather than conceptual understanding.

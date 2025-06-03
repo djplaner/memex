@@ -1,7 +1,6 @@
-# Ateleological versus teleological
-
-
-
+﻿---
+title: Ateleological versus teleological
+---
 Introna (1996) proposed a distinction between ateleological and teleoogical design.
 
 | Attributes of the design process | Teleological development | Ateleological development |
@@ -19,5 +18,3 @@ Introna (1996) proposed a distinction between ateleological and teleoogical desi
 ## References
 
 Introna, L. (1996). Notes on ateleological information systems development. *Information Technology & People*, *9*(4), 20--39.
-
-

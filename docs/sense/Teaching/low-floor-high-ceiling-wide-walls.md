@@ -1,7 +1,6 @@
-# Low Floor, High Ceiling, Wide Walls
-
-
-
+﻿---
+title: Low Floor, High Ceiling, Wide Walls
+---
 Resnick and Silverman (2005) offer
 
 > The Logo programming language is often described as having a low floor and high ceiling: it is easy for novices to get started (low floor) and possible for experts to work on increasingly sophisticated projects (high ceiling). In our own work (especially in recent years), we have put less emphasis on high ceilings and more emphasis on what might be called “wide walls.” That is, we have tried to design technologies that support and suggest a wide range of different explorations. (p. 118)
@@ -42,4 +41,3 @@ Liljedahl, P. (2020). *Building Thinking Classrooms in Mathematics, Grades K-12:
 
 
 Resnick, M., & Silverman, B. (2005). Some reflections on designing construction kits for kids. *Proceedings of the 2005 Conference on Interaction Design and Children*, 117--122. <https://doi.org/10.1145/1109540.1109556>
-

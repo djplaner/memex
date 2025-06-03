@@ -1,5 +1,6 @@
-# Peak consistency in Digital Education 
-
+﻿---
+title: 'Peak consistency in Digital Education '
+---
 Consistency is the new black for digital education. Some have even argued that it is "key in online learning" (Scutelnicu, Tekula, Gordon, Knepper, 2019). That it is the #1 thing that students want ([Sankey, 2018](https://www.slideshare.net/michaelsankey/online-learning-transformation)).
 
 I'm not a fan. Proponents claim that consistency is not sameness. My problem is that consistency is also not quality. 

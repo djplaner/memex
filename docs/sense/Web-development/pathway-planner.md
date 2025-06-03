@@ -1,5 +1,6 @@
-# Pathway planner
-
+﻿---
+title: Pathway planner
+---
 Docs for the development of the pathway-planner component.
 
 pathway-planner

@@ -1,5 +1,6 @@
-# Possible ideas for a SvelteKit Foam site
-
+﻿---
+title: Possible ideas for a SvelteKit Foam site
+---
 Random collection of thoughts about if and how this might work.
 
 ## Routes/page structure
@@ -14,4 +15,3 @@ Current idea
 - SvelteKit project uses dynamic parameters as part of route to specify the "path" for the Foam file
 - This is used to located the markdown file and then generate the HTML for the page
 - Also to modify the navigation appropriately
-

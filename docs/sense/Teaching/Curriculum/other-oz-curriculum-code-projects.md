@@ -1,7 +1,6 @@
-# other-oz-curriculum-code-projects
-
-
-
+﻿---
+title: other-oz-curriculum-code-projects
+---
 Collection of projects from GitHub that mention the [[australian-curriculum]].  Most seem one-off explorations/experiments. Nothing particularly active.
 
 ## [acgc_parser](https://github.com/Bruce1979/acgc_parser)

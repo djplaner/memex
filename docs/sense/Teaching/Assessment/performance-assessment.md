@@ -1,7 +1,6 @@
-# Performance Assessment
-
-
-
+﻿---
+title: Performance Assessment
+---
 While there are numerous definitions of performance assessment, Eisner (1999, p. 659) suggests that performance assessment is
 
 > aimed at moving away from testing practices that require students to select the single correct answer from an array of four or five distracters to a practice that requires students to create evidence through performance that will enable assessors to make valid judgments about “what they know and can do” in situations that matter.
@@ -40,6 +39,3 @@ Swanson, Norman and Linn (1995) present eight lessons learned from a long histor
 6. Because performance-based assessment methods are often complex to administer, multiple test forms and test administrators are required to test large numbers of examinees.
 7. All high-stakes assessments, regardless of the method used, have an unpredictable impact on teaching and learning.
 8. Neither traditional testing nor performance-based assessment methods are a panacea. Selection of assessment methods should depend on the skills to be assessed, and, generally, use of a blend of methods is desirable.
-
-
-

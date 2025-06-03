@@ -1,5 +1,6 @@
-# Meso-level 
-
+﻿---
+title: 'Meso-level '
+---
 Important concept that crops up in institutional L&T literature and often usefully describes the work I do.
 
 ## Conole & Jones (2010)
@@ -13,4 +14,3 @@ Important concept that crops up in institutional L&T literature and often useful
 ## References 
 
 Conole, G., & Jones, C. (2010). *Sharing practice, problems and solutions for institutional change* (P. Goodyear & S. Relatis, Eds.; No. 2; Issue 2, pp. 277--296). Sense Publishers.
-

@@ -1,3 +1,6 @@
+﻿---
+title: No title found
+---
 ```toml
 post_title="Why are Universities digital development practices so out-dated? (especially when it comes to L&T)"
 layout="post"
@@ -83,4 +86,3 @@ _using LTI isn't enough_
 ## References
 
 Binzer, B., & Winkler, T. J. (2022). Democratizing Software Development: A Systematic Multivocal Literature Review and Research Agenda on Citizen Development. In N. Carroll, A. Nguyen-Duc, X. Wang, & V. Stray (Eds.), *Software Business* (pp. 244--259). Springer International Publishing. [https://doi.org/10.1007/978-3-031-20706-8\_17](https://doi.org/10.1007/978-3-031-20706-8_17)
-

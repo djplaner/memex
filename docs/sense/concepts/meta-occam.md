@@ -1,7 +1,6 @@
-# Meta Occam
-
-
-
+﻿---
+title: Meta Occam
+---
 ## Source 
 
 David Krakauer from [episode on Jim Rutt Show](https://jimruttshow.blubrry.net/the-jim-rutt-show-transcripts/transcript-of-ep-192-david-krakauer-on-science-complexity-and-ai/)
@@ -17,5 +16,3 @@ Meta-Occam moves "parsimony away from the primary object of scrutiny...to a proc
 ## Early ramblings/wonderings
 
 Echoes of the process, not product focus from my early work.
-
-

@@ -1,5 +1,6 @@
-# My First LitElement Web Component
-
+﻿---
+title: My First LitElement Web Component
+---
 Description and reflections of create a very simple web component using [LitElement's live tutorial](https://lit-element.polymer-project.org/try)
 
 ## Basic steps

@@ -1,7 +1,6 @@
-# Differentiation
-
-
-
+﻿---
+title: Differentiation
+---
 Main (2020)
 
 > Differentiated instruction is: 

@@ -1,5 +1,6 @@
-# Sensemaking - ASCILITE 2022 
-
+﻿---
+title: 'Sensemaking - ASCILITE 2022 '
+---
 - [[meddler-in-the-middle]] 
 - [[wheres-the-digital]]
 

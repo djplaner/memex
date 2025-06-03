@@ -1,5 +1,6 @@
-# Expertise for content development
-
+﻿---
+title: Expertise for content development
+---
 Jegan & Eswaran (2004) suggest that
 > Content development requires expertise from different fields. The design and development of content require major inputs from instructors, instructional designers, graphic designers, and programmers. Normally instructors are expected to develop the content for e-learning on their own. The design and development of content is not an easy task for instructors who lack experience in instructional strategies and learning theories. They are not aware of the effective methods, which can be used to present their content to learners.
 

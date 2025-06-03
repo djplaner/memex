@@ -1,3 +1,6 @@
+﻿---
+title: No title found
+---
 ```toml
 post_title='What now?'
 layout="post"

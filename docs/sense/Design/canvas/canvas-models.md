@@ -1,5 +1,6 @@
-# Canvas models
-
+﻿---
+title: Canvas models
+---
 Attempt to distill the models that underpin Canvas
 
 - [UTS' glossary of Canvas terms](https://lx.uts.edu.au/collections/planning-your-canvas-course/resources/glossary-of-canvas-terms/)

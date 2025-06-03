@@ -1,5 +1,6 @@
-# Evaluating orchestration
-
+﻿---
+title: Evaluating orchestration
+---
 Nascent attempt to extract meaning from [[role-of-relationships-breaking-the-iron-triangle]]
 
 Assumption is that "orchestration" is key to educational technology - in the sense of Fawns' [[entangled-pedagogy]] and Dron's [[educational-technology-what-is-it-and-how-it-works]] and in particular Dron's quote from Arthur (2009) - something like

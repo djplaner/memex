@@ -1,5 +1,6 @@
-# 2 Sigma Problem
-
+﻿---
+title: 2 Sigma Problem
+---
 Experiments using three types of learning methods
 
 1. conventional classroom learning;

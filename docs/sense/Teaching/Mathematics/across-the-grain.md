@@ -1,7 +1,6 @@
-# Across the grain
-
-
-
+﻿---
+title: Across the grain
+---
 Based on the idea that mathematics has inherent structure. That learning mathematics is best achieved by engaging with and learning to use that structure. Something not often achieved. Watson (2001) suggests that good mathematicians are aware of this structure. They see global similarities in local examples. 
 
 The problem is that some/much of the examples in mathematics hide this structure.  They go with the grain of the "wood". Watson (2001) promotes the metaphor of "going across the grain". i.e. cutting wood across the grain to reveal the internal structure, highlight it to students, and help them engage with it.

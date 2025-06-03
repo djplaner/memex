@@ -1,7 +1,6 @@
-# Number talks
-
-
-
+﻿---
+title: Number talks
+---
 References: [QCAA _Number talks_ fact sheet](https://www.qcaa.qld.edu.au/downloads/aciq/general-resources/ac_gc_factsheet_number_talks.pdf), [Math for love](https://mathforlove.com/lesson/number-talks/)
 
 Boaler (2015) identifies this as the "best strategy" she knows for teaching [[number-sense]] and [[math-facts]] at the same time. Apparently perfect as a lesson starter or for parents at home.

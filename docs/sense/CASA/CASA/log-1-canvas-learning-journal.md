@@ -1,7 +1,6 @@
-# log-1-canvas-learning-journal
-
-
-
+﻿---
+title: log-1-canvas-learning-journal
+---
 ## Designing a Learning Journal CASA for Canvas
 
 Automate the process of setting up a learning journal that
@@ -88,5 +87,3 @@ Course design that includes
 - Announcements
 
     Are visible on the group home page, but are somewhat visually limited. Probably no value in automating the addition of announcements in each group.  Could emulate much the same via links to assessable discussion forums in the broader course Canvas site.
-
-

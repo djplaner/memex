@@ -1,5 +1,6 @@
-# Professional learning
-
+﻿---
+title: Professional learning
+---
 Mayer and Lloyd (2011, p.3) offer
 > in Knapp’s (2003) review, professional development includes ‘the full range of activities, formal and informal, that engage teachers or administrators in new learning about their professional practice’ (p.112), while professional learning refers to ‘changes in the thinking, knowledge, skills, and approaches to instruction that form practicing teachers’ or administrators’ repertoire’ (pp. 112- 113). Thus professional learning could involve changes in one’s capacity for practice (i.e., changes in professionally relevant thinking, knowledge, skills, and habits of mind) and/or changes in practice itself (enacting the new knowledge and skills in one’s daily work).
 

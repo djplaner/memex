@@ -1,5 +1,6 @@
-# Convivality
-
+﻿---
+title: Convivality
+---
 Ivan Illich - _Tools for Convivality_
 
 > "I choose the term "conviviality" to designate the opposite of industrial productivity.

@@ -1,7 +1,6 @@
-# Canvas API dev
-
-
-
+﻿---
+title: Canvas API dev
+---
 Resources and approaches to using the Canvas API.
 
 [Canvas Live API](https://lms.griffith.edu.au/doc/api/live)
@@ -54,5 +53,3 @@ Which extracts the token from the users cookies
         return csrf;
     }
 ```
-
-

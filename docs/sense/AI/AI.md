@@ -1,5 +1,6 @@
-# AI
-
+﻿---
+title: AI
+---
 [[early-llm-value-thoughts]]
 
 My current take/suspicion on LLMs is that they are over-blown, useful but over-blown. Likely to be widely used badly and generate negative consequences due to broken societal/commercial systems and bad actors. Actors that leverage the inherent limitations of LLMs for immediate gain. 

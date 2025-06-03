@@ -1,5 +1,6 @@
-# ASCILITE 2022 - misc work takeaways
-
+﻿---
+title: ASCILITE 2022 - misc work takeaways
+---
 See [[ascilite-2022]]
 
 ## Work take aways

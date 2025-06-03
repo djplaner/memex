@@ -1,5 +1,6 @@
-# Python for teaching mathematics 
-
+﻿---
+title: 'Python for teaching mathematics '
+---
 ## Research 
 
 - Kado (2022) - found use of python helped students' understanding of calculus

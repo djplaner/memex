@@ -1,4 +1,7 @@
-# Gatherers, Weavers and Augmenters: Three principles for dynamic and sustainable delivery of quality learning and teaching
+﻿---
+title: 'Gatherers, Weavers and Augmenters: Three principles for dynamic and sustainable
+  delivery of quality learning and teaching'
+---
 #### by admin, [djon.es](https://djon.es/blog/2023/02/09/gathers-weavers-and-augmenters-three-principles-for-dynamic-and-sustainable-delivery-of-quality-learning-and-teaching/) ▪ Thursday, February 9, 2023, 10:13 AM
 
 
@@ -118,5 +121,3 @@ Ellis, R. A., & Goodyear, P. (2019). The Education Ecology of Universities: Inte
 Illich, I. (1973). Tools for Conviviality. Harper and Row.
 
 ---
-
-

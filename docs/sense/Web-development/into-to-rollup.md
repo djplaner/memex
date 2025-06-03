@@ -1,5 +1,6 @@
-# Into to Rollup
-
+﻿---
+title: Into to Rollup
+---
 ## [rollup-starter-app](https://github.com/rollup/rollup-starter-app)
 
 Two folders: src (where the code sits) and public - HTML that includes bundle.js

@@ -1,5 +1,6 @@
-# Instrumental Genesis
-
+﻿---
+title: Instrumental Genesis
+---
 How does a tool become something that is used by someone to achieve a meaningful task? How does a tool become an instrument?
 
 What are the rules for applying a tool to a task? Why/how does that application become meaningful to the user?

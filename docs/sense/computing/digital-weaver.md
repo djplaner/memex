@@ -1,7 +1,6 @@
-# Digital Weaver
-
-
-
+﻿---
+title: Digital Weaver
+---
 A digital weaver is someone within an environment that enables the use of digital technology to automate and augment the weaving together of different phenomena for personal purposes.
 
 It is an analogy for how to effectively get the most out of digital technologies, individually and beyond. Related to the idea of a [[digital-renovator]]. Both responding to the perception that ideas of [digital Visitors and Residents](http://tallblog.conted.ox.ac.uk/index.php/2009/10/14/visitors-residents-the-video/#) and digital literacy are incomplete. Ideas that fail to capture the lived experience of many with digital technologies. Ideas that may fail to recognise the [[affordances]] of digital technology as a protean metamedium (Kay, 1984). 

@@ -1,5 +1,6 @@
-# Paper Ideas
-
+﻿---
+title: Paper Ideas
+---
 And some earlier [[published-papers]]
 
 ### 2023

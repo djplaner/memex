@@ -1,7 +1,6 @@
-# reSolve - Mathematics by inquiry
-
-
-
+﻿---
+title: reSolve - Mathematics by inquiry
+---
 [re(Solve) - Maths by Inquiry](https://www.resolve.edu.au/) - Oz Government funded project including numerous teaching resources including alignment with Oz Curriculum (but sadly not v9)
 
 ## [reSolve Protocol](https://www.resolve.edu.au/sites/default/files/downloads/reSolve%20Protocol_MC%20approved%2021.06.16%20FINAL.pdf?time=1503549866)
@@ -54,5 +53,3 @@ Thornton (2016, p. 313)
 ## References
 
 Thornton, S. (2017). Empowering Students through Inquiry. In *Empowering Mathematics Learners* (pp. 313--332). WORLD SCIENTIFIC. [https://doi.org/10.1142/9789813224223\_0016](https://doi.org/10.1142/9789813224223_0016)
-
-

@@ -1,5 +1,6 @@
-# Scaleless and Placeless
-
+﻿---
+title: Scaleless and Placeless
+---
 ## Where I heard it
 
 Phrase used by [Peter Calthorpe](https://en.wikipedia.org/wiki/Peter_Calthorpe) in [this Long Now Foundation seminar](https://longnow.org/seminars/02020/jul/14/urban-planet-ecology-community-and-growth-through-next-century/) to describe the type of high-rise urban housing built in the mid to late 20th Century in America.

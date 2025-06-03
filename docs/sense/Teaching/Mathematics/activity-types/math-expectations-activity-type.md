@@ -1,7 +1,6 @@
-# Mathematical Exceptions Activity Type
-
-
-
+﻿---
+title: Mathematical Exceptions Activity Type
+---
 Early start on ideas for an activity type to be use when [[teaching-mathematics]]
 
 

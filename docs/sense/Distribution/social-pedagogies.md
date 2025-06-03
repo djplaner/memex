@@ -1,5 +1,6 @@
-# Social Pedagogies
-
+﻿---
+title: Social Pedagogies
+---
 [Derek Bruff cites](https://derekbruff.org/?p=808) Randy Bass as defining social pedagogies as
 > cluster of teaching practices that "engage students with...an 'authentic audience' (other than the teacher) where the representation of knowledge for an audience is absolutely central to the construction of knowledge in a course"
 
@@ -15,5 +16,3 @@
 - Gardner Campbell's work on "mother blogs" and making _public and permanent_ learner knowledge production
 
 - [Commons-based Peer Production and Virtue](https://nissenbaum.tech.cornell.edu/papers/jopp_235.pdf)
-
-

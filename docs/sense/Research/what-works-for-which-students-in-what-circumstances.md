@@ -1,5 +1,6 @@
-# What works, for which students, in what circumstances
-
+﻿---
+title: What works, for which students, in what circumstances
+---
 The "Clayton Christensen Institute for Disruptive Education" arguing that education research needs to move beyond what works - away from gathering evidence for the "average" - towards understanding why it works for different learners.
 
 > In a new white paper out this week, [“A blueprint for breakthroughs,”](http://www.christenseninstitute.org/publications/a-blueprint-for-breakthroughs/) Michael Horn and I argue that simply asking what works stops short of the real question at the heart of a truly personalized system: what works, for which students, in what circumstances? Without this level of specificity and understanding of contextual factors, we’ll be stuck understanding only what works on average despite aspirations to reach each individual student (not to mention mounting evidence that “average” itself is a flawed construct). Moreover, we’ll fail to unearth theories of why certain interventions work in certain circumstances. And without that theoretical underpinning, scaling personalized learning approaches with predictable quality will remain challenging. [source](http://www.christenseninstitute.org/the-inconvenient-truth-about-personalized-learning/)

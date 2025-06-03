@@ -1,7 +1,6 @@
-# Design for a mathematical mindset
-
-
-
+﻿---
+title: Design for a mathematical mindset
+---
 Nascent set of ideas about how to go about designing interventions that support the development of a [[mathematical-mindset]]
 
 

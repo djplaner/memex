@@ -1,5 +1,6 @@
-# Open Wc Webcomponent Basics
-
+﻿---
+title: Open Wc Webcomponent Basics
+---
 Working through [this CodeLab](https://open-wc.org/codelabs/basics/web-components.html?index=/codelabs/#0)
 
 ## Defining web components

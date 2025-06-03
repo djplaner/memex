@@ -1,5 +1,6 @@
-# Quality
-
+﻿---
+title: Quality
+---
 "learning our lesson" cites Biggs statement that quality can be defined as an outcome, a property, or a process.
 
 From Biggs (2001) citing Harvey and Green (1993) - three types of quality

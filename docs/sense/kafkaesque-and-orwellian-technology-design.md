@@ -1,5 +1,6 @@
-# Kafkaesque and Orwellian Technology Design
-
+﻿---
+title: Kafkaesque and Orwellian Technology Design
+---
 [Post](https://jondron.ca/kafkaesque-and-orwellian-technology-design/) from Jon Dron starts off with pointers to examples of hard technologies from the Romanian legal system and moves ito talking about
 - The  misapplication of [[exploring-drons-definition-of-educational-technology#Hard technologies are first and structural]]
   Picks up the difference between human-based hard technologies which are more scrutable and those embedded in machines (in algorithms) e.g. the recent debacle in the UK re: A-Level mark calculations. Algorithms are required and easy to embed. His solution to make his software "as visible, scrutable, and customizable as possible"

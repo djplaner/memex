@@ -1,3 +1,6 @@
+﻿---
+title: Consistency vs quality?
+---
 # Consistency vs quality?
 
 

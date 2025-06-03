@@ -1,3 +1,6 @@
+﻿---
+title: No title found
+---
 <!--
  Copyright (C) 2023 David Jones
  
@@ -90,4 +93,3 @@ Michael Sankey [presentation](https://www.slideshare.net/michaelsankey/principle
 Li, Y., Sha, L., Yan, L., Lin, J., Raković, M., Galbraith, K., Lyons, K., Gašević, D., & Chen, G. (2023). Can large language models write reflectively. *Computers and Education: Artificial Intelligence*, *4*, 100140. <https://doi.org/10.1016/j.caeai.2023.100140>
 
 Liu, D. (2023). *Ten myths about generative AI in education that are holding us back*. Linkedin. <https://www.linkedin.com/pulse/ten-myths-generative-ai-education-holding-us-back-danny-liu>
-

@@ -1,5 +1,6 @@
-# Learning analytics should be human mediated
-
+﻿---
+title: Learning analytics should be human mediated
+---
 Argument outlining need for analytics to be human mediated - part of a longer blog post and also part of a debate.
 > The “system” should not  just be replicating current bad practice.  Data should provide us with new ways to encourage a richer dialogue about education and knowledge. Learning analytics can’t just be a way to develop alerting and intervention systems that provide an illusion of understanding, that acquiesce to not particularly well thought out government driven monitoring processes such as the TEF.
 > In these days of alternative facts, distrust of expert knowledge, human intervention is more crucial than ever. Human intervention is not just an ethical issue, it’s a moral imperative.   We need to care, our students need to care, our society needs to care. I”ll end now with the words of the Cassandra of EdTech, Audrey Watters [source](https://howsheilaseesit.blog/2017/03/13/time-for-analytics-of-the-oppressed-my-starter-for-10-for-digifest-debate/)

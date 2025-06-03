@@ -1,7 +1,6 @@
-# ASCILITE 2022 - interesting stuff on the socials
-
-
-
+﻿---
+title: ASCILITE 2022 - interesting stuff on the socials
+---
 ## Dashboards and the tension with learning is hard
 
 @lindaCorrin [shared](https://twitter.com/LindaCorrin/status/1599568004232392705) a question that applies to much of what we do
@@ -27,5 +26,3 @@ Transforming from the common vanilla, scroll of death
 
 
 By enabling the embedding of design and context specific structure, information, and visual design
-
-

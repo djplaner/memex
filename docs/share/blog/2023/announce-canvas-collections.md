@@ -1,3 +1,6 @@
+﻿---
+title: No title found
+---
 ```toml
 post_title='Announcing (finally) Canvas Collections'
 layout="post"
@@ -89,5 +92,3 @@ The [Canvas Collections site](https://djplaner.github.io/canvas-collections/) pr
 Enjoy.
 
 David.
-
-

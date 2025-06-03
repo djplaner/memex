@@ -1,3 +1,6 @@
+﻿---
+title: No title found
+---
 <!--
  Copyright (C) 2023 David Jones
  
@@ -33,5 +36,3 @@ The [Data Transfer Project](https://dtinit.org/documentation) has three componen
 	- Adapters for data and authentication 
 	- Outside core infrastructure - writen by provider or third parties 
 3. Task management - "The rest is just plumbing"
-
-

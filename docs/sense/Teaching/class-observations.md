@@ -1,7 +1,6 @@
-# Class observations
-
-
-
+﻿---
+title: Class observations
+---
 ## Talk
 
 Ingram (2019)
@@ -24,5 +23,3 @@ In group discussions
 ## References
 
 Ingram, J. (2019). Discussion and communication. In *A Practical Guide to Teaching Mathematics in the Secondary School* (pp. 58--66). Taylor & Francis Group.
-
-

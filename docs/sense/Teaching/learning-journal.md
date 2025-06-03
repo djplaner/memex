@@ -1,7 +1,6 @@
-# Learning Journal
-
-
-
+﻿---
+title: Learning Journal
+---
 Notes on the learning journal learning activity design.
 
 - Explore the five authenticity factors and other insights from contract cheating literature 

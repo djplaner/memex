@@ -1,7 +1,6 @@
-# Three great virtues of a programmer
-
-
-
+﻿---
+title: Three great virtues of a programmer
+---
 [Initial description](https://wiki.c2.com/?LazinessImpatienceHubris) with glossary taken from _Programming Perl_
 
 An important point to make is that Wall offers very specific, positive definitions for these apparently less than positive terms. Definitions that suggest a better type of programmer. Something we (certainly I) tend to fall short of. There are some (e.g. [this](https://hackernoon.com/larry-walls-three-virtues-of-a-programmer-are-utter-bullshit-fykp32ck)) which argue aginst the virtues, but only because they ascribe their own definitions. [This](https://betterprogramming.pub/here-are-the-three-virtues-of-good-programmers-e561e061ea19) makes the point.
@@ -29,5 +28,3 @@ Definitions taken from _Programming Perl_
 
 [Quinlivan](https://betterprogramming.pub/here-are-the-three-virtues-of-good-programmers-e561e061ea19)
 > It's telling that computer science is the only field where "lazy" is a technical term.
-
-

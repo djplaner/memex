@@ -1,5 +1,7 @@
-# Problems with the constrained purpose of educational technologies and their orchestration
-
+﻿---
+title: Problems with the constrained purpose of educational technologies and their
+  orchestration
+---
 For the last couple of months I've been focused on helping with the redesign of a handful of courses. This has taken place in the context of Australian higher education. The following is a reflection on that experience about what was difficult and what could be done better.  In particular, it's become an exploration into an alternative to what @neilmosley5 calls ["the false and simplistic dichotomy"](https://twitter.com/neilmosley5/status/1432766787737817097) of "pedagogy not technology". An alternative that owes a lot to @timbocop's notion of [entangled pedagogy](https://twitter.com/timbocop/status/1426093163035328512) and @jondron's [definition of educational technology](https://twitter.com/jondron/status/1378811228554985474).
 
 The focus of this work has been helping teaching staff - who are largely sessional/casual - engagage effectively in design for learning with the aim of improve learning processes and outcomes through the creation of tasks, environments and social structures conducive to effective learning (Goodyear, 2015). But doing so without the luxury of greenfield re-design. Instead, working with and re-working what's available and possible. But with the explicit focus on improving the tasks, environments and social structures. Work that has been reasonably successful and achieved its goals.

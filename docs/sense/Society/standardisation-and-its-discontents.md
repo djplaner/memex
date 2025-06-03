@@ -1,5 +1,6 @@
-# Standardisation and its discontents
-
+﻿---
+title: Standardisation and its discontents
+---
 Summary and thoughts of
 
 Wears, R. L. (2015). Standardisation and Its Discontents. *Cognition, Technology & Work (Online)*, *17*(1), 89--94\. <https://doi.org/10.1007/s10111-014-0299-6>

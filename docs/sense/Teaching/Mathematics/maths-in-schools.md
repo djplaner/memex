@@ -1,7 +1,6 @@
-# Maths in Schools Online: Year 7 - 10 course
-
-
-
+﻿---
+title: 'Maths in Schools Online: Year 7 - 10 course'
+---
 An online MOOC, included as [PD from the Mathematics Hub](https://www.mathematicshub.edu.au/understanding-maths/professional-learning/maths-in-schools-professional-learning/). Developed by the University of Adelaide's [Maths in Schools](https://csermoocs.adelaide.edu.au/professional-learning/maths-in-schools)
 
 ## Course content

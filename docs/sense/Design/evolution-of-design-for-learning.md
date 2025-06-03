@@ -1,7 +1,6 @@
-# Evolution of design for learning
-
-
-
+﻿---
+title: Evolution of design for learning
+---
 Carvahlo et al (2023) provide the following timeline of the evolution of "stuff" leading to design for learning.
 
 | Stage | Rationale | Description |

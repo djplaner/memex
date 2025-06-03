@@ -10,6 +10,10 @@ For much of the life of this site, I've manually added ["backlinks"](https://en.
 
 Until June 2025. Automatic creation and visualisation of backlinks is now integrated into this site through a [[computational-components|computational component]]. A bit of Python that generates backlinks for each page and adds them to the frontmatter of the page. The backlinks are then rendered in the page template. See above.
 
+## Impact
+
+Apart from removing the need for manual "see also" work, this should also significantly change the network map for Foam (with the removal of the manual See also)
+
 ## Sources of inspiration
 
 See [lzrd.dev](https://lzrd.dev/memex/athena). Authored with Foam, [publishsed using 11ty](https://gitlab.com/lzrddev/athena) which adds backlinks.

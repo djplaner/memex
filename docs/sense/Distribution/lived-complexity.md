@@ -1,3 +1,6 @@
+﻿---
+title: '# Lived complexity'
+---
 ## Lived complexity
 
 Snowden thread which includes this quote - from Morin

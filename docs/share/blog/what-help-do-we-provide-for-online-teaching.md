@@ -1,5 +1,6 @@
-# What Help Do We Provide for Online Teaching
-
+﻿---
+title: What Help Do We Provide for Online Teaching
+---
 ```toml
 post_title='What help do we provide for moving to online teaching?'
 layout="post"
@@ -48,4 +49,4 @@ Shuell (1986) suggests
 > ..if students are to learn desired outcomes in a reasonably effective manner, then the teacher's fundamental task is to get students to engage in learning activities that are likely to result in their achieving these outcomes, taking into account factors such as...
 A perspective Biggs (2012) describes as creating a learning environment in which "all students are more likely to use the higher order learning processes which 'academic' students use spontaneously" (p. 39)
 
-In my experience, the outcome fetish 
+In my experience, the outcome fetish

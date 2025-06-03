@@ -1,5 +1,6 @@
-# Bricolage
-
+﻿---
+title: Bricolage
+---
 Bricolage forms part of the BAD Mindset ([[Bricolage]], [[affordances]], [[distribution]]) conceived of as a way to understand [the e-learning reality/rhetoric chasm](http://djon.es/blog/2014/09/05/breaking-bad-to-bridge-the-e-learning-realityrhetoric-chasm/)
 
 Bricolage links to broader ideas of democratising software development as seen in the [[heavy-and-light-weight]] approaches to software development.

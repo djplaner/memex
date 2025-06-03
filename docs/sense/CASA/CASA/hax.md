@@ -1,5 +1,6 @@
-# HAX 
-
+﻿---
+title: 'HAX '
+---
 [HAX-the-web](https://haxtheweb.org/) - "a next generation block editor tha works via web components". With [integrations into numerous CMS](https://haxtheweb.org/integrations-1): 11ty, Wordpress, Drupal, BackdropCMS, ClassicPress, GravCMS
 
 Wordpress version is a but buggy.
@@ -19,4 +20,3 @@ Wordpress version is a but buggy.
 ### h-a-x 
 
 The web component that is used to edit content.
-

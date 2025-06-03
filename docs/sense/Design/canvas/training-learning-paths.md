@@ -1,5 +1,6 @@
-# Creating learning paths
-
+﻿---
+title: Creating learning paths
+---
 Summary of training session with Instructor - "Creating Learning Paths"
 
 ## What are learning paths? (aka Mastery paths?)
@@ -63,4 +64,4 @@ Module locks, requirements and pre-requisites
 
 ### Activity 2 - managing content
 
-1. 
+1.

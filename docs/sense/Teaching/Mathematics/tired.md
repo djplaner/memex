@@ -1,7 +1,6 @@
-# TIRED
- 
-
-
+﻿---
+title: TIRED
+---
 De Geest & Lee (2019) cite Nardi and Steward's (2003) work with students disengaged with mathematics (not misbehaving, just disengaged) and discovered the perception of mathematics lessons as TIRED
 
 Identified through year long observations and interviews with teachers and students at three - English comprehensive, predominantly white, mixed SEO, and above average GCSE results - schools. 

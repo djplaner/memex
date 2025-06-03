@@ -1,3 +1,6 @@
+﻿---
+title: No title found
+---
 <!--
  Copyright (C) 2023 David Jones
  
@@ -36,6 +39,3 @@ Focuses on three big topics
 - Motivation 
 
 	Learning is hard, requires sustained effort, often to overcome obstacles. Mentions _Expectancy-Value Theory_ as a guide.
-
-
-

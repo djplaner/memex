@@ -1,5 +1,6 @@
-# Excellent/quality teaching
-
+﻿---
+title: Excellent/quality teaching
+---
 ## The problem
 
 Gunn and Fisk (2013)

@@ -1,5 +1,6 @@
-# Relational
-
+﻿---
+title: Relational
+---
 Thinking about the term *relational*
 > concerning the way in which two or more people or things are connected.
 

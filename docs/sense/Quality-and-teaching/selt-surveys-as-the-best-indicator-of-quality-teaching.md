@@ -1,5 +1,6 @@
-# SELT surveys as the best indicator of quality teaching
-
+﻿---
+title: SELT surveys as the best indicator of quality teaching
+---
 > The great debate about the use of student experience surveys in higher education has again reared its ugly head. Merlin Crossley from UNSW recently pointed out, in a News Corp editorial, that although flawed, student experience surveys still provide the best indicator of teaching quality in higher education. While there is undoubtedly value in surveying students to determine their level of satisfaction, this argument misses the point when it comes to quality teaching. [source](https://www.campusreview.com.au/2017/03/opinion-is-it-time-to-retire-student-experience-surveys-in-universities/)
 
 ## Related categories

@@ -1,7 +1,6 @@
-# Laws of Software Evolution
-
-
-
+﻿---
+title: Laws of Software Evolution
+---
 ## Programs, life cycles, and laws of software evolution
 
 [Blog post](https://blog.acolyer.org/2020/02/14/programs-life-cycles-laws/) talking about Lehman (1980)
@@ -39,5 +38,3 @@
 Lehman, M. M. (1980). Programs, life cycles, and laws of software evolution. *Proceedings of the IEEE*, *68*(9), 1060--1076\. <https://doi.org/10.1109/PROC.1980.11805>
 
 Lehman, M. M. (1996). Laws of software evolution revisited. In C. Montangero (Ed.), *Software Process Technology* (pp. 108--124). Springer. <https://doi.org/10.1007/BFb0017737>
-
-

@@ -1,5 +1,6 @@
-# javascript-design-patterns
-
+﻿---
+title: javascript-design-patterns
+---
 ## Resources
 
 - [Learning Javascript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) - O'Reilly book

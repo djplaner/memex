@@ -1,5 +1,6 @@
-# JISC Learning Design Guide
-
+﻿---
+title: JISC Learning Design Guide
+---
 [Designing learning and assessment in a digital age](https://www.jisc.ac.uk/guides/designing-learning-and-assessment-in-a-digital-age) apparently published in 2018
 
 ## Structure
@@ -94,4 +95,3 @@ Good assessment and feedback practices should:
 ## See also
 
 - [Design](design.md)
-

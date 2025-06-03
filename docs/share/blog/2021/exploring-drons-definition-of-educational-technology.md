@@ -1,5 +1,6 @@
-
-
+﻿---
+title: No title found
+---
 Pre-COVID the role of technology in learning and teaching in higher education was important. However, in 2020 it became core as part of the COVID response. Given the circumstances it is no surprise that chunks of that response were not that great. There was some good work. There was a lot of a "good enough for the situation" work. There was quite a bit that really sucked. For example,
 
 ![Drake Hotline Bling Meme](images/privacy_proctoring.png)
@@ -217,5 +218,3 @@ link="https://djon.es/blog/2021/06/04/exploring-drons-definition-of-educational-
 category="nodt"
 img_base_url="https://djplaner.github.io/memex/share/blog/2021/"
 ```
-
-

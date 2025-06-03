@@ -1,5 +1,6 @@
-# Atomic Design
-
+﻿---
+title: Atomic Design
+---
 [Book](https://atomicdesign.bradfrost.com/table-of-contents/) by Brad Frost
 
 ToC

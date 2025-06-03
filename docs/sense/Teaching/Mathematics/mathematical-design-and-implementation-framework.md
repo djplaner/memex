@@ -1,7 +1,6 @@
-# The Mathematical Design and Implementation Framework
-
-
-
+﻿---
+title: The Mathematical Design and Implementation Framework
+---
 [Original source](https://www.mathsmodellingenablers.com/design-and-implementation-framework.html) - is the _Enablers of Mathematical Modelling_ ARC project. References Niss (2010) for enablers. Origins of this framework provided by Geiger et al (2022)
 
 

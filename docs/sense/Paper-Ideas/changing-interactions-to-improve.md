@@ -1,5 +1,6 @@
-# Changing interactions to improve L&T 
-
+﻿---
+title: 'Changing interactions to improve L&T '
+---
 ## Spark
 
 Formal institutional L&T is a complex system. Change in complex systems is best achieved by changing the interactions in preferred ways. Rather than specifying desired outcomes.

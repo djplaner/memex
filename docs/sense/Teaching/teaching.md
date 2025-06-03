@@ -1,7 +1,6 @@
-# Teaching 
-
-
-
+﻿---
+title: 'Teaching '
+---
 Collection of resources, ideas etc around secondary teaching.
 
 ## Broader issues

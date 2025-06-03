@@ -1,3 +1,6 @@
+﻿---
+title: No title found
+---
 <!--
  Copyright (C) 2023 David Jones
  
@@ -32,4 +35,3 @@ The review links to the above via
 > While corporations and technocrats increasingly use networks to constrain, predict, and profit from collaborative human behavior, activists and visionaries want to liberate and expand the scope of social and political agency by designing systems in which bottom-up, unrestricted emergence can occur.
 
 The review somewhat mentions the tension here. Personally, I wonder about glorifying the rule breaking a bit too much. Where is the ethics in some of this practice.  The Swartz case is an example.
-

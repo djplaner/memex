@@ -1,5 +1,6 @@
-# Dron's take on technology
-
+﻿---
+title: Dron's take on technology
+---
 What is educational technology?
 
 Dron (2021) answers

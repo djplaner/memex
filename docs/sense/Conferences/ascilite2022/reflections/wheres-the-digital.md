@@ -1,3 +1,6 @@
+﻿---
+title: Where's the digital?
+---
 # Where's the digital?
 
 Paraphrase from Ella Kahu
@@ -31,4 +34,3 @@ These seem likely to be as useful as principles of innovation for QANTAS or McDo
 This observation isn't intended to limit the value of these principles as useful guides for the practice of digital education or education more broadly. Instead, I'm wondering if at ASCILITE - given ASCILITE's aspirations - there should be more explicit engagement with digital technologies? Perhaps questions like if/how/why etc. the use of digital technologies in tertiary education complicates, aids, hinders etc the building of human connections or innovation (and many more).
 
 Without at least some focus on these types of questions, I wonder how ASCILITE differentiates itself from [HERDSA](https://www.herdsa.org.au/about-herdsa) and its commitment to "the advancement of higher and tertiary education"?
-

@@ -1,5 +1,6 @@
-# Card Interface
-
+﻿---
+title: Card Interface
+---
 [GitHub](https://github.com/djplaner/Card-Interface-Tweak)
 
 ## Development log

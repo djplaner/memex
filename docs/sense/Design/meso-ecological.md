@@ -1,5 +1,6 @@
-# Meso-level from an ecological perspective 
-
+﻿---
+title: 'Meso-level from an ecological perspective '
+---
 ## Ellis and Goodyear (2009)
 
 ![](images/designScaleEllisGoodyear.png)
@@ -14,5 +15,4 @@ Identifying the need for the meso-level
 
 ## Reference
 
-Ellis, R., & Goodyear, P. (2009). *Students' Experiences of e-Learning in Higher Education: The Ecology of Sustainable Innovation*. Taylor & Francis Group. 
-
+Ellis, R., & Goodyear, P. (2009). *Students' Experiences of e-Learning in Higher Education: The Ecology of Sustainable Innovation*. Taylor & Francis Group.

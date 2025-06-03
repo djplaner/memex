@@ -1,5 +1,6 @@
-# Intro to Webpack
-
+﻿---
+title: Intro to Webpack
+---
 ## Possible steps for pathway-planner
 
 1. Set up a dist directory and src directory

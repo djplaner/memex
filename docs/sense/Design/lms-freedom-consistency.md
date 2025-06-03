@@ -1,3 +1,6 @@
+﻿---
+title: Freedom and the Learning Management System (LMS)
+---
 # Freedom and the Learning Management System (LMS)
 
 Summary/reactions to [blog post](https://www.neilmosley.com/blog/freedom-and-the-lms) by Neil Mosley.
@@ -58,5 +61,3 @@ The pandemic should bring this to the fore, but if institutions don't get it...t
 The LMS isn't going anywhere. Imperative to make best use of it.
 
 > Inconsistency of use of the LMS across some areas often does just that. Is a template, a rubric, some guidelines, a mandate or another means of tackling this a gross violation of freedom? Well it really depends on what you believe about freedom
-
-

@@ -1,5 +1,6 @@
-# Design
-
+﻿---
+title: Design
+---
 Bubble holding misc. thoughts about design.
 
 ## Information systems

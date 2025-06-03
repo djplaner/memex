@@ -1,7 +1,6 @@
-# Reviewing PhD Thesis
-
-
-
+﻿---
+title: Reviewing PhD Thesis
+---
 Misc thoughts re: reviewing PhD thesis
 
 ## Characteristics
@@ -17,6 +16,4 @@ Misc thoughts re: reviewing PhD thesis
 - presentation - form and style matching journals.
 - contribution to knowledge made by the research; 
 - Potential for publication
-- sufficiently comprehensive investigation of the topic that meets international standards for the proposed award. 
-
-
+- sufficiently comprehensive investigation of the topic that meets international standards for the proposed award.

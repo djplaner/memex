@@ -1,3 +1,6 @@
+﻿---
+title: No title found
+---
 <!--
  Copyright (C) 2023 David Jones
  
@@ -45,4 +48,3 @@ Similar:
     And causes suggested
 
     - Most wealth in property
-

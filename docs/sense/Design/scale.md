@@ -1,5 +1,6 @@
-# Scale and learning, teaching & education
-
+﻿---
+title: Scale and learning, teaching & education
+---
 ## Scale and education need 
 
 [Donald Clark](http://donaldclarkplanb.blogspot.com/2015/11/smart-algorithms-work-for-google.html) talks about the need for scale in education and

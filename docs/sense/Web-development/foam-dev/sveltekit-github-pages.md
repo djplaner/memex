@@ -1,7 +1,6 @@
-# SvelteKit and Github pages 
-
-
-
+﻿---
+title: 'SvelteKit and Github pages '
+---
 !!! warning "Deprecated"
 
   The long forgotten intent to use Svelte has been replaced by a focus on Python and static site generation using MkDocs. See [[foam-dev]] for more.

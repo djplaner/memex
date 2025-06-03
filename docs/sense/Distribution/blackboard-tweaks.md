@@ -1,5 +1,6 @@
-# Blackboard tweaks
-
+﻿---
+title: Blackboard tweaks
+---
 The Blackboard LMS Learn (9.1) is an enterprise system. A LMS seen as very unmodifiable. However it has been.  Two building blocks offer direct support
 
 1. [jsHack](https://github.com/AllTheDucks/jshack-v1/wiki) which appears targetted to help an institution/administrators create and implement hacks across the institution.

@@ -1,7 +1,6 @@
-# Reflective mathematical homework
-
-
-
+﻿---
+title: Reflective mathematical homework
+---
 Boaler (2015) citers working with two teachers to develop "a set of home reflection questions that they choose from each day to help their students process and understand the mathematics that they have met that day" (p. 46)
 
 As an alternative to the common long list of exercises indicative of a [[practice-approach-to-mathematics]], with this reflective approach resonating more strongly with a [[conceptual-approach-to-mathematics]]. An approach more likely to develop a [[mathematical-mindset]]

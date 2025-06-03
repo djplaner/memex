@@ -1,7 +1,6 @@
-# 004-exploring-oz-dev-log
-
-
-
+﻿---
+title: 004-exploring-oz-dev-log
+---
 Finally getting some glimmers of understanding using `rdflib`. Use of `predictate_objects` method to get all the objects for a given subject.
 
 `recurse.py` developed to walk the graph and get all the relevant information required. Integrate that into the `acLearningArea.py` class in [[005-exploring-oz-dev-log]]

@@ -1,5 +1,6 @@
-# Teaching mathematics for a growth mindset
-
+﻿---
+title: Teaching mathematics for a growth mindset
+---
 See als: [[teaching-mathematics]], [[design-for-mathematical-mindset]], [[growth-mindset]]
 
 Summary of chapter (of the same name) from Boaler (2015) 

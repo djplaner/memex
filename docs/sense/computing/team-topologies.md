@@ -1,7 +1,6 @@
-# Team Topologies
-
-
-
+﻿---
+title: Team Topologies
+---
 References: [Atlassian on Team Topologies](https://www.atlassian.com/devops/frameworks/team-topologies)
 
 [Team Topologies](https://teamtopologies.com/) is an "approach to organising business and technology teams for fast flow" an "adaptive model for organisational design and team interaction"
@@ -33,8 +32,3 @@ References: [Atlassian on Team Topologies](https://www.atlassian.com/devops/fram
 
 - specialists in a given technical/product domain that help stream-aligned teams by researching, learning new skills
 - focused on research and experimentation
-
-
-
-
-

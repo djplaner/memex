@@ -1,3 +1,6 @@
+﻿---
+title: Overcoming algorithm aversion (by making it protean)
+---
 # Overcoming algorithm aversion (by making it protean)
 
 In [this PhD thesis](http://repository.upenn.edu/cgi/viewcontent.cgi?article=3472&context=edissertations) the abstract reads

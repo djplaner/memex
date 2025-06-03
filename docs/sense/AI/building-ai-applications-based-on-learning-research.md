@@ -1,7 +1,6 @@
-# Building AI applications based on learning research
-
-
-
+﻿---
+title: Building AI applications based on learning research
+---
 [GRAILE Seminar](https://www.eventbrite.com/x/621321217487/?keep_tld=1&internal_ref=social) - [Global Research Alliance for AI in Learning and Education](https://graile.ai/)
 
 [Kristen DiCerbo](https://www.kristendicerbo.com/about-me) (Khan Academy) & Hassan Khosrav
@@ -158,7 +157,3 @@ Educators
 ## References
 
 Graesser, A. C., Person, N. K., & Magliano, J. P. (1995). Collaborative dialogue patterns in naturalistic one-to-one tutoring. *Applied Cognitive Psychology*, *9*(6), 495--522. <https://doi.org/10.1002/acp.2350090604>
-
-
-
-

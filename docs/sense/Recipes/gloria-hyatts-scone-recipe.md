@@ -1,5 +1,6 @@
-# Gloria Hyatt’s scone recipe
-
+﻿---
+title: "Gloria Hyatt\u2019s scone recipe"
+---
 > Makes 12-18 (depending in the size of your scone cutter)
 > 1 egg
 > 4 tablespoons of oil (she uses vegetable oil)

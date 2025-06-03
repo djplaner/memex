@@ -1,5 +1,6 @@
-# Canvas work arounds
-
+﻿---
+title: Canvas work arounds
+---
 Collecting various existing workarounds for Canvas
 
 ## UserScripts and other scripts

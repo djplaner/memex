@@ -1,5 +1,6 @@
-# Unbundled web components
-
+﻿---
+title: Unbundled web components
+---
 ## TODO
 
 1. Can the magic script be used in a Blackboard page - **YES**

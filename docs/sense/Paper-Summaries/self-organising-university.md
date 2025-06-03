@@ -1,5 +1,6 @@
-# Self-organising university
-
+﻿---
+title: Self-organising university
+---
 Summary of
 
 Bain, A., & Zundans-Fraser, L. (2017). *The Self-organizing University*. Springer. <https://doi.org/10.1007/978-981-10-4917-0>
@@ -178,5 +179,3 @@ Bain, A., & Zundans-Fraser, L. (2017). *The Self-organizing University*. Springe
 > if an organization adopts a particular visible and comparable approach to design its curriculum or specific pedagogical strategies (e.g., cooperative learning or criterion-based assessment), the key features of those approaches and especially those that influence achievement can be designed into the technologies used across the community. (Bain and Zundans-Fraser, 2017, p. 1)
 
 > Their design and functionality are a mirror of the university's learning and teaching model and context (Bain and Zundans-Fraser, 2017, p. 1)
-
-

@@ -1,3 +1,6 @@
+﻿---
+title: No title found
+---
 <!--
  Copyright (C) 2023 David Jones
  
@@ -35,4 +38,3 @@ There is something there. Especially given most calls for adoption of UDL at the
 ## References
 
 Boysen, G. (2021). Lessons (Not) Learned: The Troubling Similarities Between Learning Styles and Universal Design for Learning. *Scholarship of Teaching and Learning in Psychology*. <https://doi.org/10.1037/stl0000280>
-

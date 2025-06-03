@@ -1,3 +1,6 @@
+﻿---
+title: No title found
+---
 <!--
  Copyright (C) 2023 David Jones
  
@@ -37,4 +40,3 @@ Henrich et al (2023)
 ## References 
 
 Henrich, J., & Muthukrishna, M. (n.d.). What Makes Us Smart? *Topics in Cognitive Science*, *n/a*(n/a). <https://doi.org/10.1111/tops.12656>
-

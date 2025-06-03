@@ -1,5 +1,6 @@
-# Consistency and UX
-
+﻿---
+title: Consistency and UX
+---
 - Lots of people push for consistent course websites
 - Some even cite UX principles as explicitly including consistency as justification 
 - But they forget that the end goal of UX is to improve the user's experience (not consistency)
@@ -9,5 +10,3 @@
 - Key finding from educational research into scale, is....
 - ...lead into the core problem is the UX experience of designing course sites...it's really crap and that's why you get crap websites 
 - Maybe Ellis quote?
-
-
