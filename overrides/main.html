@@ -21,13 +21,12 @@ document.addEventListener('DOMContentLoaded', function() {
 	MicroModal.init();
 
 //	$('.nav-link-search').click(function(ev) {
-    document.querySelector('.nav-link-search').addEventListener('click', function(ev) {
+    document.querySelector('#nav-link-search').addEventListener('click', function(ev) {
 	  ev.preventDefault();
 
 	  MicroModal.show('modal-1', {
 	  		onClose: function() { 
-                console.log('Modal closed');
-                $('.nav-link-search').blur(); 
+                $('#nav-link-search').blur(); 
             },
 	  		disableFocus: true
 	  });
