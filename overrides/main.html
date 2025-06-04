@@ -5,6 +5,38 @@
 <script data-goatcounter="https://djones.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>
 <!-- <meta http-equiv="Content-Security-Policy" content="default-src 'self'; style-src 'self' fonts.googleapis.com unsafe-inline ; font-src fonts.gstatic.com unsafe-inline; img-src 'self' mirrors.creativecommons.org data: w3.org/svg/2000; script-src  'self' https://gc.zgo.at https://cdn.jsdelivr.net https://unpkg.com ; connect-src 'self' https://djones.goatcounter.com/count; ">  -->
+
+<link rel="stylesheet" href="/memex/pagefind/pagefind-ui.css">
+<script src="/memex/pagefind/pagefind-ui.js" type="text/javascript"></script>
+<script src="https://cdn.jsdelivr.net/npm/micromodal/dist/micromodal.min.js"></script>
+
+<script type="text/javascript">
+//$(document).ready(function() {
+document.addEventListener('DOMContentLoaded', function() {
+    new PagefindUI({
+        element: "#search",
+        pageSize: 5,
+        showSubResults: true
+    })
+	MicroModal.init();
+
+//	$('.nav-link-search').click(function(ev) {
+    document.querySelector('.nav-link-search').addEventListener('click', function(ev) {
+	  ev.preventDefault();
+
+	  MicroModal.show('modal-1', {
+	  		onClose: function() { 
+                console.log('Modal closed');
+                $('.nav-link-search').blur(); 
+            },
+	  		disableFocus: true
+	  });
+
+	  document.querySelector('.pagefind-ui__search-input').focus();
+	});
+
+}, false);
+</script>
 {% endblock %}
 
 
@@ -33,7 +65,11 @@
 {% block styles %}
     {{ super() }}
 
+
 {% endblock %}
+
+
+
 
 
 

@@ -7,7 +7,6 @@ A model for understanding and designing Distance Education introduced in 1960 by
 
 Built upon the assumption that learning is "an individual activity and is attained only through an internalizing process". It sees individual practices such thinking aloud and text elaboration as features of good learning and sees value in leveraging those in teaching. Descriptions of the model tend to focus on learner-teacher interaction as a starting point. This is not intended to ignore the importance of peer interaction.
 
-- [Guided Didactic Conversation aka teaching-learning conversations](#guided-didactic-conversation-aka-teaching-learning-conversations)
 - [7 postulates](#7-postulates)
 - [Hypotheses](#hypotheses)
   - [Characteristics of guided didactic conversation](#characteristics-of-guided-didactic-conversation)
