@@ -8,10 +8,6 @@ tags:
 
 ### To do
 
-- Wood-duck meadows
-  - [x] brigalow scrub 
-  - [ ] Maderia vine
-
 On-going
 
 - Process the [sense list](#sense)
@@ -19,6 +15,11 @@ On-going
 - Update the "Made with Material for Mkdocs" to be more assemblage oriented
 - work on [[assemblage]]
 - fix up code highlight colors in dark mode - see [[integrate-backlinks-automatically-onto-pages]]
+- Add visual progress representations to [[computational-components]] used during mkdocs build
+
+Minor editing tweaks
+
+- Rejig [[colophon]] to better summarise the technology/process involved
 
 Memex tasks
 
@@ -86,6 +87,8 @@ Questions
 [loose]: ../../sense/loose/loose "Loose notes"
 [assemblage]: ../../sense/Distribution/assemblage "Assemblage"
 [integrate-backlinks-automatically-onto-pages]: ../../colophon/integrate-backlinks-automatically-onto-pages "Integrate backlinks automatically onto pages"
+[computational-components]: ../../colophon/computational-components "Computational components"
+[colophon]: ../../colophon/colophon "About (Colophon)"
 [creative-coding-with-python]: ../../sense/Python/creative-coding-with-python "Creative coding experiments"
 [ed-tech-some-missing-flavours]: ../../share/blog/2023/ed-tech-some-missing-flavours "No title found"
 [hax-as-casa]: ../../sense/CASA/CASA/hax-as-casa "H-A-X as CASA?"

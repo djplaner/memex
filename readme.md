@@ -1,8 +1,7 @@
-# DJ's personal memex
+# David's Digital Garden
 
-An on-going experiment in creating and leveraging a personal [memex analogue](https://en.wikipedia.org/wiki/Memex) using [Foam](https://foambubble.github.io/).
+A personal [Digital Garden](http://djon.es/memex/sense/computing/digital-garden.html) implemented using [Foam](https://foambubble.github.io/), [Material for MkDocs](https://squidfunk.github.io/mkdocs), and [quite a bit more](https://djon.es/memex/colophon/).
 
-While there is a version of the site available via GitHub pages (via this repo), the [active site](https://djon.es/memex/) is hosted on my own server.
 
  
 
