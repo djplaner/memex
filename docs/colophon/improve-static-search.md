@@ -14,13 +14,18 @@ tags:
 
 [PageFind](https://pagefind.app) - client site static site search designed to work well with large sites.
 
+### Example uses of page find
+
+- [Bryce Wray](https://www.brycewray.com/search/) - uses a separate search page
+- [Sebastian Proost](https://blog.4dcu.be/programming/2022/08/27/pagefind.html) - modal for search 
+
 ## Early test with Page Find
 
 Runs after SSG and outputs static search bundle to the generated site. Comes with a Python wrapper. Quick analysis with Lighthouse gives the following results - Page Find is faster than lunr.js (the MkDocs search). It also shows that perhaps Lighthouse analysis is not perfect. However, the difference is sufficient to try a full scale implementation.
 
-| Site config | Performance |
-|-------------|-------------|
-| MkDocs with no search | 96 |
+| Site config | Performance Local | Performance Remote|
+|-------------|-------------|-------------|
+| MkDocs with no search | 96 | 96 |
 | MkDocs with lunr.js search | 80 |
 | MkDocs with Page Find search | 97 |
 
@@ -28,10 +33,10 @@ Runs after SSG and outputs static search bundle to the generated site. Comes wit
 
 Seems to involve the following steps:
 
-- Modify the MkDocs configuration to remove the lunr.js search plugin.
-- Modify the MkDocs themes to include the Page Find search interface.
-- Add the Page Find build step at the MkDocs build.
-- Make any additional changes required.
+- [x] Modify the MkDocs configuration to remove the lunr.js search plugin.
+- [ ] Modify the MkDocs themes to include the Page Find search interface.
+- [ ] Add the Page Find build step at the MkDocs build.
+- [ ] Make any additional changes required.
 
 ### Example uses of page find
 

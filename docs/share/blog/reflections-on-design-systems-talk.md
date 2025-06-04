@@ -1,5 +1,5 @@
 ﻿---
-title: No title found
+title: Reflections on learning design systems presentation
 ---
 ```toml
 post_title='Reflections on "How learning design systems can help scale and accelerate learning design"'

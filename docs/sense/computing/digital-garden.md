@@ -19,7 +19,7 @@ A digital garden is a personal website located somewhere between a personal blog
 
 ### Stream vs Garden
 
-Mike Caufield [2015 presentation/blog post dives deep]((https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/)) into a comparison of the stream (blogs) and digital gardens, which includes the following quote:
+Mike Caufield [2015 presentation/blog post dives deep](https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/) into a comparison of the stream (blogs) and digital gardens, which includes the following quote:
 > Everybody wants to play in the Stream, but no one wants to build the Garden. ([Caulfield, 2015])
 
 ### Stoak and Flow
