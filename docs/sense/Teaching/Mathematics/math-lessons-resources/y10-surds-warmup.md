@@ -3,8 +3,6 @@ title: Year 10 Surds warmup
 tags: teaching, mathematics, 2023
 ---
 
-
-
 Prepare a warmup activity for a Year 10 surge class. Focus on simplifying surds. Part of a sequence of lessons revising for an imminent final exam.
 
 Related resources

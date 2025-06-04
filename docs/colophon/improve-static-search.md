@@ -6,13 +6,13 @@ tags:
     - search
 ---
 
-[[comparing-wordpress-to-memex|Comparing Wordpress to Memex]] revealed that the MkDocs static search's payload (14 Mb) significantly increases the size of the web pages. Look into alternatives - server side or client.
-
-[lunr.js](https://github.com/olivernn/lunr.js/) used by MkDocs hasn't been updated recently (5-7 years)
+[[comparing-wordpress-to-memex|Comparing Wordpress to Memex]] revealed that the MkDocs static search's payload (14 Mb) significantly increases the size of the web pages. Look into alternatives - server side or client. Also, [lunr.js](https://github.com/olivernn/lunr.js/) used by MkDocs hasn't been updated recently (5-7 years).
 
 ## Alternatives
 
 [PageFind](https://pagefind.app) - client site static site search designed to work well with large sites.
+
+Looked at a few others, but PageFind appears the most recent and functional of the available options.
 
 ### Example uses of page find
 

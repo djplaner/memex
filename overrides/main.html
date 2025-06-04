@@ -12,26 +12,38 @@
 
 <script type="text/javascript">
 //$(document).ready(function() {
-document.addEventListener('DOMContentLoaded', function() {
+window.addEventListener('DOMContentLoaded', function() {
     new PagefindUI({
         element: "#search",
         pageSize: 5,
-        showSubResults: true
+        showSubResults: true,
+        showImages: false,
+        processResult: function (result) {
+            if (result?.meta?.image) {
+                let resultBase = new URL(result.url, window.location);
+                let remappedImage = new URL(result.meta.image, resultBase);
+                if (remappedImage.hostname !== window.location.hostname) {
+                    result.meta.image = remappedImage.toString();
+                } else {
+                    result.meta.image = remappedImage.pathname;
+                }
+            }
+        }
     })
-	MicroModal.init();
+	MicroModal.init()
 
 //	$('.nav-link-search').click(function(ev) {
     document.querySelector('#nav-link-search').addEventListener('click', function(ev) {
-	  ev.preventDefault();
+	  ev.preventDefault()
 
 	  MicroModal.show('modal-1', {
 	  		onClose: function() { 
-                $('#nav-link-search').blur(); 
+                document.querySelector('#nav-link-search').blur(); 
             },
 	  		disableFocus: true
-	  });
+	  })
 
-	  document.querySelector('.pagefind-ui__search-input').focus();
+	  //document.querySelector('.pagefind-ui__search-input').focus()
 	});
 
 }, false);

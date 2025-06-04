@@ -1,27 +1,8 @@
 ﻿---
-title: No title found
+title: How Teachers’ Hidden Biases Are Hurting Our Girls
 ---
-<!--
- Copyright (C) 2023 David Jones
- 
- This file is part of memex.
- 
- memex is free software: you can redistribute it and/or modify
- it under the terms of the GNU General Public License as published by
- the Free Software Foundation, either version 3 of the License, or
- (at your option) any later version.
- 
- memex is distributed in the hope that it will be useful,
- but WITHOUT ANY WARRANTY; without even the implied warranty of
- MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
- GNU General Public License for more details.
- 
- You should have received a copy of the GNU General Public License
- along with memex.  If not, see <http://www.gnu.org/licenses/>.
--->
 
-# How Teachers’ Hidden Biases Are Hurting Our Girls
-#### [time.com](https://time.com/3705454/teachers-biases-girls-education/) ▪ Friday, February 13, 2015 at 5:07 AM
+## [time.com](https://time.com/3705454/teachers-biases-girls-education/) ▪ Friday, February 13, 2015 at 5:07 AM
 
 Last week, two studies revealed that unexamined teacher biases are having a significant effect on girls’ education. The first found that gender stereotypes are negatively affecting girls’ math grades and positively affecting boys’. The second revealed how disproportionately penalized young black girls are for being assertive in classroom settings. Together, they make the clearest possible case for making it mandatory for teachers to be trained in spotting and striving to overcome their implicit biases.
 

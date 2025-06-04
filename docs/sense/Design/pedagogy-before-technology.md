@@ -1,28 +1,6 @@
 ﻿---
-title: No title found
+title: Pedagogy before technology 
 ---
-<!--
- Copyright (C) 2023 David Jones
- 
- This file is part of memex.
- 
- memex is free software: you can redistribute it and/or modify
- it under the terms of the GNU General Public License as published by
- the Free Software Foundation, either version 3 of the License, or
- (at your option) any later version.
- 
- memex is distributed in the hope that it will be useful,
- but WITHOUT ANY WARRANTY; without even the implied warranty of
- MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
- GNU General Public License for more details.
- 
- You should have received a copy of the GNU General Public License
- along with memex.  If not, see <http://www.gnu.org/licenses/>.
--->
-
-# Pedagogy before technology 
-
-
 
 Numerous authors (Ascough, 2002; Leijen et al, 2008; Glover et al, 2016; Cowling & Birt, 2018; Sankey et al, 2020) suggest that thinking of the "pedagogy before the technology" is a good approach to designing learning and teaching experiences.
 
@@ -30,7 +8,6 @@ aka
 
 - Put the pedagogy horse before the technology cart 
 - pedagogy is the driver and technology is the accelerator (Tsui and Tavares, 2021)
-
 
 # Challenges
 

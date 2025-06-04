@@ -1,28 +1,6 @@
 ﻿---
-title: No title found
+title: Math Watch 
 ---
-<!--
- Copyright (C) 2023 David Jones
- 
- This file is part of memex.
- 
- memex is free software: you can redistribute it and/or modify
- it under the terms of the GNU General Public License as published by
- the Free Software Foundation, either version 3 of the License, or
- (at your option) any later version.
- 
- memex is distributed in the hope that it will be useful,
- but WITHOUT ANY WARRANTY; without even the implied warranty of
- MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
- GNU General Public License for more details.
- 
- You should have received a copy of the GNU General Public License
- along with memex.  If not, see <http://www.gnu.org/licenses/>.
--->
-
-# Math Watch 
-
-
 
 Idea of encouraging student engagement in mathematics by identifying common misuses of mathematics in the general media and other daily practices. Original idea rose out of a [unit plan](https://djon.es/blog/2011/09/21/the-final-plan-khan-academy-gamification-and-the-flipped-classroom/) I developed during my Grad Dip. Inspired by the [ABC Australia TV show _Media Watch_](https://en.wikipedia.org/wiki/Media_Watch_(TV_program) but with a focus on examining the use of mathematics in "real life".
 

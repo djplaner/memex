@@ -1,28 +1,6 @@
 ﻿---
-title: No title found
+title: Normal (Gaussian) distribution
 ---
-<!--
- Copyright (C) 2023 David Jones
- 
- This file is part of memex.
- 
- memex is free software: you can redistribute it and/or modify
- it under the terms of the GNU General Public License as published by
- the Free Software Foundation, either version 3 of the License, or
- (at your option) any later version.
- 
- memex is distributed in the hope that it will be useful,
- but WITHOUT ANY WARRANTY; without even the implied warranty of
- MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
- GNU General Public License for more details.
- 
- You should have received a copy of the GNU General Public License
- along with memex.  If not, see <http://www.gnu.org/licenses/>.
--->
-
-# Normal (Gaussian) distribution
-
-
 
 ## Why it seems everywhere and why under closer inspection it is almost nowhere.
 
@@ -33,13 +11,11 @@ Normal distribution is based on the assumption that
 
 A [thread by @filippie509](https://threadreaderapp.com/thread/1652487779308437505.html) on Thread Reader App - Clipped on Tuesday, May 2, 2023, 9:16 AM
 
-
 A little thread on how Gaussian (aka Normal) distribution arises, why it seems to be everywhere and why under closer inspection it is almost nowhere. Jump in👇 [![Image](https://pbs.twimg.com/media/Fu7MxT5aYAMUm4p.jpg)](https://pbs.twimg.com/media/Fu7MxT5aYAMUm4p.jpg) 
 
 Gaussian distribution is so prevalent, because it arises as a limit of averaging out many independent random variables with finite variance. This fundamental law of statistics is called a Central Limit Theorem or CLT. [en.wikipedia.org/wiki/Central\_l…](https://en.wikipedia.org/wiki/Central_limit_theorem) [![Image](https://pbs.twimg.com/media/Fu7NX3zaUAE3Suz.jpg)](https://pbs.twimg.com/media/Fu7NX3zaUAE3Suz.jpg) 
 
 This can be very well seen in a little simulation below: 200x400 grid (so 80000) independent random variables with uniform distribution (-0.5,0.5) are simulated and a histogram of averages are taken and plotted below, clearly showing bell curve as expected.   
-  
   
 ![Video Poster](https://pbs.twimg.com/ext_tw_video_thumb/1652484562096885762/pu/img/icpCB05c_xExX1yI.jpg) 
 

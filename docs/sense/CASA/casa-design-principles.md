@@ -9,18 +9,18 @@ title: Design principles for Context-Appropriate Scaffolding Assemblages (CASA)
 
 - [Contextually-Appropriate](https://djon.es/blog/2019/08/08/exploring-knowledge-reuse-in-design-for-digital-learning-tweaks-h5p-constructive-templates-and-casa/#contextually-appropriate)
 
-  1. A CASA should address a specific *contextual* need within a specific *activity*.
-  2. CASA should be built using and generate *generative technologies*.
-  3. CASA development should be *strategically aligned* and supported.
+    1. A CASA should address a specific *contextual* need within a specific *activity*.
+    2. CASA should be built using and generate *generative technologies*.
+    3. CASA development should be *strategically aligned* and supported.
 
 - [Scaffolding](https://djon.es/blog/2019/08/08/exploring-knowledge-reuse-in-design-for-digital-learning-tweaks-h5p-constructive-templates-and-casa/#scaffolding)
 
-  4. CASA should package appropriate design knowledge to enable (re-)use by teachers and students.
-  5. CASA should actively support a *forward-oriented* approach to design for learning.
+    1. CASA should package appropriate design knowledge to enable (re-)use by teachers and students.
+    2. CASA should actively support a *forward-oriented* approach to design for learning.
 
 - [Assemblages](https://djon.es/blog/2019/08/08/exploring-knowledge-reuse-in-design-for-digital-learning-tweaks-h5p-constructive-templates-and-casa/#assemblages)
 
-  6. CASA are conceptualised and treated as contextual *assemblages*
+    1. CASA are conceptualised and treated as contextual *assemblages*
 
 
 ## References
