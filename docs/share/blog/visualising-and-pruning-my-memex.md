@@ -1,6 +1,7 @@
 ﻿---
-title: No title found
+title: Visualising and pruning my Memex
 ---
+
 > ### Update - now with automated memex links
 > In writing the following I stumbled across the idea that writing blog posts in Foam would enable the merging of content from Memex and blog posts. I then discovered it didn't work out of the box. More work was needed. But the nature of the technology involved meant that it wasn't that hard and is now complete.
 >  You'll see links below followed by the spider web emoji (🕸️), those are links to my Memex.

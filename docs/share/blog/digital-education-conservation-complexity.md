@@ -1,15 +1,15 @@
 ﻿---
-title: No title found
+title: Digital education and the conservation of complexity
 ---
 Pondering whether [Tesler's "Law of Conservation of Complexity"](http://www.nomodes.com/Larry_Tesler_Consulting/Complexity_Law.html) (Tesler’s law from now on) applies to digital (e-)learning, and if so, what implications might arise, especially given the great 
 
 TL;DR. Creating a high quality, contextually appropriate digital learning space is complex. That complexity will always be conserved. Properly addressing this complexity requires knowledge which costs time & money. Most current approaches fail to address this. 
 
-esler’s law arose from the practice of interaction design (IxD). When you #pivotonline the typical face-to-face learning space is replaced with a digital learning space. A space many learners are unfamiliar with. IxD can help. 3/31
+Tesler’s law arose from the practice of interaction design (IxD). When you #pivotonline the typical face-to-face learning space is replaced with a digital learning space. A space many learners are unfamiliar with. IxD can help. 3/31
 
 IxD is “the practice of designing interactive digital products, environments, systems, and services” https://en.wikipedia.org/wiki/Interaction_design A practice that seems applicable to the design of digital spaces for learning 
 
-esler’s Law is “that every application must have an inherent amount of irreducible complexity. The only question is who will have to deal with it”. Think of “application” as a “digital space”. Attached visual representation of Tesler’s Law from https://harishsnotebook.wordpress.com/2018/08/19/teslers-law-of-the-conservation-of-complexity/ 
+Tesler’s Law is “that every application must have an inherent amount of irreducible complexity. The only question is who will have to deal with it”. Think of “application” as a “digital space”. Attached visual representation of Tesler’s Law from https://harishsnotebook.wordpress.com/2018/08/19/teslers-law-of-the-conservation-of-complexity/ 
 
 ![](images/tesslers_law.png)
 

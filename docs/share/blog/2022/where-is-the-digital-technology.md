@@ -1,5 +1,5 @@
 ﻿---
-title: No title found
+title: Where is the digital technology?
 ---
 ```toml
 post_title='Where is the digital technology?'

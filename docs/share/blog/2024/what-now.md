@@ -1,5 +1,5 @@
 ﻿---
-title: No title found
+title: What now?
 ---
 ```toml
 post_title='What now?'

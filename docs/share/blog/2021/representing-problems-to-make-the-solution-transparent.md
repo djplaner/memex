@@ -1,5 +1,5 @@
 ﻿---
-title: No title found
+title: Representing problems to make the solution transparent
 ---
 ```toml
 post_title='Representing problems to make the solution transparent'

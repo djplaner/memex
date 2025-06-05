@@ -1,5 +1,5 @@
 ﻿---
-title: No title found
+title: Why are Universities digital development practices so out-dated? (especially when it comes to L&T)
 ---
 ```toml
 post_title="Why are Universities digital development practices so out-dated? (especially when it comes to L&T)"

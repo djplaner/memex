@@ -1,5 +1,5 @@
 ﻿---
-title: No title found
+title: Templates and the scale problem
 ---
 ```toml
 post_title='Templates and the problem scale'

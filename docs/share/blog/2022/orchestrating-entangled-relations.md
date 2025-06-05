@@ -1,5 +1,5 @@
 ﻿---
-title: No title found
+title: "Orchestrating entangled relations to break the iron triangle: examples from a LMS migration"
 ---
 ```toml
 post_title='Orchestrating entangled relations to break the iron triangle: examples from a LMS migration'

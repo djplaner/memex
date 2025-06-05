@@ -1,5 +1,5 @@
 ﻿---
-title: No title found
+title: Announcing (finally) Canvas Collections
 ---
 ```toml
 post_title='Announcing (finally) Canvas Collections'
