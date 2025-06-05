@@ -1,5 +1,5 @@
 ---
-title: Talinum paniculatum
+title: Talinum paniculatum (Pink baby's breath)
 type: plant
 tags: [ 'plant', 'wood-duck-meadows']
 ---

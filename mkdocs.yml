@@ -7,6 +7,8 @@ site_description: "David's personal knowledge management garden"
 site_dir: ../memex_site # stick HTML outside main repo
 use_directory_urls: false
 
+announcement: 🚧 Migrating search. Some teething issues being addressed. 🚧
+
 theme:
   name: material
   #  favicon: attachment/portrait.png
@@ -30,7 +32,7 @@ theme:
   features:
     - navigation.tabs
     - navigation.tabs.sticky
-    - navigation.instant
+#    - navigation.instant
     - navigation.tracking
     - content.tabs.links
     - navigation.expand 
@@ -115,12 +117,14 @@ plugins:
         - '.*\.(tmp|bin|tar)$'
 extra_css:
   - stylesheets/extra.css
+  - /memex/pagefind/pagefind-ui.css
 extra_javascript:
-  - javascripts/mathjax.js
+  - /memex/pagefind/pagefind-ui.js
+#  - javascripts/mathjax.js
 #  - https://polyfill.io/v3/polyfill.min.js?features=es6
-  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
-  - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
-  - javascripts/tablesort.js
+#  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+  - javascripts/tablesort.js #-- local loader
+  - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js #-- support code
 extra:
   social:
 #  - icon: fontawesome/brands/twitter

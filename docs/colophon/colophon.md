@@ -12,12 +12,16 @@ Most of the content is available as [Markdown files](https://github.com/djplaner
 
 The site is published to the Web using the [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) theme for [MkDocs](https://www.mkdocs.org/). A Python-based static site generator that transforms the Markdown files into HTML. The MkDocs ecosystem of plugins provide a range of functionality to improve the site, including support for bespoke Python scripts to generate additional content (e.g. [[computational-components]]).
 
-Site search is provided [PageFind](https://pagefind.app/).
+Other functionality includes:
+
+- Site search is provided [PageFind](https://pagefind.app/).
+- Analytics provided by [GoatCounter](https://www.goatcounter.com/).
 
 ### To do list
 
 Improvements being worked on or thought about, include:
 
+- [[improve-static-search]] - replace the default MkDocs search with a lighter-weight search engine.
 - [[publishing-graph-interface]] - adding an interface option to navigate the inter-connected bubbles of the site using a network graph.
 - [[statistics-and-analytics]] - exploring how to improve statistics and analytics for the site and the blog.
 - [[comments-webmentions]]
@@ -25,10 +29,6 @@ Improvements being worked on or thought about, include:
 - expand recent changes
 
     - Stand alone page that lists all changes, provides graphical representations of frequency etc.
-
-Completed
-
-- [[improve-static-search]] - replace the default MkDocs search with a lighter-weight search engine.
 
 ## Why?
 
@@ -96,11 +96,11 @@ Timed with an increased focus on leveraging this site for my [personal learning 
 [pkm]: ../pkm "Personal Knowledge Management"
 [related-work]: related-work "Related work"
 [computational-components]: computational-components "Computational components"
+[improve-static-search]: improve-static-search "Improve static search"
 [publishing-graph-interface]: publishing-graph-interface "Publishing graph interface"
 [statistics-and-analytics]: statistics-and-analytics "Statistics and Analytics"
 [comments-webmentions]: comments-webmentions "Comments, webmentions, pingbacks etc"
 [add-activity-pub]: add-activity-pub "Adding ActivityPub to the blog"
-[improve-static-search]: improve-static-search "Improve static search"
 [ideas-events-people]: ../sense/quote-collection/ideas-events-people "Great Minds Discuss Ideas; Average Minds Discuss Events; Small Minds Discuss People"
 [note-taking-strategies]: note-taking-strategies "Note taking strategies"
 [version-3-memex-design]: version-3-memex-design "Memex - Version 3"

@@ -1,10 +1,8 @@
 ---
-title: Macadamia integrifolia
+title: Macadamia integrifolia (Queensland Nut)
 type: "plants"
 tags: [ 'wood-duck-meadows', 'macadamia', 'tree', 'native' ]
 ---
-
-
 
 A small to medium rainforest tree native to northern NSW and southern QLD. Growing to 15/20 metres tall producing edible nuts. It is listed as vulnerable.
 

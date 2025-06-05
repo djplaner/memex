@@ -15,6 +15,7 @@ Bricolage links to broader ideas of democratising software development as seen i
 - [[laws-of-software-evolution]]
 - [[diy-software-development-literature]] - literature and examples from companies
 - [[diy-software-development-examples]] - more general examples
+- [[end-user-programming]]
 
 ### Telological definitions and issues
 
@@ -42,7 +43,8 @@ Bricolage links to broader ideas of democratising software development as seen i
 [bricalogogy]: bricalogogy "Bricolagogy"
 [laws-of-software-evolution]: laws-of-software-evolution "Laws of Software Evolution"
 [diy-software-development-literature]: diy-software-development-literature "Literature of DIY software development"
-[diy-software-development-examples]: diy-software-development-examples "DIY Software Development Examples"
+[diy-software-development-examples]: diy-software-development-examples "Examples of DIY Software Development"
+[end-user-programming]: end-user-programming "End-user programming"
 [strategic-planning]: strategic-planning "Strategic Planning"
 [engineering-the-right]: engineering-the-right "Engineering the Right"
 [new-system-will-solve-everything-disease]: new-system-will-solve-everything-disease "New System Will Solve Everything Disease"
