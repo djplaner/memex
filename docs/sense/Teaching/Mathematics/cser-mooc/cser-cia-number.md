@@ -2,6 +2,7 @@
 title: CSER Number - Content In Action
 type: "note"
 tags: cser, teaching-mathematics, number
+template: math.html
 ---
 
 

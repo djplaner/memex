@@ -2,6 +2,7 @@
 title: Indices and logarithms
 type: "mathContent"
 tags: teaching, mathematics, indicies, logarithms 
+template: math.html
 ---
 
 

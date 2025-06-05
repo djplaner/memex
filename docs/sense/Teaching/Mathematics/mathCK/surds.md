@@ -2,6 +2,7 @@
 title: Surds - mathematical content knowledge
 type: "mathContent"
 tags: teaching, mathematics, surd
+template: math.html
 ---
 
 

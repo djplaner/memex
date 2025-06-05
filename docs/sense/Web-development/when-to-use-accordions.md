@@ -26,7 +26,7 @@ title: When to use accordions
 > - Accessibility is an important consideration
 > - Printing
 
-## Related categories
+## 
 
 - [[web-development]]
 

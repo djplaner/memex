@@ -2,6 +2,7 @@
 title: Quadratic equations
 type: "mathContent"
 tags: teaching, mathematics, quadratic
+template: math.html
 ---
 
 

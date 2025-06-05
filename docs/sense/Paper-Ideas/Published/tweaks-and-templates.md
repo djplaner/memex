@@ -27,7 +27,3 @@ But they also suffer from the problem of not having been kept up to date. Perhap
 h5p comes in ....
 
 What is missing ... Goodyear and Retalis.
-
-## Related categories
-
-- [[Paper Ideas]]

@@ -2,6 +2,7 @@
 title: Related multiplication problems
 type: "content"
 tags: teaching, mathematics, number-talks, multiplication, arithmetic
+template: math.html
 ---
 
 

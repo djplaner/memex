@@ -2,6 +2,7 @@
 title: AC9M9SP02
 type: "note"
 tags: australian-curriculum
+template: math.html
 ---
 
 

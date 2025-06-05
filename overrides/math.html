@@ -48,6 +48,23 @@ document.addEventListener('DOMContentLoaded', function() {
 {% block libs %}
     {{ super() }}
 
+<!--    <script type="text/javascript">
+        let url = window.location.href;
+        var newUrl = url.replace(/.*memex\//, "https://djon.es/memex/");
+        // create meta tag
+        let meta = document.createElement('meta');
+        meta.httpEquiv = "refresh";
+        meta.content = "0;url=" + newUrl;
+        document.head.appendChild(meta);
+    </script> -->
+
+   <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+    <script>MathJax = {tex:    
+        {
+            inlineMath: [["$", "$"], ['\\(', '\\)']],
+            displayMath: [['$$', '$$'], ['\\[', '\\]']]
+        }
+     }</script>
 {% endblock %}
 
 {% block styles %}

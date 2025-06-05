@@ -7,7 +7,7 @@ site_description: "David's personal knowledge management garden"
 site_dir: ../memex_site # stick HTML outside main repo
 use_directory_urls: false
 
-announcement: 🚧 Migrating search. Some teething issues being addressed. 🚧
+#announcement: 🚧 Migrating search. Some teething issues being addressed. 🚧
 
 theme:
   name: material

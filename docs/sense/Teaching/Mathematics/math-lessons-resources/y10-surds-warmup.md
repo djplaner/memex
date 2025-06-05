@@ -1,6 +1,7 @@
 ---
 title: Year 10 Surds warmup
 tags: teaching, mathematics, 2023
+template: math.html
 ---
 
 Prepare a warmup activity for a Year 10 surge class. Focus on simplifying surds. Part of a sequence of lessons revising for an imminent final exam.
@@ -17,7 +18,7 @@ Be able to answer questions that ask
 
 For example
 
-1. $$3\sqrt(27) =$ -- _take out any obvious square factors_
+1. $3\sqrt(27) =$ -- _take out any obvious square factors_
 
     - $= 3 \times ( \sqrt(9) \times \sqrt(3) )$
     - $= 3 \times 3 \times \sqrt(3)$

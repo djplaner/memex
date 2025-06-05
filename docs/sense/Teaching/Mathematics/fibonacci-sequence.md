@@ -1,5 +1,6 @@
 ﻿---
 title: Fibonacci sequence
+template: math.html
 ---
 References:  [Wikipedia](https://en.wikipedia.org/wiki/Fibonacci_sequence), [Math is fun](https://www.mathsisfun.com/numbers/fibonacci-sequence.html)
 
