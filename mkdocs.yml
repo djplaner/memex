@@ -69,9 +69,18 @@ markdown_extensions:
 #          case: lower
       permalink: '#' # heading anchor 
   - admonition
-  - codehilite:
-      guess_lang: false
-      linenums: false
+  - pymdownx.highlight:
+      use_pygments: true
+      auto_title: true
+      noclasses: false
+#      pygments_style: monokai
+#      linenums: false
+#      css_class: highlight
+#  - codehilite:
+#      guess_lang: True
+#      use_pygments: True
+#      noclasses: True
+#      pygments_style: github-dark
   - footnotes
   - meta
   - def_list

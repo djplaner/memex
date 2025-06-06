@@ -6,7 +6,7 @@ tags: colophon, about
 
 This [[digital-garden]] serves [the author's](https://djon.es/blog/about-2/) personal knowledge management ([[pkm]]) and publishing needs. For more:
 
-- Following for the how, why, and evolution of this site. 
+- Below for the how, why, and evolution of this site. 
 - [[related-work|Related work]] for more of the inspiration for this work.
 
 ## How?
@@ -42,15 +42,17 @@ Other functionality includes:
 
 Improvements being worked on or thought about, include:
 
-- [[improve-static-search]] - replace the default MkDocs search with a lighter-weight search engine.
-- [[add-a-mathematics-template]] to include MathJax when required.
 - [[publishing-graph-interface]] - adding an interface option to navigate the inter-connected bubbles of the site using a network graph.
 - [[statistics-and-analytics]] - exploring how to improve statistics and analytics for the site and the blog.
-- [[comments-webmentions]]
-- [[add-activity-pub]] - have the blog post/retrieve comments via ActivityPub.
+- [[comments-webmentions]] and/or [[add-activity-pub]] - have the blog post/retrieve comments via ActivityPub.
 - expand recent changes
 
     - Stand alone page that lists all changes, provides graphical representations of frequency etc.
+
+Completed
+
+- [[improve-static-search]] - replace the default MkDocs search with a lighter-weight search engine.
+- [[add-a-mathematics-template]] to include MathJax when required.
 
 ## Why?
 
@@ -114,11 +116,12 @@ Timed with an increased focus on leveraging this site for my [personal learning 
 [related-work|Related work]: related-work "Related work"
 [computational-components]: computational-components "Computational components"
 [recent-changes]: recent-changes "Recent changes"
-[improve-static-search]: improve-static-search "Improve static search"
 [publishing-graph-interface]: publishing-graph-interface "Publishing graph interface"
 [statistics-and-analytics]: statistics-and-analytics "Statistics and Analytics"
 [comments-webmentions]: comments-webmentions "Comments, webmentions, pingbacks etc"
 [add-activity-pub]: add-activity-pub "Adding ActivityPub to the blog"
+[improve-static-search]: improve-static-search "Improve static search"
+[add-a-mathematics-template]: add-a-mathematics-template "Add a mathematics template"
 [ideas-events-people]: ../sense/quote-collection/ideas-events-people "Great Minds Discuss Ideas; Average Minds Discuss Events; Small Minds Discuss People"
 [note-taking-strategies]: note-taking-strategies "Note taking strategies"
 [version-3-memex-design]: version-3-memex-design "Memex - Version 3"

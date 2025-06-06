@@ -114,10 +114,18 @@ background: linear-gradient(138deg,rgba(10, 4, 4, 1) 20%, rgba(34, 34, 48, 1) 63
   --md-code-bg-color: transparent;
   --md-post-item-bg-color: #111144;
   --md-typeset-table-color: #aaaaaa;
-    --md-code-hl-punctuation-color: #ffffff;
-    --md-code-hl-variable-color: #ffffff;
-    --md-code-hl-operator-color: #ffffff;
-    --md-code-hl-comment-color: #888888;
+
+    --md-code-fg-color: #e6edf3;
+   --md-code-hl-name-color: #f0883e;
+   --md-code-hl-variable-color: #79c0ff;
+   --md-code-hl-operator-color: #ff7b72;
+   --md-code-hl-comment-color: #8b949e;
+   --md-code-hl-punctuation-color: #aaaaaa;
+   --md-code-hl-keyword-color: #ff7b72; 
+   --md-code-hl-string-color: #a5d6ff; BLUE_1
+
+   
+
       --md-search-fg-color: #ffffff;
   --md-search-bg-color: #000000;
   /*--md-shadow-z2: 0 0.2rem 0.5rem #0000001a,0 0 0.05rem #00000040;*/
@@ -459,3 +467,4 @@ blockquote {
 .micromodal-slide .modal__overlay {
   will-change: transform;
 }
+
