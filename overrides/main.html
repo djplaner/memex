@@ -13,7 +13,6 @@
 
 
 <script type="text/javascript">
-//$(document).ready(function() {
 document.addEventListener('DOMContentLoaded', function() {
     console.log("DOM Content loaded ")
     new PagefindUI({
@@ -24,19 +23,14 @@ document.addEventListener('DOMContentLoaded', function() {
     })
 	MicroModal.init()
 
-//	$('.nav-link-search').click(function(ev) {
     document.querySelector('#nav-link-search').addEventListener('click', function(ev) {
 	        ev.preventDefault()
-         console.log("search link clicked ")
-
 	  MicroModal.show('modal-1', {
 	  		onClose: function() { 
-                console.log("search modal closed")
                 document.querySelector('#nav-link-search').blur(); 
             },
 	  		disableFocus: true
 	  })
-
 	  document.querySelector('.pagefind-ui__search-input').focus()
 	});
 

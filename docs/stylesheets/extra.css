@@ -84,14 +84,12 @@ background: linear-gradient(138deg,rgba(10, 4, 4, 1) 20%, rgba(34, 34, 48, 1) 63
  }
 }
 
-
-
-    .memex-image {
-      max-width: 100%;
-      height: auto;
-      margin: 0px;
-      padding: 0px;
-    }
+.memex-image {
+  max-width: 100%;
+  height: auto;
+  margin: 0px;
+  padding: 0px;
+}
 
   /*--md-primary-bg-color: #ffffff; */
  [data-md-color-scheme="memexdark"] {
@@ -122,9 +120,7 @@ background: linear-gradient(138deg,rgba(10, 4, 4, 1) 20%, rgba(34, 34, 48, 1) 63
    --md-code-hl-comment-color: #8b949e;
    --md-code-hl-punctuation-color: #aaaaaa;
    --md-code-hl-keyword-color: #ff7b72; 
-   --md-code-hl-string-color: #a5d6ff; BLUE_1
-
-   
+   --md-code-hl-string-color: #a5d6ff; 
 
       --md-search-fg-color: #ffffff;
   --md-search-bg-color: #000000;
@@ -162,24 +158,16 @@ background: linear-gradient(138deg,rgba(10, 4, 4, 1) 20%, rgba(34, 34, 48, 1) 63
   --md-search-fg-color: #000000;
   --md-search-bg-color: #ffffff;
 
-/*  --md-typeset-table-color: #aaaaaa;
-    --md-code-hl-punctuation-color: #ffffff;
-    --md-code-hl-variable-color: #ffffff;
-    --md-code-hl-operator-color: #ffffff; */
-
-   --pagefind-ui-primary: #eeeeee;
+  --pagefind-ui-primary: #eeeeee;
   --pagefind-ui-background: #eeeeee;
   --pagefind-ui-text: #152028;
   --pagefind-ui-border: #152028;
   --pagefind-ui-tag: #152028;
-
-
 }
 
 blockquote {
   padding-left: 1rem
 }
-
   
   .tabbed-content {
     padding: 0.5rem;
