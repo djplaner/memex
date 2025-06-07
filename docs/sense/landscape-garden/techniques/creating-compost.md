@@ -11,6 +11,8 @@ How to speed up the process of decomposing organic matter into compost.
 
 ## Compost at [[wood-duck-meadows]]
 
+### Design
+
 Our first larger scale attempt is inspired by the [Weedy Gardner's approach](https://www.youtube.com/watch?v=IV_kkJy3s3Q&) and reusing existing materials on the property. Four meter by one meter bays with walls formed by galvanised iron sheets kept in place by star pickets. Required components are:
 
 - 2 x 4 meter galvanised iron sheets
@@ -22,6 +24,19 @@ Our first larger scale attempt is inspired by the [Weedy Gardner's approach](htt
 <figure markdown>
 ![Compost bay design for Wood duck meadows](images/compost.gif)
 <caption>Initial design for compost bays at [[wood-duck-meadows]]</caption>
+</figure>
+
+
+### Construction
+
+<figure markdown>
+![](images/compost-frame.jpeg)
+<caption>The star pickets for the frame are up</caption>
+</figure>
+
+<figure markdown>
+![](images/compost-first-bay.jpeg)
+<caption>The first bay is up</caption>
 </figure>
 
 ## Resources

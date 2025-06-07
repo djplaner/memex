@@ -23,6 +23,7 @@ On-going
   - fix up lightbox
     - need to add class "glightbox" to all images
        - do it in Javascript? or Python
+       - update the math.html template
 
 - Explore if/how to move images (blog and memex) out of git repo, into shared assets folder
 
