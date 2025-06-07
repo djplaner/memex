@@ -1,4 +1,4 @@
-﻿---
+---
 title: Getting started with memex
 ---
 ```toml

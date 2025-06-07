@@ -1,4 +1,4 @@
-﻿---
+---
 title: Gatherers, weavers and augmenters
 ---
 The presentation used our immediate challenge of migrating 1500+ course sites from Blackboard to Canvas to explore a broader and important challenge facing higher education. A challenge most recently expressed in the [Productivity Commission's "Advancing Prosperity" report](https://www.pc.gov.au/inquiries/completed/productivity/report) which includes recommendations to grow access to tertiary education while containing cost and improving quality. 

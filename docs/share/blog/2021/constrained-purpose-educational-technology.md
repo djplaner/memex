@@ -1,4 +1,4 @@
-﻿---
+---
 title: Problems with the constrained purpose of educational technologies and their
   orchestration
 ---

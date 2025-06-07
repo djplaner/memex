@@ -1,4 +1,4 @@
-﻿---
+---
 title: How Teachers’ Hidden Biases Are Hurting Our Girls
 ---
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Problems with Modular Thinking
 ---
 **TODO**

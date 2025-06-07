@@ -1,4 +1,4 @@
-﻿---
+---
 title: Design
 ---
 Bubble holding misc. thoughts about design.
@@ -115,7 +115,7 @@ Curriculum design
 [design-science-research]: design-science-research "Design Science Research"
 [conceptualising-educational-design]: ../../share/blog/2023/conceptualising-educational-design "Conceptualising education design practice - where do we fit?"
 [learning-design-ontologies]: learning-design-ontologies "Learning Design Ontologies"
-[meso-level]: meso-level "Meso-level"
+[meso-level]: meso-level "Meso-level "
 [evolution-of-design-for-learning]: evolution-of-design-for-learning "Evolution of design for learning"
 [design-for-learning]: design-for-learning "Design for learning"
 [forward-oriented-design]: ../concepts/forward-oriented-design "Forward-oriented design"
@@ -123,7 +123,7 @@ Curriculum design
 [automating-instructional-design]: automating-instructional-design "Automating instructional design"
 [representing-learning-designs]: representing-learning-designs "Representing learning designs"
 [universal-design-for-learning]: universal-design-for-learning "Universal Design for Learning"
-[meso-ecological]: meso-ecological "Meso-level from an ecological perspective"
+[meso-ecological]: meso-ecological "Meso-level from an ecological perspective "
 [abc-learning-design-explained]: abc-learning-design-explained "ABC learning design explained"
 [sharing-the-abc-approach]: sharing-the-abc-approach "Sharing the ABC Approach"
 [abc-learning-design-and-acad]: abc-learning-design-and-acad "ABC Learning Design and ACAD"
@@ -135,7 +135,7 @@ Curriculum design
 [canvas-resources]: canvas/canvas-resources "Canvas resources"
 [canvas-rubrics]: canvas/canvas-rubrics "Canvas Rubrics"
 [canvas-models]: canvas/canvas-models "Canvas models"
-[canvas-api]: canvas/canvas-api "canvas-api"
+[canvas-api]: canvas/canvas-api "# Canvas LMS API"
 [growing-with-canvas]: canvas/growing-with-canvas "Growing with Canvas"
 [training-learning-paths]: canvas/training-learning-paths "Creating learning paths"
 [design-plus-training]: canvas/design-plus-training "Design Plus Training"
@@ -152,7 +152,7 @@ Curriculum design
 [guiyang-china-generative-building-blocks]: guiyang-china-generative-building-blocks "Guiyang China Generative Building Blocks"
 [three-horizons-model]: three-horizons-model "Three Horizons Model"
 [types-of-content-interaction]: types-of-content-interaction "Taxonomy of student-to-content interactions strategies"
-[cognitive-drift]: cognitive-drift "cognitive-drift"
+[cognitive-drift]: cognitive-drift "Cognitive drift"
 [project-to-product]: project-to-product "Project to Product"
 [challenge-of-teachers-design-practice]: challenge-of-teachers-design-practice "Challenge of Teachers' Design Practice"
 [understanding-university-teachers-design-work]: understanding-university-teachers-design-work "Understanding University Teachers Design Work"

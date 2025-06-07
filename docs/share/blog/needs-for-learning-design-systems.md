@@ -1,4 +1,4 @@
-﻿---
+---
 title: Needs for Learning Design Systems
 ---
 The 2020 rush to emergency online teaching...

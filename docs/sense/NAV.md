@@ -1,4 +1,4 @@
-﻿---
+---
 title: No title found
 ---
 * [Sense](sense.md)

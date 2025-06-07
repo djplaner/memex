@@ -30,7 +30,7 @@ The "roundabout" is a small section that splits the [[gatton-creek-frontage]] an
 [rocky-creek-frontage]: rocky-creek-frontage "Rocky Creek Frontage"
 [madeira-vine]: plants/madeira-vine "Madeira vine (Anredera cordifolia)"
 [cats-claw-creeper]: plants/cats-claw-creeper "Cat's claw creeper (Dolichandra unguis-cati)"
-[macadamia-integrifolia]: plants/macadamia-integrifolia "Macadamia integrifolia"
+[macadamia-integrifolia]: plants/macadamia-integrifolia "Macadamia integrifolia (Queensland Nut)"
 [schinus-terebinthifolia]: plants/schinus-terebinthifolia "Schinus Terebinthifolia (Brazilian pepper tree)"
 [gleditsia-triacanthos]: plants/gleditsia-triacanthos "Gleditsia triacanthos (Honey Locust)"
 [privet]: plants/privet "Privet"

@@ -4,44 +4,36 @@
 {% block extrahead %}
 <script data-goatcounter="https://djones.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>
-<!-- <meta http-equiv="Content-Security-Policy" content="default-src 'self'; style-src 'self' fonts.googleapis.com unsafe-inline ; font-src fonts.gstatic.com unsafe-inline; img-src 'self' mirrors.creativecommons.org data: w3.org/svg/2000; script-src  'self' https://gc.zgo.at https://cdn.jsdelivr.net https://unpkg.com ; connect-src 'self' https://djones.goatcounter.com/count; ">  -->
+<meta http-equiv="Content-Security-Policy"
+  content="default-src 'self'; style-src 'self' fonts.googleapis.com; font-src fonts.gstatic.com ; img-src 'self' mirrors.creativecommons.org data: w3.org/svg/2000;; script-src  'self' https://gc.zgo.at https://cdn.jsdelivr.net https://unpkg.com 'sha256-fIdRfgR2/VyFYkfbR8H4Cxej768gNv5mPC22BSGJSd4=' 'wasm-unsafe-eval'; connect-src 'self' https://djones.goatcounter.com/count https://api.github.com; ">
 
-<!-- <link rel="stylesheet" href="/memex/pagefind/pagefind-ui.css">
-<script src="/memex/pagefind/pagefind-ui.js" type="text/javascript"></script> -->
 <script src="https://cdn.jsdelivr.net/npm/micromodal/dist/micromodal.min.js"></script>
 
-
-
-<script type="text/javascript">
-//$(document).ready(function() {
-document.addEventListener('DOMContentLoaded', function() {
-    console.log("DOM Content loaded ")
+<script type="text/javascript" integrity="sha256-fIdRfgR2/VyFYkfbR8H4Cxej768gNv5mPC22BSGJSd4=" crossorigin="anonymous">
+  document.addEventListener('DOMContentLoaded', function () {
     new PagefindUI({
-        element: "#search",
-        pageSize: 5,
-        showSubResults: true,
-        showImages: false,
+      element: "#search",
+      pageSize: 5,
+      showSubResults: true,
+      showImages: false,
     })
-	MicroModal.init()
+    MicroModal.init()
 
-//	$('.nav-link-search').click(function(ev) {
-    document.querySelector('#nav-link-search').addEventListener('click', function(ev) {
-	        ev.preventDefault()
-         console.log("search link clicked ")
+    document.querySelector('#nav-link-search').addEventListener('click', function (ev) {
+      ev.preventDefault()
+      MicroModal.show('modal-1', {
+        onClose: function () {
+          document.querySelector('#nav-link-search').blur();
+        },
+        disableFocus: true
+      })
+      document.querySelector('.pagefind-ui__search-input').focus()
+    });
 
-	  MicroModal.show('modal-1', {
-	  		onClose: function() { 
-                console.log("search modal closed")
-                document.querySelector('#nav-link-search').blur(); 
-            },
-	  		disableFocus: true
-	  })
-
-	  document.querySelector('.pagefind-ui__search-input').focus()
-	});
-
-}, false);
+  }, false);
 </script>
+
+
 {% endblock %}
 
 

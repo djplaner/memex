@@ -1,4 +1,4 @@
-﻿---
+---
 title: Where's the digital?
 ---
 # Where's the digital?

@@ -1,4 +1,4 @@
-﻿---
+---
 title: The Relational Failings of Digital Technology
 ---
 ## As workplace learning

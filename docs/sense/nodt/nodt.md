@@ -50,7 +50,7 @@ Yoo, Y., Boland, R. J., Lyytinen, K., & Majchrzak, A. (2012). Organizing for Inn
 [moldable-first]: moldable-first "Moldable first"
 [overcoming-algorithm-aversion-(by-making-it-protean)]: overcoming-algorithm-aversion-(by-making-it-protean) "Overcoming algorithm aversion (by making it protean)"
 [three-obstacles-to-getting-started-with-programming]: three-obstacles-to-getting-started-with-programming "Three obstacles to getting started with programming"
-[ai-ponderings]: ai-ponderings "Ponderings on AI"
+[ai-ponderings]: ai-ponderings "Ponderings on AI "
 [drons-technology]: drons-technology "Dron's take on technology"
 [protean]: ../concepts/protean "Protean"
 [digital-revolution]: digital-revolution "Digital Revolution"

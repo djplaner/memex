@@ -1,4 +1,4 @@
-﻿---
+---
 title: Cultural and Collective Brain Hypotheses 
 ---
 

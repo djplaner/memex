@@ -30,13 +30,13 @@ Other functionality includes:
 
 **Development** takes place on my Mac laptop within a local git repo of [Memex](https://github.com/djplaner/memex). Markdown files edited using VSCode with Foam and other extensions. Changes are committed with meaningful and semi-detailed comments that end up on the site via [[recent-changes]].
 
-**Testing** is done locally using `mkdocs serve` to run up the site locally. With some manual copying of search files to enable site search to work during testing.
+**Testing** is done locally using `mkdocs serve` to run up the site locally. With some semi-automated copying of search files to enable site search to work during testing.
 
-**Building** the site involves
+**Building** the site is done using a shell script which
 
-- Generating static HTML files in the `../memex_site` fodler using `mkdocs build`.
-- Generating static search files using `python -m pagefind --site ../memex_site`.
-- Adding and committing these changes to the "memex_site" repository and pushing the changes to a git repo hosted on personal site.
+- Generates static HTML files in the `../memex_site` folder using `mkdocs build`.
+- Generates static search files using `python -m pagefind --site ../memex_site`.
+- Copies the static HTML files to the live site.
 
 ### To do list
 

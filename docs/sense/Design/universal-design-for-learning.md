@@ -1,4 +1,4 @@
-﻿---
+---
 title: Universal Design for Learning
 ---
 

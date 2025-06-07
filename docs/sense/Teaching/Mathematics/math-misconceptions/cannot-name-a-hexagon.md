@@ -1,4 +1,4 @@
-﻿---
+---
 title: Cannot name a hexagon
 ---
 

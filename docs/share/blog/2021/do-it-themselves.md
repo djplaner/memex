@@ -1,4 +1,4 @@
-﻿---
+---
 title: '"Do it themselves" and technology/purpose mismatch'
 ---
 Or perhaps the "invisibility of purpose"

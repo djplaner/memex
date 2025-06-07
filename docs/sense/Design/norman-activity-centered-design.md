@@ -1,4 +1,4 @@
-﻿---
+---
 title: norman-activity-centered-design
 ---
 ## Norman

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Word to Canvas
 ---
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: My Publications
 ---
 A list of 30 formal academic publications. My [Google Scholar Profile](http://scholar.google.com/citations?user=k8DkjXIqUl4J) has more detail

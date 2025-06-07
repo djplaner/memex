@@ -1,4 +1,4 @@
-﻿---
+---
 title: Bill Rogers' - on the spot strategies
 ---
 Rogers (2005), p. 95

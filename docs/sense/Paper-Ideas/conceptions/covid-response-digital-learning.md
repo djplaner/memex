@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'COVID response what unis did '
 ---
 - COVID and broad economic, societal and personal impacts...but also L&T

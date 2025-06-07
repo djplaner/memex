@@ -127,7 +127,7 @@ The following provides a summary of the plant species we've come across on [[woo
 [manihot-grahamii]: manihot-grahamii "Manihot Grahamii (Graham's Manihot)"
 [senna-pendula]: senna-pendula "Senna pendula (Easter Cassia)"
 [solanum-americanum]: solanum-americanum "Solanum americanum (American black nightshade)"
-[talinum-paniculatum]: talinum-paniculatum "Talinum paniculatum"
+[talinum-paniculatum]: talinum-paniculatum "Talinum paniculatum (Pink baby's breath)"
 [ochna-serrulata]: ochna-serrulata "Ochna serrulata (Mickey Mouse Plant)"
 [arundo-donax]: arundo-donax "Arundo donax (Elephant Grass)"
 [megathyrsus-maximus]: megathyrsus-maximus "Megathyrsus maximus (Guinea grass)"

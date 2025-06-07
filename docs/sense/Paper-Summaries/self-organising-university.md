@@ -1,4 +1,4 @@
-﻿---
+---
 title: Self-organising university
 ---
 Summary of

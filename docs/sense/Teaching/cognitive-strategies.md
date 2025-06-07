@@ -1,4 +1,4 @@
-﻿---
+---
 title: Cognitive Strategies
 ---
 ## Three groups

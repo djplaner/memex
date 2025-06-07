@@ -1,4 +1,4 @@
-﻿---
+---
 title: Learning Sciences at Khan Academy 
 ---
 

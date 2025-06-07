@@ -127,13 +127,16 @@ plugins:
 extra_css:
   - stylesheets/extra.css
   - /memex/pagefind/pagefind-ui.css
+#  - https://cdn.jsdelivr.net/npm/glightbox@3.3.1/dist/css/glightbox.min.css
 extra_javascript:
   - /memex/pagefind/pagefind-ui.js
+#  - https://cdn.jsdelivr.net/npm/glightbox@3.3.1/dist/js/glightbox.min.js
 #  - javascripts/mathjax.js
 #  - https://polyfill.io/v3/polyfill.min.js?features=es6
 #  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
   - javascripts/tablesort.js #-- local loader
   - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js #-- support code
+#  - javascripts/glightbox.js #-- local loader
 extra:
   social:
 #  - icon: fontawesome/brands/twitter

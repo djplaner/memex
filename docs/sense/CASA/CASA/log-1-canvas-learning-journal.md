@@ -1,4 +1,4 @@
-﻿---
+---
 title: log-1-canvas-learning-journal
 ---
 ## Designing a Learning Journal CASA for Canvas

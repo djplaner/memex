@@ -1,4 +1,4 @@
-﻿---
+---
 title: No title found
 ---
 * [Wood Duck Meadows](wood-duck-meadows.md)

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Doer Effect
 ---
 [Source](https://research.vitalsource.com/research/doer-effect)

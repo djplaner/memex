@@ -1,4 +1,4 @@
-﻿---
+---
 title: Pondering Hax Web Components and Blackboard
 ---
 ```toml

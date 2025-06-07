@@ -88,7 +88,7 @@ Putting people at the centre of technology.
 [small-web]: small-web "Small Web"
 [computing-discipline-definitions]: computing-discipline-definitions "Definitions of computing related disciplines"
 [learning-computer-science]: learning-cs/learning-computer-science "Learning computer science"
-[decomposition]: decomposition "Decomposition"
+[decomposition]: decomposition "Decomposition "
 [pattern-recognition]: pattern-recognition "Pattern recognition"
 [abstraction]: abstraction "Abstraction"
 [algorithm-design]: algorithm-design "Algorithm design"

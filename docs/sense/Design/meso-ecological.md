@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Meso-level from an ecological perspective '
 ---
 ## Ellis and Goodyear (2009)

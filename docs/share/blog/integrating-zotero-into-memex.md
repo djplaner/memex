@@ -1,4 +1,4 @@
-﻿---
+---
 title: Integrating Zotero into Foam
 ---
 ```toml

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Concepts
 ---
 Holding space
@@ -40,7 +40,7 @@ Holding space
 [meta-Occam]: meta-occam "Meta Occam"
 [sociomaterialism]: sociomaterialism "Sociomaterialism"
 [disabling-professions]: disabling-professions "Disabling professions"
-[law-of-requisite-variety]: law-of-requisite-variety "Law of Requsite Variety"
+[law-of-requisite-variety]: law-of-requisite-variety "Law of Requisite Variety"
 [law-of-requisite-complexity]: law-of-requisite-complexity "Law of Requisite Complexity"
 [forward-oriented-design]: forward-oriented-design "Forward-oriented design"
 [education-40]: education-40 "Education 4.0"

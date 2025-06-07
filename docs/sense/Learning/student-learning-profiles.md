@@ -1,4 +1,4 @@
-﻿---
+---
 title: Student Learning Profiles 
 ---
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Distribution
 ---
 - [[evaluating-orchestration]]
@@ -49,7 +49,7 @@ title: Distribution
 [hacker-ethos-collective-intelligence]: hacker-ethos-collective-intelligence "Hacker Ethos as Collective Intelligence"
 [forest-for-the-trees]: forest-for-the-trees "Forest for the trees"
 [trees-for-the-forest]: trees-for-the-forest "Trees for the forest"
-[coherent-pluralism]: coherent-pluralism "Coherent Pluralism"
+[coherent-pluralism]: coherent-pluralism "Coherent Pluralism "
 [subsidiarity]: subsidiarity "Subsidiarity"
 [assemblage-jones-2015]: assemblage-jones-2015 "Assemblage (Jones, 2015)"
 [assemblage]: assemblage "Assemblage"
@@ -72,7 +72,7 @@ title: Distribution
 [complexity-leadership]: complexity-leadership "Complexity leadership"
 [diversity]: diversity "Diversity"
 [emergence]: emergence "Emergence"
-[lived-complexity]: lived-complexity "lived-complexity"
+[lived-complexity]: lived-complexity "# Lived complexity"
 [blackboard-tweaks]: blackboard-tweaks "Blackboard tweaks"
 [ngdle---next-generation-digital-learning-environment]: ngdle---next-generation-digital-learning-environment "NGDLE - Next Generation Digital Learning Environment"
 [third-space]: third-space "Third space"

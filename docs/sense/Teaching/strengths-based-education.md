@@ -1,4 +1,4 @@
-﻿---
+---
 title: strengths-based-education
 ---
 id Jones

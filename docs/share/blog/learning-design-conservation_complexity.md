@@ -1,4 +1,4 @@
-﻿---
+---
 title: Learning activities and issues with the conservation of complexity
 ---
 PIVOT has happened. Reflection happening. Transition done. But issues are arising about the quality and sustainability of what has happened (LMS and video conferencing). Aim is to understan what's next through applying insights from Tesler's law - The Law of Conservation of Compelxity - as it applies to learning activities.

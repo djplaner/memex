@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Gatherers, Weavers and Augmenters: Three principles for dynamic and sustainable
   delivery of quality learning and teaching'
 ---

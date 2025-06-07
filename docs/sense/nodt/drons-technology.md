@@ -1,4 +1,4 @@
-﻿---
+---
 title: Dron's take on technology
 ---
 What is educational technology?

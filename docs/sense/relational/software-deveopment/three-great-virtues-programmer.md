@@ -1,4 +1,4 @@
-﻿---
+---
 title: Three great virtues of a programmer
 ---
 [Initial description](https://wiki.c2.com/?LazinessImpatienceHubris) with glossary taken from _Programming Perl_

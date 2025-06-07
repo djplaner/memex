@@ -1,4 +1,4 @@
-﻿---
+---
 title: Math Facts
 ---
 e.g. 8 x 4 = 32 is a mathematical fact.

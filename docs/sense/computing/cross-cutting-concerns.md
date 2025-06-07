@@ -1,4 +1,4 @@
-﻿---
+---
 title: Cross cutting concerns 
 ---
 

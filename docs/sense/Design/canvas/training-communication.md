@@ -1,4 +1,4 @@
-﻿---
+---
 title: Canvas training communication
 ---
 - Communicating for online learning

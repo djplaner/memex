@@ -1,4 +1,4 @@
-﻿---
+---
 title: Definitions of computing related disciplines 
 ---
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Inquiry Learning
 ---
 ## Guided inquiry

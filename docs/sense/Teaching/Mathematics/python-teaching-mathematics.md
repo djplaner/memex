@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Python for teaching mathematics '
 ---
 ## Research 

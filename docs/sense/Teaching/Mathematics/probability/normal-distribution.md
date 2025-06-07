@@ -1,4 +1,4 @@
-﻿---
+---
 title: Normal (Gaussian) distribution
 ---
 

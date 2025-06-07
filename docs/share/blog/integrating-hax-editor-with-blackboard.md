@@ -1,4 +1,4 @@
-﻿---
+---
 title: Integrating Hax Editor with Blackboard
 ---
 ```toml

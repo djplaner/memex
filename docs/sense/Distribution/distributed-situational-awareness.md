@@ -1,4 +1,4 @@
-﻿---
+---
 title: Distributed Situational Awareness
 ---
 ## Salmon et al (2022)

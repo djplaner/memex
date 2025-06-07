@@ -1,4 +1,4 @@
-﻿---
+---
 title: Programming Languages
 ---
 ## Popularity of programming languages

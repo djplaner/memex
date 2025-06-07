@@ -1,4 +1,4 @@
-﻿---
+---
 title: Ateleological versus teleological
 ---
 Introna (1996) proposed a distinction between ateleological and teleoogical design.

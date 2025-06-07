@@ -1,4 +1,4 @@
-﻿---
+---
 title: Laws of Software Evolution
 ---
 ## Programs, life cycles, and laws of software evolution

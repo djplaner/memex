@@ -1,4 +1,4 @@
-﻿---
+---
 title: Fibonacci sequence
 template: math.html
 ---

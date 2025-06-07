@@ -1,4 +1,4 @@
-﻿---
+---
 title: Pygmalion Effect (aka "Rosenthal effect")
 ---
 # Pygmalion Effect (aka "Rosenthal effect")

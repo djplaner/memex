@@ -1,4 +1,4 @@
-﻿---
+---
 title: Boots theory
 ---
 

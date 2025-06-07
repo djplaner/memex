@@ -1,4 +1,4 @@
-﻿---
+---
 title: Chunking learning
 ---
 The basic idea is not ensure learners are presented information/learning in a way that fits with the capabilities of their brains/intelligences. Cognitive load theory ([not without it's problems](https://www.worklearning.com/2010/09/14/cognitive-load-theory-coming-under-withering-attacks/)) etc suggests that we can only deal with limited new information.

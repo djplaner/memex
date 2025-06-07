@@ -20,9 +20,10 @@ On-going
 - work on [[assemblage]]
 - Add visual progress representations to [[computational-components]] used during mkdocs build
 - Add CSP for memex
-- Move static site transfer from git to scp
-     rsync -avz . ssh://djones@djon.es:/home/djones/public_html/memex/
-     ssh://djones@djon.es/home/djones/public_html/blog/
+  - fix up lightbox
+    - need to add class "glightbox" to all images
+       - do it in Javascript? or Python
+
 - Explore if/how to move images (blog and memex) out of git repo, into shared assets folder
 
 Memex tasks

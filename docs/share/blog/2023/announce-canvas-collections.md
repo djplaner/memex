@@ -1,4 +1,4 @@
-﻿---
+---
 title: Announcing (finally) Canvas Collections
 ---
 ```toml

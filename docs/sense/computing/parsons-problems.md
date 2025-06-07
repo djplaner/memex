@@ -1,4 +1,4 @@
-﻿---
+---
 title: Parson's problems
 ---
 

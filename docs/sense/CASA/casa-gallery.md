@@ -1,4 +1,4 @@
-﻿---
+---
 title: CASA Gallery
 type: note
 tags:
@@ -42,8 +42,8 @@ A place to dump various ideas and examples for [[casa]]
 [hax]: CASA/hax "HAX "
 [canvas-learning-journal]: CASA/canvas-learning-journal "Canvas Learning Journal"
 [vue-canvas-learning-journal]: vue-canvas-learning-journal "Canvas Learning Journal - Vue implementation"
-[canvas-collections]: CASA/canvas-collections "No title found"
-[word-to-canvas]: CASA/word-to-canvas "No title found"
+[canvas-collections]: CASA/canvas-collections "Canvas Collections"
+[word-to-canvas]: CASA/word-to-canvas "Word to Canvas"
 [mathematics-in-canvas]: mathematics-in-canvas "Mathematics in Canvas"
 [exploring-australian-curriculum]: ../Python/exploring-australian-curriculum "Exploring australian curriculum"
 [mathematical-examples-generator]: mathematical-examples-generator "Mathematical Examples Generator"

@@ -1,4 +1,4 @@
-﻿---
+---
 title: javascript-design-patterns
 ---
 ## Resources
