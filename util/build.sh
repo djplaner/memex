@@ -8,3 +8,11 @@ python3 -m pagefind --site ~/memex_site
 rm -rf ~/memex/docs/pagefind
 # update ~/memex pagefind index
 cp -pfr ~/memex_site/pagefind ~/memex/docs/pagefind
+# if --push is passed, push the changes to the remote repository
+if [[ "$1" == "--push" ]]; then
+    cd ~/memex_site
+    ssh djones@djon.es "rm -rf /home/djones/public_html/memex/pagefind/"
+    rsync -avPh . djones@djon.es:/home/djones/public_html/memex/
+    cd ~/memex
+fi
+

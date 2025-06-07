@@ -2,6 +2,10 @@
   font-size: calc(125% * 1.1); /* <- 1.1 equals + 10% – adjust to taste */
 }
 
+.nav-label {
+  display: block;
+}
+
 [data-md-color-scheme="memexdark"] .md-typeset .grid.cards>ol>li, .md-typeset .grid.cards>ul>li, .md-typeset .grid>.card {
     border: none;
     background: #000000;

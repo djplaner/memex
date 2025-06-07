@@ -103,7 +103,7 @@ markdown_extensions:
   - pymdownx.progressbar
 plugins:
 #  - search
-  - glightbox
+#  - glightbox
   - mkdocs-video
   - mkdocs-pdf
   - gen-files:

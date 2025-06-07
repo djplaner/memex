@@ -42,10 +42,10 @@
     {% if config.extra.alternate %}
       {% include "partials/alternate.html" %}
     {% endif %}
-      <a href="#" id="nav-link-search">
-        <label class="md-header__button md-icon" for="__search" style="display: block">
-          {% include ".icons/material/magnify.svg" %}
-        </label>
+    <a href="#" id="nav-link-search">
+      <label class="md-icon nav-label" for="__search">
+        {% include ".icons/material/magnify.svg" %}
+      </label>
     </a>
     {% if config.repo_url %}
       <div class="md-header__source">

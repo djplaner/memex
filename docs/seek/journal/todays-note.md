@@ -9,6 +9,7 @@ tags:
 ### To do
 
 [[wood-duck-meadows]]
+
 - [[creating-compost]]
 
 On-going
@@ -18,10 +19,11 @@ On-going
 - Update the "Made with Material for Mkdocs" to be more assemblage oriented
 - work on [[assemblage]]
 - Add visual progress representations to [[computational-components]] used during mkdocs build
-
-Minor editing tweaks
-
-- Rejig [[colophon]] to better summarise the technology/process involved
+- Add CSP for memex
+- Move static site transfer from git to scp
+     rsync -avz . ssh://djones@djon.es:/home/djones/public_html/memex/
+     ssh://djones@djon.es/home/djones/public_html/blog/
+- Explore if/how to move images (blog and memex) out of git repo, into shared assets folder
 
 Memex tasks
 
@@ -91,7 +93,6 @@ Questions
 [loose]: ../../sense/loose/loose "Loose notes"
 [assemblage]: ../../sense/Distribution/assemblage "Assemblage"
 [computational-components]: ../../colophon/computational-components "Computational components"
-[colophon]: ../../colophon/colophon "About (Colophon)"
 [creative-coding-with-python]: ../../sense/Python/creative-coding-with-python "Creative coding experiments"
 [ed-tech-some-missing-flavours]: ../../share/blog/2023/ed-tech-some-missing-flavours "Ed tech - some missing flavours"
 [hax-as-casa]: ../../sense/CASA/CASA/hax-as-casa "H-A-X as CASA?"
