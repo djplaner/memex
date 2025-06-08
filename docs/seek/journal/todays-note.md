@@ -15,6 +15,8 @@ tags:
 On-going
 
 - [[move-images-out-of-git]]
+  - birding images and other generated documents (can include images) and aren't being picked up by corpusActions
+- Revisit glightbox configuration to reduce size of lightbox images 
 - Process the [sense list](#sense)
 - Refine/merge/handle [[random-notes]] and [[loose]] notes
 - Update the "Made with Material for Mkdocs" to be more assemblage oriented

@@ -18,9 +18,10 @@ Necessary steps in the process, include:
 
 1. [x] [Relocate the images outside of the git repo](#relocate-the-images-outside-of-the-git-repo)
 2. [x] [Update the links in the markdown files](#update-the-links-in-the-markdown-files)
-3. [x] [Copy the images to the web server](#copy-the-images-to-the-web-server)
-4. [x] [Test the links](#test-the-links)
-5. [ ] [Remove the images from the git repo](#remove-the-images-from-the-git-repo)
+3. [x] Copy the images to the web server
+5. [x] Test the links
+6. [x] Update the auto generated pages
+7. [ ] Remove the images from the git repo
 
 ## Relocate the images outside of the git repo
 
@@ -44,6 +45,28 @@ Python script to read all Markdown files, find images and update local (largely 
 ## Copy the images to the web server
 
 ## Test the links
+
+## Update the auto generated pages
+
+Generators
+
+- woodDuck.py - `sense/landscape-garden/wood-duck-gallery.md`
+    - Getting the right images
+    - related links hard coded
+- lifeList.py
+    - gallery page - `birdwatching/life-list-gallery.md`
+      - correct images 
+      - related links hard coded
+    - life list page - `birdwatching/life-list.md`
+    - individual bird pages `birdwatching/<birdName>.md`
+      -  correct image
+
+Related links could be hard-coded into YAML front matter.
+
+        - backlinks
+            - url: <absolute filepath to a bubble pointing to current>
+              title: <title of the bubble> 
+
 
 ## Remove the images from the git repo
 

@@ -74,9 +74,16 @@ def generatePage(zonePages, plantsPages, individualPlantPages):
     """
 
     with mkdocs_gen_files.open("sense/landscape-garden/wood-duck-gallery.md", "w") as f:
-        f.write(f"""# Wood duck meadows gallery
-
-See also: [[wood-duck-meadows]]
+        f.write(f"""---
+title: Wood duck meadows gallery
+type: gallery
+tags:
+    - wood-duck-meadows
+    - gallery
+backlinks:
+    - url: /memex/sense/landscape-garden/wood-duck-meadows.html
+      title: Wood duck meadows
+---
 
 A dynamically generated gallery of all the photos from the pages associated with the zones and plants of [[wood-duck-meadows]]. An early exploration into integrating "[[computational-components]]" into the site.
 

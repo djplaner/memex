@@ -382,6 +382,7 @@ def updateFrontMatterBackLinks(bubbles, backLinks):
         # Not sure if this test is all that important, given that changes
         # might appear to be happening in memory
         if destinationFilePath not in bubbles:
+            continue
             raise ValueError(f"Destination file path {destinationFilePath} not found in bubbles")
         if backlinks == bubbles[destinationFilePath]['yaml'].get('backlinks', []):
             continue
