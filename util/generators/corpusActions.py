@@ -454,6 +454,6 @@ config = configure()
 bubbles = retrieveMemexBubbles()
 #addYamlFrontMatter(bubbles)
 backLinks = generateBackLinks(bubbles)
-#updateFrontMatterBackLinks(bubbles, backLinks)
+updateFrontMatterBackLinks(bubbles, backLinks)
 
 #moveImages(bubbles)
