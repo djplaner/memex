@@ -156,7 +156,7 @@ nav:
 #    - Seek: seek/seek.md
 #    - Sense: sense/sense.md
 #    - Share: share/share.md
-  - About: colophon/colophon.md
+  - Colophon: colophon/colophon.md
 
 validation:
   nav:

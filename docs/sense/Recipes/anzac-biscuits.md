@@ -25,6 +25,6 @@ title: Anzac Biscuits
 
 ## Original
 
-![](images/anzacBiscuits.png)
+![](https://djon.es/assets/memex/sense/Recipes/images/anzacBiscuits.png)
 
 ![](images/anzacBiscuits2.png)
