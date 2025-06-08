@@ -22,6 +22,7 @@ Necessary steps in the process, include:
 5. [x] Test the links
 6. [x] Update the auto generated pages
 7. [ ] Remove the images from the git repo
+    - Remove the existing images from the git repo
 
 ## Relocate the images outside of the git repo
 
@@ -41,33 +42,3 @@ TODO
 ## Update the links in the markdown files
 
 Python script to read all Markdown files, find images and update local (largely relative) links to absolute `/assets/memex/<path>/<fileName>` links.
-
-## Copy the images to the web server
-
-## Test the links
-
-## Update the auto generated pages
-
-Generators
-
-- woodDuck.py - `sense/landscape-garden/wood-duck-gallery.md`
-    - Getting the right images
-    - related links hard coded
-- lifeList.py
-    - gallery page - `birdwatching/life-list-gallery.md`
-      - correct images 
-      - related links hard coded
-    - life list page - `birdwatching/life-list.md`
-    - individual bird pages `birdwatching/<birdName>.md`
-      -  correct image
-
-Related links could be hard-coded into YAML front matter.
-
-        - backlinks
-            - url: <absolute filepath to a bubble pointing to current>
-              title: <title of the bubble> 
-
-
-## Remove the images from the git repo
-
-Perhaps not just the current and future removal, but also historically?

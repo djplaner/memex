@@ -14,7 +14,7 @@ Python script using the `mkdocs-gen-files` plugin to generate a gallery page con
 2. [[plants]] - Photos appearing on pages linked from the [[plants]] page.
 3. [[individual-plants]] - Photos on pages linked from the [[individual-plants]] page
 
-The resulting page will mirror the user-experience of the [[old-life-list-gallery]]:
+The resulting page will mirror the user-experience of the [life-list-gallery](../sense/birdwatching/life-list-gallery) page.
 
 - A markdown page containing a list of photos.
 - Use of glightbox plugin to provide a gallery feature to allow user to step through just the photos.
