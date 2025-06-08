@@ -1,9 +1,9 @@
----
+﻿---
 title: Self Regulated Learning
 ---
 ## Zimmerman
 
-![Self-regulated learning - Figure created by Dr Sakinah Alhadad and Goksu Dines based on Zimmerman's sociocognitive framework of self-regulated learning.](images/self-regulated-learning.png)
+![Self-regulated learning - Figure created by Dr Sakinah Alhadad and Goksu Dines based on Zimmerman's sociocognitive framework of self-regulated learning.](https://djon.es/assets/memex/sense/Learning/images/self-regulated-learning.png)
 
 Note: Figure created by Dr Sakinah Alhadad and Goksu Dines based on Zimmerman's sociocognitive framework of self-regulated learning.  It's actually a h5p item which includes more guidance summarised here
 
@@ -34,7 +34,7 @@ Pandero describes Zimmerman's model as containing the cyclical three steps:
 
 But offers this table which suggests there is more to it. 
 
-![Adapted from Pandero (2017, p. 422](images/zimmerman.png)
+![Adapted from Pandero (2017, p. 422](https://djon.es/assets/memex/sense/Learning/images/zimmerman.png)
 
 ## References
 

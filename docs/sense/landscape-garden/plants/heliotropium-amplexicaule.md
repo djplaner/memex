@@ -1,11 +1,12 @@
----
+﻿---
+tags:
+- plant
+- weed
+- introduced
+- wood-duck-meadows
 title: Heliotropium amplexicaule (Clasping heliotrope)
 type: plant
-tags: [ 'plant', 'weed', 'introduced', 'wood-duck-meadows' ]
 ---
-
-
-
 [Heliotropium amplexicaule](https://en.wikipedia.org/wiki/Heliotropium_amplexicaule) a clumpy perennial herb native to South America and an [environmental weed](https://weeds.brisbane.qld.gov.au/weeds/blue-heliotrope) in Queensland.
 
 ## History at Wood duck meadows
@@ -13,7 +14,7 @@ tags: [ 'plant', 'weed', 'introduced', 'wood-duck-meadows' ]
 First identified around [[the-dam]] bank in March 2025. Potentially arriving on the place via road run-off.
 
 <figure markdown>
-![Bright purple flowers over green leaves](images/clasping-heliotrope.jpeg)
+![Bright purple flowers over green leaves](https://djon.es/assets/memex/sense/landscape-garden/plants/images/clasping-heliotrope.jpeg)
 <caption>Clasping heliotrope on [[the-dam]] bank in March 2025</caption>
 </figure>
 

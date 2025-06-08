@@ -1,26 +1,26 @@
----
-title: Ficus obliqua (Small-leaved fig)
-type: single-plant
-tags: ['ficus', 'fig', 'wood-duck-meadows']
+﻿---
 latitude: -27.53784332426967
 longitude: 152.0567883086875
 photos:
   1:
-      title: None
-      filename: 8BCF8062-DC0E-402B-86BC-898764C2A9C7.heic
-      latitude: -27.538378333333334
-      longitude: 152.05587783333334
-      description: None
-      date: 2025-03-31 16:58:22
-      memexFilename: images/ficus-obliqua-berm/1.jpeg
+    date: 2025-03-31 16:58:22
+    description: None
+    filename: 8BCF8062-DC0E-402B-86BC-898764C2A9C7.heic
+    latitude: -27.538378333333334
+    longitude: 152.05587783333334
+    memexFilename: images/ficus-obliqua-berm/1.jpeg
+    title: None
+tags:
+- ficus
+- fig
+- wood-duck-meadows
+title: Ficus obliqua (Small-leaved fig)
+type: single-plant
 ---
-
-
-
 This [[ficus-obliqua]] and the [[corymbia-torelliana]] (soon to be culled) were the two original trees on the [[fig-tree-berm]]. As the fruit ripens from April onward the [[australasianFigbird]] is a regular visitor. 
 
 <figure markdown>
-![Close up of the leaves and unripe fruit of the Small-leaved fig](images/ficus-obliqua-berm/1.jpeg)
+![Close up of the leaves and unripe fruit of the Small-leaved fig](https://djon.es/assets/memex/sense/landscape-garden/individual-plants/images/ficus-obliqua-berm/1.jpeg)
 <caption>Close up of the leaves and unripe fruit of the Small-leaved fig</caption>
 </figure>
 

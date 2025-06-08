@@ -1,15 +1,15 @@
----
+﻿---
+tags:
+- garden
+- plant
+- bunya-pine
 title: The original island bunya pine
-type: "single-plant"
-tags: ['garden', 'plant', 'bunya-pine']
+type: single-plant
 ---
-
-
-
 The original center piece of [[the-island]] at [[wood-duck-meadows]]. By the time we started work it had almost been entirely overgrown by [[asparagus-africanus]]. 
 
 <figure markdown>
-![The original island bunya pine](../plants/images/bunya-pine-live-vine.jpeg)
+![The original island bunya pine](https://djon.es/assets/memex/sense/landscape-garden/individual-plants/../plants/images/bunya-pine-live-vine.jpeg)
 <caption>The original island bunya pine when we started restoration</caption>
 </figure>
 

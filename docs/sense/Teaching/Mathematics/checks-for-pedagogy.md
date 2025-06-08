@@ -14,7 +14,7 @@ Mentions ideas related to [[low-floor-high-ceiling-wide-walls]], particularly Bo
 The following example (subset) of layers of abstraction is given. The example given moves from algebra down to numbers and quantities before engaging with algebra.
 
 <figure markdown>
-![](images/layers-of-mathematics-abstraction.png)
+![](https://djon.es/assets/memex/sense/Teaching/Mathematics/images/layers-of-mathematics-abstraction.png)
 <caption>Layers of abstraction</caption>
 </figure>
 

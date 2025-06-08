@@ -1,22 +1,19 @@
----
-title: The lower dam
-type: "zone"
+﻿---
 tags: gardens, landscape
+title: The lower dam
+type: zone
 ---
-
-
-
 The lower dam is located halfway along the [[rocky-creek-frontage]] next to [[pecan-corner]]. Formed by some historic earthworks done by previous owners to capture water running down the horse paddock slope toward the creek.
 
 <figure markdown>
-![Small dam half covered in azolla with the other half showing reflections of trees to the right. Pecan corner barely visible at the far end](./images/lower-dam.jpeg)
+![Small dam half covered in azolla with the other half showing reflections of trees to the right. Pecan corner barely visible at the far end](https://djon.es/assets/memex/sense/landscape-garden/./images/lower-dam.jpeg)
 <caption>A very full lower dam in April, 2025 a couple of big rain events showing signs of [[azolla]] for the first time</caption>
 </figure>
 
 ## Location
 
 <figure markdown>
-![Overview photo of Wood duck meadows with the ](./images/lower-dam-location.jpg)
+![Overview photo of Wood duck meadows with the ](https://djon.es/assets/memex/sense/landscape-garden/./images/lower-dam-location.jpg)
 <caption>Lower dam located half way along the [[rocky-creek-frontage]]</caption>
 </figure>
 

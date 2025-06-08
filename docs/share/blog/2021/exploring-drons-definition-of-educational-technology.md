@@ -3,7 +3,7 @@ title: Exploring Dron's definition of educational technology
 ---
 Pre-COVID the role of technology in learning and teaching in higher education was important. However, in 2020 it became core as part of the COVID response. Given the circumstances it is no surprise that chunks of that response were not that great. There was some good work. There was a lot of a "good enough for the situation" work. There was quite a bit that really sucked. For example,
 
-![Drake Hotline Bling Meme](images/privacy_proctoring.png)
+![Drake Hotline Bling Meme](https://djon.es/assets/memex/share/blog/2021/images/privacy_proctoring.png)
 
 Arugably, I'm not sure there's much difference from pre-COVID practice. Yes, COVID meant that the importance and spread of digital technology use was much, much higher. But, rapid adoption whilst responding to a pandemic was unlikely to be better (or as good?) qualitatively than previous practice. There just wasn't time for many to engage in the work required to question prior assumptions and redesign prior practices to suit the very different context and needs. Let alone harness technology transformatively.
 
@@ -82,7 +82,7 @@ Some assemblies of technologies are easier to orchestrate than others (e.g. the 
 
 For Dron, **pedagogies are a technology** and **education is a technology**. For some,
 
-![Them's fighting words](images/2021-05-01-13-18-26.png)
+![Them's fighting words](https://djon.es/assets/memex/share/blog/2021/images/2021-05-01-13-18-26.png)
 
 ### What is educational technology?
 
@@ -114,7 +114,7 @@ The technology that is the tutorial you are running, requires participation from
 
 Some technologies heavily pre-deterimine and restrict what form that participation takes. For example, the rigidity of the seating arrangements in the computer lab image above.  There is very limited capacity to creatively orchestrate the seating arrangement in the computer lab. The students participation is largely (but not entirely) limited to sitting in rows. The constraints this type of technology places on our behaviour leads Dron to label them as **hard** technologies. But even hard technologies can orchestrated in different ways by coparticipants. Which in turn lead to different orchestrations.
 
-![](images/computerLabRules.png)
+![](https://djon.es/assets/memex/share/blog/2021/images/computerLabRules.png)
 
 Other technologies allow and may require more active and creative orchestration. As mentioned above, the classroom image includes seating that can be creatively arranged in different ways. It is a **soft** technology. The additional orchestration that soft technologies require, requires from us additional knowledge, skills, and activities (i.e additional technology) to be useful. Dron (2021) identifies "teaching methods, musical instruments and computers" as further examples of soft technologies. Technologies that require more from us in terms of orchestration. Soft technologies are harder to use.
 

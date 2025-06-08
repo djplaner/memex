@@ -31,7 +31,7 @@ For better or worse, dates are important in formal education. Submit the assignm
 
 However, as pointed out in [this 2015 comment](https://djon.es/blog/2015/06/26/and-the-little-one-said-roll-over-roll-over/#comment-1340) the more common practice has been situation B. Since the print-based distance education days of the 80s and 90s the tendency has been to make learning materials (physical or digital) "stand-alone". i.e. independent of a particular study period so that they can be reused again and again. Generally because it's hard to ensure that the dates continue to be correct in offering after offering.
 
-![](2021-03-06-10-04-55.png)
+![](https://djon.es/assets/memex/share/blog/2021-03-06-10-04-55.png)
 **Note:** These images are intended as examples of "little things" not examplars of anything else
 ### Using web links
 
@@ -39,7 +39,7 @@ In a web-based learning situation, it's not uncommon to require students to use 
 
 But, as someone who gets to see a little of different web-based learning situations I continue to be shocked that the majority are more like situation B then sitation B in the following image. 
 
-![](2021-03-06-10-03-36.png)
+![](https://djon.es/assets/memex/share/blog/2021-03-06-10-03-36.png)
 ## Is it common to ignore the "little things"?
 
 As mentioned in the above, my observations over the last 10 years suggest that these two examples of "little things" are largely ignored. I wonder if this is a common experience?

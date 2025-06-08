@@ -18,7 +18,7 @@ I recently attended ASCILITE'2022. The annual conference for the _define ASCILIT
 
 On the first day I was struck by examples of (quite good) presentations where digital technologies were absent. Then one of the invited plenary speakers generated a positive reaction with a sentiment [captured here by @LindaCorrin](https://twitter.com/LindaCorrin/status/1600283767846752258)
 
-![](images/KahuCorrin-techEveryWhere.png)  
+![](https://djon.es/assets/memex/share/blog/2022/images/KahuCorrin-techEveryWhere.png)  
 
 Given ASCILITE's stated aspiration, is that the right sentiment for ASCILITE?
 

@@ -1,10 +1,6 @@
----
+﻿---
 title: First experiments with LLM APIs
 ---
-
-
-
-
 Early explorations into using LLMs via APIs. Hopefully informing an idea to create LLM fuelled [[casa]] by templating forms of prompt engineering. Inspired by [[prompt-engineering-for-educators]] and approaches used by Khan Academy (see [[building-ai-applications-based-on-learning-research]])
 
 A key experiment would be to combine insights from the science of learning with LLMs to provide important features that current higher ed can't. For example, [[learning-science-at-khan-academy]] suggests feedback (e.g. [[research-feedback]])
@@ -33,7 +29,7 @@ Request "Write a haiku as if you were the sciencie fiction author Iain M Banks"
 
 Second, copy and paste an example from [[prompt-engineering-for-educators]]
 
-![](images/quiz-generation-business.png)
+![](https://djon.es/assets/memex/sense/AI/explorations/images/quiz-generation-business.png)
 
 ## Exploring Python APIs
 

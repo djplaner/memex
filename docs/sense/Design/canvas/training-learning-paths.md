@@ -1,4 +1,4 @@
----
+﻿---
 title: Creating learning paths
 ---
 Summary of training session with Instructor - "Creating Learning Paths"
@@ -45,7 +45,7 @@ Module locks, requirements and pre-requisites
 
 ## Training summary
 
-![](2021-11-15-13-07-24.png)
+![](https://djon.es/assets/memex/sense/Design/canvas/2021-11-15-13-07-24.png)
 
 ### Modules
 

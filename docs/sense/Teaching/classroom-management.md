@@ -1,11 +1,8 @@
----
-title: Classroom management
-type: "note"
+﻿---
 tags: teaching, classroom-management
+title: Classroom management
+type: note
 ---
-
-
-
 Thoughts and ideas re: the management of classes of learners within formal education.
 
 ## A simple process
@@ -41,8 +38,6 @@ Adapted from Powell and Tod (2004)
 | Off-task  |	Developmental  |	Child is not ready to work independently | 	Allocate learning support assistant and set a more suitable learning challenge.  |
 
 <figure markdown>
-![](images/conceptualBehaviour.jpg)
+![](https://djon.es/assets/memex/sense/Teaching/images/conceptualBehaviour.jpg)
 <caption>Figure 2. Conceptual models of behaviour. Adapted from “Behaviour and support management”, by R. Conway, 2009, in Education for Inclusion and Diversity, A. Ashman, J. Elkins (eds), p. 131. </caption>
 </figure>
-
-

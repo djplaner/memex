@@ -1,4 +1,4 @@
----
+﻿---
 title: Higher ed L&T's scale problem?
 ---
 ```toml
@@ -21,7 +21,7 @@ Attempts to address the challenge of scale (e.g. certain types of MOOC, course s
 
 Perhaps it is because...
 
-!["The Princess Bride" gif.  "You keep using that word. I do not think it means what you think it means"](images/youKeepUsingThatWord.png)  
+!["The Princess Bride" gif.  "You keep using that word. I do not think it means what you think it means"](https://djon.es/assets/memex/share/blog/2023/images/youKeepUsingThatWord.png)  
 
 ## A Typology of Scale
 

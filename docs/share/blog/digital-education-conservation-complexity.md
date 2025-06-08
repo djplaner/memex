@@ -1,4 +1,4 @@
----
+﻿---
 title: Digital education and the conservation of complexity
 ---
 Pondering whether [Tesler's "Law of Conservation of Complexity"](http://www.nomodes.com/Larry_Tesler_Consulting/Complexity_Law.html) (Tesler’s law from now on) applies to digital (e-)learning, and if so, what implications might arise, especially given the great 
@@ -11,7 +11,7 @@ IxD is “the practice of designing interactive digital products, environments, 
 
 Tesler’s Law is “that every application must have an inherent amount of irreducible complexity. The only question is who will have to deal with it”. Think of “application” as a “digital space”. Attached visual representation of Tesler’s Law from https://harishsnotebook.wordpress.com/2018/08/19/teslers-law-of-the-conservation-of-complexity/ 
 
-![](images/tesslers_law.png)
+![](https://djon.es/assets/memex/share/blog/images/tesslers_law.png)
 
 Applications were once hard to use. Computers couldn’t do much. Applications had to be small. Not easy to use. The user had to deal with the complexity and consequently not many people did. Arguably a problem that applies to many contemporary digital learning spaces. 6/31
 

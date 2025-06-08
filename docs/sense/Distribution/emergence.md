@@ -1,4 +1,4 @@
----
+﻿---
 title: Emergence
 ---
 [This youtube video on emergence](https://www.youtube.com/watch?v=iHBF72lVVrc) cropped up in my YouTube feed.
@@ -8,7 +8,7 @@ Provided description
 
 Identifies that there is two broad ways patterns of organisation occur
 
-![](pics/patternsOfOrganisation.png)  
+![](https://djon.es/assets/memex/sense/Distribution/pics/patternsOfOrganisation.png)  
 
 Some systems have the ability to self organise. 
 

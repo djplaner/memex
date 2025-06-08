@@ -1,20 +1,17 @@
----
-title: Rhodosphaera (deep yellowwood, yellow cedar)
-type: plants
-tags: plants, wood-duck-meadows
+﻿---
 photos:
   1:
-      title: None
-      filename: 028286F6-9C7A-430A-BB99-76967199F5C7.heic
-      latitude: -27.538528333333332
-      longitude: 152.0563805
-      description: None
-      date: 2025-04-20 10:09:38
-      memexFilename: images/rhodosphaera/1.jpeg
+    date: 2025-04-20 10:09:38
+    description: None
+    filename: 028286F6-9C7A-430A-BB99-76967199F5C7.heic
+    latitude: -27.538528333333332
+    longitude: 152.0563805
+    memexFilename: images/rhodosphaera/1.jpeg
+    title: None
+tags: plants, wood-duck-meadows
+title: Rhodosphaera (deep yellowwood, yellow cedar)
+type: plants
 ---
-
-
-
 [Rhodosphaera](https://en.wikipedia.org/wiki/Rhodosphaera) (aka [deep yellowwood](https://sown.com.au/rhodosphaera-rhodanthema-anacardiaceae-deep-yellowwood/)) is a rainforest tree - both sub-tropical and dry - native to eastern Australia. Growing to 25 metres tall. Forms red flowers in panicles during early spring and fruit from late summary into winter.
 
 ## History at [[wood-duck-meadows]]
@@ -22,7 +19,7 @@ photos:
 Hugh and Kay provided our first Rhodosphaera in 2025.
 
 <figure markdown>
-![Small Rhodosphaera in a pot.](./images/rhodosphaera/1.jpeg)
+![Small Rhodosphaera in a pot.](https://djon.es/assets/memex/sense/landscape-garden/plants/./images/rhodosphaera/1.jpeg)
 <caption>Our first Rhodosphaera from H&K</caption>
 </figure>
 

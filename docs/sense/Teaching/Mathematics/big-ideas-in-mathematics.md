@@ -1,11 +1,8 @@
----
-title: Big ideas in mathematics
-type: "note"
+﻿---
 tags: teaching,mathematics,teachingMathematics
+title: Big ideas in mathematics
+type: note
 ---
-
-
-
 A way of seeing mathematics as coherent and connected whole. Rather than a collection of (apparently) disconnected topics. Big ideas run across traditional curricula strands.
 
 > a statement of an idea that is central to the learning of mathematics, one that links numerous mathematical understandings into a coherent whole (Charles, 2005, p. 10)
@@ -110,7 +107,7 @@ Rutherford & Ahlgren (1989)
 ### Confrey et al (2017)
 
 <figure markdown>
-![](images/bigIdeaLearningMap.png)
+![](https://djon.es/assets/memex/sense/Teaching/Mathematics/images/bigIdeaLearningMap.png)
 <caption>Four fields and nine big ideas of the learning map</caption>
 </figure>
 

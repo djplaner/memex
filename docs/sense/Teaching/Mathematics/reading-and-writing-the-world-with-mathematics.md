@@ -1,11 +1,8 @@
----
-title: Reading and writing the world with mathematics
-type: "note"
+﻿---
 tags: teaching, mathematics, teaching-mathematics
+title: Reading and writing the world with mathematics
+type: note
 ---
-
-
-
 An approach - defined by Gutstein (2016) to teaching mathematics that explicitly aims to encourage students to develop a deep, conceptual understanding of mathematics (i.e. a [[conceptual-approach-to-mathematics]]) by "reading" their social reality and create/extend their analyses of the contradictions in society and their lives. Preparing them to "write" their own version by changing reality as they see fit.
 
 > For me, RWWM means that students use mathematics to comprehend and change the world—and through the process, deepen their knowledge of both mathematics and their social reality. (Gutstein, 2016, p. 455)
@@ -29,7 +26,7 @@ Reading the world with mathematics has two interrelated processes, the challenge
 2. reading the mathematical word.
 
 <figure markdown>
-![](images/readingTheWorld.png)
+![](https://djon.es/assets/memex/sense/Teaching/Mathematics/images/readingTheWorld.png)
 <caption>Dialectical relationship of components of reading/writing the world with mathematics(adapted from Gutstein, 2016, p. 457)</caption>
 </figure>
 
@@ -44,7 +41,7 @@ Reading the world with mathematics has two interrelated processes, the challenge
 A key strategy is starting/building from community knowledge as the platform for "then interweaving and developing critical and classical knowledge with goal of transforming reality" (Gutstein, 2016, p. 458)
 
 <figure markdown>
-![](images/connectingThe3cs.png)
+![](https://djon.es/assets/memex/sense/Teaching/Mathematics/images/connectingThe3cs.png)
 <caption>Connecting the 3Cs (adapted from Gutstein, 2016, p. 459)</caption>
 </figure>
 

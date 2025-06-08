@@ -1,22 +1,19 @@
----
-title: Unknown ficus
-type: plant
-tags: regeneration, plant
+﻿---
 latitude: -27.53847
 longitude: 152.055175
 photos:
   1:
-      title: Ficus leaves from the roundabout
-      filename: 1AB8438B-5613-41B8-8143-4B6B5D3240BD.heic
-      latitude: -27.53847
-      longitude: 152.055175
-      description: Still trying to identify exactly which ficus this is
-      date: 2025-03-15 10:26:03
-      memexFilename: images/unknown-ficus/1.jpeg
+    date: 2025-03-15 10:26:03
+    description: Still trying to identify exactly which ficus this is
+    filename: 1AB8438B-5613-41B8-8143-4B6B5D3240BD.heic
+    latitude: -27.53847
+    longitude: 152.055175
+    memexFilename: images/unknown-ficus/1.jpeg
+    title: Ficus leaves from the roundabout
+tags: regeneration, plant
+title: Unknown ficus
+type: plant
 ---
-
-
-
 The [[roundabout]] includes a mature, very large Ficus (fig tree). We're yet to formally identify. At various stages we've labelled it a Moreton Bay fit or a Council tree (Ficus altissima).
 
 ## History at Wood Duck Meadows
@@ -24,7 +21,7 @@ The [[roundabout]] includes a mature, very large Ficus (fig tree). We're yet to 
 The first was planted by previous owners in the [[roundabout]]. 
 
 <figure markdown>
-![Tip of a branch of the unknown ficus. Multiple large green leaves with vivid yellow veins. Four different yellow fruits are located along the branch.](../plants/images/ficus-altissima-leaves.jpeg)
+![Tip of a branch of the unknown ficus. Multiple large green leaves with vivid yellow veins. Four different yellow fruits are located along the branch.](https://djon.es/assets/memex/sense/landscape-garden/individual-plants/../plants/images/ficus-altissima-leaves.jpeg)
 <caption>Closeup of the leaves and fruit of the unknown ficus in the [[roundabout]]</caption>
 </figure>
 

@@ -1,4 +1,4 @@
----
+﻿---
 title: Representing problems to make the solution transparent
 ---
 ```toml
@@ -21,7 +21,7 @@ _Number Scrabble_ is a game I first saw described in Simon's (1996) book _Scienc
 
 _Number Scrabble_ is a game played between two players. The players are presented with nine cards. The players take turns selecting one card at a time. The aim being to get three cards which add up to 15 (aka a "book"). The first player to obtain a book wins. If no player gets a book, the game is a draw.
 
-![Basic number scrabble](images/2021-10-23-15-53-29.png)
+![Basic number scrabble](https://djon.es/assets/memex/share/blog/2021/images/2021-10-23-15-53-29.png)
 
 ## Making the solution transparent
 
@@ -34,7 +34,7 @@ How much easier would you find it to pay _Number Scrabble_ if the cards were org
 
 Would it help any if I mentioned another game, tic-tac-toe?
 
-![Number scrabble's magic square](images/2021-10-23-16-01-20.png)
+![Number scrabble's magic square](https://djon.es/assets/memex/share/blog/2021/images/2021-10-23-16-01-20.png)
 
 With this new representation _Number Scrabble_ becomes a game of tic-tac-toe. No arithmetic required and tactics and strategies most are familiar with become applicable.
 

@@ -27,9 +27,9 @@ Will provide certificates from company also connection with LinkedIn
 
 Reporting on data from millions of students from Forage (provided to researchers). Forage also ran survey.
 
-![](images/forageUsers.png)  
+![](https://djon.es/assets/memex/sense/Conferences/ascilite2022/images/forageUsers.png)  
 
-![](images/forageSource.png)  
+![](https://djon.es/assets/memex/sense/Conferences/ascilite2022/images/forageSource.png)  
 
 ## The Youth Justice Portal and Transformative Digital Education in Criminology
 
@@ -44,7 +44,7 @@ Data is in JSON - portal is portable and scaleable.  Nodes are semantic categori
 
 At first glance it is a portal to a series of videos.   But it is used as a form of dialogic learning - displacing the lecture.
 
-![](images/portalUsage.png)  
+![](https://djon.es/assets/memex/sense/Conferences/ascilite2022/images/portalUsage.png)  
 
 - Some binge viewing going on
 - Also during assessment
@@ -52,7 +52,7 @@ At first glance it is a portal to a series of videos.   But it is used as a form
 
 Activity theory used to disconnect
 
-![](images/scaleableArchitecture.png)  
+![](https://djon.es/assets/memex/sense/Conferences/ascilite2022/images/scaleableArchitecture.png)  
 
 Scalability - data divorced from 'presentation' layer is seen as a contribution
 
@@ -65,7 +65,7 @@ Abstract
 
 And discussion of engagement rarely backed by explicit definition of technology.
 
-![](images/engagementFramework.png)  
+![](https://djon.es/assets/memex/sense/Conferences/ascilite2022/images/engagementFramework.png)  
 
 ## Educational Designer social influence: changing teaching and learning practice
 
@@ -109,7 +109,7 @@ Question from the room - balance academic freedom and consistency.
 
 THe idea that the template provides the structure. The freedom is outside the structure.
 
-![](images/devilsWork.png)  
+![](https://djon.es/assets/memex/sense/Conferences/ascilite2022/images/devilsWork.png)  
 
 
 

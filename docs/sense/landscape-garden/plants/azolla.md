@@ -1,20 +1,17 @@
----
+﻿---
+tags:
+- azolla
+- ferns
+- wood-duck-meadows
+- plant
+- native
 title: Azola
-type: "plants"
-tags: 
-    - azolla
-    - ferns
-    - wood-duck-meadows
-    - plant
-    - native
+type: plants
 ---
-
-
-
 First noticed in 2023/2024 in [[the-dam]] [azolla](https://agriculture.vic.gov.au/farm-management/water/managing-dams/azolla-growth-in-farm-dams) is a small, free-floating fern native to Australia. Under good conditions azolla spreads across a dam surface with the ability to double its surface area within a week. It is able to fix nitrogen from the atmosphere due to hosting nitrogen-fixing bacteria.
 
 <figure markdown>
-![Small water bird (Australasian grebe) swimming through a dam covered entirely in red azolla. The bird has yellow cheeks, orange eyes, red feathers toward the back of its head, white feathers at the tail and yellow feathers along the lower parts of its body.](../../birdwatching/images/australasianGrebe/S191596337.jpeg)
+![Small water bird (Australasian grebe) swimming through a dam covered entirely in red azolla. The bird has yellow cheeks, orange eyes, red feathers toward the back of its head, white feathers at the tail and yellow feathers along the lower parts of its body.](https://djon.es/assets/memex/sense/landscape-garden/plants/../../birdwatching/images/australasianGrebe/S191596337.jpeg)
 <caption>[[australasianGrebe]] swimming amongst the azolla in [[the-dam]]</caption>
 </figure>
 

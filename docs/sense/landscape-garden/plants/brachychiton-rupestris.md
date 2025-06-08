@@ -1,15 +1,16 @@
----
+﻿---
+tags:
+- plant
+- wood-duck-meadows
+- native
+- tree
 title: Brachychiton rupestris (Queensland Bottle Tree)
 type: single-plant
-tags: ['plant', 'wood-duck-meadows', 'native', 'tree']
 ---
-
-
-
 [[wood-duck-meadows]] has a handful of [Queensland Bottle Trees](https://en.wikipedia.org/wiki/Brachychiton_rupestris) spread across the property. A native deciduous succulent tree that grows to 10-20m.
 
 <figure markdown>
-![Brachychiton tree leaning slightly to the left standing in front of a hedge](images/qld-bottle-tree.jpeg)
+![Brachychiton tree leaning slightly to the left standing in front of a hedge](https://djon.es/assets/memex/sense/landscape-garden/plants/images/qld-bottle-tree.jpeg)
 <caption>Bottle tree near the house</caption>
 </figure>
 
@@ -18,7 +19,7 @@ tags: ['plant', 'wood-duck-meadows', 'native', 'tree']
 We lost at least one of these trees to the horses demonstrating the trees benefit as a fodder tree.
 
 <figure markdown>
-![Brchychiton to the left of the image, horse to the right with the a dam in the background. The dam bank is lined with a large number of ducks](../images/wood-duck-meadows-2013.jpeg)
+![Brchychiton to the left of the image, horse to the right with the a dam in the background. The dam bank is lined with a large number of ducks](https://djon.es/assets/memex/sense/landscape-garden/plants/../images/wood-duck-meadows-2013.jpeg)
 <caption>[[the-dam]]'s Brachychiton (to the right) before the horses consumed it</caption>
 </figure>
 

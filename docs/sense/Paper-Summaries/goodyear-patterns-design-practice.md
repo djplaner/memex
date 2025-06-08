@@ -7,7 +7,7 @@ Goodyear, P. (2005). Educational design and networked learning: Patterns, patter
 
 Responds to "growing demand" for effective & efficient uses of digital technologies to support student learning by providing a "high level view of the educational design problem space". Adds to this the patterns practice to help with "encoding, sharing and using knowledge for educational design" and provide "a powerful way of connecting educational values and vision to the details of the tasks, tools and resources we offer our students".
 
-| ![Conceptualising the problem space of educational design (Goodyear, 2005, p. 85)](images/goodyearProblemSpace.png) |
+| ![Conceptualising the problem space of educational design (Goodyear, 2005, p. 85)](https://djon.es/assets/memex/sense/Paper-Summaries/images/goodyearProblemSpace.png) |
 |:--:|
 | *Conceptualising the problem space of educational design (Goodyear, 2005, p. 85)* |
 

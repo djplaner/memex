@@ -1,11 +1,11 @@
----
+﻿---
 title: JISC Learning Design Guide
 ---
 [Designing learning and assessment in a digital age](https://www.jisc.ac.uk/guides/designing-learning-and-assessment-in-a-digital-age) apparently published in 2018
 
 ## Structure
 
-![](pics/jisc-overview.png)
+![](https://djon.es/assets/memex/sense/Design/pics/jisc-overview.png)
 
 ## What is learning design?
 
@@ -13,7 +13,7 @@ Creative involving an eco system. Activity at the focus, but interactions arisin
 
 [JISC learning design family tree](https://repository.jisc.ac.uk/6728/1/Learning_Design_Family_Tree_i2.pdf)
 
-![](pics/learningDesignModel.png)
+![](https://djon.es/assets/memex/sense/Design/pics/learningDesignModel.png)
 
 
 ## [Modules](https://www.jisc.ac.uk/guides/designing-learning-and-assessment-in-a-digital-age/modules)
@@ -37,7 +37,7 @@ Starts with discussion of some issues with modules (why good design is important
 
 	Similar to ABC (broadly). Blueprint and storyboard
 
-![](pics/CAIeRO-schedule.png)
+![](https://djon.es/assets/memex/sense/Design/pics/CAIeRO-schedule.png)
 
 - [Viewpoints](https://ulster.atlassian.net/wiki/spaces/VIEW/overview) - seen as pre-cursor to the card/storyboard approaches used by others, site includes numerous cards
 

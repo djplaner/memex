@@ -1,11 +1,8 @@
----
-title: Building a thinking classroom
-type: "note"
+﻿---
 tags: teaching-mathematics, teaching
+title: Building a thinking classroom
+type: note
 ---
-
-
-
 Framework introduced in Liljedahl (2020) represented in the figure below.
 
 Introduced as four toolkits that are recommended to be implemented sequentially. Though not all orders were evaluated.
@@ -37,7 +34,7 @@ Fourth toolkit - the 2nd and 3rd are most important
 - Grade based on data (not points)
 
 <figure markdown>
-![](images/buildingThinkingClassroom.png)
+![](https://djon.es/assets/memex/sense/Teaching/Mathematics/images/buildingThinkingClassroom.png)
 <caption>The Building Thinking Classrooms Framework (Liljedahl, 2020, p. 281)
 </figure>
 

@@ -1,11 +1,8 @@
----
-title: Computer Science Student-Centered Instructional (CSSC) Continuum
-type: "note"
+﻿---
 tags: computing, teaching-digital-technologies
+title: Computer Science Student-Centered Instructional (CSSC) Continuum
+type: note
 ---
-
-
-
 Source: [CSSC Instructional continuum](https://textbooks.cs.ksu.edu/tlcs/4-designing-cs-lessons/03-instructional-continuum/index.html)
 
 A representation of the cognitive loads for learning computer science.
@@ -20,7 +17,7 @@ A representation of the cognitive loads for learning computer science.
 | **Tinkering** | Completely student-led programming efforts |
 
 <figure markdown>
-![](images/CSSC.png)
+![](https://djon.es/assets/memex/sense/Teaching/Digital_Technologies/images/CSSC.png)
 </figure>
 
 

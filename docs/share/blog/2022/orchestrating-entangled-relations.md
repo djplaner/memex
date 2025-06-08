@@ -1,5 +1,6 @@
 ﻿---
-title: "Orchestrating entangled relations to break the iron triangle: examples from a LMS migration"
+title: 'Orchestrating entangled relations to break the iron triangle: examples from
+  a LMS migration'
 ---
 ```toml
 post_title='Orchestrating entangled relations to break the iron triangle: examples from a LMS migration'
@@ -17,7 +18,7 @@ All university strategies for learning and teaching by necessity are variations 
 
 | Figure 1: Illustrating the iron triangle (adapted from Mulder, 2013, p. 100) |
 |-----------------------------------------------------------------------------|
-| ![Illustration of the iron triangle](images/mulder-iron-triangle.png)  |
+| ![Illustration of the iron triangle](https://djon.es/assets/memex/share/blog/2022/images/mulder-iron-triangle.png)  |
 
 Much of the iron triangle literature identifies different strategies to breaking the iron triangle. Mulder (2013) suggests OER. Daniel et al (2009) suggest open and distance eLearning. Ryan et al (2021) suggest high-quality large group teaching and learning; alternative curriculum structures; and automation of assessment and feedback. I'm not convinced that any of these will work. Not due to the inherent validity of the specific solutions (though there are questions), instead my doubts arise from how such suggestions would be implemented in contemporary higher education. Each would be implemented via variations on common methods. My suspicion is that these  methods are likely to hinder any attempts to break the iron triangle. 
 
@@ -105,13 +106,13 @@ It's a mess and that's just the visible structure. What were separate bits of co
 
 | **Figure 2: Source LMS** | **Figure 3: Destination LMS** |
 | --------- | -------------- |
-| ![Student view of a simple Blackboard course](images/bb_course.png) | ![Student view of Canvas course created by importing a Common Cartridge export of the Blackboard course](images/canvas_export_version.png)     |
+| ![Student view of a simple Blackboard course](https://djon.es/assets/memex/share/blog/2022/images/bb_course.png) | ![Student view of Canvas course created by importing a Common Cartridge export of the Blackboard course](https://djon.es/assets/memex/share/blog/2022/images/canvas_export_version.png)     |
 
 The [Canvas Files area](https://community.canvaslms.com/t5/Canvas-Basics-Guide/What-are-Files/ta-p/7) is even worse off. Figure 4 shows the files area of this same course after common cartridge import. Only the first four or five files were in the Blackboard course. All the _web_content0000X_ folders are added by the common cartridge import.
 
 | **Figure 4: Canvas files area - common cartridge import** |
 | -------------- |
-| ![Canvas files area after Common Cartridge import](images/files_cc_import.png)  |
+| ![Canvas files area after Common Cartridge import](https://djon.es/assets/memex/share/blog/2022/images/files_cc_import.png)  |
 
 You can't leave that course in that stage. The next step is to manually modify and reorganise the Canvas site into a design that works in Canvas. This modification relies on the Canvas web interface (e.g. the Canvas interface still [does not provide a way to delete all the pages in a course](https://community.canvaslms.com/t5/Canvas-Admin-Blog/Bulk-Publish-Delete-Pages/ba-p/262944)). Not the most effective or efficient interface for that purpose. Importantly, remember that this manual tidy up process has to be performed for each of the 1400+ course sites.
 
@@ -154,7 +155,7 @@ Figure 5 still has a pretty significant whiff of the 'scroll of death' but that'
 
 | **Figure 5: Canvas site via CAR** | **Figure 6: Canvas files via CAR** |
 | ------------------- | -------------- |
-| ![Canvas course site created by migrating via CAR](images/canvas-via-car.png) | ![Canvas files migrated via CAR](images/files-car.png)  |
+| ![Canvas course site created by migrating via CAR](https://djon.es/assets/memex/share/blog/2022/images/canvas-via-car.png) | ![Canvas files migrated via CAR](https://djon.es/assets/memex/share/blog/2022/images/files-car.png)  |
 
 ## ["to make teaching and learning easier"](https://www.instructure.com/en-gb/canvas/resources/home/canvas-lms-adopted-by-teachers-and-students-worldwide) using a vanilla LMS.
 
@@ -194,7 +195,7 @@ Not only does Canvas Collections improve the aesthetics of a Canvas course site 
 
 | **Figure 7: Canvas Collections - content collection** | **Figure 8: Canvas Collections - assessment collection** |
 | ----------- | ------ |
-| ![](images/canvas-collections-content.png)    |  ![](images/canvas-collections-assessment.png)    |
+| ![](https://djon.es/assets/memex/share/blog/2022/images/canvas-collections-content.png)    |  ![](https://djon.es/assets/memex/share/blog/2022/images/canvas-collections-assessment.png)    |
 
 ## References
 

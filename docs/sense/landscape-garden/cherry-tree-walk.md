@@ -1,11 +1,11 @@
----
+﻿---
+tags:
+- zone
+- wood-duck-meadows
+- landscape
 title: Cherry Tree walk
-type: "note"
-tags: [zone, wood-duck-meadows, landscape]
+type: note
 ---
-
-
-
 _Cherry Tree Walk_ proceeds along the front berm which helps re-direct water run-off from the road into [[the-dam]]. Cherry trees have been planted at the start of the walk.
 
 !!! info "Current status"
@@ -15,7 +15,7 @@ _Cherry Tree Walk_ proceeds along the front berm which helps re-direct water run
 ## Location
 
 <figure markdown>
-![Overview photo of Wood Duck Meadows with a line indicating the location of Cherry Tree walk near the front of the property (left/west side of the image) flowing slightly north of east until the start of the dam](./images/cherry-tree-walk-location.jpg)
+![Overview photo of Wood Duck Meadows with a line indicating the location of Cherry Tree walk near the front of the property (left/west side of the image) flowing slightly north of east until the start of the dam](https://djon.es/assets/memex/sense/landscape-garden/./images/cherry-tree-walk-location.jpg)
 <caption>Cherry Tree walk runs from near the front of the property until the start of [[the-dam]]</caption>
 </figure>
 

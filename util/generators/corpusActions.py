@@ -93,9 +93,8 @@ def generateAbsoluteLinks(markdownFile, linkDefs):
             'text': linkDefs[link]['text'],
             'description': linkDefs[link]['description']
         }
-            
-    return newLinkDefs
 
+    return newLinkDefs
 
 def extractLinkDefs(pageData):
     """
@@ -420,9 +419,34 @@ def addYamlFrontMatter(bubbles):
         # save the new bubble
         saveBubble(bubbles[filePath])
 
+def moveImages(bubbles):
+    """
+    Modify the image URLs in bubbles to point to https://djon.es/assets/memex/<imagePath>/<fileName>
+    - where <imagePath> is the path to the image relative to the docs folder
+    """
+
+    for filePath in bubbles.keys():
+        imgLinks = re.findall(r"!\[.*?\]\((.*?)\)", bubbles[filePath]['content'])
+        print(f"Found {len(imgLinks)} image links in {filePath}")
+        if len(imgLinks) == 0:
+            continue
+        for imgLink in imgLinks:
+            #-- if the image link is already an absolute link, skip it
+            if imgLink.startswith("http"):
+                continue
+
+            folderPath = pathlib.Path(filePath).parent
+            absImgLink = f"https://djon.es/assets/memex{folderPath}/{imgLink}"
+
+            print(f"    - {imgLink} abs link: {absImgLink}")
+            bubbles[filePath]['content'] = bubbles[filePath]['content'].replace(
+                f"({imgLink})", f"({absImgLink})")
+
+        #-- save the modified bubble
+        saveBubble(bubbles[filePath])
+
 """
 Main entry point for the generator
-
 """
 
 config = configure()
@@ -430,4 +454,6 @@ config = configure()
 bubbles = retrieveMemexBubbles()
 #addYamlFrontMatter(bubbles)
 backLinks = generateBackLinks(bubbles)
-updateFrontMatterBackLinks(bubbles, backLinks)
+#updateFrontMatterBackLinks(bubbles, backLinks)
+
+#moveImages(bubbles)

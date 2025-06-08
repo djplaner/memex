@@ -1,4 +1,4 @@
----
+﻿---
 title: Mathematical Memes
 ---
 Collections of mathematical memes intended for eventually use in teaching.
@@ -7,13 +7,13 @@ Collections of mathematical memes intended for eventually use in teaching.
 ## Units and number systems
 
 <figure markdown>
-![](memes/69-days.jpg)
+![](https://djon.es/assets/memex/sense/Teaching/Mathematics/memes/69-days.jpg)
 </figure>
 
 ## Number operations
 
 <figure markdown>
-![](images/mathOrderOps.png)
+![](https://djon.es/assets/memex/sense/Teaching/Mathematics/images/mathOrderOps.png)
 </figure>
 
 ## TIMTOWDI

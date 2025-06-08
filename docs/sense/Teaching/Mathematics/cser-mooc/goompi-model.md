@@ -1,11 +1,8 @@
----
-title: Goompi model
-type: "note"
+﻿---
 tags: teaching-mathematics, teaching
+title: Goompi model
+type: note
 ---
-
-
-
 Sources: [Culturally Responsive Pedagogyies](https://www.mathematicshub.edu.au/plan-teach-and-assess/teaching/embedding-indigenous-knowledges/culturally-responsive-pedagogies-goompi-model/)
 
 A model for describing what mathematics is and how it develops. This can be used for thinking about teaching mathematics. It emphasises mathematics as
@@ -22,7 +19,7 @@ Has three tenets (from [YuMi Deadly Maths](https://research.qut.edu.au/ydc/about
 > 3. This abstraction and reflection is a creative but also a culturally biased act.
 
 <figure markdown>
-![](images/goompiModel-cropped.svg)
+![](https://djon.es/assets/memex/sense/Teaching/Mathematics/cser-mooc/images/goompiModel-cropped.svg)
 <caption>The Goompi Model: Relationship between perceived reality and invented mathematics</caption>
 </figure>
 

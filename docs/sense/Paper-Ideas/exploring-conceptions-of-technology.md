@@ -178,7 +178,7 @@ This separation of pedagogy and technology into two separate worlds is evident i
 
 
 
-![](../../share/blog/2021/images/blankCanvasContentArea.png)
+![](https://djon.es/assets/memex/sense/Paper-Ideas/../../share/blog/2021/images/blankCanvasContentArea.png)
 
 ### Too much phenemona, not enough orchestration?
 
@@ -229,7 +229,7 @@ An LMS can also come with its equivalent to a blank canvas, a very soft technolo
 
 | Blank Canvas | Blank Blackboard Content Area |
 | --- | --- |
-| ![](../../share/blog/2021/images/../blankCanvas.png) | ![Blank Blackboard Learn Content Area](../../share/blog/2021/images/BlankBlackboardContentArea.png) |
+| ![](https://djon.es/assets/memex/sense/Paper-Ideas/../../share/blog/2021/images/../blankCanvas.png) | ![Blank Blackboard Learn Content Area](https://djon.es/assets/memex/sense/Paper-Ideas/../../share/blog/2021/images/BlankBlackboardContentArea.png) |
 | [Small easel with a blank canvas](https://www.publicdomainpictures.net/en/view-image.php?image=62975&picture=small-easel-with-a-blank-canvas), [CC0](http://creativecommons.org/publicdomain/zero/1.0/) | Another blank canvas [CC0](http://creativecommons.org/publicdomain/zero/1.0/) |
 
 ### Using assemblies to make the soft (difficult) hard (easy) and the hard soft

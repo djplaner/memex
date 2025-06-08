@@ -1,4 +1,4 @@
----
+﻿---
 title: Reflections on learning design systems presentation
 ---
 ```toml
@@ -116,7 +116,7 @@ Dimitriadis and Goodyear ([2013](https://journal.alt.ac.uk/index.php/rlt/article
 
 Extending that to components, a learning activity component should not only embody design knowledge that helps with creating an effective, consistent interface. It needs to offer functionality that embodies design knowledge that helps learners and teachers during learntime (orchestration) etc. As a simple example, a component that [displays options for watching films](https://djon.es/blog/2020/08/15/supporting-the-design-of-discipline-specific-digital-learning-activities/) within learning material in a consistent, effective way (see image below) depending on how the institution has been able to provide access. A component that recognises the film availability changes and hence the learning materials need to be kept up to date. A process that can be painful if the film is mentioned multiple times. A component that supports configuration by drawing film availability from a spreadsheet. Allowing the teacher to change a single line and have that automatically applied throughout the learning materials.
 
-![](images/filmWatchOptions.png)
+![](https://djon.es/assets/memex/share/blog/images/filmWatchOptions.png)
 
 ### What about when learning design doesn't/can't occur?
 

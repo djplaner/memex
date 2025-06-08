@@ -1,27 +1,26 @@
----
-title: Lychee (No Mai Chee)
-type: single-plant
-tags: ['individual-plant', 'rocky-creek-frontage', 'wood-duck-meadows']
+﻿---
 latitude: -27.53817
 longitude: 152.05557216666668
 photos:
   1:
-      title: None
-      filename: 25BE4100-F41C-440D-8AAE-CEE45BAD6B39.heic
-      latitude: -27.53817
-      longitude: 152.05557216666668
-      description: Lychee - No Mai Chi
-      date: 2025-03-14 17:27:41
-      memexFilename: images/lychee-no-mai-chee/1.jpeg
+    date: 2025-03-14 17:27:41
+    description: Lychee - No Mai Chi
+    filename: 25BE4100-F41C-440D-8AAE-CEE45BAD6B39.heic
+    latitude: -27.53817
+    longitude: 152.05557216666668
+    memexFilename: images/lychee-no-mai-chee/1.jpeg
+    title: None
+tags:
+- individual-plant
+- rocky-creek-frontage
+- wood-duck-meadows
+title: Lychee (No Mai Chee)
+type: single-plant
 ---
-
-
-
-
 Another of the fruit trees planted along the [[rocky-creek-frontage]] during the great planting of March, 2025. A lychee cultivar which is apparently "cherished for its exceptional sweetness and exquisite flavour". Another lychee cultivate - [[lychee-salathiel]] - is planted nearby.
 
 <figure markdown>
-![Lychee (No Mai Chee) tree](images/lychee-no-mai-chee/1.jpeg)
+![Lychee (No Mai Chee) tree](https://djon.es/assets/memex/sense/landscape-garden/individual-plants/images/lychee-no-mai-chee/1.jpeg)
 <caption>Lychee (No Mai Chee) tree</caption>
 </figure>
 

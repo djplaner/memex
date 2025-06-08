@@ -1,11 +1,8 @@
----
-title: RDF Basics
-type: "note"
+﻿---
 tags: rdf, python, exploring-oz-curriculum
+title: RDF Basics
+type: note
 ---
-
-
-
 Resources
 
 - [W3C RDF Primer](https://www.w3.org/TR/rdf-primer/)
@@ -29,7 +26,7 @@ Data takes the form of a graph of nodes and arcs. For example, the following sta
 
 Where nodes are URIs the args (properties) are also URIs and values of properties are different types of "nodes" containing values
 
-![](images/simpleRDFGraph.png)
+![](https://djon.es/assets/memex/sense/Python/exploring-oz-curriculum/images/simpleRDFGraph.png)
 
 ### The RDF model
 
@@ -44,4 +41,3 @@ _subject_ and _object_ form nodes. The _predicate_ is the arc joining the nodes.
 _subject_ and _predicate_ typically URIs. _object_ can be a URI or a literal value (e.g. string, number, date)
 
 Statements can be represented visually as graphs, or as triples (subject, predicate, object)
-

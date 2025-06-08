@@ -55,13 +55,13 @@ Abstract
 - Own experience didn't impact practice
 
 Smith 2012 six lessons
-![](images/smith.png)  
+![](https://djon.es/assets/memex/sense/Conferences/ascilite2022/images/smith.png)  
 
 Looking for framework and infrastructure to support innovation
 
 Talk with people - 3 3 hour workshops.  Design thinking, sprint.  External moderator for workshops
 
-![](images/designChallenge.png)  
+![](https://djon.es/assets/memex/sense/Conferences/ascilite2022/images/designChallenge.png)  
 
 Gathered lots of feedback ideas and developed 6 principles
 
@@ -110,7 +110,7 @@ Two case studies - both using Discord
 
 Computer science discord set up 
 
-![](images/discordExampleCS.png)  
+![](https://djon.es/assets/memex/sense/Conferences/ascilite2022/images/discordExampleCS.png)  
 
 ### Social Anxiety in Digital Learning Environments: Empirical Evidence and Call to Action
 
@@ -121,7 +121,7 @@ Abstract
 
 Teacher education
 
-![](images/anxietyMethod.png)  
+![](https://djon.es/assets/memex/sense/Conferences/ascilite2022/images/anxietyMethod.png)  
 
 Findings
 

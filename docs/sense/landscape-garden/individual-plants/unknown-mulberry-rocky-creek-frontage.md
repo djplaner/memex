@@ -1,26 +1,27 @@
----
-title: Unknown mulberry (Rocky Creek frontage)
-type: single-plant
-tags: ['individual-plant', 'rocky-creek-frontage', 'mulberry', 'wood-duck-meadows']
+﻿---
 latitude: -27.538355
 longitude: 152.05535833333334
 photos:
   1:
-      title: None
-      filename: AE27C08D-CB70-47E9-B874-E45EB99C0EB2.heic
-      latitude: -27.538355
-      longitude: 152.05535833333334
-      description: Mulberry - unknown type
-      date: 2025-03-14 17:28:57
-      memexFilename: images/unknown-mulberry-rocky-creek-frontage/1.jpeg
+    date: 2025-03-14 17:28:57
+    description: Mulberry - unknown type
+    filename: AE27C08D-CB70-47E9-B874-E45EB99C0EB2.heic
+    latitude: -27.538355
+    longitude: 152.05535833333334
+    memexFilename: images/unknown-mulberry-rocky-creek-frontage/1.jpeg
+    title: None
+tags:
+- individual-plant
+- rocky-creek-frontage
+- mulberry
+- wood-duck-meadows
+title: Unknown mulberry (Rocky Creek frontage)
+type: single-plant
 ---
-
-
-
 This mulberry was planted out in 2023/2024 (or perhaps earlier) right on the border between the [[roundabout]] and the [[rocky-creek-frontage]]. The lack of identity indicates the level of care that's been given the plant. Even though it was been thriving more recently.
 
 <figure markdown>
-![Artfully backlit shot of the unknown mulberry with the "wilds" of Rocky Creek visible in the background](images/unknown-mulberry-rocky-creek-frontage/1.jpeg)
+![Artfully backlit shot of the unknown mulberry with the "wilds" of Rocky Creek visible in the background](https://djon.es/assets/memex/sense/landscape-garden/individual-plants/images/unknown-mulberry-rocky-creek-frontage/1.jpeg)
 <caption>Artfully backlit shot of the unknown mulberry with the "wilds" of Rocky Creek visible in the background</caption>
 </figure>
 

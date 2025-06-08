@@ -1,20 +1,17 @@
----
-title: Polyscias elegans (aka Celery Wood)
-type: plants
-tags: plants, wood-duck-meadows
+﻿---
 photos:
   1:
-      title: None
-      filename: 8D5B7B04-5E2C-4F47-8786-7175CF5A1B7C.heic
-      latitude: -27.538553333333333
-      longitude: 152.05639716666667
-      description: None
-      date: 2025-04-20 10:11:14
-      memexFilename: images/polyscias-elegans/1.jpeg
+    date: 2025-04-20 10:11:14
+    description: None
+    filename: 8D5B7B04-5E2C-4F47-8786-7175CF5A1B7C.heic
+    latitude: -27.538553333333333
+    longitude: 152.05639716666667
+    memexFilename: images/polyscias-elegans/1.jpeg
+    title: None
+tags: plants, wood-duck-meadows
+title: Polyscias elegans (aka Celery Wood)
+type: plants
 ---
-
-
-
 [Polyscias elegans](https://en.wikipedia.org/wiki/Polyscias_elegans (aka Celery Wood)) is a small tree or shrub native to the rainforests of New South Wales and Queensland. A fast-growing medium sized tree known as a pioneer species for its fast growth and subsequent shading of invasive species.
 
 Fruit eaten by numerous birds, including the following spotted at [[wood-duck-meadows]]: [[australasianFigBird]], Lewin's honeyeater, and brown cuckoo dove.
@@ -24,7 +21,7 @@ Fruit eaten by numerous birds, including the following spotted at [[wood-duck-me
 Hugh and Kay donated a sapling in April, 2025.
 
 <figure markdown>
-![](./images/polyscias-elegans/1.jpeg){data-title="Polyscias elegans" data-description="Observed at Wood duck meadows on 2025-04-20"}
+![](https://djon.es/assets/memex/sense/landscape-garden/plants/./images/polyscias-elegans/1.jpeg){data-title="Polyscias elegans" data-description="Observed at Wood duck meadows on 2025-04-20"}
 <caption>Celery wood sapling donated by H&K</caption>
 </figure>
 

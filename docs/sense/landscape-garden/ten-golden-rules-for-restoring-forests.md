@@ -1,13 +1,10 @@
----
+﻿---
+tags:
+- ecosystem-restoration
+- landscape
 title: Ten golden rules for restoring forests
 type: note
-tags:
-    - ecosystem-restoration
-    - landscape
 ---
-
-
-
 [Open access research](https://onlinelibrary.wiley.com/doi/10.1111/gcb.15498) (Di Sacco et al, 2021) arising from [Botanic Gardens Conservation International (BGCI)](https://www.bgci.org/news-events/scientists-lay-out-10-golden-rules-for-restoring-forests/) developed 10 "golden rules" for reforestation.
 
 
@@ -25,7 +22,7 @@ tags:
 10. Make it pay (ensuring the economic sustainability of the project).
 
 <figure markdown>
-![](./images/10-golden-rules.png)
+![](https://djon.es/assets/memex/sense/landscape-garden/./images/10-golden-rules.png)
 <caption>Adapted from Di Sacco et al (2021, p. 1332)<caption>
 </figure>
 
@@ -36,4 +33,3 @@ tags:
 ## References
 
 Di Sacco, A., Hardwick, K. A., Blakesley, D., Brancalion, P. H. S., Breman, E., Cecilio Rebola, L., Chomba, S., Dixon, K., Elliott, S., Ruyonga, G., Shaw, K., Smith, P., Smith, R. J., & Antonelli, A. (2021). Ten golden rules for reforestation to optimize carbon sequestration, biodiversity recovery and livelihood benefits. *Global Change Biology*, *27*(7), 1328--1348. <https://doi.org/10.1111/gcb.15498>
-

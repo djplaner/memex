@@ -1,11 +1,8 @@
----
-title: The Circle
-type: "zone"
+﻿---
 tags: wood-duck-meadows
+title: The Circle
+type: zone
 ---
-
-
-
 Small collection of Acacia trees that almost form a circle sitting within the cleared and bare [[horse-paddock]].
 
 !!! info "Current status (Mar 2025)"
@@ -13,14 +10,14 @@ Small collection of Acacia trees that almost form a circle sitting within the cl
     Cleared out various invasive plants/weeds and beginning experiments with planting native species as ground cover.
 
 <figure markdown>
-![Asparagus Africanus (climbing asparagus) climbing over one of the Acacia trees growing in the circle](./plants/images/asparagus-circle.jpeg)
+![Asparagus Africanus (climbing asparagus) climbing over one of the Acacia trees growing in the circle](https://djon.es/assets/memex/sense/landscape-garden/./plants/images/asparagus-circle.jpeg)
 <caption>Climbing asparagus ([[asparagus-africanus]]) climbing over one of the Acacia trees growing in the circle</caption>
 </figure>
 
 ## Location
 
 <figure markdown>
-![The circle is located on the eastern edge of the property in the midst of the horse paddock](./images/the-circle.jpg)
+![The circle is located on the eastern edge of the property in the midst of the horse paddock](https://djon.es/assets/memex/sense/landscape-garden/./images/the-circle.jpg)
 <caption>Located on the eastern edge the Circle sits within what remains of the old [[horse-paddock]]</caption>
 </figure>
 

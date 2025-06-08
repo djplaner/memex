@@ -1,24 +1,21 @@
----
-title: Ficus macrophylla (Moreton Bay fig)
-type: plants
-tags: plants, ficus
+﻿---
 photos:
   1:
-      title: None
-      filename: CDFB1623-22C8-40C7-B68C-5F1054C65684.heic
-      latitude: -27.53802
-      longitude: 152.05618333333334
-      description: None
-      date: 2025-04-14 16:36:27
-      memexFilename: images/ficus-macrophylla/1.jpeg
+    date: 2025-04-14 16:36:27
+    description: None
+    filename: CDFB1623-22C8-40C7-B68C-5F1054C65684.heic
+    latitude: -27.53802
+    longitude: 152.05618333333334
+    memexFilename: images/ficus-macrophylla/1.jpeg
+    title: None
+tags: plants, ficus
+title: Ficus macrophylla (Moreton Bay fig)
+type: plants
 ---
-
-
-
 The [Moreton Bay fig (Ficus macrophylla)](https://en.wikipedia.org/wiki/Ficus_macrophylla) is a large evergreen tree native to eastern Australia. Broad, leathery leaves and distinctive aerial roots that can grow down from the branches to the ground - it is a banyan.  
 
 <figure markdown>
-![Closeup of a bundle of Moreton Bay fig leaves](./images/ficus-macrophylla/1.jpeg)
+![Closeup of a bundle of Moreton Bay fig leaves](https://djon.es/assets/memex/sense/landscape-garden/plants/./images/ficus-macrophylla/1.jpeg)
 <caption>Leaves from the Moreton Bay fig behind the shed. The typical reddish tinge visible underneath the leaves.</caption>
 </figure>
 

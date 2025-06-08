@@ -1,4 +1,4 @@
----
+﻿---
 title: prompt-engineering-for-educators
 ---
 ## Designing effective AI Prompts (for Primary and High School Teachers)
@@ -9,7 +9,7 @@ From Annesha Bakharia
 - [Video](https://www.youtube.com/watch?v=5WbZqVtmDYs&t=1s) 
 - [Github repo](https://github.com/aneesha/prompt_engineering)
 
-![](images/sampleTeacherPrompts.png)
+![](https://djon.es/assets/memex/sense/AI/images/sampleTeacherPrompts.png)
 
 ### Resources
 
@@ -21,7 +21,7 @@ From Annesha Bakharia
 
 - [ChatGPT to generate a mindmap on a teaching area using mermaid.js output](https://raw.githubusercontent.com/aneesha/prompt_engineering/main/mindmap.md)
 
-![](images/generateMindMap.png)
+![](https://djon.es/assets/memex/sense/AI/images/generateMindMap.png)
 
 - [Example prompt to create a grammar tutor using ChatGPT](https://raw.githubusercontent.com/aneesha/prompt_engineering/main/equation_tutor.md)
 - Pointer to [AutoGPT](https://autogpt.thesamur.ai/agi) tool to have multiple versions of ChatGPT write prompts to meet a goal

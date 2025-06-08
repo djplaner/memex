@@ -1,26 +1,24 @@
----
-title: White Shahtoot mulberry
-type: "single-plant"
-tags: ['individual-plants']
+﻿---
 latitude: -27.538371666666666
 longitude: 152.0554055
 photos:
   1:
-      title: None
-      filename: 6427D205-E5E9-44BC-B3F2-54BA95E455FC.heic
-      latitude: -27.538371666666666
-      longitude: 152.0554055
-      description: Mulberry - White Shahtoot
-      date: 2025-03-14 17:28:38
-      memexFilename: images/white-shahtoot-mulberry/1.jpeg
+    date: 2025-03-14 17:28:38
+    description: Mulberry - White Shahtoot
+    filename: 6427D205-E5E9-44BC-B3F2-54BA95E455FC.heic
+    latitude: -27.538371666666666
+    longitude: 152.0554055
+    memexFilename: images/white-shahtoot-mulberry/1.jpeg
+    title: None
+tags:
+- individual-plants
+title: White Shahtoot mulberry
+type: single-plant
 ---
-
-
-
 Located right on the border between the [[rocky-creek-frontage]] and the [[roundabout]] this example of [Morus macroura](https://en.wikipedia.org/wiki/Morus_macroura) was the second of the mulberry's planted.
 
 <figure markdown>
-![A small mulberry tree with a few leaves](images/white-shahtoot-mulberry/1.jpeg)
+![A small mulberry tree with a few leaves](https://djon.es/assets/memex/sense/landscape-garden/individual-plants/images/white-shahtoot-mulberry/1.jpeg)
 <figcaption>Mulberry tree planted on the border between rocky creek frontage and roundabout</figcaption>
 </figure>
 

@@ -1,4 +1,4 @@
----
+﻿---
 title: Building AI applications based on learning research
 ---
 [GRAILE Seminar](https://www.eventbrite.com/x/621321217487/?keep_tld=1&internal_ref=social) - [Global Research Alliance for AI in Learning and Education](https://graile.ai/)
@@ -68,11 +68,11 @@ Other features are giving debates, chats etc.
 
 Story about a student confused about why Gatsby was staring at a green light and used the chat to ask the character
 
-![](images/gatsbyInterview.png)
+![](https://djon.es/assets/memex/sense/AI/images/gatsbyInterview.png)
 
 Who then also acts as a general chatGPT
 
-![](images/gadsbyMath.png)
+![](https://djon.es/assets/memex/sense/AI/images/gadsbyMath.png)
 
 Teacher functionality
 
@@ -80,9 +80,9 @@ Teacher functionality
 - Lesson objectives
 - Co-create a rubric
 
-![](images/rubric1.png)
+![](https://djon.es/assets/memex/sense/AI/images/rubric1.png)
 
-![](images/rubric2.png)
+![](https://djon.es/assets/memex/sense/AI/images/rubric2.png)
 
 ### How to handle hallucination 
 
@@ -110,7 +110,7 @@ They've developed a <a id="prompt-template"></a>prompt template
 
 ChatGPT knows about the Graesser work on tutor models and that can be used as part of the prompt
 
-![](images/graesser.png)
+![](https://djon.es/assets/memex/sense/AI/images/graesser.png)
 
 ## Risks, concerns, mitigation 
 

@@ -1,11 +1,10 @@
----
+﻿---
+tags:
+- teaching
+- rtt
 title: Curriculum
-type: "note"
-tags: [teaching, rtt]
+type: note
 ---
-
-
-
 Fourth module in the ACU Return to Teaching course. 
 
 ## Curriculum

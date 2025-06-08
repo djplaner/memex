@@ -1,26 +1,27 @@
----
-title: Lychee (Erdon Lee)
-type: single-plant
-tags: ['individual-plant', 'rocky-creek-frontage', 'lychee', 'wood-duck-meadows']
+﻿---
 latitude: -27.538491666666665
 longitude: 152.05589166666667
 photos:
   1:
-      title: None
-      filename: 9CF0A0E2-5DDC-4BF7-B8D1-061565E58DCA.heic
-      latitude: -27.538491666666665
-      longitude: 152.05589166666667
-      description: Lychee - Erdon Lee
-      date: 2025-03-14 17:25:47
-      memexFilename: images/lychee-erdon-lee/1.jpeg
+    date: 2025-03-14 17:25:47
+    description: Lychee - Erdon Lee
+    filename: 9CF0A0E2-5DDC-4BF7-B8D1-061565E58DCA.heic
+    latitude: -27.538491666666665
+    longitude: 152.05589166666667
+    memexFilename: images/lychee-erdon-lee/1.jpeg
+    title: None
+tags:
+- individual-plant
+- rocky-creek-frontage
+- lychee
+- wood-duck-meadows
+title: Lychee (Erdon Lee)
+type: single-plant
 ---
-
-
-
 A lychee cultivar planted in the [[rocky-creek-frontage]] during the great March 2025 planting.
 
 <figure markdown>
-![Lychee (Erdon Lee) in the rocky creek frontage, just after planting in March 2025](images/lychee-erdon-lee/1.jpeg)
+![Lychee (Erdon Lee) in the rocky creek frontage, just after planting in March 2025](https://djon.es/assets/memex/sense/landscape-garden/individual-plants/images/lychee-erdon-lee/1.jpeg)
 <caption>Lychee (Erdon Lee) in the rocky creek frontage, just after planting in March 2025</caption>
 </figure>
 

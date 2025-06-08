@@ -1,4 +1,4 @@
----
+﻿---
 title: Design Science Research
 ---
 ## Definitions
@@ -8,12 +8,12 @@ title: Design Science Research
 ## Contribution
 
 <figure markdown>
-![DSR contribution types adapted from Gregor & Hevner, 2013 ](images/DSR-contribution-types.png)
+![DSR contribution types adapted from Gregor & Hevner, 2013 ](https://djon.es/assets/memex/sense/Design/images/DSR-contribution-types.png)
 <caption>DSR Contribution types adapted from Gregor & Hevner (2013)</caption>
 </figure>
 
 <figure markdown>
-![](images/DSR-knowledge-contribution-framework.png)
+![](https://djon.es/assets/memex/sense/Design/images/DSR-knowledge-contribution-framework.png)
 <caption>DSR Knowledge Contribution Framework (adapted from Gregor & Hevner, 2013, p. 345)
 </figure>
 

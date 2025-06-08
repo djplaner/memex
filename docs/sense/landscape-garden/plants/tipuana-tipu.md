@@ -1,40 +1,41 @@
----
-title: Tipuana tipu (Rosewood)
-type: plant
-tags: ['plant', 'tipuana-tipu', 'introduced', 'tree']
+﻿---
 photos:
   1:
-      title: None
-      filename: BA040134-6B14-4AE0-855E-8EFD85841D66.heic
-      latitude: -27.54078833333333
-      longitude: 152.05496116666666
-      description: None
-      date: 2025-04-05 11:40:27
-      memexFilename: images/tipuana-tipu/1.jpeg
+    date: 2025-04-05 11:40:27
+    description: None
+    filename: BA040134-6B14-4AE0-855E-8EFD85841D66.heic
+    latitude: -27.54078833333333
+    longitude: 152.05496116666666
+    memexFilename: images/tipuana-tipu/1.jpeg
+    title: None
   2:
-      title: None
-      filename: BBA1206E-478C-4DD5-B36E-0355CC6F2BD3.heic
-      latitude: -27.538483333333332
-      longitude: 152.05590833333332
-      description: None
-      date: 2025-04-06 09:08:22
-      memexFilename: images/tipuana-tipu/2.jpeg
+    date: 2025-04-06 09:08:22
+    description: None
+    filename: BBA1206E-478C-4DD5-B36E-0355CC6F2BD3.heic
+    latitude: -27.538483333333332
+    longitude: 152.05590833333332
+    memexFilename: images/tipuana-tipu/2.jpeg
+    title: None
   3:
-      title: None
-      filename: 23E06D27-EDE6-4FEC-A51A-DC6F74E26219.heic
-      latitude: -27.539021666666667
-      longitude: 152.05522216666665
-      description: None
-      date: 2025-04-06 10:14:01
-      memexFilename: images/tipuana-tipu/3.jpeg
+    date: 2025-04-06 10:14:01
+    description: None
+    filename: 23E06D27-EDE6-4FEC-A51A-DC6F74E26219.heic
+    latitude: -27.539021666666667
+    longitude: 152.05522216666665
+    memexFilename: images/tipuana-tipu/3.jpeg
+    title: None
+tags:
+- plant
+- tipuana-tipu
+- introduced
+- tree
+title: Tipuana tipu (Rosewood)
+type: plant
 ---
-
-
-
 The [Tipuana tip](https://en.wikipedia.org/wiki/Tipuana) (aka rosewood, Pride of Boliva) is a native South American tree that is considered a [weed in Australia](https://weeds.org.au/profiles/tipu-tree-rosewood/). Growing up to 10m with a distinct elevated crown the Tipuana makes an effective shade tree. It has also been useful for its timber and as stock feed. It spreads easily due to seeding prolifically and its winged fruit improving dispersal.
 
 <figure markdown>
-![Tipuana tipu with five collections of leaves visible along with two seed pods](./images/tipuana-tipu/1.jpeg)
+![Tipuana tipu with five collections of leaves visible along with two seed pods](https://djon.es/assets/memex/sense/landscape-garden/plants/./images/tipuana-tipu/1.jpeg)
 <caption>Leaves and seeds of a Tipuana tipu tree found on the [[gatton-creek-frontage]]
 </caption>
 </figure>
@@ -44,7 +45,7 @@ The [Tipuana tip](https://en.wikipedia.org/wiki/Tipuana) (aka rosewood, Pride of
 Tipuana tipu has likely been on the property for a long time. Identification wasn't made until April, 2025 in the [[gatton-creek-frontage]] zone which led us to the larger tree in the [[front-yard]]. The proximity of two Tipuana tipu trees nearby in the [[gatton-creek-frontage]] seems to demonstrate the ability of the tree to spread. All three trees were cut down in early April 2025.
 
 <figure markdown>
-![](./images/tipuana-tipu/2.jpeg)
+![](https://djon.es/assets/memex/sense/landscape-garden/plants/./images/tipuana-tipu/2.jpeg)
 <caption>The original Tipuana tipu tree in the [[front-yard]], just before cutting it down.</caption>
 </figure>
 

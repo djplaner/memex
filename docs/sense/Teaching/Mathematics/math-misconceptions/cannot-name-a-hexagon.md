@@ -1,16 +1,15 @@
----
+﻿---
 title: Cannot name a hexagon
 ---
-
 From Boaler (2015). A misconception said to arise due to the common way hexagons are shown in mathematical textbooks - a misconception available in lots of similar shapes, lines, etc
 
 Name the following shape
 
-![](images/funnyHexagon.png)
+![](https://djon.es/assets/memex/sense/Teaching/Mathematics/math-misconceptions/images/funnyHexagon.png)
 
 Does it help if you're told it has the same name as the following shape
 
-![](images/traditionalHexagon.png)
+![](https://djon.es/assets/memex/sense/Teaching/Mathematics/math-misconceptions/images/traditionalHexagon.png)
 
 ## References
 

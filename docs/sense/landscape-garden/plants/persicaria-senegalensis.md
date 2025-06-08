@@ -1,15 +1,15 @@
----
+﻿---
+tags:
+- wood-duck-meadows
+- plant
+- introduced
 title: Senegal knotweed (Persicaria senegalensis)
-type: "plants"
-tags: [ 'wood-duck-meadows' , 'plant', 'introduced' ]
+type: plants
 ---
-
-
-
 Tentative identification of plant growing profusely in [[the-dam]] around [[the-island]]. Not a lot of resources found after a quick search online.
 
 <figure markdown>
-![Senegal knotweed growing in the dam](./images/sengal-knotweed.jpeg)
+![Senegal knotweed growing in the dam](https://djon.es/assets/memex/sense/landscape-garden/plants/./images/sengal-knotweed.jpeg)
 <caption>Senegal knotweed growing in the dam</caption>
 </figure>
 

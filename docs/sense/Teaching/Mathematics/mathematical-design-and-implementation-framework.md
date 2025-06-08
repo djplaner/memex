@@ -51,7 +51,7 @@ Ensure problem is sufficiently open-ended and accessible to the students. Provid
 Considering, possible solution pathways, scaffolding questions, sufficient non-mathematical content, description of the problem solving method, examples etc.
 
 <figure markdown>
-![Diagram representing The mathematical modelling cycle](images/mathematicalModellingCycle.png)
+![Diagram representing The mathematical modelling cycle](https://djon.es/assets/memex/sense/Teaching/Mathematics/images/mathematicalModellingCycle.png)
 <caption>The mathematical modelling cycle (<a href="https://www.mathsmodellingenablers.com/uploads/1/3/1/9/131996757/maths_modelling_a4_c.pdf">original</a>)</caption>
 </figure>
 

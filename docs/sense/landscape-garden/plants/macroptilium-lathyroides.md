@@ -1,11 +1,12 @@
----
+﻿---
+tags:
+- wood-duck-meadows
+- plant
+- weed
+- introduced
 title: Macroptilium lathyroides (Phasey Bean)
-type: "plants"
-tags: [ 'wood-duck-meadows', 'plant', 'weed', 'introduced' ]
+type: plants
 ---
-
-
-
 [Macroptilium lathyroides (aka Phasey Bean)](https://en.wikipedia.org/wiki/Macroptilium_lathyroides) is a legume native to the Americas and introduced to Queensland as a pasture legume and is now [considered a weed](https://en.wikipedia.org/wiki/Macroptilium_lathyroides).
 
 ## History at Wood Duck Meadows
@@ -13,7 +14,7 @@ tags: [ 'wood-duck-meadows', 'plant', 'weed', 'introduced' ]
 Found growing on the [[fig-tree-berm]] in February 2025.
 
 <figure markdown>
-![Phasey Bean](./images/phasey-bean.jpeg)
+![Phasey Bean](https://djon.es/assets/memex/sense/landscape-garden/plants/./images/phasey-bean.jpeg)
 <caption>Phasey Bean</caption>
 </figure>
 

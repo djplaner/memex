@@ -1,4 +1,4 @@
----
+﻿---
 title: '# Ginger Nuts'
 ---
 ## Ginger Nuts
@@ -24,4 +24,4 @@ title: '# Ginger Nuts'
 
 ### Orginal
 
-![](images/gingerNuts.png)
+![](https://djon.es/assets/memex/sense/Recipes/images/gingerNuts.png)

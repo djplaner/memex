@@ -1,4 +1,4 @@
----
+﻿---
 title: Growing with Canvas
 ---
 Summary of working through [a training course](https://www.canvas.net/browse/cn-pd/courses/growing-with-canvas) offered by Canvas. Ooh, and earning badges ��.
@@ -45,15 +45,15 @@ Assignments are embedded within the modules, but also available as assignments. 
 
 With the absence of CSS, the page headings appear to use explictly embedded images to change the visual appearance of headings.
 
-![](images/headingsWithImages.png)
+![](https://djon.es/assets/memex/sense/Design/canvas/images/headingsWithImages.png)
 
 Some modules have links to other pages within the module (e.g below). Do these have to be hand coded? If so would many teachers do this?  
 
-![](images/moduleInternalLinks.png)
+![](https://djon.es/assets/memex/sense/Design/canvas/images/moduleInternalLinks.png)
 
 And the breadcrumb confusion made worse by requirements and internal links
 
-![](images/lostInModules.png)
+![](https://djon.es/assets/memex/sense/Design/canvas/images/lostInModules.png)
 
 
 ## Home page

@@ -1,15 +1,16 @@
----
+﻿---
+tags:
+- wood-duck-meadows
+- plant
+- weed
+- introduced
 title: Asparagus africanus (Climbing asparagus fern)
-type: "note"
-tags: [ wood-duck-meadows, plant, weed, introduced ]
+type: note
 ---
-
-
-
 Climbing asparagus (Asparagus africanus) is the first [environmental weed](https://weeds.brisbane.qld.gov.au/weeds/climbing-asparagus-fern) aggressively removed from [[wood-duck-meadows]]. Where it grew as a long-lived climber with prickly stems with tiny "leaves" giving a fern-like appearance.
 
 <figure markdown>
-![Numerous 'shrubs' formed by Asparagus africanus sprawling over long grass](./images/asparagus-fern-sprawling-islant.jpeg)
+![Numerous 'shrubs' formed by Asparagus africanus sprawling over long grass](https://djon.es/assets/memex/sense/landscape-garden/plants/./images/asparagus-fern-sprawling-islant.jpeg)
 <caption>Numerous "shrubs" formed by Asparagus africanus sprawling over long grass (early work on [[the-island]])</caption>
 </figure>
 
@@ -20,7 +21,7 @@ Asparagus africanus has been found throughout [[wood-duck-meadows]], including: 
 All removal has been done by hand. Often requiring two or three passes to remove entirely.
 
 <figure markdown>
-![Before and after Asparagus africanus removal from the Island](../images/early-clearing.jpg)
+![Before and after Asparagus africanus removal from the Island](https://djon.es/assets/memex/sense/landscape-garden/plants/../images/early-clearing.jpg)
 <caption>Before and after clearing of Asparagus africanus from [[the-island]]</caption>
 </figure>
 

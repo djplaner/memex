@@ -1,4 +1,4 @@
----
+﻿---
 title: Pondering Hax Web Components and Blackboard
 ---
 ```toml
@@ -13,7 +13,7 @@ img_base_url="https://djplaner.github.io/memex/share/blog/"
 
 So look what I've done inside my [Blackboard Learn](https://en.wikipedia.org/wiki/Blackboard_Learn) sandpit site.
 
-![Initial example of magic script web components in Blackboard](haxImages/happyDance.gif)
+![Initial example of magic script web components in Blackboard](https://djon.es/assets/memex/share/blog/haxImages/happyDance.gif)
 
 It probably doesn't look that exciting. A bit of HTML and a couple of animated GIFS. Anyone could do that, right?
 
@@ -47,13 +47,13 @@ To do this I would (and did) add the following HTML to my Blackboard page.
 ```
 Which produces the following (all on the same Blackboard page).
 
-![Hello World Happy Dance](haxImages/HelloWorldHappyDance.gif)
+![Hello World Happy Dance](https://djon.es/assets/memex/share/blog/haxImages/HelloWorldHappyDance.gif)
 
 **Note:** The _meme-maker_ tag wouldn't work without the _p_ tag around it. Perhaps a Blackboard thing, or perhaps an artefact of the kludge I've used to get it to work in Blackboard.
 
 The **meme-maker** web component includes code that knows how to take the values I've placed in the **top-text** and **bottom-text** attributes and overlay them onto the image I've specified in **image-url**.  Change those attributes and I can create a new "meme".  For example, something a little more HAX.
 
-![Joker Hello World](haxImages/JokerHelloWorld.png)
+![Joker Hello World](https://djon.es/assets/memex/share/blog/haxImages/JokerHelloWorld.png)
 
 ## But wait, there's more
 
@@ -100,7 +100,7 @@ All of this is enabled through the use of web components. HAX uses the magic scr
 
 For example, the following screenshot shows the use of HAX to add a horizontal line into the Blackboard page from above. 
 
-![Adding a horizontal line to Blackboard using HAX](haxImages/haxEditingBlackboardPage.png)
+![Adding a horizontal line to Blackboard using HAX](https://djon.es/assets/memex/share/blog/haxImages/haxEditingBlackboardPage.png)
 
 Of course, the edit I'm making to the Blackboard page is only visible to me while I'm looking at the page. Any change I make is not saved for later use. For that to happen HAX needs to be integrated into the authing process of the content management system (in this case Blackboard). The [What is HAV?](https://youtu.be/9Mq6J6U9K9Q?t=429) includes examples of this happening in various different content management systems including Grav, Drupal and variations of Wordpress. This is achieved via changes to the content management systems editing process. For example, [this Javascript for Wordpress](https://plugins.trac.wordpress.org/browser/haxtheweb/tags/3.9.4/js/hax-the-press.js).
 
@@ -137,7 +137,7 @@ With the Content Interface authors use Microsoft Word (a tool many are comfortab
 
 One of the styles supported by the Content Interface is the _embed_ style. It's used to include HTML (e.g. the embed code for a YouTube video) in the Word document which is then turned into HTML in Blackboard that is displayed (e.g. the YouTube video). If the magic script Javascript is added to the Content Interface javascript then it should be possible to embed web component HTML in the Word document and have it displayed via the Content Interface.
 
-![Magic script, web components and the Content Interface working together](haxImages/WebComponentsInCardInterface.gif)
+![Magic script, web components and the Content Interface working together](https://djon.es/assets/memex/share/blog/haxImages/WebComponentsInCardInterface.gif)
 
 #### The more useful approach - not yet
 
@@ -153,7 +153,7 @@ In fact, the Content Interface itself could be rewritten as a web component.  En
 
 i.e. include the magic script with the Card Interface code and embed a web component. The problem with this approach is that the web component HTML has to be entered via TinyMCE (details about Cards are entered via TinyMCE into Blackboard content items) leading to the HTML entity problem...but it doesn't. As shown in the following image.
 
-![Web components in the Card Interface](haxImages/WebComponentsInCardInterface.gif)
+![Web components in the Card Interface](https://djon.es/assets/memex/share/blog/haxImages/WebComponentsInCardInterface.gif)
 
 This is actually an unexpected outcome. A bit of tidying up would enable this to work somewhat.  But of questionable value.
 

@@ -1,11 +1,8 @@
----
-title: CSER Maths in Schools - Practices and pedagogies
-type: "note"
+﻿---
 tags: cser, cser-maths-in-schools, cser-getting-started, teaching-mathematics
+title: CSER Maths in Schools - Practices and pedagogies
+type: note
 ---
-
-
-
 Examines several practices/pedagogies for exploring mathematical concepts and ideas. Uses the _add to your toolkit_ metaphor.
 
 ## Overview
@@ -15,7 +12,7 @@ Starts with the disclaimer about the complexity of teaching. Multiple approaches
 References Hattie's [Visible Learning work](https://www.visiblelearningmetax.com/) and offers the following image adapted from Hattie's work and the Victorian DoE's 10 high-impact strategy work. 
 
 <figure markdown>
-![](images/HITs.png)
+![](https://djon.es/assets/memex/sense/Teaching/Mathematics/cser-mooc/images/HITs.png)
 <caption>High Impact Teaching Strategies</caption>
 </figure>
 
@@ -331,7 +328,7 @@ Depending on time, get the students to play another few rounds to put these stra
 Introduce magic squares including giving its history of usage across cultures (e.g. China, Japan, India etc.). Ending with the planetary squares from Europe (around 1531) and see if anyone makes a connection between Saturn's square and Number Scrabble.
 
 <figure markdown>
-![A 3x3 magic square for numbers 1-9](images/saturnMagicSquare.png)
+![A 3x3 magic square for numbers 1-9](https://djon.es/assets/memex/sense/Teaching/Mathematics/cser-mooc/images/saturnMagicSquare.png)
 <caption>Saturn's magic square (from [Wikipedia](https://en.wikipedia.org/wiki/Magic_square#Europe_after_15th_century))</caption>
 <caption>
 </figure>

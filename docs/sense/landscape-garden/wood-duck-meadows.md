@@ -1,14 +1,13 @@
----
-title: Wood duck meadows
-type: "note"
-tags: gardens, sense, landscape
+﻿---
 backlinks:
-    - text: "Wood duck meadows"
-      url: "./wood-duck-meadows.html"
-    - text: "plants"
-      url: "./plants/plants.html"
+- text: Wood duck meadows
+  url: ./wood-duck-meadows.html
+- text: plants
+  url: ./plants/plants.html
+tags: gardens, sense, landscape
+title: Wood duck meadows
+type: note
 ---
-
 Internal backlinks: [[wood-duck-plant-selection]], [[individual-plants]]
 
 See also: [wood-duck-gallery](./wood-duck-gallery.md), [[plants]], [[individual-plants]], [plant-locations](./individual-plants/plant-location.html)
@@ -28,7 +27,7 @@ The [[house]] is also undergoing a regeneration to be more appropriate to the ch
     Click on an image to view the photos in a galley mode.
 
 <figure markdown>
-![10s (100s?) of ducks lining the banks of the dam](./images/wood-duck-meadows-2013.jpeg)
+![10s (100s?) of ducks lining the banks of the dam](https://djon.es/assets/memex/sense/landscape-garden/./images/wood-duck-meadows-2013.jpeg)
 <caption>2013 photo (yes we did have horses for a while) taken from the veranda of the house looking towards [[the-dam]] offering an insight into the origins of the name "Wood duck meadows"</caption>
 </figure>
 

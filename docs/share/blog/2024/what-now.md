@@ -1,4 +1,4 @@
----
+﻿---
 title: What now?
 ---
 ```toml
@@ -46,7 +46,7 @@ Throughout my work in higher education the focus understanding the local environ
 The need is obvious. Since colonisation at least [40% of Australia's forests](https://theconversation.com/in-2025-lets-make-it-game-on-not-game-over-for-our-precious-natural-world-245761) have been cleared. Since 2001, [losses in South-East Queensland](https://www.hlw.org.au/region/about/natural-assets/nature#gsc.tab=0) include: 7,384 hectares of remnant vegetation, 54,983 hectares of woody vegetation, and 1,220 hectares of natural wetlands. [Our block](https://djplaner.github.io/memex/sense/landscape-garden/wood-duck-meadows.html) has evidence of brigalow scrub and other ecosystems but falls within an area that is [classified as "non-remnant"](https://www.qld.gov.au/environment/plants-animals/biodiversity/glossary). i.e. it has been heavily thinned, has significant disturbed vegetation, or cleared. Which in our case includes some significant infestation by nasty weeds. For example, the [climbing asparagus fern](https://weeds.brisbane.qld.gov.au/weeds/climbing-asparagus-fern) in the following image (in the left photo, not the right) which shows off some of my early work.
 
 <figure markdown>
-![Early clearing. Two images of the same location. The earlier "how it started" image shows significiant asparagus fern overgrowing numerous trees, including a Bunya Pine. The latter "How it's going" shows the same trees with the asparagus fern removed.](../../../sense/landscape-garden/images/early-clearing.jpg)
+![Early clearing. Two images of the same location. The earlier "how it started" image shows significiant asparagus fern overgrowing numerous trees, including a Bunya Pine. The latter "How it's going" shows the same trees with the asparagus fern removed.](https://djon.es/assets/memex/share/blog/2024/../../../sense/landscape-garden/images/early-clearing.jpg)
 <caption>Evidence of asparagus fern removal</caption>
 </figure>
 

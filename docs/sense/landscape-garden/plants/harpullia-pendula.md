@@ -1,20 +1,21 @@
----
-title: Harpullia Pendula (Moreton Bay Tulipwood)
-type: plant
-tags: ['wood-duck-meadows', 'plant', 'native', 'tree']
+﻿---
 photos:
   1:
-      title: None
-      filename: 23ACFC5B-12A2-43B3-A1EE-91FBD2E9ACAC.heic
-      latitude: -27.538616666666666
-      longitude: 152.05635
-      description: None
-      date: 2025-04-20 10:10:40
-      memexFilename: images/harpullia-pendula/1.jpeg
+    date: 2025-04-20 10:10:40
+    description: None
+    filename: 23ACFC5B-12A2-43B3-A1EE-91FBD2E9ACAC.heic
+    latitude: -27.538616666666666
+    longitude: 152.05635
+    memexFilename: images/harpullia-pendula/1.jpeg
+    title: None
+tags:
+- wood-duck-meadows
+- plant
+- native
+- tree
+title: Harpullia Pendula (Moreton Bay Tulipwood)
+type: plant
 ---
-
-
-
 [Harpullia pendula](https://en.wikipedia.org/wiki/Harpullia_pendula) (aka Moreton Bay Tulipwood) is a dry rainforest tree endemic to Eastern Australia.
 
 ## History at [[wood-duck-meadows]]
@@ -24,7 +25,7 @@ Existing mature tree planted by previous owners in the the [[roundabout]] not fa
 Hugh and Kay donated a Tulipwood sapling in April, 2025. Remains some uncertainty about the exact species of [Australian tulipwood](https://en.wikipedia.org/wiki/Tulipwood#Australian) it is.
 
 <figure markdown>
-![H&K's donated sapling](./images/harpullia-pendula/1.jpeg)
+![H&K's donated sapling](https://djon.es/assets/memex/sense/landscape-garden/plants/./images/harpullia-pendula/1.jpeg)
 <caption>H&K's donated sapling</caption>
 </figure>
 

@@ -1,11 +1,11 @@
----
+﻿---
+tags:
+- gardens
+- sense
+- landscape
 title: The Island
-type: "zone"
-tags: [gardens, sense, landscape]
+type: zone
 ---
-
-
-
 _The Island_ is a man made island crafted by the property's dam and the earthworks that direct run-off into the dam. It is at least 500 square metres. 
 
 A previous owner had spent had placed irrigation on the island and planted numerous plants including: a [[bunya-pine]]; [Maruritius-hemp](https://en.wikipedia.org/wiki/Furcraea_foetida); bamboo, and, a [Paperbark tree](https://en.wikipedia.org/wiki/Melaleuca_quinquenervia) amongst other things. However, for sometime the island had been ignored and suffered during drought seasons. The bamboo and paperbark have died. With [[asparagus-africanus]] (climbing asparagus) having taken over most of the island and making it all but impassable.
@@ -18,7 +18,7 @@ A previous owner had spent had placed irrigation on the island and planted numer
 
 
 <figure markdown>
-![The island](./images/theIsland.jpg)
+![The island](https://djon.es/assets/memex/sense/landscape-garden/./images/theIsland.jpg)
 <figcaption>The island</figcaption>
 </figure>
 
@@ -40,7 +40,7 @@ The first step was getting rid of the climbing asparagus and other unwanted plan
 Following image shows progress from an early stage where some bamboo and [[asparagus-africanus]] (Climbing asparagus fern) had been removed. Though with large amounts still visible climbing up the trees and just about anything else. In the _how it's going_ image the house and the Mauritius hemp are now visible.
 
 <figure markdown>
-![A comparison of clearing on the island. The 'how it started' image shows a small number of trees largely overtaken by asparagus fern. With only a the odd trunk and branch visible. The 'how it's going' image shows the same trees (and Mauritius hemp) now almost entirely visible. The house is also visible.](images/early-clearing.jpg)
+![A comparison of clearing on the island. The 'how it started' image shows a small number of trees largely overtaken by asparagus fern. With only a the odd trunk and branch visible. The 'how it's going' image shows the same trees (and Mauritius hemp) now almost entirely visible. The house is also visible.](https://djon.es/assets/memex/sense/landscape-garden/images/early-clearing.jpg)
 <figcaption>Early clearing progress</figcaption>
 </figure>
 
@@ -49,12 +49,12 @@ Following image shows progress from an early stage where some bamboo and [[aspar
 After removing the climbing asparagus, it was time for the Mauritius hemp to go.
 
 <figure markdown>
-![Maurtitius hemp plants growing amongst the [[asparagus-africanus]] (climbing asparagus) near the [[bunya-pine]] on [[the-island]] ](./plants/images/maruritius-hemp.jpeg)
+![Maurtitius hemp plants growing amongst the [[asparagus-africanus]] (climbing asparagus) near the [[bunya-pine]] on [[the-island]] ](https://djon.es/assets/memex/sense/landscape-garden/./plants/images/maruritius-hemp.jpeg)
 <caption></caption>
 </figure>
 
 <figure markdown>
-![The third photo of clearing "the island" illustrating the reduction (but not complete removal) of the Mauritius hemp.](images/mauritius-hemp-removal.jpeg)
+![The third photo of clearing "the island" illustrating the reduction (but not complete removal) of the Mauritius hemp.](https://djon.es/assets/memex/sense/landscape-garden/images/mauritius-hemp-removal.jpeg)
 <figcaption>Removing the Mauritius hemp</figcaption>
 </figure>
 

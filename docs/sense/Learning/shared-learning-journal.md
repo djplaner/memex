@@ -1,14 +1,11 @@
----
-title: "Shared learning journal"
+﻿---
+tags:
+- learning
+- journal
+- shared-learning-journal
+title: Shared learning journal
 type: note
-tags: 
-    - learning
-    - journal
-    - shared-learning-journal
 ---
-
-
-
 Aiming to produce a course learning journal to encourage more active and deeper learning, through
 
 - Asking the learner to externalise their learning/thinking in a shared artefact.
@@ -84,7 +81,5 @@ Information and insight about each week of the course.
 >  She likes to get to the bottom of things and often reflects on possibilities, implications, applications, and consequences of what she is learning. She uses high-level learning activities such as reflecting, analyzing, and comparing that continually deepen her understanding.
 
 <figure markdown>
-![](images/solo.png)
+![](https://djon.es/assets/memex/sense/Learning/images/solo.png)
 </figure>
-
-

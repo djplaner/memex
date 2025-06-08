@@ -1,4 +1,4 @@
----
+﻿---
 title: On formal qualifications and improving learning and teaching
 ---
 ```toml
@@ -13,7 +13,7 @@ img_base_url="https://djplaner.github.io/memex/share/blog/"
 
 The following is sparked by Twitter conversations arising from a [tweet from @neilmosley5](https://twitter.com/neilmosley5/status/1375704895853096961) quoting from [this article](https://www.universityworldnews.com/post.php?story=2019112809050642) by [Tony Bates](https://www.tonybates.ca/). In particular, pondering [a tweet from @gamerlearner](https://twitter.com/gamerlearner/status/1376322969417314304) where the idea is that a "consistent requirement for educators in HE to have some kind of formal teaching qual" will not only help motivate academics "to take time out to learn how to teach better" and generally value teaching more.
 
-![](2021-03-30-08-57-17.png)
+![](https://djon.es/assets/memex/share/blog/2021-03-30-08-57-17.png)
 
 It is somewhat troubling and inconsistent that there is no requirement for university academics to have formal teaching qualifications. But I don't see how such a requirement **by itself** will fix issues with the quality of learning and teaching in universities. Especially in the context of Australian higher education given the growing complexity learning and teaching arising from on-going change (e.g. micro-credentials, WIL, multi-modal, flexible, COVID...)
 

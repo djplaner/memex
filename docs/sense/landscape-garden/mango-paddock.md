@@ -1,17 +1,14 @@
----
-title: Mango paddock
-type: "zone"
+﻿---
 tags: gardens, landscape, wood-duck-meadows
+title: Mango paddock
+type: zone
 ---
-
-
-
 The Mango paddock is a south-western paddock and titled after the two mango trees planted recently. It's also home to two [[bunya-pine]] trees, a fig tree, and miscellaneous other trees.
 
 ## Location
 
 <figure markdown>
-![South-western corner of the property bounded by a polygon labelled as the Mango paddock](./images/mango-paddock-location.jpg)
+![South-western corner of the property bounded by a polygon labelled as the Mango paddock](https://djon.es/assets/memex/sense/landscape-garden/./images/mango-paddock-location.jpg)
 <caption>The Mango paddock is in the south-western portion of the property below the [[cherry-tree-walk]] and [[the-dam]] </caption>
 </figure>
 

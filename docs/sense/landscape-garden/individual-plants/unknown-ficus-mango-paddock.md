@@ -1,26 +1,26 @@
----
-title: Unknown ficus (mango paddock)
-type: single-plant
-tags: ['individual-plants', 'mango-paddock', 'wood-duck-meadows']
+﻿---
 latitude: -27.539578333333335
 longitude: 152.05529716666666
 photos:
   1:
-      title: None
-      filename: 0690A5E2-50A2-43D7-BC10-3F81E8F8EC6C.heic
-      latitude: -27.539578333333335
-      longitude: 152.05529716666666
-      description: Fig - unknown type 
-      date: 2025-03-14 17:54:32
-      memexFilename: images/unknown-ficus-mango-paddock/1.jpeg
+    date: 2025-03-14 17:54:32
+    description: Fig - unknown type
+    filename: 0690A5E2-50A2-43D7-BC10-3F81E8F8EC6C.heic
+    latitude: -27.539578333333335
+    longitude: 152.05529716666666
+    memexFilename: images/unknown-ficus-mango-paddock/1.jpeg
+    title: None
+tags:
+- individual-plants
+- mango-paddock
+- wood-duck-meadows
+title: Unknown ficus (mango paddock)
+type: single-plant
 ---
-
-
-
 Yet another (unknown) ficus planted in the great March planting of 2025 in the [[mango-paddock]]
 
 <figure markdown>
-![Small unknown ficus tree newly planted in the ground with the leg/boot of someone impinging on the shot](images/unknown-ficus-mango-paddock/1.jpeg)
+![Small unknown ficus tree newly planted in the ground with the leg/boot of someone impinging on the shot](https://djon.es/assets/memex/sense/landscape-garden/individual-plants/images/unknown-ficus-mango-paddock/1.jpeg)
 <caption>The unknown ficus and a boot</caption>
 </figure>
 

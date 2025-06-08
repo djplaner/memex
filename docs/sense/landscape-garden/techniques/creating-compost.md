@@ -1,12 +1,11 @@
----
+﻿---
+tags:
+- regeneration
+- techniques
+- compost
 title: Creating compost
 type: note
-tags: 
-    - regeneration
-    - techniques
-    - compost
 ---
-
 How to speed up the process of decomposing organic matter into compost.
 
 ## Compost at [[wood-duck-meadows]]
@@ -22,7 +21,7 @@ Our first larger scale attempt is inspired by the [Weedy Gardner's approach](htt
 - the browns and greens.
 
 <figure markdown>
-![Compost bay design for Wood duck meadows](images/compost.gif)
+![Compost bay design for Wood duck meadows](https://djon.es/assets/memex/sense/landscape-garden/techniques/images/compost.gif)
 <caption>Initial design for compost bays at [[wood-duck-meadows]]</caption>
 </figure>
 
@@ -30,12 +29,12 @@ Our first larger scale attempt is inspired by the [Weedy Gardner's approach](htt
 ### Construction
 
 <figure markdown>
-![](images/compost-frame.jpeg)
+![](https://djon.es/assets/memex/sense/landscape-garden/techniques/images/compost-frame.jpeg)
 <caption>The star pickets for the frame are up</caption>
 </figure>
 
 <figure markdown>
-![](images/compost-first-bay.jpeg)
+![](https://djon.es/assets/memex/sense/landscape-garden/techniques/images/compost-first-bay.jpeg)
 <caption>The first bay is up</caption>
 </figure>
 

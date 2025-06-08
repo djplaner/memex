@@ -1,17 +1,16 @@
----
+﻿---
+tags:
+- gardens
+- landscape
 title: Roundabout
-type: "zone"
-tags: [gardens, landscape]
+type: zone
 ---
-
-
-
 The "roundabout" is a small section that splits the [[gatton-creek-frontage]] and the [[rocky-creek-frontage]]
 
 ## Location
 
 <figure markdown>
-![Roundabout](./images/roundabout.jpg)
+![Roundabout](https://djon.es/assets/memex/sense/landscape-garden/./images/roundabout.jpg)
 <figcaption>Roundabout location</figcaption>
 </figure>
 

@@ -1,8 +1,7 @@
 ﻿---
 title: Teaching with video in Canvas
 ---
-
-![](images/video-agenda.png)
+![](https://djon.es/assets/memex/sense/Design/canvas/images/video-agenda.png)
 
 ## Uploading/embedding with RCE
 
@@ -54,7 +53,6 @@ Zehetmeier 2014
 
 Lit review 2810 -> 14 inclusions
 
-![](images/elearingLitReview.png)
+![](https://djon.es/assets/memex/sense/Design/canvas/images/elearingLitReview.png)
 
 Greenhalg et al 2014 - reinvention important - assembling into personal technology
-

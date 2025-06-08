@@ -45,7 +45,7 @@ See also
 - [5 people who used maths to change the world](https://education.nsw.gov.au/schooling/parents-and-carers/going-to-school/everyday-maths/high-school/resources/five-people-who-used-maths-to-change-the-world-years-7-and-8)
 
 <figure markdown>
-![](images/goosMLModel.png)
+![](https://djon.es/assets/memex/sense/Teaching/Mathematics/images/goosMLModel.png)
 <caption>A model of ML (adapted from Bolstad, 2023, p. 241)</caption>
 </figure>
 

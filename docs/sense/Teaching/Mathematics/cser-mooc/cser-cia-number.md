@@ -1,12 +1,9 @@
----
-title: CSER Number - Content In Action
-type: "note"
+﻿---
 tags: cser, teaching-mathematics, number
 template: math.html
+title: CSER Number - Content In Action
+type: note
 ---
-
-
-
 Resources
 
 - [Bar model with ratios](https://www.resolve.edu.au/bar-model-secondary-maths?lesson=1650)
@@ -54,7 +51,7 @@ Then presents the year level descriptions for secondary. Let's focus on year 8 a
 ## Every day mathematics
 
 <figure markdown>
-![](images/everyDayMaths.png)
+![](https://djon.es/assets/memex/sense/Teaching/Mathematics/cser-mooc/images/everyDayMaths.png)
 <caption>Visual representation of some of the everyday usages of number (from [[maths-in-schools]])</caption>
 </figure>
 

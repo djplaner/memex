@@ -1,7 +1,6 @@
----
+﻿---
 title: Education 4.0
 ---
-
 ## Core elements
 
 Adapted from Goldin et al (2022)
@@ -20,13 +19,13 @@ Adapted from Goldin et al (2022)
 
 Really quite a hodge podge, Goldin et al (2022) refine this to 
 
-![](images/coreElementsEducation4.png)
+![](https://djon.es/assets/memex/sense/concepts/images/coreElementsEducation4.png)
 
 ## Perceived barriers 
 
 Goldin et al (2022)
 
-![](images/barriersEducation4.png)
+![](https://djon.es/assets/memex/sense/concepts/images/barriersEducation4.png)
 
 
 ## References

@@ -1,15 +1,17 @@
----
+﻿---
+tags:
+- wood-duck-meadows
+- plant
+- weed
+- vine
+- introduced
 title: Passiflora subpeltata (White passionflower)
-type: "plants"
-tags: [ 'wood-duck-meadows', 'plant', 'weed', 'vine', 'introduced' ]
+type: plants
 ---
-
-
-
 Vine with slender stems, small white flowers and pale green with three rounded lobes. [Considered an environmental weed](https://weeds.brisbane.qld.gov.au/weeds/white-passionflower) in Queensland and NSW.
 
 <figure markdown>
-![White passionflower](./images/passiflora-subpeltata.jpeg)
+![White passionflower](https://djon.es/assets/memex/sense/landscape-garden/plants/./images/passiflora-subpeltata.jpeg)
 <caption>White passionflower vine found on the southern edge of [[the-dam]]</caption>
 </figure>
 

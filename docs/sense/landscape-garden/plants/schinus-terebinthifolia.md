@@ -1,20 +1,21 @@
----
-title: Schinus Terebinthifolia (Brazilian pepper tree)
-type: plants
-tags: ['garden', 'plant', 'weed', 'invasive']
+﻿---
 photos:
   1:
-      title: None
-      filename: 6098EDD5-A7C5-48A6-BBC4-43A1F3D6EFDF.heic
-      latitude: -27.538991666666668
-      longitude: 152.0565945
-      description: None
-      date: 2025-01-25 06:24:40
-      memexFilename: images/schinus-terebinthifolia/1.jpeg
+    date: 2025-01-25 06:24:40
+    description: None
+    filename: 6098EDD5-A7C5-48A6-BBC4-43A1F3D6EFDF.heic
+    latitude: -27.538991666666668
+    longitude: 152.0565945
+    memexFilename: images/schinus-terebinthifolia/1.jpeg
+    title: None
+tags:
+- garden
+- plant
+- weed
+- invasive
+title: Schinus Terebinthifolia (Brazilian pepper tree)
+type: plants
 ---
-
-
-
 The Schinus Terebinthifolia (aka Brazilian pepper tree) is a small tree that can grow up to 10m tall. It is native to South America and is considered a weed in Australia. 
 
 ## History at Wood Duck Meadows
@@ -22,12 +23,12 @@ The Schinus Terebinthifolia (aka Brazilian pepper tree) is a small tree that can
 Apparently planted by previous owners. Visible and removed from the [[roundabout]] and [[the-island]]. However, not before it's influence has spread. With odd "pepper trees" popping up all over the place, including a mini-forest of them growing beneath the [[roundabout]] in Rocky Creek. Late January/early February 2025 saw a concerted effort at removal. An on-going effort that continued to reveal just how effectively Schinus Terebinthifolia can spread with small and larger examples being found everywhere.
 
 <figure markdown>
-![](./images/schinus-terebinthifolia/1.jpeg)
+![](https://djon.es/assets/memex/sense/landscape-garden/plants/./images/schinus-terebinthifolia/1.jpeg)
 <caption>Closeup of fruit and leaves of one of the Schinus Terebinthifolia (Brazilian pepper) trees from the [[roundabout]]</caption>
 </figure>
 
 <figure markdown>
-![Before & after of the pepper tree mini-forest - 2 Feb 2025](images/pepper-before-after-small.jpg)
+![Before & after of the pepper tree mini-forest - 2 Feb 2025](https://djon.es/assets/memex/sense/landscape-garden/plants/images/pepper-before-after-small.jpg)
 <caption>Before & after of the pepper tree mini-forest - 2 Feb 2025</caption>
 </figure>
 

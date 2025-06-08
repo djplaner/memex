@@ -11,7 +11,7 @@ The latter version also appears to be used in health
 
 Adapted from [Chun nd](https://www.yumpu.com/en/document/read/11738175/faster-better-cheaper-the-iron-triangle-of-higher-education-cae)
 
-![](visualise_iron_triangle.png)
+![](https://djon.es/assets/memex/sense/Design/visualise_iron_triangle.png)
 
 ## Old engineer's saying
 
@@ -183,7 +183,7 @@ Three changes
 2. Focus on utilisation of OER, rather than just technology
 3. a 3-dimensional representation to better fit modellign with 3 performance indicators
 
-![Mulder's 3d representation of the iron triangle](pics/3d-iron-triangle-mulder.png)  
+![Mulder's 3d representation of the iron triangle](https://djon.es/assets/memex/sense/Design/pics/3d-iron-triangle-mulder.png)  
 
 
 ## References

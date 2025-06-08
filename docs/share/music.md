@@ -1,12 +1,8 @@
----
+﻿---
+tags: music, family
 title: Music
 type: family
-tags: music, family
 ---
-
-
-
-
 ## Zach
 
 ### Compositions
@@ -54,7 +50,7 @@ Australian Double Reed Society&#39;s Queensland branch [2018 competition](https:
 - Zeke, Zach and William Shi - Open Ensemble (3rd place): [2nd movement of Poulenc's Trio for Piano, Oboe and Bassoon](https://djon.es/music/adrs2018/Poulenc.mp3) - Also 2nd place in Toowoomba Eisteddfod
 
 <figure markdown>
-![Zeke, Zach, and William Shi performing as a trio (bassoon, oboe, piano) in a UQ music room as part of the 2018 ADRS competition](images/Poulenc_trio.jpg)
+![Zeke, Zach, and William Shi performing as a trio (bassoon, oboe, piano) in a UQ music room as part of the 2018 ADRS competition](https://djon.es/assets/memex/share/images/Poulenc_trio.jpg)
 <caption>Poulenc Trio - Zeke, Zach, and William Shi - [the performance](https://djon.es/music/adrs2018/Poulenc.mp3)</caption>
 </figure>
 
@@ -72,5 +68,3 @@ Australian Double Reed Society National Competition
 - Intermediate section (playing for less than 4 years) - Zeke 1st place
 
     - [Allegro Spiritoso](http://djon.es/music/adrs2018/AllegroSpiritoso_Melbourne.mp3)
-
-

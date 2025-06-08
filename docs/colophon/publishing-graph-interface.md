@@ -1,15 +1,14 @@
----
-title: Publishing graph interface
-type: "note"
+﻿---
 tags:
-    - colophon
-    - about
+- colophon
+- about
+title: Publishing graph interface
+type: note
 ---
-
 Foam has a graph/map feature for notes from within VS-Code (see the figure below) but that doesn't help when publishing to the web. Following are my notes playing around with adding a graph interface to this site.
 
 <figure markdown>
-![](images/foam-graph.png)
+![](https://djon.es/assets/memex/colophon/images/foam-graph.png)
 <figcaption>Sample graph/map of memex (within VSCode)</figcaption>
 </figure>
 
@@ -82,5 +81,3 @@ A web application for analysing large data sets that also provides a [Javascript
 
     - This works and the file can be opened in Gephi. Need to choose some layouts to get reasonably visualisation.
     - Also doesn't read the front matter etc. Meaning less than stellar context. But workable.
-
-

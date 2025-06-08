@@ -1,10 +1,6 @@
----
+﻿---
 title: Customising LLMs
 ---
-
-
-
-
 Appears there are two broad approaches: fine-tuning and embedding. With embedding seemingly the most accessible. LangChain is a framework designed to help implement embeddings using different LLMs, including (apparently) local LLMs. LangChain and the link help with creating the underlying orchestration engine for LLM interactions.
 
 Resources 
@@ -38,7 +34,7 @@ Resources
 
 ## [LLM Embedding and Fine Tuning](https://www.promptengineering.org/master-prompt-engineering-llm-embedding-and-fine-tuning/)
 
-![](images/llm-decision-tree.png)
+![](https://djon.es/assets/memex/sense/AI/explorations/images/llm-decision-tree.png)
 
 Both fine-tuning and embeddings have challenges.
 
@@ -94,7 +90,7 @@ Echoing the idea being [[first-llm-api-experiments]]
 
 Presents the following high level model. Planning to use _document embeddings_ to provide the context aware information 
 
-![](images/using-llm-framework.png)
+![](https://djon.es/assets/memex/sense/AI/explorations/images/using-llm-framework.png)
 
 Which translates into this specific
 

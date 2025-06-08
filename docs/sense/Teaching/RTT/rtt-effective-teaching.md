@@ -1,11 +1,8 @@
----
-title: Effective teaching
-type: "note"
+﻿---
 tags: teaching, rtt
+title: Effective teaching
+type: note
 ---
-
-
-
 Second module in the ACU Return to Teaching course. 
 
 Through the [[APSTs]] connect into a repertoire of teaching approaches. Which appear to be an almost random collection of learning theories, pedagogical practices, specific approaches. 
@@ -39,7 +36,7 @@ General points about feedback linked to idea of formative feedback. Includes fee
 Perhaps most interesting from the diagram are the three questions and four levels summarised in the tables following.
 
 <figure markdown>
-![](images/feedbackModelHattie.png)
+![](https://djon.es/assets/memex/sense/Teaching/RTT/images/feedbackModelHattie.png)
 <caption>A model of feedback to enhance learning (adapted from Hattie & Timperley, 2007, p. 81)</caption>
 </figure>
 
@@ -88,7 +85,7 @@ Unlike Carly, I'm not worried about my digital technology skills.  After all dig
 For example, the following successful use of digital technologies is from the very first lesson I taught as a pre-service (aka student) teacher. Even with my knowledge and experience with digital technologies, I decided to go simple to minimise the challenges. The lesson was titled "Timezones and Mass". My mentor had established a routine of using an interactive white board and a set of slides to scaffold lessons. Mirroring his practice I designed a set of slides. The first slide of the timezones section contained an image of specific international locale and the question "What time is it here, right now?" (see below). When that slide appeared - as I hoped - a spark of recognition and conversation arose from one of the student tables. A spark I encouraged to spread to the rest of the class through questioning etc. 
 
 <figure markdown>
-![](images/whatTimeIsIt.png)
+![](https://djon.es/assets/memex/sense/Teaching/RTT/images/whatTimeIsIt.png)
 </figure>
 
 The image is of a part of Cape Town, South Africa including Table mountain. It was sourced via a Google image search specifically because I'd discovered that one of the students was originally from Cape Town. For him, this bit of mathematical knowledge was important and relevant. His experience established the relevance for the rest of the class and provided a source of confirmation for the calculations performed. At the same time, it was achieved using a very simple application digital technology that was known to work in this classroom and was in a pedagogical form that was common and consistent with the class's experience. This simplicity reduced my worry and cognitive load and allowed me to focus on other factors.

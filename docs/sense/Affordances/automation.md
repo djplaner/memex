@@ -41,7 +41,7 @@ Harold Jarche [summarises](https://jarche.com/2017/02/only-humans-need-apply-rev
 
 And adds the following image, perhaps helping locate the work we're doing.
 
-![](2021-08-11-06-30-14.png)
+![](https://djon.es/assets/memex/sense/Affordances/2021-08-11-06-30-14.png)
 
 ## Only Humans Need Apply
 

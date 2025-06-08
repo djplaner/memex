@@ -1,4 +1,4 @@
----
+﻿---
 title: Project to Product
 ---
 Idea from agile, lean, devops, digital transformation. In part about moving IT from cost to profit center.
@@ -13,4 +13,4 @@ Idea from agile, lean, devops, digital transformation. In part about moving IT f
 
 ## Key differences
 
-![](images/diffProjectProduct.png)
+![](https://djon.es/assets/memex/sense/Design/images/diffProjectProduct.png)

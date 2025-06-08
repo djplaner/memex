@@ -1,16 +1,18 @@
----
+﻿---
+tags:
+- wood-duck-meadows
+- plant
+- weed
+- vine
+- introduced
 title: Passiflora suberosa (Corky passion vine)
-type: "plants"
-tags: [ 'wood-duck-meadows', 'plant', 'weed', 'vine', 'introduced' ]
+type: plants
 ---
-
-
-
 [Passiflora suberosa (aka Corky passion vine)](https://en.wikipedia.org/wiki/Passiflora_suberosa) is a creeping/climbing perennial native to the Americas.
 It is considered an [environmental weed in Queensland](https://weeds.brisbane.qld.gov.au/weeds/corky-passion-vine).
 
 <figure markdown>
-![Corky passion vine](./images/corky-passion-vine.jpeg)
+![Corky passion vine](https://djon.es/assets/memex/sense/landscape-garden/plants/./images/corky-passion-vine.jpeg)
 <caption>Corky passion vine</caption>
 </figure>
 

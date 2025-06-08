@@ -100,7 +100,7 @@ Provides numerous examples and then moves onto offering 6 questions to ask about
       - include tasks that draw effectively on the collective resources of a group; have several possible solution paths
 
 <figure markdown>
-![](images/differentRepresentations.png)
+![](https://djon.es/assets/memex/sense/Teaching/Mathematics/images/differentRepresentations.png)
 <caption>Example of representing mathematical ideas in multiple ways. (adapted from Boaler, 2015)</caption>
 </figure>
 

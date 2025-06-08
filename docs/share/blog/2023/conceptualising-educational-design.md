@@ -1,7 +1,6 @@
----
+﻿---
 title: Conceptualising education design practice - where do we fit?
 ---
-
 ## Chat with Emma 
 
 My aim is to better understand the work they're doing and figure out how I integrate it into my practice.
@@ -61,7 +60,7 @@ While recognising that resources are provided to help teachers with educational 
 This critique and his suggested solution draws on the following model ([Figure 1](#figure-1) of the problem space of educational design and a description of the typical educational design process typically used by an individual teacher.
 
 <figure markdown id="figure-1">
-![](images/goodyearEducationDesignProblemSpace.png)
+![](https://djon.es/assets/memex/share/blog/2023/images/goodyearEducationDesignProblemSpace.png)
 <caption>Figure 1: Conceptualising the problem space of educational design (Goodyear, 2005, p. 85)</caption>
 </figure>
 
@@ -83,7 +82,7 @@ Random thoughts
 
 
 <figure markdown id="figure-2">
-![](images/lodgeConceptualisingEducationalDesign.png)
+![](https://djon.es/assets/memex/share/blog/2023/images/lodgeConceptualisingEducationalDesign.png)
 <caption>Figure 2: Adapting Goodyear's conceptualisation (Lodge, 2023, slide 45)</caption>
 </figure>
 
@@ -169,7 +168,7 @@ Perhaps it is because the translation of the design problem into practice/artefa
 ## Gather, weave, augment
 
 
-| ![](images/gatherWeaveAugment.PNG) |
+| ![](https://djon.es/assets/memex/share/blog/2023/images/gatherWeaveAugment.PNG) |
 |:--:|
 | *Adapting, the adaptation to include gather, weave & augment* |
 

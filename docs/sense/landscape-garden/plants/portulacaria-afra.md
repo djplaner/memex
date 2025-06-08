@@ -1,20 +1,20 @@
----
-title: Portulacaria afra (Elephant bush)
-type: plant
-tags: ['plant', 'wood-duck-meadows', 'bush']
+﻿---
 photos:
   1:
-      title: None
-      filename: 76137AEE-EB24-4B5B-914C-2E3613C61A99.heic
-      latitude: -27.53890833333333
-      longitude: 152.05529716666666
-      description: None
-      date: 2025-04-05 11:40:38
-      memexFilename: images/portulacaria-afra/1.jpeg
+    date: 2025-04-05 11:40:38
+    description: None
+    filename: 76137AEE-EB24-4B5B-914C-2E3613C61A99.heic
+    latitude: -27.53890833333333
+    longitude: 152.05529716666666
+    memexFilename: images/portulacaria-afra/1.jpeg
+    title: None
+tags:
+- plant
+- wood-duck-meadows
+- bush
+title: Portulacaria afra (Elephant bush)
+type: plant
 ---
-
-
-
 A small-leaved succulent from South Africa, [[portulacaria-afra]] (aka Elephant bush) is a drought-tolerant shrub or small tree. Given its apparent non-invasiveness, existing plants will be retained.
 
 ## History at [[wood-duck-meadows]]
@@ -22,7 +22,7 @@ A small-leaved succulent from South Africa, [[portulacaria-afra]] (aka Elephant 
 Identified in April 2025, [[portulacaria-afra]] has been present in the [[gatton-creek-frontage]] for many years. 
 
 <figure markdown>
-![Four woody stems of a Portulacaria afra making the top of a small tree backed by the grassland of the home block. The stems are covered in the small, rounded succulent leaves of the tree](./images/portulacaria-afra/1.jpeg)
+![Four woody stems of a Portulacaria afra making the top of a small tree backed by the grassland of the home block. The stems are covered in the small, rounded succulent leaves of the tree](https://djon.es/assets/memex/sense/landscape-garden/plants/./images/portulacaria-afra/1.jpeg)
 <caption>Portulacaria afra (Elephant bush) on April 5, 2025</caption>
 </figure>
 

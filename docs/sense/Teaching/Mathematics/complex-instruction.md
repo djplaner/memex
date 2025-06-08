@@ -1,11 +1,11 @@
----
+﻿---
+tags:
+- teaching
+- mathematics
+- complex-instruction
 title: Complex instruction
-type: "note"
-tags: [teaching, mathematics, complex-instruction]
+type: note
 ---
-
-
-
 Resources: 
 
 - [Complex Instruction @ SFU school district](https://www.sfusdmath.org/complex-instruction.html)
@@ -39,7 +39,7 @@ Cited by Boaler (see [[mathematical-mindsets]]) which may well be an outgrowth/i
 Group roles and allocations are done randomly e.g. [[visibly-random-groups]].  Every few weeks students change groups and roles. Teacher emphasises different roles during classes and reminding facilitators
 
 <figure markdown>
-![](images/randomAssignmentComplexInstruction.png)
+![](https://djon.es/assets/memex/sense/Teaching/Mathematics/images/randomAssignmentComplexInstruction.png)
 <caption>Example chart outlining random allocation of groups and roles (adapted from Boaler, 2015)</caption>
 </figure>
 

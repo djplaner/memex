@@ -1,10 +1,6 @@
 ﻿---
-title: PrivateGPT 
+title: PrivateGPT
 ---
-
-
-
-
 Log of an experiment to get [privateGPT](https://github.com/imartinez/privateGPT) working locally. HT to Chris Bigum and [this post](https://bdtechtalks.com/2023/06/01/create-privategpt-local-llm/?utm_source=feedly&utm_medium=rss&utm_campaign=create-privategpt-local-llm)
 
 ## What was done 
@@ -106,7 +102,7 @@ Aim here is to run using just the provided [single text file](https://github.com
 
   Success
 
-![First test run success with ingest](images/ingestSuccess.png)
+![First test run success with ingest](https://djon.es/assets/memex/sense/AI/explorations/images/ingestSuccess.png)
 
 But loading the module gets an error 
 bash```
@@ -123,7 +119,7 @@ import io
 sys.stdout = io.TextIOWrapper(sys.stdout.detach(), encoding='utf-8')
 ```
 
-![PrivateGPT answering question based on supplied text file](images/privateGPTTestWorking.png)
+![PrivateGPT answering question based on supplied text file](https://djon.es/assets/memex/sense/AI/explorations/images/privateGPTTestWorking.png)
 
 
 
@@ -211,7 +207,7 @@ The problems start - hallucination. As highlighted below it's expanded the BAM a
 
 At this stage, `privateGPT` seems to provide some additional insight/background, including explicit mentions of the source documents where information came from files.
 
-![](images/whatIsBAM.png)
+![](https://djon.es/assets/memex/sense/AI/explorations/images/whatIsBAM.png)
 
 ### What is the relationship between BIM and BAM? 
 

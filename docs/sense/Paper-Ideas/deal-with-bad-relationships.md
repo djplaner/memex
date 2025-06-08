@@ -33,7 +33,7 @@ A case study of an LMS migration
 
 The "actual" column from Fawn's entangled view of the relationship provides the core (perhaps) of the conceptual framework. Puts relational design and orchestration as the key skill.
 
-![](Fawns-entangled-relationship.png)
+![](https://djon.es/assets/memex/sense/Paper-Ideas/Fawns-entangled-relationship.png)
 
 ## Example bad relationships
 

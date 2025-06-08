@@ -1,26 +1,23 @@
----
-title: Mango (Nam Doc Mai) - mango paddock
-type: "single-plant"
-tags: plants, wood-duck-meadows
+﻿---
 latitude: -27.539463333333334
 longitude: 152.0554195
 photos:
   1:
-      title: None
-      filename: 19A456B8-D94A-4E35-861F-1183BA77832A.heic
-      latitude: -27.539463333333334
-      longitude: 152.0554195
-      description: Mango - Nam Doc Mai
-      date: 2025-03-14 17:53:58
-      memexFilename: images/mango-nam-doc-mai/1.jpeg
+    date: 2025-03-14 17:53:58
+    description: Mango - Nam Doc Mai
+    filename: 19A456B8-D94A-4E35-861F-1183BA77832A.heic
+    latitude: -27.539463333333334
+    longitude: 152.0554195
+    memexFilename: images/mango-nam-doc-mai/1.jpeg
+    title: None
+tags: plants, wood-duck-meadows
+title: Mango (Nam Doc Mai) - mango paddock
+type: single-plant
 ---
-
-
-
 A [Thai mango cultivar](https://en.wikipedia.org/wiki/Nam_Dok_Mai) planted as the second mango in the [[mango-paddock]]
 
 <figure markdown>
-![A small Nam Doc Mai mango tree looking very health with numerous dark green leaves. A hand is holding up a label still attached to the plant showing details about the tree.](images/mango-nam-doc-mai/1.jpeg)
+![A small Nam Doc Mai mango tree looking very health with numerous dark green leaves. A hand is holding up a label still attached to the plant showing details about the tree.](https://djon.es/assets/memex/sense/landscape-garden/individual-plants/images/mango-nam-doc-mai/1.jpeg)
 <figcaption>The Nam Doc Mai Mango from the [[mango-paddock]] not long after being planted out.</figcaption>
 </figure>
 

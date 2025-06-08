@@ -1,11 +1,11 @@
----
+﻿---
+tags:
+- gardens
+- sense
+- landscape
 title: The Orchard (Orchard corner)
-type: "zone"
-tags: [gardens, sense, landscape]
+type: zone
 ---
-
-
-
 Small orchard with 6 fruit trees planted around a collection of existing trees and along the bottom boundary of the property heading toward the dam.
 
 !!! info "Current status"
@@ -16,7 +16,7 @@ Small orchard with 6 fruit trees planted around a collection of existing trees a
 ## Location 
 
 <figure markdown>
-![Overhead map of Wood duck meadows showing Orchard corner at the south-eastern property boundary, just to the east of the dam](./images/orchard-corner-location.jpg)
+![Overhead map of Wood duck meadows showing Orchard corner at the south-eastern property boundary, just to the east of the dam](https://djon.es/assets/memex/sense/landscape-garden/./images/orchard-corner-location.jpg)
 <caption>Orchard corner located along the south-eastern boundary of Wood duck meadows, just to the east of [[the-dam]]</caption>
 </figure>
 
@@ -25,12 +25,12 @@ Small orchard with 6 fruit trees planted around a collection of existing trees a
 Most of the Orchard corner is clear, but one portion had four mature trees: [[schinus-terebinthifolia]], [[corymbia-torelliana]], [[melia-azedarach]] and another gum. The [[schinus-terebinthifolia]] and [[corymbia-torelliana]] were removed in 2025.
 
 <figure markdown>
-![Existing trees from the corner after the removal of the schinus terbinthifolia and just before the removal of the corymbia torelliana (in the middle)](./images/clearing-orchard-corner-2025.jpeg)
+![Existing trees from the corner after the removal of the schinus terbinthifolia and just before the removal of the corymbia torelliana (in the middle)](https://djon.es/assets/memex/sense/landscape-garden/./images/clearing-orchard-corner-2025.jpeg)
 <caption>The corner's existing trees after the [[schinus-terebinthifolia]] was removed and just before the removal of the [[corymbia-torelliana]] (the middle tree)</caption>
 </figure>
 
 <figure markdown>
-![](./images/after-clearing-2025.jpeg)
+![](https://djon.es/assets/memex/sense/landscape-garden/./images/after-clearing-2025.jpeg)
 <caption>Orchard corner after the removal of the [[corymbia-torelliana]]</caption>
 </figure>
 

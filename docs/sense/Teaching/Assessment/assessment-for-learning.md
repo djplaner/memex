@@ -1,11 +1,8 @@
----
-title: Assessment for learning
-type: "note"
+﻿---
 tags: teaching, assessment
+title: Assessment for learning
+type: note
 ---
-
-
-
 AKA: formative assessment
 
 Apparently arising from ideas of Black and Wiliam (2009) aound formative learning. Designing assessment approaches that encourage/support learning
@@ -27,7 +24,7 @@ Black & Wiliam (2009) identify five practices suggested by evidence
 5. Activating students as the owners of their own learning
 
 <figure markdown>
-![](images/aspectsFormativeAsessment.png)
+![](https://djon.es/assets/memex/sense/Teaching/Assessment/images/aspectsFormativeAsessment.png)
 <caption>Aspects of formative assessment (adapted from Black & Wiliam, 2009, p. 8)</caption>
 </figure>
 
@@ -50,4 +47,3 @@ Boaler, J. (2015). Mathematical Mindsets: Unleashing Students’ Potential Throu
 Wiliam, D. (2011). What is assessment for learning? *Studies In Educational Evaluation*, *37*(1), 3--14. <https://doi.org/10.1016/j.stueduc.2011.03.001>
 
 Wiliam, D. (2017). *Embedded Formative Assessment: (Strategies for Classroom Assessment That Drives Student Engagement and Learning)*. Solution Tree.
-

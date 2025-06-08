@@ -1,11 +1,8 @@
----
-title: CSER MiS - Getting started module
-type: "note"
+﻿---
 tags: cser, cser-maths-in-schools, cser-getting-started, teaching-mathematics
+title: CSER MiS - Getting started module
+type: note
 ---
-
-
-
 ## Mathematics & Numeracy
 
 Definitions
@@ -38,7 +35,7 @@ The following example is given. The context is Year 3. A student demonstrates th
 ??? example "Is the shape a triangle?"
 
     <figure markdown>
-    ![](images/exampleAlgorithm.png)
+    ![](https://djon.es/assets/memex/sense/Teaching/Mathematics/cser-mooc/images/exampleAlgorithm.png)
     <caption>Example shape identification algorithm (from CSER MOOC)</caption>
     </figure>
 
@@ -51,7 +48,7 @@ Describes the expectations of secondary students to be developing the ability to
 - test and evaluate their solution
 
 <figure markdown>
-![](images/mathModellingProcesses.png)
+![](https://djon.es/assets/memex/sense/Teaching/Mathematics/cser-mooc/images/mathModellingProcesses.png)
 <caption>Mathematical modelling processes images (from CSER MOOC)</caption>
 </figure>
 

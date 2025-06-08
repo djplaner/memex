@@ -1,7 +1,6 @@
+﻿---
+title: The relationships between BAD/SET, CASA, and Gather/Weave
 ---
-title: "The relationships between BAD/SET, CASA, and Gather/Weave"
----
-
 Over the last 10+ years colleagues and I have been reflecting on experiences trying to stretch the [[iron-triangle]]. That work has resulted in three different abstractions/mini-theories:
 
 1. The [[bad-mindset]]/set (Bricolage, Affordances, Distribution / Strategic, Established, Tree-like) framework (Jones & Clark, 2014) and [related blog posts](https://djon.es/blog/category/bad/)
@@ -33,13 +32,13 @@ The [[bad-mindset]]/SET mindsets describe two (arguably) incommensurable approac
 
 An approach that appears to resonate (duplicate) points from [[complexity-leadership]]
 
-![Illustration of the chasm between the SET/BAD approaches. Two rectangles (labelled BAD and SET) are separate by a chasm](images/bad-set-chasm.png)
+![Illustration of the chasm between the SET/BAD approaches. Two rectangles (labelled BAD and SET) are separate by a chasm](https://djon.es/assets/memex/sense/CASA/images/bad-set-chasm.png)
 
 ## CASA - One way to bridge the gap (interweave BAD/SET)
 
 As the name suggests - contextually-appropriate scaffolding assemblages (CASA) - are collections of practices, processes, technologies etc designed to help support a L&T activities. Collections that follow the [CASA design principles](https://djon.es/blog/2019/08/08/exploring-knowledge-reuse-in-design-for-digital-learning-tweaks-h5p-constructive-templates-and-casa/#initial-design-principles-adr-stage-4) are thought to be more effective at interweaving the SET and BAD approaches.
 
-![The chasm between BAD and SET rectangles are filled by numerous figures representing CASA](images/bad-set-casa.png)
+![The chasm between BAD and SET rectangles are filled by numerous figures representing CASA](https://djon.es/assets/memex/sense/CASA/images/bad-set-casa.png)
 
 ### The need for CASA 
 
@@ -59,7 +58,7 @@ The gather/weave/augment idea is based on the observation that [[design-for-lear
 Our recent work (Jones, 2022; Booten et al, 2023) was driven by the limitations and inefficiencies of current practices for gathering and weaving. Limitations that arguably arise because of the limitations of the BAD and SET mindsets. A failure to effectively interweave those mindsets. The most obvious symptom of this failed interweaving was the failure to effectively leverage digital technologies to automate and augment/amplify the necessary gathering and weaving. Leading us to develop a nascent set of principles for doing just that.
 
 
-![A disparate collection of strands are shown flowing into that SET, BAD and CASA objects.](images/bad-set-casa-gather.png)
+![A disparate collection of strands are shown flowing into that SET, BAD and CASA objects.](https://djon.es/assets/memex/sense/CASA/images/bad-set-casa-gather.png)
 
 ## Technology as orchestration of phenomena 
 

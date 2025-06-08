@@ -1,11 +1,8 @@
----
-title: Creative Coding
-type: "note"
+﻿---
 tags: digital,art, creative-coding
+title: Creative Coding
+type: note
 ---
-
-
-
 Collection of resources around the use of digital technology in art.
 
 ## Implementation
@@ -113,7 +110,7 @@ Mitchell & Bown (2013) research the needs of creative coders and developed a tax
 The idea reinforces the data homogenisation strength of digital technologies. It identifies a range of different sources of data that can be used in creative coding. Illustrated by a project where Tim generated different art representing Bach's prelude in C.
 
 <figure markdown>
-![](images/creativeCodingIPO.png)
+![](https://djon.es/assets/memex/sense/Teaching/Digital_Technologies/images/creativeCodingIPO.png)
 <caption>An "IPO model" for creative coding (from [_What is creative coding_](https://timrodenbroeker.de/what-is-creative-coding/) by [Tim Rodenbroker](https://timrodenbroeker.de/about-tim/)</caption>
 </figure>
 

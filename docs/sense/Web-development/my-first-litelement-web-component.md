@@ -14,7 +14,7 @@ Lot's not covered in this, including
 
 First reactions, impressive. Produces a VSCode looking code editor and matching "browser" output all in the browser window. Though it's a bit of pain that it doesn't have the vim bindings.
 
-![LitElement tutorial with embedded "VSCode" editor and a browser](litElementLiveEditor.png)
+![LitElement tutorial with embedded "VSCode" editor and a browser](https://djon.es/assets/memex/sense/Web-development/litElementLiveEditor.png)
 
 ### Creating a component
 
@@ -91,7 +91,7 @@ return html`
 
 In operation, this illustrates how components are updated dynamically in response to changes to properties.
 
-![Dynamically changing component display](webComponentButton.gif)
+![Dynamically changing component display](https://djon.es/assets/memex/sense/Web-development/webComponentButton.gif)
 
 ### Styling
 

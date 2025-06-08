@@ -1,9 +1,6 @@
----
+﻿---
 title: v9-oz-digital-technologies
 ---
-
-
-
 [Digitial Technologies](https://v9.australiancurriculum.edu.au/f-10-curriculum/learning-areas/digital-technologies/year-7_year-8_year-9_year-10?view=quick&detailed-content-descriptions=0&hide-ccp=0&hide-gc=0&side-by-side=1&strands-start-index=0&subjects-start-index=0)
 
 ## Subjects
@@ -21,7 +18,6 @@ Both studied from F-Y8.  y9 and 10 dependent on states and schools
 - Processes and production skills
 
 <figure markdown>
-![Overview of Technologies core concepts](images/digitalTechOverview.png)
+![Overview of Technologies core concepts](https://djon.es/assets/memex/sense/Teaching/Curriculum/images/digitalTechOverview.png)
 <figcaption>Overview of Technologies core concepts</figcaption>
 </figure>
-

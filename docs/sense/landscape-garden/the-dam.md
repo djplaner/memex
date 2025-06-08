@@ -1,11 +1,8 @@
----
-title: The Dam
-type: "zone"
+﻿---
 tags: wood-duck-meadows
+title: The Dam
+type: zone
 ---
-
-
-
 Fed by road runoff the dam surrounds [[the-island]] and (occasionally) provides some nice water views from the house.
 
 !!! information "Current status"
@@ -13,14 +10,14 @@ Fed by road runoff the dam surrounds [[the-island]] and (occasionally) provides 
     **2025** Initial clearing of the bank surrounding the dam and initial experiments in regeneration
 
 <figure markdown>
-![Looking north across the dam back toward the house in August 2024. Reflection of the big Cadaghi tree and some Acacia scrub visible.](./images/the-dam-2023.jpeg)
+![Looking north across the dam back toward the house in August 2024. Reflection of the big Cadaghi tree and some Acacia scrub visible.](https://djon.es/assets/memex/sense/landscape-garden/./images/the-dam-2023.jpeg)
 <caption>Looking north across [[the-dam]] back toward [[house]] in August 2023. Reflection fo the Cadaghi ([[corymbia-torelliana]]) tree and some Acacia scrub visible.</caption>
 </figure>
 
 ## Location
 
 <figure markdown>
-![Map of property showing the dam to the south of the house. Also visible is the island within the dam](./images/the-dam-location.jpg)
+![Map of property showing the dam to the south of the house. Also visible is the island within the dam](https://djon.es/assets/memex/sense/landscape-garden/./images/the-dam-location.jpg)
 <caption>Location of the dam to the south of the house</caption>
 </figure>
 
@@ -29,14 +26,14 @@ Fed by road runoff the dam surrounds [[the-island]] and (occasionally) provides 
 The dam is seasonal and fed largely by road runoff. At times it can be dry for extended periods. At other times it can be full and overflow into the neighbour's place making for one large dam.
 
 <figure markdown>
-![Panorama showing the "big" dam](./images/dam-pano-2025.jpeg)
+![Panorama showing the "big" dam](https://djon.es/assets/memex/sense/landscape-garden/./images/dam-pano-2025.jpeg)
 <caption>Panorama of the dam from March 2025. The neighbour's place is on the far left with the house on the right</caption>
 </figure>
 
 However, there is a limit. The dam bank has an overflow section designed into it. A section put to good use due to the heavy rain of early 2025.
 
 <figure markdown>
-![Water slowly flowing out of the dam as designed](./images/dam-overflow.jpeg)
+![Water slowly flowing out of the dam as designed](https://djon.es/assets/memex/sense/landscape-garden/./images/dam-overflow.jpeg)
 <caption>The dam's overflow working as designed</caption>
 </figure>
 
@@ -45,14 +42,14 @@ However, there is a limit. The dam bank has an overflow section designed into it
 Most of the work around the dam has been clearing out various weeds in an attempt to give the native vegetation a chance.
 
 <figure markdown>
-![Before and after example of removing some climbing asparagus and green panic from the dam bank. ](./images/before-after-dam-asparagus.jpg)
+![Before and after example of removing some climbing asparagus and green panic from the dam bank. ](https://djon.es/assets/memex/sense/landscape-garden/./images/before-after-dam-asparagus.jpg)
 <caption>Before and after example of removing some [[asparagus-africanus]] and [[megathyrsus-maximus]] from the dam bank</caption>
 </figure>
 
 All the rain of 2025 combined with early clearing work created a nice spot for the ducks to graze and hang out during the day.
 
 <figure markdown>
-![30+ Plumed Whistling ducks grazing on cleared dam bank](./images/grazing-ducks.jpeg)
+![30+ Plumed Whistling ducks grazing on cleared dam bank](https://djon.es/assets/memex/sense/landscape-garden/./images/grazing-ducks.jpeg)
 <caption>Collection of Plumed Whistling Ducks grazing on the cleared area shown above</caption>
 </figure>
 

@@ -1,9 +1,9 @@
----
+﻿---
 title: 'Meso-level from an ecological perspective '
 ---
 ## Ellis and Goodyear (2009)
 
-![](images/designScaleEllisGoodyear.png)
+![](https://djon.es/assets/memex/sense/Design/images/designScaleEllisGoodyear.png)
 
 Identifying the need for the meso-level
 

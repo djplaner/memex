@@ -1,11 +1,12 @@
----
+﻿---
+tags:
+- wood-duck-meadows
+- plant
+- native
+- tree
 title: Bunya Pine
-type: "plant"
-tags: [ wood-duck-meadows, plant, native, tree ]
+type: plant
 ---
-
-
-
 The [bunya pine (Araucaria bidwillii)](https://theconversation.com/bunya-pines-are-ancient-delicious-and-possibly-deadly-96003) is a evergreen coniferous tree that can grow up to 50m tall. It is native to our local area (south-east Queensland) and have been labelled [as "living fossils"](https://theconversation.com/bunya-pines-are-ancient-delicious-and-possibly-deadly-96003) arising during the Jurassic period.
 
 There are at least four bunya pines at [[wood-duck-meadows]]. One on [[the-island]], two near the [[brigalow-scrub]], and one on the edge of the [[gatton-creek-frontage]].
@@ -15,7 +16,7 @@ There are at least four bunya pines at [[wood-duck-meadows]]. One on [[the-islan
 The pine cones are large (amongst the largest produced by conifers) and dangerous. Roughly the size of rugby ball (up to 30cm long and 20cm wide) and weighing up to 10 kilograms. Falling from the top of the tree they make an impact.
 
 <figure markdown>
-![Our first (found) Bunya Pine Cone](images/bunya-cone.jpeg)
+![Our first (found) Bunya Pine Cone](https://djon.es/assets/memex/sense/landscape-garden/plants/images/bunya-cone.jpeg)
 <caption>Our first (found) Bunya Pine Cone</caption>
 </figure>
 
@@ -51,7 +52,7 @@ The nuts can be eaten raw but it's suggested they are tastier cooked. Options in
 - boiled and eaten as is or further preparation (e.g. used like gnochi)
 
 <figure markdown>
-![Roasted bunya nuts](./images/roasted-bunya-nuts.jpeg)
+![Roasted bunya nuts](https://djon.es/assets/memex/sense/landscape-garden/plants/./images/roasted-bunya-nuts.jpeg)
 <caption>Roasted bunya nuts</caption>
 </figure>
 
@@ -66,14 +67,14 @@ The nuts can be eaten raw but it's suggested they are tastier cooked. Options in
 The bunya pine on [[the-island]] - like much of [[the-island]] - was suffering from the impact of [[asparagus-africanus]]. The following images illustrate our work to rescue it.
 
 <figure markdown>
-![The island's Bunya Pine being suffocated by asparagus fern](images/bunya-pine-live-vine.jpeg)
+![The island's Bunya Pine being suffocated by asparagus fern](https://djon.es/assets/memex/sense/landscape-garden/plants/images/bunya-pine-live-vine.jpeg)
 <caption>The island's Bunya Pine being suffocated by asparagus fern</caption>
 </figure>
 
 Clearing the asparagus fern from around the tree left disconnected vines high in the bunya pine tree. As illustrated in the following image, this vine died.
 
 <figure markdown>
-![Evidence of the asparagus fern dying](images/bunya-pine-dead-vine.jpeg)
+![Evidence of the asparagus fern dying](https://djon.es/assets/memex/sense/landscape-garden/plants/images/bunya-pine-dead-vine.jpeg)
 <caption>Evidence of the asparagus fern dying</caption>
 </figure>
 

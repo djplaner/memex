@@ -1,11 +1,8 @@
----
-title: Teaching as gathering, weaving, and augmenting
-type: "note"
+﻿---
 tags: teaching, pedagogy, technology
+title: Teaching as gathering, weaving, and augmenting
+type: note
 ---
-
-
-
 Intended to be a conceptualisation of the act, art, and science of teaching. A conceptualisation emerging out of my experience, reading and reflection and which provides a foundation for future practice.
 
 ## Origins
@@ -15,7 +12,7 @@ Intended to be a conceptualisation of the act, art, and science of teaching. A c
 It starts with [Goodyear's (2005)](https://ajet.org.au/index.php/AJET/article/view/1344) work conceptualising educational design as informed by a _pedagogical framework_ and an _educational setting_.
 
 <figure markdown>
-![](../../share/blog/2023/images/goodyearEducationDesignProblemSpace.png)
+![](https://djon.es/assets/memex/sense/Teaching/../../share/blog/2023/images/goodyearEducationDesignProblemSpace.png)
 <caption>Conceptualising the problem space of educational design (Goodyear, 2005, p. 85)</caption>
 </figure>
 
@@ -24,12 +21,12 @@ It starts with [Goodyear's (2005)](https://ajet.org.au/index.php/AJET/article/vi
 It's apparent that Goodyear's conceptualisation of the _educational setting_ evolved into Activity-Centered Analysis and Design which is a "meta-theoretical framework for understanding and improving local, complex learning situations" (Goodyear, Carvalho & Yeoman, 2021). Goodyear et al (2021) provide two views of ACAD. One at the time of design and the other at the time of learning. Emphasising the point that we can't design learning, we can only design for learning. See the [[evolution-of-design-for-learning]] for more.
 
 <figure markdown> 
-![](images/ACADdesignTime.png)
+![](https://djon.es/assets/memex/sense/Teaching/images/ACADdesignTime.png)
 <caption>ACAD at the time of design (Goodyear et al, 2021)</caption> 
 </figure> 
 
 <figure markdown>
-![](images/acadLearnTime.png)
+![](https://djon.es/assets/memex/sense/Teaching/images/acadLearnTime.png)
 <caption>ACAD at the time of learning (Goodyear et al, 2021)</caption>
 </figure>
 
@@ -38,7 +35,7 @@ It's apparent that Goodyear's conceptualisation of the _educational setting_ evo
 Lodge et al (2023) started work using Goodyear's (2005) conceptualisation of the _educational setting_ to inform the procurement of digital technologies for learning and teaching. Among the changes is the addition of details of different digital technology functions that are required to implement a learning situation.
 
 <figure markdown>
-![](../../share/blog/2023/images/lodgeConceptualisingEducationalDesign.png)
+![](https://djon.es/assets/memex/sense/Teaching/../../share/blog/2023/images/lodgeConceptualisingEducationalDesign.png)
 <caption>Adapting Goodyear for IT procurement (Lodge, 2023, slide 45)</caption>
 </figure>
 
@@ -47,7 +44,7 @@ Lodge et al (2023) started work using Goodyear's (2005) conceptualisation of the
 At the same conference some colleagues and I were presenting on [[gathers-weavers-augmenters]]  (Jones, Cook & Booten, 2023). Work we were doing during a LMS migration as learning designers helping migrate the _set design_ (Blackboard Learn) of learning tasks to a different _set design_ (Canvas) in large numbers. Watching Jason's talk and discussions with one of his co-authors led to a [[conceptualising-educational-design|nascent attempts to refine conceptions of educational design]] and the following image.
 
 <figure markdown>
-![](../../share/blog/2023/images/gatherWeaveAugment.PNG)
+![](https://djon.es/assets/memex/sense/Teaching/../../share/blog/2023/images/gatherWeaveAugment.PNG)
 <caption></caption>
 </figure>
 

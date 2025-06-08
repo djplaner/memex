@@ -1,11 +1,8 @@
----
-title: Teaching Mathematics
-type: "index"
+﻿---
 tags: mathematics, teaching
+title: Teaching Mathematics
+type: index
 ---
-
-
-
 Collection of misc. resources for teaching mathematics. Eventually informing an ever-evolving concrete set of ideas and processes underpinning [[my-approach-to-teaching-mathematics]]
 
 ## Planning
@@ -134,7 +131,7 @@ Collection of misc. resources for teaching mathematics. Eventually informing an 
 
 Generated from [AI Mind Map Generator](https://ferusandbeyond-mind-map-generation-main-7p68z9.streamlit.app/)
 
-![](images/mindMapApproachsMath.png)
+![](https://djon.es/assets/memex/sense/Teaching/Mathematics/images/mindMapApproachsMath.png)
 
 ## References
 

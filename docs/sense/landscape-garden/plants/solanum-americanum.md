@@ -1,11 +1,12 @@
----
+﻿---
+tags:
+- wood-duck-meadows
+- plant
+- introduced
+- weed
 title: Solanum americanum (American black nightshade)
-type: "plants"
-tags: [ 'wood-duck-meadows', 'plant', 'introduced', 'weed' ]
+type: plants
 ---
-
-
-
 [Solanum americanum](https://en.wikipedia.org/wiki/Solanum_americanum) (American black nightshade) is a herbaceous flowering plant initially found on the [[fig-tree-berm]]. The entire plant - except ripe fruit - [is toxic](https://www.poisonsinfo.health.qld.gov.au/plants-and-mushrooms/blackberry-nightshade-solanum-nigrum-solanum-americanum).
 
 ## History at Wood Duck Meadows
@@ -13,7 +14,7 @@ tags: [ 'wood-duck-meadows', 'plant', 'introduced', 'weed' ]
 Found on the [[fig-tree-berm]] in February 2025
 
 <figure markdown>
-![American black (common) nightshade](./images/common-nightshade.jpeg)
+![American black (common) nightshade](https://djon.es/assets/memex/sense/landscape-garden/plants/./images/common-nightshade.jpeg)
 <caption>American black (common) nightshade</caption>
 </figure>
 

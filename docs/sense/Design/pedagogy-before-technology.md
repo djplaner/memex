@@ -1,7 +1,6 @@
+﻿---
+title: Pedagogy before technology
 ---
-title: Pedagogy before technology 
----
-
 Numerous authors (Ascough, 2002; Leijen et al, 2008; Glover et al, 2016; Cowling & Birt, 2018; Sankey et al, 2020) suggest that thinking of the "pedagogy before the technology" is a good approach to designing learning and teaching experiences.
 
 aka 
@@ -17,7 +16,7 @@ Other work challenges this idea (Dron, 2012; Tsui & Tavares, 2021; Fawns, 2022).
 
 The following is from a book (Fleer, 2023) intended to help school teachers teaching the Technologies learning area from the Oz curriculum. It is a poster a teacher had on her wall explaining a production processes used in her class.
 
-![](images/productionProccesses.png)
+![](https://djon.es/assets/memex/sense/Design/images/productionProccesses.png)
 
 The first step in this process is to "collaboratively play (investigate) with the materials". I take this as playing with a technology to understand its affordances and constraints. If you design without having such an understanding your ultimate design will be constrained.
 

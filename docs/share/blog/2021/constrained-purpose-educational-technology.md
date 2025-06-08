@@ -1,4 +1,4 @@
----
+﻿---
 title: Problems with the constrained purpose of educational technologies and their
   orchestration
 ---
@@ -43,7 +43,7 @@ Perhaps, unless you have more than one O365 account. It is increasingly common f
 
 Then there are other possible issues with using Stream. All of a sudden sharing a streaming video on the web isn't all that easy. Students can have problems, get frustrated...meaning the teacher needs to include handling this in the course.
 
-![Face-to-face, but sign-in](images/stream-sign-in.png)
+![Face-to-face, but sign-in](https://djon.es/assets/memex/share/blog/2021/images/stream-sign-in.png)
 
 In the above image you may be able to see near the bottom an accordion with the title _Transcript_. This course and its sister courses are often taken by incarcerated students. Students who are not allowed to access the streaming video. Just one reason to provide a transcript of videos.
 

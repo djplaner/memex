@@ -1,11 +1,13 @@
----
+﻿---
+tags:
+- wood-duck-meadows
+- plant
+- tree
+- introduced
+- weed
 title: Gleditsia triacanthos (Honey Locust)
-type: "plants"
-tags: [ 'wood-duck-meadows', 'plant', 'tree', 'introduced', 'weed' ]
+type: plants
 ---
-
-
-
 [Honey Locust (Gelditsia triancanthos)](https://en.wikipedia.org/wiki/Honey_locust) is a deciduous tree native to central North America. Growing to 20+m growing large spines on the trunk and branches. Introduced to Australia as a fodder tree and used ornamentally it has recently been nominated as Weed of National Significance.
 
 
@@ -14,7 +16,7 @@ tags: [ 'wood-duck-meadows', 'plant', 'tree', 'introduced', 'weed' ]
 February 2025 - finally identified (and recorded) a Honey Locust growing on the creek side of the [[roundabout]].
 
 <figure markdown>
-![Close up of the roundabout's Honey Locust](./images/honey-locust.jpeg)
+![Close up of the roundabout's Honey Locust](https://djon.es/assets/memex/sense/landscape-garden/plants/./images/honey-locust.jpeg)
 <caption>Close up of the roundabout's Honey Locust</caption>
 </figure>
 

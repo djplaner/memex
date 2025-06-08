@@ -1,12 +1,9 @@
----
-title: Why combine mkdocs with Foam
-type: "note"
+﻿---
 tags:
-    - colophon
+- colophon
+title: Why combine mkdocs with Foam
+type: note
 ---
-
-
-
 "Foam is not a philosophy" - [how you use Foam is really up to you](https://djon.es/blog/2020/07/06/designing-a-personal-memex-with-foam/#how-to-use-it)
 
 While I'm happy with Foam, current use has some limitations. Most are focused on how Foam is published. The limitations may say more about me than Foam
@@ -38,7 +35,7 @@ There are other reasons,
 Already working out of the box
 
 <figure markdown>
-![Searching for "goodyear" using mkdocs search. Showing a good list of pages where it was found](images/mkdocsSearch.png){:width="75%"}
+![Searching for "goodyear" using mkdocs search. Showing a good list of pages where it was found](https://djon.es/assets/memex/colophon/images/mkdocsSearch.png){:width="75%"}
 <figcaption>Successfully searching memex for <em>goodyear</em></figcaption>
 </figure>
 
@@ -57,7 +54,7 @@ I've found - and seen reported by others - a tension between the unstructured, i
 Giving the best of both worlds.
 
 <figure markdown>
-![Additional navigation structure](images/mkdocsNavStructure.png){:width="50%"}
+![Additional navigation structure](https://djon.es/assets/memex/colophon/images/mkdocsNavStructure.png){:width="50%"}
 <figcaption>Additional navigation structure</figcaption>
 </figure>
 

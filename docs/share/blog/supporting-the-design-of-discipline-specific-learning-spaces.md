@@ -59,7 +59,7 @@ Answering question #3 requires pedagogical and technical knowledge to figure whe
 
 Hence answers to question #3 are largely variable. See mention of learner frustration in the previous section. The most common solution I've seen is just a description of the films to watch such as the following simple example.
 
-![Simple example of a list of films to watch](images/simpleFilmList.png)
+![Simple example of a list of films to watch](https://djon.es/assets/memex/share/blog/images/simpleFilmList.png)
 
 Answering question #4 requires knowledge of learner activity, learner outcomes, learner satisfaction with the experience of using the film watching activities. It also requires the knowledge and skills necessary to analyse, reflect, and re-design. All of this knowledge is rarely available in any way that could be considered systematic or deep. And a simple list like the above example doesn't help.
 
@@ -79,13 +79,13 @@ With the *Film Watching Options* approach, the learner doesn't just see the list
 
 Option #3 illustrating what happens when the institution can't provide access to a film and the learner has to go searching.
 
-![What the student sees with "Film Watch Options"](images/filmWatchOptions.png)
+![What the student sees with "Film Watch Options"](https://djon.es/assets/memex/share/blog/images/filmWatchOptions.png)
 
 ### Teacher perspective
 
 Currently the *Film Watching Options* feature is implemented as part of the [Content Interface](https://djon.es/blog/2019/08/08/exploring-knowledge-reuse-in-design-for-digital-learning-tweaks-h5p-constructive-templates-and-casa/#contentInterface) a [[casa]] approach to using Microsoft Word to create and maintain course content. In this context, the teacher designing this learning space sees the following Word document when authoring. Notice the similarity between the Word document in the above below and the web page in the image above?
 
-![Word document with Film Watching Options](images/filmWatchOptionsWord.png)
+![Word document with Film Watching Options](https://djon.es/assets/memex/share/blog/images/filmWatchOptionsWord.png)
 
 The idea is that when the teacher wants to provide film watching options to the learner they write (in Microsoft Word) the title of the film and then apply the *Film Watching Options* style. That's why the film names in the above image are green. Prior to this the teacher, in collaboration with the library, will have create an Excel spreadsheet that has a table listing all the films in the course and if and where they are available online. 
 

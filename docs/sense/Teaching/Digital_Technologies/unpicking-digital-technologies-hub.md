@@ -1,11 +1,8 @@
----
-title: Unpicking the Digital Technologies Hub
-type: "note"
+﻿---
 tags: teaching, teaching-digital-technologies
+title: Unpicking the Digital Technologies Hub
+type: note
 ---
-
-
-
 Resources and ideas "unpicked" from the [Digital Technologies Hub](https://www.digitaltechnologieshub.edu.au/).
 
 ## [Understanding DT](https://www.digitaltechnologieshub.edu.au/understanding-dt/)
@@ -18,7 +15,7 @@ Resources and ideas "unpicked" from the [Digital Technologies Hub](https://www.d
 | Processes and production skills | Required to create digital solutions |
 
 <figure markdown>
-![](images/dtStrands.png)
+![](https://djon.es/assets/memex/sense/Teaching/Digital_Technologies/images/dtStrands.png)
 <caption>DT Oz Curriculum Strands (source: [Digital Technologies Hub](https://www.digitaltechnologieshub.edu.au/understanding-dt/curriculum))</caption>
 </figure>
 

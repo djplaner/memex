@@ -49,7 +49,7 @@ The image offers the following process
     - _Adapt_ solution and apply changes if needed
 
 <figure markdown>
-![](images/oz-mmp.png)
+![](https://djon.es/assets/memex/sense/Teaching/Mathematics/images/oz-mmp.png)
 <caption>Graphical representation of a mathematical modelling process</caption>
 </figure>
 

@@ -1,11 +1,11 @@
----
+﻿---
 title: Laws of Software Evolution
 ---
 ## Programs, life cycles, and laws of software evolution
 
 [Blog post](https://blog.acolyer.org/2020/02/14/programs-life-cycles-laws/) talking about Lehman (1980)
 
-![](images/lehmansEvolution.png)  
+![](https://djon.es/assets/memex/sense/Bricolage/images/lehmansEvolution.png)  
 
 ## Lehman (1996)
 

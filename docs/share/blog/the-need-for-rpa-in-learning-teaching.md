@@ -1,5 +1,6 @@
----
-title: "Robotic Process Automation (RPA) in L&T in tertiary education: LMS migration examples"
+﻿---
+title: 'Robotic Process Automation (RPA) in L&T in tertiary education: LMS migration
+  examples'
 ---
 ```toml
 post_title='"Robotic Process Automation" (RPA) in L&T in tertiary education: LMS migration examples'
@@ -31,7 +32,7 @@ van der Aalst, Bichler & Heinzl (2018) introduce RPA and describe its place with
 
 This leaves a lot of cases in the middle of the graph. These cases involve (often painfully inefficient) repetitive work. But can't be automated because the cost/benefit trade-off doesn't work. There's not quite enough of these cases to justify large enterprise process automation. In particular, when these cases often rely on proprietary or legacy information systems that enterprise automation can't work with. Traditional process automation - like all traditional enterprise information systems - require long and expensive implementations resulting in relatively inflexible systems, whereas RPA aims for "quick wins that require little investment" (van der Aalst, 2018, p. 271). There is a mismatch between the purpose of enterprise automation tools and the purpose of RPA.
 
-![Positioning RPA (van der Aalst et al, 2018 p. 270)](images/positioningRPA.png)  
+![Positioning RPA (van der Aalst et al, 2018 p. 270)](https://djon.es/assets/memex/share/blog/images/positioningRPA.png)  
 
 ## Lightweight IT 
 

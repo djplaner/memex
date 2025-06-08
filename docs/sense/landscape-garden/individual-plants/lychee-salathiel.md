@@ -1,26 +1,26 @@
----
-title: Lychee (Salathiel)
-type: single-plant
-tags: ['individual-plant', 'rocky-creek-frontage', 'wood-duck-meadows']
+﻿---
 latitude: -27.538083333333333
 longitude: 152.05566383333334
 photos:
   1:
-      title: None
-      filename: C8F86359-B435-4DFB-8D9A-5C06A9CB587D.heic
-      latitude: -27.538083333333333
-      longitude: 152.05566383333334
-      description: Lychee - Salathiel
-      date: 2025-03-14 17:27:14
-      memexFilename: images/lychee-salathiel/1.jpeg
+    date: 2025-03-14 17:27:14
+    description: Lychee - Salathiel
+    filename: C8F86359-B435-4DFB-8D9A-5C06A9CB587D.heic
+    latitude: -27.538083333333333
+    longitude: 152.05566383333334
+    memexFilename: images/lychee-salathiel/1.jpeg
+    title: None
+tags:
+- individual-plant
+- rocky-creek-frontage
+- wood-duck-meadows
+title: Lychee (Salathiel)
+type: single-plant
 ---
-
-
-
 Another lychee (see also [[lychee-no-mai-chee]]) planted along the [[rocky-creek-frontage]] in March 2025.
 
 <figure markdown>
-![Lychee (Salathiel) sapling soon after planting](images/lychee-salathiel/1.jpeg)
+![Lychee (Salathiel) sapling soon after planting](https://djon.es/assets/memex/sense/landscape-garden/individual-plants/images/lychee-salathiel/1.jpeg)
 <caption>Lychee (Salathiel) sapling soon after planting in March, 2025</caption>
 </figure>
 

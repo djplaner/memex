@@ -1,20 +1,17 @@
----
-title: "Senna acclinis (rainforest cassia or brush senna)"
-type: plants
-tags: plants, wood-duck-meadows
+﻿---
 photos:
   1:
-      title: Senna acclinis, April 2025
-      filename: 0CAD17DB-DCA6-49B1-AC49-6E6E994BC330.heic
-      latitude: -27.538295
-      longitude: 152.05587783333334
-      description: Hello
-      date: 2025-04-20 10:10:05
-      memexFilename: images/senna-acclinis/1.jpeg
+    date: 2025-04-20 10:10:05
+    description: Hello
+    filename: 0CAD17DB-DCA6-49B1-AC49-6E6E994BC330.heic
+    latitude: -27.538295
+    longitude: 152.05587783333334
+    memexFilename: images/senna-acclinis/1.jpeg
+    title: Senna acclinis, April 2025
+tags: plants, wood-duck-meadows
+title: Senna acclinis (rainforest cassia or brush senna)
+type: plants
 ---
-
-
-
 [Senna acclinis](https://en.wikipedia.org/wiki/Senna_acclinis), commonly known as rainforest cassia or brush senna, is a shrub native to the rainforests of eastern Australia. Is [bee friendly](https://sown.com.au/senna-acclinis-caesalpinaceae-edge-senna/) and two butterflies - Small Grass-yellow and Yellow Migrant - breed on it.
 
 Threatened by habitat clearance, invasive weeds, timber harvesting, and accidental removal during weed control.
@@ -24,7 +21,7 @@ Threatened by habitat clearance, invasive weeds, timber harvesting, and accident
 Hugh and Kay provided a young plant in April, 2025.
 
 <figure markdown>
-![Small Seen acclinis in a pot](./images/senna-acclinis/1.jpeg)
+![Small Seen acclinis in a pot](https://djon.es/assets/memex/sense/landscape-garden/plants/./images/senna-acclinis/1.jpeg)
 <caption>H&K's donated Senna</caption>
 </figure>
 

@@ -1,11 +1,8 @@
----
-title: Complexity leadership
-type: "note"
+﻿---
 tags: complexity, distribution, BAD
+title: Complexity leadership
+type: note
 ---
-
-
-
 Echoes of the BAD/SET mindsets. Universities as CAS are comprised of tightly integrated sub-systems. Much of these set up (necessarily) through a SET mindset. Uhl-Bien's model suggests seeing organisations as having two organisational functions: 
 1. Administrative - scale and standardisation focused operational and coordinating roles necessary to provide a stable environment - largely appropriate for ordered processes.
 2. Adaptive - _not well defined_  power is distributed and the focus is on forging new relationships and interactions between diverse agents - work that can create friction, but also generates crative outcomes and learning.
@@ -20,7 +17,7 @@ There are _productive tensions_ between these two functions.
 
 Summary and some initial thoughts on [Keynote talk](https://www.youtube.com/watch?v=IXetXFk7f9g&t=16s). See also Dawson et al (2018)
 
-![Dawson's take on complexity leadership adapted from Uhl-Bien](pics/complexityLeadershipModel.png)
+![Dawson's take on complexity leadership adapted from Uhl-Bien](https://djon.es/assets/memex/sense/Distribution/pics/complexityLeadershipModel.png)
 
 > As depicted in Figure 1, when pressure from the surrounding environment is placed upon a system, leadership acts to enable a response by drawing on and balancing interactions that operate in two primary organizational functions – administrative and adaptive (Dawson et al, 2018, p. 239)
 
@@ -53,4 +50,3 @@ In different specific institutions the possibilities in these two spaces will va
 ## References 
 
 Dawson, S., Poquet, O., Colvin, C., Rogers, T., Pardo, A., & Gasevic, D. (2018). Rethinking Learning Analytics Adoption Through Complexity Leadership Theory. *Proceedings of the 8th International Conference on Learning Analytics and Knowledge*, 236--244. <https://doi.org/10.1145/3170358.3170375>
-

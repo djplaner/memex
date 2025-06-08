@@ -1,26 +1,24 @@
----
-title: Mango (Kensington Pride)
-type: "note"
-tags: ['single-plant']
+﻿---
 latitude: -27.539595
 longitude: 152.05545
 photos:
   1:
-      title: None
-      filename: C696CADC-6B1D-42B6-BB05-DB13C764FB5B.heic
-      latitude: -27.539595
-      longitude: 152.05545
-      description: Mango - Kensington Pride
-      date: 2025-03-14 17:54:16
-      memexFilename: images/mango-kensington-pride/1.jpeg
+    date: 2025-03-14 17:54:16
+    description: Mango - Kensington Pride
+    filename: C696CADC-6B1D-42B6-BB05-DB13C764FB5B.heic
+    latitude: -27.539595
+    longitude: 152.05545
+    memexFilename: images/mango-kensington-pride/1.jpeg
+    title: None
+tags:
+- single-plant
+title: Mango (Kensington Pride)
+type: note
 ---
-
-
-
 An [Australian mango cultivar](https://en.wikipedia.org/wiki/Kensington_Pride) and the first mango planted in the [[mango-paddock]].
 
 <figure markdown>
-![Mostly the top of a small mango tree](images/mango-kensington-pride/1.jpeg)
+![Mostly the top of a small mango tree](https://djon.es/assets/memex/sense/landscape-garden/individual-plants/images/mango-kensington-pride/1.jpeg)
 <figcaption>Mango tree planted in mango paddock</figcaption>
 </figure>
 

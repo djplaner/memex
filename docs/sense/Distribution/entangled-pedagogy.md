@@ -1,4 +1,4 @@
----
+﻿---
 title: Entangled Pedagogy
 ---
 Fawns, T. (2022). An Entangled Pedagogy: Looking Beyond the Pedagogy---Technology Dichotomy. *Postdigital Science and Education*. <https://doi.org/10.1007/s42438-022-00302-7>
@@ -7,7 +7,7 @@ Conceptual work that critiques to illusionary views of the relationship between 
 
 Develops and describes an aspirational fourth view where the focus is on purpose, context and values.
 
-![Fawns' (2022, p. 9) aspirational view of entangled pedagogy](pics/entagled-pedagogy-aspirational.png)  
+![Fawns' (2022, p. 9) aspirational view of entangled pedagogy](https://djon.es/assets/memex/sense/Distribution/pics/entagled-pedagogy-aspirational.png)  
 
 ## Work to follow up
 

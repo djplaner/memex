@@ -43,7 +43,7 @@ Work in the following Quote from [solutions engineer's job ad](https://jobs.leve
 
 > We make better, more usable tools for teaching, learning and employee development (you know, stuff people will actually use). A better connected and more open edtech ecosystem
 
-![](images/InstructureSalesEngineer.png)  
+![](https://djon.es/assets/memex/sense/Paper-Ideas/Published/images/InstructureSalesEngineer.png)  
 
 ## Disclaimers
 
@@ -89,7 +89,7 @@ Possible content
 - Importance of digital transformation
 - Something about "more usable tools" being important (this toward the end as the segue to the show and tell)
 Work in the following Quote from [solutions engineer's job ad](https://jobs.lever.co/instructure/438e3c44-d187-4265-a3d8-91628977186e) from instructure> We make better, more usable tools for teaching, learning and employee development (you know, stuff people will actually use). A better connected and more open edtech ecosystem
-![](images/InstructureSalesEngineer.png)  
+![](https://djon.es/assets/memex/sense/Paper-Ideas/Published/images/InstructureSalesEngineer.png)  
 ## Disclaimers
 Establish expectations of what we're showing
 1. Still a work in progress.2. Not the first people to do this type of work but timing has been good3. ??
@@ -105,7 +105,7 @@ Or perhaps it's identifying these four
 1. Buy - purchase various tools and systems2. Build - build your own tools and systems3. (re-)Assemble - engage in lightweight IT development to add more contextually appropriate combinations of technologies
     Another thought, for me, designing and teaching a course (esp. in these days of blended/digital learning) includes a fair bit of assembly.  Assembly isn't just a technology thing.  It's an L&T thing, but one we all do at varying levels.4. Use all the technologies
 
-![](images/buyOrBuild.png)  
+![](https://djon.es/assets/memex/sense/Paper-Ideas/Published/images/buyOrBuild.png)  
 
 Maybe [[laws-of-software-evolution]]
 
@@ -139,7 +139,7 @@ Or perhaps it's identifying these four
     Another thought, for me, designing and teaching a course (esp. in these days of blended/digital learning) includes a fair bit of assembly.  Assembly isn't just a technology thing.  It's an L&T thing, but one we all do at varying levels.
 4. Use all the technologies
 
-![](images/buyOrBuild.png)  
+![](https://djon.es/assets/memex/sense/Paper-Ideas/Published/images/buyOrBuild.png)  
 
 Maybe [[laws-of-software-evolution]]
 

@@ -1,4 +1,4 @@
----
+﻿---
 title: Reflecting on the spread of the Card Interface for Blackboard Learn
 ---
 ```toml
@@ -15,7 +15,7 @@ In late 2018 I started work at an institution using [Blackboard Learn](https://e
 
 The following image is a before/after image. Before is a standard (actually pretty good) Blackboard content area. After is the same content area with the Card Interface. To do this you add an item including [some provided Javascript](https://raw.githubusercontent.com/djplaner/Card-Interface-Tweak/master/tweak.js) and then add some card meta data to the other items.
 
-![](images/2021-03-12-05-20-10.png)
+![](https://djon.es/assets/memex/share/blog/images/2021-03-12-05-20-10.png)
 
 Since 2019, the work has since grown in three ways:
 
@@ -29,7 +29,7 @@ The aim here is to reflect on that uptake.
 
 The following graph illustrates the number of unique Blackboard sites that have requested the Card Interface javascript file in the first few months of 2021. During the same period, the Content Interface has been used by just over 70 Griffith University sites.
 
-![](images/2021-03-12-05-31-00.png)
+![](https://djon.es/assets/memex/share/blog/images/2021-03-12-05-31-00.png)
 
 The heaviest use is within the institution where this all started. Up from the original 7 courses during the same time in 2019. What's surprising about the uptake is that this work is not institutionally  approved. It's just a kludge developed by some guy working for one of the L&T areas. Uptake appears to have largely happened through word of mouth.
 
@@ -37,7 +37,7 @@ Adoption beyond the original institution - especially in Ireland - was sparked b
 
 (For the life of me I can't figure out to embed a good visual of this tweet, it used to be easy). 
 
-![](images/2021-03-12-11-42-53.png)
+![](https://djon.es/assets/memex/share/blog/images/2021-03-12-11-42-53.png)
 ## Reflections
 
 So why has it played out this way? What follows are my current reflections bundled up with the [CASA design princples](https://djon.es/blog/2019/08/08/exploring-knowledge-reuse-in-design-for-digital-learning-tweaks-h5p-constructive-templates-and-casa/#initial-design-principles-adr-stage-4). Would be interesting (to me at least) to actually ask and find out.

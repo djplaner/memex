@@ -1,11 +1,8 @@
----
-title: Implementing number scrabble
-type: "note"
+﻿---
 tags: teaching-mathematics, representation, design, number-scrabble
+title: Implementing number scrabble
+type: note
 ---
-
-
-
 Vague idea to implement number scrabble in Svelte for demonstrations etc. Ended up going with a [[number-scrabble-web|simple Javascript implementation]] (for now)
 
 ## Design 
@@ -57,7 +54,7 @@ Prompt - horizontal
 
 Easy for it   
 
-![](images/horizontalTiles.png)
+![](https://djon.es/assets/memex/sense/Representations/images/horizontalTiles.png)
 
 Prompt - But the equation tiles are a different styling.
 > Please provide some CSS to ensure that the tiles display in the p#equation have the same visual styling.
@@ -95,37 +92,37 @@ ChatGPT provided
 Prompt - let's go retro (I'm old)
 > I understand that there are a number of visual design styles for the web. One example being retro design. Please update the CSS for number scrabble to use a retro design.
 
-![](images/retroStyle.png)
+![](https://djon.es/assets/memex/sense/Representations/images/retroStyle.png)
 
 Prompt - illustrative looked fun 
 > Nice, could you do a redesign using the illustrative design style. Perhaps by drawing inspiration from famous Japanese anime
 
 Not a great success or difference 
 
-![](images/anime1.png)
+![](https://djon.es/assets/memex/sense/Representations/images/anime1.png)
 
 Prompt - a bit more specific 
 > I didn't detect any influence from Japanese anime. Perhaps try again drawing heavily on the visual design of Dragon Ball Z
 
 Not so much 
 
-![](images/DragonBallZ.png)
+![](https://djon.es/assets/memex/sense/Representations/images/DragonBallZ.png)
 
 Super Mario Brothers? 
 
-![](images/Mario.png)
+![](https://djon.es/assets/memex/sense/Representations/images/Mario.png)
 
 Prompt - stop focusing on colour scheme 
 > Update the CSS to make it the Super Mario Brothers inspiration much more obvious, but don't change the colour scheme. Instead, focus on changes to the typography, alignment, and imagery.
 
 There are limits, perhaps my ability to describe what I want visually? 
 
-![](images/mario2.png)
+![](https://djon.es/assets/memex/sense/Representations/images/mario2.png)
 
 Prompt - lets drop that and go material 
 > Okay, time to drop the illustrative visual design style and the Super Mario Brothers inspiration. Please update the CSS to align with the latest material design style you are aware of
 
-![](images/material.png)
+![](https://djon.es/assets/memex/sense/Representations/images/material.png)
 
 Prompt - let's go with playing cards 
 > Rather than use simple numeric tiles, update the HTML and CSS to display playing cards. In particular, using spades as the card suit.
@@ -153,7 +150,7 @@ Prompt - yep, getting there, but equation cards are vertical
 Prompt - getting there, but the score isn't being updated 
 > The score is not being updated when cards are selected. Modify the Javascript so it is updated.
 
-![](images/working.png)
+![](https://djon.es/assets/memex/sense/Representations/images/working.png)
 
 ### Add a switch to change the representation 
 

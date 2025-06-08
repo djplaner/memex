@@ -4,7 +4,7 @@ title: Post adoptive behaviours
 Jasperson et al (2005)
 > advocate that organizations strongly consider capturing users’ post-adoptive behaviors, overtime, at a feature level of analysis (as well as the outcomes associated with these behaviors). It is only through analyzing a community’s usage patterns at a level of detail sufficient to enable individual learning (regarding both the IT application and work system) to be exposed, along with the outcomes associated with this learning, that the expectation gaps required to devise and direct interventions can themselves be exposed. Without such richness in available data, it is unlikely that organizations will realize significant improvements in their capability to manage the post-adoptive life cycle (p. 549)
 
-![Conceptual model of post-adoptive behaviours](post-adoptive-behaviours-conceptual-model.png)
+![Conceptual model of post-adoptive behaviours](https://djon.es/assets/memex/sense/Bricolage/post-adoptive-behaviours-conceptual-model.png)
     
 ## References
 

@@ -1,11 +1,8 @@
----
-title: Fig tree berm
-type: "zone"
+﻿---
 tags: gardens, sense, landscape
+title: Fig tree berm
+type: zone
 ---
-
-
-
 Fig tree berm is a pre-existing berm located near the bunker. The site for early explorations into food forest design.
 
 !!! info "Current status (March 2025)"
@@ -13,14 +10,14 @@ Fig tree berm is a pre-existing berm located near the bunker. The site for early
     Two rounds of initial clearing undertaken to clear out ground cover weeds. Plans what to do incomplete.
 
 <figure markdown>
-![Fig-tree berm in 2024. Fig tree in the foreground with the large Cadaghi behind.](./images/fig-tree-berm-2024.jpeg)
+![Fig-tree berm in 2024. Fig tree in the foreground with the large Cadaghi behind.](https://djon.es/assets/memex/sense/landscape-garden/./images/fig-tree-berm-2024.jpeg)
 <caption>2024 photo of the Fig-tree berm. The fig tree is most visible with the Cadaghi ([[corymbia-torelliana]]) tree behind it.</caption>
 </figure>
 
 ## Location
 
 <figure markdown>
-![Slightly curved berm located in the north-eastern corner of the property](./images/fig-tree-berm.jpg)
+![Slightly curved berm located in the north-eastern corner of the property](https://djon.es/assets/memex/sense/landscape-garden/./images/fig-tree-berm.jpg)
 <caption>Slightly curved berm located in the north-eastern corner of the property</caption>
 </figure>
 

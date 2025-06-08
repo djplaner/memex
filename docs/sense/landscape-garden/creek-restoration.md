@@ -1,15 +1,12 @@
----
+﻿---
+tags:
+- landscape
+- creek
+- restoration
+- regeneration
 title: Creek restoration
 type: note
-tags: 
-    - landscape
-    - creek
-    - restoration
-    - regeneration
 ---
-
-
-
 Initially a set of notes taken from Whyte (2013), perhaps eventually some plans for restoration of the relevant portions of the [[gatton-creek-frontage]] and [[rocky-creek-frontage]]
 
 > a creek is freshwater flowing from high to low along the paths of least resistance. (Whyte, 2013, p. 11)
@@ -84,7 +81,7 @@ Trees
 ### Stream bed zone
 
 <figure markdown>
-![Diagram outlining 6 creek zones](images/creek-zones.png)
+![Diagram outlining 6 creek zones](https://djon.es/assets/memex/sense/landscape-garden/images/creek-zones.png)
 <caption>Identifying creek zones (Whyte, 2013, p. 11)</caption>
 </figure>
 

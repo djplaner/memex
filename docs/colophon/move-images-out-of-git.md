@@ -17,9 +17,9 @@ For the record, the following table shows the number of images and the size of t
 Necessary steps in the process, include:
 
 1. [x] [Relocate the images outside of the git repo](#relocate-the-images-outside-of-the-git-repo)
-2. [ ] [Update the links in the markdown files](#update-the-links-in-the-markdown-files)
-3. [ ] [Copy the images to the web server](#copy-the-images-to-the-web-server)
-4. [ ] [Test the links](#test-the-links)
+2. [x] [Update the links in the markdown files](#update-the-links-in-the-markdown-files)
+3. [x] [Copy the images to the web server](#copy-the-images-to-the-web-server)
+4. [x] [Test the links](#test-the-links)
 5. [ ] [Remove the images from the git repo](#remove-the-images-from-the-git-repo)
 
 ## Relocate the images outside of the git repo

@@ -1,9 +1,6 @@
----
+﻿---
 title: Exploring australian curriculum
 ---
-
-
-
 ## Development log
 
 - 27 August 2023 - [[001-exploring-oz-dev-log]] - initial import v8.4, datasette
@@ -80,7 +77,7 @@ What interfaces might help enable this connection making? To enable the necessar
 Boaler makes a [similar point in this video](https://www.youtube.com/watch?v=KZnGSVwIpeU&t=1732s) in which she talks about work she's contributing to on a "Big Ideas" driven mathematical framework for California.
 
 <figure markdown>
-![](images/mathConnections.png)
+![](https://djon.es/assets/memex/sense/Python/images/mathConnections.png)
 <caption>Concept map of connections between mathematical topics<br />(adapted from <a href="https://www.youcubed.org/resources/tour-mathematical-connections/">YouCubed's Tour of Mathematical Connections</a>)</caption>
 </figure>
 
@@ -95,14 +92,14 @@ Simeon (2021) emphasis added
 [The framework documents](https://www.cde.ca.gov/ci/ma/cf/) specify the big ideas by year and represented with images like the following _Big Ideas Map for Algebra 1_. The size of the circles represent the importance of the ideas.
 
 <figure markdown>
-![Network diagram showing big ideas for Algebra 1.](images/bigIdeasAlgebra1.png)
+![Network diagram showing big ideas for Algebra 1.](https://djon.es/assets/memex/sense/Python/images/bigIdeasAlgebra1.png)
 <caption>Big Ideas map for Algebra 1<br />(adapted from Chapter 8 of <a href="https://www.cde.ca.gov/ci/ma/cf/">California's 2023 Mathematics Framework</a>, p. 38)</caption>
 </figure>
 
 These images are supplemented with a table that provides more detail on the big ideas. Connecting each big idea with related content and then relevant content standards.
 
 <figure markdown>
-![](images/investigateData.png)
+![](https://djon.es/assets/memex/sense/Python/images/investigateData.png)
 <caption>Big Ideas, Content Connections, and Content Standards<br />(adapted from Chapter 8 of <a href="https://www.cde.ca.gov/ci/ma/cf/">California's 2023 Mathematics Framework</a>, p. 39)</caption>
 </figure>
 

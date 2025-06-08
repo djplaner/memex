@@ -1,12 +1,8 @@
----
-title: Statistics - mathematical content
-type: "note"
+﻿---
 tags: statistics, teaching-mathematics
+title: Statistics - mathematical content
+type: note
 ---
-
-
-
-
 ## Year 8 - Data investigation and interpretation
 
 [TIMES Module](http://amsi.org.au/teacher_modules/Data_Investigation_and_interpretation8.html)
@@ -98,7 +94,7 @@ learning outcomes
 | Statistical variable | Description of an entity that is being observed |
 
 <figure markdown>
-![](images/statisticalInvestigationCycle.png)
+![](https://djon.es/assets/memex/sense/Teaching/Mathematics/images/statisticalInvestigationCycle.png)
 <caption markdown>Statistical investigation cycle ([source](http://amsi.org.au/teacher_modules/Data_Investigation_and_interpretation8.html))</caption>
 </figure>
 

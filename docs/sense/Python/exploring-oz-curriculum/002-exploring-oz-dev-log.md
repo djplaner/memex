@@ -1,7 +1,6 @@
 ﻿---
 title: Exploring Oz Curriculum - Dev log 2
 ---
-
 ## Tasks 
 
 - [X] Download and import v9 of the Australian Curriculum
@@ -54,7 +53,7 @@ Generated v9.db (33604 rows in 26 tables)
 That's a lot of rows and tables. Suggesting a possible limitation. Illustrated in the following table. Not a lot of curriculum specific structure visible in the tables.
 
 <figure markdown>
-![](./images/rdfTables.png)
+![](https://djon.es/assets/memex/sense/Python/exploring-oz-curriculum/./images/rdfTables.png)
 </figure>
 
 Part of the challenge will be disentangling the complexity of the vocabulary etc. and transforming that into something specific.  Putting the context back into data, reducing the reusability. [[reusability-paradox]]

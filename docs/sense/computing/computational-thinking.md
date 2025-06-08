@@ -1,11 +1,8 @@
----
-title: Computational thinking
-type: "note"
+﻿---
 tags: computing, teaching-digital-technology
+title: Computational thinking
+type: note
 ---
-
-
-
 [This](https://www.fierceeducation.com/teaching-learning/teaching-computational-thinking-essential-future-college-students) identifies computational literacy as "an essential literacy" with four pillars 
 
 1. [[decomposition]]: breaking the problem into multiple parts
@@ -27,7 +24,7 @@ Wing (2006) defines computational thinking as
 CSER [[maths-in-schools]] MOOC offers the following figure. With _computational thinking_ being included in both the mathematics and digital technologies learning areas.
 
 <figure markdown>
-![](images/computationalThinking.png)
+![](https://djon.es/assets/memex/sense/computing/images/computationalThinking.png)
 <caption>Computational thinking in the Australian Curriculum (from CSER MOOC)</caption>
 </figure>
 

@@ -292,7 +292,7 @@ They are focused on developing "creating tangible **analytical tools** to facili
 
 Core to understanding of this is Hodder's (2012) **theory of entanglement**. Which offers a reasonable way of structuring the cases but with additional consideration to the evolmenet.  Part of the fixing/selection stuff is about diving down below and back up the scales.
 
-![](pics/hodder_entanglement_theory.png)  
+![](https://djon.es/assets/memex/sense/Design/pics/hodder_entanglement_theory.png)  
 
 > Key aspects of design for learning include the careful alignment of theory and practice, and correspondence across dimensions of design (set, social and epistemic) and scale levels (macro, meso and micro). (p. 1135) _the point about correspondence about scale is important and perhaps gets at some of the issues faced (eg. LTI stuck at the middle level and unable to work at scale, relying on manual work)
 
@@ -322,7 +322,7 @@ Does that then become
 - Meso - course profile, learning outcomes
 - Micro - learning activities.
 
-![](pics/acad_wireframe.png)  
+![](https://djon.es/assets/memex/sense/Design/pics/acad_wireframe.png)  
 
 > However, reaching consensus about a shared epistemology of learning in these diverse teams is the crucial first step, and failing to do so often results in dissonance across scale levels and/or dimensions of design. A common example of this type of dissonance arises when, instead of clearly articulating epistemologies of learning upfront, project user groups start with aspirational visions of newness (macro-epistemic) that drive design briefs for innovative buildings and technology (macro-set) which, if enacted in the presence of hierarchical organisational forms (macro-social), can result in aesthetically pleasing environments that speak of newness but fail to give rise to the desired quality of learning activity. That is, when working towards coherence, everything is on the table, and a desire for collaboration and a need for compliance are often at the heart of dissonance. We argue that this challenge can be addressed through an exploration of the material properties of the designed environment and the quality of learning activity they support.
 

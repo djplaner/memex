@@ -1,4 +1,4 @@
----
+﻿---
 title: Heavy Weight and Light Weight Information Technology
 ---
 Idea generated from Bygstad (2017, p. 180)
@@ -44,7 +44,7 @@ Argues that trends in consumer and enterprise IT can be fruitfully thought of as
 
 
 
-![Table 1. Heavyweight and lightweight IT (Bygstad, 2017, p. 182)](pics/heavyweight-lightweight-it-comparison.png)  
+![Table 1. Heavyweight and lightweight IT (Bygstad, 2017, p. 182)](https://djon.es/assets/memex/sense/nodt/pics/heavyweight-lightweight-it-comparison.png)  
 
 ### Generativity
 
@@ -60,7 +60,7 @@ Posit evolution of digitial infrastructures arise from the interplay of three se
 > - Adoption: The recruitment of users through easy-to-use solutions, which allows more investments 
 > - Scaling: The expansion of the network to include more partners to provide more services
 
-![](pics/generative-mechanisms.png)  
+![](https://djon.es/assets/memex/sense/nodt/pics/generative-mechanisms.png)  
 
 > the technical malleability of infrastructure creates a space of possibility, which can be used to recombine components into new services. (p. 184)
 

@@ -1,20 +1,17 @@
----
-title: Ochna serrulata (Mickey Mouse Plant)
-type: plant
-tags: plants, gardens, weeds
+﻿---
 photos:
   1:
-      title: None
-      filename: 48A18F67-DAA2-443A-AFCC-FC0F1DE56E1B.heic
-      latitude: -27.538605
-      longitude: 152.05580283333333
-      description: None
-      date: 2025-05-24 11:35:17
-      memexFilename: images/ochna-serrulata/1.jpeg
+    date: 2025-05-24 11:35:17
+    description: None
+    filename: 48A18F67-DAA2-443A-AFCC-FC0F1DE56E1B.heic
+    latitude: -27.538605
+    longitude: 152.05580283333333
+    memexFilename: images/ochna-serrulata/1.jpeg
+    title: None
+tags: plants, gardens, weeds
+title: Ochna serrulata (Mickey Mouse Plant)
+type: plant
 ---
-
-
-
 South-african ornamental garden plant that is considered a significant environmental weed in South-East Queensland. Shrub or small tree to 3m. [Ochna Serrulata](https://en.wikipedia.org/wiki/Ochna_serrulata) is also known as Mickey Mouse Plant due to the shape of its fruit.
 
 Can take a bit to [kill off Ochna Serrulata](https://weeds.org.au/profiles/ochna-mickey-mouse/) as it can comeback after mechanical and chemical control. In SE Queensland seeds are spread by fig birds (e.g. [[australasianFigbird]])
@@ -22,7 +19,7 @@ Can take a bit to [kill off Ochna Serrulata](https://weeds.org.au/profiles/ochna
 Small plants can be dug out with the focus on taking out as much of the tap root as possible to prevent re-sprouting. Larger plants will likely require [[regeneration-techniques#cut-and-paint|cut and paint]].
 
 <figure markdown>
-![Ochna serrulata](images/ochna-serrulata/1.jpeg)
+![Ochna serrulata](https://djon.es/assets/memex/sense/landscape-garden/plants/images/ochna-serrulata/1.jpeg)
 <caption>Ochna serrulata (Mickey Mouse Plant) - [[gatton-creek-frontage]] May 2025</caption>
 </figure>
 

@@ -1,26 +1,27 @@
----
-title: Custard apple (Paxton Prolific)
-type: single-plant
-tags: ['individual-plant', 'rocky-creek-frontage', 'custard-apple', 'wood-duck-meadows']
+﻿---
 latitude: -27.53805
 longitude: 152.05574166666668
 photos:
   1:
-      title: None
-      filename: 70CD082E-2699-48EA-8371-98CFF11E5DFC.heic
-      latitude: -27.53805
-      longitude: 152.05574166666668
-      description: Custard Apple - Paxton Prolific
-      date: 2025-03-14 17:26:29
-      memexFilename: images/custard-apple-paxton-prolific/1.jpeg
+    date: 2025-03-14 17:26:29
+    description: Custard Apple - Paxton Prolific
+    filename: 70CD082E-2699-48EA-8371-98CFF11E5DFC.heic
+    latitude: -27.53805
+    longitude: 152.05574166666668
+    memexFilename: images/custard-apple-paxton-prolific/1.jpeg
+    title: None
+tags:
+- individual-plant
+- rocky-creek-frontage
+- custard-apple
+- wood-duck-meadows
+title: Custard apple (Paxton Prolific)
+type: single-plant
 ---
-
-
-
 A custard apple cultivar planted in the [[rocky-creek-frontage]] during the great March 2025 planting.
 
 <figure markdown>
-![Custard apple (Paxton Prolific) in the rocky creek frontage, just after planting in March 2025](images/custard-apple-paxton-prolific/1.jpeg)
+![Custard apple (Paxton Prolific) in the rocky creek frontage, just after planting in March 2025](https://djon.es/assets/memex/sense/landscape-garden/individual-plants/images/custard-apple-paxton-prolific/1.jpeg)
 <caption>Custard apple (Paxton Prolific) in the rocky creek frontage, just after planting in March 2025</caption>
 </figure>
 

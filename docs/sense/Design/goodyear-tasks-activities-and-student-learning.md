@@ -1,4 +1,4 @@
----
+﻿---
 title: Tasks, activities and student learning
 ---
 [Peter Goodyear talk](https://petergoodyear.net/2019/11/06/tasks-activities-and-student-learning/)
@@ -13,7 +13,7 @@ Goodyear??
 
 ## Shift toward 'active learning'
 
-![](goodyear-active-learning-teaching-as-design.png)
+![](https://djon.es/assets/memex/sense/Design/goodyear-active-learning-teaching-as-design.png)
 
 But what about "meddling", rather than facilitation? Does facilitation still have too much "control" as per [Dron](https://jondron.ca/nobody-has-ever-learned-anything-at-a-distance-and-no-one-ever-goes-to-a-distance-institution/)?
 
@@ -21,7 +21,7 @@ Though perhaps "lightly supervised" just becomes "lightly enaged/meddled" with m
 
 ## Importance/rationale of teaching as design
 
-![](goodyear-reasons-teaching-as-design.png)
+![](https://djon.es/assets/memex/sense/Design/goodyear-reasons-teaching-as-design.png)
 
 4 stresses on traditional teaching practices:
 1. Diversifying student needs and expectations

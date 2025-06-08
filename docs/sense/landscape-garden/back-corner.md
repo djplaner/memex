@@ -1,11 +1,8 @@
----
-title: The back corner
-type: "zone"
+﻿---
 tags: wood-duck-meadows
+title: The back corner
+type: zone
 ---
-
-
-
 The least explored zone of [[wood-duck-meadows]] the _back corner_ is located in the north-eastern corner of the property. It's largely grass covered with the odd tree. An observations based solely on the satellite image.
 
 !!! info "Current status"
@@ -15,7 +12,7 @@ The least explored zone of [[wood-duck-meadows]] the _back corner_ is located in
 ## Location
 
 <figure markdown>
-![The back corner is located in the north-eastern corner of the property](./images/back-corner-location.jpg)
+![The back corner is located in the north-eastern corner of the property](https://djon.es/assets/memex/sense/landscape-garden/./images/back-corner-location.jpg)
 <caption>The back corner is located in the north-eastern corner of the property</caption>
 </figure>
 

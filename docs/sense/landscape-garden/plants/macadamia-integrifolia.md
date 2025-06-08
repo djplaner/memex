@@ -1,9 +1,12 @@
----
+﻿---
+tags:
+- wood-duck-meadows
+- macadamia
+- tree
+- native
 title: Macadamia integrifolia (Queensland Nut)
-type: "plants"
-tags: [ 'wood-duck-meadows', 'macadamia', 'tree', 'native' ]
+type: plants
 ---
-
 A small to medium rainforest tree native to northern NSW and southern QLD. Growing to 15/20 metres tall producing edible nuts. It is listed as vulnerable.
 
 ## Wood duck meadows
@@ -11,7 +14,7 @@ A small to medium rainforest tree native to northern NSW and southern QLD. Growi
 After doing some work clearing the [[roundabout]] we discovered a mature macadamia integrifolia growing just down the creek bank covered in [[cats-claw-creeper]] and [[madeira-vine]]. 
 
 <figure markdown>
-![A macadamia integrifolia hiding under a curtain of cat's claw creeper and madeira vine](./images/macadamia-covered.jpeg)
+![A macadamia integrifolia hiding under a curtain of cat's claw creeper and madeira vine](https://djon.es/assets/memex/sense/landscape-garden/plants/./images/macadamia-covered.jpeg)
 <caption>A macadamia integrifolia hiding under a curtain of [[cats-claw-creeper]] and [[madeira-vine]]</caption>
 </figure>
 

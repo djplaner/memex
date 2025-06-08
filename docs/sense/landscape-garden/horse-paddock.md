@@ -1,22 +1,21 @@
----
+﻿---
+tags:
+- gardens
+- landscape
 title: Horse paddock
-type: "zone"
-tags: [gardens, landscape]
+type: zone
 ---
-
-
-
 What was the old horse paddock is the largest cleared space on the property. Taking up most of the eastern boundary of the property and containing [[the-circle]].
 
 <figure markdown>
-![Panoramic view of the horse paddock from March 2025. Mostly open, mown grassland in the foreground, trees in the far distance, house and sheds visible in the middle left.](./images/horse-paddock-pano-2025.jpeg)
+![Panoramic view of the horse paddock from March 2025. Mostly open, mown grassland in the foreground, trees in the far distance, house and sheds visible in the middle left.](https://djon.es/assets/memex/sense/landscape-garden/./images/horse-paddock-pano-2025.jpeg)
 <caption>Panoramic view of the horse paddock in March 2025. From left to right: [[orchard-corner]] far left; [[house]] middle left, [[fig-tree-berm]] in the middle; then [[the-circle]]</caption>
 </figure>
 
 ## Location
 
 <figure markdown>
-![The horse paddock is the large cleared area taking up most of the eastern boundary of the property](./images/horse-paddock.jpg)
+![The horse paddock is the large cleared area taking up most of the eastern boundary of the property](https://djon.es/assets/memex/sense/landscape-garden/./images/horse-paddock.jpg)
 <caption>The horse paddock is the large cleared area taking up most of the eastern boundary of the property</caption>
 </figure>
 

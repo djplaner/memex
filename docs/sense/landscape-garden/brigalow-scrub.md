@@ -1,15 +1,12 @@
----
-title: Brigalow scrub
-type: "note"
+﻿---
 tags: gardens, landscape, wood-duck-meadows
+title: Brigalow scrub
+type: note
 ---
-
-
-
 The front of [[wood-duck-meadows]] has a small stand of [brigalow scrub](https://www.lfwseq.org.au/wp-content/uploads/2017/06/RE-Fact-Sheet_12.8.23_HLW.pdf). It appears to be a fairly health, but small, example of this ecosystem. A very good canopy providing a good amount of shade and no obvious signs of weed invasion.
 
 <figure markdown>
-![Brigalow scrub](./images/brigalow-scrub.jpg)
+![Brigalow scrub](https://djon.es/assets/memex/sense/landscape-garden/./images/brigalow-scrub.jpg)
 <figcaption>Brigalow scrub stand</figcaption>
 </figure>
 

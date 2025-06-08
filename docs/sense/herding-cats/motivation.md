@@ -1,11 +1,8 @@
----
-title: Motivation
-type: "note"
+﻿---
 tags: learning, knowledge, teaching
+title: Motivation
+type: note
 ---
-
-
-
 Ambrose et al (2010, pp. 68-69)
 > Motivation refers to the personal investment that an individual has in reaching a desired state or outcome (Maehr & Meyer, 1997). In the context of learning, motivation influences the direction, intensity, persistence, and quality of the learning behaviours in which students engage...The importance of motivation, in the context of learning, cannot be overstated (Ames, 1990)
 
@@ -13,7 +10,7 @@ Ambrose et al (2010, pp. 68-69)
 
 
 <figure markdown>
-![](images/valueExpectancyPerformance.png)
+![](https://djon.es/assets/memex/sense/herding-cats/images/valueExpectancyPerformance.png)
 <caption>Impact of value and expectancy on learning and performance (Ambrose et al, 2010, p. 70)</caption>
 </figure>
 
@@ -28,7 +25,7 @@ Motivation is highest when
 The interaction between these lead to an array of behaviours. No silver bullet
 
 <figure markdown>
-![](images/interactiionEnvironmentEfficacyValue.png)
+![](https://djon.es/assets/memex/sense/herding-cats/images/interactiionEnvironmentEfficacyValue.png)
 <caption>Interaction of environment, efficacy and value (Ambrose et al, 2010, p. 80)</caption>
 </figure>
 
@@ -99,8 +96,3 @@ Types of goals
 ## References
 
 Ambrose, S. A., Bridges, M. W., DiPietro, M., Lovett, M. K., & Mayer, R. (2010). What factors motivate students to learn. In *How learning works: Seven research-based principles for smart teaching*. John Wiley & Sons.
-
-
-
-
-

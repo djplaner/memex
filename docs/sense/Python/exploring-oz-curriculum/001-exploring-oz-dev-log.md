@@ -1,4 +1,4 @@
----
+﻿---
 title: '# 001 - Exploring Australian Curriculum - Dev log'
 ---
 ## 001 - Exploring Australian Curriculum - Dev log
@@ -35,7 +35,7 @@ All the fields of the CSV become TEXT columns. `sqlite-utils` can be used to que
 sqlite-utils also offers ways to transform the data and the database.
 
 <figure markdown>
-[![](../images/dataSetteOzCurr.png)](../images/dataSetteOzCurr.png)
+[![](https://djon.es/assets/memex/sense/Python/exploring-oz-curriculum/../images/dataSetteOzCurr.png)](https://djon.es/assets/memex/sense/Python/exploring-oz-curriculum/../images/dataSetteOzCurr.png)
 <figcaption>Initial Datasette visualisation of Australian Curriculum (click to see larger)</figcaption>
 </figure>
 

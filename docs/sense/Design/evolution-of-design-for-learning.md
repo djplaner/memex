@@ -42,7 +42,7 @@ ACAD card decks with four colour coded sets allow for a focus on:
 These cards combined with the ACAD wireframe (figure below) and case studies to help educational designers engage in identifying designable elements. 
 
 <figure markdown>
-![](images/ACAD-wireframe.png)
+![](https://djon.es/assets/memex/sense/Design/images/ACAD-wireframe.png)
 <caption>The ACAD wireframe (adapted from Carvahlo et al, 2023, p. 346)</caption>
 </figure>
 

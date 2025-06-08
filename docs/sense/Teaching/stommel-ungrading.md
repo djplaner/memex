@@ -1,7 +1,6 @@
+﻿---
+title: Jesse Stommel on ungrading
 ---
-title: Jesse Stommel on ungrading 
----
-
 Summary and reflections on [a twitter thread on ungrading](https://twitter.com/Jessifer/status/1655763679437266944) from Jesse Stommel
 
 ## [Ungrading: an Introduction](https://www.jessestommel.com/ungrading-an-introduction/)
@@ -30,7 +29,7 @@ Summary and reflections on [a twitter thread on ungrading](https://twitter.com/J
 
 Good demo re: institutional mission statements 
 
-![](images/gradingMissionStatement.png)
+![](https://djon.es/assets/memex/sense/Teaching/images/gradingMissionStatement.png)
 
 - [[train-to-overcome-biases]]
 

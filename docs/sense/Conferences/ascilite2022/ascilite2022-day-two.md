@@ -16,7 +16,7 @@ Analysis of ASCILITE institutional members strategic plans
 
 Findability on the website often mentioned by students
 
-![](images/parrishStudentsWant.png)  
+![](https://djon.es/assets/memex/sense/Conferences/ascilite2022/images/parrishStudentsWant.png)  
 
 
 ## There’s a pandemic coming, get yourselves some tablets’: Lessons from the pandemic on a community of practice approach to learning technology diffusion
@@ -54,7 +54,7 @@ Abstract
 
 Canvas course with interactive design. Canvas modules structured with the prepare, engage, reflect stages.  Engage is a 3 hour synchronous teams session every week.  But very interactive. Not a lot of listening
 
-![](images/prepareEngageReflect.png)  
+![](https://djon.es/assets/memex/sense/Conferences/ascilite2022/images/prepareEngageReflect.png)  
 
 Important - quite explicit support is given to working with the academics to design the feedback process for use of OnTask
 
