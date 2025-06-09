@@ -12,7 +12,7 @@ cp -pfr ~/memex_site/pagefind ~/memex/docs/pagefind
 if [[ "$1" == "--push" ]]; then
     cd ~/memex_site
     ssh djones@djon.es "rm -rf /home/djones/public_html/memex/pagefind/"
-    rsync -avPh . djones@djon.es:/home/djones/public_html/memex/
+    rsync -azvuPh . djones@djon.es:/home/djones/public_html/memex/ --delete
     cd ~/memex
 fi
 

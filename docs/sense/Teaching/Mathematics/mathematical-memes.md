@@ -21,5 +21,5 @@ Collections of mathematical memes intended for eventually use in teaching.
 ### Multiplication
 
 <figure markdown>
-![(Concept Cartoons - a resource to follow up on[source](https://johndabell.com/2018/02/13/concept-cartoons-lead-the-way/))](images/time10.png)
+![(Concept Cartoons - a resource to follow up on[source](https://johndabell.com/2018/02/13/concept-cartoons-lead-the-way/))](https://djon.es/assets/memex/sense/Teaching/Mathematics/images/time10.png)
 </figure>

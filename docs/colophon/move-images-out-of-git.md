@@ -21,8 +21,11 @@ Necessary steps in the process, include:
 3. [x] Copy the images to the web server
 5. [x] Test the links
 6. [x] Update the auto generated pages
-7. [ ] Remove the images from the git repo
+7. [x] Remove the images from the git repo
     - Remove the existing images from the git repo
+8. [x] Fix rsync to remove files on the remote server (e.g. images)
+9. [x] Move blog images to the new assets folder
+    - cover image links need updating
 
 ## Relocate the images outside of the git repo
 

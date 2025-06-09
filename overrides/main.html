@@ -4,14 +4,14 @@
 <script data-goatcounter="https://djones.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
 
 <meta http-equiv="Content-Security-Policy"
-  content="default-src 'self'; style-src 'self' https://cdn.jsdelivr.net fonts.googleapis.com; font-src fonts.gstatic.com ; img-src 'self' https://mirrors.creativecommons.org https://djon.es data: w3.org/svg/2000;; script-src  'self' https://gc.zgo.at https://cdn.jsdelivr.net https://unpkg.com 'sha256-j7My9w9mER+M7RUs0QhmkO4OLN0hwgS0tGvN5aoNjiY=' 'wasm-unsafe-eval'; connect-src 'self' https://djones.goatcounter.com/count https://api.github.com; ">
+  content="default-src 'self'; style-src 'self' https://cdn.jsdelivr.net fonts.googleapis.com; font-src fonts.gstatic.com ; img-src 'self' https://mirrors.creativecommons.org https://djon.es data: w3.org/svg/2000;; script-src  'self' https://gc.zgo.at https://cdn.jsdelivr.net https://unpkg.com 'sha256-x1PJKEBNhZEng9Iji/awTiK1I3qPY87JaQGjlmx2VoY=' 'wasm-unsafe-eval'; connect-src 'self' https://djones.goatcounter.com/count https://api.github.com; ">
 
 <script src="https://cdn.jsdelivr.net/npm/micromodal/dist/micromodal.min.js"></script>
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/glightbox/dist/css/glightbox.min.css" />
 <script src="https://cdn.jsdelivr.net/gh/mcstudios/glightbox/dist/js/glightbox.min.js"></script>
 
-<script type="text/javascript" integrity="sha256-j7My9w9mER+M7RUs0QhmkO4OLN0hwgS0tGvN5aoNjiY=" crossorigin="anonymous">
+<script type="text/javascript" integrity="sha256-x1PJKEBNhZEng9Iji/awTiK1I3qPY87JaQGjlmx2VoY=" crossorigin="anonymous">
   document.addEventListener('DOMContentLoaded', function () {
     new PagefindUI({
       element: "#search",
@@ -20,7 +20,7 @@
       showImages: false,
     })
     MicroModal.init()
-    const lightbox = GLightbox({ "touchNavigation": true, "loop": false, "zoomable": true, "draggable": true, "openEffect": "zoom", "closeEffect": "zoom", "slideEffect": "slide" });
+    const lightbox = GLightbox({ "touchNavigation": true, "loop": false, "zoomable": true, "draggable": true, "openEffect": "zoom", "closeEffect": "zoom", "slideEffect": "slide", "width": "50%" });
     document$.subscribe(() => { lightbox.reload() });
 
     // add .glightbox class to all images within div.md-content
