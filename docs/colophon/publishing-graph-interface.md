@@ -12,6 +12,20 @@ Foam has a graph/map feature for notes from within VS-Code (see the figure below
 <figcaption>Sample graph/map of memex (within VSCode)</figcaption>
 </figure>
 
+## Planning
+
+Current possible plan is
+
+- Use Python to extract data about the Foam graph
+
+  The method used to add backlinks is a large step toward this, but doesn't do graph analysis. May also be better methods **TODO**
+
+- Generate a JSON file with the graph data
+
+- Implement a front-end that uses that JSON file to generate the graph interface
+
+  [force-graph](https://github.com/vasturiano/force-graph) seems a reasonable fit.
+
 ## Resources
 
 ### Foam
@@ -34,6 +48,7 @@ Graphing in Foam can use any HTML/Javascript.
 - [Graph view component from a Gatsby/Foam template](https://github.com/theowenyoung/gatsby-theme-primer-wiki/blob/main/theme/src/components/graph-view.js) - is a nice implementation which allows navigation, but I wonder how it scales to larger graphs. Associated [github repo](https://github.com/mathieudutour/gatsby-digital-garden/tree/master). Uses [d3.js](https://github.com/mathieudutour/gatsby-digital-garden/blob/master/packages/gatsby-theme-garden/src/components/graph-visualisation.js)
 
   Gatsby's based on React.
+
 - [/home/huka](https://hukacode.github.io/graph/) - his [process](https://discord.com/channels/729975036148056075/735778843151040512/850931487187402793)
 
 - [Another example - (about graphs)](https://graph.stereobooster.com) - with a [graph visualisation](https://graph.stereobooster.com/notes/Visualisation) collection of notes
@@ -66,17 +81,24 @@ Graphing in Foam can use any HTML/Javascript.
 
 ### [Cosmograph](https://cosmograph.app/#library)
 
-A web application for analysing large data sets that also provides a [Javascript/React library](https://cosmograph.app/docs/cosmograph/Cosmograph%20JavaScript/Get%20Started). There is also now [Python support](https://cosmograph.app/docs/cosmograph/Cosmograph%20Python/get-started-widget/)
+A web application for analysing large data sets that also provides a [Javascript/React library](https://cosmograph.app/docs/cosmograph/Cosmograph%20JavaScript/Get%20Started). There is also now [Python support](https://cosmograph.app/docs/cosmograph/Cosmograph%20Python/get-started-widget/). Python support limited to Jupyter notebooks.
 
 ### Python
 
-- [NetworkX](https://networkx.org/documentation/stable/index.html) - for the creation, manipulation and study of the structure of complex networks. Will read/write GEXF files.
+- [NetworkX](https://networkx.org/documentation/stable/index.html) - for the creation, manipulation and study of the structure of complex networks. Will read/write GEXF files. Not what we're looking for.
 
 ### [Foam detail on graph visualisation](https://foambubble.github.io/foam/user/features/graph-visualization.html)
+
 - Foam gatsby templates including graph visualisations
   - [foam-gatsby-template](https://github.com/mathieudutour/foam-gatsby-template)
-  - [foam-gatsby-template-kb](https://github.com/hikerpig/foam-template-gatsby-kb) - quite nice
+  - [foam-gatsby-template-kb](https://github.com/hikerpig/foam-template-gatsby-kb) - quite nice. The [source code](https://github.com/hikerpig/gatsby-project-kb/tree/master) and [documentation](https://gatsby-project-kb.vercel.app)
+
+       Uses the Foam documentation as an example. Nice and navigable graph visualisation. Graph visualisation includes a search that highlights nodes.
+
+       Graph visualisation provided by [note-graph](https://github.com/hikerpig/note-graph), which in turn draws on D3.js. Notes data is provided as an array of dicts, can be loaded from a JSON file. But is essentially a glue layer. Specifically to [force-graph](https://github.com/vasturiano/force-graph) which seems a more updated project.
+
 - [mkdocs-roamlinks-plugin](https://github.com/Jackiexiao/mkdocs-roamlinks-plugin) - could help with ideas
+
 - [Python code](https://github.com/foambubble/foam/issues/1351#issuecomment-2206544442) that geneates are graphml file by reading all markdown files
 
     - This works and the file can be opened in Gephi. Need to choose some layouts to get reasonably visualisation.

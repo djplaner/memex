@@ -7,7 +7,32 @@ tags: travel, new-zealand
 
 Visit to the North Island in July 2025. Based in Otorohanga. Primarily to the Waikato, Manawatu-Wanganui, Taranaki, and Hawkes Bay regions.
 
+## Approach
+
+- Daily tour approach
+
+    Select day long drives and associated activities.
+
+
+## Day long drives
+
+Locations
+
+- Raglan
+- Kawhia
+- Hamilton
+- Marokopa
+
+### 1 hour
+
+
+### 2 hour
+
 ## Regions - possibilities
+
+- [Tongariro National Park](https://www.doc.govt.nz/parks-and-recreation/places-to-go/central-north-island/places/tongariro-national-park/)
+
+    NZ's oldest national park. Numerous walks.
 
 ### Waikato
 
@@ -19,9 +44,23 @@ Visit to the North Island in July 2025. Based in Otorohanga. Primarily to the Wa
 - [Te Aroha Summit Track](https://www.newzealand.com/au/feature/te-aroha-mountain-track/) - 3 hour one way
 - [Te Waihou Walkway](https://www.newzealand.com/au/feature/te-waihou-walkway/) - 3 hour return
 
+- [Raglan walks](https://www.doc.govt.nz/parks-and-recreation/places-to-go/waikato/places/raglan-area/)
+
+    Collection of different walks in the area.
+
 - [Waireinga / Bridal Veil Falls Raglan](https://www.waikatonz.com/walking-and-hiking-trails/bridal-veil-falls/)
 
     Short walk for a waterfall.
+
+- [Kakepuku Track](https://www.doc.govt.nz/parks-and-recreation/places-to-go/waikato/places/kakepuku-mountain-historic-reserve/tracks/kakepuku-track/) part of a [historic reserve](https://www.doc.govt.nz/parks-and-recreation/places-to-go/waikato/places/kakepuku-mountain-historic-reserve/)
+
+    Walk thru bush up the summit of an old volcano. Advanced: 2 to 3 hours
+
+- [Morrinsville River walk](https://www.mpdc.govt.nz/our-community/walking-a-cycling-tracks/71-our-community/walking-and-cycling-tracks/481-morrinsville-river-walk)
+
+    Town-based, perhaps not that interesting??
+
+- [Karakaiki track](https://www.doc.govt.nz/parks-and-recreation/places-to-go/waikato/places/karakariki-scenic-reserve/tracks/karakariki-track/)
 
 - [Waiorongomai Valley](https://www.doc.govt.nz/parks-and-recreation/places-to-go/bay-of-plenty/places/kaimai-mamaku-conservation-park/waiorongomai-valley/) - numerous tracks, evidence of old school gold mining
 
@@ -31,7 +70,35 @@ Visit to the North Island in July 2025. Based in Otorohanga. Primarily to the Wa
 
 - [Pirongia Forest Park](https://www.doc.govt.nz/parks-and-recreation/places-to-go/waikato/places/pirongia-forest-park/?tab-id=50578)
 
-    Numerous walks (long) and a short one to lookout
+    Numerous walks (long) and a short one to lookout, including [Kaniwhaniwha caves walk](https://www.doc.govt.nz/parks-and-recreation/places-to-go/waikato/places/pirongia-forest-park/things-to-do/kaniwhaniwha-caves/)
+
+- [Kawhia](https://www.otorohanga.co.nz/kawhia/)
+
+    Seaside town near Otorohanga, includes the "warm" beach.
+
+- [Hakarimata Scenic Reserve](https://www.doc.govt.nz/parks-and-recreation/places-to-go/waikato/places/hakarimata-scenic-reserve/?tab-id=50578)
+
+    Various walks through native bush.
+
+- [Taitua Arboretum](https://hamilton.govt.nz/parks-recreation-and-community-spaces/parks/detail/taitua-arboretum/)
+
+    20 hectares of mature trees. 
+
+- [Pukemokemoke bush reserve](https://www.pukemokemoke.nz)
+
+    40ha forest remnant, regenerated and donated.
+
+- [Yarndley's bush](https://www.waipadc.govt.nz/your-waipa/parks-and-reserves/te-awamutu-parks-and-reserves/yarndleys-bush)
+
+    Example of Kahikatea swamp forest (tallest native tree)
+
+- [Te Tapui Loop Track](https://www.doc.govt.nz/parks-and-recreation/places-to-go/waikato/places/te-tapui-scenic-reserve/tracks/te-tapui-loop-track/)
+
+    4km advanced tramping track.
+
+- [Pureora Forest Park](https://www.doc.govt.nz/parks-and-recreation/places-to-go/waikato/places/pureora-forest-park/)
+
+    Numerous walks.
 
 ### [Otorohanga](https://en.wikipedia.org/wiki/%C5%8Ctorohanga)
 

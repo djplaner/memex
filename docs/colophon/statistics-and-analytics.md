@@ -13,6 +13,20 @@ Exploring alternatives for adding
 
     Intent being to adapt [small analytics](https://benhoyt.com/writings/the-small-web-is-beautiful/#small-analytics)
 
+!!! info "Current status"
+
+    Analytics 
+    
+    - [ ] GoatCounter installed on blog and Memex and reporting integrated
+
+    Statistics 
+
+    - [x] Blog statistics expanded
+    - [ ] Add visualisations for blog statistics  
+    - [ ] Add statistics for Memex
+
+
+
 ## Analytics
 
 ### Exploring [GoatCounter](https://www.goatcounter.com) (installed)

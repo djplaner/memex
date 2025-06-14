@@ -45,6 +45,7 @@ theme:
     - header.autohide
 #    - search.suggest
 markdown_extensions: 
+#  - neoteroi.timeline
 #  - pymdownx.pathconverter:
 #      base_path: /memex/
 #      relative_path: ''

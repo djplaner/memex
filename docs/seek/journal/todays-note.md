@@ -19,6 +19,7 @@ On-going
 - Update the "Made with Material for Mkdocs" to be more assemblage oriented
 - work on [[assemblage]]
 - Add visual progress representations to [[computational-components]] used during mkdocs build
+- implement statistics for Memex
 
 - Explore if/how to move images (blog and memex) out of git repo, into shared assets folder
 

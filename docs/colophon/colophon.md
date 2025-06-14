@@ -16,7 +16,9 @@ This site isn't going to do all of that. But it is an attempt to be more conside
 
 [A 2020 blog post](https://djon.es/blog/2020/07/06/designing-a-personal-memex-with-foam/) gives some origins for this work. I might think and write more about this and the connection with [[ideas-events-people]]
 
-An on-going task is to figure out [[note-taking-strategies]] to help improve this site and turn it into a more effective [[digital-garden]].
+An on-going task is to figure out [[note-taking-strategies]] to help improve this site and turn it into a more effective [[digital-garden]]. 
+
+A significant part of this work is the on-going selection and orchestration of different technologies to implement this version of Memex. The impact of the how and what of this orchestration is visible in [[as-we-may-think|Bush's writing]] and [[drons-technology|other conceptualisations of technology]] in general.
 
 ## How?
 
@@ -57,7 +59,7 @@ Improvements being worked on or thought about, include:
 - [[publishing-graph-interface]] - adding an interface option to navigate the inter-connected bubbles of the site using a network graph.
 - [[statistics-and-analytics]] - exploring how to improve statistics and analytics for the site and the blog.
 - [[comments-webmentions]] and/or [[add-activity-pub]] - have the blog post/retrieve comments via ActivityPub.
-- expand recent changes
+- expand [[recent-changes]]
 
     - Stand alone page that lists all changes, provides graphical representations of frequency etc.
 
@@ -117,9 +119,11 @@ Timed with an increased focus on leveraging this site for my [personal learning 
 [related-work|Related work]: related-work "Related work"
 [ideas-events-people]: ../sense/quote-collection/ideas-events-people "Great Minds Discuss Ideas; Average Minds Discuss Events; Small Minds Discuss People"
 [note-taking-strategies]: note-taking-strategies "Note taking strategies"
+[as-we-may-think|Bush's writing]: ../sense/computing/as-we-may-think "As We May Think"
+[drons-technology|other conceptualisations of technology]: ../sense/nodt/drons-technology "Dron's take on technology"
 [computational-components]: computational-components "Computational components"
 [recent-changes]: recent-changes "Recent changes"
-[move-images-out-of-git]: move-images-out-of-git "move-images-out-of-git"
+[move-images-out-of-git]: move-images-out-of-git "Move images out of git"
 [publishing-graph-interface]: publishing-graph-interface "Publishing graph interface"
 [statistics-and-analytics]: statistics-and-analytics "Statistics and Analytics"
 [comments-webmentions]: comments-webmentions "Comments, webmentions, pingbacks etc"

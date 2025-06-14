@@ -21,6 +21,7 @@ The following provides a summary of the plant species we've come across on [[woo
 - [[brachychiton-rupestris]] - Queensland Bottle Tree
 - [[bunya-pine]]
 - [[corymbia-torelliana]] (aka Cadaghi) which is native to North Queensland but considered an [environmental pest](https://weeds.brisbane.qld.gov.au/weeds/cadaghi) in South East Queensland.
+- [[cupaniopsis-anacardioides]] (aka Tuckeroo) 
 - [[ficus-obliqua]] (aka small-leaved fig)
 - [[ficus-macrophylla]] (aka Moreton Bay fig)
 - [[harpullia-pendula]] (aka Moreton Bay Tulipwood)
@@ -105,6 +106,7 @@ The following provides a summary of the plant species we've come across on [[woo
 [brachychiton-rupestris]: brachychiton-rupestris "Brachychiton rupestris (Queensland Bottle Tree)"
 [bunya-pine]: bunya-pine "Bunya Pine"
 [corymbia-torelliana]: corymbia-torelliana "Corymbia Torelliana (Cadaghi)""
+[cupaniopsis-anacardioides]: cupaniopsis-anacardioides "Cupaniopsis anacardioides (Tuckeroo)"
 [ficus-obliqua]: ficus-obliqua "Ficus obliqua (Small-leaved fig)"
 [ficus-macrophylla]: ficus-macrophylla "Ficus macrophylla (Moreton Bay fig)"
 [harpullia-pendula]: harpullia-pendula "Harpullia Pendula (Moreton Bay Tulipwood)"
