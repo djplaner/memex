@@ -6,22 +6,57 @@ PURPOSE: Define macros using mkdocs-macros-plugin
 import datetime
 from git import Repo
 
+def calculateCommitsByYear( commits ):
+    """
+    Generate a dict of dicts showing the commits by year and month.
+    
+    {
+        2025: {
+            'January': [ <array of commits> ],
+            'February': [ <array of commits> ],
+            ...
+        },
+        2024: {
+            'December': [ <array of commits> ],
+            ...
+        }
+    }
+    """
+
+    commitsByYear = {}
+
+    for commit in commits:
+        datetime_object = datetime.datetime.strptime(str(commit.committed_datetime), '%Y-%m-%d %H:%M:%S%z')
+        year = datetime_object.year
+        month = datetime_object.strftime('%B')
+
+        if year not in commitsByYear:
+            commitsByYear[year] = {}
+
+        if month not in commitsByYear[year]:
+            commitsByYear[year][month] = []
+
+        commitsByYear[year][month].append(commit)
+
+    return commitsByYear
+
 def getRecentChangesTimeline( numChanges : int = -1 ):
     """
     Get the last X changes to the current git repo, convert them into a timeline and return.
     If numChanges is -1, return all changes.
-    """
 
-    TIMELINE_BLOCK = """
-    	<div class="cd-timeline-block">
-			<div class="cd-timeline-img cd-picture">
-			</div>
-			<div class="cd-timeline-content">
-				<h2>{DATE}</h2>
-                <p markdown>{MESSAGE}</p>
-			</div> 
-		</div> 
-"""
+    Timeline is implemented via Markdown headings
+
+    ## 2025 - (<x> changes)
+
+    ### June, 2025 (<y> changes)
+
+    :calendar: <commit datetime>
+    <commit message>
+
+    :calendar: <commit datetime>
+    <commit message>
+    """
 
     REPO_DIR = "/Users/davidjones/memex"
     repo = Repo(REPO_DIR)
@@ -31,26 +66,42 @@ def getRecentChangesTimeline( numChanges : int = -1 ):
     else:
         prev_commits = list(repo.iter_commits('master', max_count=numChanges))
 
-    
+    commitsByYear = calculateCommitsByYear( prev_commits )
 
-    changes = """
-<link rel="stylesheet" href="/memex/stylesheets/timeline.css">
-<section id="cd-timeline" class="cd-container">
+    changes = ""
+
+    current_year = None
+    current_month = None
+
+    for year in sorted(commitsByYear.keys(), reverse=True):
+        numCommits = sum(len(month) for month in commitsByYear[year].values())
+        changes += f"### {year} - ({numCommits} changes)\n\n"
+
+        for month in [ 'December', 'November', 'October', 'September', 'August', 'July', 'June', 'May', 'April', 'March', 'February', 'January' ]:
+            if month in commitsByYear[year]:
+                numCommits = len(commitsByYear[year][month])
+                changes += f"#### {month}, {year} - ({numCommits} changes)\n\n"
+
+                changes += "<div class=\"grid cards\" markdown>\n\n"
+
+                for commit in commitsByYear[year][month]:
+                    datetime_object = datetime.datetime.strptime(str(commit.committed_datetime), '%Y-%m-%d %H:%M:%S%z')
+                    dateStr = datetime_object.strftime('%a %-d %b, %Y %-I:%M%p')
+
+                    #-- replace all \n in commit.message with <br>
+                    commit.message = commit.message.replace("\n", "<br>" )
+
+                    changes += f"""
+-   📅 {dateStr}
+
+    ---
+
+    {commit.message}
 
 """
 
-    for commit in prev_commits:
-        datetime_object = datetime.datetime.strptime(str(commit.committed_datetime), '%Y-%m-%d %H:%M:%S%z')
-        dateStr = datetime_object.strftime('%a %-d %b, %Y %-I:%M%p')
-
-        #-- replace all \n in commit.message with <br>
-        commit.message = commit.message.replace("\n", "<br>" )
-
-        changes += TIMELINE_BLOCK.format(
-            MESSAGE=commit.message, DATE=dateStr, AUTHOR=commit.author)
-
-    changes += "</section>"
-
+                changes += "</div>\n\n"
+                    
     return changes
 
 def getRecentChanges( numChanges : int ):
@@ -99,7 +150,7 @@ def define_env(env):
         Generate a timeline of the last numChanges changes to the current git repo.
         By default, will show all changes.
         """
-        return getRecentChangesTimeline( numChanges )
+        return getRecentChangesTimeline( -1 )
 
     @env.macro
     def formatStringDate( strDate : str ):
