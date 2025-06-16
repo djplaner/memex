@@ -150,7 +150,7 @@ def define_env(env):
         Generate a timeline of the last numChanges changes to the current git repo.
         By default, will show all changes.
         """
-        return getRecentChangesTimeline( -1 )
+        return getRecentChangesTimeline( numChanges )
 
     @env.macro
     def formatStringDate( strDate : str ):

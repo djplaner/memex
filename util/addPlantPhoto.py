@@ -2,16 +2,31 @@
 Add a photo for an individual plant or plant species from the Photos library into Memex, including:
 
 1. Add metadata information into the YAML frontmatter of the individual plant's page
-2. Add the photo to the relevant images directory
+2. Add the photo to the relevant images directory (within the separate assets folder)
 
 addPlantPhoto.py --photo <photoName> | --uuid <uuid> --plant <plantName> --species
 
-use one of 
+use one of the following to identify the photo in the Photos app:
 --photo: Name of the photo in the Photos app
 --uuid: Name of the file in the Photos app
+
 to identify the photo to be added. And following to nominate plant in Memex
---plant: Name of the plant (matching the markdown filename)
---species: Boolean flag to indicate if the photo is for a species or not
+--plant: Name of the plant (matching the markdown filename - minus the .md)
+--species: Boolean flag to indicate if the photo is for a species, without it assume
+       an individual plant photo
+
+YAML frontmatter fields for photos to be added to the individual plant's page take the form of an array of dictionaries
+
+photos:
+    1:
+        date: <timedate photo taken>
+        description: <description from photo metadata>
+        latitude: <latitude from photo metadata>
+        longitude: <longitude from photo metadata>
+        title: <title from photo metadata>
+        memexFilename: <originally page within memex, now full URL>
+    2:
+        ...
 """
 
 import argparse
@@ -27,9 +42,15 @@ from PIL import Image, ImageOps
 
 from pprint import pprint
 
-SINGLE_PLANT_DIR="../docs/sense/landscape-garden/individual-plants/"
-PLANTS_DIR="../docs/sense/landscape-garden/plants/"
-PLANT_IMAGES_PATH="images/"
+SINGLE_PLANT_DIR="/Users/davidjones/memex/docs/sense/landscape-garden/individual-plants/"
+PLANTS_DIR="/Users/davidjones/memex/docs/sense/landscape-garden/plants/"
+SINGLE_PLANT_IMAGES_DIR="/Users/davidjones/assets/memex/sense/landscape-garden/individual-plants/"
+SINGLE_PLANT_IMAGES_URL="https://djon.es/assets/memex/docs/sense/landscape-garden/individual-plants/images/"
+PLANTS_IMAGES_DIR="/Users/davidjones/assets/memex/sense/landscape-garden/plants/"
+PLANTS_IMAGES_URL="https://djon.es/assets/memex/sense/landscape-garden/plants/images/"
+#PLANT_IMAGES_PATH="images/"
+PLANT_IMAGES_PATH="https://djon.es/assets/memex/docs/sense/landscape-garden/plants/images/"
+SINGLE_PLANT_IMAGES_PATH="https://djon.es/assetsimages/"
 TMP_DIR="/Users/davidjones/downloads/"
 TMP_FILENAME="testing-small"
 IMAGE_SCALE=0.3333
@@ -85,7 +106,7 @@ def exportPhoto(photo: osxphotos.PhotoInfo, plant: str, photoNum : int, species 
     - reduce the size by 1/3
     - save to the relevant folder
 
-    {SINGLE_PLANT_DIR}/images/{plant}/{photoNum}.jpeg
+    {SINGLE_PLANT_IMAGES_DIR}/images/{plant}/{photoNum}.jpeg
 
     Parameters:
     - photo (osxphotos.PhotoInfo): PhotoInfo object for the photo
@@ -99,9 +120,9 @@ def exportPhoto(photo: osxphotos.PhotoInfo, plant: str, photoNum : int, species 
 
     #-- create the path for the photo both as a string and as a directory
     if species:
-        photoPath = f"{PLANTS_DIR}images/{plant}/"
+        photoPath = f"{PLANTS_IMAGES_DIR}images/{plant}/"
     else:
-        photoPath = f"{SINGLE_PLANT_DIR}images/{plant}/"
+        photoPath = f"{SINGLE_PLANT_IMAGES_DIR}images/{plant}/"
     if not os.path.exists(photoPath):
         os.makedirs(photoPath)
 
@@ -260,6 +281,11 @@ def createYamlString( plantName: str, yamlStruct: dict,
 
     yaml = ""
 
+    if species:
+        url = PLANTS_IMAGES_URL
+    else:
+        url = SINGLE_PLANT_IMAGES_URL
+
     #-- add all the non photos information
     for key in yamlStruct.keys():
         if key=="photos":
@@ -287,7 +313,7 @@ def createYamlString( plantName: str, yamlStruct: dict,
                 updatePhoto = True
                 #-- export the photo to the relevant directory to overwrite
                 if exportPhoto(photoInfo, plantName,  photoNum, species ):
-                    yamlStruct["photos"][photoNum]["memexFilename"] = f"{PLANT_IMAGES_PATH}{plantName}/{photoNum}.jpeg"
+                    yamlStruct["photos"][photoNum]["memexFilename"] = f"{url}{plantName}/{photoNum}.jpeg"
                 else:
                     raise ValueError(f"Failed to export photo to {SINGLE_PLANT_DIR}{plantName}/{photoNum}.jpeg")
 
@@ -304,7 +330,7 @@ def createYamlString( plantName: str, yamlStruct: dict,
                 yamlStruct["photos"][lastPhoto][key] = pDict[key].strftime("%Y-%m-%d %H:%M:%S")
         #-- export the photo to the relevant directory to add it
         if exportPhoto(photoInfo, plantName,  lastPhoto, species):
-            yamlStruct["photos"][lastPhoto]["memexFilename"] = f"{PLANT_IMAGES_PATH}{plantName}/{lastPhoto}.jpeg"
+            yamlStruct["photos"][lastPhoto]["memexFilename"] = f"{url}{plantName}/{lastPhoto}.jpeg"
         else:
             raise ValueError(f"Failed to export photo to {SINGLE_PLANT_DIR}{plantName}/{lastPhoto}.jpeg")
 
@@ -341,6 +367,11 @@ def updateMemex( plantName: str, plantMemex: dict,
     #-- convert plantMemex[yaml] dict to a yaml string
     yaml = createYamlString(plantName, plantMemex["yaml"], photoInfo, species)
 
+    #print(f"Writing YAML for {plantName} with species={species}:\n{yaml}")
+    #print('----- markdown')
+    #print(markdown)
+    #quit()
+
     writePlantFile( plantName, yaml, markdown, species ) 
 
 if __name__ == "__main__":
@@ -354,6 +385,9 @@ if __name__ == "__main__":
     #-- get the content of the markdown file, including YAML
     # - { markdown: full content, yaml: YAML front matter }
     plantMemex = retrievePlantFile(args.plant, args.species)
+
+    pprint(plantMemex)
+#    quit()
 
     #-- update the YAML front matter and export the image
     updateMemex(args.plant, plantMemex, photo, args.species)

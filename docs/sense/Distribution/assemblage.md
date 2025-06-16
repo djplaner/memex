@@ -7,8 +7,6 @@ tags:
 ---
 
 
-
-
 > The word in English fails to capture the meaning of the original agencement, a term that refers to the action of matching or fitting together a set of components (agencer), as well as to the result of such an action: an ensemble of parts that mesh together well. (DeLanda, 2015, p. 1)
 
 ## Most recent explorations
@@ -49,6 +47,30 @@ Muller (2015) starts with a definition from Deluze
 And then offers this summary 
 
 > In other words, assemblage is a mode of ordering heterogeneous entities so that they work together for a certain time. (p. 28)
+
+Muller (2015) positions DeLanda's work as an attempt to construct an assemblage _theory_. Compared to Deleuze and Guattari see the assemblage concept as "a provisional analytical toolrather than a system of ideas geared towards and explanation that would make it a theory" (Muller, 2015, p. 28)
+
+Five constituent features of assemblages (Muller, 2015, p. 29)
+
+1. Assemblages are _relational_
+
+    Arrangements of different entities linked together for forma a new whole.
+
+2. Assemblages are _productive_
+
+    They produce new "territorial organisations, new behaviours, new, expressions, new actors and new realities".  They don't mimic or represent other realities.
+
+3. Assemblages are _heterogeneous_
+
+    They are socio-material. Made up of human/non-human, nature/culture actors. No assumption of what can be related.
+
+4. Assemblages are caught up in a dynamic of _deterritorialisation_ (split/carry it away) and _reterritorialisation_ (stablisation)
+
+    As they emerge assemblages establish territories, hold together, but subsequently mutate, modify, and break apart.
+
+5. Assemblages are _desired_
+
+    It's the desire (the purpose?) that holds the disparate components together. Components that otherwise are "fragmentary and fragmented".
 
 ## Critical elements
 

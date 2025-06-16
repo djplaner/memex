@@ -19,6 +19,8 @@ The [[colophon]] for this site identifies the technologies that are orchestrated
 
 Bush (1945) does recognise that the technologies (like Memex) rely on the availability of other assemblages of technologies that enable their effective creation and management. e.g. the example of how ancient Egypt would struggle to build a car. Echoing [[drons-technology|Dron's point about technology]] because created by orchestrations of other technologies.
 
+At one level, Bush's (1945) article gives a detailed description of how technologies of his time (perhaps with some extrapolation) could be orchestrated to provide a much better way of managing knowledge. This orchestration then enables a more effective - even transformative - way of knowledge workers (i.e. any with an interest) orchestrating their engagement with knowledge.
+
 ## Notes and annotations[^notes]
 
 Annotations - 📅  14/06/2025, 2:27:21 pm

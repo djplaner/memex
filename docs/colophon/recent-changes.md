@@ -9,8 +9,8 @@ tags:
 Implements methods to visualise the most recent changes made to the site (via its git repository) using differing methods, including:
 
 1. [x] [Table of _x_ most recent changes](#table-of-recent-changes)
-2. [ ] [A timeline of changes](#timeline-of-changes)
-3. [ ] Other representations
+2. [x] [A timeline of changes](#timeline-of-changes)
+3. [ ] Other representations - _not started yet_
 
 ## Table of recent changes
 
@@ -48,7 +48,17 @@ See [[timeline-of-changes]] for a working version.
 
 ### Markdown timeline
 
-Use Markdown headings to show years (h2) and months (h3) with the appropriate changes listed for each month. Include # of commits per month and year in the headings.
+Use Markdown headings to show years (h2) and months (h3) with the appropriate changes listed for each month. Include # of commits per month and year in the headings. Ended up also using Material for MkDocs's grids facility.
+
+Used in [[timeline-of-changes]] to show all changes, but the macro can be used anywhere and will accept the number of changes to show as a parameter. e.g. the following Markdown
+
+```markdown
+{{ '{{ recentChangesTimeline(20) }}' }}
+```
+
+generates the following
+
+{{ recentChangesTimeline(20)}}
 
 ### Possible timeline tools
 
