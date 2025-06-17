@@ -38,7 +38,7 @@ Hugh and Kay donated a Tulipwood sapling in April, 2025. Remains some uncertaint
 ### June 2025
 
 <figure markdown>
-![](https://djon.es/assets/memex/sense/landscape-garden/plants/images/harpullia-pendula/2.jpeg)
+![Sandy's tulipwood not long after planting in June 2025 on the dam bank. The dam and the island are visible in the background.](https://djon.es/assets/memex/sense/landscape-garden/plants/images/harpullia-pendula/2.jpeg)
 <caption>Sandy's Tulipwood not long after planting out in June 2025</caption>
 </figure>
 
