@@ -39,4 +39,17 @@ Vega-Altair can export to JSON which can be displayed by [vega-embed](https://gi
 Early experiments starting with the [getting started guide](https://altair-viz.github.io/getting_started/overview.html)
 
 - Altair data comes in ["tidy" dataframes](https://altair-viz.github.io/getting_started/starting.html#the-data)
+- [Publishing your visualisation](https://altair-viz.github.io/getting_started/starting.html#publishing-your-visualization)
+
+Saving generates HTML file with
+
+- CSS defines
+- script includes via a cdn
+- inline Javascript
+- a div into which the chart is rendered
+
+## [SVG.Charts](https://svgcharts.readthedocs.io/en/latest/svg.charts.html)
+
+Python module for generating SVG charts. Tested and mkdocs will display inline SVG images. However, the extra styling introduced by svg.charts doesn't work real well.
+
 

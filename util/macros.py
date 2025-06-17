@@ -6,6 +6,8 @@ PURPOSE: Define macros using mkdocs-macros-plugin
 import datetime
 from git import Repo
 
+from pprint import pprint
+
 def calculateCommitsByYear( commits ):
     """
     Generate a dict of dicts showing the commits by year and month.
@@ -17,7 +19,7 @@ def calculateCommitsByYear( commits ):
             ...
         },
         2024: {
-            'December': [ <array of commits> ],
+            'December': [ <array of images commits> ],
             ...
         }
     }
@@ -38,7 +40,74 @@ def calculateCommitsByYear( commits ):
 
         commitsByYear[year][month].append(commit)
 
+    """fields = 'Jan Feb Mar'.split()
+    data_sales_02 = [12, 45, 21]
+
+    fields = 'Jan Feb Mar'.split()
+    bc = bar.VerticalBar(fields, {'width': 300, 'height': 500})
+
+    bc.add_data({'data': data_sales_02, 'title': 'Sales 2002'})
+
+    print("Content-type: image/svg+xml\r\n\r\n")
+    print(bc.burn())"""
+
+
+
     return commitsByYear
+
+def generateMonthByYearStats( year, commitsByYear, numCommits ):
+    """
+    return a string with stats for commits by month for the given year.
+
+    params:
+        year: int - the year to generate stats for
+        commitsByYear: dict - the dict of commits by year and month
+        numCommits: int - the number of commits in the year
+    """
+
+    stats = f"""
+??? info "Monthly change stats for {year}"
+
+"""
+
+    stats += """  
+    | Month | Changes |
+    | --- | --- |
+"""
+
+    for month in [ 'December', 'November', 'October', 'September', 'August', 'July', 'June', 'May', 'April', 'March', 'February', 'January' ]:
+        numCommits = len(commitsByYear[year][month]) if month in commitsByYear[year] else 0
+        stats += f"     | {month} | {numCommits} |\n"
+
+    stats += "\n\n"
+
+    return stats
+
+def generateByYearStats( commitsByYear ):
+    """
+    Generate a string with stats for commits by year.
+
+    params:
+        commitsByYear: dict - the dict of commits by year and month
+    """
+
+    stats = """??? info "Yearly change stats"
+
+"""
+
+    stats += """
+    | Year | Changes |
+    | --- | --- |    
+"""
+
+    for year in sorted(commitsByYear.keys(), reverse=True):
+        numCommits = sum(len(month) for month in commitsByYear[year].values())
+
+        stats += f"     | {year} | {numCommits} |\n"
+
+    stats += "\n\n"
+
+    return stats
 
 def getRecentChangesTimeline( numChanges : int = -1 ):
     """
@@ -68,14 +137,12 @@ def getRecentChangesTimeline( numChanges : int = -1 ):
 
     commitsByYear = calculateCommitsByYear( prev_commits )
 
-    changes = ""
-
-    current_year = None
-    current_month = None
+    changes = generateByYearStats( commitsByYear )
 
     for year in sorted(commitsByYear.keys(), reverse=True):
         numCommits = sum(len(month) for month in commitsByYear[year].values())
         changes += f"### {year} - ({numCommits} changes)\n\n"
+        changes += generateMonthByYearStats(year, commitsByYear, numCommits)
 
         for month in [ 'December', 'November', 'October', 'September', 'August', 'July', 'June', 'May', 'April', 'March', 'February', 'January' ]:
             if month in commitsByYear[year]:
