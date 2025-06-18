@@ -12,9 +12,15 @@ tags:
 
 What are the possibilities and methods for plotting charts and generating images with Python that can subsequently be used in web pages (here on Memex and the blog)?
 
-!!! info "Latest exploration"
+!!! info "Completed - version 1.0"
 
-    Discovered the [MkDocs Plotl Plugin](https://haoda-li.github.io/mkdocs-plotly-plugin/)
+    Using PyGal to generate SVG charts for [[recent-changes]]
+
+
+
+??? info "Unexplored MkDocs Plotly Plugin"
+
+    Discovered the [MkDocs Plotly Plugin](https://haoda-li.github.io/mkdocs-plotly-plugin/)
 
 ## Possibilities
 
@@ -51,5 +57,11 @@ Saving generates HTML file with
 ## [SVG.Charts](https://svgcharts.readthedocs.io/en/latest/svg.charts.html)
 
 Python module for generating SVG charts. Tested and mkdocs will display inline SVG images. However, the extra styling introduced by svg.charts doesn't work real well.
+
+Not great documentation...made it difficult to figure out.
+
+## [PyGal](https://www.pygal.org)
+
+Similar to svg.charts. Better documentation. More obviously saves to SVG file. And works with macros and MkDocs.
 
 

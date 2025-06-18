@@ -18,9 +18,9 @@ On-going
 - Refine/merge/handle [[random-notes]] and [[loose]] notes
 - Update the "Made with Material for Mkdocs" to be more assemblage oriented
 - work on [[assemblage]]
-- Add visual progress representations to [[computational-components]] used during mkdocs build
-- implement statistics for Memex
-  - add some simple stats for changes on [[timeline-of-changes]]
+- implement statistics
+  - Blog - visual stats/ bar graphs
+  - Memex - RSS recent changes
 
 - Explore if/how to move images (blog and memex) out of git repo, into shared assets folder
 
@@ -91,8 +91,6 @@ Questions
 [random-notes]: random-notes "Random Notes"
 [loose]: ../../sense/loose/loose "Loose notes"
 [assemblage]: ../../sense/Distribution/assemblage "Assemblage"
-[computational-components]: ../../colophon/computational-components "Computational components"
-[timeline-of-changes]: ../../timeline-of-changes "Timeline of changes"
 [creative-coding-with-python]: ../../sense/Python/creative-coding-with-python "Creative coding experiments"
 [ed-tech-some-missing-flavours]: ../../share/blog/2023/ed-tech-some-missing-flavours "Ed tech - some missing flavours"
 [hax-as-casa]: ../../sense/CASA/CASA/hax-as-casa "H-A-X as CASA?"

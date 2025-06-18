@@ -6,6 +6,9 @@ PURPOSE: Define macros using mkdocs-macros-plugin
 import datetime
 from git import Repo
 
+import pygal
+from pygal.style import DarkStyle
+
 from pprint import pprint
 
 def calculateCommitsByYear( commits ):
@@ -40,22 +43,10 @@ def calculateCommitsByYear( commits ):
 
         commitsByYear[year][month].append(commit)
 
-    """fields = 'Jan Feb Mar'.split()
-    data_sales_02 = [12, 45, 21]
-
-    fields = 'Jan Feb Mar'.split()
-    bc = bar.VerticalBar(fields, {'width': 300, 'height': 500})
-
-    bc.add_data({'data': data_sales_02, 'title': 'Sales 2002'})
-
-    print("Content-type: image/svg+xml\r\n\r\n")
-    print(bc.burn())"""
-
-
 
     return commitsByYear
 
-def generateMonthByYearStats( year, commitsByYear, numCommits ):
+def generateMonthByYearStats( year, commitsByYear, numCommits, numChanges ):
     """
     return a string with stats for commits by month for the given year.
 
@@ -65,25 +56,33 @@ def generateMonthByYearStats( year, commitsByYear, numCommits ):
         numCommits: int - the number of commits in the year
     """
 
+    #-- if number of months with commits <= 1 return ""
+    if len(commitsByYear[year]) <= 1: 
+        return ""
+
     stats = f"""
 ??? info "Monthly change stats for {year}"
 
 """
 
-    stats += """  
-    | Month | Changes |
-    | --- | --- |
+    stats += f"""  
+    ![](/memex/colophon/commitsByMonth_chart_{year}_{numChanges}.svg)
+
 """
+
+    bar_chart = pygal.HorizontalBar(human_readable=True, style=DarkStyle)
+    bar_chart.title = f"# of commits by month for {year}"
 
     for month in [ 'December', 'November', 'October', 'September', 'August', 'July', 'June', 'May', 'April', 'March', 'February', 'January' ]:
         numCommits = len(commitsByYear[year][month]) if month in commitsByYear[year] else 0
-        stats += f"     | {month} | {numCommits} |\n"
+        bar_chart.add(month, numCommits)
 
-    stats += "\n\n"
+    bar_chart.render_to_file(f'docs/colophon/commitsByMonth_chart_{year}_{numChanges}.svg')    
+
 
     return stats
 
-def generateByYearStats( commitsByYear ):
+def generateByYearStats( commitsByYear, numChanges ):
     """
     Generate a string with stats for commits by year.
 
@@ -95,21 +94,33 @@ def generateByYearStats( commitsByYear ):
 
 """
 
-    stats += """
-    | Year | Changes |
-    | --- | --- |    
+    #-- if number of years == 1 show nothing
+    if len(commitsByYear) == 1:
+        return ""
+
+    stats += f"""
+    ![](/memex/colophon/commitsByYear_chart_{numChanges}.svg)
+
 """
 
+#    for year in sorted(commitsByYear.keys(), reverse=True):
+#        numCommits = sum(len(month) for month in commitsByYear[year].values())
+#
+#        stats += f"     | {year} | {numCommits} |\n"
+
+#    stats += "\n\n"
+
+    bar_chart = pygal.HorizontalBar( human_readable=True, style=DarkStyle)
+    bar_chart.title = "# of commits by year"
     for year in sorted(commitsByYear.keys(), reverse=True):
         numCommits = sum(len(month) for month in commitsByYear[year].values())
+        bar_chart.add(str(year), numCommits)
 
-        stats += f"     | {year} | {numCommits} |\n"
-
-    stats += "\n\n"
+    bar_chart.render_to_file(f'docs/colophon/commitsByYear_chart_{numChanges}.svg')    
 
     return stats
 
-def getRecentChangesTimeline( numChanges : int = -1 ):
+def getRecentChangesTimeline( numChanges : int = -1) :
     """
     Get the last X changes to the current git repo, convert them into a timeline and return.
     If numChanges is -1, return all changes.
@@ -137,12 +148,12 @@ def getRecentChangesTimeline( numChanges : int = -1 ):
 
     commitsByYear = calculateCommitsByYear( prev_commits )
 
-    changes = generateByYearStats( commitsByYear )
+    changes = generateByYearStats( commitsByYear, numChanges )
 
     for year in sorted(commitsByYear.keys(), reverse=True):
         numCommits = sum(len(month) for month in commitsByYear[year].values())
         changes += f"### {year} - ({numCommits} changes)\n\n"
-        changes += generateMonthByYearStats(year, commitsByYear, numCommits)
+        changes += generateMonthByYearStats(year, commitsByYear, numCommits, numChanges)
 
         for month in [ 'December', 'November', 'October', 'September', 'August', 'July', 'June', 'May', 'April', 'March', 'February', 'January' ]:
             if month in commitsByYear[year]:
