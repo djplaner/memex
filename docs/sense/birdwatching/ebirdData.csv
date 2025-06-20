@@ -1,8 +1,10 @@
 Submission ID,Common Name,Scientific Name,Taxonomic Order,Count,State/Province,County,Location ID,Location,Latitude,Longitude,Date,Time,Protocol,Duration (Min),All Obs Reported,Distance Traveled (km),Area Covered (ha),Number of Observers,Breeding Code,Observation Details,Checklist Comments,ML Catalog Numbers
 S191595729,Plumed Whistling-Duck,Dendrocygna eytoni,230,X,AU-QLD,Lockyer Valley,L35778464,Postman’s Ridge,-27.538546,152.055977,2024-08-16,10:55 AM,eBird - Casual Observation,,0,,,1
 S208677024,Plumed Whistling-Duck,Dendrocygna eytoni,230,X,AU-QLD,Lockyer Valley,L35778464,Postman’s Ridge,-27.538546,152.055977,2025-01-10,03:56 PM,eBird - Casual Observation,,0,,,1
+S227750793,Plumed Whistling-Duck,Dendrocygna eytoni,230,X,AU-QLD,Lockyer Valley,L35778464,Postman’s Ridge,-27.538546,152.055977,2025-04-21,08:42 PM,eBird - Casual Observation,,0,,,1
 S191595640,Maned Duck,Chenonetta jubata,445,X,AU-QLD,Lockyer Valley,L35778464,Postman’s Ridge,-27.538546,152.055977,2024-03-16,,eBird - Casual Observation,,0,,,1
 S191595784,Pacific Black Duck,Anas superciliosa,514,X,AU-QLD,Lockyer Valley,L35778464,Postman’s Ridge,-27.538546,152.055977,2024-08-16,10:55 AM,eBird - Casual Observation,,0,,,1
+S227750577,Pacific Black Duck,Anas superciliosa,514,X,AU-QLD,Lockyer Valley,L35778464,Postman’s Ridge,-27.538546,152.055977,2025-04-21,08:41 PM,eBird - Casual Observation,,0,,,1
 S191596000,Spotted Dove,Spilopelia chinensis,2027,X,AU-QLD,Lockyer Valley,L35778464,Postman’s Ridge,-27.538546,152.055977,2024-08-16,10:59 AM,eBird - Casual Observation,,0,,,1
 S191723939,Crested Pigeon,Ocyphaps lophotes,2175,X,AU-QLD,Lockyer Valley,L35778464,Postman’s Ridge,-27.538546,152.055977,2024-08-17,03:38 PM,eBird - Casual Observation,,0,,,1
 S212717017,Pheasant Coucal,Centropus phasianinus,3105,X,AU-QLD,Lockyer Valley,L35778464,Postman’s Ridge,-27.538546,152.055977,2025-02-10,04:08 PM,eBird - Casual Observation,,0,,,1
@@ -25,9 +27,11 @@ S193316800,Little Corella,Cacatua sanguinea,12072,X,AU-QLD,Lockyer Valley,L35778
 S192222567,Sulphur-crested Cockatoo,Cacatua galerita,12095,X,AU-QLD,Lockyer Valley,L35778464,Postman’s Ridge,-27.538546,152.055977,2024-08-21,04:58 PM,eBird - Casual Observation,,0,,,1
 S191596432,Superb Fairywren,Malurus cyaneus,17490,X,AU-QLD,Lockyer Valley,L35778464,Postman’s Ridge,-27.538546,152.055977,2024-08-16,,eBird - Casual Observation,,0,,,1
 S207604785,Red-backed Fairywren,Malurus melanocephalus,17503,X,AU-QLD,Lockyer Valley,L35778464,Postman’s Ridge,-27.538546,152.055977,2025-01-02,,eBird - Casual Observation,,0,,,1
+S252217200,Red-backed Fairywren,Malurus melanocephalus,17503,X,AU-QLD,Lockyer Valley,L35778464,Postman’s Ridge,-27.538546,152.055977,2025-06-20,02:18 PM,eBird - Casual Observation,,0,,,1
 S191493843,Yellow-faced Honeyeater,Caligavis chrysops,17607,X,AU-QLD,Lockyer Valley,L35778464,Postman’s Ridge,-27.538546,152.055977,2024-08-15,02:41 PM,eBird - Casual Observation,,0,,,1
 S192665973,Yellow-faced Honeyeater,Caligavis chrysops,17607,X,AU-QLD,Lockyer Valley,L35778464,Postman’s Ridge,-27.538546,152.055977,2024-08-25,04:14 PM,eBird - Casual Observation,,0,,,1
 S191596292,Blue-faced Honeyeater,Entomyzon cyanotis,17933,X,AU-QLD,Lockyer Valley,L35778464,Postman’s Ridge,-27.538546,152.055977,2024-08-16,,eBird - Casual Observation,,0,,,1
+S238448118,Striated Pardalote,Pardalotus striatus,18045,X,AU-QLD,Lockyer Valley,L35778464,Postman’s Ridge,-27.538546,152.055977,2025-05-16,11:42 AM,eBird - Casual Observation,,0,,,1
 S191493969,White-browed Scrubwren,Sericornis frontalis,18118,X,AU-QLD,Lockyer Valley,L35778464,Postman’s Ridge,-27.538546,152.055977,2024-08-15,02:45 PM,eBird - Casual Observation,,0,,,1
 S192292972,Black-faced Cuckooshrike,Coracina novaehollandiae,18488,X,AU-QLD,Lockyer Valley,L35778464,Postman’s Ridge,-27.538546,152.055977,2024-08-22,07:37 AM,eBird - Casual Observation,,0,,,1
 S191724022,Australasian Figbird,Sphecotheres vieilloti,19489,X,AU-QLD,Lockyer Valley,L35778464,Postman’s Ridge,-27.538546,152.055977,2024-08-17,03:40 PM,eBird - Casual Observation,,0,,,1
@@ -40,3 +44,5 @@ S191493648,Magpie-lark,Grallina cyanoleuca,20716,X,AU-QLD,Lockyer Valley,L357784
 S193896882,Torresian Crow,Corvus orru,21378,X,AU-QLD,Lockyer Valley,L35778464,Postman’s Ridge,-27.538546,152.055977,2024-09-02,,eBird - Casual Observation,,0,,,1
 S193656488,Torresian Crow,Corvus orru,21378,X,AU-QLD,Lockyer Valley,L35778464,Postman’s Ridge,-27.538546,152.055977,2024-09-02,04:32 PM,eBird - Casual Observation,,0,,,1
 S194005655,Eastern Yellow Robin,Eopsaltria australis,21637,X,AU-QLD,Lockyer Valley,L35778464,Postman’s Ridge,-27.538546,152.055977,2024-09-05,12:00 PM,eBird - Casual Observation,,0,,,1
+S241378166,Eastern Yellow Robin,Eopsaltria australis,21637,X,AU-QLD,Toowoomba,L45693844,Redwood Park,-27.564428,151.99738,2025-05-23,,eBird - Casual Observation,,0,,,1
+S221721360,Double-barred Finch,Stizoptera bichenovii,30757,X,AU-QLD,Lockyer Valley,L35778464,Postman’s Ridge,-27.538546,152.055977,2025-03-30,,eBird - Casual Observation,,0,,,1

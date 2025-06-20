@@ -57,7 +57,6 @@ Beyond the technology are the [[note-taking-strategies]] and [[digital-garden]] 
 
 Improvements being worked on or thought about, include:
 
-- [[move-images-out-of-git]] - move images out of the git repo and into a shared assets folder.
 - [[publishing-graph-interface]] - adding an interface option to navigate the inter-connected bubbles of the site using a network graph.
 - [[statistics-and-analytics]] - exploring how to improve statistics and analytics for the site and the blog.
 - [[comments-webmentions]] and/or [[add-activity-pub]] - have the blog post/retrieve comments via ActivityPub.
@@ -69,6 +68,7 @@ Completed
 
 - [[improve-static-search]] - replace the default MkDocs search with a lighter-weight search engine.
 - [[add-a-mathematics-template]] to include MathJax when required.
+- [[move-images-out-of-git]] - move images out of the git repo and into a shared assets folder.
 
 
 
@@ -123,15 +123,16 @@ Timed with an increased focus on leveraging this site for my [personal learning 
 [note-taking-strategies]: note-taking-strategies "Note taking strategies"
 [as-we-may-think|Bush's writing]: ../sense/computing/as-we-may-think "As We May Think"
 [drons-technology|other conceptualisations of technology]: ../sense/nodt/drons-technology "Dron's take on technology"
+[some-assemblage-required]: some-assemblage-required "Some Assemblage Required"
 [computational-components]: computational-components "Computational components"
 [recent-changes]: recent-changes "Recent changes"
-[move-images-out-of-git]: move-images-out-of-git "Move images out of git"
 [publishing-graph-interface]: publishing-graph-interface "Publishing graph interface"
 [statistics-and-analytics]: statistics-and-analytics "Statistics and Analytics"
 [comments-webmentions]: comments-webmentions "Comments, webmentions, pingbacks etc"
 [add-activity-pub]: add-activity-pub "Adding ActivityPub to the blog"
 [improve-static-search]: improve-static-search "Improve static search"
 [add-a-mathematics-template]: add-a-mathematics-template "Add a mathematics template"
+[move-images-out-of-git]: move-images-out-of-git "Move images out of git"
 [version-3-memex-design]: version-3-memex-design "Memex - Version 3"
 [integrate-backlinks-automatically-onto-pages]: integrate-backlinks-automatically-onto-pages "Integrate backlinks automatically onto pages"
 [why-mkdocs-foam]: why-mkdocs-foam "Why combine mkdocs with Foam"

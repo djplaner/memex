@@ -12,6 +12,10 @@ tags:
 
 Originally implemented as a stand alone Python script to be run manually. Now updated to be integrated into the `mkdocs` process through the use of `mkdocs-gen-files` moving to a _[[computational-components]]_ approach.
 
+- 📅 20 June 2025 - Photos to assets folder utility
+
+    Added script to export chosen photos from Photos library to an appropriate folder in the assets folder.
+
 ## Purpose
 
 Take two inputs placed within a specific folder within memex
