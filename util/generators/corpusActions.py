@@ -32,6 +32,7 @@ Problems
 
 """
 
+import json
 import pathlib
 import glob
 import re
@@ -263,7 +264,8 @@ def generateBackLinks(bubbles: dict):
 
         # for each bubbleLink, add it to the backLinks dict
         for destinationPath in bubble['linkDefs']:
-            sourcePath = f'{PREFIX}{bubble["filePath"].replace(DOCS_FOLDER, "")}'
+            sourcePath = f'{bubble["filePath"].replace(DOCS_FOLDER, "")}'
+            #sourcePath = f'{PREFIX}{bubble["filePath"].replace(DOCS_FOLDER, "")}'
             #-- 
             if destinationPath not in backLinks:
                 backLinks[destinationPath] = {}
@@ -446,6 +448,71 @@ def moveImages(bubbles):
         #-- save the modified bubble
         saveBubble(bubbles[filePath])
 
+def generateGraphJson(backLinks, bubbles):
+    """
+    Generate a JSON file that contains the backlinks in a format that can be used by a graph visualization library
+
+    Parameters
+    backLinks: dict of dicts - backlinks to each bubble
+        keyed on the file path fo the source bubble
+    bubbles: dict of dicts - all of the bubble content
+    """
+
+    graphData = {
+        "nodes": [],
+        "edges": []
+    }
+
+    #-- add the nodes for the bubbles
+    x = 1
+    y = 1
+    for filePath in bubbles.keys():
+#        print(f"Processing {filePath}")
+#        pprint(bubbles[filePath])
+#        input("Press Enter to continue...")
+        #-- add the node for the destination bubble
+        # 'id':
+        # 'name': <name of the bubble>
+        # 'value': <path>
+        graphData['nodes'].append({
+            'id': filePath,
+            'x': x, 'y': y,
+#            'value': filePath,
+            'label': bubbles[filePath]['yaml'].get('title', 'No title found')
+        })
+        x+=1
+        y+=1
+
+    #-- add the nodes for the backlinks
+    # {
+    #     destinationFilePath: {
+    #         linkDefs:{
+    #             sourceLink: { 'description', 'text' }
+    #        }
+    #    }   
+    # }
+    edgeId = 1
+    for destinationFilePath in backLinks.keys():
+#        print("-------------------------")
+#        pprint(f"Processing backlinks for {destinationFilePath}")
+#        pprint(backLinks[destinationFilePath].keys())
+#        input("1) Press Enter to continue...")
+        # continue if there are no linkDefs for this destination
+        for sourceLink in backLinks[destinationFilePath].keys():
+#            print(f"    - {sourceLink} -> {destinationFilePath}" )
+            graphData['edges'].append({
+                'id': f"{edgeId}",
+                'source': sourceLink,
+                'target': destinationFilePath
+            })
+            edgeId += 1
+#        input("Press Enter to continue...")
+
+    #-- save the graph data to a JSON file
+    with open(f"{DOCS_FOLDER}/colophon/graph.json", 'w', encoding="utf-8-sig") as f:
+        json.dump(graphData, f, indent=4, ensure_ascii=False)
+        #yaml.dump(graphData, f, allow_unicode=True)
+
 """
 Main entry point for the generator
 """
@@ -453,8 +520,13 @@ Main entry point for the generator
 config = configure()
 
 bubbles = retrieveMemexBubbles()
+#pprint(bubbles)
+#input("Press Enter to update front matter...")
 #addYamlFrontMatter(bubbles)
 backLinks = generateBackLinks(bubbles)
-updateFrontMatterBackLinks(bubbles, backLinks)
+#pprint(backLinks)
+#input("Press Enter to update front matter backlinks...")
 
+#updateFrontMatterBackLinks(bubbles, backLinks)
 #moveImages(bubbles)
+generateGraphJson(backLinks, bubbles)

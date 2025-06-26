@@ -2,6 +2,12 @@
   font-size: calc(125% * 1.1); /* <- 1.1 equals + 10% – adjust to taste */
 }
 
+#graph-container {
+  width: 800px; 
+  height: 600px; 
+  background: white;
+}
+
 .nav-label {
   display: block;
 }

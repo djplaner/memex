@@ -5,6 +5,12 @@ tags:
 title: Publishing graph interface
 type: note
 ---
+
+!!! note ":construction: Work in progress"
+
+    Work has commenced, see [[graph]] for an initial stand alone implementation.
+
+
 Foam has a graph/map feature for notes from within VS-Code (see the figure below) but that doesn't help when publishing to the web. Following are my notes playing around with adding a graph interface to this site.
 
 <figure markdown>
@@ -12,19 +18,156 @@ Foam has a graph/map feature for notes from within VS-Code (see the figure below
 <figcaption>Sample graph/map of memex (within VSCode)</figcaption>
 </figure>
 
+Other live web-based examples include
+
+- [Foam template](https://foam-template-gatsby-kb-hikerpig.vercel.app) uses the Foam documentation as an example and adds a graph visualisation (via a modal). Has a reasonable visual design and enables navigation around the network.
+- [Paul's digital garden](https://garden.paulderaaij.nl/) provides a basic network visualisation (via a modal). Does not offer any navigation.
+- [Obsidian example](https://notes.nicolevanderhoeven.com/obsidian-playbook/Using+Obsidian/01+First+steps+with+Obsidian/Obsidian) - a small graph visualisation is visible on the page and reacts to navigation through the pages. Can be opened as a modal that can be used to navigate.
+- [Quartz](https://quartz.jzhao.xyz) - (typescript) SSG that includes a graph visualisation similar to some of the above. Used on the [graph site](https://graph.stereobooster.com).
+- [/home/huka](https://hukacode.github.io) - uses a larger full page graph that supports navigation.
+
 ## Planning
 
-Current possible plan is
+### Features
 
-- Use Python to extract data about the Foam graph
+Display 
 
-  The method used to add backlinks is a large step toward this, but doesn't do graph analysis. May also be better methods **TODO**
+- [ ] A navigable graph on a stand alone page
+- [ ] graph in a modal
+- [ ] graph as a macro in the page
 
-- Generate a JSON file with the graph data
+Features
 
-- Implement a front-end that uses that JSON file to generate the graph interface
+- [ ] Display a graph of all bubbles
+- [ ] Support navigation to individual bubbles
+- [ ] Change the graph layout depending on the current visible bubble
 
-  [force-graph](https://github.com/vasturiano/force-graph) seems a reasonable fit.
+
+
+### Implementation
+
+1. Using force-graph library
+
+  - Issues with configuring colours etc.
+  - Interface somewhat limited (no search etc.)
+
+Other options
+
+- [sigma.js](https://www.sigmajs.org) 
+
+  Using CDN 
+  ```javascript 
+  <script src="https://cdn.jsdelivr.net/npm/sigma@3.0.2/dist/sigma.min.js" integrity="sha256-vm95DanBhWdlscQw3jsarFBDMiM2GHDtswl6mGghiog=" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/graphology@0.26.0/dist/graphology.umd.min.js" integrity="sha256-3DN++iOQP2HgZMjn5/k6Qp5oVdzPwkWIArTtMMYhwIc=" crossorigin="anonymous"></script>
+  ```
+
+- [cytoscape](https://cytoscape.org)
+
+To do
+
+- Configuration
+
+  - How to get width of div/screen from Javascript?
+  - How to access CSS variables from Javascript?
+
+#### [x] Markdown file loading Javascript graph library and test data
+
+- [x] force-graph
+- [x] sigma.js
+- [x] cytoscape.js
+
+#### [x] Python generates data for graph library
+
+- [x] [Example JSON dataset](https://github.com/vasturiano/force-graph/blob/master/example/datasets/miserables.json) for force-graph 
+
+```json
+{
+    "nodes": [
+        {
+          "id": "id1",
+          "name": "name1",
+          "val": 1
+        },
+        {
+          "id": "id2",
+          "name": "name2",
+          "val": 10
+        },
+        ...
+    ],
+    "links": [
+        {
+            "source": "id1",
+            "target": "id2"
+        },
+        ...
+    ]
+}
+```
+
+sigma.js uses the following format  (see [graph data](https://www.sigmajs.org/docs/advanced/data))
+
+- [ ] rename links to edges
+- [ ] give edges id
+- [ ] give nodes a label, 
+- [ ] give nodes x, y 
+- [ ] give nodes size
+
+```json
+{
+"nodes": [
+    {
+        "id": "chr1",
+        "x": 0,
+        "y": 0,
+        "label": "Bob",
+        "size": 8.75
+    },
+    {
+        "id": "chr10",
+        "label": "Alice",
+        "x": 3,
+        "y": 1,
+        "size": 14.75
+    }
+],
+"edges": [{
+    "id": "1",
+    "source": "chr1",
+    "target": "chr10"
+}]
+}
+```
+
+#### Configure graph options
+
+
+- Configure size of graph canvas
+
+  Has setters, which could be used with the different sizes. Question is how to get size of the current window to influence the size of the graph
+
+   ```javascript
+   .width(<width).height(<height>)
+   ```
+- Configure the colour scheme to work with memex template
+
+  setter for `backgroundColor()`, `nodeColor()`, `linkColor()`
+
+```javascript
+
+.zoomToFit()
+
+```
+
+- `onNodeClick(fn)` - to navigate to the clicked bubble ?? how to specify the link ??
+- `centerAt( node.x, node.y, <num>)` - [example](https://github.com/vasturiano/force-graph/blob/master/example/click-to-focus/index.html) used in a call back. ?? can it be used as elsewhere - how to get access to the node ??
+
+#### Integrate graph update into build process
+
+#### Implement modal
+
+#### Implement macro
+
 
 ## Resources
 
@@ -103,3 +246,5 @@ A web application for analysing large data sets that also provides a [Javascript
 
     - This works and the file can be opened in Gephi. Need to choose some layouts to get reasonably visualisation.
     - Also doesn't read the front matter etc. Meaning less than stellar context. But workable.
+
+
