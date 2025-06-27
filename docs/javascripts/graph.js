@@ -1,10 +1,10 @@
 
 // Run createGraph when the document is ready
 document.addEventListener("DOMContentLoaded", function () {
-    createGraph();
+    getData();
 });
 
-function createGraph() {
+function getData() {
 
     // Sigma.js
     /*    const graph = new graphology.Graph();
@@ -18,51 +18,6 @@ function createGraph() {
         return;
     }
 
-    const cy = cytoscape({
-        container: graphElement, 
-        elements: [ // list of graph elements to start with
-            { // node a
-                data: { id: 'a' }
-            },
-            { // node b
-                data: { id: 'b' }
-            },
-            { // edge ab
-                data: { id: 'ab', source: 'a', target: 'b' }
-            }
-        ],
-
-        style: [ // the stylesheet for the graph
-            {
-                selector: 'node',
-                style: {
-                    'background-color': '#666',
-                    'label': 'data(id)'
-                }
-            },
-
-            {
-                selector: 'edge',
-                style: {
-                    'width': 3,
-                    'line-color': '#ccc',
-                    'target-arrow-color': '#ccc',
-                    'target-arrow-shape': 'triangle',
-                    'curve-style': 'bezier'
-                }
-            }
-        ],
-
-        layout: {
-            name: 'grid',
-            rows: 1
-        }
-
-    });
-
-
-
-
     // fetch the graph data from the JSON file
     fetch('/memex/colophon/graph.json').
         then(response => {
@@ -73,29 +28,62 @@ function createGraph() {
         })
         .then(data => {
             console.log(data);
+            createGraph(data);
         })
         .catch(error => {
             console.error('There has been a problem with your fetch operation:', error);
         });
 
-/*    const sigmaInstance = new Sigma(graph, graphElement);
-
-    sigma.parsers.json(
-        '/memex/colophon/graph.json',
-        sigmaInstance,
-        function () {
-            // this below adds x, y attributes as well as size = degree of the node 
-            var i, nodes = sigmaInstance.graph.nodes(), len = nodes.length;
-
-            // Refresh the display:
-            sigmaInstance.refresh();
-
-            // ForceAtlas Layout
-            sigmaInstance.startForceAtlas2();
-        }
-    ); */
-
 }
+
+
+function createGraph(graphData) {
+
+    const cy = cytoscape({
+        container: graphElement,
+        elements: { // list of graph elements to start with
+            nodes: graphData.nodes,
+            edges: graphData.edges
+        },
+        style: [ // the stylesheet for the graph
+            {
+                selector: 'node',
+                style: { 'background-color': '#666', 'label': 'data(id)' }
+            },
+            {
+                selector: 'edge',
+                style: { 'width': 3, 'line-color': '#ccc', 'target-arrow-color': '#ccc',
+                    'target-arrow-shape': 'triangle', 'curve-style': 'bezier' }
+            }
+        ],
+
+        layout: {
+            name: 'grid',
+            rows: 1
+        }
+
+    });
+}
+
+
+
+    /*    const sigmaInstance = new Sigma(graph, graphElement);
+    
+        sigma.parsers.json(
+            '/memex/colophon/graph.json',
+            sigmaInstance,
+            function () {
+                // this below adds x, y attributes as well as size = degree of the node 
+                var i, nodes = sigmaInstance.graph.nodes(), len = nodes.length;
+    
+                // Refresh the display:
+                sigmaInstance.refresh();
+    
+                // ForceAtlas Layout
+                sigmaInstance.startForceAtlas2();
+            }
+        ); */
+
 
 // get property value --md-default-fg-color--light
 /*const nodeColor = getComputedStyle(document.body).getPropertyValue("--md-default-fg-color--light")

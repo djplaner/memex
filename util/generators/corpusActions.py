@@ -508,6 +508,17 @@ def generateGraphJson(backLinks, bubbles):
             edgeId += 1
 #        input("Press Enter to continue...")
 
+    #-- check the edges all have source and target
+    for edge in graphData['edges']:
+        if 'source' not in edge or 'target' not in edge:
+            pprint(edge)
+            raise ValueError(f"Edge {edge} does not have source or target")
+
+    #-- check that each edge source has a corresponding node
+    for edge in graphData['edges']:
+        if edge['source'] not in [node['id'] for node in graphData['nodes']]:
+            raise ValueError(f"Edge {edge} has source {edge['source']} that does not exist in nodes")
+
     #-- save the graph data to a JSON file
     with open(f"{DOCS_FOLDER}/colophon/graph.json", 'w', encoding="utf-8-sig") as f:
         json.dump(graphData, f, indent=4, ensure_ascii=False)
@@ -529,4 +540,4 @@ backLinks = generateBackLinks(bubbles)
 
 #updateFrontMatterBackLinks(bubbles, backLinks)
 #moveImages(bubbles)
-generateGraphJson(backLinks, bubbles)
+#generateGraphJson(backLinks, bubbles)
