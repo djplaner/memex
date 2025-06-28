@@ -1,7 +1,11 @@
 ﻿---
+backlinks:
+- title: Design
+  url: /memex/sense/Design/design.html
+- title: Joyce Learning Design Systems
+  url: /memex/sense/Design/joyce-learning-design-systems.html
 title: The Law of Conservation of Complexity
 ---
-
 A draft blog post - [[digital-education-conservation-complexity]] - expands further on the following.
 
 > For any system there is a certain amount of complexity which cannot be reduced...Tesler argues that, in most cases, an engineer should spend an extra week reducing the complexity of an application versus making millions of users spend an extra minute using the program becausse of the extra complexity. However, Bruce Tognazzini proposes that people resist reductions to the amount of complexity in their lives. Thus, when an application is simplified, users begin attempting more complex tasks -- [Law of UX](https://lawsofux.com/teslers-law) -- which is actually pulled from [the Wikipedia entry](https://en.wikipedia.org/wiki/Law_of_conservation_of_complexity)

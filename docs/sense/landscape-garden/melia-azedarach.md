@@ -1,11 +1,13 @@
----
-title: Melia azedarach (white cedar)
-type: "plants"
+﻿---
+backlinks:
+- title: The Orchard (Orchard corner)
+  url: /memex/sense/landscape-garden/orchard-corner.html
+- title: Plants
+  url: /memex/sense/landscape-garden/plants/plants.html
 tags: garden, plant, wood-duck-meadows
+title: Melia azedarach (white cedar)
+type: plants
 ---
-
-
-
 Melia azedarach (aka white cedar, chinaberry tree) is a deciduous tree that grows to 15m. A spreading canopy and being deciduous during winter make it a popular ornamental tree. Though it's not with out its issues, including most parts of the tree being poisonous, a shortish lifespan, and a potential to become invasive.
 
 The invasive tendency is somewhat evident at [[wood-duck-meadows]] with a number of white cedars around the property, including [[orchard-corner]] and the [[front-yard]]. 

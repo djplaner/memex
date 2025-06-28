@@ -1,11 +1,13 @@
----
-title: Concrete, Representation (Pictorial), Abstract (CRA)
-type: "note"
+﻿---
+backlinks:
+- title: Reality, Abstraction, Mathematics, Reality (RAMR) cycle
+  url: /memex/sense/Teaching/Mathematics/cser-mooc/ramr-cycle.html
+- title: CSER Maths in Schools - Practices and pedagogies
+  url: /memex/sense/Teaching/Mathematics/cser-mooc/cser-practices-and-pedagogies.html
 tags: teaching, teaching-mathematics
+title: Concrete, Representation (Pictorial), Abstract (CRA)
+type: note
 ---
-
-
-
 Three-part instructional framework based on Bruner's theory of representation.
 
 | CRA | Bruner | Classroom  |
@@ -23,5 +25,3 @@ Implementation suggestions include
 - All in one lesson
 
 Role of the teacher is to make the connections between mathematical concept and the different representations explicit.
-
-

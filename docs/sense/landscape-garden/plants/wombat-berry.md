@@ -1,11 +1,17 @@
----
+﻿---
+backlinks:
+- title: Gatton creek frontage
+  url: /memex/sense/landscape-garden/gatton-creek-frontage.html
+- title: Plants
+  url: /memex/sense/landscape-garden/plants/plants.html
+tags:
+- wood-duck-meadows
+- plant
+- vine
+- native
 title: Wombat Berry - Eustrephus latifolius
-type: "plant"
-tags: [ 'wood-duck-meadows', 'plant', 'vine', 'native']
+type: plant
 ---
-
-
-
 Wombat Berry (Eustrephus latifolius) is an evergreen vine native to Australia and other parts of the Pacific and Asia. Usually a somewhat vigorous twining plant, but may also be found as a scrambling ground cover.
 
 Birds are attracted to and eat the berries. Mammals - including wombats - eat the tubers.

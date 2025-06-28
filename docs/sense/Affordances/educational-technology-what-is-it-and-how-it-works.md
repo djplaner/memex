@@ -1,4 +1,12 @@
----
+﻿---
+backlinks:
+- title: Affordances of digital technology
+  url: /memex/sense/Affordances/affordances-of-digital-technology.html
+- title: Evaluating orchestration
+  url: /memex/sense/Assemblage/evaluating-orchestration.html
+- title: 'Exploring conceptions of technology: Implications for learning, teaching,
+    and meso-level practitioners'
+  url: /memex/sense/Paper-Ideas/exploring-conceptions-of-technology.html
 title: 'Educational technology: what is it and how it works'
 ---
 ## Definition: Educational Technology

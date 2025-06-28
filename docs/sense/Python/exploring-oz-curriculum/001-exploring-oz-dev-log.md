@@ -1,4 +1,7 @@
 ﻿---
+backlinks:
+- title: Exploring australian curriculum
+  url: /memex/sense/Python/exploring-australian-curriculum.html
 title: '# 001 - Exploring Australian Curriculum - Dev log'
 ---
 ## 001 - Exploring Australian Curriculum - Dev log

@@ -1,11 +1,11 @@
----
-title: CSER Statistics - Content in Action
-type: "note"
+﻿---
+backlinks:
+- title: CSER Maths in Schools - Content in Action
+  url: /memex/sense/Teaching/Mathematics/cser-mooc/cser-content-in-action.html
 tags: cser, cser-maths-in-schools, cser-getting-started, teaching-mathematics
+title: CSER Statistics - Content in Action
+type: note
 ---
-
-
-
 Related resources
 
 -   [What's in a name?](https://www.resolve.edu.au/whats-name) examine trends in the names of students in the class and trends in popular names from 2017 and 1957. They look at data associated with these names and explore the use and significance of the **mode** as a measure of central tendency. 

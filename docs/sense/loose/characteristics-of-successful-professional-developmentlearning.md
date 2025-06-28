@@ -1,7 +1,9 @@
----
+﻿---
+backlinks:
+- title: Loose notes
+  url: /memex/sense/loose/loose.html
 title: Characteristics of successful Professional Development/Learning
 ---
-
 Desimone (2009) argues that there is some consensus around the characteristics of PD (of teachers) that improves outcomes
 
 - content focus - focus on subject matter content and how students learn that content
@@ -13,5 +15,3 @@ Desimone (2009) argues that there is some consensus around the characteristics o
 ## Sources
 
 Desimone, L. M. (2009). [Improving Impact Studies of Teachers’ Professional Development: Toward Better Conceptualizations and Measures.](http://doi.org/10.3102/0013189X08331140) Educational Researcher, 38(3), 181–199.
-
-

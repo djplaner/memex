@@ -1,11 +1,11 @@
----
-title: Creative coding log 1
-type: "note"
+﻿---
+backlinks:
+- title: Creative coding log 2
+  url: /memex/sense/Python/creative-coding-log/creative-coding-log-2.html
 tags: creativeCoding, python
+title: Creative coding log 1
+type: note
 ---
-
-
-
 ## Getting set up
 
 1. New repo
@@ -103,5 +103,3 @@ Create custom annimations by extending the `Animation` class and overriding the 
 There are [plugins](https://plugins.manim.community/) - but not many and early exploration finds them all in early days.  
 
 [RevalJS plugin](https://pypi.org/project/manim-revealjs/) looks interesting.
-
-

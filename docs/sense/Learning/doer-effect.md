@@ -1,4 +1,7 @@
----
+﻿---
+backlinks:
+- title: Effective learning strategies
+  url: /memex/sense/Learning/effective-learning-strategies.html
 title: Doer Effect
 ---
 [Source](https://research.vitalsource.com/research/doer-effect)

@@ -1,11 +1,11 @@
----
-title: AC9M7ST01
-type: "note"
+﻿---
+backlinks:
+- title: Learning Areas
+  url: /memex/sense/Teaching/Curriculum/v9/v9-learning-areas.html
 tags: australian-curriculum
+title: AC9M7ST01
+type: note
 ---
-
-
-
 > acquire data sets for discrete and continuous numerical variables and calculate the range, median, mean and mode; make and justify decisions about which measures of central tendency provide useful insights into the nature of the distribution of data
 
 ??? note "Elaborations"
@@ -19,5 +19,3 @@ tags: australian-curriculum
 	- _ASMAT716_ - They plan and conduct statistical investigations involving discrete and continuous numerical data, using appropriate displays.
 	- _ASMAT717_ - Students interpret data in terms of the shape of distribution and summary statistics, identifying possible outliers.
 	- _ASMAT718_ - They decide which measure of central tendency is most suitable and explain their reasoning.
-
-

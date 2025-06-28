@@ -1,11 +1,11 @@
----
-title: Teaching implementation
-type: "index"
+﻿---
+backlinks:
+- title: 'Teaching '
+  url: /memex/sense/Teaching/teaching.html
 tags: teaching
+title: Teaching implementation
+type: index
 ---
-
-
-
 Place to draw together [[my-teaching-philosophy]], [[my-approach-to-teaching-mathematics]], and [[my-approach-to-teaching-digital-technologies]] into actual plans and resources for implementation
 
 Aim perhaps being that each class has a page that supports

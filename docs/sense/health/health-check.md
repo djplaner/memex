@@ -1,10 +1,11 @@
----
-title: Health check
-type: "note"
+﻿---
+backlinks:
+- title: Sense
+  url: /memex/sense/sense.html
 tags: health, personal
+title: Health check
+type: note
 ---
-
-
 Random suggestion
 
 ## Cooper test
@@ -31,5 +32,3 @@ Hold an air squat for 2 minutes.  Hands out front
 ## Dead hangs
 
 2 minutes for males
-
-

@@ -266,8 +266,8 @@ def generateBackLinks(bubbles: dict):
 
         # for each bubbleLink, add it to the backLinks dict
         for destinationPath in bubble['linkDefs']:
-            sourcePath = f'{bubble["filePath"].replace(DOCS_FOLDER, "")}'
-            #sourcePath = f'{PREFIX}{bubble["filePath"].replace(DOCS_FOLDER, "")}'
+            #sourcePath = f'{bubble["filePath"].replace(DOCS_FOLDER, "")}'
+            sourcePath = f'{PREFIX}{bubble["filePath"].replace(DOCS_FOLDER, "")}'
             #-- 
             if destinationPath not in backLinks:
                 backLinks[destinationPath] = {}
@@ -473,6 +473,11 @@ def generateGraphJson(backLinks, bubbles):
         if any(re.search(pattern, filePath) for pattern in EXCLUDE):
             continue
 
+        name = bubbles[filePath]['yaml'].get('title', 'No title found')
+        # nodeId is filePath minus the PREFIX
+        #-- remove the PREFIX from the filePath to get the nodeId
+        nodeId = filePath.replace(PREFIX, "")
+
 #        print(f"Processing {filePath}")
 #        pprint(bubbles[filePath])
 #        input("Press Enter to continue...")
@@ -481,10 +486,10 @@ def generateGraphJson(backLinks, bubbles):
         # 'name': <name of the bubble>
         # 'value': <path>
         graphData['nodes'].append({
-            'id': filePath,
+            'id': nodeId,
             'x': x, 'y': y,
 #            'value': filePath,
-            'data': { 'name': bubbles[filePath]['yaml'].get('title', 'No title found') },
+            'data': { 'name': name },
         })
         x+=1
         y+=1
@@ -506,10 +511,14 @@ def generateGraphJson(backLinks, bubbles):
         # continue if there are no linkDefs for this destination
         for sourceLink in backLinks[destinationFilePath].keys():
 #            print(f"    - {sourceLink} -> {destinationFilePath}" )
+
+            #-- remove the PREFIX from the sourceLink to get the sourceId
+            source = sourceLink.replace(PREFIX, "")
+            target = destinationFilePath.replace(PREFIX, "")
             graphData['edges'].append({
                 'id': f"{edgeId}",
-                'source': sourceLink,
-                'target': destinationFilePath
+                'source': source,
+                'target': target
             })
             edgeId += 1
 #        input("Press Enter to continue...")

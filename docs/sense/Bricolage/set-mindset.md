@@ -1,14 +1,22 @@
----
+﻿---
+backlinks:
+- title: Seek
+  url: /memex/seek/seek.html
+- title: Visualising and pruning my Memex
+  url: /memex/share/blog/visualising-and-pruning-my-memex.html
+- title: Contextually Appropriate Scaffolding Assemblages (CASA)
+  url: /memex/sense/CASA/casa.html
+- title: New System Will Solve Everything Disease
+  url: /memex/sense/Bricolage/new-system-will-solve-everything-disease.html
+- title: Returning to the profession
+  url: /memex/sense/Teaching/RTT/returning-to-the-profession.html
+tags:
+- SET
+- BAD
+- CASA
 title: The SET mindset
 type: note[[bad-mindset]]
-tags:
-   - SET
-   - BAD
-   - CASA
 ---
-
-
-
 We argued that the _SET mindset_ is the primary contemporary way to answering three  (of the many) inter-related questions about the implementation of e-learning ([Jones & Clark, 2014](https://djon.es/blog/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/)). Perhaps because this mindset is the dominant way of answering these questions in contemporary neo-liberal society.
 
 Our experience suggested that the SET mindset has numerous limitations. Limitations which we spent most of our work life trying to overcome. That work seemed to be informed by an alternate way of answering the same questions. A way we labelled the [[bad-mindset]].

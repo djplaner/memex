@@ -1,11 +1,11 @@
----
-title: AC9M8SP02
-type: "note"
+﻿---
+backlinks:
+- title: Learning Areas
+  url: /memex/sense/Teaching/Curriculum/v9/v9-learning-areas.html
 tags: australian-curriculum
+title: AC9M8SP02
+type: note
 ---
-
-
-
 > establish properties of quadrilaterals using congruent triangles and angle properties, and solve related problems explaining reasoning
 
 ??? note "Elaborations"
@@ -16,5 +16,3 @@ tags: australian-curriculum
 ??? note "Achievement Standard Components"
 
 	- _ASMAT815_ - Students apply the properties of quadrilaterals to solve problems.
-
-

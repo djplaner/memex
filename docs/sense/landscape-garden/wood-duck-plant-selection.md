@@ -1,13 +1,15 @@
----
+﻿---
+backlinks:
+- title: Ecosystem restoration (aka bush regneration)
+  url: /memex/sense/landscape-garden/ecosystem-restoration.html
+- title: Wood duck meadows
+  url: /memex/sense/landscape-garden/wood-duck-meadows.html
+tags:
+- plants
+- wood-duck-meadows
 title: Plant selection for Wood duck meados
 type: note
-tags: 
-    - plants
-    - wood-duck-meadows
 ---
-
-
-
 ## Others
 
 - [Weeping bottlebrush](https://sown.com.au/melaleuca-viminalis-myrtaceae-weeping-bottlebrush-river-bottlebrush/) - as a potential for for stablising the creek banks after removal of lantana etc.
@@ -68,4 +70,3 @@ Others
 ## Mature species
 
 - Brush (Brisbane) Box - [SOWN](https://sown.com.au/lophostemon-confertus-myrtacea-brush-box/), [Wikipedia](https://en.wikipedia.org/wiki/Lophostemon_confertus)
-

@@ -1,11 +1,11 @@
----
-title: SMILE
-type: "note"
+﻿---
+backlinks:
+- title: Mathematical mindsets
+  url: /memex/sense/Teaching/Mathematics/mathematical-mindsets.html
 tags: teaching, mathematics
+title: SMILE
+type: note
 ---
-
-
-
 [SMILE (Secondary Mathematics Individualised Learning Experience)](https://www.stem.org.uk/resources/collection/2765/smile-cards) was a UK project arising in the 1970s intended to enable a more individualised journey through mathematics for students. Collectives of teachers developed and reviewed individual activities (cards) that students could complete at their own pace with some requiring working with a partner.
 
 Povey (2014) describes her experience being involved.

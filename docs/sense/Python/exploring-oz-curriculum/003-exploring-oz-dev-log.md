@@ -1,9 +1,11 @@
---- 
-title: "Dev log - 003: Exploring Oz Curriculum"
-type: "devLog"
+﻿---
+backlinks:
+- title: Exploring australian curriculum
+  url: /memex/sense/Python/exploring-australian-curriculum.html
 tags: python, v9ozCurriculum, curriculum
+title: 'Dev log - 003: Exploring Oz Curriculum'
+type: devLog
 ---
-
 ## Purpose
 
 Basically try and get something useful out of the RDF version of version 9 of the Australian Curriculum.
@@ -45,4 +47,3 @@ Neo4j corporate site pushes you to the cloud, but there is [desktop version](htt
 - Install [Neosemantics plugin](https://neo4j.com/labs/neosemantics/4.1/introduction/) to enable use of RDF
     - Sadly that is looking [more difficult](https://community.neo4j.com/t/neosemantics-n10s-graph-app-problems-with-install/58816/2) than it might otherwise be
         - [Some suggestion](https://community.neo4j.com/t/problem-installing-neosemantics-on-neo4j-desktop/20825) that `APOC` plugin needs installing first
-

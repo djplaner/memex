@@ -1,11 +1,17 @@
----
-title: The block model
-type: "note"
+﻿---
+backlinks:
+- title: Predict Run Investigate Modify Make (PRIMM)
+  url: /memex/sense/Teaching/Digital_Technologies/primm.html
+- title: Teaching Digital Technologies
+  url: /memex/sense/Teaching/Digital_Technologies/teaching-digital-technologies.html
+- title: Digital Technologies Structures
+  url: /memex/sense/Teaching/Digital_Technologies/digital-technologies-structures.html
+- title: My approach to teaching digital technologies
+  url: /memex/sense/Teaching/Mathematics/my-approach-to-teaching-digital-technologies.html
 tags: teaching-digital-technologies, computing, programming, teaching-programming
+title: The block model
+type: note
 ---
-
-
-
 Resources:
 
 - [KSU explanation](https://textbooks.cs.ksu.edu/tlcs/4-designing-cs-lessons/06-the-block-model/index.html)
@@ -36,5 +42,3 @@ Based on a duality between
 | Relationships | <ul> <li> Identify variable scope </li> <li> Highlight function calls </li> <li> Draw the flow of control </li> <li> Find redundant conditional branches </li> <li> Choose a name for a variable/function </li> <li> Are two programs/segments functionally equivalent </li> </ul> |
 | Blocks | <ul> <li> Identify block types, such as finite lops 'else' conditions, function definitions, etc. </li> </ul> | <ul> <li> Reordering lines of code </li> <li> Parson's problems </li> </ul> | <ul> <li> Explain the purpose of a block of code </li> </ul> | 
 | Atoms | <ul> <li> Identify statement types, such as assignments and conditions </li> </ul> | Trace values through a program | Explain the purpose of a single line |
-
-

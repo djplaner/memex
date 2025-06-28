@@ -1,4 +1,11 @@
 ﻿---
+backlinks:
+- title: Prompt engineering
+  url: /memex/sense/AI/prompt-engineering.html
+- title: AI
+  url: /memex/sense/AI/AI.html
+- title: First experiments with LLM APIs
+  url: /memex/sense/AI/explorations/first-llm-api-experiments.html
 title: Building AI applications based on learning research
 ---
 [GRAILE Seminar](https://www.eventbrite.com/x/621321217487/?keep_tld=1&internal_ref=social) - [Global Research Alliance for AI in Learning and Education](https://graile.ai/)

@@ -1,7 +1,9 @@
----
+﻿---
+backlinks:
+- title: Computer Science Student-Centered Instructional (CSSC) Continuum
+  url: /memex/sense/Teaching/Digital_Technologies/cssc.html
 title: Parson's problems
 ---
-
 ## ChatGPT 
 
 Parsons Problems are a type of educational exercise or problem-solving activity commonly used in computer science and programming education. The concept of Parsons Problems was introduced by Dr. Kate Sanders and Dr. Quintin Cutts in their 2008 paper titled "Using Parsons Problems to Bootstrap Interest in Computer Programming."

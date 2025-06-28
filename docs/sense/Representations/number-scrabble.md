@@ -1,14 +1,23 @@
----
+﻿---
+backlinks:
+- title: Representations
+  url: /memex/sense/Representations/representations.html
+- title: Transparent representation
+  url: /memex/sense/Representations/transparent-representation.html
+- title: Number Scrabble - web implementation
+  url: /memex/sense/CASA/number-scrabble-web.html
+- title: 'MATH081C Unit 1, Lesson 1: 2024'
+  url: /memex/sense/Teaching/Implementation/2024/MAT081C/mat081c-2024-u1l1.html
+- title: CSER Maths in Schools - Practices and pedagogies
+  url: /memex/sense/Teaching/Mathematics/cser-mooc/cser-practices-and-pedagogies.html
+tags:
+- representations
+- design
+- mathematics
+- teaching-mathematics
 title: Number scrabble (aka Fifteen)
 type: note
-tags: 
-    - representations 
-    - design 
-    - mathematics 
-    - teaching-mathematics
 ---
-
-
 [Number Scrabble](https://en.wikipedia.org/wiki/Number_Scrabble) (aka Pick 15, 3 to 15, [15](https://nrich.maths.org/1223)) is a mathematical game used by Herb Simon to demonstrate the importance of representation to design. 
 
 Two players take turns to pick a number from 1 to 9. The first player to pick three numbers that add up to 15 wins.
@@ -34,4 +43,3 @@ Michon, J. A. (1967). The Game of JAM: An Isomorph of Tic-Tac-Toe. *The American
 Moeler, C. (2011). TicTacToe Magic. In *Experiments with MATLAB* (pp. 141--150). MathWorks, Inc. <https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/moler/exm/chapters/tictactoe.pdf>
 
 Yeo, J. B. W., & Ban Har, Y. (2009). *Investigating the processes of mathematical investigation*. 3rd Redesigning Pedagogy International Conference, Singapore. <https://repository.nie.edu.sg/entities/publication/f542585b-0b92-4a70-a005-0c6dfb9303c7/details>
-

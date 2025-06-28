@@ -1,4 +1,25 @@
 ﻿---
+backlinks:
+- title: Teacher preparation
+  url: /memex/seek/teacher-preparation.html
+- title: Exploring australian curriculum
+  url: /memex/sense/Python/exploring-australian-curriculum.html
+- title: Creative coding experiments
+  url: /memex/sense/Python/creative-coding-with-python.html
+- title: Interleaving
+  url: /memex/sense/Learning/interleaving.html
+- title: 'Teaching '
+  url: /memex/sense/Teaching/teaching.html
+- title: There's more than one way to do it (TIMTOWTDI)
+  url: /memex/sense/Teaching/Mathematics/timtowtdi.html
+- title: 'Two types of teaching mathematics: instrumental and relational'
+  url: /memex/sense/Teaching/Mathematics/instrumental-relational-mathematics.html
+- title: Teaching mathematics for a growth mindset
+  url: /memex/sense/Teaching/Mathematics/teaching-mathematics-for-a-growth-mindset.html
+- title: Mathematical Exceptions Activity Type
+  url: /memex/sense/Teaching/Mathematics/activity-types/math-expectations-activity-type.html
+- title: Mathematical Connections Activity Type
+  url: /memex/sense/Teaching/Mathematics/activity-types/math-connections-activity-type.html
 tags: mathematics, teaching
 title: Teaching Mathematics
 type: index

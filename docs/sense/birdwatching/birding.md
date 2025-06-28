@@ -1,9 +1,13 @@
----
-title: Birding
-type: "note"
+﻿---
+backlinks:
+- title: Welcome
+  url: /memex/index.html
+- title: Sense
+  url: /memex/sense/sense.html
 tags: hobby, birdwatching, birding
+title: Birding
+type: note
 ---
-
 A space for tracking a nascent attempt to adopt birdwatching as a hobby, including experiments in sharing my [life-list](./life-list.md) and associated [life-list-gallery](./life-list-gallery.md).
 
 ## Thinking out loud

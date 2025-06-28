@@ -1,8 +1,9 @@
 ﻿---
+backlinks:
+- title: AI
+  url: /memex/sense/AI/AI.html
 title: Early LLMm value thoughts
 ---
-
-
 See: [[AI]]
 
 The [Google "moat" document](https://www.semianalysis.com/p/google-we-have-no-moat-and-neither) suggests that Google and OpenAI don't have a competitive advantage.  That open source is eating any advantage. What is the advantage/value of LLMs?

@@ -1,11 +1,13 @@
----
+﻿---
+backlinks:
+- title: Colophon
+  url: /memex/colophon/colophon.html
+tags:
+- colophon
+- search
 title: Improve static search
 type: note
-tags:
-    - colophon
-    - search
 ---
-
 [[comparing-wordpress-to-memex|Comparing Wordpress to Memex]] revealed that the MkDocs static search's payload (14 Mb) significantly increases the size of the web pages. Look into alternatives - server side or client. Also, [lunr.js](https://github.com/olivernn/lunr.js/) used by MkDocs hasn't been updated recently (5-7 years).
 
 !!! note "Memex and blog updated to page find"

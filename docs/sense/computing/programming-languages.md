@@ -1,4 +1,7 @@
----
+﻿---
+backlinks:
+- title: Computing
+  url: /memex/sense/computing/computing.html
 title: Programming Languages
 ---
 ## Popularity of programming languages

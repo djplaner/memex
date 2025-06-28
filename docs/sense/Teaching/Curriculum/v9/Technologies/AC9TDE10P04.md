@@ -1,13 +1,11 @@
-
----
-title: AC9TDE10P04
-type: "note"
+﻿---
+backlinks:
+- title: Learning Areas
+  url: /memex/sense/Teaching/Curriculum/v9/v9-learning-areas.html
 tags: australian-curriculum
+title: AC9TDE10P04
+type: note
 ---
-
-
-
-
 > develop design criteria independently including sustainability to evaluate design ideas, processes and solutions
 
 Elaborations
@@ -20,5 +18,3 @@ Elaborations
 - _AC9TDE10P04_E3_ - reflecting on learning including processes or choices made at various stages of a design process and modifying plans when needed with consideration of design criteria
 
 - _AC9TDE10P04_E4_ - responding creatively to evaluation feedback to iterate and modify design ideas and processes to improve sustainability measures, for example considering opportunities to use sustainable materials, such as plant-based timber oils or bioplastics
-
-

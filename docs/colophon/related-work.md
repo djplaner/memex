@@ -1,10 +1,12 @@
----
+﻿---
+backlinks:
+- title: Colophon
+  url: /memex/colophon/colophon.html
+tags:
+- colophon
 title: Related work
-type: "note"
-tags: 
-    - colophon
+type: note
 ---
-
 Much of the work on this site aims to adopt thoughts from the following related work. [[alternate-conceptions-of-the-web]] covers some of the same ground.
 
 ## Related work

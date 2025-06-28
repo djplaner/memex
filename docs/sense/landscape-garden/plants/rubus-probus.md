@@ -1,11 +1,19 @@
----
+﻿---
+backlinks:
+- title: Plants
+  url: /memex/sense/landscape-garden/plants/plants.html
+- title: Atherton raspberry (Gatton Creek)
+  url: /memex/sense/landscape-garden/individual-plants/atherton-raspberry-gatton-creek.html
+tags:
+- plants
+- wood-duck-meadows
+- native
+- edible
+- fruit
+- scrambling shrub
 title: Rubus probus (Atherton raspberry)
-type: plant 
-tags: ['plants', 'wood-duck-meadows', 'native', 'edible', 'fruit', 'scrambling shrub']
+type: plant
 ---
-
-
-
 [Rubus probus](https://en.wikipedia.org/wiki/Rubus_probus) is a rampant growing scrambling shrub producing an edible fruit. Can form thorny thickets.
 
 ## History at Wood duck meadows

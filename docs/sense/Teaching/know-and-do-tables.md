@@ -1,12 +1,13 @@
----
-title: Know and do tables
-type: "note"
+﻿---
+backlinks:
+- title: 'Teaching '
+  url: /memex/sense/Teaching/teaching.html
+- title: CSER MiS - Getting started module
+  url: /memex/sense/Teaching/Mathematics/cser-mooc/cser-getting-started.html
 tags: teaching
+title: Know and do tables
+type: note
 ---
-
-
-
-
 A growing requirement of pedagogical frameworks (inspired by NASOT?).
 
 ??? question "What is the connection with [[declarative-and-procedural-knowledge]]?"

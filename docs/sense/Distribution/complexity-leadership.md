@@ -1,4 +1,9 @@
 ﻿---
+backlinks:
+- title: The relationships between BAD/SET, CASA, and Gather/Weave
+  url: /memex/sense/CASA/bad_set-casa-gather-weave.html
+- title: Distribution
+  url: /memex/sense/Distribution/distribution.html
 tags: complexity, distribution, BAD
 title: Complexity leadership
 type: note

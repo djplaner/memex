@@ -1,4 +1,9 @@
 ﻿---
+backlinks:
+- title: Paper Ideas
+  url: /memex/sense/Paper-Ideas/paper-ideas.html
+- title: Published papers
+  url: /memex/sense/Paper-Ideas/Published/published-papers.html
 title: 'Tweaks, templates and the LMS: exploring how to improve the learning environment'
 ---
 ## Published

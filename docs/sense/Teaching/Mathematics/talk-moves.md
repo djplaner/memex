@@ -1,11 +1,13 @@
----
-title: Talk moves
-type: "note"
+﻿---
+backlinks:
+- title: Teaching Mathematics
+  url: /memex/sense/Teaching/Mathematics/teaching-mathematics.html
+- title: CSER MiS - Getting started module
+  url: /memex/sense/Teaching/Mathematics/cser-mooc/cser-getting-started.html
 tags: teaching, teaching-mathematics
+title: Talk moves
+type: note
 ---
-
-
-
 [Toolset from NSW DoE](https://education.nsw.gov.au/teaching-and-learning/curriculum/literacy-and-numeracy/teaching-and-learning-resources/numeracy/talk-moves) for supporting rich, meaingful, classroom discussion in mathematics
 
 Based on 
@@ -52,5 +54,3 @@ Based on
 
     - Has anyone revised their thinking? Why?
     - Would anyone change their strategy/thinking now? Why?
-
-

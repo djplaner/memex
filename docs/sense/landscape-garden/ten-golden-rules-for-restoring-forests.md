@@ -1,4 +1,7 @@
 ﻿---
+backlinks:
+- title: Ecosystem restoration (aka bush regneration)
+  url: /memex/sense/landscape-garden/ecosystem-restoration.html
 tags:
 - ecosystem-restoration
 - landscape

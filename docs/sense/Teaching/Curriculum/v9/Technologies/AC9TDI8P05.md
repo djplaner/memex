@@ -1,12 +1,11 @@
-
----
-title: AC9TDI8P05
-type: "note"
+﻿---
+backlinks:
+- title: Learning Areas
+  url: /memex/sense/Teaching/Curriculum/v9/v9-learning-areas.html
 tags: australian-curriculum
+title: AC9TDI8P05
+type: note
 ---
-
-
-
 > design algorithms involving nested control structures and represent them using flowcharts and pseudocode
 
 ??? note "Elaborations"
@@ -18,5 +17,3 @@ tags: australian-curriculum
 
 	- _ASTEC7804_ - Students design and trace algorithms; and implement them in a general-purpose programming language.
 	- _ASTECTDI7803_ - They design and trace algorithms and implement them in a general-purpose programming language.
-
-

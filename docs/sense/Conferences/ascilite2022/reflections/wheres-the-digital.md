@@ -1,4 +1,7 @@
----
+﻿---
+backlinks:
+- title: 'Sensemaking - ASCILITE 2022 '
+  url: /memex/sense/Conferences/ascilite2022/ascilite-2022-sensemaking.html
 title: Where's the digital?
 ---
 # Where's the digital?

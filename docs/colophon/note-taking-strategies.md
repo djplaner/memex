@@ -1,12 +1,13 @@
----
+﻿---
+backlinks:
+- title: Colophon
+  url: /memex/colophon/colophon.html
+tags:
+- colophon
+- note-taking
 title: Note taking strategies
 type: note
-tags:
-    - colophon
-    - note-taking
---- 
-
-
+---
 Exploring and reflecting on various note-taking strategies and if/how they are applied on this site.
 
 ## Broader Strategies

@@ -1,4 +1,7 @@
 ﻿---
+backlinks:
+- title: Sense
+  url: /memex/sense/sense.html
 title: Relational
 ---
 Thinking about the term *relational*

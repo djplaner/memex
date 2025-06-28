@@ -1,12 +1,11 @@
-
----
-title: AC9TDE8P03
-type: "note"
+﻿---
+backlinks:
+- title: Learning Areas
+  url: /memex/sense/Teaching/Curriculum/v9/v9-learning-areas.html
 tags: australian-curriculum
+title: AC9TDE8P03
+type: note
 ---
-
-
-
 > select, justify and use suitable materials, components, tools, equipment, skills and processes to safely make designed solutions
 
 Elaborations
@@ -21,5 +20,3 @@ Elaborations
 - _AC9TDE8P03_E4_ - identifying and managing risks in the development of various projects, for example working safely, responsibly, cooperatively and ethically on design projects; assessing and responding to uncertainty and risk in relation to long-term health and environmental impacts, for example ensuring appropriate personal protective equipment (PPE) is worn or that ventilation is appropriate where solvents, glues or 3D printers are used
 
 - _AC9TDE8P03_E5_ - considering how to improve technical expertise required to use tools or equipment needed to design a solution, for example using an online tutorial to learn to use software for design or production
-
-

@@ -1,12 +1,11 @@
-
----
-title: AC9TDI8P07
-type: "note"
+﻿---
+backlinks:
+- title: Learning Areas
+  url: /memex/sense/Teaching/Curriculum/v9/v9-learning-areas.html
 tags: australian-curriculum
+title: AC9TDI8P07
+type: note
 ---
-
-
-
 > design the user experience of a digital system
 
 ??? note "Elaborations"
@@ -18,5 +17,3 @@ tags: australian-curriculum
 
 	- _ASTEC7805_ - Students create and adapt design ideas, processes and solutions, and justify their decisions against developed design criteria that include sustainability.
 	- _ASTECTDI7801_ - By the end of Year 8 students develop and modify creative digital solutions, decompose real-world problems, and evaluate alternative solutions against user stories and design criteria.
-
-

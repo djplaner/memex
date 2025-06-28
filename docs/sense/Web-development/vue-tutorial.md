@@ -1,11 +1,11 @@
----
-title: "Vue Tutorial"
-type: "note"
+﻿---
+backlinks:
+- title: Learning Vue
+  url: /memex/sense/Web-development/learning-vue.html
 tags: web-development, javascript, vue
+title: Vue Tutorial
+type: note
 ---
-
-
-
 ## [Vue Tutorial](https://vuejs.org/tutorial/#step-1)
 
 Not exhaustive - a taster.
@@ -119,5 +119,3 @@ Data can be passed also using slots. With the child having fall back content
 ### Events
 
 Child components can emit events using `emit` and the parent can listen using `@response` syntax.
-
-

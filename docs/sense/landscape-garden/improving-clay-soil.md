@@ -1,11 +1,11 @@
----
-title: Improving clay soil
-type: "note"
+﻿---
+backlinks:
+- title: Fig tree berm
+  url: /memex/sense/landscape-garden/fig-tree-berm.html
 tags: gardens, sense, landscape
+title: Improving clay soil
+type: note
 ---
-
-
-
 ## Methods
 
 ### Suppress and cover
@@ -50,5 +50,3 @@ Perennial
 - Comfrey
 - Dandelion
 - Yarrow
-
-

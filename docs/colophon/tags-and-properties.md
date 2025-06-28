@@ -1,9 +1,11 @@
----
-title: Tags and properties
-type: "colophon"
+﻿---
+backlinks:
+- title: Colophon
+  url: /memex/colophon/colophon.html
 tags: tags
+title: Tags and properties
+type: colophon
 ---
-
 Exploring the use of [tags](https://foambubble.github.io/foam/user/features/tags) and [properties](https://foambubble.github.io/foam/user/features/note-properties) as ways to organise and navigate the content of this site.
 
 ## Background
@@ -33,5 +35,3 @@ Tag hierarchy
 - year
 - strand
 - content-descriptor
-
-

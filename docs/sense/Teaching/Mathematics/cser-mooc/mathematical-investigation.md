@@ -1,12 +1,11 @@
----
-title: Mathematical Investigation
-type: "note"
+﻿---
+backlinks:
+- title: Teaching Mathematics
+  url: /memex/sense/Teaching/Mathematics/teaching-mathematics.html
 tags: teaching-mathematics
+title: Mathematical Investigation
+type: note
 ---
-
-
-
-
 The core of mathematics is problem-solving and modelling the world around us.
 
 ## reSolve approach
@@ -60,5 +59,3 @@ Goal of inquiry is to encourage students to
 - [Mathematics hub - Mathematics Investigations](https://www.mathematicshub.edu.au/plan-teach-and-assess/teaching/teaching-strategies/mathematics-investigation/)
 - [reSolve: mathematics by inquiry](https://www.resolve.edu.au/1-reSolve-mathematics) 
 - [An inquiry maths lesson](https://www.inquirymaths.com/home/an-inquiry-lesson)
-
-

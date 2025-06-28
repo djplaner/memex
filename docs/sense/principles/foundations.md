@@ -1,7 +1,9 @@
 ﻿---
-title: Foundations 
+backlinks:
+- title: Sense
+  url: /memex/sense/sense.html
+title: Foundations
 ---
-
 Random and very slowly emerging thinking about the foundations of my work/life (small l)
 
 - Society is currently unfair and broken on many levels (gotta start with the pessimism)

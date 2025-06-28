@@ -1,11 +1,11 @@
----
-title: Creative coding log 2
-type: "note"
+﻿---
+backlinks:
+- title: Creative coding experiments
+  url: /memex/sense/Python/creative-coding-with-python.html
 tags: creativeCoding, python
+title: Creative coding log 2
+type: note
 ---
-
-
-
 [[creative-coding-log-1|Log 1]] got Manim underway. The following looks to learn more about creating my own Manim animations/images by leveraging some creative coding examples.
 
 - [ ] Explore some creative coding books/websites - choose some

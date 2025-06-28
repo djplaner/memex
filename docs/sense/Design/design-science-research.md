@@ -1,4 +1,7 @@
 ﻿---
+backlinks:
+- title: Design
+  url: /memex/sense/Design/design.html
 title: Design Science Research
 ---
 ## Definitions

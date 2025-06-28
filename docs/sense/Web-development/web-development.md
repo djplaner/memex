@@ -1,4 +1,17 @@
----
+﻿---
+backlinks:
+- title: Sense
+  url: /memex/sense/sense.html
+- title: Pathway planner
+  url: /memex/sense/Web-development/pathway-planner.html
+- title: When to use accordions
+  url: /memex/sense/Web-development/when-to-use-accordions.html
+- title: Javascript REST API Client
+  url: /memex/sense/Web-development/javascript-rest-api-client.html
+- title: Unbundled web components
+  url: /memex/sense/Web-development/unbundled-web-components.html
+- title: Usable CASA
+  url: /memex/sense/Web-development/usable-casa/usable-casa.html
 title: Web development
 ---
 Resources on all things developing web applications

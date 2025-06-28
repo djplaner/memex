@@ -1,4 +1,7 @@
----
+﻿---
+backlinks:
+- title: Distribution
+  url: /memex/sense/Distribution/distribution.html
 title: Interoperability Taxonomy
 ---
 Based on Cory Doctrow's [Interoperaability: Fix the Internet, Not the Tech Companies](https://www.eff.org/deeplinks/2019/07/interoperability-fix-internet-not-tech-companies)

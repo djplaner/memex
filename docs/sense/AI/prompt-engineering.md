@@ -1,7 +1,11 @@
 ﻿---
+backlinks:
+- title: Implementing number scrabble
+  url: /memex/sense/Representations/implementing-number-scrabble.html
+- title: AI
+  url: /memex/sense/AI/AI.html
 title: Prompt engineering
 ---
-
 ## Types of prompts?
 
 

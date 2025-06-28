@@ -1,11 +1,13 @@
----
+﻿---
+backlinks:
+- title: Plants
+  url: /memex/sense/landscape-garden/plants/plants.html
+tags:
+- gardens, landscape
+- native
 title: Common Rush
-type: "note"
-tags: [ 'gardens, landscape', 'native' ]
+type: note
 ---
-
-
-
 The common rush ([Juncus usitatus](https://en.wikipedia.org/wiki/Juncus_usitatus)) has been found in the dam surrounding [[the-island]].
 
 ## Resources

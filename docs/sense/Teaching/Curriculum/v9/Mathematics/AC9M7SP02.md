@@ -1,11 +1,11 @@
----
-title: AC9M7SP02
-type: "note"
+﻿---
+backlinks:
+- title: Learning Areas
+  url: /memex/sense/Teaching/Curriculum/v9/v9-learning-areas.html
 tags: australian-curriculum
+title: AC9M7SP02
+type: note
 ---
-
-
-
 > classify triangles, quadrilaterals and other polygons according to their side and angle properties; identify and reason about relationships
 
 ??? note "Elaborations"
@@ -17,5 +17,3 @@ tags: australian-curriculum
 ??? note "Achievement Standard Components"
 
 	- _ASMAT713_ - Students classify polygons according to their features and create an algorithm designed to sort and classify shapes.
-
-

@@ -1,4 +1,7 @@
 ﻿---
+backlinks:
+- title: Svelte
+  url: /memex/sense/Web-development/svelte/svelte.html
 title: Svelte tutorial
 ---
 See [[svelte]]

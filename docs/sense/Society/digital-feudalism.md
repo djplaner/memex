@@ -1,4 +1,7 @@
----
+﻿---
+backlinks:
+- title: Society
+  url: /memex/sense/Society/society.html
 title: Digital Feudalism
 ---
 Sources: [Rent to pwn/autoenshittification](https://pluralistic.net/2023/07/24/rent-to-pwn/) - from pluralistic, [Technofeudalism](https://www.penguin.co.uk/books/451795/technofeudalism-by-varoufakis-yanis/9781847927279)

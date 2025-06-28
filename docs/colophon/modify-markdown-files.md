@@ -1,10 +1,16 @@
----
+﻿---
+backlinks:
+- title: Export Wordpress to Markdown
+  url: /memex/colophon/export-wordpress-to-markdown.html
+- title: Convert Wordpress into Memex
+  url: /memex/colophon/convert-wordpress-into-memex.html
+- title: A new day
+  url: /memex/share/blog/2025/a-new-day.html
+tags:
+- colophon
 title: Modify Markdown files
 type: note
-tags: 
-    - colophon
 ---
-
 The second last step of the process to [[convert-wordpress-into-memex|convert my Wordpress blog]] into `mkdocs` generated site. This step modifies the markdown files produced in the  [[export-wordpress-to-markdown]] process and generates new content for the purposes of:
 
 - Modify markdown sourced from Wordpress to tidy up any outdated content/links to make it fit within `mkdocs` requirements.

@@ -1,11 +1,11 @@
----
-title: "Predict Run Investigate Modify Make (PRIMM)"
-type: note
+﻿---
+backlinks:
+- title: Teaching Digital Technologies
+  url: /memex/sense/Teaching/Digital_Technologies/teaching-digital-technologies.html
 tags: teaching, teaching-digital-technologies
+title: Predict Run Investigate Modify Make (PRIMM)
+type: note
 ---
-
-
-
 Builds off the [[use-modify-create]] strategy and [[the-block-model]] to place a focus on reading and understanding code before writing it (e.g. [[use-modify-create#tipp-see]])
 
 | Stage | Description |

@@ -1,4 +1,7 @@
----
+﻿---
+backlinks:
+- title: Nature of Digital Technology (nodt)
+  url: /memex/sense/nodt/nodt.html
 title: 'Ponderings on AI '
 ---
 The rise of chatGPT has seen various ponderings, here's mine.

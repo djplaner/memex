@@ -1,4 +1,11 @@
 ﻿---
+backlinks:
+- title: Nature of Digital Technology (nodt)
+  url: /memex/sense/nodt/nodt.html
+- title: Bricolage
+  url: /memex/sense/Bricolage/bricolage.html
+- title: Digital Weaver
+  url: /memex/sense/computing/digital-weaver.html
 title: Heavy Weight and Light Weight Information Technology
 ---
 Idea generated from Bygstad (2017, p. 180)

@@ -1,4 +1,11 @@
 ﻿---
+backlinks:
+- title: Bush regeneration (Wood duck meadows)
+  url: /memex/sense/landscape-garden/regeneration.html
+- title: Wood duck meadows
+  url: /memex/sense/landscape-garden/wood-duck-meadows.html
+- title: Horse paddock
+  url: /memex/sense/landscape-garden/horse-paddock.html
 tags: wood-duck-meadows
 title: The Circle
 type: zone

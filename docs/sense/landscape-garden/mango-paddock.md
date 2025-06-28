@@ -1,4 +1,17 @@
 ﻿---
+backlinks:
+- title: Wood duck meadows
+  url: /memex/sense/landscape-garden/wood-duck-meadows.html
+- title: Crassocephalum crepidioides (aka Redflower ragleaf, fireweed)
+  url: /memex/sense/landscape-garden/plants/crassocephalum-crepidioides.html
+- title: Mango (Nam Doc Mai) - mango paddock
+  url: /memex/sense/landscape-garden/individual-plants/mango-nam-doc-mai.html
+- title: Individual plants
+  url: /memex/sense/landscape-garden/individual-plants/individual-plants.html
+- title: Mango (Kensington Pride)
+  url: /memex/sense/landscape-garden/individual-plants/mango-kensington-pride.html
+- title: Unknown ficus (mango paddock)
+  url: /memex/sense/landscape-garden/individual-plants/unknown-ficus-mango-paddock.html
 tags: gardens, landscape, wood-duck-meadows
 title: Mango paddock
 type: zone

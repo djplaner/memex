@@ -1,11 +1,11 @@
----
+﻿---
+backlinks:
+- title: Distribution
+  url: /memex/sense/Distribution/distribution.html
+tags: bad, distribution
 title: Subsidiarity
-type: "note"
-tags: bad, distribution 
+type: note
 ---
-
-
-
 An idea I was introduced to by [Col Beer's blog post](https://beerc.wordpress.com/2025/03/14/subsidiarity/). An idea which resonates with the [[distribution]] aspect of the [[bad-mindset]] mindset, and which likely suffers the same challenges. Col offers the following definition:
 
 > The principle of subsidiarity is simple and asserts that decisions should be made at the lowest possible level of governance that can effectively address a given issue (Garrick et al., 2011). Subsidiarity involves the transfer of responsibility and authority from higher management to employees, facilitating greater ownership of tasks and contextual informed decision-making processes

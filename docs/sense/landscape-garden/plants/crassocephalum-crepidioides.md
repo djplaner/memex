@@ -1,19 +1,20 @@
----
-title: Crassocephalum crepidioides (aka Redflower ragleaf, fireweed)
-type: plant
-tags: gardens, weeds
+﻿---
+backlinks:
+- title: Plants
+  url: /memex/sense/landscape-garden/plants/plants.html
 photos:
   1:
-      title: None
-      filename: C04C44A4-683E-4655-B93D-BD52079509A2.heic
-      latitude: -27.539171666666668
-      longitude: 152.055725
-      description: None
-      date: 2025-06-27 14:23:13
-      memexFilename: https://djon.es/assets/memex/sense/landscape-garden/plants/images/crassocephalum-crepidioides/1.jpeg
+    date: 2025-06-27 14:23:13
+    description: None
+    filename: C04C44A4-683E-4655-B93D-BD52079509A2.heic
+    latitude: -27.539171666666668
+    longitude: 152.055725
+    memexFilename: https://djon.es/assets/memex/sense/landscape-garden/plants/images/crassocephalum-crepidioides/1.jpeg
+    title: None
+tags: gardens, weeds
+title: Crassocephalum crepidioides (aka Redflower ragleaf, fireweed)
+type: plant
 ---
-
-
 [Crassocephalum crepidioides](https://en.wikipedia.org/wiki/Crassocephalum_crepidioides) is a naturalised weed in Australia that is present in many tropical/sub-tropical regions. A tall annual herb growing to 1.5m, it has a distinctive red flower head and is often found in disturbed areas, roadsides, and gardens.
 
 ## Wood duck meadow history

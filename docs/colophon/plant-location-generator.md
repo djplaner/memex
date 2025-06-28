@@ -1,11 +1,15 @@
----
+﻿---
+backlinks:
+- title: Computational components
+  url: /memex/colophon/computational-components.html
+- title: Memex - Version 3
+  url: /memex/colophon/version-3-memex-design.html
+tags:
+- colophon
+- computational-components
 title: Plant location generator
-type: "note"
-tags: 
-    - colophon
-    - computational-components
+type: note
 ---
-
 Early experiments with extracting information (about plants) from photos resulting in the design and development of the following:
 
 ## Evolving outcomes

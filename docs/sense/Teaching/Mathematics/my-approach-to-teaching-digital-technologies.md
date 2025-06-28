@@ -1,11 +1,15 @@
----
-title: My approach to teaching digital technologies
-type: "note"
+﻿---
+backlinks:
+- title: Teaching Digital Technologies
+  url: /memex/sense/Teaching/Digital_Technologies/teaching-digital-technologies.html
+- title: Plans for teaching in 2024
+  url: /memex/sense/Teaching/Mathematics/2024-teaching-plans.html
+- title: Teaching implementation
+  url: /memex/sense/Teaching/Implementation/teaching-implementation.html
 tags: teaching, digital-technologies, teaching-digital-technologies
+title: My approach to teaching digital technologies
+type: note
 ---
-
-
-
 A (ever-)growing set of ideas.
 
 To do

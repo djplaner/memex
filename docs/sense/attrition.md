@@ -1,11 +1,13 @@
----
+﻿---
+backlinks:
+- title: Loose notes
+  url: /memex/sense/loose/loose.html
+tags:
+- teaching
+- teaching-quality
 title: Attrition
 type: note
-tags:
-  - teaching
-  - teaching-quality
---- 
-
+---
 - [TEQSA report](http://www.teqsa.gov.au/sites/default/files/AttritionReport_Jun17.pdf) examining 2014 attrition
   > Many of the student-centred factors expected to impact on attrition levels such as ATARs, socio-economic status, and mature-aged entry, do not emerge as having significant impacts on attrition levels overall or in the clusters of institutions identified.
   > The presence of the proportion of students admitted on the basis of VET studies … could be acting as a surrogate for other variables such as ATAR or socio-economic status
@@ -26,5 +28,3 @@ From another [CMM report](https://campusmorningmail.com.au/student-attrition-all
 > Drivers in international-focused mid-size providers were: a lower per centage of full-time academic staff, higher percentage of students admitted on VET qualifications, younger students.
 
 > Drivers in medium-size mixed-discipline providers were: more part-time students, more enrolling from VET, fewer full-time and senior academics on staff.
-
-

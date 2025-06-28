@@ -1,11 +1,13 @@
----
-title: Targeted teaching
-type: "note"
+﻿---
+backlinks:
+- title: Effective pedagogy in mathematics
+  url: /memex/sense/Teaching/Mathematics/effective-pedagogy-in-mathematics.html
+- title: CSER Maths in Schools - Practices and pedagogies
+  url: /memex/sense/Teaching/Mathematics/cser-mooc/cser-practices-and-pedagogies.html
 tags: assessment-for-learning, teaching, teaching-mathematics
+title: Targeted teaching
+type: note
 ---
-
-
-
 A variation/extension of [[assessment-for-learning]] where teacher knowledge (and evidence of that knowledge) about each student's learning is used to adapt [[design-for-learning]].
 
 Suggested it involves

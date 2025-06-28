@@ -1,12 +1,11 @@
-
----
-title: AC9TDI8P11
-type: "note"
+﻿---
+backlinks:
+- title: Learning Areas
+  url: /memex/sense/Teaching/Curriculum/v9/v9-learning-areas.html
 tags: australian-curriculum
+title: AC9TDI8P11
+type: note
 ---
-
-
-
 > select and use a range of digital tools efficiently, including unfamiliar features, to create, locate and communicate content, consistently applying common conventions
 
 ??? note "Elaborations"
@@ -19,5 +18,3 @@ tags: australian-curriculum
 
 	- _ASTEC7808_ - They use a range of digital tools to individually and collaboratively document and manage production processes to safely and responsibly produce designed or digital solutions for the intended purpose.
 	- _ASTECTDI7805_ - They select and use a range of digital tools efficiently and responsibly to create, locate and share content; and to plan, collaborate on and manage projects.
-
-

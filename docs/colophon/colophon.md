@@ -1,9 +1,15 @@
----
-title: Colophon
-type: "note"
+﻿---
+backlinks:
+- title: Welcome
+  url: /memex/index.html
+- title: As We May Think
+  url: /memex/sense/computing/as-we-may-think.html
+- title: Explorations in Foam development
+  url: /memex/sense/Web-development/foam-dev/foam-dev.html
 tags: colophon, about
+title: Colophon
+type: note
 ---
-
 This [[digital-garden]] serves [the author's](https://djon.es/blog/about-2/) personal knowledge management ([[pkm]]) and publishing needs. See below for the how, why, and evolution of this site. [[related-work|Related work]] for more of the inspiration for this work.
 
 ## Why?

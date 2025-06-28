@@ -1,11 +1,11 @@
----
-title: Computational thinking with Scratch
-type: "note"
+﻿---
+backlinks:
+- title: Computational thinking
+  url: /memex/sense/computing/computational-thinking.html
 tags: teaching-digital-technologies, digital-technologies, programming, scratch, computational-thinking
+title: Computational thinking with Scratch
+type: note
 ---
-
-
-
 See: [Harvard "Computational Thinking With Scratch"](https://creativecomputing.gse.harvard.edu/ct/defining.html)
 
 Identifies [concepts](#concepts), [practices](#practices), and [perspectives](#perspectives) for computational thinking with Scratch. Which in turn are used to inform the design of approaches for 
@@ -67,6 +67,3 @@ The shifts in perspectives young people report as they work with Scratch.
 | expressing | realizing that computation is a medium of creation, "I can create." |
 | connecting | recognizing the power of creating with and for others, "I can do different things when I have access to others." |
 | questioning | feeling empowered to ask questions about the world, "I can (use computation to) ask questions to make sense of (computational things in) the world." |
-
-
-

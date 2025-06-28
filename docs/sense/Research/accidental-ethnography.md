@@ -1,14 +1,14 @@
----
+﻿---
+backlinks:
+- title: Research
+  url: /memex/sense/Research/research.html
+tags:
+- research
+- ethnography
+- accidental-ethnography
 title: Accidental ethnography
 type: note
-tags: 
-    - research
-    - ethnography
-    - accidental-ethnography
 ---
-
-
-
 A systematic/formal method for analysing data generated during previous fieldwork/practice to provide "insight into a phenomenon, culture, or way of life" (Levitan et al., 2020, p. 336). Levitan et al (2020) argue it's particularly useful for educational practitioners.
 
 Levitan et al (2020, p. 367) define _accidential_ as
@@ -69,4 +69,3 @@ Relies on 6 practices to address issues of quality and trustworthiness:
 ## References
 
 Levitan, J., Carr-Chellman, D., & Carr-Chellman, A. (2020). Accidental ethnography: A method for practitioner-based education research. *Action Research*, *18*(3), 336--352. <https://doi.org/10.1177/1476750317709078>
-

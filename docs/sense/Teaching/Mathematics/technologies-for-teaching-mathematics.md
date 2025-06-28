@@ -1,9 +1,11 @@
----
-title: Technologies for teaching mathematics
-type: "note"
+﻿---
+backlinks:
+- title: Teaching Mathematics
+  url: /memex/sense/Teaching/Mathematics/teaching-mathematics.html
 tags: teaching,teachingMathematics
+title: Technologies for teaching mathematics
+type: note
 ---
-
 Following [[exploring-drons-definition-of-educational-technology|Dron's definition of technology]] as stuff that orchestrates various phenomena for a purpose - and includes somewhere in the assemblages of technologies some notion of pedagogy.
 
 - [graspable math](https://graspablemath.com/about) - online tool for algebra by manipulation

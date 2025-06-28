@@ -1,4 +1,7 @@
----
+﻿---
+backlinks:
+- title: Open Wc Webcomponent Basics
+  url: /memex/sense/Web-development/open-wc-webcomponent-basics.html
 title: Web Components
 ---
 Definition from [open-wc Web Components basics](https://open-wc.org/codelabs/basics/web-components.html?index=/codelabs/#0)

@@ -1,11 +1,13 @@
----
+﻿---
+backlinks:
+- title: Canvas Learning Journal
+  url: /memex/sense/CASA/CASA/canvas-learning-journal.html
+tags:
+- canvas-learning-journal
+- casa
 title: Log 4 - Canvas learning journal dev
-type: "note"
-tags: [canvas-learning-journal, casa]
+type: note
 ---
-
-
-
 ## Requirement
 
 Method to create and maintain a group set and groups for a course.
@@ -37,4 +39,3 @@ Required input
 
 - group set name
 - description for group
-

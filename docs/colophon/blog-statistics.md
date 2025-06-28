@@ -1,12 +1,18 @@
----
+﻿---
+backlinks:
+- title: Seek
+  url: /memex/seek/seek.html
+- title: Computational components
+  url: /memex/colophon/computational-components.html
+- title: Statistics and Analytics
+  url: /memex/colophon/statistics-and-analytics.html
+tags:
+- colophon
+- statistics
+- analytics
 title: Blog Statistics
 type: note
-tags:
-    - colophon
-    - statistics
-    - analytics
 ---
-
 Implemented as a [[computational-components]]. Two step process
 
 1. `mkdocs-gen-files` generates a YAML file written to document root.

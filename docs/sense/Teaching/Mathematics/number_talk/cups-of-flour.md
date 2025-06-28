@@ -1,11 +1,11 @@
----
-title: Number talk - Cups of flour
-type: "numberTalk"
+﻿---
+backlinks:
+- title: Number talk examples
+  url: /memex/sense/Teaching/Mathematics/number_talk/number-talk-examples.html
 tags: number-talk, mathematics, teaching, fractions
+title: Number talk - Cups of flour
+type: numberTalk
 ---
-
-
-
 Sourced from an example given in Lee & Yeo (2022) written as
 
 > Martin was making play dough. He added 3/4 cup of flour to the bowl. Then he added another 3/6 cup. Is the total amount he used greater than or less than 1 cup? How much flour did he use?

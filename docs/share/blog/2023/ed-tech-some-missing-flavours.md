@@ -1,7 +1,11 @@
 ﻿---
+backlinks:
+- title: Blog posts
+  url: /memex/share/blog/blog-posts.html
+- title: Today's note
+  url: /memex/seek/journal/todays-note.html
 title: Ed tech - some missing flavours
 ---
-
 ## Introduction
 
 [Diana Laurillard](https://scholar.google.com/citations?user=9mNE6XUAAAAJ&hl=en) has suggested that providing teachers with "custom-built digital tools to help them with their ever more complex working environment...could make the critical difference to changing what they are able to do with their students" (2012, p. 222). If you visit the exhibition space at any education conference - especially in this post-pandemic world - it would appear that this need for digital tools has been satisfied. In fact, if you talk to anyone from a large education institution responsible for managing or supporting the use of digital tools you might find that they're struggling to deal with the plethora of available tools. Perhaps even complaining about too much choice.

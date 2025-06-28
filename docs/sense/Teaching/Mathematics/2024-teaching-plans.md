@@ -1,11 +1,11 @@
----
-title: Plans for teaching in 2024
-type: "note"
+﻿---
+backlinks:
+- title: Teaching Mathematics
+  url: /memex/sense/Teaching/Mathematics/teaching-mathematics.html
 tags: teaching
+title: Plans for teaching in 2024
+type: note
 ---
-
-
-
 Dumping ground for various ideas and perhaps eventually outputs
 
 See 

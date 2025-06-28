@@ -1,7 +1,9 @@
----
+﻿---
+backlinks:
+- title: Paper Summaries
+  url: /memex/sense/Paper-Summaries/paper-summaries.html
 title: Pragmatism as a teaching philosophy
 ---
-
 Klockner, K., Shields, P., Pillay, M., & Ames, K. (2021). Pragmatism as a teaching philosophy in the safety sciences: A higher education pedagogy perspective. *Safety Science*, *138*, 105095. <https://doi.org/10.1016/j.ssci.2020.105095>
 
 > Pragmatism is a logical and valuable teaching philosophy which centres on linking theory, research, ideas and actions to multi-disciplinary practical applications. It is embedded in the notion that both multiple stakeholder, and multiple perspectives are required to solve practical safety-oriented problems. Pragmatism links to a reflective practitioner paradigm whereby students are asked to think critically about what they do. (Klockner et al., 2021, p. 1)

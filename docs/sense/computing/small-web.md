@@ -1,11 +1,13 @@
----
+﻿---
+backlinks:
+- title: Alternate conceptions of the web
+  url: /memex/sense/computing/alternate-conceptions-of-the-web.html
+- title: Computing
+  url: /memex/sense/computing/computing.html
+tags: small-web, web-development,
 title: Small Web
 type: note
-tags: small-web, web-development, 
 ---
-
-
-
 A conception of how people engage (including publish) with the web that escapes large corporations (Big Web, Big Tech etc). Different conceptions fo the small web can differ on specific principles or foci.
 
 
@@ -83,5 +85,3 @@ https://news.ycombinator.com/item?id=29768197
 - [Rediscovering the small web](https://neustadt.fr/essays/the-small-web/)
 
     Going back, even to the extent of writing plain HTML. Pointing out the issue with any sort of technical stack, with a static site generator generating error messages due to dependency issues. _Response_ using a stack that I'm using all the time, not just for publishing the site. But he also points out that it won't work for largish sites.
-
-

@@ -1,10 +1,14 @@
----
-title: Know thy student
-type: "note"
+﻿---
+backlinks:
+- title: Sense
+  url: /memex/sense/sense.html
+- title: Providing aggregate student data to instructors
+  url: /memex/sense/know-thy-student/providing-aggregate-student-data-to-instructors.html
 tags:
-    - teaching
+- teaching
+title: Know thy student
+type: note
 ---
-
 ## Path
 
 - [[intellectually-honest-versions-of-it]]

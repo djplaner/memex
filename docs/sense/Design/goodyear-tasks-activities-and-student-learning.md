@@ -1,4 +1,9 @@
 ﻿---
+backlinks:
+- title: The distinction between task and activity
+  url: /memex/sense/Design/task-activity-distinction.html
+- title: Design
+  url: /memex/sense/Design/design.html
 title: Tasks, activities and student learning
 ---
 [Peter Goodyear talk](https://petergoodyear.net/2019/11/06/tasks-activities-and-student-learning/)

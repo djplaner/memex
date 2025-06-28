@@ -1,4 +1,11 @@
 ﻿---
+backlinks:
+- title: Mathematical Examples Generator
+  url: /memex/sense/CASA/mathematical-examples-generator.html
+- title: Technologies for teaching mathematics
+  url: /memex/sense/Teaching/Mathematics/technologies-for-teaching-mathematics.html
+- title: Learner Generated Examples
+  url: /memex/sense/Teaching/Mathematics/learner-generated-examples.html
 title: Across the grain
 ---
 Based on the idea that mathematics has inherent structure. That learning mathematics is best achieved by engaging with and learning to use that structure. Something not often achieved. Watson (2001) suggests that good mathematicians are aware of this structure. They see global similarities in local examples. 

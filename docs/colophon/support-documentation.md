@@ -1,10 +1,12 @@
----
+﻿---
+backlinks:
+- title: Colophon
+  url: /memex/colophon/colophon.html
+tags:
+- colophon
 title: Support documentation
 type: note
-tags: 
-    - colophon
 ---
-
 Memex is a weaving together of numerous different technologies. Below are points to documentation/support sites for these technologies and my attempts to make sense of them.
 
 ## Related documentation/support sites

@@ -1,4 +1,7 @@
 ﻿---
+backlinks:
+- title: Concepts
+  url: /memex/sense/concepts/concepts.html
 title: Education 4.0
 ---
 ## Core elements

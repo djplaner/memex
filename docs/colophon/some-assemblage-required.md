@@ -1,11 +1,15 @@
----
+﻿---
+backlinks:
+- title: Colophon
+  url: /memex/colophon/colophon.html
+- title: Today's note
+  url: /memex/seek/journal/todays-note.html
+tags:
+- colophon
+- bad
 title: Some Assemblage Required
 type: note
-tags:
-    - colophon
-    - bad
 ---
-
 !!! note "🚧  Work in progress 🚧"
 
     Still figuring out the shape and content of this page.

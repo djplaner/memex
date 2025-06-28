@@ -1,11 +1,11 @@
----
-title: PIRAC
-type: "note"
+﻿---
+backlinks:
+- title: Data informed teaching
+  url: /memex/sense/Teaching/data-informed-teaching.html
 tags: teaching,data,analytics
+title: PIRAC
+type: note
 ---
-
-
-
 Resources: [Original IRAC paper](https://djon.es/blog/2013/10/03/the-irac-framework-locating-the-performance-zone-for-learning-analytics/), [Using PIRAC](https://djon.es/blog/2015/01/30/using-the-pirac-thinking-about-an-integrated-dashboard/)
 
 PIRAC (Purpose, Information, Representation, Affordances, Change) is a framework for offering a bit of design guidance for learning analytics first formulated in [Jones et al (2013)](https://djon.es/blog/2013/10/03/the-irac-framework-locating-the-performance-zone-for-learning-analytics/) - much of the following originated in that paper

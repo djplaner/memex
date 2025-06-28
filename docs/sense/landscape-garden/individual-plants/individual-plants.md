@@ -1,11 +1,17 @@
----
+﻿---
+backlinks:
+- title: Wood duck meadows gallery generator
+  url: /memex/colophon/wood-duck-gallery-generator.html
+- title: Wood duck meadows
+  url: /memex/sense/landscape-garden/wood-duck-meadows.html
+- title: Plants
+  url: /memex/sense/landscape-garden/plants/plants.html
+tags:
+- plants
+- wood-duck-meadows
 title: Individual plants
-type: "index"
-tags: [ plants, wood-duck-meadows]
+type: index
 ---
-
-
-
 An index of all the individual [[plants]] we're tracking on [[wood-duck-meadows]]. The list is grouped by zones of the property.
 
 !!! info "Photo gallery"

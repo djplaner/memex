@@ -1,11 +1,16 @@
----
+﻿---
+backlinks:
+- title: Plants
+  url: /memex/sense/landscape-garden/plants/plants.html
+tags:
+- wood-duck-meadows
+- plant
+- introduced
+- tree
+- weed
 title: Manihot Grahamii (Graham's Manihot)
-type: "plant"
-tags: [ 'wood-duck-meadows', 'plant', 'introduced', 'tree', 'weed' ]
+type: plant
 ---
-
-
-
 A [native South American tree](https://en.wikipedia.org/wiki/Manihot_grahamii)
 Listed as an environmental weed (at least [in Queensland](https://apps.des.qld.gov.au/species-search/details/?id=6732))
 

@@ -1,24 +1,33 @@
----
-tags: ['wood-duck-meadows', 'plant', 'native', 'tree']
-title: Harpullia Pendula (Moreton Bay Tulipwood)
-type: plant
+﻿---
+backlinks:
+- title: Bush regeneration (Wood duck meadows)
+  url: /memex/sense/landscape-garden/regeneration.html
+- title: Plants
+  url: /memex/sense/landscape-garden/plants/plants.html
 photos:
   1:
-      date: 2025-04-20 10:10:40
-      description: None
-      filename: 23ACFC5B-12A2-43B3-A1EE-91FBD2E9ACAC.heic
-      latitude: -27.538616666666666
-      longitude: 152.05635
-      memexFilename: images/harpullia-pendula/1.jpeg
-      title: None
+    date: 2025-04-20 10:10:40
+    description: None
+    filename: 23ACFC5B-12A2-43B3-A1EE-91FBD2E9ACAC.heic
+    latitude: -27.538616666666666
+    longitude: 152.05635
+    memexFilename: images/harpullia-pendula/1.jpeg
+    title: None
   2:
-      title: None
-      filename: AD1A218B-07D5-4FF1-A88E-F0C9CA526E4E.heic
-      latitude: -27.538636666666665
-      longitude: 152.05616666666666
-      description: None
-      date: 2025-06-16 14:53:08
-      memexFilename: https://djon.es/assets/memex/sense/landscape-garden/plants/images/harpullia-pendula/2.jpeg
+    date: 2025-06-16 14:53:08
+    description: None
+    filename: AD1A218B-07D5-4FF1-A88E-F0C9CA526E4E.heic
+    latitude: -27.538636666666665
+    longitude: 152.05616666666666
+    memexFilename: https://djon.es/assets/memex/sense/landscape-garden/plants/images/harpullia-pendula/2.jpeg
+    title: None
+tags:
+- wood-duck-meadows
+- plant
+- native
+- tree
+title: Harpullia Pendula (Moreton Bay Tulipwood)
+type: plant
 ---
 [Harpullia pendula](https://en.wikipedia.org/wiki/Harpullia_pendula) (aka Moreton Bay Tulipwood) is a dry rainforest tree endemic to Eastern Australia.
 

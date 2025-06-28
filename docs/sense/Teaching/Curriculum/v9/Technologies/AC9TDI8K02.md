@@ -1,12 +1,11 @@
-
----
-title: AC9TDI8K02
-type: "note"
+﻿---
+backlinks:
+- title: Learning Areas
+  url: /memex/sense/Teaching/Curriculum/v9/v9-learning-areas.html
 tags: australian-curriculum
+title: AC9TDI8K02
+type: note
 ---
-
-
-
 > investigate how data is transmitted and secured in wired and wireless networks including the internet
 
 ??? note "Elaborations"
@@ -19,5 +18,3 @@ tags: australian-curriculum
 
 	- _ASTEC7807_ - They select appropriate hardware for particular tasks, explain how data is transmitted and secured in networks, and identify cyber security threats.
 	- _ASTECTDI7804_ - Students select appropriate hardware for particular tasks, explain how data is transmitted and secured in networks, and identify cyber security threats.
-
-

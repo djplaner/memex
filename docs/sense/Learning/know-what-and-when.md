@@ -1,4 +1,7 @@
----
+﻿---
+backlinks:
+- title: Learning
+  url: /memex/sense/Learning/learning.html
 title: Help the learner know what, when and why to do something
 ---
 A premise to my online and offline work. If the focus for good learning is what the learner does. Then it can be argued that an important first step that the learner know what, when and why to does.

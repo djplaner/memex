@@ -1,7 +1,15 @@
 ﻿---
-title: Design for learning 
+backlinks:
+- title: Design
+  url: /memex/sense/Design/design.html
+- title: The relationships between BAD/SET, CASA, and Gather/Weave
+  url: /memex/sense/CASA/bad_set-casa-gather-weave.html
+- title: Effective teaching
+  url: /memex/sense/Teaching/RTT/rtt-effective-teaching.html
+- title: Targeted teaching
+  url: /memex/sense/Teaching/Assessment/targeted-teaching.html
+title: Design for learning
 ---
-
 _Design for learning_ is another term for learning design. The shift emphasises that learning is entirely dependent on the individual learner on what they do. Learners learn through activity. We cannot design their learning, only design things that help them learn (Goodyear & Dimitriadis, 2013). There is a gap between what we design what they do.
 
 See [[evolution-of-design-for-learning]]

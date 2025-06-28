@@ -1,4 +1,7 @@
----
+﻿---
+backlinks:
+- title: '# Canvas LMS API'
+  url: /memex/sense/Design/canvas/canvas-api.html
 title: Canvas API dev
 ---
 Resources and approaches to using the Canvas API.

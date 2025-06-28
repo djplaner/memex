@@ -1,11 +1,13 @@
----
-title: Crackers
-type: "note"
+﻿---
+backlinks:
+- title: Developing Crackers
+  url: /memex/sense/Python/developing-crackers.html
+- title: Technologies for teaching mathematics
+  url: /memex/sense/Teaching/Mathematics/technologies-for-teaching-mathematics.html
 tags: teaching, teaching-digital-technologies, teaching-mathematics
+title: Crackers
+type: note
 ---
-
-
-
 As described by Cathy Williams on YouCubed's [cracker's page](https://www.youcubed.org/tasks/crackers/), Crackers is the name of a [[low-floor-high-ceiling-wide-walls]] mathematics learning task which is based on a prize from a Cracker Jack box. 
 
 ## The game

@@ -1,4 +1,7 @@
----
+﻿---
+backlinks:
+- title: Learning
+  url: /memex/sense/Learning/learning.html
 title: Carpentaries training course
 ---
 Software Carpentaries [instructor training course](https://carpentries.github.io/instructor-training/) gives a good overview

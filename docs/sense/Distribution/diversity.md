@@ -1,7 +1,9 @@
 ﻿---
-title: Diversity 
+backlinks:
+- title: Distribution
+  url: /memex/sense/Distribution/distribution.html
+title: Diversity
 ---
-
 - [[cultural-collective-brain-hypotheses]]
 
 ## [Joseph Heinrich](https://henrich.fas.harvard.edu/)

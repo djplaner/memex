@@ -1,7 +1,9 @@
 ﻿---
-title: Situational Awareness 
+backlinks:
+- title: Distribution
+  url: /memex/sense/Distribution/distribution.html
+title: Situational Awareness
 ---
-
 ## Perspectives 
 
 - [[distributed-situational-awareness]] (DSA) - SA considered "to be an emergent property of socio-technical systems that is distributed across its human and non-human agents" (Salmon et al, 2022)

@@ -1,12 +1,16 @@
----
+﻿---
+backlinks:
+- title: Colophon
+  url: /memex/colophon/colophon.html
+- title: Alternate conceptions of the web
+  url: /memex/sense/computing/alternate-conceptions-of-the-web.html
+tags:
+- colophon
+- memex
+- web
 title: As We May Think
 type: note
-tags:
-    - colophon
-    - memex
-    - web
 ---
-
 Bush's (1945) article comes from the perspective of a person who directed the work of thousands of US scientists during World War II. A person starting to think about what next. While acknowledging the benefits science has brought the suggestion is made that the methods by which people engage in knowledge management is limited. Based on the latest technology of the period he imagines a device called the Memex which would allow people to store and retrieve information. 
 
 ## Associated trails

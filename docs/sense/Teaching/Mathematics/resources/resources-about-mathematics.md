@@ -1,9 +1,9 @@
+﻿---
+backlinks:
+- title: Teaching Mathematics
+  url: /memex/sense/Teaching/Mathematics/teaching-mathematics.html
+title: Resources delving deeper into mathematics
 ---
-title: Resources delving deeper into mathematics 
----
-
-
-
 ## Other resources 
 
 - [Using an evidence base to understand, reduce and manage mathematics anxiety](https://www.teachermagazine.com/au_en/articles/using-an-evidence-base-to-understand-reduce-and-manage-mathematics-anxiety)
@@ -48,5 +48,3 @@ Other media:
 -   Documentaries on math, such as "The Story of Maths" by Marcus du Sautoy
 -   Math games and puzzles, such as "Sudoku" and "Kakuro"
 -   Interactive websites and apps, such as "Desmos" and "Geogebra"
-
-

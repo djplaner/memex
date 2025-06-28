@@ -1,12 +1,13 @@
----
-title: Brain Plasticity
-type: "note"
+﻿---
+backlinks:
+- title: Learning
+  url: /memex/sense/Learning/learning.html
+- title: Leet speak reading
+  url: /memex/sense/Teaching/Mathematics/leet-speak-reading.html
 tags: learning, plasticity, brain-plasticity
+title: Brain Plasticity
+type: note
 ---
-
-
-
-
 ## London taxi drivers have "big brains"
 
 Maguire et al (2006) use structural MRIs to demonstrate the London taxi drivers' increasing experience navigating the streets of London results in their brains changing 
@@ -16,5 +17,3 @@ Maguire et al (2006) use structural MRIs to demonstrate the London taxi drivers'
 ## References
 
 Maguire, E. A., Woollett, K., & Spiers, H. J. (2006). London taxi drivers and bus drivers: A structural MRI and neuropsychological analysis. *Hippocampus*, *16*(12), 1091--1101. <https://doi.org/10.1002/hipo.20233>
-
-

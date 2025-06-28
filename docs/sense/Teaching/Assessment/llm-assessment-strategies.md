@@ -1,7 +1,9 @@
----
+﻿---
+backlinks:
+- title: Assessment
+  url: /memex/sense/Teaching/Assessment/assessment.html
 title: LLM Assessment Strategies
 ---
-
 Place to think out loud and develop ideas. Goal being to be
 >  helping to produce assessment design that is intellectually robust, manageable, and resistant to AI technologies.
 

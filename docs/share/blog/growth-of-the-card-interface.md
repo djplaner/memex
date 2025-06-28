@@ -1,4 +1,7 @@
 ﻿---
+backlinks:
+- title: Blog posts
+  url: /memex/share/blog/blog-posts.html
 title: Reflecting on the spread of the Card Interface for Blackboard Learn
 ---
 ```toml

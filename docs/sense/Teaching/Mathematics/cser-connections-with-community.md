@@ -1,11 +1,11 @@
----
-title: CSER Math Connections with Community
-type: "note"
+﻿---
+backlinks:
+- title: 'Maths in Schools Online: Year 7 - 10 course'
+  url: /memex/sense/Teaching/Mathematics/maths-in-schools.html
 tags: cser, teaching, teaching-mathematics, cser-mathematics
+title: CSER Math Connections with Community
+type: note
 ---
-
-
-
 Summary/reflections on the third module in the CSER Math in Schools MOOC.
 
 ## Maths and numeracy in our world

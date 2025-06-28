@@ -1,11 +1,11 @@
----
-title: All models are wrong
-type: "note"
+﻿---
+backlinks:
+- title: Statistics and Analytics
+  url: /memex/colophon/statistics-and-analytics.html
 tags: philosophy
+title: All models are wrong
+type: note
 ---
-
-
-
 Related: [Wikipedia "All models are wrong"](https://en.wikipedia.org/wiki/All_models_are_wrong)
 
 Box (1979) includes the following section heading and first two sentences

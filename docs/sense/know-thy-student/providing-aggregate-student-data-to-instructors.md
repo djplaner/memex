@@ -1,7 +1,9 @@
----
+﻿---
+backlinks:
+- title: Know thy student
+  url: /memex/sense/CASA/know-thy-student.html
 title: Providing aggregate student data to instructors
 ---
-
 Provide some nice rationale for [[know-thy-student]] and links somewhat to PAM but doesn't touch on the more contextualised/orchestration focus of [[know-thy-student]] 
 
 > The overarching goal of teaching is not to deliver information to faceless crowds, but instead to cause learning to occur among enrolled students. Courses and classroom activities should be developed on the basis of helping students discover and construct knowledge, not on the basis of what the instructor wants to talk about. And importantly, to develop successful learning activities, instructors must have some insight into their students' relevant knowledge base, and they must also be sensitive to their students' sociocultural approaches to education. Otherwise, instructors risk more than just appearing "out of touch" — they risk developing ineffective educational experiences. Course planning involves predicting the effects of learning activities on a group of students, and to make successful predictions, we must have relevant knowledge about those whose behaviors we are trying to predict.7

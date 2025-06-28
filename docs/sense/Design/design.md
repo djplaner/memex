@@ -1,4 +1,9 @@
----
+﻿---
+backlinks:
+- title: Sense
+  url: /memex/sense/sense.html
+- title: Forward-oriented design
+  url: /memex/sense/concepts/forward-oriented-design.html
 title: Design
 ---
 Bubble holding misc. thoughts about design.

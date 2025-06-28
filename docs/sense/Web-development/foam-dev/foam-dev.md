@@ -1,12 +1,22 @@
----
+﻿---
+backlinks:
+- title: Seek
+  url: /memex/seek/seek.html
+- title: Note taking strategies
+  url: /memex/colophon/note-taking-strategies.html
+- title: FLOSS and FOSS
+  url: /memex/sense/computing/floss.html
+- title: Web development
+  url: /memex/sense/Web-development/web-development.html
+- title: 'SvelteKit and Github pages '
+  url: /memex/sense/Web-development/foam-dev/sveltekit-github-pages.html
+tags:
+- foam
+- web-development
+- colophon
 title: Explorations in Foam development
 type: note
-tags:
-    - foam
-    - web-development
-    - colophon
 ---
-
 ## About
 
 [Foam](https://foambubble.github.io/foam/) is a key tool used to maintain this site. Much of the design thinking and implementation of this site is covered in the [[colophon|About page]]. This page now documents experiments with various technologies that might be used with Foam/Mkdocs.

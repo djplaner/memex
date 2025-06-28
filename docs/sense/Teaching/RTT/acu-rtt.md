@@ -1,11 +1,13 @@
----
-title: ACU's Return to Teaching course
-type: "note"
+﻿---
+backlinks:
+- title: 'Teaching '
+  url: /memex/sense/Teaching/teaching.html
+- title: Teaching Professional Development
+  url: /memex/sense/Teaching/Mathematics/teaching-professional-development.html
 tags: teaching
+title: ACU's Return to Teaching course
+type: note
 ---
-
-
-
 In December 2023 I enrolled in the Return to Teaching course offered by the Australian Catholic University. This is a collection of notes and other resources related to that course.
 
 | Module | Description | Status |
@@ -39,5 +41,3 @@ Starts with [Ken Robinson](https://en.wikipedia.org/wiki/Ken_Robinson_(education
 ### Canvas
 
 With module navigation is a pain. e.g. not being able to access a ToC of a module from a page within the module.
-
-

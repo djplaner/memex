@@ -1,11 +1,11 @@
----
-title: AC9M9ST03
-type: "note"
+﻿---
+backlinks:
+- title: Learning Areas
+  url: /memex/sense/Teaching/Curriculum/v9/v9-learning-areas.html
 tags: australian-curriculum
+title: AC9M9ST03
+type: note
 ---
-
-
-
 > represent the distribution of multiple data sets for numerical variables using comparative representations; compare data distributions with consideration of centre, spread and shape, and the effect of outliers on these measures
 
 ??? note "Elaborations"
@@ -17,5 +17,3 @@ tags: australian-curriculum
 ??? note "Achievement Standard Components"
 
 	- _ASMAT916_ - They compare and analyse the distributions of multiple numerical data sets, choose representations, describe features of these data sets using summary statistics and the shape of distributions, and consider the effect of outliers.
-
-

@@ -1,11 +1,19 @@
----
-title: Rich mathematical tasks
-type: "note"
+﻿---
+backlinks:
+- title: Explicit versus inquiry
+  url: /memex/sense/Teaching/Mathematics/explicit-versus-inquiry.html
+- title: My approach to teaching mathematics
+  url: /memex/sense/Teaching/Mathematics/my-approach-to-teaching-mathematics.html
+- title: Mathematical mindsets
+  url: /memex/sense/Teaching/Mathematics/mathematical-mindsets.html
+- title: Technologies for teaching mathematics
+  url: /memex/sense/Teaching/Mathematics/technologies-for-teaching-mathematics.html
+- title: Mathematical thinking tasks
+  url: /memex/sense/Teaching/Mathematics/mathematical-thinking-tasks.html
 tags: teaching-mathematics, mathematical-mindsets, big-ideas-in-mathematics
+title: Rich mathematical tasks
+type: note
 ---
-
-
-
 Sources to explore:
 
 - [Thinking Mathematically](https://nrich.maths.org/8963) - Jon Mason related resources, activities etc.

@@ -1,11 +1,11 @@
----
-title: CSER Maths in Schools - Content in Action
-type: "note"
+﻿---
+backlinks:
+- title: 'Maths in Schools Online: Year 7 - 10 course'
+  url: /memex/sense/Teaching/Mathematics/maths-in-schools.html
 tags: cser, cser-maths-in-schools, cser-getting-started, teaching-mathematics
+title: CSER Maths in Schools - Content in Action
+type: note
 ---
-
-
-
 Place where the CSER Math in Schools MOOC divest into the six strands of mathematics in the Australian Curriculum. For the course we're meant to explore only 2. My intent is to explore all 6 - at least eventually.
 
 Initially - Number & Statistics (Year 8) will be the main focus

@@ -1,4 +1,7 @@
 ﻿---
+backlinks:
+- title: ASCILITE 2022
+  url: /memex/sense/Conferences/ascilite2022/ascilite-2022.html
 title: 'Sensemaking - ASCILITE 2022 '
 ---
 - [[meddler-in-the-middle]] 

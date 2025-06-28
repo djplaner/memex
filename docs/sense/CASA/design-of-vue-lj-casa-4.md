@@ -1,11 +1,11 @@
----
-title: "Design of root components - (Canvas Learning Journal CASA 4)"
-type: "note"
+﻿---
+backlinks:
+- title: Canvas Learning Journal - Vue implementation
+  url: /memex/sense/CASA/vue-canvas-learning-journal.html
 tags: web-development, javascript, vue, canvas, casa
+title: Design of root components - (Canvas Learning Journal CASA 4)
+type: note
 ---
-
-
-
 Outline the design of the root components and overall high level application design for _Canvas Learning Journal_.
 
 ## main.ts
@@ -222,4 +222,3 @@ The data model for the components.
 Perform a big GraphQL query of Canvas API data that is provided to the rest of the components. Act as a central, reactive store for that information. 
 
 Provide CLJ specific methods used by the other components.
-

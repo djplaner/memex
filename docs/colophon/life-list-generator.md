@@ -1,11 +1,13 @@
----
+﻿---
+backlinks:
+- title: Computational components
+  url: /memex/colophon/computational-components.html
+tags:
+- colophon
+- birding
 title: Life list generator
-type: "note"
-tags: 
-    - colophon
-    - birding
+type: note
 ---
-
 [Python script](https://github.com/djplaner/memex/blob/master/util/generators/lifeList.py) to generate a birding [life-list](../sense/birdwatching/life-list.md) and a [life-list-gallery](../sense/birdwatching/life-list-gallery.md) from an [eBird](https://ebird.org/home) CSV file and a collection of relevant photos. 
 
 ## History

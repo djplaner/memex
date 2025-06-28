@@ -1,4 +1,9 @@
 ﻿---
+backlinks:
+- title: Affordances of digital technology
+  url: /memex/sense/Affordances/affordances-of-digital-technology.html
+- title: Distribution
+  url: /memex/sense/Distribution/distribution.html
 title: Assemblage (Jones, 2015)
 ---
 # Assemblage (Jones, 2015)

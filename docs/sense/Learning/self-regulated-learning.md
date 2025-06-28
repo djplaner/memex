@@ -1,4 +1,7 @@
 ﻿---
+backlinks:
+- title: Learning
+  url: /memex/sense/Learning/learning.html
 title: Self Regulated Learning
 ---
 ## Zimmerman

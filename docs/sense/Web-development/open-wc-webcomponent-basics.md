@@ -1,4 +1,7 @@
 ﻿---
+backlinks:
+- title: My First LitElement Web Component
+  url: /memex/sense/Web-development/my-first-litelement-web-component.html
 title: Open Wc Webcomponent Basics
 ---
 Working through [this CodeLab](https://open-wc.org/codelabs/basics/web-components.html?index=/codelabs/#0)

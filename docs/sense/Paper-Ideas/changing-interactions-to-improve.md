@@ -1,5 +1,8 @@
 ﻿---
-title: 'Changing interactions to improve L&T'
+backlinks:
+- title: Paper Ideas
+  url: /memex/sense/Paper-Ideas/paper-ideas.html
+title: Changing interactions to improve L&T
 ---
 ## Spark
 

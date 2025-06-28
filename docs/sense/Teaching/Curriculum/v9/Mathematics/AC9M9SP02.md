@@ -1,12 +1,12 @@
----
-title: AC9M9SP02
-type: "note"
+﻿---
+backlinks:
+- title: Learning Areas
+  url: /memex/sense/Teaching/Curriculum/v9/v9-learning-areas.html
 tags: australian-curriculum
 template: math.html
+title: AC9M9SP02
+type: note
 ---
-
-
-
 > apply the enlargement transformation to shapes and objects using dynamic geometry software as appropriate; identify and explain aspects that remain the same and those that change
 
 ??? note "Elaborations"
@@ -18,5 +18,3 @@ template: math.html
 
 	- _ASMAT912_ - They use mathematical modelling to solve practical problems involving direct proportion, ratio and scale, evaluating the model and communicating their methods and findings.
 	- _ASMAT914_ - They apply the enlargement transformation to images of shapes and objects, and interpret results.
-
-

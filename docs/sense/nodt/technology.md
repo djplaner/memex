@@ -1,4 +1,8 @@
 ﻿---
+backlinks:
+- title: 'Learning technology as contested terrain: Insights from teaching academics
+    and learning designers in Australian higher education'
+  url: /memex/sense/Paper-Summaries/learning-technologies-contested-terrain.html
 title: Technology
 ---
 ## Invented after you were born

@@ -1,13 +1,13 @@
----
-title: Enabling computational bricolage 
-type: note
+﻿---
+backlinks:
+- title: Bricolage
+  url: /memex/sense/Bricolage/bricolage.html
 tags:
-    - bricolage
-    - affordances
+- bricolage
+- affordances
+title: Enabling computational bricolage
+type: note
 ---
-
-
-
 Early and hopefully emerging attempt to conceptualise the challenge of how a computing professional (i.e. me) can enable others to engage in computational bricolage. To work towards the vision of Papert and Kay of the [[protean]] nature of digital-technologies.
 
 ## Broad methods 

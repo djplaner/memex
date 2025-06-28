@@ -1,4 +1,7 @@
----
+﻿---
+backlinks:
+- title: Distribution
+  url: /memex/sense/Distribution/distribution.html
 title: Instrumental Genesis
 ---
 How does a tool become something that is used by someone to achieve a meaningful task? How does a tool become an instrument?

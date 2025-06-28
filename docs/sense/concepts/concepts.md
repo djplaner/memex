@@ -1,4 +1,7 @@
----
+﻿---
+backlinks:
+- title: Sense
+  url: /memex/sense/sense.html
 title: Concepts
 ---
 Holding space

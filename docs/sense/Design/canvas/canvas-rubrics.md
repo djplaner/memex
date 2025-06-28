@@ -1,4 +1,7 @@
----
+﻿---
+backlinks:
+- title: Design
+  url: /memex/sense/Design/design.html
 title: Canvas Rubrics
 ---
 ## Misc resources

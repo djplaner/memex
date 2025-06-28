@@ -1,6 +1,13 @@
 ﻿---
-title: Mathematical structure
+backlinks:
+- title: My Teaching Philosophy
+  url: /memex/sense/Teaching/my-teaching-philosophy.html
+- title: Teaching Mathematics
+  url: /memex/sense/Teaching/Mathematics/teaching-mathematics.html
+- title: CSER MiS - Getting started module
+  url: /memex/sense/Teaching/Mathematics/cser-mooc/cser-getting-started.html
 template: math.html
+title: Mathematical structure
 ---
 Nascent idea about the importance of understanding mathematical structures to being able to teach it effectively. But begs the question which mathematical structure? There's probably not one?
 

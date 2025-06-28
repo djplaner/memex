@@ -1,13 +1,13 @@
----
+﻿---
+backlinks:
+- title: FLOSS and FOSS
+  url: /memex/sense/computing/floss.html
+tags:
+- floss
+- computing
 title: Floss, A Partial Antidote To Social Catastrophe
 type: note
-tags:
-    - floss
-    - computing
 ---
-
-
-
 Summary and reflections on [_Floss, A partial antidote to social catastrophe_](https://tjex.net/posts/floss-a-partial-antidote-to-social-catastrophe) with the structure 
 
 ## Summary

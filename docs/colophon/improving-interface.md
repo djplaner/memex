@@ -1,11 +1,13 @@
----
+﻿---
+backlinks:
+- title: Memex - Version 3
+  url: /memex/colophon/version-3-memex-design.html
+tags:
+- colophon
+- interface
 title: Improving memex's interface
 type: note
-tags:
-    - colophon
-    - interface
 ---
-
 As it stood, memex was using a fairly standard [Material for Mkdocs interface](https://squidfunk.github.io/mkdocs-material/getting-started/) (i.e. one ripped entirely from Material for MkDocs). Aim here is to spend some time developing the interface into something more purposeful for memex.
 
 Major tasks
@@ -32,5 +34,3 @@ Some initial tweaks to the home page
 Look to support my own sense-making/record keeping and to help keep family informed. Secondary purpose provide information that others may find useful.
 
 Personal sense making tasks
-
-

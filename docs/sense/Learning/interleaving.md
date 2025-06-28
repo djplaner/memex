@@ -1,7 +1,9 @@
----
+﻿---
+backlinks:
+- title: Effective learning strategies
+  url: /memex/sense/Learning/effective-learning-strategies.html
 title: Interleaving
 ---
-
 Like [[spaced-practice]], interleaving is a scheduling technique shown to increase learning. The distinction between interleaving and [[spaced-practice]] can be blurry.
 
 Traditional scheduling as students attempting many versions of the same problem in a given session (aka _blocking_). 

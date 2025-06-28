@@ -1,11 +1,13 @@
----
-title: AC9M8ST03
-type: "note"
+﻿---
+backlinks:
+- title: MAT081C-2024
+  url: /memex/sense/Teaching/Implementation/2024/MAT081C/mat081c-2024.html
+- title: Learning Areas
+  url: /memex/sense/Teaching/Curriculum/v9/v9-learning-areas.html
 tags: australian-curriculum
+title: AC9M8ST03
+type: note
 ---
-
-
-
 > compare variations in distributions and proportions obtained from random samples of the same size drawn from a population and recognise the effect of sample size on this variation
 
 ??? note "Elaborations"
@@ -19,5 +21,3 @@ tags: australian-curriculum
 
 	- _ASMAT816_ - They conduct statistical investigations and explain the implications of obtaining data through sampling.
 	- _ASMAT818_ - They compare the variation in distributions of random samples of the same and different size from a given population with respect to shape, measures of central tendency and range.
-
-

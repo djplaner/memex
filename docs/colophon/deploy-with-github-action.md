@@ -1,11 +1,13 @@
----
-title: Deploy with GitHub Action
-type: "note"
+﻿---
+backlinks:
+- title: Colophon
+  url: /memex/colophon/colophon.html
 tags:
-    - colophon
-    - about
----  
-
+- colophon
+- about
+title: Deploy with GitHub Action
+type: note
+---
 The new Mac is a bit dodgy with large commits/pushes to GitHub. Which is a part of the standard deploy process with [[why-mkdocs-foam]]. 
 
 

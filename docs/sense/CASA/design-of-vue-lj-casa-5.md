@@ -1,11 +1,11 @@
----
-title: "Development tasks - Canvas Learning Journal"
-type: "note"
+﻿---
+backlinks:
+- title: Canvas Learning Journal - Vue implementation
+  url: /memex/sense/CASA/vue-canvas-learning-journal.html
 tags: web-development, javascript, vue, canvas, casa
+title: Development tasks - Canvas Learning Journal
+type: note
 ---
-
-
-
 List of current development tasks for the [Canvas Learning Journal](https://github.com/djplaner/canvas-learning-journal)
 
 ## Current work

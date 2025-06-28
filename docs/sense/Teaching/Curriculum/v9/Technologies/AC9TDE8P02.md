@@ -1,13 +1,11 @@
-
----
-title: AC9TDE8P02
-type: "note"
+﻿---
+backlinks:
+- title: Learning Areas
+  url: /memex/sense/Teaching/Curriculum/v9/v9-learning-areas.html
 tags: australian-curriculum
+title: AC9TDE8P02
+type: note
 ---
-
-
-
-
 > generate, test, iterate and communicate design ideas, processes and solutions using technical terms and graphical representation techniques, including using digital tools
 
 Elaborations
@@ -22,5 +20,3 @@ Elaborations
 - _AC9TDE8P02_E4_ - producing annotated concept sketches and drawings, using technical terms, scale, symbols, pictorial and aerial views to draw environments; production drawings, perspective drawings, orthogonal drawings; patterns and templates to explain product design ideas
 
 - _AC9TDE8P02_E5_ - documenting and communicating the generation and development and selection of design ideas for an intended audience, for example developing a digital portfolio with images and text which clearly communicate each step of a design process
-
-

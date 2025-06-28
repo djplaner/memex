@@ -1,4 +1,7 @@
----
+﻿---
+backlinks:
+- title: Society
+  url: /memex/sense/Society/society.html
 title: Horizon Repors
 ---
 ## Value and criticism

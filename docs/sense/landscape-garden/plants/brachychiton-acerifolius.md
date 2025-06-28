@@ -1,18 +1,20 @@
----
-title: Brachychiton acerifolius (Illawarra flame tree)
-type: plant
-tags: plants, trees, native
+﻿---
+backlinks:
+- title: Plants
+  url: /memex/sense/landscape-garden/plants/plants.html
 photos:
   1:
-      title: None
-      filename: B3000A64-F372-4D75-A68F-0FD1B98A93B2.heic
-      latitude: -27.53902
-      longitude: 152.05587783333334
-      description: None
-      date: 2025-06-27 13:39:04
-      memexFilename: https://djon.es/assets/memex/sense/landscape-garden/plants/images/brachychiton-acerifolius/1.jpeg
+    date: 2025-06-27 13:39:04
+    description: None
+    filename: B3000A64-F372-4D75-A68F-0FD1B98A93B2.heic
+    latitude: -27.53902
+    longitude: 152.05587783333334
+    memexFilename: https://djon.es/assets/memex/sense/landscape-garden/plants/images/brachychiton-acerifolius/1.jpeg
+    title: None
+tags: plants, trees, native
+title: Brachychiton acerifolius (Illawarra flame tree)
+type: plant
 ---
-
 See also: [Wikipedia](https://en.wikipedia.org/wiki/Brachychiton_acerifolius)
 
 Discovered as a young extant tree on [[the-island]]. A large (30-35m) deciduous tree known for red bell-shaped flowers, especially when it covers the tree when it is leafless.

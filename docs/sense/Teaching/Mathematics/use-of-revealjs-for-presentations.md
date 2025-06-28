@@ -1,11 +1,11 @@
----
-title: Use of reveal.js for presentations
-type: "note"
+﻿---
+backlinks:
+- title: My approach to teaching mathematics
+  url: /memex/sense/Teaching/Mathematics/my-approach-to-teaching-mathematics.html
 tags: teaching, teaching-mathematics, teaching-digital-technologies
+title: Use of reveal.js for presentations
+type: note
 ---
-
-
-
 The plan is to use [reveal.js](https://revealjs.com/) for teaching/presentations because
 
 - It fits more with the whole [[digital-humanism]]/avoidance of [[enshittification|Platform decay]] - personally and as walking the talk

@@ -1,12 +1,11 @@
-
----
-title: AC9TDE8K01
-type: "note"
+﻿---
+backlinks:
+- title: Learning Areas
+  url: /memex/sense/Teaching/Curriculum/v9/v9-learning-areas.html
 tags: australian-curriculum
+title: AC9TDE8K01
+type: note
 ---
-
-
-
 > analyse how people in design and technologies occupations consider ethical and sustainability factors to design and produce products, services and environments
 
 Elaborations
@@ -21,5 +20,3 @@ Elaborations
 - _AC9TDE8K01_E4_ - researching the rights and responsibilities of those working in design and technologies occupations, for example taking into account First Nations Australian protocols and Indigenous cultural and intellectual property rights
 
 - _AC9TDE8K01_E5_ - analysing the ethical and social requirements when designing solutions for cultural groups including their involvement and consultation, for example designing a solution with community members from other cultural backgrounds or those who usually communicate in a language other than English
-
-

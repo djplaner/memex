@@ -1,13 +1,19 @@
----
+﻿---
+backlinks:
+- title: Colophon
+  url: /memex/colophon/colophon.html
+- title: Note taking strategies
+  url: /memex/colophon/note-taking-strategies.html
+- title: Alternate conceptions of the web
+  url: /memex/sense/computing/alternate-conceptions-of-the-web.html
+tags:
+- digital garden
+- personal knowledge management
+- web
+- pkm
 title: Digital Garden
 type: note
-tags:
-    - digital garden
-    - personal knowledge management
-    - web
-    - pkm
 ---
-
 A digital garden is a personal website located somewhere between a personal blog and a wiki. A collection of notes/essays/ideas. Evolutionary, exploratory, and forever incomplete the notes/essays/ideas of a digital garden are linked through contextual associations, rather than organised by publication date, categories, or other formal scheme.
 
 [Non-technical gardening](https://maggieappleton.com/nontechnical-gardening) argues that digital gardens are:
@@ -34,5 +40,4 @@ Mike Caufield [2015 presentation/blog post dives deep](https://hapgood.us/2015/1
 
 - [My blog is a digital garden, not a blog](https://joelhooks.com/digital-garden)
 - [Digital garden as a static website](https://stereobooster.com/posts/digital-garden-as-static-website/) - Detailed article looking at features of a digital garden, including publishing. See also - [astro digital garden](https://astro-digital-garden.stereobooster.com)
-- [Useful modern tools for static websites](https://stereobooster.com/posts/useful-modern-tools-for-static-websites/) 
-
+- [Useful modern tools for static websites](https://stereobooster.com/posts/useful-modern-tools-for-static-websites/)

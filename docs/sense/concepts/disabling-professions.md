@@ -1,11 +1,11 @@
----
-title: Disabling professions
-type: "note"
+﻿---
+backlinks:
+- title: Concepts
+  url: /memex/sense/concepts/concepts.html
 tags: sense, concepts
+title: Disabling professions
+type: note
 ---
-
-
-
 [Disabling Professions](https://archive.org/details/disablingprofess0000unse) is a book/essay by Ivan Illich apparently published in a book (Illich et al, 1977) with a collection of related essays.
 
 
@@ -18,5 +18,3 @@ Where does the recent shift to everything as a service fit? A further abstractio
 ## References
 
 Illich, I., Zola, I. K., McKnight, J., Caplan, J., & Shaiken, H. (1977). *Disabling Professions*. Marion Boyars.
-
-

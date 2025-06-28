@@ -1,14 +1,14 @@
----
+﻿---
+backlinks:
+- title: Computing
+  url: /memex/sense/computing/computing.html
+tags:
+- learning
+- computer-science
+- computing
 title: Learning computer science
 type: note
-tags:
-    - learning
-    - computer-science
-    - computing
 ---
-
-
-
 Ad hoc approaches to (re-)learning computer science.
 
 ## 2025

@@ -1,4 +1,9 @@
 ﻿---
+backlinks:
+- title: Design
+  url: /memex/sense/Design/design.html
+- title: My approach to teaching mathematics
+  url: /memex/sense/Teaching/Mathematics/my-approach-to-teaching-mathematics.html
 title: norman-activity-centered-design
 ---
 ## Norman

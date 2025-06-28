@@ -1,4 +1,7 @@
 ﻿---
+backlinks:
+- title: Sharing design knowledge
+  url: /memex/sense/Sharing-design-knowledge/sharing-design-knowledge.html
 title: Expertise for content development
 ---
 Jegan & Eswaran (2004) suggest that
@@ -13,5 +16,3 @@ And constructive templates
 ## References
 
 Jegan, T., & Eswaran, C. (2004). Patterns for E-learning content development. Journal of Interactive Learning Research, 15(2), 117-.
-
-

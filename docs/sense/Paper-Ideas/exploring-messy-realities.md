@@ -1,4 +1,7 @@
----
+﻿---
+backlinks:
+- title: Paper Ideas
+  url: /memex/sense/Paper-Ideas/paper-ideas.html
 title: Exploring the Messy Realities of Post-Digital Education
 ---
 ## Background

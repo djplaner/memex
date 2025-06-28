@@ -1,11 +1,19 @@
----
-title: My approach to teaching mathematics
-type: "note"
+﻿---
+backlinks:
+- title: Teaching Mathematics
+  url: /memex/sense/Teaching/Mathematics/teaching-mathematics.html
+- title: Plans for teaching in 2024
+  url: /memex/sense/Teaching/Mathematics/2024-teaching-plans.html
+- title: Teaching implementation
+  url: /memex/sense/Teaching/Implementation/teaching-implementation.html
+- title: Goompi model
+  url: /memex/sense/Teaching/Mathematics/cser-mooc/goompi-model.html
+- title: Activity focused mathematics teaching (design for learning)
+  url: /memex/sense/Teaching/Mathematics/activity-types/activity-centered-math-teaching.html
 tags: teaching, teaching-mathematics
+title: My approach to teaching mathematics
+type: note
 ---
-
-
-
 This will never be finished. Perhaps not even particularly useful, but I need to start making concrete some initial ideas.
 
 Probably also applicable to other subjects.

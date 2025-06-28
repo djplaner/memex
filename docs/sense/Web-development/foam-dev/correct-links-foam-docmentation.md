@@ -1,12 +1,12 @@
----
+﻿---
+backlinks:
+- title: Explorations in Foam development
+  url: /memex/sense/Web-development/foam-dev/foam-dev.html
+tags:
+- foam
 title: Correct links to Foam documentation
 type: note
-tags:
-    - foam
 ---
-
-
-
 While working on [[generate-material-for-mkdocs-site]] a number of links in the Foam documentation were found to be broken. Thanks to `mkdocs` build process and the `RoamLinks` plugin. Aim is to see if these can be corrected.
 
 ## Unresolved issues

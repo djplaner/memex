@@ -1,4 +1,7 @@
 ﻿---
+backlinks:
+- title: Affordances of digital technology
+  url: /memex/sense/Affordances/affordances-of-digital-technology.html
 title: Convivality
 ---
 Ivan Illich - _Tools for Convivality_

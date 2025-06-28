@@ -1,11 +1,16 @@
----
+﻿---
+backlinks:
+- title: Contributing to Foam
+  url: /memex/sense/Web-development/foam-dev/contributing-to-foam.html
+- title: Foam extension entry file
+  url: /memex/sense/Web-development/foam-dev/foam-code/foam-extension-entry-file.html
+tags:
+- foam-dev
+- foam-code
+- floss
 title: Understanding the Foam Code Base
 type: note
-tags: [foam-dev, foam-code, floss]
 ---
-
-
-
 Combining the [VSCode extension documentation](https://code.visualstudio.com/api) with the [Foam source code](https://foambubble.github.io/foam/) to gain some understanding of how VSCode extensions/Foam work.
 
 ## Questions to answer

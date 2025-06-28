@@ -1,4 +1,7 @@
 ﻿---
+backlinks:
+- title: Computing
+  url: /memex/sense/computing/computing.html
 title: Data Structures and Algorithms
 ---
 ## Data Structures and Algorithms in Python
@@ -10,4 +13,3 @@ Goodrich, M. T., Tamassia, R., & Goldwasser, M. (2013). *Data Structures and Alg
 Chapters
 
 - DSA-Python-Intro
-

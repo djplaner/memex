@@ -1,4 +1,7 @@
 ﻿---
+backlinks:
+- title: Sense
+  url: /memex/sense/sense.html
 title: Society
 ---
 Insights and opinions into the nature of Society.

@@ -1,11 +1,11 @@
----
-title: Shrinkflation
-type: "note"
+﻿---
+backlinks:
+- title: Teaching Mathematics
+  url: /memex/sense/Teaching/Mathematics/teaching-mathematics.html
 tags: mathematics
+title: Shrinkflation
+type: note
 ---
-
-
-
 Resources
 
 - [Dec, 2023 ABC news online article](https://www.abc.net.au/news/2023-12-02/shrinkflation-is-happening-how-it-works/103176208)
@@ -37,4 +37,3 @@ Misc other quotes
 | Adjusted price | $3.00 | $3.00 | $3.30 |
 | Observed movement |  | 0.0% | 0.0% |
 | Adjusted movement |  | 0.0% | 10.0% |
-

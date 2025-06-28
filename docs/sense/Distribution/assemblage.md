@@ -1,12 +1,21 @@
----
+﻿---
+backlinks:
+- title: Some Assemblage Required
+  url: /memex/colophon/some-assemblage-required.html
+- title: A new day
+  url: /memex/share/blog/2025/a-new-day.html
+- title: Nature of Digital Technology (nodt)
+  url: /memex/sense/nodt/nodt.html
+- title: Distribution
+  url: /memex/sense/Distribution/distribution.html
+- title: Today's note
+  url: /memex/seek/journal/todays-note.html
+tags:
+- distribution
+- assemblage
 title: Assemblage
 type: note
-tags: 
-    - distribution
-    - assemblage
 ---
-
-
 > The word in English fails to capture the meaning of the original agencement, a term that refers to the action of matching or fitting together a set of components (agencer), as well as to the result of such an action: an ensemble of parts that mesh together well. (DeLanda, 2015, p. 1)
 
 ## Most recent explorations
@@ -123,5 +132,3 @@ Müller, M. (2015). Assemblages and Actor-networks: Rethinking Socio-material Po
 ## References
 
 DeLanda, M. (2015). Introduction. In *Assemblage Theory*. [https://edinburghuniversitypress.com/media/resources/9781474413640\_Assemblage\_Theory\_-\_Introduction.pdf](https://edinburghuniversitypress.com/media/resources/9781474413640_Assemblage_Theory_-_Introduction.pdf)
-
-

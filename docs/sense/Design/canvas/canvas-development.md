@@ -1,4 +1,7 @@
 ﻿---
+backlinks:
+- title: '# Canvas LMS API'
+  url: /memex/sense/Design/canvas/canvas-api.html
 title: Canvas Development
 ---
 Placeholder for all sorts of information related to developing for //community.canvaslms.com/t5/Canvas

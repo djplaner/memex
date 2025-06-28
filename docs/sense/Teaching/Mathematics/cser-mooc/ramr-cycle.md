@@ -1,11 +1,11 @@
---- 
-title: Reality, Abstraction, Mathematics, Reality (RAMR) cycle
-type: "note"
+﻿---
+backlinks:
+- title: CSER Maths in Schools - Practices and pedagogies
+  url: /memex/sense/Teaching/Mathematics/cser-mooc/cser-practices-and-pedagogies.html
 tags: teaching-mathematics, teaching, goompi-model
+title: Reality, Abstraction, Mathematics, Reality (RAMR) cycle
+type: note
 ---
-
-
-
 A pedagogical framework for design for learning arising from a view of teaching being more powerful if it reveals the underlying structure of mathematics and relates it to the (mathematics) knowledge within local cultures/communities. A view based on the [[goompi-model]]
 
 Four phases (RAMR)

@@ -1,4 +1,7 @@
----
+﻿---
+backlinks:
+- title: Design
+  url: /memex/sense/Design/design.html
 title: Atomic Design
 ---
 [Book](https://atomicdesign.bradfrost.com/table-of-contents/) by Brad Frost

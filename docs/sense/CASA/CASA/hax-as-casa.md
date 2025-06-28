@@ -1,9 +1,11 @@
+﻿---
+backlinks:
+- title: CASA Gallery
+  url: /memex/sense/CASA/casa-gallery.html
+- title: Today's note
+  url: /memex/seek/journal/todays-note.html
+title: H-A-X as CASA?
 ---
-title: H-A-X as CASA? 
----
-
-
-
 ## Introduction 
 
 [Bryan Ollendyke's (btopro)](https://github.com/btopro) project [HAX](https://haxtheweb.org/) provides a very advanced and interesting approach that might be a great example for implementing [[casa]]. Is it?

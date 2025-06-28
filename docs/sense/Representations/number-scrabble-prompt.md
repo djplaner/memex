@@ -1,4 +1,7 @@
----
+﻿---
+backlinks:
+- title: Number Scrabble - web implementation
+  url: /memex/sense/CASA/number-scrabble-web.html
 title: Prompt exploration for preparing number scrabble
 type: note
 ---

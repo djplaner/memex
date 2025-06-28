@@ -1,12 +1,13 @@
-
----
-title: AC9TDI8P14
-type: "note"
+﻿---
+backlinks:
+- title: DIG071A-2024
+  url: /memex/sense/Teaching/Implementation/2024/DIG071A/DIG071A-2024.html
+- title: Learning Areas
+  url: /memex/sense/Teaching/Curriculum/v9/v9-learning-areas.html
 tags: australian-curriculum
+title: AC9TDI8P14
+type: note
 ---
-
-
-
 > investigate and manage the digital footprint existing systems and student solutions collect and assess if the data is essential to their purpose
 
 ??? note "Elaborations"
@@ -19,5 +20,3 @@ tags: australian-curriculum
 
 	- _ASTEC7809_ - Students manage their digital footprint.
 	- _ASTECTDI7806_ - Students manage their digital footprint.
-
-

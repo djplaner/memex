@@ -1,11 +1,11 @@
----
-title: Design for the margins
-type: "note"
+﻿---
+backlinks:
+- title: Technology Changes us
+  url: /memex/sense/Teaching/Digital_Technologies/technology-changes-us.html
 tags: design, technology
+title: Design for the margins
+type: note
 ---
-
-
-
 Idea from Agre (1997) which I'm still finding out and thinking about. There is a lot here which resonates with experiences with [[bad-mindset]]
 
 My current take

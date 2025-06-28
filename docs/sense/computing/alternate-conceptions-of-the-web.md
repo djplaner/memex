@@ -1,13 +1,19 @@
----
+﻿---
+backlinks:
+- title: Seek
+  url: /memex/seek/seek.html
+- title: Related work
+  url: /memex/colophon/related-work.html
+- title: Computing
+  url: /memex/sense/computing/computing.html
+tags:
+- computing
+- web
+- digital-humanism
+- digital-renovator
 title: Alternate conceptions of the web
 type: note
-tags: 
-    - computing
-    - web
-    - digital-humanism
-    - digital-renovator
 ---
-
 As of 2025, most individuals' experience with the web is through spaces controlled by large corporations (aka Big Web/Big Tech/Web 2.0). Fighting against this are various alternate conceptions with a significant emphasis on [[digital-humanism]].
 
 [[as-we-may-think]] (Bush, 1945)

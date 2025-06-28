@@ -1,12 +1,18 @@
----
+﻿---
+backlinks:
+- title: Bush regeneration (Wood duck meadows)
+  url: /memex/sense/landscape-garden/regeneration.html
+- title: Improving soil
+  url: /memex/sense/landscape-garden/strategies/improving-soil.html
+- title: Regeneration techniques
+  url: /memex/sense/landscape-garden/techniques/regeneration-techniques.html
+tags:
+- regeneration
+- techniques
+- weed-tea
 title: Weed tea
 type: note
-tags: 
-    - regeneration
-    - techniques
-    - weed-tea
 ---
-
 Placing weeds in a bucket of water to use fermentation to create a nutrient-rich liquid fertiliser.
 
 !!! note "An absence of empirical evidence?"
@@ -34,5 +40,3 @@ Use
 
 - [Weed tea - a free natural fermented fertiliser](https://www.littleecofootprints.com/2015/09/weed-tea.html)
 - [Weed fertilizer tea - does it really work](https://www.youtube.com/watch?v=tB7cxfzPFQc)
-
-

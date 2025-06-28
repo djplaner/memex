@@ -1,11 +1,11 @@
----
-title: Movement breaks
-type: "note"
+﻿---
+backlinks:
+- title: 'Teaching '
+  url: /memex/sense/Teaching/teaching.html
 tags: teaching, behaviour-classroom-management
+title: Movement breaks
+type: note
 ---
-
-
-
 ## Misc lists
 
 - [Edutopia for high school](https://www.edutopia.org/article/17-brain-breaks-tailored-for-high-schoolers) - none resonate at first glance
@@ -19,5 +19,3 @@ tags: teaching, behaviour-classroom-management
     - Includes [menu links to brain breaks](https://education.nsw.gov.au/teaching-and-learning/learning-remotely/wellbeing/wellbeing-at-home/general-information/brain-breaks) with some possibilities
 
         - Pressure point massage - stand, massage pressure point between thumb and pointer
-
-

@@ -1,11 +1,13 @@
----
-title: Instructions
-type: "note"
+﻿---
+backlinks:
+- title: Computing
+  url: /memex/sense/computing/computing.html
+- title: CSER Maths in Schools - Practices and pedagogies
+  url: /memex/sense/Teaching/Mathematics/cser-mooc/cser-practices-and-pedagogies.html
 tags: computing, teaching-digital-technology, teaching, documentation
+title: Instructions
+type: note
 ---
-
-
-
 > In the course of everyday life people repeatedly have to do tasks they have never done before and use systems or technologies that they have not previously encountered. _Instrutions_ are the most common method for communicating to people how to perform those unfamiliar procedural tasks (Eiriksdottir and Catrambone, 2011, p. 749).
 
 The increasing complexity of products might mean that the ability to provide instruction on how to use that complexity may be a limiting factor.

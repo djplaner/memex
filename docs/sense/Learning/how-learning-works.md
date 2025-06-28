@@ -1,11 +1,13 @@
----
-title: How learning works
-type: "note"
+﻿---
+backlinks:
+- title: Learning
+  url: /memex/sense/Learning/learning.html
+- title: Big ideas in mathematics
+  url: /memex/sense/Teaching/Mathematics/big-ideas-in-mathematics.html
 tags: learning
+title: How learning works
+type: note
 ---
-
-
-
 [[motivation]]
 
 ## 7 Principles

@@ -1,11 +1,15 @@
----
-title: Worked examples
-type: "note"
+﻿---
+backlinks:
+- title: 'Teaching '
+  url: /memex/sense/Teaching/teaching.html
+- title: Instructions
+  url: /memex/sense/computing/instructions.html
+- title: Effective pedagogy in mathematics
+  url: /memex/sense/Teaching/Mathematics/effective-pedagogy-in-mathematics.html
 tags: teaching, teaching-mathematics, teaching-digital-technology
+title: Worked examples
+type: note
 ---
-
-
-
 Worked examples (Eiriksdottir & Catrambone, 2011) 
 
 - typically associated with well-structured domains; and
@@ -68,4 +72,3 @@ Eiriksdottir, E., & Catrambone, R. (2011). Procedural Instructions, Principles, 
 Renkl, A. (2014). Toward an Instructionally Oriented Theory of Example-Based Learning. *Cognitive Science*, *38*(1), 1--37. <https://doi.org/10.1111/cogs.12086>
 
 Zhu, X., & Simon, H. A. (1987). Learning Mathematics From Examples and by Doing. *Cognition and Instruction*, *4*(3), 137--166. [https://doi.org/10.1207/s1532690xci0403\_1](https://doi.org/10.1207/s1532690xci0403_1)
-

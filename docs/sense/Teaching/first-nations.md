@@ -1,11 +1,11 @@
----
-title: First Nations
-type: "note"
+﻿---
+backlinks:
+- title: 'Teaching '
+  url: /memex/sense/Teaching/teaching.html
 tags: teaching
+title: First Nations
+type: note
 ---
-
-
-
 Collection of reflections and resources on connecting and working with First Nations peoples and cultures in the context of teaching.
 
 ## Resources

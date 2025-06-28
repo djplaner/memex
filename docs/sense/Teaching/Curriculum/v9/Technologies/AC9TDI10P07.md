@@ -1,12 +1,13 @@
-
----
-title: AC9TDI10P07
-type: "note"
+﻿---
+backlinks:
+- title: DIG101A-2024
+  url: /memex/sense/Teaching/Implementation/2024/DIG101A/dig101a-2024.html
+- title: Learning Areas
+  url: /memex/sense/Teaching/Curriculum/v9/v9-learning-areas.html
 tags: australian-curriculum
+title: AC9TDI10P07
+type: note
 ---
-
-
-
 > design and prototype the user experience of a digital system
 
 ??? note "Elaborations"
@@ -18,5 +19,3 @@ tags: australian-curriculum
 ??? note "Achievement Standard Components"
 
 	- _ASTECTDI91001_ - By the end of Year 10 students develop and modify innovative digital solutions, decompose real-world problems, and critically evaluate alternative solutions against stakeholder elicited user stories.
-
-

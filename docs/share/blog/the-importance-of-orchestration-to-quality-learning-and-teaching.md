@@ -1,7 +1,9 @@
----
+﻿---
+backlinks:
+- title: Blog posts
+  url: /memex/share/blog/blog-posts.html
 title: The importance of orchestration to quality learning and teaching
 ---
-
 ??Is it orchestration or assembly/re-aranging, participative orchestration, find a word and replace "re-arrange" below with that word
 
 You've just entered the room pictured below for the first time. Quite soon you'll be teaching the first tutorial for your first year course.  Quite possibly, the first University tutorial for these students. What do you do?

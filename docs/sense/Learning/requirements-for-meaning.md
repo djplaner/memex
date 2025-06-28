@@ -1,7 +1,9 @@
----
+﻿---
+backlinks:
+- title: Learning
+  url: /memex/sense/Learning/learning.html
 title: Requirements for meaning
 ---
-
 An O'Reilly article on machine learning for designers quotes a 1970s education related book on what is required for meaning. In this context, the connection is being made to machine learning.  To know "all" requires engagement and exposure over time.
 
 > Or, as the educational philosopher Patricia Carini said, “To let meaning occur requires time and the possibility for the rich and varied relationships among things to become evident.” [source](https://www.oreilly.com/learning/machine-learning-for-designers)

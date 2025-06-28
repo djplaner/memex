@@ -1,4 +1,9 @@
 ﻿---
+backlinks:
+- title: Learning
+  url: /memex/sense/Learning/learning.html
+- title: Learning computer science
+  url: /memex/sense/computing/learning-cs/learning-computer-science.html
 tags:
 - learning
 - journal

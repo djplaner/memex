@@ -1,11 +1,11 @@
----
-title: AC9M9SP01
-type: "note"
+﻿---
+backlinks:
+- title: Learning Areas
+  url: /memex/sense/Teaching/Curriculum/v9/v9-learning-areas.html
 tags: australian-curriculum
+title: AC9M9SP01
+type: note
 ---
-
-
-
 > recognise the constancy of the sine, cosine and tangent ratios for a given angle in right-angled triangles using properties of similarity
 
 ??? note "Elaborations"
@@ -18,5 +18,3 @@ tags: australian-curriculum
 
 	- _ASMAT911_ - Students apply Pythagoras’ theorem and use trigonometric ratios to solve problems involving right-angled triangles.
 	- _ASMAT912_ - They use mathematical modelling to solve practical problems involving direct proportion, ratio and scale, evaluating the model and communicating their methods and findings.
-
-

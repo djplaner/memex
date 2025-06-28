@@ -1,12 +1,13 @@
-
----
-title: AC9TDI8K04
-type: "note"
+﻿---
+backlinks:
+- title: Crackers
+  url: /memex/sense/Teaching/Mathematics/crackers.html
+- title: Learning Areas
+  url: /memex/sense/Teaching/Curriculum/v9/v9-learning-areas.html
 tags: australian-curriculum
+title: AC9TDI8K04
+type: note
 ---
-
-
-
 > explain how and why digital systems represent integers in binary
 
 ??? note "Elaborations"
@@ -18,5 +19,3 @@ tags: australian-curriculum
 
 	- _ASTEC7803_ - They acquire, interpret and model with spreadsheets and represent data with integers and binary.
 	- _ASTECTDI7802_ - Students acquire, interpret and model data with spreadsheets and represent data with integers and binary.
-
-

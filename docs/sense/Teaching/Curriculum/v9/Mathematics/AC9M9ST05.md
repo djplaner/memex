@@ -1,11 +1,11 @@
----
-title: AC9M9ST05
-type: "note"
+﻿---
+backlinks:
+- title: Learning Areas
+  url: /memex/sense/Teaching/Curriculum/v9/v9-learning-areas.html
 tags: australian-curriculum
+title: AC9M9ST05
+type: note
 ---
-
-
-
 > plan and conduct statistical investigations involving the collection and analysis of different kinds of data; report findings and discuss the strength of evidence to support any conclusions
 
 ??? note "Elaborations"
@@ -17,5 +17,3 @@ tags: australian-curriculum
 ??? note "Achievement Standard Components"
 
 	- _ASMAT916_ - They compare and analyse the distributions of multiple numerical data sets, choose representations, describe features of these data sets using summary statistics and the shape of distributions, and consider the effect of outliers.
-
-

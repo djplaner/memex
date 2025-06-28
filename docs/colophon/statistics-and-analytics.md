@@ -1,9 +1,11 @@
----
+﻿---
+backlinks:
+- title: Colophon
+  url: /memex/colophon/colophon.html
+tags: colophon, statistics, analytics
 title: Statistics and Analytics
 type: note
-tags: colophon, statistics, analytics
 ---
-
 Exploring alternatives for adding
 
 - statistics - analysis of site structure; and,

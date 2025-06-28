@@ -1,10 +1,22 @@
- ---
- title: Learning
- type: index
- tags:
-    - learning
+﻿---
+backlinks:
+- title: Sense
+  url: /memex/sense/sense.html
+- title: Help the learner know what, when and why to do something
+  url: /memex/sense/Learning/know-what-and-when.html
+- title: Guided Didactic Conversation aka teaching-learning conversations
+  url: /memex/sense/Learning/guided-didactic-conversation.html
+- title: Pedagogical Paradigms
+  url: /memex/sense/Learning/pedagogical-paradigms.html
+- title: '"Cop Shit"'
+  url: /memex/sense/Learning/cop-shit.html
+- title: Situated cognition
+  url: /memex/sense/Distribution/situated-cognition.html
+tags:
+- learning
+title: Learning
+type: index
 ---
- 
 ## Learners and learning
 
 - [[student-learning-profiles]]

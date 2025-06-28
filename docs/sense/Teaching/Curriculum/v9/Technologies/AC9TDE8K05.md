@@ -1,13 +1,11 @@
-
----
-title: AC9TDE8K05
-type: "note"
+﻿---
+backlinks:
+- title: Learning Areas
+  url: /memex/sense/Teaching/Curriculum/v9/v9-learning-areas.html
 tags: australian-curriculum
+title: AC9TDE8K05
+type: note
 ---
-
-
-
-
 > analyse how properties of foods determine preparation and presentation techniques when designing solutions for healthy eating
 
 Elaborations
@@ -20,5 +18,3 @@ Elaborations
 - _AC9TDE8K05_E3_ - investigating the relationship between food preparation techniques and the impact on nutrient value including how a recipe can be modified to enhance health benefits, for example stir-frying, steaming vegetables, leaving skin on vegetables or removing skin from chicken
 
 - _AC9TDE8K05_E4_ - analysing food preparation techniques used in different cultures including those from countries across Asia and the impact of these on nutrient retention, aesthetics, taste and palatability, for example stir-frying, steaming, poaching and using a wide variety of vegetables
-
-

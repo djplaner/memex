@@ -1,13 +1,12 @@
----
-title: Indices and logarithms
-type: "mathContent"
-tags: teaching, mathematics, indicies, logarithms 
+﻿---
+backlinks:
+- title: Mathematical Content Knowledge
+  url: /memex/sense/Teaching/Mathematics/mathCK/mathematical-content-knowledge.html
+tags: teaching, mathematics, indicies, logarithms
 template: math.html
+title: Indices and logarithms
+type: mathContent
 ---
-
-
-
-
 ## Motivation
 
 Indicies provide an easy way to write repeated multiplication. 
@@ -76,4 +75,3 @@ Support $a > 0$
 ## Resources
 
 - [AMSI module on INDICIES AND LOGARITHMS](https://amsi.org.au/teacher_modules/indices_and_logarithms.html) *
-

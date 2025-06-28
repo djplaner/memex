@@ -1,11 +1,17 @@
----
+﻿---
+backlinks:
+- title: Bush regeneration (Wood duck meadows)
+  url: /memex/sense/landscape-garden/regeneration.html
+- title: Plants
+  url: /memex/sense/landscape-garden/plants/plants.html
+tags:
+- wood-duck-meadows
+- native
+- plant
+- tree
 title: Macadamia
-type: "plant"
-tags: [ 'wood-duck-meadows', 'native', 'plant', 'tree' ]
+type: plant
 ---
-
-
-
 As [per Wikipedia](https://en.wikipedia.org/wiki/Macadamia) 
 
 > **_Macadamia_** is a genus of four species of trees in the flowering plant family Proteaceae.

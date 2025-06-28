@@ -1,4 +1,9 @@
----
+﻿---
+backlinks:
+- title: To Read
+  url: /memex/seek/to-read.html
+- title: Loose notes
+  url: /memex/sense/loose/loose.html
 title: Problems with Modular Thinking
 ---
 **TODO**

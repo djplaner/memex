@@ -1,14 +1,19 @@
----
+﻿---
+backlinks:
+- title: Note taking strategies
+  url: /memex/colophon/note-taking-strategies.html
+- title: Enabling computational bricolage
+  url: /memex/sense/Bricolage/enabling-computational-bricolage.html
+- title: Bricolage
+  url: /memex/sense/Bricolage/bricolage.html
+tags:
+- end-user-programming
+- digital-technology
+- affordances
+- nodt
 title: End-user programming
 type: note
-tags:
-    - end-user-programming
-    - digital-technology
-    - affordances
-    - nodt
 ---
-
-
 Enabling the people using software to modify the software to better suit their contextual needs. Extends or enabled by the [[protean]] nature of digital technology - one of the key [[affordances-of-digital-technology]]. Related to [[diy-software-development-literature]].
 
 Interesting the use of "user", potentially an individual term. Each user should be able to program, but the [90/9/1 rule](https://en.wikipedia.org/wiki/1%25_rule) and similar would suggest that only a small percentage of users will actually do so. Should the focus be more community focused - end-user community programming? Enabling the full community of users to inform and benefit from those within the community that do program?

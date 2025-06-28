@@ -1,7 +1,15 @@
----
+﻿---
+backlinks:
+- title: Canvas Learning Journal - Vue implementation
+  url: /memex/sense/CASA/vue-canvas-learning-journal.html
+- title: CASA Gallery
+  url: /memex/sense/CASA/casa-gallery.html
+- title: Log 3 - Canvas learning journal
+  url: /memex/sense/CASA/CASA/log-3-canvas-learning-journal.html
+- title: Canvas learning journal - log 2
+  url: /memex/sense/CASA/CASA/log-2-canvas-learning-journal.html
 title: Canvas Learning Journal
 ---
-
 Document exploration and design of a [[learning-journal]] [[casa]] for Canvas.
 
 - 1701LHS, 1712LHS, 7714LAW

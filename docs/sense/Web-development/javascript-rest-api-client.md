@@ -1,11 +1,13 @@
----
-title: "Javascript REST API Client"
-type: "note"
+﻿---
+backlinks:
+- title: Design of the VUE Learning Journal CASA
+  url: /memex/sense/CASA/design-of-vue-lj-casa-1.html
+- title: Web development
+  url: /memex/sense/Web-development/web-development.html
 tags: javascript, web-development, rest-api, client
+title: Javascript REST API Client
+type: note
 ---
-
-
-
 Figuring out good methods - and choosing one to use in [[canvas-collections]] - for making REST API requests from a web application.
 
 Possible resources

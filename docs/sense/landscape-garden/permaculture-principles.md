@@ -1,11 +1,13 @@
----
-title: Permaculture Principles
-type: "note"
+﻿---
+backlinks:
+- title: Bush regeneration (Wood duck meadows)
+  url: /memex/sense/landscape-garden/regeneration.html
+- title: Permaculture
+  url: /memex/sense/landscape-garden/permaculture.html
 tags: sense, landscape, regeneration, permaculture
+title: Permaculture Principles
+type: note
 ---
-
-
-
 1. [Observe & interact](https://permacultureprinciples.com/permaculture-principles/_1/).
 2. [Catch and store energy](https://permacultureprinciples.com/permaculture-principles/_2/).
 3. [Obtain a yield](https://permacultureprinciples.com/permaculture-principles/_3/). 
@@ -18,5 +20,3 @@ tags: sense, landscape, regeneration, permaculture
 10. [Use and value diversity](https://permacultureprinciples.com/permaculture-principles/_10/).
 11. [Use edges and value the marginal](https://permacultureprinciples.com/permaculture-principles/_11/).
 12. [Creatively use and respond to change](https://permacultureprinciples.com/permaculture-principles/_12/).
-
-

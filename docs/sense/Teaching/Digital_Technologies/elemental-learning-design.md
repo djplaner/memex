@@ -1,11 +1,13 @@
----
-title: Elemental learning design
-type: "note"
+﻿---
+backlinks:
+- title: Unpicking technologies education
+  url: /memex/sense/Teaching/Digital_Technologies/unpicking-technologies-education.html
+- title: Teaching Digital Technologies
+  url: /memex/sense/Teaching/Digital_Technologies/teaching-digital-technologies.html
 tags: learning, teaching, teaching-digital-technologies
+title: Elemental learning design
+type: note
 ---
-
-
-
 Resources:
 
 - [Digital Hubs' elemental learning design page](https://www.digitaltechnologieshub.edu.au/teach-and-assess/effective-pedagogies/learning-design/)
@@ -19,5 +21,3 @@ Resources:
 | Learning construction | Learning input always paired with this opportunity for students to play/constuct etc. |
 | Learning demo | Learners share what they've learned |
 | Learning reflection | Learners reflect on themselves, mindset, skillset and toolset |
-
-

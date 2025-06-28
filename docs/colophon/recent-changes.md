@@ -1,11 +1,17 @@
----
+﻿---
+backlinks:
+- title: Timeline of changes
+  url: /memex/timeline-of-changes.html
+- title: Colophon
+  url: /memex/colophon/colophon.html
+- title: Computational components
+  url: /memex/colophon/computational-components.html
+tags:
+- colophon
+- computational-component
 title: Recent changes
 type: computational-component
-tags: 
-    - colophon
-    - computational-component
 ---
-
 Implements methods to visualise the most recent changes made to the site (via its git repository) using differing methods, including:
 
 1. [x] [Table of _x_ most recent changes](#table-of-recent-changes)

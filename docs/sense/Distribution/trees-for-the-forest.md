@@ -1,4 +1,9 @@
 ﻿---
+backlinks:
+- title: Forest for the trees
+  url: /memex/sense/Distribution/forest-for-the-trees.html
+- title: Distribution
+  url: /memex/sense/Distribution/distribution.html
 title: Trees for the forest
 ---
 One of two initial observations ([[forest-for-the-trees]] being the other) of an education system's attempts to improve learning and teaching at scale. Both are side effects of using a standardised, top-down, reductionist approach to a complex problem (see also [[ateleogical-versus-teleological]])

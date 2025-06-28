@@ -1,4 +1,7 @@
----
+﻿---
+backlinks:
+- title: Learning
+  url: /memex/sense/Learning/learning.html
 title: '"Cop Shit"'
 ---
 Originally from [blog post by Jeffrey Moro](https://jeffreymoro.com/blog/2020-02-13-against-cop-shit/). I came across Jeffrey's post via [this Audrey Watters "presentation"](http://hackeducation.com/2020/07/20/surveillance). Both writing in the US context.

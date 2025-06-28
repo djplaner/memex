@@ -1,11 +1,25 @@
----
-title: Explicit teaching
-type: "note"
+﻿---
+backlinks:
+- title: High impact teaching strategies
+  url: /memex/sense/Teaching/high-impact-teaching-strategies.html
+- title: Three acts of a mathematical story
+  url: /memex/sense/Teaching/Mathematics/three-acts-of-a-mathematical-story.html
+- title: Explicit versus inquiry
+  url: /memex/sense/Teaching/Mathematics/explicit-versus-inquiry.html
+- title: Technologies for teaching mathematics
+  url: /memex/sense/Teaching/Mathematics/technologies-for-teaching-mathematics.html
+- title: Differentiation - Mathematics
+  url: /memex/sense/Teaching/Mathematics/differentiation-mathematics.html
+- title: What do mathematicians do?
+  url: /memex/sense/Teaching/Mathematics/what-do-mathematicians-do.html
+- title: Mathematical thinking tasks
+  url: /memex/sense/Teaching/Mathematics/mathematical-thinking-tasks.html
+- title: CSER Maths in Schools - Practices and pedagogies
+  url: /memex/sense/Teaching/Mathematics/cser-mooc/cser-practices-and-pedagogies.html
 tags: teaching, teaching-mathematics
+title: Explicit teaching
+type: note
 ---
-
-
-
 Aims to minimise cognitive load and its ramifications (e.g. misinterpretations) by presenting carefully planned sequences of instruction to suit the learning outcomes.
 
 _Explicit teaching_ is seen (by some) as an umbrella term covering different models, including:

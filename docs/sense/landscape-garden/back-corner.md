@@ -1,4 +1,9 @@
 ﻿---
+backlinks:
+- title: Wood duck meadows
+  url: /memex/sense/landscape-garden/wood-duck-meadows.html
+- title: Solanum mauritianum (aka Wild tobacco tree)
+  url: /memex/sense/landscape-garden/plants/solanum-mauritianum.html
 tags: wood-duck-meadows
 title: The back corner
 type: zone

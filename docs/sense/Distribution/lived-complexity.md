@@ -1,4 +1,7 @@
----
+﻿---
+backlinks:
+- title: Distribution
+  url: /memex/sense/Distribution/distribution.html
 title: '# Lived complexity'
 ---
 ## Lived complexity

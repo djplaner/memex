@@ -1,7 +1,13 @@
 ﻿---
-title: Digital Transformation 
+backlinks:
+- title: Computing
+  url: /memex/sense/computing/computing.html
+- title: Why do digital transformations fail?
+  url: /memex/sense/computing/why-do-digital-transformations-fail.html
+- title: Skills Framework for the Information Age
+  url: /memex/sense/computing/profession/skills-framework-for-the-information-age.html
+title: Digital Transformation
 ---
-
 ## Views on Digital Transformation
 
 ### [[skills-framework-for-the-information-age]] - [(SFIA) Digitial transformation - skills at a glance](https://sfia-online.org/en/sfia-8/sfia-views/digital-transformation?path=/glance)

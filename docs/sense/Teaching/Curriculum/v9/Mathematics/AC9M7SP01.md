@@ -1,11 +1,11 @@
----
-title: AC9M7SP01
-type: "note"
+﻿---
+backlinks:
+- title: Learning Areas
+  url: /memex/sense/Teaching/Curriculum/v9/v9-learning-areas.html
 tags: australian-curriculum
+title: AC9M7SP01
+type: note
 ---
-
-
-
 > represent objects in 2 dimensions; discuss and reason about the advantages and disadvantages of different representations
 
 ??? note "Elaborations"
@@ -19,5 +19,3 @@ tags: australian-curriculum
 ??? note "Achievement Standard Components"
 
 	- _ASMAT714_ - They represent objects two-dimensionally in different ways, describing the usefulness of these representations.
-
-

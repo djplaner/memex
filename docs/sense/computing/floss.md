@@ -1,14 +1,16 @@
----
-title: FLOSS and FOSS 
+﻿---
+backlinks:
+- title: Sense
+  url: /memex/sense/sense.html
+- title: Computing
+  url: /memex/sense/computing/computing.html
+tags:
+- computing
+- floss
+- foss
+title: FLOSS and FOSS
 type: note
-tags: 
-    - computing 
-    - floss 
-    - foss
 ---
-
-
-
 _Free-Libre and Open Source Software_  ([FLOSS](https://www.gnu.org/philosophy/floss-and-foss.en.html)) is a somewhat contested term for talking about the various perspectives on open source software - 
 
 A key distinction is the use of the French/Spanish word _libre_ to emphasise "free" as in _freedom_ not the absence of cash cost.

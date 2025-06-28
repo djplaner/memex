@@ -1,13 +1,11 @@
-
----
-title: AC9TDE10K04
-type: "note"
+﻿---
+backlinks:
+- title: Learning Areas
+  url: /memex/sense/Teaching/Curriculum/v9/v9-learning-areas.html
 tags: australian-curriculum
+title: AC9TDE10K04
+type: note
 ---
-
-
-
-
 > analyse and make judgements on the ethical, secure and sustainable production and marketing of food and fibre enterprises
 
 Elaborations
@@ -24,5 +22,3 @@ Elaborations
 - _AC9TDE10K04_E5_ - considering the meaning of food and water security and how they may influence design decisions for creating preferred futures, for example using water-efficient irrigation, protected cropping where crops are grown under cover to increase production over a longer period or choosing drought-resistant varieties of plants and animals
 
 - _AC9TDE10K04_E6_ - examining the marketing chain of a range of agricultural products and outlining the effect of product processing and advertising on demand and price including the impact of cash crops on communities
-
-

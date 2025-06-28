@@ -1,12 +1,28 @@
----
+﻿---
+backlinks:
+- title: Leveraging digital technologies
+  url: /memex/seek/leveraging-digital-technologies.html
+- title: Some Assemblage Required
+  url: /memex/colophon/some-assemblage-required.html
+- title: Sense
+  url: /memex/sense/sense.html
+- title: Mental models are highly personal
+  url: /memex/sense/loose/mental-models-are-highly-personal.html
+- title: Technology
+  url: /memex/sense/nodt/technology.html
+- title: Digital technologies and impact of bad/absent schema
+  url: /memex/sense/nodt/digital-technologies-and-impact-of-badabsent-schema.html
+- title: Concrete Lounges
+  url: /memex/sense/nodt/concrete-lounges.html
+- title: Digital Weaver
+  url: /memex/sense/computing/digital-weaver.html
+tags:
+- digital-technology
+- affordances
+- generativity
 title: Nature of Digital Technology (nodt)
 type: note
-tags:
-    - digital-technology
-    - affordances
-    - generativity
 ---
-
 In a [2016 presentation](https://djon.es/blog/2016/05/30/digital-technology-ignorance-and-its-implications-for-learning-and-teaching/) I wove together ideas about the nature of digital technology from various authors and streams of literature. The intent was not to ignore the socio-cultural aspects of technology in action, but to explore if many of the issues with digital technology (especially in education) arises from an ignorance of the nature of digital technology. Not a good staring point.
 
 Understanding the nature of digital technology is not digital literacy, the ability to code, or understanding how to use a computer (or other digital device). It's an attempt to get at something a little more fundamental and abstract about all digital technology. Not the specifics of a particular piece of software or device.

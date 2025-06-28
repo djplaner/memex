@@ -1,10 +1,18 @@
----
-title: Seek
-type: "index"
+﻿---
+backlinks:
+- title: Personal Knowledge Management
+  url: /memex/pkm.html
+- title: Welcome
+  url: /memex/index.html
+- title: Thinking about 'memex v2'
+  url: /memex/colophon/memex-v2.html
+- title: Visualising and pruning my Memex
+  url: /memex/share/blog/visualising-and-pruning-my-memex.html
 tags:
-    - seek
+- seek
+title: Seek
+type: index
 ---
-
 See: [[pkm]], [home](../index.md)
 
 The questions and projects I'm probably paying some sort of attention to.

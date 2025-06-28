@@ -1,4 +1,9 @@
 ﻿---
+backlinks:
+- title: Motivation, skills, knowledge or environment
+  url: /memex/sense/herding-cats/motivation-skills-knowledge-or-environment.html
+- title: How learning works
+  url: /memex/sense/Learning/how-learning-works.html
 tags: learning, knowledge, teaching
 title: Motivation
 type: note

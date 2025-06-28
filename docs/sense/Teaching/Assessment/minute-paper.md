@@ -1,11 +1,15 @@
----
+﻿---
+backlinks:
+- title: Mathematical mindsets
+  url: /memex/sense/Teaching/Mathematics/mathematical-mindsets.html
+- title: Assessment
+  url: /memex/sense/Teaching/Assessment/assessment.html
+tags:
+- teaching
+- assessment
 title: Minute paper
-type: "note"
-tags: [teaching, assessment]
+type: note
 ---
-
-
-
 A minute paper asks students to take a minute at the end of a class or topic to answer, traditionally on paper, a small number, usually one or two, of questions about the class. The most common two questions are:
 
 1.  What was the most important thing you learned during today's class?
@@ -31,6 +35,3 @@ David Jones, Student feedback, anonymity, observable change and course barometer
 David Jones (2005), Enhancing the learning journey for distance education students in an introductory programming course
 
 Murphy, L. and D. Wolff (2005). "Take a minute to complete the loop: using electronic Classroom Assessment Techniques in computer science labs." Journal of Computing Sciences in Colleges 21(1): 150-159.
-
- 
-

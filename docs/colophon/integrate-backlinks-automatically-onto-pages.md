@@ -1,4 +1,9 @@
 ﻿---
+backlinks:
+- title: Colophon
+  url: /memex/colophon/colophon.html
+- title: Computational components
+  url: /memex/colophon/computational-components.html
 tags:
 - colophon
 - about

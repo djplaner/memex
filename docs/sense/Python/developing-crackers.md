@@ -1,11 +1,13 @@
----
-title: Developing Crackers
-type: "note"
+﻿---
+backlinks:
+- title: Python
+  url: /memex/sense/Python/python.html
+- title: CASA Gallery
+  url: /memex/sense/CASA/casa-gallery.html
 tags: teaching, teaching-digital-technologies, teaching-mathematics, python
+title: Developing Crackers
+type: note
 ---
-
-
-
 Resources: [repository](https://github.com/djplaner/crackers)
 
 Development log for creating Python versions of [[crackers]]

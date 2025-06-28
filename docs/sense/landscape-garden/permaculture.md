@@ -1,11 +1,11 @@
----
-title: Permaculture
-type: "note"
+﻿---
+backlinks:
+- title: Bush regeneration (Wood duck meadows)
+  url: /memex/sense/landscape-garden/regeneration.html
 tags: sense, landscape, regeneration, permaculture
+title: Permaculture
+type: note
 ---
-
-
-
 Permaculture Research Institute offers [the following definition](https://www.permaculturenews.org/what-is-permaculture/) from Bill Mollison
 
 > a portmanteau of permanent agriculture and permanent culture) is the conscious design and maintenance of agriculturally productive ecosystems which have the diversity, stability, and resilience of natural ecosystems. It is the harmonious integration of landscape and people — providing their food, energy, shelter, and other material and non-material needs in a sustainable way. Without permanent agriculture there is no possibility of a stable social order.

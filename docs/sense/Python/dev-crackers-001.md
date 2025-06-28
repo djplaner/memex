@@ -1,11 +1,11 @@
----
-title: Crackers - dev log 1
-type: "note"
+﻿---
+backlinks:
+- title: Developing Crackers
+  url: /memex/sense/Python/developing-crackers.html
 tags: crackers, teaching, python
+title: Crackers - dev log 1
+type: note
 ---
-
-
-
 Aim is to get basic structure and a streamlit version working
 
 ## Task list
@@ -25,7 +25,3 @@ Following [tutorial from DataCamp](https://www.datacamp.com/tutorial/streamlit)
 - [x] add an about to acknowledge Crackers on YouCubed 
 - [ ] Refine display - e.g. number squares
 - [ ] Improve column alignment - limitation in streamlit
-
-
-
-

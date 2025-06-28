@@ -1,4 +1,9 @@
----
+﻿---
+backlinks:
+- title: Design
+  url: /memex/sense/Design/design.html
+- title: Patterns, pattern languages and design practice
+  url: /memex/sense/Paper-Summaries/goodyear-patterns-design-practice.html
 title: Scale and learning, teaching & education
 ---
 ## Scale and education need 

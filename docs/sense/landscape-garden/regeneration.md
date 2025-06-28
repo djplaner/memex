@@ -1,12 +1,18 @@
----
-title: "Bush regeneration (Wood duck meadows)"
+﻿---
+backlinks:
+- title: Welcome
+  url: /memex/index.html
+- title: Wood duck meadows
+  url: /memex/sense/landscape-garden/wood-duck-meadows.html
+- title: Improving soil
+  url: /memex/sense/landscape-garden/strategies/improving-soil.html
+tags:
+- regeneration
+- sense
+- landscape
+title: Bush regeneration (Wood duck meadows)
 type: note
-tags: 
-    - regeneration
-    - sense 
-    - landscape
 ---
-
 Nascent work on bush regeneration (aka [[ecosystem-restoration]]) of [[wood-duck-meadows]]. Was originally labelled gardens, but we're not really gardening. Rather trying to restore the bush on our 10 acre block.
 
 ## Our approach

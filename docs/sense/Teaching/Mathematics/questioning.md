@@ -1,11 +1,11 @@
----
-title: Questioning
-type: "note"
+﻿---
+backlinks:
+- title: Mathematical discussion and communication (in the classroom)
+  url: /memex/sense/Teaching/Mathematics/mathematical-discussion-communication.html
 tags: teaching, teaching-mathematics, questioning
+title: Questioning
+type: note
 ---
-
-
-
 Sources to explore:
 
 - [Using questioning to simulate mathematical thinking](https://nrich.maths.org/2473)

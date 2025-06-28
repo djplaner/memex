@@ -1,7 +1,9 @@
+﻿---
+backlinks:
+- title: Society
+  url: /memex/sense/Society/society.html
+title: Community Governance
 ---
-title: Community Governance 
----
-
 ## [CommunityRule](https://communityrule.info/)
 
 A governance toolkit for great communities 

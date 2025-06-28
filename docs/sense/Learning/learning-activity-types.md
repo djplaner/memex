@@ -1,7 +1,9 @@
+﻿---
+backlinks:
+- title: Learning
+  url: /memex/sense/Learning/learning.html
+title: Learning activity types
 ---
-title: Learning activity types 
----
-
 ## Laurillard (2012)
 
 Identifies the following collection of learning activities (with examples) as covering her Conversational Framework, support common theories of learning, and are commonly found throughout education.

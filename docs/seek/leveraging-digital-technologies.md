@@ -1,10 +1,16 @@
----
-title: Leveraging digital technologies
-type: "note"
+﻿---
+backlinks:
+- title: Seek
+  url: /memex/seek/seek.html
+- title: Seek triage list
+  url: /memex/seek/seek-triage.html
+- title: Distributed indie web development
+  url: /memex/seek/distributed-indie-web-development.html
 tags:
-    - seek
+- seek
+title: Leveraging digital technologies
+type: note
 ---
-
 # Leveraging digital technologies
 
 Digital technologies - personal computers, the Internet, multimedia, business computing, LLMs/AIs... - have held great promise. Many have suggested significant social promise. Yet, the reality has not lived up to the promise. Why? What can be done to improve the situation?

@@ -1,11 +1,15 @@
----
+﻿---
+backlinks:
+- title: Computational components
+  url: /memex/colophon/computational-components.html
+- title: Memex - Version 3
+  url: /memex/colophon/version-3-memex-design.html
+tags:
+- colophon
+- computational-component
 title: Wood duck meadows gallery generator
-type: "computational-component"
-tags: 
-    - colophon
-    - computational-component 
+type: computational-component
 ---
-
 ## Purpose
 
 Python script using the `mkdocs-gen-files` plugin to generate a gallery page containing all of the photos of:

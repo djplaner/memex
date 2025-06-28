@@ -1,11 +1,11 @@
----
-title: AC9M7SP03
-type: "note"
+﻿---
+backlinks:
+- title: Learning Areas
+  url: /memex/sense/Teaching/Curriculum/v9/v9-learning-areas.html
 tags: australian-curriculum
+title: AC9M7SP03
+type: note
 ---
-
-
-
 > describe transformations of a set of points using coordinates in the Cartesian plane, translations and reflections on an axis, and rotations about a given point
 
 ??? note "Elaborations"
@@ -16,5 +16,3 @@ tags: australian-curriculum
 ??? note "Achievement Standard Components"
 
 	- _ASMAT715_ - Students use coordinates to describe transformations of points in the plane.
-
-

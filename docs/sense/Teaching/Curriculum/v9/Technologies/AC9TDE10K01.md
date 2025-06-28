@@ -1,12 +1,11 @@
----
-title: AC9TDE10K01
-type: "note"
+﻿---
+backlinks:
+- title: Learning Areas
+  url: /memex/sense/Teaching/Curriculum/v9/v9-learning-areas.html
 tags: australian-curriculum
+title: AC9TDE10K01
+type: note
 ---
-
-
-
-
 > analyse how people in design and technologies occupations consider ethical, security and sustainability factors to innovate and improve products, services and environments
 
 Elaborations
@@ -25,5 +24,3 @@ Elaborations
 - _AC9TDE10K01_E6_ - examining mass production systems taking into account ethics and sustainability considerations, for example the mass production of food, clothing and shoes and why manufacturers produce different versions of the same product and support complete product life cycle strategies
 
 - _AC9TDE10K01_E7_ - explaining the consequences of ethical and sustainability decisions for products, services and environments, for example the accessibility of a managed public environment, the design of roads to include aerial bridges for wildlife and signage powered with solar technologies
-
-

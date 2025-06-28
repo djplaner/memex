@@ -1,12 +1,11 @@
-
----
-title: AC9TDI8P06
-type: "note"
+﻿---
+backlinks:
+- title: Learning Areas
+  url: /memex/sense/Teaching/Curriculum/v9/v9-learning-areas.html
 tags: australian-curriculum
+title: AC9TDI8P06
+type: note
 ---
-
-
-
 > trace algorithms to predict output for a given input and to identify errors
 
 ??? note "Elaborations"
@@ -18,5 +17,3 @@ tags: australian-curriculum
 
 	- _ASTEC7804_ - Students design and trace algorithms; and implement them in a general-purpose programming language.
 	- _ASTECTDI7803_ - They design and trace algorithms and implement them in a general-purpose programming language.
-
-

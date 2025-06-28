@@ -1,11 +1,13 @@
----
+﻿---
+backlinks:
+- title: Share
+  url: /memex/share/share.html
+tags:
+- technological change
+- postman
 title: Five things we need to know about technological change
 type: quote
-tags: 
-    - technological change
-    - postman
 ---
-
 Converted from [this PDF document](https://www.cs.ucdavis.edu/~rogaway/classes/188/materials/postman.pdf) into markdown mainly because it's useful and previous copies have disappeared from the Web.
 
 ## Postman's text
@@ -63,4 +65,3 @@ What I am saying is that our enthusiasm for technology can turn into a form of i
 And so, these are my five ideas about technological change. First, that we always pay a price for technology; the greater the technology, the greater the price. Second, that there are always winners and losers, and that the winners always try to persuade the losers that they are really winners. Third, that there is embedded in every great technology an epistemological, political or social prejudice. Sometimes that bias is greatly to our advantage. Sometimes it is not. The printing press annihilated the oral tradition; telegraphy annihilated space; television has humiliated the word; the computer, perhaps, will degrade community life. And so on. Fourth, technological change is not additive; it is ecological, which means, it changes everything and is, therefore, too important to be left entirely in the hands of Bill Gates. And fifth, technology tends to become mythic; that is, perceived as part of the natural order of things, and therefore tends to control more of our lives than is good for us.
 
 If we had more time, I could supply some additional important things about technological change but I will stand by these for the moment, and will close with this thought. In the past, we experienced technological change in the manner of sleep-walkers. Our unspoken slogan has been “technology über alles,” and we have been willing to shape our lives to fit the requirements of technology, not the requirements of culture.  This is a form of stupidity, especially in an age of vast technological change. We need to proceed with our eyes wide open so that we many use technology rather than be used by it.
-

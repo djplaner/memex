@@ -1,12 +1,14 @@
----
+﻿---
+backlinks:
+- title: Colophon
+  url: /memex/colophon/colophon.html
+- title: Converting Wordpress to Markdown
+  url: /memex/colophon/wordpress-to-markdown.html
+tags:
+- colophon
 title: Memex - Version 3
-type: "note"
-tags: 
-    - colophon
+type: note
 ---
-
-
-
 Time for this site to evolve for [reasons explained here](https://djon.es/blog/2025/01/12/what-now/). More detail on how and what was done will appear here.
 
 ## Stages

@@ -1,7 +1,13 @@
 ﻿---
+backlinks:
+- title: Standardisation and its discontents
+  url: /memex/sense/Society/standardisation-and-its-discontents.html
+- title: Concepts
+  url: /memex/sense/concepts/concepts.html
+- title: Law of Requisite Complexity
+  url: /memex/sense/concepts/law-of-requisite-complexity.html
 title: Law of Requisite Variety
 ---
-
 Related: [[law-of-requisite-complexity]]
 
 [Law of Requisite Variety](https://en.wikipedia.org/wiki/Variety_(cybernetics)#Law_of_requisite_variety) was formulated by Ashby which can [be framed as](https://en.wikipedia.org/wiki/Variety_(cybernetics)#Law_of_requisite_variety)

@@ -1,7 +1,11 @@
----
+﻿---
+backlinks:
+- title: Loose notes
+  url: /memex/sense/loose/loose.html
+- title: Digital technologies and impact of bad/absent schema
+  url: /memex/sense/nodt/digital-technologies-and-impact-of-badabsent-schema.html
 title: Decision frames and schemata
 ---
-
 "Decision frames"
 > Definition: A frame is the context used to describe an idea, question, or decision. Frames heavily influence our interpretations and conclusions by emphasizing (or ignoring) certain aspects of a situation....Psychologists Daniel Kahneman and Amos Tversky explored the effect of decision frames and found that the exact same information can lead to opposite conclusions, depending on the frame used to present the decision
 
@@ -34,5 +38,3 @@ Marshall, Sandra (1995?) [Schemas in problem solving](https://books.google.com.a
 Walsh, James. (1995) [Managerial and organisational cognition](http://web.b.ebscohost.com.ezproxy.usq.edu.au/ehost/detail/detail?sid=c04ec402-55d6-41b5-b42a-c3c96ea3b1d7%40sessionmgr120&vid=0&hid=125&bdata=JnNpdGU9ZWhvc3QtbGl2ZQ%3d%3d#AN=4435495&db=bsu)
 
 Bednarek, Monika (2005). [Frames revisited—the coherence-inducing function of frames](http://www.sciencedirect.com.ezproxy.usq.edu.au/science/article/pii/S0378216604002243)
-
-

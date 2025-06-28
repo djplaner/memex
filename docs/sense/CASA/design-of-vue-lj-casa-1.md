@@ -1,11 +1,11 @@
----
-title: "Design of the VUE Learning Journal CASA"
-type: "note"
+﻿---
+backlinks:
+- title: Canvas Learning Journal - Vue implementation
+  url: /memex/sense/CASA/vue-canvas-learning-journal.html
 tags: web-development, javascript, vue, casa
+title: Design of the VUE Learning Journal CASA
+type: note
 ---
-
-
-
 Plan and record the design of of the Vue application to implement a CASA.
 
 

@@ -1,10 +1,11 @@
----
-title: New Zealand Trip - 2025
-type: "note"
+﻿---
+backlinks:
+- title: Travel
+  url: /memex/travel/travel.html
 tags: travel, new-zealand
+title: New Zealand Trip - 2025
+type: note
 ---
-
-
 Visit to the North Island in July 2025. Based in Otorohanga. Primarily to the Waikato, Manawatu-Wanganui, Taranaki, and Hawkes Bay regions.
 
 ## Approach
@@ -145,8 +146,3 @@ Things to do
     - [New Plymouth Coastal Walkway](https://www.newzealand.com/au/feature/new-plymouth-coastal-walkway/) - 13km (multiple starting points)
     - [Whitecliffs walkway](https://www.newzealand.com/au/feature/whitecliffs-walkway/) 5-8 hours
 - [Surf highway 45](https://www.newzealand.com/int/feature/surf-highway-45/)
-
-
-
-
-

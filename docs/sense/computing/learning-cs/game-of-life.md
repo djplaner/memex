@@ -1,15 +1,15 @@
----
+﻿---
+backlinks:
+- title: Theory of computing
+  url: /memex/sense/computing/learning-cs/theory-of-computing.html
+tags:
+- game-of-life
+- theory-of-computing
+- computing
+- computer-science
 title: Game of life
 type: note
-tags:
-    - game-of-life
-    - theory-of-computing
-    - computing
-    - computer-science
 ---
-
-
-
 Playing with Conway's Game of Life.
 
 ## GoL rules
@@ -24,5 +24,3 @@ Assumes 8-connected neighbours with the following rules:
 ## Resources
 
 - [Lifewiki](https://conwaylife.com/wiki/Main_Page) - includes a collection of over 5000+ patterns
-
-

@@ -1,4 +1,7 @@
 ﻿---
+backlinks:
+- title: Blog posts
+  url: /memex/share/blog/blog-posts.html
 title: 'Robotic Process Automation (RPA) in L&T in tertiary education: LMS migration
   examples'
 ---

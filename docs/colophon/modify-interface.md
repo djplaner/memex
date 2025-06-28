@@ -1,11 +1,14 @@
----
+﻿---
+backlinks:
+- title: Convert Wordpress into Memex
+  url: /memex/colophon/convert-wordpress-into-memex.html
+- title: A new day
+  url: /memex/share/blog/2025/a-new-day.html
+tags:
+- colophon
 title: Modify blog interface
 type: note
-tags: 
-    - colophon
 ---
-
-
 A near final step of [[convert-wordpress-into-memex|converting my Wordpress blog]] to markdown files is updating the interface of the website. Tweaking [Material for Mkdocs](https://squidfunk.github.io/mkdocs-material/) to better suit my design intent.
 
 ## Blog interface design

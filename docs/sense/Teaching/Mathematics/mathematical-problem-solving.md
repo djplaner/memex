@@ -1,4 +1,7 @@
 ﻿---
+backlinks:
+- title: Technologies for teaching mathematics
+  url: /memex/sense/Teaching/Mathematics/technologies-for-teaching-mathematics.html
 title: Mathematical problem solving
 ---
 A collection of insights/perspectives on problem solving in mathematics - particularly related pedagogies.

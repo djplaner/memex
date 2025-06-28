@@ -1,10 +1,12 @@
----
+﻿---
+backlinks:
+- title: Support documentation
+  url: /memex/colophon/support-documentation.html
+tags:
+- colophon
 title: mkdocs concepts
 type: note
-tags: 
-    - colophon
 ---
-
 [mkdocs](https://www.mkdocs.org) is a Python-based static site generator designed for project documentation. Since version 2.0 Memex has been using mkdocs for the interface. In particular, it's been using the [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) theme. 
 
 !!! note "Using _mkdocs_ interchangeably with _mkdocs-material_"
@@ -43,8 +45,3 @@ How it works
 - `block announce` could be used for the old stuff? 
 - `block outdated`
 - `block hero`
-
-
-
-
-

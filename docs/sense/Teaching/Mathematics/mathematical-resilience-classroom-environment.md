@@ -1,4 +1,9 @@
 ﻿---
+backlinks:
+- title: Technologies for teaching mathematics
+  url: /memex/sense/Teaching/Mathematics/technologies-for-teaching-mathematics.html
+- title: Teaching Mathematics
+  url: /memex/sense/Teaching/Mathematics/teaching-mathematics.html
 title: mathematical-resilience-classroom-environment
 ---
 De Geest & Lee (2019) introduce _mathematical resilience_ as "a positive stance towards mathematics" (echoing [[mathematical-mindset]]) which helps be able to (and believe they can) persist in becoming a successful learner of mathematics.

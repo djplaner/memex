@@ -1,4 +1,7 @@
----
+﻿---
+backlinks:
+- title: Learning
+  url: /memex/sense/Learning/learning.html
 title: Head First Design
 ---
 [Head First Books](https://en.wikipedia.org/wiki/Head_First_(book_series) were a series of technical related books published by O'Rielly in the mid-2000s onwards. They used a very different design approach - [The Head First Formula](https://web.archive.org/web/20180219200945/http://www.headfirstlabs.com/readme.php)

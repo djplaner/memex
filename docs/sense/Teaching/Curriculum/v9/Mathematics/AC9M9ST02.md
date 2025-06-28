@@ -1,11 +1,11 @@
----
-title: AC9M9ST02
-type: "note"
+﻿---
+backlinks:
+- title: Learning Areas
+  url: /memex/sense/Teaching/Curriculum/v9/v9-learning-areas.html
 tags: australian-curriculum
+title: AC9M9ST02
+type: note
 ---
-
-
-
 > analyse how different sampling methods can affect the results of surveys and how choice of representation can be used to support a particular point of view
 
 ??? note "Elaborations"
@@ -16,5 +16,3 @@ tags: australian-curriculum
 ??? note "Achievement Standard Components"
 
 	- _ASMAT917_ - Students explain how sampling techniques and representation can be used to support or question conclusions or to promote a point of view.
-
-

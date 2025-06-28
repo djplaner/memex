@@ -1,12 +1,11 @@
-
----
-title: AC9TDI8P08
-type: "note"
+﻿---
+backlinks:
+- title: Learning Areas
+  url: /memex/sense/Teaching/Curriculum/v9/v9-learning-areas.html
 tags: australian-curriculum
+title: AC9TDI8P08
+type: note
 ---
-
-
-
 > generate, modify, communicate and evaluate alternative designs
 
 ??? note "Elaborations"
@@ -17,5 +16,3 @@ tags: australian-curriculum
 
 	- _ASTEC7806_ - They communicate design ideas and solutions to audiences using technical terms and graphical representation techniques, including using digital tools.
 	- _ASTECTDI7801_ - By the end of Year 8 students develop and modify creative digital solutions, decompose real-world problems, and evaluate alternative solutions against user stories and design criteria.
-
-

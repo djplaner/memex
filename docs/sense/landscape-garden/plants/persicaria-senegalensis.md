@@ -1,4 +1,9 @@
 ﻿---
+backlinks:
+- title: Muehlenbeckia platyclada (aka Ribbonbush)
+  url: /memex/sense/landscape-garden/plants/muehlenbeckia-platyclada.html
+- title: Plants
+  url: /memex/sense/landscape-garden/plants/plants.html
 tags:
 - wood-duck-meadows
 - plant

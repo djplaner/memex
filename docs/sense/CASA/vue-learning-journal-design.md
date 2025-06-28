@@ -1,11 +1,11 @@
----
-title: "Vue learning journal design"
-type: "note"
+﻿---
+backlinks:
+- title: Canvas Learning Journal - Vue implementation
+  url: /memex/sense/CASA/vue-canvas-learning-journal.html
 tags: web-development, javascript, vue, casa
+title: Vue learning journal design
+type: note
 ---
-
-
-
 ## Canvas learning journal - high level design
 
 The design is based on the [single student group & graded discussions kludge](https://djplaner.github.io/memex/sense/CASA/CASA/canvas-learning-journal/#implementing-private-journals-in-canvas). i.e. each individual student's learning journal consists of
@@ -81,6 +81,4 @@ At this stage it will add two sections somewhat mirroring the Python report desi
 
 Students should be able to use the CASA to view their progress on the learning journal activity. Perhaps with some information about the activity - in the form of a Canvas page.
 
-The CASA could provide this information when someone views the home page of the student's group. 
-
-
+The CASA could provide this information when someone views the home page of the student's group.

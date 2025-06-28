@@ -1,11 +1,11 @@
----
-title: Statistical Investigation Checklist (CSER)
-type: "note"
+﻿---
+backlinks:
+- title: CSER Statistics - Content in Action
+  url: /memex/sense/Teaching/Mathematics/cser-mooc/cser-cia-statistics.html
 tags: cser, teaching-mathematics
+title: Statistical Investigation Checklist (CSER)
+type: note
 ---
-
-
-
 Items from a checklist provided by CSER. Seems more scaffolded for helping students perform a statistical investigation, rather than learn about evaluating one.  A checklist (or similar "framework") might be useful for scaffolding learning about statistical investigation - [[learning-statistical-investigation-checklist]]
 
 ## Year 7 & 8 checklist

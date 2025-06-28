@@ -1,10 +1,16 @@
 ﻿---
+backlinks:
+- title: Consistency vs quality?
+  url: /memex/sense/Design/consistency-quality.html
+- title: Scale and learning, teaching & education
+  url: /memex/sense/Design/scale.html
+- title: The BAD (Bricolage, Affordances, Distribution) mindset
+  url: /memex/sense/CASA/bad-mindset.html
+tags:
+- bad
 title: Scaleless and Placeless
 type: note
-tags:
-    - bad
 ---
-
 ## Where I heard it
 
 Phrase used by [Peter Calthorpe](https://en.wikipedia.org/wiki/Peter_Calthorpe) in [this Long Now Foundation seminar](https://longnow.org/seminars/02020/jul/14/urban-planet-ecology-community-and-growth-through-next-century/) to describe the type of high-rise urban housing built in the mid to late 20th Century in America.
@@ -71,5 +77,3 @@ Linking this to wicked problems that aren't tractable to the define/analysis/sol
 ## References
 
 There's gotta be some good stuff out there.
-
-

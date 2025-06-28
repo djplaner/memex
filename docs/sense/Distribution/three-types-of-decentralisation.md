@@ -1,7 +1,10 @@
----
+﻿---
+backlinks:
+- title: Distribution
+  url: /memex/sense/Distribution/distribution.html
 title: Three types of decentralisation
 ---
- Looks at de-centralisation largely from a technical perspective but has some interesting potential implications beyond.
+Looks at de-centralisation largely from a technical perspective but has some interesting potential implications beyond.
 
 > When people talk about software decentralization, there are actually three separate axes of centralization/decentralization that they may be talking about. While in some cases it is difficult to see how you can have one without the other, in general they are quite independent of each other. The axes are as follows:
 > - Architectural (de)centralization — how many physical computers is a system made up of? How many of those computers can it tolerate breaking down at any single time?

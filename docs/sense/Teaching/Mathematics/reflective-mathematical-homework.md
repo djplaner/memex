@@ -1,4 +1,9 @@
 ﻿---
+backlinks:
+- title: Homework
+  url: /memex/sense/Teaching/homework.html
+- title: Technologies for teaching mathematics
+  url: /memex/sense/Teaching/Mathematics/technologies-for-teaching-mathematics.html
 title: Reflective mathematical homework
 ---
 Boaler (2015) citers working with two teachers to develop "a set of home reflection questions that they choose from each day to help their students process and understand the mathematics that they have met that day" (p. 46)

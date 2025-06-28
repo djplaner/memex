@@ -1,7 +1,9 @@
+﻿---
+backlinks:
+- title: Diversity
+  url: /memex/sense/Distribution/diversity.html
+title: Cultural and Collective Brain Hypotheses
 ---
-title: Cultural and Collective Brain Hypotheses 
----
-
 Henrich et al (2023)
 
 > Below, we highlight and summarize four insights that arise from the Cultural and Collective Brain Hypotheses:

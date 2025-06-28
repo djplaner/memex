@@ -1,11 +1,11 @@
----
-title: "Learning Vue"
-type: "note"
+﻿---
+backlinks:
+- title: Web development
+  url: /memex/sense/Web-development/web-development.html
 tags: web-development, javascript, vue
+title: Learning Vue
+type: note
 ---
-
-
-
 On the official site working through the following
 
 1. [Tutorial](https://vuejs.org/tutorial/#step-1) - my notes - [[vue-tutorial]]

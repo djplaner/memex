@@ -1,4 +1,9 @@
 ﻿---
+backlinks:
+- title: 'Teaching '
+  url: /memex/sense/Teaching/teaching.html
+- title: My Teaching Philosophy
+  url: /memex/sense/Teaching/my-teaching-philosophy.html
 tags: teaching, pedagogy, technology
 title: Teaching as gathering, weaving, and augmenting
 type: note

@@ -1,12 +1,16 @@
----
+﻿---
+backlinks:
+- title: Bush regeneration (Wood duck meadows)
+  url: /memex/sense/landscape-garden/regeneration.html
+- title: Ochna serrulata (Mickey Mouse Plant)
+  url: /memex/sense/landscape-garden/plants/ochna-serrulata.html
+tags:
+- landscape-garden
+- techniques
+- regeneration-techniques
 title: Regeneration techniques
 type: note
-tags: 
-    - landscape-garden
-    - techniques
-    - regeneration-techniques
---- 
-
+---
 ## Improvement
 
 - [[creating-compost]]

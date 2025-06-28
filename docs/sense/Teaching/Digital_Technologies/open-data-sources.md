@@ -1,11 +1,11 @@
----
-title: Open data sources
-type: "note"
+﻿---
+backlinks:
+- title: Teaching Digital Technologies
+  url: /memex/sense/Teaching/Digital_Technologies/teaching-digital-technologies.html
 tags: teaching-digital-technologies, computing
+title: Open data sources
+type: note
 ---
-
-
-
 Sources:
 
 - [Using data to change the world handout](https://www.digitaltechnologieshub.edu.au/media/4ytj0qjf/using-data-to-change-the-world_public-and-open-data-sets.pdf)
@@ -37,5 +37,3 @@ Collection of public/open data sets
 | --- | --- |
 | [YouTube-8M](https://research.google.com/youtube8m/index.html) | Human labelled video data set |
 | [Kaggle datasets](https://www.kaggle.com/datasets) | Large collection some(most) specifically designed for machine learning |
-
-

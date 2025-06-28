@@ -1,4 +1,7 @@
 ﻿---
+backlinks:
+- title: Recipes
+  url: /memex/sense/Recipes/recipes.html
 title: "Gloria Hyatt\u2019s scone recipe"
 ---
 > Makes 12-18 (depending in the size of your scone cutter)
@@ -10,5 +13,3 @@ title: "Gloria Hyatt\u2019s scone recipe"
 > 1 tablespoon sugar
 >
 > Beat the egg, oil and milk until combined. Sift the flour, sugar and salt into a bowl. Add the egg mixture to the flour. Knead until just combined and then turn the dough out onto a floured surface. Pat into a flat shape of the thickness you'd like your scones. Hyatt prefers ¾ inch. Cut with a floured scone cutter and then place on a greased tray. Cook at 220 degrees for 12 to 15 minutes. [source](http://www.smh.com.au/lifestyle/homestyle/tried-and-tasted/how-to-bake-the-perfect-scone-20110504-1e7xn.html)
-
-

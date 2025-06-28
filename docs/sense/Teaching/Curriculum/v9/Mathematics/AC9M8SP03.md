@@ -1,11 +1,11 @@
----
-title: AC9M8SP03
-type: "note"
+﻿---
+backlinks:
+- title: Learning Areas
+  url: /memex/sense/Teaching/Curriculum/v9/v9-learning-areas.html
 tags: australian-curriculum
+title: AC9M8SP03
+type: note
 ---
-
-
-
 > describe the position and location of objects in 3 dimensions in different ways, including using a three-dimensional coordinate system with the use of dynamic geometric software and other digital tools
 
 ??? note "Elaborations"
@@ -19,5 +19,3 @@ tags: australian-curriculum
 ??? note "Achievement Standard Components"
 
 	- _ASMAT813_ - Students use 3 dimensions to locate and describe position.
-
-

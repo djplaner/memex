@@ -1,4 +1,11 @@
 ﻿---
+backlinks:
+- title: Questioning
+  url: /memex/sense/Teaching/Mathematics/questioning.html
+- title: Class Expectations
+  url: /memex/sense/Teaching/Mathematics/class-expectations.html
+- title: Technologies for teaching mathematics
+  url: /memex/sense/Teaching/Mathematics/technologies-for-teaching-mathematics.html
 title: Mathematical discussion and communication (in the classroom)
 ---
 # Mathematical discussion and communication (in the classroom)

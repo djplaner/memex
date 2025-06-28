@@ -1,11 +1,11 @@
----
-title: Starter activities for mathematics
-type: "index"
+﻿---
+backlinks:
+- title: Teaching Mathematics
+  url: /memex/sense/Teaching/Mathematics/teaching-mathematics.html
 tags: teaching, mathematics, teaching-mathematics
+title: Starter activities for mathematics
+type: index
 ---
-
-
-
 Collection of ideas for starter activities for mathematics lessons
 
 ## Sites

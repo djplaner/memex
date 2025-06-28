@@ -1,4 +1,11 @@
----
+﻿---
+backlinks:
+- title: Supporting the design of discipline-specific digital learning activities
+  url: /memex/share/blog/supporting-the-design-of-discipline-specific-learning-spaces.html
+- title: Patterns, pattern languages and design practice
+  url: /memex/sense/Paper-Summaries/goodyear-patterns-design-practice.html
+- title: Bricolage
+  url: /memex/sense/Bricolage/bricolage.html
 title: Long and short arc learning design
 ---
 Goodyear (2009) proposes two contrasting images (recognising that there are many) of how a teacher may design a course

@@ -1,11 +1,11 @@
----
-title: "Business site design"
-type: "note"
+﻿---
+backlinks:
+- title: Web development
+  url: /memex/sense/Web-development/web-development.html
 tags: web-development
+title: Business site design
+type: note
 ---
-
-
-
 How to design a website for a business
 
 - Content design
@@ -72,4 +72,3 @@ Seems a reasonable option. Test with a new GitHub project.
 
 1. [Install Jekyll](https://jekyllrb.com/docs/installation/)
 2. Download the [serif theme](https://github.com/zerostaticthemes/jekyll-serif-theme)
-

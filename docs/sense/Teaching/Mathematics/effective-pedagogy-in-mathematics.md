@@ -1,4 +1,13 @@
 ﻿---
+backlinks:
+- title: My approach to teaching mathematics
+  url: /memex/sense/Teaching/Mathematics/my-approach-to-teaching-mathematics.html
+- title: Teaching Mathematics
+  url: /memex/sense/Teaching/Mathematics/teaching-mathematics.html
+- title: Reality, Abstraction, Mathematics, Reality (RAMR) cycle
+  url: /memex/sense/Teaching/Mathematics/cser-mooc/ramr-cycle.html
+- title: CSER Maths in Schools - Practices and pedagogies
+  url: /memex/sense/Teaching/Mathematics/cser-mooc/cser-practices-and-pedagogies.html
 title: Effective pedagogy in mathematics
 ---
 A collection of suggestions from literature etc about what makes for effective mathematics pedagogy.

@@ -1,4 +1,12 @@
 ﻿---
+backlinks:
+- title: Orchestration
+  url: /memex/sense/orchestration.html
+- title: 'Orchestrating entangled relations to break the iron triangle: Observations
+    from an LMS migration'
+  url: /memex/share/conferences/ascilite-2022/observations-from-an-lms-migration.html
+- title: Distribution
+  url: /memex/sense/Distribution/distribution.html
 title: Evaluating orchestration
 ---
 Nascent attempt to extract meaning from [[role-of-relationships-breaking-the-iron-triangle]]

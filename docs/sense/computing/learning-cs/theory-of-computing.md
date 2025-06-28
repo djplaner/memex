@@ -1,14 +1,14 @@
----
+﻿---
+backlinks:
+- title: Learning computer science
+  url: /memex/sense/computing/learning-cs/learning-computer-science.html
+tags:
+- theory-of-computing
+- computing
+- computer-science
 title: Theory of computing
 type: note
-tags:
-    - theory-of-computing
-    - computing
-    - computer-science
 ---
-
-
-
 Various explorations into learning more about the theory of computing.
 
 ## Game of Life

@@ -1,4 +1,7 @@
----
+﻿---
+backlinks:
+- title: 'Teaching '
+  url: /memex/sense/Teaching/teaching.html
 title: NAPLAN
 ---
 [NAPLAN](https://www.nap.edu.au/) is the Oz governments attempt at standardised testing. Covering years 3, 5, 6, and 9 of schooling across reading, writing, language conventions, and numeracy. Since 2016 it's been aligned with the relevant Australian Curriculum learning areas in English and Mathematics.

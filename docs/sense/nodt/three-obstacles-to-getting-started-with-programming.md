@@ -1,4 +1,7 @@
 ﻿---
+backlinks:
+- title: Nature of Digital Technology (nodt)
+  url: /memex/sense/nodt/nodt.html
 title: Three obstacles to getting started with programming
 ---
 Tony Hirst describes 3 obstacles people have to overcome when thinking about getting started with programming.

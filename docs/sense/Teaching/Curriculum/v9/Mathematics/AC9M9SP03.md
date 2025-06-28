@@ -1,11 +1,11 @@
----
-title: AC9M9SP03
-type: "note"
+﻿---
+backlinks:
+- title: Learning Areas
+  url: /memex/sense/Teaching/Curriculum/v9/v9-learning-areas.html
 tags: australian-curriculum
+title: AC9M9SP03
+type: note
 ---
-
-
-
 > design, test and refine algorithms involving a sequence of steps and decisions based on geometric constructions and theorems; discuss and evaluate refinements
 
 ??? note "Elaborations"
@@ -16,5 +16,3 @@ tags: australian-curriculum
 ??? note "Achievement Standard Components"
 
 	- _ASMAT915_ - Students design, use and test algorithms based on geometric constructions or theorems.
-
-

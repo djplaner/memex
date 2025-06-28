@@ -1,11 +1,15 @@
----
+﻿---
+backlinks:
+- title: Fig tree berm
+  url: /memex/sense/landscape-garden/fig-tree-berm.html
+tags:
+- wood-duck-meadows
+- tree
+- weed
+- introduced
 title: Leucaena leucocephala
-type: "plant"
-tags: [ 'wood-duck-meadows', 'tree', 'weed', 'introduced' ]
+type: plant
 ---
-
-
-
 [Leucaena leucocephala](https://en.wikipedia.org/wiki/Leucaena_leucocephala) (aka Leucaena) is a fast-growing tree native to Central America. Introduced to Australia as a fodder tree which unless heavily grazed can spread rapidly.
 
 Resources: [Leucaena leucocephala](https://en.wikipedia.org/wiki/Leucaena_leucocephala), [How to grow etc](https://www.microfarmguide.com/leucaena-leucocephala/) 

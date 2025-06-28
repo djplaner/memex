@@ -1,12 +1,10 @@
----
-title: Why birding?
-type: "note"
+﻿---
+backlinks:
+- title: Birding
+  url: /memex/sense/birdwatching/birding.html
 tags: birdwatching, birding
+title: Why birding?
+type: note
 ---
-
-
-
 - Looking for a hobby
-- Reconnect with my local place 
-
-
+- Reconnect with my local place

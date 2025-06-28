@@ -1,11 +1,11 @@
---- 
-title: When to instruct
-type: "note"
+﻿---
+backlinks:
+- title: Teaching Mathematics
+  url: /memex/sense/Teaching/Mathematics/teaching-mathematics.html
 tags: teaching, teaching-mathematics
+title: When to instruct
+type: note
 ---
-
-
-
 Research suggests that explicit instruction is required, but is best when it is delayed (within some conditions)
 
 ## Background
@@ -47,4 +47,3 @@ Misconceptions may create "a counterproductive level of struggle" influencing th
 ## References
 
 Fyfe, E. R., DeCaro, M. S., & Rittle-Johnson, B. (2014). An alternative time for telling: When conceptual instruction prior to problem solving improves mathematical knowledge. *British Journal of Educational Psychology*, *84*(3), 502--519. <https://doi.org/10.1111/bjep.12035>
-

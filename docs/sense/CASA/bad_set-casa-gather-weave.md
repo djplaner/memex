@@ -1,4 +1,15 @@
 ﻿---
+backlinks:
+- title: Leveraging digital technologies
+  url: /memex/seek/leveraging-digital-technologies.html
+- title: Contextually Appropriate Scaffolding Assemblages (CASA)
+  url: /memex/sense/CASA/casa.html
+- title: The BAD (Bricolage, Affordances, Distribution) mindset
+  url: /memex/sense/CASA/bad-mindset.html
+- title: All models are wrong
+  url: /memex/sense/Teaching/all-models-are-wrong.html
+- title: Random Notes
+  url: /memex/seek/journal/random-notes.html
 title: The relationships between BAD/SET, CASA, and Gather/Weave
 ---
 Over the last 10+ years colleagues and I have been reflecting on experiences trying to stretch the [[iron-triangle]]. That work has resulted in three different abstractions/mini-theories:

@@ -1,11 +1,13 @@
----
-title: Jar soil test
-type: "note"
+﻿---
+backlinks:
+- title: Bush regeneration (Wood duck meadows)
+  url: /memex/sense/landscape-garden/regeneration.html
+- title: Ecosystem metrics
+  url: /memex/sense/landscape-garden/ecosystem-metrics.html
 tags: landscape, garden, soil
+title: Jar soil test
+type: note
 ---
-
-
-
 References: Clemson page on [the Jar test](https://hgic.clemson.edu/factsheet/soil-texture-analysis-the-jar-test/)]
 
 
@@ -34,7 +36,3 @@ Method for determining the ratio of sand, silt and clay in soil. For identifying
 10. Mark the level of the clay that has settled on top of the silt.
 11. Use a rule to measure and record the height of each layer and the total height.
 12. Use the [soil texture triangle](https://en.wikipedia.org/wiki/Soil_texture#/media/File:SoilTextureTriangle.svg) to estimate the soil type.
-
-
-
-

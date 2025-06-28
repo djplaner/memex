@@ -1,11 +1,11 @@
----
-title: Tell a story - Scratch
-type: "note"
+﻿---
+backlinks:
+- title: Scratch
+  url: /memex/sense/Teaching/Digital_Technologies/scratch.html
 tags: teaching-digital-technologies, digital-technologies, programming, scratch
+title: Tell a story - Scratch
+type: note
 ---
-
-
-
 "Tell a story" is a tutorial from the [Scratch tutorial page](https://scratch.mit.edu/projects/editor/?tutorial=all)
 
 Intro video very quickly goes through the process 
@@ -30,4 +30,3 @@ Can see how this might get overly complicated for some folk.
     - Use the story cards, maybe with a variation of I/We/You at the start and then other cards as they select?
 
 - Can we organise for students to save their work?
-

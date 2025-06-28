@@ -1,7 +1,11 @@
+﻿---
+backlinks:
+- title: Jesse Stommel on ungrading
+  url: /memex/sense/Teaching/stommel-ungrading.html
+- title: Teacher Biases
+  url: /memex/sense/Teaching/teacher-biases.html
+title: "How Teachers\u2019 Hidden Biases Are Hurting Our Girls"
 ---
-title: How Teachers’ Hidden Biases Are Hurting Our Girls
----
-
 ## [time.com](https://time.com/3705454/teachers-biases-girls-education/) ▪ Friday, February 13, 2015 at 5:07 AM
 
 Last week, two studies revealed that unexamined teacher biases are having a significant effect on girls’ education. The first found that gender stereotypes are negatively affecting girls’ math grades and positively affecting boys’. The second revealed how disproportionately penalized young black girls are for being assertive in classroom settings. Together, they make the clearest possible case for making it mandatory for teachers to be trained in spotting and striving to overcome their implicit biases.

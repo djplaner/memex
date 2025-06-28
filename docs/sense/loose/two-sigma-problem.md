@@ -1,4 +1,9 @@
 ﻿---
+backlinks:
+- title: Loose notes
+  url: /memex/sense/loose/loose.html
+- title: Overcoming one size fits all learning
+  url: /memex/sense/Learning/overcoming-one-size-fits-all-learning.html
 title: 2 Sigma Problem
 ---
 Experiments using three types of learning methods
@@ -66,5 +71,3 @@ Problems with 2-sigma
 Bloom, B. S. (1984). Sigma of Problem : The Methods Instruction One-to-One Tutoring. Educational Researcher, 13(6), 4–16.
 
 VanLehn, K. (2011). [The relative effectiveness of human tutoring, intelligent tutoring systems, and other tutoring systems.](http://doi.org/10.1080/00461520.2011.611369) Educational Psychologist, 46(4), 197–221.
-
-

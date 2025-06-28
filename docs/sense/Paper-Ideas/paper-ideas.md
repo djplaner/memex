@@ -1,4 +1,7 @@
 ﻿---
+backlinks:
+- title: Sense
+  url: /memex/sense/sense.html
 title: Paper Ideas
 ---
 And some earlier [[published-papers]]

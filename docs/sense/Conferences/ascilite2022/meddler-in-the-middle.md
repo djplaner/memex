@@ -1,4 +1,11 @@
 ﻿---
+backlinks:
+- title: ASCILITE 2022
+  url: /memex/sense/Conferences/ascilite2022/ascilite-2022.html
+- title: 'Sensemaking - ASCILITE 2022 '
+  url: /memex/sense/Conferences/ascilite2022/ascilite-2022-sensemaking.html
+- title: Returning to the profession
+  url: /memex/sense/Teaching/RTT/returning-to-the-profession.html
 title: Meddler in the middle
 ---
 Also mentioned in [[the-last-mile-meddler-in-the-middle]]

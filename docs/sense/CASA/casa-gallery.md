@@ -1,10 +1,14 @@
----
+﻿---
+backlinks:
+- title: Contextually Appropriate Scaffolding Assemblages (CASA)
+  url: /memex/sense/CASA/casa.html
+- title: 'Average Canvas quiz results '
+  url: /memex/sense/CASA/casa-averaging-canvas-quiz-results.html
+tags:
+- casa
 title: CASA Gallery
 type: note
-tags:
-    - casa
 ---
-
 A place to dump various ideas and examples for [[casa]]
 
 ### From others

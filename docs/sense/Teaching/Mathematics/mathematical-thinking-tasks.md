@@ -1,11 +1,11 @@
----
-title: Mathematical thinking tasks
-type: "note"
+﻿---
+backlinks:
+- title: Rich mathematical tasks
+  url: /memex/sense/Teaching/Mathematics/rich-mathematical-tasks.html
 tags: teaching-mathematics, teaching
+title: Mathematical thinking tasks
+type: note
 ---
-
-
-
 Resources:
 
 - [Learning from Liljedahl's Thinking Classroom](https://sites.google.com/wrdsb.ca/bitesizedlearning/home/learning-from-liljedahls-thinking-classroom)

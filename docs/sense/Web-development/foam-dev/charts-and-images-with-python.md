@@ -1,15 +1,19 @@
----
+﻿---
+backlinks:
+- title: Blog Statistics
+  url: /memex/colophon/blog-statistics.html
+- title: Recent changes
+  url: /memex/colophon/recent-changes.html
+- title: Explorations in Foam development
+  url: /memex/sense/Web-development/foam-dev/foam-dev.html
+tags:
+- python
+- web-development
+- foam-dev
+- colophon
 title: Charts and images with Python
 type: note
-tags: 
-    - python
-    - web-development
-    - foam-dev
-    - colophon
 ---
-
-
-
 What are the possibilities and methods for plotting charts and generating images with Python that can subsequently be used in web pages (here on Memex and the blog)?
 
 !!! info "Completed - version 1.0"
@@ -63,5 +67,3 @@ Not great documentation...made it difficult to figure out.
 ## [PyGal](https://www.pygal.org)
 
 Similar to svg.charts. Better documentation. More obviously saves to SVG file. And works with macros and MkDocs.
-
-

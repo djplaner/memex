@@ -1,15 +1,17 @@
----
+﻿---
+backlinks:
+- title: Correct links to Foam documentation
+  url: /memex/sense/Web-development/foam-dev/correct-links-foam-docmentation.html
+- title: Explorations in Foam development
+  url: /memex/sense/Web-development/foam-dev/foam-dev.html
+tags:
+- foam
+- web-development
+- mkdocs
+- python
 title: Generate material for MkDocs site
 type: note
-tags:
-    - foam
-    - web-development
-    - mkdocs
-    - python
 ---
-
-
-
 !!! note "A draft recipe for [Foam recipes page](https://foambubble.github.io/foam/user/recipes/recipes)"
 
     A PR has been submitted to the Foam repo
@@ -184,5 +186,3 @@ The Material for MkDocs [publish page](https://squidfunk.github.io/mkdocs-materi
 - [Fly.io](https://documentation.breadnet.co.uk/cloud/fly/mkdocs-on-fly/#prerequisites)
 
 - [Scaleway](https://www.scaleway.com/en/docs/tutorials/using-bucket-website-with-mkdocs/)
-
-

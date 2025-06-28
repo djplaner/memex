@@ -1,11 +1,14 @@
----
-title: Great Minds Discuss Ideas; Average Minds Discuss Events; Small Minds Discuss People
-type: "note"
+﻿---
+backlinks:
+- title: Colophon
+  url: /memex/colophon/colophon.html
+- title: Quotes
+  url: /memex/sense/quote-collection/quotes.html
 tags: quotes, pkm
+title: Great Minds Discuss Ideas; Average Minds Discuss Events; Small Minds Discuss
+  People
+type: note
 ---
-
-
-
 > Great Minds Discuss Ideas; Average Minds Discuss Events; Small Minds Discuss People
 
 Quote often attributed to Eleanor Roosevelt. But first published quote seems to be [from Stewart (1901) quoting Buckle](https://quoteinvestigator.com/2014/11/18/great-minds/) building on ideas about desirable forms of conversation.
@@ -32,5 +35,3 @@ Other questions/issues might be
 ## Resources
 
 - [Quote investigator](https://quoteinvestigator.com/2014/11/18/great-minds/)
-
-

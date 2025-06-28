@@ -1,11 +1,13 @@
----
+﻿---
+backlinks:
+- title: Colophon
+  url: /memex/colophon/colophon.html
+tags:
+- colophon
+- mathematics
 title: Add a mathematics template
 type: note
-tags:
-    - colophon
-    - mathematics
 ---
-
 [MathJax](https://www.mathjax.org) is included in the base Memex template to allow the use of mathematics in the Markdown files (e.g. [[surds]]). The drawback is that it is the largest external file loaded by the site. Given that mathematics are only used on a subset of pages, it would be better to only load MathJax when required.
 
 ## Design

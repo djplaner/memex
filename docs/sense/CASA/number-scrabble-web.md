@@ -1,11 +1,15 @@
----
+﻿---
+backlinks:
+- title: Implementing number scrabble
+  url: /memex/sense/Representations/implementing-number-scrabble.html
+- title: CASA Gallery
+  url: /memex/sense/CASA/casa-gallery.html
+- title: 'MATH081C Unit 1, Lesson 1: 2024'
+  url: /memex/sense/Teaching/Implementation/2024/MAT081C/mat081c-2024-u1l1.html
+tags: teaching, number-scrabble
 title: Number Scrabble - web implementation
-type: "note"
-tags: teaching, number-scrabble 
+type: note
 ---
-
-
-
 Aim here is to explore if/how to implement a web app/component that allows me to demonstrate (perhaps play) [[number-scrabble]] as part of a lesson. Plan is to split development into 
 
 1. [x] Visuals only - no game play/logic, just allow two players to play on a web page

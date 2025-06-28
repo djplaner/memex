@@ -1,11 +1,15 @@
----
-title: Platform Decay (enshittification)
-type: "note"
+﻿---
+backlinks:
+- title: Nature of Digital Technology (nodt)
+  url: /memex/sense/nodt/nodt.html
+- title: Digital Humanism
+  url: /memex/sense/computing/digital-humanism.html
+- title: Use of reveal.js for presentations
+  url: /memex/sense/Teaching/Mathematics/use-of-revealjs-for-presentations.html
 tags: digital-humanism, teaching-digital-technologies, BAD
+title: Platform Decay (enshittification)
+type: note
 ---
-
-
-
 Sources:
 
 - [Wikipedia](https://en.wikipedia.org/wiki/Enshittification)
@@ -23,4 +27,3 @@ The solution depends on two general principles
 
 1. The _end-to-end_ principle - the platform must provide the customer with exactly what the want - the "message" is delivered safely from end to end.
 2. The _right to exist_ - allowing users to move if they are dissatisifed.
-

@@ -1,7 +1,11 @@
----
+﻿---
+backlinks:
+- title: Nature of Digital Technology (nodt)
+  url: /memex/sense/nodt/nodt.html
+- title: Concepts
+  url: /memex/sense/concepts/concepts.html
 title: Technology
 ---
-
 ## Quotes about technology
 
 Dron and Anderson (2022)

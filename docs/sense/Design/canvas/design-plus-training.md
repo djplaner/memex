@@ -1,4 +1,7 @@
----
+﻿---
+backlinks:
+- title: Design
+  url: /memex/sense/Design/design.html
 title: Design Plus Training
 ---
 Based on [course in commons](https://lms.griffith.edu.au/accounts/1/external_tools/105?launch_type=global_navigation)

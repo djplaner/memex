@@ -1,4 +1,7 @@
 ﻿---
+backlinks:
+- title: Design
+  url: /memex/sense/Design/design.html
 title: Canvas resources
 ---
 Collection point for misc Canvas resources - see also [[canvas-models]] and [[canvas-api]]

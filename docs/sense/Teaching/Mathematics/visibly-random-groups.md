@@ -1,11 +1,13 @@
----
+﻿---
+backlinks:
+- title: Building a thinking classroom
+  url: /memex/sense/Teaching/Mathematics/building-a-thinking-classroom.html
+- title: Complex instruction
+  url: /memex/sense/Teaching/Mathematics/complex-instruction.html
+tags: teaching, complex-instruction
 title: Visibly random groups
-type: "note"
-tags: teaching, complex-instruction 
+type: note
 ---
-
-
-
 ## Thinking classrooms
 
 In [[building-a-thinking-classroom]], Liljedahl (2020) breaks 14 "thinking classroom practices" into four toolkits that can be implemented sequentially.  The first toolkit consists of three practices

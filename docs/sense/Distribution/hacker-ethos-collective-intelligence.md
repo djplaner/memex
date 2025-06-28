@@ -1,7 +1,11 @@
----
+﻿---
+backlinks:
+- title: Leveraging digital technologies
+  url: /memex/seek/leveraging-digital-technologies.html
+- title: Distribution
+  url: /memex/sense/Distribution/distribution.html
 title: Hacker Ethos as Collective Intelligence
 ---
-
 ## Spark from _Coding Democracy_ 
 
 From [this review](https://ancillaryreviewofbooks.org/2021/07/19/product-is-process-review-of-coding-democracy-by-maureen-webb/)

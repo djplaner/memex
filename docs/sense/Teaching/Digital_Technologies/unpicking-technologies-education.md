@@ -1,11 +1,13 @@
----
-title: Unpicking technologies education
-type: "note"
+﻿---
+backlinks:
+- title: Teaching Digital Technologies
+  url: /memex/sense/Teaching/Digital_Technologies/teaching-digital-technologies.html
+- title: My approach to teaching digital technologies
+  url: /memex/sense/Teaching/Mathematics/my-approach-to-teaching-digital-technologies.html
 tags: teaching, teaching-digital-technology
+title: Unpicking technologies education
+type: note
 ---
-
-
-
 Random record/thinking about some content
 
 ## Content

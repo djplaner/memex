@@ -1,4 +1,7 @@
 ﻿---
+backlinks:
+- title: Quality and teaching
+  url: /memex/sense/Quality-and-teaching/quality-and-teaching.html
 title: Quality enhancement
 ---
 ## Quality assurance and quality enhancement in e-learning
@@ -49,6 +52,3 @@ Doing this is made more difficult due to the nature of how external QA processes
 ## Sources
 
 Raban, C. (2007). Assurance versus enhancement: less is more? Journal of Further and Higher Education, 31(1), 77–85.
-
-
-

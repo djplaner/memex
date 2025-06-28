@@ -1,11 +1,20 @@
----
+﻿---
+backlinks:
+- title: Wood duck meadows
+  url: /memex/sense/landscape-garden/wood-duck-meadows.html
+- title: Plants
+  url: /memex/sense/landscape-garden/plants/plants.html
+- title: Ficus obliqua (Small-leaved fig)
+  url: /memex/sense/landscape-garden/individual-plants/ficus-obliqua-berm.html
+tags:
+- plant
+- tree
+- ficus
+- fig
+- wood-duck-meadows
 title: Ficus obliqua (Small-leaved fig)
 type: plant
-tags: [plant, tree, ficus, fig, wood-duck-meadows]
 ---
-
-
-
 The [[fig-tree-berm]] is home to two trees, including what we've identified as a [Ficus obliqua (aka small-leaved fig)](https://en.wikipedia.org/wiki/Ficus_obliqua). There's a good chance we've got a few more unidentified examples of this species. It can be a big tree growing to 60 metres tall. Though not yet evident on our property, it is a banyan. i.e. it will put down accessory trunks to prop up branches.
 
 The [[australasianFigbird]] is a big fan of these trees, especially from April onwards as the fruit ripen. A source of many sightings and photos.

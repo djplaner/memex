@@ -1,9 +1,77 @@
 ﻿---
 backlinks:
-- text: Wood duck meadows
-  url: ./wood-duck-meadows.html
-- text: plants
-  url: ./plants/plants.html
+- title: Welcome
+  url: /memex/index.html
+- title: Seek
+  url: /memex/seek/seek.html
+- title: Plant location generator
+  url: /memex/colophon/plant-location-generator.html
+- title: Wood duck meadows gallery generator
+  url: /memex/colophon/wood-duck-gallery-generator.html
+- title: Computational components
+  url: /memex/colophon/computational-components.html
+- title: Bush regeneration (Wood duck meadows)
+  url: /memex/sense/landscape-garden/regeneration.html
+- title: The back corner
+  url: /memex/sense/landscape-garden/back-corner.html
+- title: Brigalow scrub
+  url: /memex/sense/landscape-garden/brigalow-scrub.html
+- title: The Bunker
+  url: /memex/sense/landscape-garden/bunker.html
+- title: Melia azedarach (white cedar)
+  url: /memex/sense/landscape-garden/melia-azedarach.html
+- title: Polyscias elegans (aka Celery Wood)
+  url: /memex/sense/landscape-garden/plants/polyscias-elegans.html
+- title: Megathyrsus maximus (Guinea grass)
+  url: /memex/sense/landscape-garden/plants/megathyrsus-maximus.html
+- title: Asparagus africanus (Climbing asparagus fern)
+  url: /memex/sense/landscape-garden/plants/asparagus-africanus.html
+- title: Coral Berry (Symphoricarpos orbiculatus)
+  url: /memex/sense/landscape-garden/plants/coral-berry.html
+- title: Macadamia
+  url: /memex/sense/landscape-garden/plants/macadamia.html
+- title: Portulacaria afra (Elephant bush)
+  url: /memex/sense/landscape-garden/plants/portulacaria-afra.html
+- title: Rhodosphaera (deep yellowwood, yellow cedar)
+  url: /memex/sense/landscape-garden/plants/rhodosphaera.html
+- title: Bunya Pine
+  url: /memex/sense/landscape-garden/plants/bunya-pine.html
+- title: Senna pendula (Easter Cassia)
+  url: /memex/sense/landscape-garden/plants/senna-pendula.html
+- title: Ceratonia siliqua (Carob tree)
+  url: /memex/sense/landscape-garden/plants/ceratonia-siliqua.html
+- title: Leucaena leucocephala
+  url: /memex/sense/landscape-garden/plants/leucaena-leucocephala.html
+- title: Cat's claw creeper (Dolichandra unguis-cati)
+  url: /memex/sense/landscape-garden/plants/cats-claw-creeper.html
+- title: Tipuana tipu (Rosewood)
+  url: /memex/sense/landscape-garden/plants/tipuana-tipu.html
+- title: Senna acclinis (rainforest cassia or brush senna)
+  url: /memex/sense/landscape-garden/plants/senna-acclinis.html
+- title: Corymbia Torelliana (Cadaghi)"
+  url: /memex/sense/landscape-garden/plants/corymbia-torelliana.html
+- title: Schotia brachypetala (Drunken Parrot Tree)
+  url: /memex/sense/landscape-garden/plants/schotia-brachypetala.html
+- title: Madeira vine (Anredera cordifolia)
+  url: /memex/sense/landscape-garden/plants/madeira-vine.html
+- title: Passiflora subpeltata (White passionflower)
+  url: /memex/sense/landscape-garden/plants/passiflora-subpeltata.html
+- title: Sandpaper fig
+  url: /memex/sense/landscape-garden/plants/sandpaper-fig.html
+- title: Plants
+  url: /memex/sense/landscape-garden/plants/plants.html
+- title: Brachychiton rupestris (Queensland Bottle Tree)
+  url: /memex/sense/landscape-garden/plants/brachychiton-rupestris.html
+- title: Harpullia Pendula (Moreton Bay Tulipwood)
+  url: /memex/sense/landscape-garden/plants/harpullia-pendula.html
+- title: The original island bunya pine
+  url: /memex/sense/landscape-garden/individual-plants/the-original-island-bunya-pine.html
+- title: Individual plants
+  url: /memex/sense/landscape-garden/individual-plants/individual-plants.html
+- title: Creating compost
+  url: /memex/sense/landscape-garden/techniques/creating-compost.html
+- title: Today's note
+  url: /memex/seek/journal/todays-note.html
 tags: gardens, sense, landscape
 title: Wood duck meadows
 type: note

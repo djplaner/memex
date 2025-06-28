@@ -1,11 +1,18 @@
----
+﻿---
+backlinks:
+- title: Fig tree berm
+  url: /memex/sense/landscape-garden/fig-tree-berm.html
+- title: Plants
+  url: /memex/sense/landscape-garden/plants/plants.html
+tags:
+- wood-duck-meadows
+- plant
+- weed
+- introduced
+- invasive
 title: Bidens pilosa (Cobbler's Pegs)
-type: "plant"
-tags: [ wood-duck-meadows, plant, weed, introduced, invasive ]
+type: plant
 ---
-
-
-
 [Bidens pilosa (aka Cobbler's Pegs)](https://en.wikipedia.org/wiki/Bidens_pilosa) is a herbaceous plant that is considered an [environmental weed in Queensland](https://weeds.brisbane.qld.gov.au/weeds/cobblers-pegs). In the top 200 most invasive plants in south-east Queensland.
 
 ## History at Wood Duck Meadows

@@ -1,4 +1,9 @@
 ﻿---
+backlinks:
+- title: Evaluating orchestration
+  url: /memex/sense/Assemblage/evaluating-orchestration.html
+- title: Paper Ideas
+  url: /memex/sense/Paper-Ideas/paper-ideas.html
 title: 'Orchestrating entangled relations to break the iron triangle: Observations
   from an LMS migration'
 ---

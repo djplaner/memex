@@ -1,13 +1,11 @@
-
----
-title: AC9TDE8K06
-type: "note"
+﻿---
+backlinks:
+- title: Learning Areas
+  url: /memex/sense/Teaching/Curriculum/v9/v9-learning-areas.html
 tags: australian-curriculum
+title: AC9TDE8K06
+type: note
 ---
-
-
-
-
 > analyse how characteristics and properties of materials, systems, components, tools and equipment can be combined to create designed solutions
 
 Elaborations
@@ -26,5 +24,3 @@ Elaborations
 - _AC9TDE8K06_E6_ - testing and selecting the most appropriate hand tools, equipment, processes and materials to produce a product, for example a stool or smartphone stand that can be assembled from bending and interlocking cardboard pieces or from wood using a laser cutter or other digital tools
 
 - _AC9TDE8K06_E7_ - investigating carbon fibres (reinforced polymers) and graphite fibres which are strong, stiff, lightweight material used in specialised high-performance products, for example on the design of sporting equipment
-
-

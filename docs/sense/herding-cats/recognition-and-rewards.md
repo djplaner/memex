@@ -1,7 +1,9 @@
----
+﻿---
+backlinks:
+- title: Herding Cats
+  url: /memex/sense/Bricolage/herding-cats.html
 title: Recognition and rewards
 ---
-
 [Definitions](https://www.bhengagement.com/employee-rewards-recognition/)
 
 - Reward: An item given to an individual or team for meeting a pre-determined goal.
@@ -39,5 +41,3 @@ leads to higher work performance and company loyalty.
 [Exploring employee incentives](https://www.bhengagement.com/employee-rewards-recognition/)
 
 [Best practices for designing and maintaining a program](http://hrweb.mit.edu/rewards/best-practices/designing-and-maintaining-program)
-
-

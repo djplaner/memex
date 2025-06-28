@@ -1,11 +1,14 @@
----
+﻿---
+backlinks:
+- title: Individual plants
+  url: /memex/sense/landscape-garden/individual-plants/individual-plants.html
+tags:
+- plants
+- fig
+- gatton-creek-frontage
 title: Hugh and Kay's Sandpaper Fig (Gatton Creek frontage)
 type: single-plant
-tags: [plants, fig, gatton-creek-frontage]
 ---
-
-
-
 In late 2024, Hugh and Kay donated a sandpaper fig which we planted on the [[gatton-creek-frontage]]. We're yet to identify which type of [[sandpaper-fig]] it is.
 
 

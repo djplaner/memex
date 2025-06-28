@@ -1,11 +1,14 @@
----
+﻿---
+backlinks:
+- title: Understanding the Foam Code Base
+  url: /memex/sense/Web-development/foam-dev/foam-code/understanding-foam-code-base.html
+tags:
+- foam-dev
+- foam-code
+- FLOSS
 title: Foam extension manifest
 type: note
-tags: [foam-dev, foam-code, FLOSS]
 ---
-
-
-
 Explorations into the Foam extension manifest file - `package.json`.
 
 ## Activation event
@@ -62,5 +65,3 @@ The contents of `foam.json` appear to be a placeholder
     - foam.graph.titleMaxLength
     - foam.graphy.style
 - keybindings - only two associated with daily notes (which I don't really use)
-
-

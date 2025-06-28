@@ -1,15 +1,15 @@
----
+﻿---
+backlinks:
+- title: Learning computer science
+  url: /memex/sense/computing/learning-cs/learning-computer-science.html
+tags:
+- er-modelling
+- sql
+- database-design
+- computing
 title: ER modelling and SQL
 type: note
-tags:
-    - er-modelling
-    - sql
-    - database-design
-    - computing
 ---
-
-
-
 Revisiting data modelling ER models and SQL.
 
 - [[functional-dependencies]]

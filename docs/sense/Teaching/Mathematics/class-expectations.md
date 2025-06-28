@@ -1,11 +1,11 @@
----
-title: Class Expectations
-type: "note"
+﻿---
+backlinks:
+- title: My approach to teaching mathematics
+  url: /memex/sense/Teaching/Mathematics/my-approach-to-teaching-mathematics.html
 tags: teaching, teaching-implementation
+title: Class Expectations
+type: note
 ---
-
-
-
 An emerging collection of ideas for identifying and promoting the expectations I'd like to see in a class.
 
 Current status

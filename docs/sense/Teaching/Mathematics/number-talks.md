@@ -1,6 +1,15 @@
 ﻿---
-title: Number talks
+backlinks:
+- title: My approach to teaching mathematics
+  url: /memex/sense/Teaching/Mathematics/my-approach-to-teaching-mathematics.html
+- title: Technologies for teaching mathematics
+  url: /memex/sense/Teaching/Mathematics/technologies-for-teaching-mathematics.html
+- title: Teaching Mathematics
+  url: /memex/sense/Teaching/Mathematics/teaching-mathematics.html
+- title: 'MATH081C Unit 1, Lesson 1: 2024'
+  url: /memex/sense/Teaching/Implementation/2024/MAT081C/mat081c-2024-u1l1.html
 template: math.html
+title: Number talks
 ---
 References: [QCAA _Number talks_ fact sheet](https://www.qcaa.qld.edu.au/downloads/aciq/general-resources/ac_gc_factsheet_number_talks.pdf), [Math for love](https://mathforlove.com/lesson/number-talks/)
 

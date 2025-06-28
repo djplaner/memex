@@ -1,4 +1,11 @@
 ﻿---
+backlinks:
+- title: Big ideas in mathematics
+  url: /memex/sense/Teaching/Mathematics/big-ideas-in-mathematics.html
+- title: CSER Math Connections with Community
+  url: /memex/sense/Teaching/Mathematics/cser-connections-with-community.html
+- title: Teaching Mathematics
+  url: /memex/sense/Teaching/Mathematics/teaching-mathematics.html
 tags: teaching, mathematics, teaching-mathematics
 title: Reading and writing the world with mathematics
 type: note

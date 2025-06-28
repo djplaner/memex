@@ -1,10 +1,12 @@
----
+﻿---
+backlinks:
+- title: Plants
+  url: /memex/sense/landscape-garden/plants/plants.html
+tags:
+- plants
 title: Cupaniopsis anacardioides (Tuckeroo)
 type: plant
-tags:
-    - plants
 ---
-
 Cupaniopsis anacardioides, commonly known as Tuckeroo (aka carrotwood, beach tamarind), is a small to medium-sized tree (to 11m) native to eastern Australia. Often planted in parks as a spreading shade tree (spread of 6m). Considered an invasive species in the United States.
 
 ## At Wood Duck Meadows

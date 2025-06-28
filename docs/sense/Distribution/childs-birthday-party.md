@@ -1,11 +1,11 @@
----
-title: Organising a child's birthday party
-type: "note"
+﻿---
+backlinks:
+- title: Distribution
+  url: /memex/sense/Distribution/distribution.html
 tags: complexity, distribution, ateleological
+title: Organising a child's birthday party
+type: note
 ---
-
-
-
 A [story about organising a child's birthday part](https://cynefin.io/wiki/Children%27s_Party_story) told by Dave Snowden. The story illustrates three different ways to manage this task based on different assumptions about the type of system involved. Three types of systems are used, including:
 
 1. Simple - the system is ordered and the relationship between cause and effect is obvious to all. The approach is to _sense - categorise - respond_ and we can apply best practice.
@@ -17,4 +17,3 @@ A [story about organising a child's birthday part](https://cynefin.io/wiki/Child
 ## Implications
 
 Too much of what we do assumes a simple or complicated system.
-

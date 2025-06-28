@@ -1,11 +1,11 @@
----
-title: There's more than one way to do it (TIMTOWTDI)
-type: "note"
+﻿---
+backlinks:
+- title: Effective pedagogy in mathematics
+  url: /memex/sense/Teaching/Mathematics/effective-pedagogy-in-mathematics.html
 tags: teaching-mathematics, perl, mathematics
+title: There's more than one way to do it (TIMTOWTDI)
+type: note
 ---
-
-
-
 Originally became aware of [TIMTOWTDI](https://en.wikipedia.org/wiki/TIMTOWTDI) as a [Perl](https://en.wikipedia.org/wiki/Perl#Philosophy) programmer in the 1990s. But appears to apply to [[teaching-mathematics]] as the ability to represent mathematical concepts (and problems) in multiple different ways is useful and a key aspect of mathematics. 
 
 

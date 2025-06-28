@@ -1,11 +1,11 @@
----
-title: Big questions
-type: "note"
+﻿---
+backlinks:
+- title: 'Teaching '
+  url: /memex/sense/Teaching/teaching.html
 tags: teaching
+title: Big questions
+type: note
 ---
-
-
-
 Linked to related ideas
 
 - Driving/essential questions used in Project-based learning
@@ -30,4 +30,3 @@ Link to _live hypotheses_ possibilities that are a real issue/interest for the i
 ## References
 
 Monreal, T. (2015, July 8). Big Questions, Big Understandings, and Big Ideas in the Classroom. *Books about Education*. <https://medium.com/reviews-of-education-books/big-questions-big-understandings-and-big-ideas-in-the-classroom-ba0728f6f430>
-

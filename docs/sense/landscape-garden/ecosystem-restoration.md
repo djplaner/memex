@@ -1,11 +1,13 @@
----
-title: Ecosystem restoration (aka bush regneration)
-type: "note"
+﻿---
+backlinks:
+- title: Seek
+  url: /memex/seek/seek.html
+- title: Bush regeneration (Wood duck meadows)
+  url: /memex/sense/landscape-garden/regeneration.html
 tags: landscape, regeneration, ecosystem
+title: Ecosystem restoration (aka bush regneration)
+type: note
 ---
-
-
-
 Slowly learning that there a numerous methods and as expected various controversies between proponents. All apparently related to different contexts or perspectives adopted by the different methods.
 
 Bush regeneration has a Wikipedia page suggesting it is an Australian term for "ecological restoration of remnant vegetation areas" with the aim 

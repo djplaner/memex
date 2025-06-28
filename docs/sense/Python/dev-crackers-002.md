@@ -1,11 +1,11 @@
----
-title: Developing Crackers - log 2 - Scratch
-type: "note"
+﻿---
+backlinks:
+- title: Developing Crackers
+  url: /memex/sense/Python/developing-crackers.html
 tags: crackers, teaching, teaching-digital-technologies, teaching-mathematics
+title: Developing Crackers - log 2 - Scratch
+type: note
 ---
-
-
-
 Is it possible to develop a version of Crackers for Scratch? 
 
 - [ ] [Binary arithmetic in scratch?](#binary-arithmetic-in-scratch)
@@ -40,4 +40,3 @@ Plan
     - tell me if your number is/isn't on the card
     - I'll guess your number
     - Start
-

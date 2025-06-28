@@ -1,11 +1,11 @@
----
-title: Technology Changes us
-type: "note"
+﻿---
+backlinks:
+- title: Teaching Digital Technologies
+  url: /memex/sense/Teaching/Digital_Technologies/teaching-digital-technologies.html
 tags: digitalTechnology, technology, brainPlasticity
+title: Technology Changes us
+type: note
 ---
-
-
-
 Technologies - especially the emerging raft of digital technologies purposely designed to be addictive - change what we do, which in turn changes us.
 
 Need to provide students the experiences to become aware of this in their own practices and encourage reflection and action.

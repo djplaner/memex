@@ -273,7 +273,7 @@
             }
         },
         {
-            "id": "/colophon/memex-v2.md",
+            "id": "/colophon-v2.md",
             "x": 35,
             "y": 35,
             "data": {
@@ -357,7 +357,7 @@
             "x": 45,
             "y": 45,
             "data": {
-                "name": "Bubble graph"
+                "name": "Memex network graph"
             }
         },
         {
@@ -8723,7 +8723,7 @@
         },
         {
             "id": "12",
-            "source": "/colophon/memex-v2.md",
+            "source": "/colophon-v2.md",
             "target": "/seek/seek.md"
         },
         {
@@ -9158,7 +9158,7 @@
         },
         {
             "id": "99",
-            "source": "/colophon/memex-v2.md",
+            "source": "/colophon-v2.md",
             "target": "/sense/sense.md"
         },
         {
@@ -9198,7 +9198,7 @@
         },
         {
             "id": "107",
-            "source": "/colophon/memex-v2.md",
+            "source": "/colophon-v2.md",
             "target": "/share/share.md"
         },
         {

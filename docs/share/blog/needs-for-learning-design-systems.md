@@ -1,4 +1,9 @@
----
+﻿---
+backlinks:
+- title: Blog posts
+  url: /memex/share/blog/blog-posts.html
+- title: My approach to teaching mathematics
+  url: /memex/sense/Teaching/Mathematics/my-approach-to-teaching-mathematics.html
 title: Needs for Learning Design Systems
 ---
 The 2020 rush to emergency online teaching...

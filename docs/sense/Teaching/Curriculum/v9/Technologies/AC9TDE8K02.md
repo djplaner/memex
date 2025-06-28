@@ -1,12 +1,11 @@
-
----
-title: AC9TDE8K02
-type: "note"
+﻿---
+backlinks:
+- title: Learning Areas
+  url: /memex/sense/Teaching/Curriculum/v9/v9-learning-areas.html
 tags: australian-curriculum
+title: AC9TDE8K02
+type: note
 ---
-
-
-
 > analyse the impact of innovation and the development of technologies on designed solutions for global preferred futures
 
 Elaborations
@@ -21,5 +20,3 @@ Elaborations
 - _AC9TDE8K02_E4_ - investigating influences impacting on manufactured products and processes such as historical developments, societal change, new materials, accessibility guidelines, control systems or biomimicry, for example researching the development of Velcro, which was inspired by burrs, or researching contemporary designers who use new materials to design and produce innovative products
 
 - _AC9TDE8K02_E5_ - considering factors that impact on innovation, for example developing novel ideas, responding quickly to change, creating a point of differentiation, adding value for society, reducing costs and improving efficiency
-
-

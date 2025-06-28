@@ -1,12 +1,12 @@
----
-title: Quadratic equations
-type: "mathContent"
+﻿---
+backlinks:
+- title: Mathematical Content Knowledge
+  url: /memex/sense/Teaching/Mathematics/mathCK/mathematical-content-knowledge.html
 tags: teaching, mathematics, quadratic
 template: math.html
+title: Quadratic equations
+type: mathContent
 ---
-
-
-
 ## Definitions
 
 A _quadratic_ is an expression of the form $ax^2 + bx + c$ where $a, b, c$ are constants and $a \neq 0$.
@@ -110,4 +110,3 @@ The discriminant is given by the formula $b^2 - 4ac$ and can be used to identify
 ## Resources
 
 - [AMSI TIMES quadratic equations module](http://amsi.org.au/teacher_modules/Quadratic_Equations.html)
-

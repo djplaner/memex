@@ -1,11 +1,11 @@
----
-title: Tree guilds
-type: "note"
+﻿---
+backlinks:
+- title: Permaculture
+  url: /memex/sense/landscape-garden/permaculture.html
 tags: sense, landscape, garden, permaculture
+title: Tree guilds
+type: note
 ---
-
-
-
 A (fruit) tree guild aims to avoid simple planting a fruit tree by itself. Instead, the intent is to create an [small ecosystem](https://www.tenthacrefarm.com/how-to-build-a-fruit-tree-guild/#ecosystem) around the individual tree by planting mutually beneficial species around the tree. A guild consists of plants chosen from multiple layers. Linking multiple tree guilds together creates a food forest.
 
 Effectively designed a tree guild will reduce cost and labour, increase yield and improve the health of the plants. A significant design consideration is the context. Observing the site and what grows well/is required should inform design.
@@ -57,4 +57,3 @@ Examined
     Some clear advice a example fruit tree guilds.
 
 - [A guide to planting a wonderful permaculture fruit tree guild](https://gardenandhappy.com/fruit-tree-guild/)
-

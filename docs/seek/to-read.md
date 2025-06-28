@@ -1,12 +1,12 @@
----
+﻿---
+backlinks:
+- title: Seek
+  url: /memex/seek/seek.html
+tags:
+- seek
 title: To Read
 types: note
-tags:
-    - seek
 ---
-
-
-
 Collection of articles, web pages etc that I've at some stage marked to read.
 
 ## Current

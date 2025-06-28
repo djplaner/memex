@@ -1,14 +1,14 @@
----
+﻿---
+backlinks:
+- title: Explorations in Foam development
+  url: /memex/sense/Web-development/foam-dev/foam-dev.html
+tags:
+- foam
+- colophon
+- FLOSS
 title: Contributing to Foam
 type: note
-tags:
-    - foam
-    - colophon
-    - FLOSS
 ---
-
-
-
 [Foam](https://foambubble.github.io/foam/) is a VSCode extension and open source project that supports PKM practices. Foam is key to maintaining this site. The plan here is to try and contribute back to the Foam community through engaging in some development.
 
 ## To do

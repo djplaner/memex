@@ -1,9 +1,17 @@
----
-title: Personal Knowledge Management
-type: "index"
+﻿---
+backlinks:
+- title: Seek
+  url: /memex/seek/seek.html
+- title: Colophon
+  url: /memex/colophon/colophon.html
+- title: Sense
+  url: /memex/sense/sense.html
+- title: Alternate conceptions of the web
+  url: /memex/sense/computing/alternate-conceptions-of-the-web.html
 tags: academia, pkm
+title: Personal Knowledge Management
+type: index
 ---
-
 See also: [home](index.md)
 
 The original primary purpose of this site was [personal knowledge management](https://en.wikipedia.org/wiki/Personal_knowledge_management). In particular, a form that resolved around the three tasks of seek, sense, and share. A structure that served reasonably well for working in academia. It could still work but I'm not likely to be sufficiently disciplined, especially the explicit sharing of artifacts.

@@ -1,4 +1,7 @@
 ﻿---
+backlinks:
+- title: Nature of Digital Technology (nodt)
+  url: /memex/sense/nodt/nodt.html
 title: Digital Revolution
 ---
 [In this book](https://books.google.com.au/books?id=1tcyDQAAQBAJ&pg=PA1&lpg=PA1&dq=Universities,+Disruptive+Technologies,+and+Continuity+in+Higher+Education&source=bl&ots=cPx-N5tMrQ&sig=XAfscdrc0BIcYWuRVrmTL5_GNNA&hl=en&sa=X&redir_esc=y#v=onepage&q=digital%20revolution&f=false) Moodie uses the term *digital revolution* to identify the 3rd revolution to impact Universities (Gutenberg and Scientific revolutions being the first two).
@@ -14,6 +17,3 @@ My question is does his analysis really get at the core of what it means to be d
 There are other questions.
 
 Does much of what society (let alone higher education) do with digital technology actually make use of the core affordances/[nature of digital technology](http://djon.es/blog/2016/06/27/what-is-the-nature-of-digital-technology-part-1/)?  Is there value in better understanding of the nature of digital technology and integrating that into our thinking?
-
-
-

@@ -1,12 +1,11 @@
-
----
-title: AC9TDI8P02
-type: "note"
+﻿---
+backlinks:
+- title: Learning Areas
+  url: /memex/sense/Teaching/Curriculum/v9/v9-learning-areas.html
 tags: australian-curriculum
+title: AC9TDI8P02
+type: note
 ---
-
-
-
 > analyse and visualise data using a range of software, including spreadsheets and databases, to draw conclusions and make predictions by identifying trends
 
 ??? note "Elaborations"
@@ -17,5 +16,3 @@ tags: australian-curriculum
 
 	- _ASTEC7803_ - They acquire, interpret and model with spreadsheets and represent data with integers and binary.
 	- _ASTECTDI7802_ - Students acquire, interpret and model data with spreadsheets and represent data with integers and binary.
-
-

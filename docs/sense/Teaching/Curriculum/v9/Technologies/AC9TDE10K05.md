@@ -1,12 +1,11 @@
-
----
-title: AC9TDE10K05
-type: "note"
+﻿---
+backlinks:
+- title: Learning Areas
+  url: /memex/sense/Teaching/Curriculum/v9/v9-learning-areas.html
 tags: australian-curriculum
+title: AC9TDE10K05
+type: note
 ---
-
-
-
 > analyse and make judgements on how the sensory and functional properties of food influence the design and preparation of sustainable food solutions for healthy eating
 
 Elaborations
@@ -25,5 +24,3 @@ Elaborations
 - _AC9TDE10K05_E6_ - investigating ways innovations may influence human health and sustainability, for example 3D printing of foods, Internet of Things (IoT) network in the food supply chain or use of augmented reality (AR) in food labelling
 
 - _AC9TDE10K05_E7_ - considering factors that influence the preparation and presentation of foods using a range of techniques to ensure optimum nutrient content, flavour, texture and visual appeal, for example designing and producing a healthy snack for the canteen and using food photography and digital tools to promote the item in a healthy eating campaign
-
-

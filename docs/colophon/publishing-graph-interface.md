@@ -1,11 +1,15 @@
 ﻿---
+backlinks:
+- title: Colophon
+  url: /memex/colophon/colophon.html
+- title: Today's note
+  url: /memex/seek/journal/todays-note.html
 tags:
 - colophon
 - about
 title: Publishing graph interface
 type: note
 ---
-
 !!! note ":construction: Work in progress"
 
     Work has commenced, see [[graph]] for an initial stand alone implementation.

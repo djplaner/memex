@@ -1,11 +1,11 @@
----
-title: Boundary objects
-type: "note"
+﻿---
+backlinks:
+- title: Distribution
+  url: /memex/sense/Distribution/distribution.html
 tags: distribution, bricolage, concepts
+title: Boundary objects
+type: note
 ---
-
-
-
 > An important concept - I feel for BAD - particular D - but which I've yet to get my head around
 
 ## Star (2010)
@@ -45,4 +45,3 @@ Giving examples such as
 Brown, M. G. (2016). Blended instructional practice: A review of the empirical literature on instructors' adoption and use of online tools in face-to-face teaching. *The Internet and Higher Education*, *31*, 1--10\. <https://doi.org/10.1016/j.iheduc.2016.05.001>
 
 Leigh Star, S. (2010). This is Not a Boundary Object: Reflections on the Origin of a Concept. *Science, Technology, & Human Values*, *35*(5), 601--617\. <https://doi.org/10.1177/0162243910377624>
-

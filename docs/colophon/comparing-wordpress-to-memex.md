@@ -1,12 +1,18 @@
----
+﻿---
+backlinks:
+- title: Improve static search
+  url: /memex/colophon/improve-static-search.html
+- title: Convert Wordpress into Memex
+  url: /memex/colophon/convert-wordpress-into-memex.html
+- title: A new day
+  url: /memex/share/blog/2025/a-new-day.html
+tags:
+- colophon
+- wordpress
+- memex
 title: Comparing Wordpress to Memex
 type: note
-tags: 
-    - colophon
-    - wordpress
-    - memex
 ---
-
 Once finished the [[convert-wordpress-into-memex]] process the following outlines some comparisons between the two systems: 
 
 1. Wordpress - the original blog using the Wordpress engine.

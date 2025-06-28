@@ -1,11 +1,13 @@
----
+﻿---
+backlinks:
+- title: Explorations in Foam development
+  url: /memex/sense/Web-development/foam-dev/foam-dev.html
+tags:
+- foam
+- markdown
 title: Markdown Manipulation
 type: note
-tags:
-    - foam
-    - markdown
 ---
-
 Exploring methods for retrieving, analysing, and manipulating large collections of Markdown files (using Python).
 
 In particular, approaches that might support something like [Obsidian dataview](https://astro-digital-garden.stereobooster.com/recipes/obsidian-dataview/)

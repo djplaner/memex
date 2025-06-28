@@ -1,12 +1,11 @@
----
+﻿---
+backlinks:
+- title: Sense
+  url: /memex/sense/sense.html
+tags: -research
 title: Research
 type: note
-tags:
-    -research
 ---
-
-
-
 ## PhD study
 
 - [[reviewing-phd-thesis]]

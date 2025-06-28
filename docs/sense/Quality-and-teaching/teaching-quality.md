@@ -1,4 +1,9 @@
 ﻿---
+backlinks:
+- title: Quality teaching
+  url: /memex/sense/Quality-and-teaching/quality-teaching.html
+- title: Quality and teaching
+  url: /memex/sense/Quality-and-teaching/quality-and-teaching.html
 title: Teaching quality
 ---
 Raban (2007)
@@ -36,4 +41,3 @@ Raban, C. (2007). Assurance versus enhancement: less is more? Journal of Further
 ## To read references
 
 [Managing quality improvement of eLearning in a large, campus‐based university](http://www.emeraldinsight.com.ezproxy.usq.edu.au/doi/full/10.1108/09684880710723007)
-

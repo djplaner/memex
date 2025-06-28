@@ -1,10 +1,12 @@
----
+﻿---
+backlinks:
+- title: Colophon
+  url: /memex/colophon/colophon.html
+tags:
+- colophon
 title: Move images out of git
 type: note
-tags:
-    - colophon
 ---
-
 Due to laziness, I've been placing images into git for this site. Not a good idea since Git doesn't diff binary files, meaning whole copies of the image files are stored in the git history, bloating the size of the repository. Since the images (generally) don't change a lot it's not that bad, but...
 
 For the record, the following table shows the number of images and the size of the git repository for the two sites. Memex is larger with fewer images (IMHO) because it's had a longer lifespan with some movement of images.

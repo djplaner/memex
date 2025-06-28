@@ -1,4 +1,7 @@
 ﻿---
+backlinks:
+- title: AI
+  url: /memex/sense/AI/AI.html
 title: PrivateGPT
 ---
 Log of an experiment to get [privateGPT](https://github.com/imartinez/privateGPT) working locally. HT to Chris Bigum and [this post](https://bdtechtalks.com/2023/06/01/create-privategpt-local-llm/?utm_source=feedly&utm_medium=rss&utm_campaign=create-privategpt-local-llm)

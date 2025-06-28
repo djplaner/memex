@@ -1,14 +1,14 @@
----
+﻿---
+backlinks:
+- title: ER modelling and SQL
+  url: /memex/sense/computing/learning-cs/er-modelling.html
+tags:
+- functional-dependencies
+- database-design
+- computing
 title: Functional dependencies
 type: note
-tags:
-    - functional-dependencies
-    - database-design
-    - computing
 ---
-
-
-
 A key concept in database design and perhaps the [[relational-model]]. A _functional dependency_ defines one field as an anchor that can always be used to find a single value for another field.
 
 !!! question "Why?"

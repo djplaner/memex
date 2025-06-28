@@ -1,4 +1,7 @@
----
+﻿---
+backlinks:
+- title: 'Teaching '
+  url: /memex/sense/Teaching/teaching.html
 title: Mind Tools (and Mindstorms)
 ---
 # Mind Tools (and Mindstorms)

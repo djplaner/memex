@@ -1,4 +1,13 @@
 ﻿---
+backlinks:
+- title: CSER Math Connections with Community
+  url: /memex/sense/Teaching/Mathematics/cser-connections-with-community.html
+- title: When will I ever use mathematics
+  url: /memex/sense/Teaching/Mathematics/when-will-i-ever-use-mathematics.html
+- title: Reality, Abstraction, Mathematics, Reality (RAMR) cycle
+  url: /memex/sense/Teaching/Mathematics/cser-mooc/ramr-cycle.html
+- title: CSER Maths in Schools - Practices and pedagogies
+  url: /memex/sense/Teaching/Mathematics/cser-mooc/cser-practices-and-pedagogies.html
 tags: teaching-mathematics, teaching
 title: Goompi model
 type: note

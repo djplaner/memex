@@ -1,12 +1,11 @@
-
----
-title: AC9TDE8K03
-type: "note"
+﻿---
+backlinks:
+- title: Learning Areas
+  url: /memex/sense/Teaching/Curriculum/v9/v9-learning-areas.html
 tags: australian-curriculum
+title: AC9TDE8K03
+type: note
 ---
-
-
-
 > analyse how force, motion and energy are used to manipulate and control engineered systems
 
 Elaborations
@@ -25,5 +24,3 @@ Elaborations
 - _AC9TDE8K03_E6_ - experimenting with control systems to understand motion, for example programming a microcontroller or an object-based programming application to control a system such as a remote-controlled car or robotic arm
 
 - _AC9TDE8K03_E7_ - investigating components, tools and equipment in terms of force, motion or energy, for example testing the durability of batteries or determining the effective range of wireless devices
-
-

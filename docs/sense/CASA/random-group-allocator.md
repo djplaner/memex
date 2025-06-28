@@ -1,11 +1,15 @@
----
-title: Random Group Allocator
-type: "note"
+﻿---
+backlinks:
+- title: CASA Gallery
+  url: /memex/sense/CASA/casa-gallery.html
+- title: Use of reveal.js for presentations
+  url: /memex/sense/Teaching/Mathematics/use-of-revealjs-for-presentations.html
+- title: 'MATH081C Unit 1, Lesson 1: 2024'
+  url: /memex/sense/Teaching/Implementation/2024/MAT081C/mat081c-2024-u1l1.html
 tags: casa, teaching, visibly-random-groups, complex-instruction
+title: Random Group Allocator
+type: note
 ---
-
-
-
 Explorations to develop a web page based (Javascript) method for randomly allocating groups by 
 
 - Copy and pasting a collection of student names;
@@ -33,9 +37,3 @@ Plan to adapt this one
 - Add "Save" button - on group allocation page
 - Add "Load" button on initial page - but only if there is a saved allocation
     - On start, call `isSaveGroupAllocation` and change the display for the button
-
-
-
-
-
-

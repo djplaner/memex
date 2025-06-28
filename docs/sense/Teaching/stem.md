@@ -1,11 +1,11 @@
----
-title: STEM
-type: "note"
+﻿---
+backlinks:
+- title: 'Teaching '
+  url: /memex/sense/Teaching/teaching.html
 tags: STEM, teaching
+title: STEM
+type: note
 ---
-
-
-
 From the document - [QCAA STEM in Queensland Schools](https://www.qcaa.qld.edu.au/downloads/aciq/stem-resources/teaching/ac_stem_qld_schools.pdf)
 
 > STEM education refers collectively to the teaching og Science, Technology, Engineering and Mathematics disciplines.
@@ -26,4 +26,3 @@ Much more interesting (sadly) the reasons why "schools should invest in STEM edu
 - STEM affects the economy
 - Future employment trends
 - It's what employers want
-

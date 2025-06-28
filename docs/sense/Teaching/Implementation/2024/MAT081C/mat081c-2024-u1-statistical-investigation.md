@@ -1,11 +1,13 @@
----
-title: MAT081C Planning for unit 1 - statistical investigation
-type: "note"
+﻿---
+backlinks:
+- title: MAT081C-2024
+  url: /memex/sense/Teaching/Implementation/2024/MAT081C/mat081c-2024.html
+- title: Learning statistical investigation checklist
+  url: /memex/sense/Teaching/Mathematics/cser-mooc/learning-statistical-investigation-checklist.html
 tags: statistics, teaching-mathematics
+title: MAT081C Planning for unit 1 - statistical investigation
+type: note
 ---
-
-
-
 Where I'll start my more detailed planning for my version of the unit.
 
 ## Lessons

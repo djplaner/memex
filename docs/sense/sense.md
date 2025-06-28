@@ -1,4 +1,13 @@
----
+﻿---
+backlinks:
+- title: Personal Knowledge Management
+  url: /memex/pkm.html
+- title: Welcome
+  url: /memex/index.html
+- title: Thinking about 'memex v2'
+  url: /memex/colophon/memex-v2.html
+- title: Visualising and pruning my Memex
+  url: /memex/share/blog/visualising-and-pruning-my-memex.html
 title: Sense
 ---
 See: [[pkm]]

@@ -1,11 +1,13 @@
----
-title: AC9M8ST02
-type: "note"
+﻿---
+backlinks:
+- title: MAT081C-2024
+  url: /memex/sense/Teaching/Implementation/2024/MAT081C/mat081c-2024.html
+- title: Learning Areas
+  url: /memex/sense/Teaching/Curriculum/v9/v9-learning-areas.html
 tags: australian-curriculum
+title: AC9M8ST02
+type: note
 ---
-
-
-
 > analyse and report on the distribution of data from primary and secondary sources using random and non-random sampling techniques to select and study samples
 
 ??? note "Elaborations"
@@ -18,5 +20,3 @@ tags: australian-curriculum
 
 	- _ASMAT816_ - They conduct statistical investigations and explain the implications of obtaining data through sampling.
 	- _ASMAT817_ - Students analyse and describe the distribution of data.
-
-

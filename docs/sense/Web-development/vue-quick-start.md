@@ -1,11 +1,11 @@
----
-title: "Vue quick start"
-type: "note"
+﻿---
+backlinks:
+- title: Learning Vue
+  url: /memex/sense/Web-development/learning-vue.html
 tags: web-development, javascript, vue
+title: Vue quick start
+type: note
 ---
-
-
-
 Reference: [Vue quick start](https://vuejs.org/guide/quick-start.html)
 
 ## Creating a Vue Application
@@ -28,4 +28,3 @@ Child components are defined in the `components` folder.
 ### Using a CDN
 
 The Vue library can be included via a CDN and then the `Vue.createApp` function can be used to create the app and mount it to the `div` element.
-

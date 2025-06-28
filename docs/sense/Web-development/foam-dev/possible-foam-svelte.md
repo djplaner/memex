@@ -1,4 +1,7 @@
----
+﻿---
+backlinks:
+- title: Colophon
+  url: /memex/colophon/colophon.html
 title: Possible ideas for a SvelteKit Foam site
 ---
 Random collection of thoughts about if and how this might work.

@@ -1,11 +1,17 @@
----
-title: Creative coding experiments
-type: "note"
+﻿---
+backlinks:
+- title: Python
+  url: /memex/sense/Python/python.html
+- title: My creative coding projects
+  url: /memex/sense/Teaching/Digital_Technologies/my-creative-coding-projects.html
+- title: AC9TDI8P09
+  url: /memex/sense/Teaching/Curriculum/v9/Technologies/AC9TDI8P09.html
+- title: Today's note
+  url: /memex/seek/journal/todays-note.html
 tags: python, teaching, creativeCoding
+title: Creative coding experiments
+type: note
 ---
-
-
-
 GitHub: [repository](https://github.com/djplaner/creative-coding-experiments)
 
 Experiments with [[creative-coding]]. Initially using the Python [Manim (community) library](https://www.manim.community/). But quickly branching out in ASCII art, Processing etc. 

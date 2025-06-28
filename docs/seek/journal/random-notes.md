@@ -1,12 +1,12 @@
----
-title: Random Notes 
-type: "note"
+﻿---
+backlinks:
+- title: Today's note
+  url: /memex/seek/journal/todays-note.html
 tags:
-    - seek
+- seek
+title: Random Notes
+type: note
 ---
-
-
-
 Place to jot random ideas for future consideration, others captured in [[loose]] notes.
 
 ## Computer science and orchestration 

@@ -1,11 +1,11 @@
----
-title: AC9TDE10K02
-type: "note"
+﻿---
+backlinks:
+- title: Learning Areas
+  url: /memex/sense/Teaching/Curriculum/v9/v9-learning-areas.html
 tags: australian-curriculum
+title: AC9TDE10K02
+type: note
 ---
-
-
-
 > analyse the impact of innovation, enterprise and emerging technologies on designed solutions for global preferred futures
 
 Elaborations
@@ -18,5 +18,3 @@ Elaborations
 - _AC9TDE10K02_E3_ - investigating scenarios of how the future may unfold and what opportunities and impacts there may be for society and particular groups in a preferred future, for example by using forecasting and backcasting techniques
 
 - _AC9TDE10K02_E4_ - examining real-world problems and understanding basic needs when considering designed solutions, for example students collaborating to design solutions to challenges in the Asia region; or artists from a country in South-East Asia creating posters for the world to take action in a pandemic
-
-

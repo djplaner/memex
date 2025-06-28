@@ -1,11 +1,15 @@
----
+﻿---
+backlinks:
+- title: Plants
+  url: /memex/sense/landscape-garden/plants/plants.html
+tags:
+- gardens
+- plant
+- weed
+- introduced
 title: Coral Berry (Symphoricarpos orbiculatus)
-type: "note"
-tags: [ 'gardens', 'plant', 'weed', 'introduced' ]
+type: note
 ---
-
-
-
 Small shrub/woody herbaceous plant [native to north America](https://en.wikipedia.org/wiki/Symphoricarpos_orbiculatus) considered an [environmental weed in Queensland and New South Wales](https://weeds.brisbane.qld.gov.au/weeds/coral-berry). Reproduces from seeds spread by birds, animals, people, and water.
 
 ## Details 

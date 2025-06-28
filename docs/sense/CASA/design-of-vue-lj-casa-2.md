@@ -1,11 +1,11 @@
----
-title: "Design of Canvas Learning Journal CASA 2"
-type: "note"
+﻿---
+backlinks:
+- title: Canvas Learning Journal - Vue implementation
+  url: /memex/sense/CASA/vue-canvas-learning-journal.html
 tags: web-development, javascript, vue, canvas, casa
+title: Design of Canvas Learning Journal CASA 2
+type: note
 ---
-
-
-
 - [Choice of UI Framework](#choice-of-ui-framework)
   - [Integrate Quasar with user script](#integrate-quasar-with-user-script)
   - [Integrate Vuetify](#integrate-vuetify)
@@ -50,4 +50,3 @@ Couldn't get it to compile quickly
 
 1. Using [Quasar components](https://quasar.dev/vue-components)
 2. icons - appears that the [quasar-extras-svg-icons](https://quasar-extras-svg-icons.netlify.app/all-about-quasar-extras-svg-icons/icon-finder) offer a way to work with Quasar
-

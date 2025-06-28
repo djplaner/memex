@@ -1,14 +1,14 @@
----
+﻿---
+backlinks:
+- title: ER modelling and SQL
+  url: /memex/sense/computing/learning-cs/er-modelling.html
+tags:
+- normal-forms
+- database-design
+- computing
 title: Normal Forms
 type: note
-tags:
-    - normal-forms
-    - database-design
-    - computing
 ---
-
-
-
 Codd initially developed three normal forms (1NF, 2NF, 3NF) to help with the design of relational databases.
 
 ## First normal forms (1NF)
@@ -24,4 +24,3 @@ For example, consider the following table:
 ```Employee ( name, job, salary, address)```
 
 where name + job determines salary, but address only depends on name. Address depends only on part (name) of the key (name, job)
-

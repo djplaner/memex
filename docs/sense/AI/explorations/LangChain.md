@@ -1,4 +1,7 @@
----
+﻿---
+backlinks:
+- title: AI
+  url: /memex/sense/AI/AI.html
 title: LangChain
 ---
 Resources

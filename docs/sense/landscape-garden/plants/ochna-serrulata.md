@@ -1,4 +1,7 @@
 ﻿---
+backlinks:
+- title: Plants
+  url: /memex/sense/landscape-garden/plants/plants.html
 photos:
   1:
     date: 2025-05-24 11:35:17

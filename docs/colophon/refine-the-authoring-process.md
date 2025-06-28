@@ -1,11 +1,13 @@
----
+﻿---
+backlinks:
+- title: Convert Wordpress into Memex
+  url: /memex/colophon/convert-wordpress-into-memex.html
+tags:
+- colophon
+- authoring
 title: Refine the authoring process
 type: note
-tags:
-    - colophon
-    - authoring
---- 
-
+---
 A key part of a new blog is how to author posts. With the conversion the new blog's content is in markdown format. How to author this content?
 
 ## Why not a simple text editor?
@@ -51,5 +53,3 @@ tags:
 <blog post content>
 
 ```
-
-

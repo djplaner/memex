@@ -1,11 +1,13 @@
----
-title: "PI Day (International day of mathematics)"
-type: "note"
+﻿---
+backlinks:
+- title: CSER Math Connections with Community
+  url: /memex/sense/Teaching/Mathematics/cser-connections-with-community.html
+- title: Teaching Mathematics
+  url: /memex/sense/Teaching/Mathematics/teaching-mathematics.html
 tags: teaching-mathematics, mathematics
+title: PI Day (International day of mathematics)
+type: note
 ---
-
-
-
 [International Day of Mathematics](https://www.idm314.org/) is celebrated on March 14th each year. The date is chosen to match the first three digits of the number pi (π). But of course illustrates the role cultural symbols play in connecting mathematics with the the real world. i.e. it uses a date format that [is almost exclusive to the USA (M-D-Y format)](https://www.trustedtranslations.com/blog/how-are-dates-written-in-different-countries) with Y-M-D being used in Japan, China, the Koreas, Taiwan, Hungary, Lithuania and Iran.
 
 A different theme is chosen each year.
@@ -17,5 +19,3 @@ A different theme is chosen each year.
 | 2022 | [Mathematics Unites](https://www.idm314.org/2022-idm) - as a common language | [Photo challenge](https://www.idm314.org/2022-photo-challenge) |
 | 2021 | [Make the world better](https://www.idm314.org/2021-idm) | Poster challenge and [gallery](https://www.idm314.org/2021-poster-challenge-gallery). [Mathematics for a better world](https://betterworld.idm314.org/) |
 | 2020 | [Mathematics is everywhere](https://www.idm314.org/2020-idm) | [Submissions](https://www.idm314.org/math-everywhere-video) |
-
-

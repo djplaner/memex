@@ -1,13 +1,13 @@
----
+﻿---
+backlinks:
+- title: Learning computer science
+  url: /memex/sense/computing/learning-cs/learning-computer-science.html
+tags:
+- sql
+- computing
 title: Learning SQL
 type: note
-tags:
-    - sql
-    - computing
 ---
-
-
-
 ## Parts of SQL
 
 | Part | Description |
@@ -124,4 +124,3 @@ Types of constraints
 ## References
 
 Silberschatz, A., Korth, H. F., & Sudarshan, S. (2020). *Database system concepts* (Seventh edition). McGraw-Hill Education.
-

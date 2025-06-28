@@ -1,9 +1,14 @@
----
+﻿---
+backlinks:
+- title: Memex - Version 3
+  url: /memex/colophon/version-3-memex-design.html
+tags:
+- colophon
+- github
+- memex
 title: Moving Memex from GitHub to djon.es
 type: note
-tags: [ 'colophon', 'github', 'memex' ]
 ---
-
 ### Publish site
 
 Site publication no longer happens on github pages. Instead use `mkdocs build` to create a local site in the fixed folder `~/memex_site`. A git repo connected to [djon.es/memex/](https://djon.es/memex/).
@@ -53,5 +58,3 @@ Possible approaches
     - Can the repo be pushed to djon.es? _YES_
         See ["Hosting remote git repos with cpanel"](https://cpanel.net/blog/tips-and-tricks/hosting-remote-git-repositories-with-cpanel/) with the process 
         1. Create & upload ssh keys to djon.es
-
-

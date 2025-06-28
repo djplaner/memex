@@ -1,10 +1,22 @@
----
+﻿---
+backlinks:
+- title: Modify Markdown files
+  url: /memex/colophon/modify-markdown-files.html
+- title: Modify blog interface
+  url: /memex/colophon/modify-interface.html
+- title: Computational components
+  url: /memex/colophon/computational-components.html
+- title: Comparing Wordpress to Memex
+  url: /memex/colophon/comparing-wordpress-to-memex.html
+- title: Memex - Version 3
+  url: /memex/colophon/version-3-memex-design.html
+- title: A new day
+  url: /memex/share/blog/2025/a-new-day.html
+tags:
+- colophon
 title: Convert Wordpress into Memex
 type: note
-tags: 
-    - colophon
 ---
-
 ## What?
 
 Convert my [Wordpress](https://djon.es/blog) blog into collection of `mkdocs` generated site.

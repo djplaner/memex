@@ -1,11 +1,15 @@
----
-title: Plants
-type: "note"
+﻿---
+backlinks:
+- title: Wood duck meadows gallery generator
+  url: /memex/colophon/wood-duck-gallery-generator.html
+- title: Wood duck meadows
+  url: /memex/sense/landscape-garden/wood-duck-meadows.html
+- title: Individual plants
+  url: /memex/sense/landscape-garden/individual-plants/individual-plants.html
 tags: gardens
+title: Plants
+type: note
 ---
-
-
-
 The following provides a summary of the plant species we've come across on [[wood-duck-meadows]]. It is a far from complete list. See [[individual-plants]] for details on the [[wood-duck-meadows]] plants we're maintaining.
 
 !!! info "Photo gallery"

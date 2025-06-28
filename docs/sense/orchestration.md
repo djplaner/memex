@@ -1,4 +1,9 @@
 ﻿---
+backlinks:
+- title: Some Assemblage Required
+  url: /memex/colophon/some-assemblage-required.html
+- title: Learning
+  url: /memex/sense/Learning/learning.html
 title: Orchestration
 ---
 - [[evaluating-orchestration]]

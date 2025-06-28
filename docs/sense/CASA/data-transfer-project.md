@@ -1,7 +1,9 @@
 ﻿---
+backlinks:
+- title: Gather and weave
+  url: /memex/sense/CASA/gather-weave.html
 title: Data Transfer Project (Initiative)
 ---
-
 The [Data Transfer Project](https://dtinit.org/documentation) has three components  (sadly Java)
 
 1. Data models - [code](https://github.com/google/data-transfer-project/tree/master/portability-types-common/src/main/java/org/datatransferproject/types/common/models)

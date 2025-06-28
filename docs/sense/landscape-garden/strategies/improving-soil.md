@@ -1,13 +1,15 @@
----
+﻿---
+backlinks:
+- title: Bush regeneration (Wood duck meadows)
+  url: /memex/sense/landscape-garden/regeneration.html
+- title: Regeneration strategies
+  url: /memex/sense/landscape-garden/strategies/regeneration-strategies.html
+tags:
+- regeneration
+- soil
 title: Improving soil
 type: note
-tags:
-    - regeneration
-    - soil
---- 
-
-
-
+---
 !!! warning "Tentative single source information"
 
     The following is based solely on the content of the first video in the resources below.

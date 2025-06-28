@@ -1,12 +1,14 @@
----
+﻿---
+backlinks:
+- title: Convivality
+  url: /memex/sense/Affordances/conviviality.html
+tags:
+- sense
+- conviviality
+- software-systems
 title: Convivial Design Heuristics for Software Systems
 type: note
-tags:
-    - sense
-    - conviviality
-    - software-systems
 ---
-
 ## Design heuristics (Kell, 2020)
 
 Technical heuristics

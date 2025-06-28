@@ -1,12 +1,14 @@
----
+﻿---
+backlinks:
+- title: Design
+  url: /memex/sense/Design/design.html
+tags:
+- design
+- teachers
+- casa
 title: Challenge of Teachers' Design Practice
 type: note
-tags: 
-    - design
-    - teachers
-    - casa
 ---
-
 Masterman, L. (2019). The Challenge of Teachers' Design Practice. In *Rethinking pedagogy for a digital age: Principles and practices of design* (3rd ed., pp. 120--133). Routledge.
 
 ## What resonates?

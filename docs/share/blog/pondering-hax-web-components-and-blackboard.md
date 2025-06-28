@@ -1,4 +1,7 @@
 ﻿---
+backlinks:
+- title: Blog posts
+  url: /memex/share/blog/blog-posts.html
 title: Pondering Hax Web Components and Blackboard
 ---
 ```toml

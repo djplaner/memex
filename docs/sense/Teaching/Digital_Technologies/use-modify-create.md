@@ -1,11 +1,13 @@
----
-title: Use-modify-create
-type: "note"
+﻿---
+backlinks:
+- title: Predict Run Investigate Modify Make (PRIMM)
+  url: /memex/sense/Teaching/Digital_Technologies/primm.html
+- title: Teaching Digital Technologies
+  url: /memex/sense/Teaching/Digital_Technologies/teaching-digital-technologies.html
 tags: teaching, digital-technologies, teaching-digital-technologies
+title: Use-modify-create
+type: note
 ---
-
-
-
 Source: [KSU explanation](https://textbooks.cs.ksu.edu/tlcs/4-designing-cs-lessons/04-use-modify-create/index.html)
 
 A learning progression suggested as a good example for lesson design.
@@ -34,4 +36,3 @@ Students start on the Scratch project page and find a project that interests the
     1. **S**prites - Click on the sprite that you want to learn from or change.
     2. **E**vents - look at the event blocks starting the scripts. Which scripts are most useful?
     3. **E**xplore - Try different changes to the scripts and observe what happens
-

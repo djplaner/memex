@@ -1,11 +1,11 @@
----
-title: Satellite imagery
-type: "note"
+﻿---
+backlinks:
+- title: Teaching Digital Technologies
+  url: /memex/sense/Teaching/Digital_Technologies/teaching-digital-technologies.html
 tags: computing, digital-technologies, teaching-digital-technologies
+title: Satellite imagery
+type: note
 ---
-
-
-
 Collection of resources/ideas/projects around the use of Satellite imagery and other data.
 
 ## Links
@@ -37,4 +37,3 @@ Call `https://api.nasa.gov/planetary/apod?api_key=<yourkey>` and get JSON respon
 
 
 #### Response
-

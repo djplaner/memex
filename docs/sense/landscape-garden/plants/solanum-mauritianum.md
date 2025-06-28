@@ -1,18 +1,20 @@
----
-title: Solanum mauritianum (aka Wild tobacco tree)
-type: plant
-tags: plants, gardens, weeds
+﻿---
+backlinks:
+- title: Plants
+  url: /memex/sense/landscape-garden/plants/plants.html
 photos:
   1:
-      title: None
-      filename: C79E2E04-CD98-4E36-8D41-9969E9F26364.heic
-      latitude: -27.538411666666665
-      longitude: 152.0558305
-      description: None
-      date: 2025-06-27 13:38:31
-      memexFilename: https://djon.es/assets/memex/sense/landscape-garden/plants/images/solanum-mauritianum/1.jpeg
+    date: 2025-06-27 13:38:31
+    description: None
+    filename: C79E2E04-CD98-4E36-8D41-9969E9F26364.heic
+    latitude: -27.538411666666665
+    longitude: 152.0558305
+    memexFilename: https://djon.es/assets/memex/sense/landscape-garden/plants/images/solanum-mauritianum/1.jpeg
+    title: None
+tags: plants, gardens, weeds
+title: Solanum mauritianum (aka Wild tobacco tree)
+type: plant
 ---
-
 [Solanum mauritianum](https://en.wikipedia.org/wiki/Solanum_mauritianum) (aka Wild tobacco tree) is a large shrub or small tree native to South America. It can grow up to 5m tall and has large, soft, hairy leaves. The plant produces clusters of white to purple flowers followed by yellow berries.
 
 

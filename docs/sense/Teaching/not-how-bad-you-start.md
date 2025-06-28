@@ -1,11 +1,13 @@
----
-title: It's not how bad you start, it's how quickly you get better
-type: "note"
+﻿---
+backlinks:
+- title: All models are wrong
+  url: /memex/sense/Teaching/all-models-are-wrong.html
+- title: Returning to the profession
+  url: /memex/sense/Teaching/RTT/returning-to-the-profession.html
 tags: teaching, philosophy
+title: It's not how bad you start, it's how quickly you get better
+type: note
 ---
-
-
-
 As close as I get to a mantra
 > It's not how bad you start, it's how quickly you get better
 
@@ -24,4 +26,3 @@ From this they suggest that
 Which has obvious links to my last post, <a href="https://djon.es/blog/2015/08/28/all-models-are-wrong-but-some-are-useful-and-its-application-to-e-learning/">"All models are wrong"</a>.
 
 This is why organisations annoy me with their fetish for developing the one correct model (or system) and requiring that everyone should and can follow that one correct model.
-

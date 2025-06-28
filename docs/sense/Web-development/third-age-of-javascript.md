@@ -1,4 +1,11 @@
 ﻿---
+backlinks:
+- title: Moving the Card Interface to the Second Age of Javascript
+  url: /memex/sense/moving-card-interface-to-second-age.html
+- title: Moving to Third Age development
+  url: /memex/sense/Web-development/moving-to-third-age-development.html
+- title: Web development
+  url: /memex/sense/Web-development/web-development.html
 title: Third age of Javascript
 ---
 [Blog post](https://www.swyx.io/js-third-age/) suggesting that we're about to head into a 3rd age of Javascript.

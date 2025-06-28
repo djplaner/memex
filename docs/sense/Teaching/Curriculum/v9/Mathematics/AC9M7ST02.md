@@ -1,11 +1,11 @@
----
-title: AC9M7ST02
-type: "note"
+﻿---
+backlinks:
+- title: Learning Areas
+  url: /memex/sense/Teaching/Curriculum/v9/v9-learning-areas.html
 tags: australian-curriculum
+title: AC9M7ST02
+type: note
 ---
-
-
-
 > create different types of numerical data displays including stem-and-leaf plots using software where appropriate; describe and compare the distribution of data, commenting on the shape, centre and spread including outliers and determining the range, median, mean and mode
 
 ??? note "Elaborations"
@@ -20,5 +20,3 @@ tags: australian-curriculum
 	- _ASMAT716_ - They plan and conduct statistical investigations involving discrete and continuous numerical data, using appropriate displays.
 	- _ASMAT717_ - Students interpret data in terms of the shape of distribution and summary statistics, identifying possible outliers.
 	- _ASMAT718_ - They decide which measure of central tendency is most suitable and explain their reasoning.
-
-

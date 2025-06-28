@@ -1,12 +1,11 @@
-
----
-title: AC9TDE10K03
-type: "note"
+﻿---
+backlinks:
+- title: Learning Areas
+  url: /memex/sense/Teaching/Curriculum/v9/v9-learning-areas.html
 tags: australian-curriculum
+title: AC9TDE10K03
+type: note
 ---
-
-
-
 > analyse and make judgements on how the characteristics and properties of materials are combined with force, motion and energy to control engineered systems
 
 Elaborations
@@ -23,5 +22,3 @@ Elaborations
 - _AC9TDE10K03_E5_ - investigating how the placement of wind turbines in a wind farm affects their performance, for example designing a layout to maximise the productivity of a wind farm within a given space
 
 - _AC9TDE10K03_E6_ - investigating the main types of chargers for electric vehicles (EV) and their capabilities, for example making a recommendation for the best charger for an EV owner who uses their vehicle for commuting to work
-
-

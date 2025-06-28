@@ -1,4 +1,7 @@
----
+﻿---
+backlinks:
+- title: Learning
+  url: /memex/sense/Learning/learning.html
 title: Pedagogical Paradigms
 ---
 Summary of Dron and Anderson (2022)

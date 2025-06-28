@@ -1,12 +1,16 @@
----
-title: Surds - mathematical content knowledge
-type: "mathContent"
+﻿---
+backlinks:
+- title: Add a mathematics template
+  url: /memex/colophon/add-a-mathematics-template.html
+- title: Mathematical Content Knowledge
+  url: /memex/sense/Teaching/Mathematics/mathCK/mathematical-content-knowledge.html
+- title: Year 10 Surds warmup
+  url: /memex/sense/Teaching/Mathematics/math-lessons-resources/y10-surds-warmup.html
 tags: teaching, mathematics, surd
 template: math.html
+title: Surds - mathematical content knowledge
+type: mathContent
 ---
-
-
-
 Numbers left as square (or other) roots that have a decimal that goes on forever. i.e. they cannot be written as a fraction using integers.  i.e. they are irrational numbers.
 
 Any number of the form $\sqrt{a}$, which cannot be written as a fraction of two integers is called a #surd. There is no specific numeric value, at best approximations.
@@ -75,6 +79,3 @@ Simplifying means trying to
 3. Remove and surds on the denominator of a fraction.
 
     By used of _conjugate surds_ and the _difference of squares_ identity.
-
-
-

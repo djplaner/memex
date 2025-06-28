@@ -1,4 +1,7 @@
 ﻿---
+backlinks:
+- title: Quality teaching
+  url: /memex/sense/Quality-and-teaching/quality-teaching.html
 title: Quality
 ---
 "learning our lesson" cites Biggs statement that quality can be defined as an outcome, a property, or a process.
@@ -29,6 +32,3 @@ Biggs again (emphasis added)
 Biggs, J. (2001). The Reflective Institution: Assuring and Enhancing the Quality of Teaching and Learning. Higher Education, 41(3), 221–238.
 
 [Learning our lesson: review of quality teaching in higher education](https://books.google.com.au/books?hl=en&lr=&id=mi7WAgAAQBAJ&oi=fnd&pg=PA3&ots=ouJUSq3gfK&sig=Ru_9fhmtXA1Dsu7d_kZJFmoRcB0#v=onepage&q&f=false")
-
-
-

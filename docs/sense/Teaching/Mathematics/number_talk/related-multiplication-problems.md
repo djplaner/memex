@@ -1,12 +1,12 @@
---- 
-title: Related multiplication problems
-type: "content"
+﻿---
+backlinks:
+- title: Number talk examples
+  url: /memex/sense/Teaching/Mathematics/number_talk/number-talk-examples.html
 tags: teaching, mathematics, number-talks, multiplication, arithmetic
 template: math.html
+title: Related multiplication problems
+type: content
 ---
-
-
-
 Adapted from 
 
 ## The problem
@@ -24,4 +24,3 @@ Students are asked to solve the following list of related multiplication problem
 ## References
 
 Richland, L. E., Stigler, J. W., & Holyoak, K. J. (2012). Teaching the Conceptual Structure of Mathematics. *Educational Psychologist*, *47*(3), 189--203. <https://doi.org/10.1080/00461520.2012.667065>
-

@@ -1,7 +1,11 @@
 ﻿---
+backlinks:
+- title: Design
+  url: /memex/sense/Design/design.html
+- title: Patterns, pattern languages and design practice
+  url: /memex/sense/Paper-Summaries/goodyear-patterns-design-practice.html
 title: Automating instructional design
 ---
-
 ## Background
 
 Exploration into the literature on automating instructional design. First sparked by [[goodyear-patterns-design-practice]]'s reference of Tennyson (1994)

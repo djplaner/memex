@@ -1,11 +1,13 @@
----
+﻿---
+backlinks:
+- title: End-user programming
+  url: /memex/sense/Bricolage/end-user-programming.html
+tags:
+- nodt
+- digital-technology
 title: Affordances of digital technology
 type: note
-tags:
-    - nodt
-    - digital-technology
 ---
-
 The [[bad-mindset]] mindset includes the nascent idea of [_the affordance mindset_](https://djon.es/blog/2014/11/07/established-versus-affordances-part-of-the-reason-institutional-e-learning-is-like-teenage-sex/#the-affordance-mindset). A mindset that 
 
 - knows that digital technologies can be changed; and,

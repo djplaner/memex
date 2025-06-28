@@ -1,11 +1,11 @@
----
-title: "Canvas Learning Journal - Vue implementation"
-type: "note"
+﻿---
+backlinks:
+- title: CASA Gallery
+  url: /memex/sense/CASA/casa-gallery.html
 tags: web-development, javascript, vue, canvas, casa
+title: Canvas Learning Journal - Vue implementation
+type: note
 ---
-
-
-
 Nascent idea to implement a Learning Journal [[casa]] for the Canvas LMS using Vue.js. Adapting the design from the Python version of [[canvas-learning-journal]]
 
 Steps

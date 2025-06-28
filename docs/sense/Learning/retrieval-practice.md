@@ -1,7 +1,11 @@
+﻿---
+backlinks:
+- title: Spaced practice (aka Distributed Practice)
+  url: /memex/sense/Learning/spaced-practice.html
+- title: Effective learning strategies
+  url: /memex/sense/Learning/effective-learning-strategies.html
+title: Retrieval Practice
 ---
-title: Retrieval Practice 
----
-
 Initially identified as a side effect of testing. Engaging in more retrieval improves the minds _retrieval strength_.
 
 With more complex knowledge retrieval practice benefits may be limited by other complicating factors. e.g. encoding factors and perhaps the likelihood of retrieval success (and knowing when it is done successfully)

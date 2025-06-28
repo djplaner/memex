@@ -1,12 +1,18 @@
 ﻿---
+backlinks:
+- title: Some Assemblage Required
+  url: /memex/colophon/some-assemblage-required.html
+- title: Computing
+  url: /memex/sense/computing/computing.html
+- title: Digital Weaver
+  url: /memex/sense/computing/digital-weaver.html
+tags:
+- digital-renovator
+- bad
+- bricolage
 title: Digital Renovator
 type: note
-tags:
-    - digital-renovator
-    - bad
-    - bricolage
 ---
-
 A digital renovator (perhaps aka [[digital-weaver]]) doesn't just accept the digital environment provided to them. Instead a digital renovator will make modifications so that the digital environment better suits their purpose. This is becoming easier and easier as the nature of the technologies better support this (but still perhaps not widespread).
 
 Encouraging more people to engage in digital renovation is step toward emerging from the [[current-digital-dark-age]]

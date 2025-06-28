@@ -1,4 +1,7 @@
----
+﻿---
+backlinks:
+- title: Technologies for teaching mathematics
+  url: /memex/sense/Teaching/Mathematics/technologies-for-teaching-mathematics.html
 title: Student Centred Mathematics instruction
 ---
 Defined by Thanheiser & Melhuish (2023) as instruction where

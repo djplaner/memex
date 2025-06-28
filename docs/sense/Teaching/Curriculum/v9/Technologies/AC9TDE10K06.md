@@ -1,12 +1,11 @@
-
----
-title: AC9TDE10K06
-type: "note"
+﻿---
+backlinks:
+- title: Learning Areas
+  url: /memex/sense/Teaching/Curriculum/v9/v9-learning-areas.html
 tags: australian-curriculum
+title: AC9TDE10K06
+type: note
 ---
-
-
-
 > analyse and make judgements on how characteristics and properties of materials, systems, components, tools and equipment can be combined to create designed solutions
 
 Elaborations
@@ -25,5 +24,3 @@ Elaborations
 - _AC9TDE10K06_E6_ - investigating fibre-based medical textile products and structures used in a medical environment for treatment of an injury or the clinical treatment of a wound or an illness, for example collagen fibre used as a suture is as strong as silk and biodegradable
 
 - _AC9TDE10K06_E7_ - investigating soft robotics including nanomaterials which enable them to function like human muscles
-
-

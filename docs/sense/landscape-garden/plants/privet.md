@@ -1,11 +1,17 @@
----
+﻿---
+backlinks:
+- title: Roundabout
+  url: /memex/sense/landscape-garden/roundabout.html
+- title: Plants
+  url: /memex/sense/landscape-garden/plants/plants.html
+tags:
+- wood-duck-meadows
+- plant
+- weed
+- introduced
 title: Privet
-type: "plant"
-tags: [ 'wood-duck-meadows', 'plant', 'weed', 'introduced' ]
+type: plant
 ---
-
-
-
 An evergreen bush or tree of 4-10m.
 
 ## Control

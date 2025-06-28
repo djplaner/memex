@@ -1,11 +1,15 @@
----
+﻿---
+backlinks:
+- title: Welcome
+  url: /memex/index.html
+- title: Recent changes
+  url: /memex/colophon/recent-changes.html
+tags:
+- colophon
+- computational-component
 title: Timeline of changes
 type: computational-component
-tags:
-    - colophon
-    - computational-component
 ---
-
 The following timeline uses commits to this site's git repository to create a timeline of changes. Implemented as a [[computational-components|computational component]] building on the [[recent-changes]] macro.
 
 {{ recentChangesTimeline() }}

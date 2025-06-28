@@ -1,11 +1,11 @@
----
-title: Discipline role models
-type: "note"
+﻿---
+backlinks:
+- title: 'Teaching '
+  url: /memex/sense/Teaching/teaching.html
 tags: teaching
+title: Discipline role models
+type: note
 ---
-
-
-
 General idea of breaking students' initial perspectives of a discipline by introducing them to a range of different/unexpected role models.
 
 ## [Careers with STEM](https://careerswithstem.com.au/profile-category/maths-careers/#gsc.tab=0)

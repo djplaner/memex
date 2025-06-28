@@ -1,11 +1,11 @@
----
-title: Landscape Design with Sketchup
-type: "note"
+﻿---
+backlinks:
+- title: Using Sketchup
+  url: /memex/sense/landscape-garden/using-sketchup.html
 tags: sense, landscape, garden, sketchup
+title: Landscape Design with Sketchup
+type: note
 ---
-
-
-
 Sketchup is a tool for creating geometry.
 
 ## Nascent process

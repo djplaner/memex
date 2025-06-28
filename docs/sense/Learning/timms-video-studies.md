@@ -1,11 +1,11 @@
----
+﻿---
+backlinks:
+- title: Productive Failure
+  url: /memex/sense/Teaching/Mathematics/productive-failure.html
+tags: teaching-mathematics
 title: TIMMS Video Studies
-type: "note"
-tags: teaching-mathematics 
+type: note
 ---
-
-
-
 [1995 and 1999 projects](https://nces.ed.gov/TIMSS/video.asp) in which researchers video recorded and analysed lessons taught by mathematics teachers from across the world. 
 
 ## US versus Japan
@@ -20,5 +20,3 @@ tags: teaching-mathematics
 ## References
 
 Hanford, E. (2015). An American way of teaching. *APM Reports*. <https://www.apmreports.org/episode/2015/08/27/an-american-way-of-teaching>
-
-

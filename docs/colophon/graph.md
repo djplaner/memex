@@ -1,14 +1,18 @@
----
-title: Bubble graph
-type: graph-visualisation
+﻿---
+backlinks:
+- title: Publishing graph interface
+  url: /memex/colophon/publishing-graph-interface.html
 tags:
-    - colophon
-    - visualisation
+- colophon
+- visualisation
 template: graph.html
+title: Memex network graph
+type: graph-visualisation
 ---
 
-Experimentation in include force-graph visualisations.
+Experimenting with generating a network visualisation of the structure of Memex bubbles.
+
+!!! warning "🚧 Under construction  🚧"
 
 
   <div id="graph-container"></div>
-

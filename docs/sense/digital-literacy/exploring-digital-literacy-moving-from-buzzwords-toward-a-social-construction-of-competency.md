@@ -1,4 +1,7 @@
 ﻿---
+backlinks:
+- title: Digital Literacy
+  url: /memex/sense/Learning/digital-literacy.html
 title: 'Exploring digital literacy: moving from buzzwords towards a social construction
   of competency'
 ---

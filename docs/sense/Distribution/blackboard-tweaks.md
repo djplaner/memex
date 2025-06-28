@@ -1,4 +1,7 @@
 ﻿---
+backlinks:
+- title: Distribution
+  url: /memex/sense/Distribution/distribution.html
 title: Blackboard tweaks
 ---
 The Blackboard LMS Learn (9.1) is an enterprise system. A LMS seen as very unmodifiable. However it has been.  Two building blocks offer direct support

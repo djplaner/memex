@@ -1,11 +1,11 @@
----
-title: "Vue components/props in depth"
-type: "note"
+﻿---
+backlinks:
+- title: Learning Vue
+  url: /memex/sense/Web-development/learning-vue.html
 tags: web-development, javascript, vue
+title: Vue components/props in depth
+type: note
 ---
-
-
-
 - [Vue components in depth props](https://vue-community.org/js/vue-js-components-in-depth-props.html)
 - [State management](https://vuejs.org/guide/scaling-up/state-management.html)
 
@@ -56,5 +56,3 @@ Use `reactive` to create a reactive object. Value and functions to modify.
 ## Props
 
 Custom attributes defined on a component. Can be any Javascript data type.
-
-

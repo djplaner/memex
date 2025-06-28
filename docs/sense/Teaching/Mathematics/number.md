@@ -1,4 +1,7 @@
----
+﻿---
+backlinks:
+- title: Mathematical Topics
+  url: /memex/sense/Teaching/Mathematics/mathematical-topics.html
 title: Number
 ---
 ## Summary

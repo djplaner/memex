@@ -1,4 +1,11 @@
 ﻿---
+backlinks:
+- title: Individual plants
+  url: /memex/sense/landscape-garden/individual-plants/individual-plants.html
+- title: Longnan (Rocky Creek frontage)
+  url: /memex/sense/landscape-garden/individual-plants/longnan-rocky-creek-frontage.html
+- title: Lychee (Salathiel)
+  url: /memex/sense/landscape-garden/individual-plants/lychee-salathiel.html
 latitude: -27.53817
 longitude: 152.05557216666668
 photos:

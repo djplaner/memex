@@ -1,15 +1,17 @@
----
-title: Teacher preparation
-type: "note"
+﻿---
+backlinks:
+- title: Seek
+  url: /memex/seek/seek.html
+- title: Leveraging digital technologies
+  url: /memex/seek/leveraging-digital-technologies.html
 tags:
-    - seek
-    - teaching
-    - mathematics
-    - digital-technologies
+- seek
+- teaching
+- mathematics
+- digital-technologies
+title: Teacher preparation
+type: note
 ---
-
-
-
 Goal is to prepare and get better at [[teaching-mathematics]] and [[teaching-digital-technologies]]
 
 ## Rationale

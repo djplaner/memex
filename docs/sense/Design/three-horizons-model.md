@@ -1,4 +1,7 @@
----
+﻿---
+backlinks:
+- title: Design
+  url: /memex/sense/Design/design.html
 title: Three Horizons Model
 ---
 Way of thinking about future thinking...lot more

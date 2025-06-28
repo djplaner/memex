@@ -1,11 +1,13 @@
----
-title: Mathematics Class Survey
-type: "note"
+﻿---
+backlinks:
+- title: Teaching Mathematics
+  url: /memex/sense/Teaching/Mathematics/teaching-mathematics.html
+- title: 'MATH081C Unit 1, Lesson 1: 2024'
+  url: /memex/sense/Teaching/Implementation/2024/MAT081C/mat081c-2024-u1l1.html
 tags: teaching-mathematics
+title: Mathematics Class Survey
+type: note
 ---
-
-
-
 Collection of ideas for initial (and perhaps on-going) surveys of students in mathematics classes.
 
 
@@ -56,6 +58,3 @@ When it comes to learning mathematics, where am I now? (scale is 4 point from "n
 ### Emergent math - [mindset and attitudes survey](https://emergentmath.com/2019/08/14/mathsurvey/)
 
 Some open ended questions. The website has some pie charts showing % responses - might be useful for comparisons.
-
-
-

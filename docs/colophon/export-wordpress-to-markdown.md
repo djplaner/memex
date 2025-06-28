@@ -1,10 +1,16 @@
----
+﻿---
+backlinks:
+- title: Modify Markdown files
+  url: /memex/colophon/modify-markdown-files.html
+- title: Convert Wordpress into Memex
+  url: /memex/colophon/convert-wordpress-into-memex.html
+- title: A new day
+  url: /memex/share/blog/2025/a-new-day.html
+tags:
+- colophon
 title: Export Wordpress to Markdown
 type: note
-tags: 
-    - colophon
 ---
-
 Used [Wordpress export to Markdown](https://github.com/lonekorean/wordpress-export-to-markdown) to generate a collection of markdown files that are then further copied/manipulated into Memex through the [[modify-markdown-files]] process.
 
 ### Resources

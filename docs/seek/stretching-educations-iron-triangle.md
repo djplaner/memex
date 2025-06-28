@@ -1,12 +1,14 @@
----
-title: Stretching education's iron triangle
-type: "note"
+﻿---
+backlinks:
+- title: Seek
+  url: /memex/seek/seek.html
+- title: Seek triage list
+  url: /memex/seek/seek-triage.html
 tags:
-    - seek
---- 
-
-
-
+- seek
+title: Stretching education's iron triangle
+type: note
+---
 ## Related work
 
 [[iron-triangle]]

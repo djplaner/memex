@@ -1,12 +1,12 @@
----
-title: Seek triage list
-type: "note"
+﻿---
+backlinks:
+- title: Seek triage list
+  url: /memex/seek/seek-triage.html
 tags:
-    - seek
+- seek
+title: Seek triage list
+type: note
 ---
-
-
-
 Dumping ground for ideas and resources that haven't yet been [made sense of](../sense/sense.md).
 
 See also - [[seek-triage]]

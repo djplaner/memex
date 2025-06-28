@@ -1,4 +1,9 @@
 ﻿---
+backlinks:
+- title: Colophon
+  url: /memex/colophon/colophon.html
+- title: Deploy with GitHub Action
+  url: /memex/colophon/deploy-with-github-action.html
 tags:
 - colophon
 title: Why combine mkdocs with Foam

@@ -1,11 +1,11 @@
----
-title: Using Sketchup
-type: "note"
+﻿---
+backlinks:
+- title: Bush regeneration (Wood duck meadows)
+  url: /memex/sense/landscape-garden/regeneration.html
 tags: sense, landscape, garden, sketchup
+title: Using Sketchup
+type: note
 ---
-
-
-
 ## Basics
 
 Resources 

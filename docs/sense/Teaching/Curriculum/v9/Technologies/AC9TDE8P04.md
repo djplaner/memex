@@ -1,12 +1,11 @@
-
----
-title: AC9TDE8P04
-type: "note"
+﻿---
+backlinks:
+- title: Learning Areas
+  url: /memex/sense/Teaching/Curriculum/v9/v9-learning-areas.html
 tags: australian-curriculum
+title: AC9TDE8P04
+type: note
 ---
-
-
-
 > develop design criteria collaboratively including sustainability to evaluate design ideas, processes and solutions
 
 Elaborations
@@ -19,5 +18,3 @@ Elaborations
 - _AC9TDE8P04_E3_ - re-evaluating, iterating and modifying design processes to improve efficiency and increase production, for example when mass producing a product for an enterprise or improving sustainability
 
 - _AC9TDE8P04_E4_ - evaluating designed solutions and processes and transferring new knowledge and skills to future design projects, for example considering project planning skills learnt in producing an engineered product and using them in future projects
-
-

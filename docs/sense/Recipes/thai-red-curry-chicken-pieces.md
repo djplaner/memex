@@ -1,15 +1,15 @@
----
+﻿---
+backlinks:
+- title: Recipes
+  url: /memex/sense/Recipes/recipes.html
+tags:
+- recipes
+- chicken
+- curry
+- thai
 title: Thai red curry chicken pieces
 type: recipe
-tags: 
-    - recipes
-    - chicken
-    - curry
-    - thai
 ---
-
-
-
 Initial attempt to document a personal take on a Thai red curry using chicken pieces cooked on the stove. Based on [this recipe from Alexandra Stafford](https://alexandracooks.com/2019/09/22/one-pot-thai-chicken-curry/) which in turn is based on a restaurant recipe that used browning.
 
 The argument Stafford gives for avoiding browning is the purposes of browning can be achieved in the oven, thereby avoiding the hassle. Which is great is you have a big enough oven to take your pot.
@@ -51,5 +51,3 @@ Serve with steamed rice.
 11. Remove lid, stir in basil and cook for 15-30 minutes.
 12. Stir in spinach
 13. Serve with rice.
-
-

@@ -1,4 +1,7 @@
 ﻿---
+backlinks:
+- title: Loose notes
+  url: /memex/sense/loose/loose.html
 title: Professional learning
 ---
 Mayer and Lloyd (2011, p.3) offer
@@ -11,7 +14,3 @@ But go onto use an "encompassing definition" of both development and learning of
 
 Mayer, D. Lloyd, M. (2011) 
 [Professional Learning: An introduction to the research literature](http://www.aitsl.edu.au/docs/default-source/default-document-library/professional_learning_an_introduction_to_research_literature)
-
-
-
-

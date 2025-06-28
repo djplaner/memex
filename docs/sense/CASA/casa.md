@@ -1,15 +1,52 @@
----
+﻿---
+backlinks:
+- title: Some Assemblage Required
+  url: /memex/colophon/some-assemblage-required.html
+- title: How to Develop Web Components
+  url: /memex/sense/how-to-develop-web-components.html
+- title: Sense
+  url: /memex/sense/sense.html
+- title: Supporting the design of discipline-specific digital learning activities
+  url: /memex/share/blog/supporting-the-design-of-discipline-specific-learning-spaces.html
+- title: Challenge of Teachers' Design Practice
+  url: /memex/sense/Design/challenge-of-teachers-design-practice.html
+- title: Shaping Spaces - Peter Goodyear ALTC 2017 Keynote
+  url: /memex/sense/Design/goodyear-shaping-spaces.html
+- title: Exploring australian curriculum
+  url: /memex/sense/Python/exploring-australian-curriculum.html
+- title: Canvas Learning Journal - Vue implementation
+  url: /memex/sense/CASA/vue-canvas-learning-journal.html
+- title: CASA Gallery
+  url: /memex/sense/CASA/casa-gallery.html
+- title: The relationships between BAD/SET, CASA, and Gather/Weave
+  url: /memex/sense/CASA/bad_set-casa-gather-weave.html
+- title: Blackboard tweaks
+  url: /memex/sense/Distribution/blackboard-tweaks.html
+- title: Patterns, pattern languages and design practice
+  url: /memex/sense/Paper-Summaries/goodyear-patterns-design-practice.html
+- title: Teaching as interweaving
+  url: /memex/sense/Teaching/teaching-as-interweaving.html
+- title: My Teaching Philosophy
+  url: /memex/sense/Teaching/my-teaching-philosophy.html
+- title: My First LitElement Web Component
+  url: /memex/sense/Web-development/my-first-litelement-web-component.html
+- title: First experiments with LLM APIs
+  url: /memex/sense/AI/explorations/first-llm-api-experiments.html
+- title: H-A-X as CASA?
+  url: /memex/sense/CASA/CASA/hax-as-casa.html
+- title: Log 3 - Canvas learning journal
+  url: /memex/sense/CASA/CASA/log-3-canvas-learning-journal.html
+- title: Canvas Learning Journal
+  url: /memex/sense/CASA/CASA/canvas-learning-journal.html
+tags:
+- CASA
+- BAD
+- scaffolding
+- assemblages
+- design
 title: Contextually Appropriate Scaffolding Assemblages (CASA)
 type: index
-tags:
-    - CASA
-    - BAD
-    - scaffolding
-    - assemblages
-    - design
 ---
-
-
 Contextually Appropriate Scaffolding Assemblages (CASA) is a mini-theory of digital learning design. It's related to the other mini-theories of [[bad-mindset]]/[[set-mindset]] and [[gather-weave]]. For more see this [[bad_set-casa-gather-weave|weaving together]] of these mini-theories.
 
 See the [[casa-gallery]] for examples of CASA.

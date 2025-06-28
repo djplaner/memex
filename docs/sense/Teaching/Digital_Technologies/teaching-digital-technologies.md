@@ -1,7 +1,17 @@
 ﻿---
+backlinks:
+- title: Teacher preparation
+  url: /memex/seek/teacher-preparation.html
+- title: Exploring australian curriculum
+  url: /memex/sense/Python/exploring-australian-curriculum.html
+- title: Creative coding experiments
+  url: /memex/sense/Python/creative-coding-with-python.html
+- title: 'Teaching '
+  url: /memex/sense/Teaching/teaching.html
+- title: Crackers
+  url: /memex/sense/Teaching/Mathematics/crackers.html
 title: Teaching Digital Technologies
 ---
-
 <div class="grid cards" markdown>
 
 - ## Societal

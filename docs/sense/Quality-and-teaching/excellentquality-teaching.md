@@ -1,4 +1,7 @@
 ﻿---
+backlinks:
+- title: Quality and teaching
+  url: /memex/sense/Quality-and-teaching/quality-and-teaching.html
 title: Excellent/quality teaching
 ---
 ## The problem
@@ -23,5 +26,3 @@ James et al (2015)
 ## Sources
 
 James, R., Baik, C., Millar, V., Naylor, R., Bexley, E., Kennedy, G., … Booth, C. (2015). [Advancing the quality and status of teaching in Australian higher education.](http://www.olt.gov.au/resource-academic-workforce-2025) Sydney: Office for Learning and Teaching.
-
-

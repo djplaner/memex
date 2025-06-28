@@ -1,11 +1,11 @@
----
-title: Ecosystem metrics
-type: "note"
+﻿---
+backlinks:
+- title: Bush regeneration (Wood duck meadows)
+  url: /memex/sense/landscape-garden/regeneration.html
 tags: landscape, garden, ecosystem
+title: Ecosystem metrics
+type: note
 ---
-
-
-
 Information about measuring and evaluating the quality of an ecosystem.
 
 ## [John D Lui](https://regenerationinternational.org/2016/03/07/meet-john-d-liu-the-indiana-jones-of-landscape-restoration/) - metrics for healthy ecosystem

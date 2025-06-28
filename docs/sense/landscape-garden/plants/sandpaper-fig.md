@@ -1,11 +1,20 @@
----
+﻿---
+backlinks:
+- title: Plants
+  url: /memex/sense/landscape-garden/plants/plants.html
+- title: Sandpaper fig - The island
+  url: /memex/sense/landscape-garden/individual-plants/island-sandpaper-fig.html
+- title: Hugh and Kay's Sandpaper Fig (Gatton Creek frontage)
+  url: /memex/sense/landscape-garden/individual-plants/hugh-and-kays-sandpaper-fig.html
+tags:
+- plant
+- fig
+- wood-duck-meadows
+- tree
+- native
 title: Sandpaper fig
 type: plants
-tags: ['plant', 'fig', 'wood-duck-meadows', 'tree', 'native']
 ---
-
-
-
 Adding to the numerous fig (ficus) trees on [[wood-duck-meadows]] are a couple sandpaper figs ([[island-sandpaper-fig]]) we planted out in 2024 and 2024.
 
 Wikipedia offers at least three species of sandpaper fig, including:

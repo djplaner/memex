@@ -1,12 +1,13 @@
-
----
-title: AC9TDI10P11
-type: "note"
+﻿---
+backlinks:
+- title: DIG101A-2024
+  url: /memex/sense/Teaching/Implementation/2024/DIG101A/dig101a-2024.html
+- title: Learning Areas
+  url: /memex/sense/Teaching/Curriculum/v9/v9-learning-areas.html
 tags: australian-curriculum
+title: AC9TDI10P11
+type: note
 ---
-
-
-
 > select and use emerging digital tools and advanced features to create and communicate interactive content for a diverse audience
 
 ??? note "Elaborations"
@@ -18,5 +19,3 @@ tags: australian-curriculum
 ??? note "Achievement Standard Components"
 
 	- _ASTECTDI91005_ - They use advanced features of digital tools to create interactive content, and to plan, collaborate on, and manage agile projects.
-
-

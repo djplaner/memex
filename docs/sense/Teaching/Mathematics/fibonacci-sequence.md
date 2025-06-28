@@ -1,6 +1,9 @@
----
-title: Fibonacci sequence
+﻿---
+backlinks:
+- title: Mathematical Topics
+  url: /memex/sense/Teaching/Mathematics/mathematical-topics.html
 template: math.html
+title: Fibonacci sequence
 ---
 References:  [Wikipedia](https://en.wikipedia.org/wiki/Fibonacci_sequence), [Math is fun](https://www.mathsisfun.com/numbers/fibonacci-sequence.html)
 

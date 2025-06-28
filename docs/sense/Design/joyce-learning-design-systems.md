@@ -1,4 +1,9 @@
 ﻿---
+backlinks:
+- title: Challenge of Teachers' Design Practice
+  url: /memex/sense/Design/challenge-of-teachers-design-practice.html
+- title: Design
+  url: /memex/sense/Design/design.html
 title: Joyce Learning Design Systems
 ---
 Notes arising from talk by Joyce Seitzinger ["How Learning Design Systems Can Help Scale and Accelerate Learning Design"](https://vussc.col.org/index.php/2020/10/26/power-up-design-webinar-starts-oct-29/)

@@ -1,4 +1,7 @@
 ﻿---
+backlinks:
+- title: Design
+  url: /memex/sense/Design/design.html
 title: Growing with Canvas
 ---
 Summary of working through [a training course](https://www.canvas.net/browse/cn-pd/courses/growing-with-canvas) offered by Canvas. Ooh, and earning badges ��.

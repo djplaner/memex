@@ -1,7 +1,9 @@
+﻿---
+backlinks:
+- title: Meddler in the middle
+  url: /memex/sense/Conferences/ascilite2022/meddler-in-the-middle.html
+title: Teaching as design science
 ---
-title: Teaching as design science 
----
-
 ## Laurillard, 2012
 
 > Teaching is a design science. Like the professions of engineering, architecture, computer science, and medicine, it is not only trying to understand the world but to make the world a better place. Unlike these professions, however, it has not, traditionally, been treated as if teaching is meant to be anything other than a craft-amateur enterprise, where every teacher works alone with their students to do the best they can, given their initial training (p. 225)

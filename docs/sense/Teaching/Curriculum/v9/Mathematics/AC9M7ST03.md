@@ -1,11 +1,11 @@
----
-title: AC9M7ST03
-type: "note"
+﻿---
+backlinks:
+- title: Learning Areas
+  url: /memex/sense/Teaching/Curriculum/v9/v9-learning-areas.html
 tags: australian-curriculum
+title: AC9M7ST03
+type: note
 ---
-
-
-
 > plan and conduct statistical investigations involving data for discrete and continuous numerical variables; analyse and interpret distributions of data and report findings in terms of shape and summary statistics
 
 ??? note "Elaborations"
@@ -16,5 +16,3 @@ tags: australian-curriculum
 ??? note "Achievement Standard Components"
 
 	- _ASMAT716_ - They plan and conduct statistical investigations involving discrete and continuous numerical data, using appropriate displays.
-
-

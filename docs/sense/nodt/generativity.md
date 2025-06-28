@@ -1,4 +1,13 @@
----
+﻿---
+backlinks:
+- title: Automating instructional design
+  url: /memex/sense/Design/automating-instructional-design.html
+- title: Nature of Digital Technology (nodt)
+  url: /memex/sense/nodt/nodt.html
+- title: Patterns, pattern languages and design practice
+  url: /memex/sense/Paper-Summaries/goodyear-patterns-design-practice.html
+- title: The Mathematical Design and Implementation Framework
+  url: /memex/sense/Teaching/Mathematics/mathematical-design-and-implementation-framework.html
 title: Generativity
 ---
 ## Zittrain (2006)

@@ -1,7 +1,9 @@
+﻿---
+backlinks:
+- title: Learning
+  url: /memex/sense/Learning/learning.html
+title: Student Learning Profiles
 ---
-title: Student Learning Profiles 
----
-
 ## Overview 
 
 Working on the idea that there may be broadly descriptive profiles of how students go about learning.

@@ -1,13 +1,11 @@
-
----
-title: AC9TDE8P01
-type: "note"
+﻿---
+backlinks:
+- title: Learning Areas
+  url: /memex/sense/Teaching/Curriculum/v9/v9-learning-areas.html
 tags: australian-curriculum
+title: AC9TDE8P01
+type: note
 ---
-
-
-
-
 > analyse needs or opportunities for designing, and investigate and select materials, components, tools, equipment and processes to create designed solutions
 
 Elaborations
@@ -26,5 +24,3 @@ Elaborations
 - _AC9TDE8P01_E6_ - analysing the viability of using different techniques and materials in areas considered remote, isolated areas or less developed countries and selecting appropriate materials to acknowledge sustainability needs by using life cycle thinking
 
 - _AC9TDE8P01_E7_ - creating a survey to determine students’ food choices and developing a range of healthy food items such as snacks, juices, breakfast or nourish bowls such as a Buddha bowl which could be sold at the school canteen
-
-

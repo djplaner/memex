@@ -1,4 +1,13 @@
 ﻿---
+backlinks:
+- title: Implementing number scrabble
+  url: /memex/sense/Representations/implementing-number-scrabble.html
+- title: Prompt engineering
+  url: /memex/sense/AI/prompt-engineering.html
+- title: AI
+  url: /memex/sense/AI/AI.html
+- title: First experiments with LLM APIs
+  url: /memex/sense/AI/explorations/first-llm-api-experiments.html
 title: prompt-engineering-for-educators
 ---
 ## Designing effective AI Prompts (for Primary and High School Teachers)

@@ -1,11 +1,17 @@
----
-title: Australian Professional Standards for Teachers
-type: "note"
+﻿---
+backlinks:
+- title: 'Teaching '
+  url: /memex/sense/Teaching/teaching.html
+- title: Classroom management
+  url: /memex/sense/Teaching/RTT/rtt-classroom-management.html
+- title: The legal context
+  url: /memex/sense/Teaching/RTT/rtt-the-legal-context.html
+- title: Effective teaching
+  url: /memex/sense/Teaching/RTT/rtt-effective-teaching.html
 tags: teaching
+title: Australian Professional Standards for Teachers
+type: note
 ---
-
-
-
 Resources: [QCOT APST page](https://www.qct.edu.au/standards-and-conduct/professional-standards)
 
 ## Professional knowledge
@@ -109,4 +115,3 @@ Resources: [QCOT APST page](https://www.qct.edu.au/standards-and-conduct/profess
 #### Focus 7.3 - Engage with the parents/carers
 
 #### Focus 7.4 - Engage with professional teaching networks and broader communities
-

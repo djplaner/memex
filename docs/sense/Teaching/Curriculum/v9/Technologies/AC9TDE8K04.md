@@ -1,13 +1,11 @@
-
----
-title: AC9TDE8K04
-type: "note"
+﻿---
+backlinks:
+- title: Learning Areas
+  url: /memex/sense/Teaching/Curriculum/v9/v9-learning-areas.html
 tags: australian-curriculum
+title: AC9TDE8K04
+type: note
 ---
-
-
-
-
 > analyse how food and fibre are produced in managed environments and how these can become sustainable
 
 Elaborations
@@ -24,5 +22,3 @@ Elaborations
 - _AC9TDE8K04_E5_ - investigating different animal nutrition strategies such as grazing and supplementary feeding, and their effects on quality when producing food and fibre products, for example meat tenderness, wool-fibre diameter (micron), milk fat and protein content
 
 - _AC9TDE8K04_E6_ - recognising the importance of food and fibre production to Australia’s food security and economy, including exports and imports to and from countries across Asia, for example exports of Tasmanian Candy Abalone (wild-caught dried abalone)
-
-

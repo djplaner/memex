@@ -1,4 +1,7 @@
 ﻿---
+backlinks:
+- title: Paper Ideas
+  url: /memex/sense/Paper-Ideas/paper-ideas.html
 title: 'Exploring conceptions of technology: Implications for learning, teaching,
   and meso-level practitioners'
 ---

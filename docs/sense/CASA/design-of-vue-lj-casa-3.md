@@ -1,11 +1,11 @@
----
-title: "Design of Canvas Learning Journal CASA 3"
-type: "note"
+﻿---
+backlinks:
+- title: Canvas Learning Journal - Vue implementation
+  url: /memex/sense/CASA/vue-canvas-learning-journal.html
 tags: web-development, javascript, vue, canvas, casa
+title: Design of Canvas Learning Journal CASA 3
+type: note
 ---
-
-
-
 ## Adopted approach
 
 ### Development
@@ -67,4 +67,3 @@ Todo
 
 
 ## Reporting mechanism
-

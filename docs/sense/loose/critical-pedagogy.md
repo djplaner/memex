@@ -1,4 +1,7 @@
----
+﻿---
+backlinks:
+- title: Ethical and Critical considerations
+  url: /memex/sense/ethics-critical/ethics-critical.html
 title: Critical pedagogy
 ---
 > Critical Pedagogy is an approach to teaching and learning predicated on fostering agency and empowering learners (implicitly and explicitly critiquing oppressive power structures). [source](http://www.digitalpedagogylab.com/hybridped/critical-digital-pedagogy-definition/)

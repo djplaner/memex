@@ -1,11 +1,19 @@
----
+﻿---
+backlinks:
+- title: Exploring australian curriculum
+  url: /memex/sense/Python/exploring-australian-curriculum.html
+- title: Australian Curriculum
+  url: /memex/sense/Teaching/Curriculum/australian-curriculum.html
+- title: CSER Statistics - Content in Action
+  url: /memex/sense/Teaching/Mathematics/cser-mooc/cser-cia-statistics.html
+- title: CSER MiS - Getting started module
+  url: /memex/sense/Teaching/Mathematics/cser-mooc/cser-getting-started.html
+tags:
+- teaching
+- australian-curriculum
 title: Learning Areas
 type: teaching
-tags: [teaching, australian-curriculum]
 ---
-
-
-
 ??? info "About this page"
 
     The base information on this page is generated automatically from [machine-readable versions](https://v9.australiancurriculum.edu.au/machine-readable-australian-curriculum) of [version 9 of the Australian Curriculum](https://v9.australiancurriculum.edu.au/) using [this project](https://github.com/djplaner/exploring-australian-curriculum#exploring-the-australian-curriculum)    

@@ -1,11 +1,29 @@
----
+﻿---
+backlinks:
+- title: The Island
+  url: /memex/sense/landscape-garden/the-island.html
+- title: Gatton creek frontage
+  url: /memex/sense/landscape-garden/gatton-creek-frontage.html
+- title: Wood duck meadows
+  url: /memex/sense/landscape-garden/wood-duck-meadows.html
+- title: Roundabout
+  url: /memex/sense/landscape-garden/roundabout.html
+- title: Macadamia integrifolia (Queensland Nut)
+  url: /memex/sense/landscape-garden/plants/macadamia-integrifolia.html
+- title: Talinum paniculatum (Pink baby's breath)
+  url: /memex/sense/landscape-garden/plants/talinum-paniculatum.html
+- title: Plants
+  url: /memex/sense/landscape-garden/plants/plants.html
+tags:
+- wood-duck-meadows
+- plant
+- weed
+- vine
+- introduced
+- invasive
 title: Madeira vine (Anredera cordifolia)
-type: "plants"
-tags: [ 'wood-duck-meadows', 'plant', 'weed', 'vine', 'introduced', 'invasive' ]
+type: plants
 ---
-
-
-
 [Madeira vine (Anredera cordifolia)](https://en.wikipedia.org/wiki/Anredera_cordifolia)  is an ornamental, succulent, South American vine. It is [serious environmental weed](https://www.business.qld.gov.au/industries/farms-fishing-forestry/agriculture/biosecurity/plants/invasive/restricted/madeira-vine) that can overgrow and smother native vegetation. 
 
 ## Details 

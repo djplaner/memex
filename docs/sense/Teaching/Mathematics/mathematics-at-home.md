@@ -1,11 +1,11 @@
----
-title: Mathematics at home
-type: "note"
+﻿---
+backlinks:
+- title: Teaching Mathematics
+  url: /memex/sense/Teaching/Mathematics/teaching-mathematics.html
 tags: teaching-mathematics, teaching
+title: Mathematics at home
+type: note
 ---
-
-
-
 Initially, a summary of Bragg et al (2020)
 
 > When schools, families and community groups work together to support learning, children tend to do better in school, stay in school longer, and like school more” (Henderson & Mapp, 2002).
@@ -47,4 +47,3 @@ Takes a more explicit focus at encouraging families to engage in math at home
 ## References
 
 Bragg, L. A., Herbert, S., & Brown, J. P. (2020). *Engaging Families in Mathematics Education* (p. 18). Department of Education and Training (Victoria).
-

@@ -1,13 +1,11 @@
-
----
-title: AC9TDE10P02
-type: "note"
+﻿---
+backlinks:
+- title: Learning Areas
+  url: /memex/sense/Teaching/Curriculum/v9/v9-learning-areas.html
 tags: australian-curriculum
+title: AC9TDE10P02
+type: note
 ---
-
-
-
-
 > apply innovation and enterprise skills to generate, test, iterate and communicate design ideas, processes and solutions, including using digital tools
 
 Elaborations
@@ -24,5 +22,3 @@ Elaborations
 - _AC9TDE10P02_E5_ - communicating using appropriate technical terms and recording the generation and development of design ideas and processes for an intended audience including justification of decisions, for example developing a digital portfolio with images and text which clearly communicate each step of a design process
 
 - _AC9TDE10P02_E6_ - using design thinking and enterprise skills to create innovative approaches to processes and solutions, for example brainstorming novel ideas inspired by nature or transforming a solution into an enterprise for a target market
-
-

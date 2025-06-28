@@ -1,11 +1,13 @@
----
-title: AC9M8SP04
-type: "note"
+﻿---
+backlinks:
+- title: CSER MiS - Getting started module
+  url: /memex/sense/Teaching/Mathematics/cser-mooc/cser-getting-started.html
+- title: Learning Areas
+  url: /memex/sense/Teaching/Curriculum/v9/v9-learning-areas.html
 tags: australian-curriculum
+title: AC9M8SP04
+type: note
 ---
-
-
-
 > design, create and test algorithms involving a sequence of steps and decisions that identify congruency or similarity of shapes, and describe how the algorithm works
 
 ??? note "Elaborations"
@@ -16,5 +18,3 @@ tags: australian-curriculum
 ??? note "Achievement Standard Components"
 
 	- _ASMAT814_ - They identify conditions for congruency and similarity in shapes and create and test algorithms designed to test for congruency and similarity.
-
-

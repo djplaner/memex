@@ -1,4 +1,9 @@
----
+﻿---
+backlinks:
+- title: Bricolage
+  url: /memex/sense/Bricolage/bricolage.html
+- title: End-user programming
+  url: /memex/sense/Bricolage/end-user-programming.html
 title: Literature of DIY software development
 ---
 ## Shell and DIY/Citizen development

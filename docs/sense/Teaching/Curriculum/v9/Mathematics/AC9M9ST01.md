@@ -1,11 +1,11 @@
----
-title: AC9M9ST01
-type: "note"
+﻿---
+backlinks:
+- title: Learning Areas
+  url: /memex/sense/Teaching/Curriculum/v9/v9-learning-areas.html
 tags: australian-curriculum
+title: AC9M9ST01
+type: note
 ---
-
-
-
 > analyse reports of surveys in digital media and elsewhere for information on how data was obtained to estimate population means and medians
 
 ??? note "Elaborations"
@@ -18,5 +18,3 @@ tags: australian-curriculum
 ??? note "Achievement Standard Components"
 
 	- _ASMAT917_ - Students explain how sampling techniques and representation can be used to support or question conclusions or to promote a point of view.
-
-

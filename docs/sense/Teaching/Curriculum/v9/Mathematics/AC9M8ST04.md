@@ -1,11 +1,13 @@
----
-title: AC9M8ST04
-type: "note"
+﻿---
+backlinks:
+- title: MAT081C-2024
+  url: /memex/sense/Teaching/Implementation/2024/MAT081C/mat081c-2024.html
+- title: Learning Areas
+  url: /memex/sense/Teaching/Curriculum/v9/v9-learning-areas.html
 tags: australian-curriculum
+title: AC9M8ST04
+type: note
 ---
-
-
-
 > plan and conduct statistical investigations involving samples of a population; use ethical and fair methods to make inferences about the population and report findings, acknowledging uncertainty
 
 ??? note "Elaborations"
@@ -16,5 +18,3 @@ tags: australian-curriculum
 ??? note "Achievement Standard Components"
 
 	- _ASMAT816_ - They conduct statistical investigations and explain the implications of obtaining data through sampling.
-
-

@@ -1,11 +1,11 @@
----
-title: Notes on birding resources
-type: "note"
+﻿---
+backlinks:
+- title: Birding
+  url: /memex/sense/birdwatching/birding.html
 tags: birdwatching, birding
+title: Notes on birding resources
+type: note
 ---
-
-
-
 Diary of exploration into birding resources.
 
 ## Exploring
@@ -53,4 +53,3 @@ Science project out of the Cornell Lab of Ornithology. Has a free mobile app and
 App to help with bird identification. From the Cornell Lab of Ornithology. Has bird packs for different regions.
 
 ## Explored
-
