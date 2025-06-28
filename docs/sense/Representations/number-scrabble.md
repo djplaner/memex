@@ -1,9 +1,12 @@
 ---
 title: Number scrabble (aka Fifteen)
-type: "note"
-tags: representations, design, mathematics, teaching-mathematics
+type: note
+tags: 
+    - representations 
+    - design 
+    - mathematics 
+    - teaching-mathematics
 ---
-
 
 
 [Number Scrabble](https://en.wikipedia.org/wiki/Number_Scrabble) (aka Pick 15, 3 to 15, [15](https://nrich.maths.org/1223)) is a mathematical game used by Herb Simon to demonstrate the importance of representation to design. 

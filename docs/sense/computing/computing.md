@@ -59,6 +59,8 @@ Putting people at the centre of technology.
 
 - [[team-topologies]]
 - [[programming-languages]]
+- [[three-great-virtues-programmer]] - laziness, impatience, hubris
+- [[developer-automation]]
 
 ## Teaching 
 
@@ -104,6 +106,8 @@ Putting people at the centre of technology.
 [skills-framework-for-the-information-age]: profession/skills-framework-for-the-information-age "Skills Framework for the Information Age"
 [team-topologies]: team-topologies "Team Topologies"
 [programming-languages]: programming-languages "Programming Languages"
+[three-great-virtues-programmer]: ../relational/software-deveopment/three-great-virtues-programmer "Three great virtues of a programmer"
+[developer-automation]: ../relational/software-deveopment/developer-automation "Developer automation"
 [computing-project-ideas]: computing-project-ideas "Computing project ideas"
 [instructions]: instructions "Instructions"
 [understanding-sharepoint]: sharepoint/understanding-sharepoint "Understanding Sharepoint"

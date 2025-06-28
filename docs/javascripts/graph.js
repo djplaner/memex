@@ -5,21 +5,9 @@ document.addEventListener("DOMContentLoaded", function () {
 });
 
 function getData() {
-
-    // Sigma.js
-    /*    const graph = new graphology.Graph();
-        graph.addNode("1", { label: "Node 1", x: 0, y: 0, size: 10, color: "blue" });
-        graph.addNode("2", { label: "Node 2", x: 1, y: 1, size: 20, color: "red" });
-        graph.addEdge("1", "2", { size: 5, color: "purple" }); */
-
-    graphElement = document.getElementById("graph-container");
-    if (!graphElement) {
-        console.error("Graph element not found");
-        return;
-    }
-
     // fetch the graph data from the JSON file
     fetch('/memex/colophon/graph.json').
+    //fetch('https://assets.antv.antgroup.com/g6/graph.json').
         then(response => {
             if (!response.ok) {
                 throw new Error('Network response was not ok');
@@ -33,13 +21,96 @@ function getData() {
         .catch(error => {
             console.error('There has been a problem with your fetch operation:', error);
         });
-
 }
 
+function createGraph(data) {
+    // Sigma.js
+    //const graph = new graphology.Graph();
 
-function createGraph(graphData) {
+/*    graphElement = document.getElementById("graph-container");
+    if (!graphElement) {
+        console.error("Graph element not found");
+        return;
+    } */
 
-    const cy = cytoscape({
+
+    // G6
+    const { Graph } = G6;
+
+    const graph = new Graph({
+        container: 'graph-container',
+        autoFit: 'view',
+        data,
+        plugins: [
+            {
+                type: 'tooltip',
+                getContent: (e,items) => {
+                    const node = items[0].data;
+                    return `<div class="tooltip-content">
+                                <h3>${node.name}</h3>
+                                <p>ID: <a href="${items[0].id}">${items[0].id}</a></p>
+                            </div>`;
+                }
+            }
+        ],
+        node: {
+          style: {
+            size: 10,
+          },
+          palette: {
+            field: 'group',
+            color: 'tableau',
+          },
+        },
+        layout: {
+//            type: 'force-atlas2', preventOverlap: true, kr: 20, center: [250,250]
+          type: 'd3-force',
+          manyBody: {},
+          x: {},
+          y: {}, 
+        },
+        behaviors: ['drag-canvas', 'zoom-canvas', 'drag-element'],
+      });
+
+      graph.render();
+
+
+    
+//            { "id": "/pkm.md", "x": 1, "y": 1, "label": "Personal Knowledge Management" },
+    // Add data['nodes'] to the graph
+/*    data.nodes.forEach(node => {
+        graph.addNode(node.id, {
+            label: node.label || node.id, // Use node.id as label if label is not provided
+            //x: node.x || Math.random(), // Use random x if not provided
+            x: Math.random(), // Use random x if not provided
+            //y: node.y || Math.random(), // Use random y if not provided
+            y: Math.random(), // Use random y if not provided
+            size: node.size || 5, // Default size to 1 if not provided
+            color: node.color || '#666' // Default color to gray if not provided
+        });
+    }); */
+
+    //  { "id": "1", "source": "/seek/seek.md", "target": "/pkm.md" },
+    // Add data['edges'] to the graph
+/*    data.edges.forEach(edge => {
+        graph.addEdge(edge.source, edge.target, {
+            size: edge.size || 1, // Default size to 1 if not provided
+            color: edge.color || '#ccc' // Default color to light gray if not provided
+        });
+    }); 
+
+
+
+    renderer = new Sigma(graph, graphElement );
+
+    const positions = forceAtlas2( graph, {iterations:50});
+    forceAtlas2.assign(graph, positions); */
+
+    /*    graph.addNode("1", { label: "Node 1", x: 0, y: 0, size: 10, color: "blue" });
+        graph.addNode("2", { label: "Node 2", x: 1, y: 1, size: 20, color: "red" });
+        graph.addEdge("1", "2", { size: 5, color: "purple" }); */
+
+/*    const cy = cytoscape({
         container: graphElement,
         elements: { // list of graph elements to start with
             nodes: graphData.nodes,
@@ -62,7 +133,7 @@ function createGraph(graphData) {
             rows: 1
         }
 
-    });
+    }); */
 }
 
 

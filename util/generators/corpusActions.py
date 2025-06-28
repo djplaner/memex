@@ -50,7 +50,9 @@ PREFIX="/memex"
 ## Array of links to exclude from the backlinks
 #  Expressed as a regex
 EXCLUDE = [
-    r"oldNAV\."
+    r"oldNAV\.",
+    r"NAV\.",
+    r"/reveal.js"
 ]
 
 def generateAbsoluteLinks(markdownFile, linkDefs):
@@ -467,6 +469,10 @@ def generateGraphJson(backLinks, bubbles):
     x = 1
     y = 1
     for filePath in bubbles.keys():
+
+        if any(re.search(pattern, filePath) for pattern in EXCLUDE):
+            continue
+
 #        print(f"Processing {filePath}")
 #        pprint(bubbles[filePath])
 #        input("Press Enter to continue...")
@@ -478,7 +484,7 @@ def generateGraphJson(backLinks, bubbles):
             'id': filePath,
             'x': x, 'y': y,
 #            'value': filePath,
-            'label': bubbles[filePath]['yaml'].get('title', 'No title found')
+            'data': { 'name': bubbles[filePath]['yaml'].get('title', 'No title found') },
         })
         x+=1
         y+=1
@@ -538,6 +544,6 @@ backLinks = generateBackLinks(bubbles)
 #pprint(backLinks)
 #input("Press Enter to update front matter backlinks...")
 
-#updateFrontMatterBackLinks(bubbles, backLinks)
+updateFrontMatterBackLinks(bubbles, backLinks)
 #moveImages(bubbles)
-#generateGraphJson(backLinks, bubbles)
+generateGraphJson(backLinks, bubbles)

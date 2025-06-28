@@ -22,7 +22,7 @@ A significant part of this work is the on-going selection and orchestration of d
 
 ## How?
 
-See also: [[some-assemblage-required]]
+See also: [[some-assemblage-required]], [[support-documentation]]
 
 [Foam](https://foambubble.github.io/foam/) - a plugin for [Visual Studio Code](https://code.visualstudio.com/) - is used ot edit [Markdown files](https://en.wikipedia.org/wiki/Markdown). Foam provides Roam/Obsidian style note-taking and personal knowledge management functionality. [Git](https://git-scm.com/) provides version control of the Markdown files with a [GitHub repository](https://github.com/djplaner/memex) currently the authoritative source for the content.
 
@@ -124,6 +124,7 @@ Timed with an increased focus on leveraging this site for my [personal learning 
 [as-we-may-think|Bush's writing]: ../sense/computing/as-we-may-think "As We May Think"
 [drons-technology|other conceptualisations of technology]: ../sense/nodt/drons-technology "Dron's take on technology"
 [some-assemblage-required]: some-assemblage-required "Some Assemblage Required"
+[support-documentation]: support-documentation "Support documentation"
 [computational-components]: computational-components "Computational components"
 [recent-changes]: recent-changes "Recent changes"
 [publishing-graph-interface]: publishing-graph-interface "Publishing graph interface"
