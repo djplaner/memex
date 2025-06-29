@@ -1,11 +1,11 @@
 ﻿---
 backlinks:
 - title: 'Teaching '
-  url: /memex/sense/Teaching/teaching.html
+  url: /sense/Teaching/teaching.html
 - title: Explicit versus inquiry
-  url: /memex/sense/Teaching/Mathematics/explicit-versus-inquiry.html
+  url: /sense/Teaching/Mathematics/explicit-versus-inquiry.html
 - title: Mathematical thinking tasks
-  url: /memex/sense/Teaching/Mathematics/mathematical-thinking-tasks.html
+  url: /sense/Teaching/Mathematics/mathematical-thinking-tasks.html
 title: Inquiry Learning
 ---
 ## Guided inquiry

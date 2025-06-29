@@ -1,11 +1,11 @@
 ﻿---
 backlinks:
 - title: Seek
-  url: /memex/seek/seek.html
+  url: /seek/seek.html
 - title: Computational components
-  url: /memex/colophon/computational-components.html
+  url: /colophon/computational-components.html
 - title: Statistics and Analytics
-  url: /memex/colophon/statistics-and-analytics.html
+  url: /colophon/statistics-and-analytics.html
 tags:
 - colophon
 - statistics

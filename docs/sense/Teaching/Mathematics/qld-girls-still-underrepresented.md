@@ -1,7 +1,7 @@
 ﻿---
 backlinks:
 - title: Symptoms of the state of mathematics teaching
-  url: /memex/sense/Teaching/Mathematics/teaching-mathematics-symptoms.html
+  url: /sense/Teaching/Mathematics/teaching-mathematics-symptoms.html
 title: Queensland girls still underrepresented in specialist maths despite push to
   increase participation - ABC News
 ---

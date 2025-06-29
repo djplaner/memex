@@ -1,11 +1,11 @@
 ﻿---
 backlinks:
 - title: Teaching Mathematics
-  url: /memex/sense/Teaching/Mathematics/teaching-mathematics.html
+  url: /sense/Teaching/Mathematics/teaching-mathematics.html
 - title: Effective pedagogy in mathematics
-  url: /memex/sense/Teaching/Mathematics/effective-pedagogy-in-mathematics.html
+  url: /sense/Teaching/Mathematics/effective-pedagogy-in-mathematics.html
 - title: CSER Number - Content In Action
-  url: /memex/sense/Teaching/Mathematics/cser-mooc/cser-cia-number.html
+  url: /sense/Teaching/Mathematics/cser-mooc/cser-cia-number.html
 title: Mathematical misconceptions and difficulties
 ---
 A list of various types of mathematical misconceptions, grouped into two categories 

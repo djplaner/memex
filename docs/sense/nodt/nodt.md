@@ -1,21 +1,21 @@
 ﻿---
 backlinks:
 - title: Leveraging digital technologies
-  url: /memex/seek/leveraging-digital-technologies.html
+  url: /seek/leveraging-digital-technologies.html
 - title: Some Assemblage Required
-  url: /memex/colophon/some-assemblage-required.html
+  url: /colophon/some-assemblage-required.html
 - title: Sense
-  url: /memex/sense/sense.html
+  url: /sense/sense.html
 - title: Mental models are highly personal
-  url: /memex/sense/loose/mental-models-are-highly-personal.html
+  url: /sense/loose/mental-models-are-highly-personal.html
 - title: Technology
-  url: /memex/sense/nodt/technology.html
+  url: /sense/nodt/technology.html
 - title: Digital technologies and impact of bad/absent schema
-  url: /memex/sense/nodt/digital-technologies-and-impact-of-badabsent-schema.html
+  url: /sense/nodt/digital-technologies-and-impact-of-badabsent-schema.html
 - title: Concrete Lounges
-  url: /memex/sense/nodt/concrete-lounges.html
+  url: /sense/nodt/concrete-lounges.html
 - title: Digital Weaver
-  url: /memex/sense/computing/digital-weaver.html
+  url: /sense/computing/digital-weaver.html
 tags:
 - digital-technology
 - affordances

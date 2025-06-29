@@ -1,15 +1,15 @@
 ﻿---
 backlinks:
 - title: Some Assemblage Required
-  url: /memex/colophon/some-assemblage-required.html
+  url: /colophon/some-assemblage-required.html
 - title: Design
-  url: /memex/sense/Design/design.html
+  url: /sense/Design/design.html
 - title: Contextually Appropriate Scaffolding Assemblages (CASA)
-  url: /memex/sense/CASA/casa.html
+  url: /sense/CASA/casa.html
 - title: Literature and quotes mentioning gather/weave concepts
-  url: /memex/sense/CASA/gather-weave-literature.html
+  url: /sense/CASA/gather-weave-literature.html
 - title: Mathematics Conceptual Knowledge for Teaching (MCKT)
-  url: /memex/sense/Teaching/Mathematics/mathematics-conceptual-knowledge-for-teaching.html
+  url: /sense/Teaching/Mathematics/mathematics-conceptual-knowledge-for-teaching.html
 tags: design, gather-weave, CASA
 title: Gather and weave
 type: note

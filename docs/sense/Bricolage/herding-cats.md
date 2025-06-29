@@ -1,9 +1,9 @@
 ﻿---
 backlinks:
 - title: Sense
-  url: /memex/sense/sense.html
+  url: /sense/sense.html
 - title: OER as a participatory activity
-  url: /memex/sense/herding-cats/oer-as-a-participatory-activity.html
+  url: /sense/herding-cats/oer-as-a-participatory-activity.html
 title: Herding Cats
 ---
 Resources around how to encourage people (teachers) undergo change

@@ -1,15 +1,15 @@
 ﻿---
 backlinks:
 - title: My approach to teaching mathematics
-  url: /memex/sense/Teaching/Mathematics/my-approach-to-teaching-mathematics.html
+  url: /sense/Teaching/Mathematics/my-approach-to-teaching-mathematics.html
 - title: CSER Math Connections with Community
-  url: /memex/sense/Teaching/Mathematics/cser-connections-with-community.html
+  url: /sense/Teaching/Mathematics/cser-connections-with-community.html
 - title: Technologies for teaching mathematics
-  url: /memex/sense/Teaching/Mathematics/technologies-for-teaching-mathematics.html
+  url: /sense/Teaching/Mathematics/technologies-for-teaching-mathematics.html
 - title: 'MATH081C Unit 1, Lesson 1: 2024'
-  url: /memex/sense/Teaching/Implementation/2024/MAT081C/mat081c-2024-u1l1.html
+  url: /sense/Teaching/Implementation/2024/MAT081C/mat081c-2024-u1l1.html
 - title: MAT081C Planning for unit 1 - statistical investigation
-  url: /memex/sense/Teaching/Implementation/2024/MAT081C/mat081c-2024-u1-statistical-investigation.html
+  url: /sense/Teaching/Implementation/2024/MAT081C/mat081c-2024-u1-statistical-investigation.html
 title: Notice and wonder
 ---
 Method for prompting students to generate and explore mathematical questions of their own choosing. An example of a [[mathematically-productive-tasks]]

@@ -1,15 +1,15 @@
 ﻿---
 backlinks:
 - title: Computing
-  url: /memex/sense/computing/computing.html
+  url: /sense/computing/computing.html
 - title: Unpicking the Digital Technologies Hub
-  url: /memex/sense/Teaching/Digital_Technologies/unpicking-digital-technologies-hub.html
+  url: /sense/Teaching/Digital_Technologies/unpicking-digital-technologies-hub.html
 - title: Unpicking technologies education
-  url: /memex/sense/Teaching/Digital_Technologies/unpicking-technologies-education.html
+  url: /sense/Teaching/Digital_Technologies/unpicking-technologies-education.html
 - title: Queensland schools and digital technologies
-  url: /memex/sense/Teaching/Digital_Technologies/queensland-schools-digital-technologies.html
+  url: /sense/Teaching/Digital_Technologies/queensland-schools-digital-technologies.html
 - title: CSER MiS - Getting started module
-  url: /memex/sense/Teaching/Mathematics/cser-mooc/cser-getting-started.html
+  url: /sense/Teaching/Mathematics/cser-mooc/cser-getting-started.html
 tags: computing, teaching-digital-technology
 title: Computational thinking
 type: note

@@ -1,7 +1,7 @@
 ﻿---
 backlinks:
 - title: Teaching Mathematics
-  url: /memex/sense/Teaching/Mathematics/teaching-mathematics.html
+  url: /sense/Teaching/Mathematics/teaching-mathematics.html
 title: Symptoms of the state of mathematics teaching
 ---
 ## Misc reports

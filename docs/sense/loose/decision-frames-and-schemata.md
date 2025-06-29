@@ -1,9 +1,9 @@
 ﻿---
 backlinks:
 - title: Loose notes
-  url: /memex/sense/loose/loose.html
+  url: /sense/loose/loose.html
 - title: Digital technologies and impact of bad/absent schema
-  url: /memex/sense/nodt/digital-technologies-and-impact-of-badabsent-schema.html
+  url: /sense/nodt/digital-technologies-and-impact-of-badabsent-schema.html
 title: Decision frames and schemata
 ---
 "Decision frames"

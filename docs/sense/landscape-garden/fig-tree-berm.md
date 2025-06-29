@@ -1,27 +1,27 @@
 ﻿---
 backlinks:
 - title: Wood duck meadows
-  url: /memex/sense/landscape-garden/wood-duck-meadows.html
+  url: /sense/landscape-garden/wood-duck-meadows.html
 - title: Ficus obliqua (Small-leaved fig)
-  url: /memex/sense/landscape-garden/plants/ficus-obliqua.html
+  url: /sense/landscape-garden/plants/ficus-obliqua.html
 - title: Asparagus africanus (Climbing asparagus fern)
-  url: /memex/sense/landscape-garden/plants/asparagus-africanus.html
+  url: /sense/landscape-garden/plants/asparagus-africanus.html
 - title: Solanum americanum (American black nightshade)
-  url: /memex/sense/landscape-garden/plants/solanum-americanum.html
+  url: /sense/landscape-garden/plants/solanum-americanum.html
 - title: Macroptilium lathyroides (Phasey Bean)
-  url: /memex/sense/landscape-garden/plants/macroptilium-lathyroides.html
+  url: /sense/landscape-garden/plants/macroptilium-lathyroides.html
 - title: Passiflora suberosa (Corky passion vine)
-  url: /memex/sense/landscape-garden/plants/passiflora-suberosa.html
+  url: /sense/landscape-garden/plants/passiflora-suberosa.html
 - title: Corymbia Torelliana (Cadaghi)"
-  url: /memex/sense/landscape-garden/plants/corymbia-torelliana.html
+  url: /sense/landscape-garden/plants/corymbia-torelliana.html
 - title: Solanum mauritianum (aka Wild tobacco tree)
-  url: /memex/sense/landscape-garden/plants/solanum-mauritianum.html
+  url: /sense/landscape-garden/plants/solanum-mauritianum.html
 - title: Bidens pilosa (Cobbler's Pegs)
-  url: /memex/sense/landscape-garden/plants/bidens-pilosa.html
+  url: /sense/landscape-garden/plants/bidens-pilosa.html
 - title: Individual plants
-  url: /memex/sense/landscape-garden/individual-plants/individual-plants.html
+  url: /sense/landscape-garden/individual-plants/individual-plants.html
 - title: Ficus obliqua (Small-leaved fig)
-  url: /memex/sense/landscape-garden/individual-plants/ficus-obliqua-berm.html
+  url: /sense/landscape-garden/individual-plants/ficus-obliqua-berm.html
 tags: gardens, sense, landscape
 title: Fig tree berm
 type: zone

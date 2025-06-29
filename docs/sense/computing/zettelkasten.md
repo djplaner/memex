@@ -1,9 +1,9 @@
 ﻿---
 backlinks:
 - title: Note taking strategies
-  url: /memex/colophon/note-taking-strategies.html
+  url: /colophon/note-taking-strategies.html
 - title: Alternate conceptions of the web
-  url: /memex/sense/computing/alternate-conceptions-of-the-web.html
+  url: /sense/computing/alternate-conceptions-of-the-web.html
 tags:
 - zettelkasten
 - knowledge management

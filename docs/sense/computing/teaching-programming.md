@@ -1,7 +1,7 @@
 ﻿---
 backlinks:
 - title: Computing
-  url: /memex/sense/computing/computing.html
+  url: /sense/computing/computing.html
 tags: computing, digital-technology, teaching-digital-technology
 title: Teaching Programming
 type: note

@@ -1,9 +1,9 @@
 ﻿---
 backlinks:
 - title: Welcome
-  url: /memex/index.html
+  url: /index.html
 - title: Recent changes
-  url: /memex/colophon/recent-changes.html
+  url: /colophon/recent-changes.html
 tags:
 - colophon
 - computational-component

@@ -1,7 +1,7 @@
 ﻿---
 backlinks:
 - title: Loose notes
-  url: /memex/sense/loose/loose.html
+  url: /sense/loose/loose.html
 title: Professional learning
 ---
 Mayer and Lloyd (2011, p.3) offer

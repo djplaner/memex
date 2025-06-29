@@ -1,7 +1,7 @@
 ﻿---
 backlinks:
 - title: Plants
-  url: /memex/sense/landscape-garden/plants/plants.html
+  url: /sense/landscape-garden/plants/plants.html
 photos:
   1:
     date: 2025-04-14 16:36:27

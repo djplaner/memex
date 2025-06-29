@@ -1,9 +1,9 @@
 ﻿---
 backlinks:
 - title: Design
-  url: /memex/sense/Design/design.html
+  url: /sense/Design/design.html
 - title: Joyce Learning Design Systems
-  url: /memex/sense/Design/joyce-learning-design-systems.html
+  url: /sense/Design/joyce-learning-design-systems.html
 title: The Law of Conservation of Complexity
 ---
 A draft blog post - [[digital-education-conservation-complexity]] - expands further on the following.

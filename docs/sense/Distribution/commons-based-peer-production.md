@@ -1,9 +1,9 @@
 ﻿---
 backlinks:
 - title: Distribution
-  url: /memex/sense/Distribution/distribution.html
+  url: /sense/Distribution/distribution.html
 - title: Floss, A Partial Antidote To Social Catastrophe
-  url: /memex/sense/computing/floss-antidote-to-social-catastrophe.html
+  url: /sense/computing/floss-antidote-to-social-catastrophe.html
 title: Commons-based peer production
 ---
 Benkler & Nissenbaum (2006) define common-based peer production as

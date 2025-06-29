@@ -1,7 +1,7 @@
 ﻿---
 backlinks:
 - title: Distribution
-  url: /memex/sense/Distribution/distribution.html
+  url: /sense/Distribution/distribution.html
 title: DSA and Ed Tech
 ---
 Reading about "Distributed situation awareness" (DSA) https://www.sciencedirect.com/science/article/pii/S0003687021002465 (HT: @beerc) & pondering its utility in explaining apparent limitations with L&T #entangledPedagogy #tel. In particular, institutional tendencies toward shared, rather than compatible awareness. 

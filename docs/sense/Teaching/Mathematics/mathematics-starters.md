@@ -1,7 +1,7 @@
 ﻿---
 backlinks:
 - title: Teaching Mathematics
-  url: /memex/sense/Teaching/Mathematics/teaching-mathematics.html
+  url: /sense/Teaching/Mathematics/teaching-mathematics.html
 tags: teaching, mathematics, teaching-mathematics
 title: Starter activities for mathematics
 type: index

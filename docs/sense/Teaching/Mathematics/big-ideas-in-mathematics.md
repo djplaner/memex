@@ -1,9 +1,9 @@
 ﻿---
 backlinks:
 - title: Technologies for teaching mathematics
-  url: /memex/sense/Teaching/Mathematics/technologies-for-teaching-mathematics.html
+  url: /sense/Teaching/Mathematics/technologies-for-teaching-mathematics.html
 - title: Teaching Mathematics
-  url: /memex/sense/Teaching/Mathematics/teaching-mathematics.html
+  url: /sense/Teaching/Mathematics/teaching-mathematics.html
 tags: teaching,mathematics,teachingMathematics
 title: Big ideas in mathematics
 type: note

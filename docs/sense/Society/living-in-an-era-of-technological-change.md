@@ -1,7 +1,7 @@
 ﻿---
 backlinks:
 - title: Society
-  url: /memex/sense/Society/society.html
+  url: /sense/Society/society.html
 title: Living in an era of technological change?
 ---
 # Living in an era of technological change?

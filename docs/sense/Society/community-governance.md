@@ -1,7 +1,7 @@
 ﻿---
 backlinks:
 - title: Society
-  url: /memex/sense/Society/society.html
+  url: /sense/Society/society.html
 title: Community Governance
 ---
 ## [CommunityRule](https://communityrule.info/)

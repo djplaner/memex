@@ -1,9 +1,9 @@
 ﻿---
 backlinks:
 - title: Some Assemblage Required
-  url: /memex/colophon/some-assemblage-required.html
+  url: /colophon/some-assemblage-required.html
 - title: Digital Renovator
-  url: /memex/sense/computing/digital-renovator.html
+  url: /sense/computing/digital-renovator.html
 title: Digital Weaver
 ---
 A digital weaver is someone within an environment that enables the use of digital technology to automate and augment the weaving together of different phenomena for personal purposes.

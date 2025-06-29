@@ -1,13 +1,13 @@
 ﻿---
 backlinks:
 - title: Effective pedagogy in mathematics
-  url: /memex/sense/Teaching/Mathematics/effective-pedagogy-in-mathematics.html
+  url: /sense/Teaching/Mathematics/effective-pedagogy-in-mathematics.html
 - title: ALIVE
-  url: /memex/sense/Teaching/Mathematics/alive.html
+  url: /sense/Teaching/Mathematics/alive.html
 - title: Reality, Abstraction, Mathematics, Reality (RAMR) cycle
-  url: /memex/sense/Teaching/Mathematics/cser-mooc/ramr-cycle.html
+  url: /sense/Teaching/Mathematics/cser-mooc/ramr-cycle.html
 - title: CSER Maths in Schools - Practices and pedagogies
-  url: /memex/sense/Teaching/Mathematics/cser-mooc/cser-practices-and-pedagogies.html
+  url: /sense/Teaching/Mathematics/cser-mooc/cser-practices-and-pedagogies.html
 title: Enactive mathematics pedagogy
 ---
 Linked to [Jerome Bruner's](https://en.wikipedia.org/wiki/Jerome_Bruner#Developmental_psychology) elaboration of _enactive_ (action-based), _iconic_ (image-based), and _symbolic_ (language-based) modes of representation (of tasks). Not clearly delineated, only loosely sequential since they can be translated into each other. However, moving from enactive > iconic > symbolic can be better for learning.

@@ -1,9 +1,9 @@
 ﻿---
 backlinks:
 - title: Effective pedagogy in mathematics
-  url: /memex/sense/Teaching/Mathematics/effective-pedagogy-in-mathematics.html
+  url: /sense/Teaching/Mathematics/effective-pedagogy-in-mathematics.html
 - title: CSER Maths in Schools - Practices and pedagogies
-  url: /memex/sense/Teaching/Mathematics/cser-mooc/cser-practices-and-pedagogies.html
+  url: /sense/Teaching/Mathematics/cser-mooc/cser-practices-and-pedagogies.html
 tags: assessment-for-learning, teaching, teaching-mathematics
 title: Targeted teaching
 type: note

@@ -1,7 +1,7 @@
 ﻿---
 backlinks:
 - title: Sense
-  url: /memex/sense/sense.html
+  url: /sense/sense.html
 title: Python
 ---
 Misc resources re: Python

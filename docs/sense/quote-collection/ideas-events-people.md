@@ -1,9 +1,9 @@
 ﻿---
 backlinks:
 - title: Colophon
-  url: /memex/colophon/colophon.html
+  url: /colophon/colophon.html
 - title: Quotes
-  url: /memex/sense/quote-collection/quotes.html
+  url: /sense/quote-collection/quotes.html
 tags: quotes, pkm
 title: Great Minds Discuss Ideas; Average Minds Discuss Events; Small Minds Discuss
   People

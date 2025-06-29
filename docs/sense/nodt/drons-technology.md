@@ -1,21 +1,21 @@
 ﻿---
 backlinks:
 - title: Some Assemblage Required
-  url: /memex/colophon/some-assemblage-required.html
+  url: /colophon/some-assemblage-required.html
 - title: Colophon
-  url: /memex/colophon/colophon.html
+  url: /colophon/colophon.html
 - title: Technology
-  url: /memex/sense/nodt/technology.html
+  url: /sense/nodt/technology.html
 - title: Nature of Digital Technology (nodt)
-  url: /memex/sense/nodt/nodt.html
+  url: /sense/nodt/nodt.html
 - title: As We May Think
-  url: /memex/sense/computing/as-we-may-think.html
+  url: /sense/computing/as-we-may-think.html
 - title: Digital Weaver
-  url: /memex/sense/computing/digital-weaver.html
+  url: /sense/computing/digital-weaver.html
 - title: Digital Humanism
-  url: /memex/sense/computing/digital-humanism.html
+  url: /sense/computing/digital-humanism.html
 - title: Big ideas in mathematics
-  url: /memex/sense/Teaching/Mathematics/big-ideas-in-mathematics.html
+  url: /sense/Teaching/Mathematics/big-ideas-in-mathematics.html
 title: Dron's take on technology
 ---
 What is educational technology?

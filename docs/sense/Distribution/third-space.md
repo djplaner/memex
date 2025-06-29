@@ -1,7 +1,7 @@
 ﻿---
 backlinks:
 - title: Distribution
-  url: /memex/sense/Distribution/distribution.html
+  url: /sense/Distribution/distribution.html
 title: Third space
 ---
 ## Blended professionals, technology and online learning: Identifying a socio-technical third space in higher education

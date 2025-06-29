@@ -1,9 +1,9 @@
 ﻿---
 backlinks:
 - title: Contributing to Foam
-  url: /memex/sense/Web-development/foam-dev/contributing-to-foam.html
+  url: /sense/Web-development/foam-dev/contributing-to-foam.html
 - title: Foam extension entry file
-  url: /memex/sense/Web-development/foam-dev/foam-code/foam-extension-entry-file.html
+  url: /sense/Web-development/foam-dev/foam-code/foam-extension-entry-file.html
 tags:
 - foam-dev
 - foam-code

@@ -1,15 +1,15 @@
 ﻿---
 backlinks:
 - title: Some Assemblage Required
-  url: /memex/colophon/some-assemblage-required.html
+  url: /colophon/some-assemblage-required.html
 - title: A new day
-  url: /memex/share/blog/2025/a-new-day.html
+  url: /share/blog/2025/a-new-day.html
 - title: Nature of Digital Technology (nodt)
-  url: /memex/sense/nodt/nodt.html
+  url: /sense/nodt/nodt.html
 - title: Distribution
-  url: /memex/sense/Distribution/distribution.html
+  url: /sense/Distribution/distribution.html
 - title: Today's note
-  url: /memex/seek/journal/todays-note.html
+  url: /seek/journal/todays-note.html
 tags:
 - distribution
 - assemblage

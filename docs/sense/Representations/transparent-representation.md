@@ -1,9 +1,9 @@
 ﻿---
 backlinks:
 - title: Representations
-  url: /memex/sense/Representations/representations.html
+  url: /sense/Representations/representations.html
 - title: The fundamental challenge to teaching
-  url: /memex/sense/Teaching/fundamental-teaching-challenge.html
+  url: /sense/Teaching/fundamental-teaching-challenge.html
 title: Transparent representation
 ---
 Simon (1996) argues that problem representation is an important part of problem solving and design. He identifies the extreme (perhaps not always possible) version of this view as 

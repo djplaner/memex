@@ -1,9 +1,9 @@
 ﻿---
 backlinks:
 - title: Mathematical mindsets
-  url: /memex/sense/Teaching/Mathematics/mathematical-mindsets.html
+  url: /sense/Teaching/Mathematics/mathematical-mindsets.html
 - title: Assessment
-  url: /memex/sense/Teaching/Assessment/assessment.html
+  url: /sense/Teaching/Assessment/assessment.html
 tags:
 - teaching
 - assessment

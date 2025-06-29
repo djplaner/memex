@@ -1,7 +1,7 @@
 ﻿---
 backlinks:
 - title: Exploring australian curriculum
-  url: /memex/sense/Python/exploring-australian-curriculum.html
+  url: /sense/Python/exploring-australian-curriculum.html
 title: 004-exploring-oz-dev-log
 ---
 Finally getting some glimmers of understanding using `rdflib`. Use of `predictate_objects` method to get all the objects for a given subject.

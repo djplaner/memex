@@ -1,7 +1,7 @@
 ﻿---
 backlinks:
 - title: Convivality
-  url: /memex/sense/Affordances/conviviality.html
+  url: /sense/Affordances/conviviality.html
 tags:
 - sense
 - conviviality

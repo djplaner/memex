@@ -1,11 +1,11 @@
 ﻿---
 backlinks:
 - title: Implementing number scrabble
-  url: /memex/sense/Representations/implementing-number-scrabble.html
+  url: /sense/Representations/implementing-number-scrabble.html
 - title: CASA Gallery
-  url: /memex/sense/CASA/casa-gallery.html
+  url: /sense/CASA/casa-gallery.html
 - title: 'MATH081C Unit 1, Lesson 1: 2024'
-  url: /memex/sense/Teaching/Implementation/2024/MAT081C/mat081c-2024-u1l1.html
+  url: /sense/Teaching/Implementation/2024/MAT081C/mat081c-2024-u1l1.html
 tags: teaching, number-scrabble
 title: Number Scrabble - web implementation
 type: note

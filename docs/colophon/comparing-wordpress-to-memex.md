@@ -1,11 +1,11 @@
 ﻿---
 backlinks:
 - title: Improve static search
-  url: /memex/colophon/improve-static-search.html
+  url: /colophon/improve-static-search.html
 - title: Convert Wordpress into Memex
-  url: /memex/colophon/convert-wordpress-into-memex.html
+  url: /colophon/convert-wordpress-into-memex.html
 - title: A new day
-  url: /memex/share/blog/2025/a-new-day.html
+  url: /share/blog/2025/a-new-day.html
 tags:
 - colophon
 - wordpress

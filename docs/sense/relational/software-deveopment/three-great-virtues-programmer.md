@@ -1,9 +1,9 @@
 ﻿---
 backlinks:
 - title: Computing
-  url: /memex/sense/computing/computing.html
+  url: /sense/computing/computing.html
 - title: Developer automation
-  url: /memex/sense/relational/software-deveopment/developer-automation.html
+  url: /sense/relational/software-deveopment/developer-automation.html
 tags:
 - software development
 title: Three great virtues of a programmer

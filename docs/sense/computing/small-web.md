@@ -1,9 +1,9 @@
 ﻿---
 backlinks:
 - title: Alternate conceptions of the web
-  url: /memex/sense/computing/alternate-conceptions-of-the-web.html
+  url: /sense/computing/alternate-conceptions-of-the-web.html
 - title: Computing
-  url: /memex/sense/computing/computing.html
+  url: /sense/computing/computing.html
 tags: small-web, web-development,
 title: Small Web
 type: note

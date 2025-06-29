@@ -1,7 +1,7 @@
 ﻿---
 backlinks:
 - title: Quality and teaching
-  url: /memex/sense/Quality-and-teaching/quality-and-teaching.html
+  url: /sense/Quality-and-teaching/quality-and-teaching.html
 title: Recognising excellent teaching
 ---
 Pointing to practices to be adopted and also a potential role for learning analytics to identify world-best practice

@@ -1,7 +1,7 @@
 ﻿---
 backlinks:
 - title: Computational components
-  url: /memex/colophon/computational-components.html
+  url: /colophon/computational-components.html
 tags:
 - colophon
 - birding

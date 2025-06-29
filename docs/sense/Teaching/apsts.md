@@ -1,13 +1,13 @@
 ﻿---
 backlinks:
 - title: 'Teaching '
-  url: /memex/sense/Teaching/teaching.html
+  url: /sense/Teaching/teaching.html
 - title: Classroom management
-  url: /memex/sense/Teaching/RTT/rtt-classroom-management.html
+  url: /sense/Teaching/RTT/rtt-classroom-management.html
 - title: The legal context
-  url: /memex/sense/Teaching/RTT/rtt-the-legal-context.html
+  url: /sense/Teaching/RTT/rtt-the-legal-context.html
 - title: Effective teaching
-  url: /memex/sense/Teaching/RTT/rtt-effective-teaching.html
+  url: /sense/Teaching/RTT/rtt-effective-teaching.html
 tags: teaching
 title: Australian Professional Standards for Teachers
 type: note

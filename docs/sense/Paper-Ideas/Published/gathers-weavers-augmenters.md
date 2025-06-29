@@ -1,9 +1,9 @@
 ﻿---
 backlinks:
 - title: Teaching as gathering, weaving, and augmenting
-  url: /memex/sense/Teaching/teaching-as-gather-weave-augment.html
+  url: /sense/Teaching/teaching-as-gather-weave-augment.html
 - title: Published papers
-  url: /memex/sense/Paper-Ideas/Published/published-papers.html
+  url: /sense/Paper-Ideas/Published/published-papers.html
 title: 'Gathers, Weavers and Augmenters: Three principles for dynamic and sustainable
   delivery of quality learning and teaching'
 ---

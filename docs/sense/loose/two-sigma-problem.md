@@ -1,9 +1,9 @@
 ﻿---
 backlinks:
 - title: Loose notes
-  url: /memex/sense/loose/loose.html
+  url: /sense/loose/loose.html
 - title: Overcoming one size fits all learning
-  url: /memex/sense/Learning/overcoming-one-size-fits-all-learning.html
+  url: /sense/Learning/overcoming-one-size-fits-all-learning.html
 title: 2 Sigma Problem
 ---
 Experiments using three types of learning methods

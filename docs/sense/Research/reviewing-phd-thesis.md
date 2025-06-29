@@ -1,7 +1,7 @@
 ﻿---
 backlinks:
 - title: Research
-  url: /memex/sense/Research/research.html
+  url: /sense/Research/research.html
 title: Reviewing PhD Thesis
 ---
 Misc thoughts re: reviewing PhD thesis

@@ -1,7 +1,7 @@
 ﻿---
 backlinks:
 - title: Learning
-  url: /memex/sense/Learning/learning.html
+  url: /sense/Learning/learning.html
 title: Effective learning strategies
 ---
 Sources: [Learning Scientists site](https://www.learningscientists.org/downloadable-materials), references below.

@@ -1,11 +1,11 @@
 ﻿---
 backlinks:
 - title: How to Develop Web Components
-  url: /memex/sense/how-to-develop-web-components.html
+  url: /sense/how-to-develop-web-components.html
 - title: Open Wc Webcomponent Basics
-  url: /memex/sense/Web-development/open-wc-webcomponent-basics.html
+  url: /sense/Web-development/open-wc-webcomponent-basics.html
 - title: Web development
-  url: /memex/sense/Web-development/web-development.html
+  url: /sense/Web-development/web-development.html
 title: My First LitElement Web Component
 ---
 Description and reflections of create a very simple web component using [LitElement's live tutorial](https://lit-element.polymer-project.org/try)

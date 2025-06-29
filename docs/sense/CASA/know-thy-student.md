@@ -1,9 +1,9 @@
 ﻿---
 backlinks:
 - title: Sense
-  url: /memex/sense/sense.html
+  url: /sense/sense.html
 - title: Providing aggregate student data to instructors
-  url: /memex/sense/know-thy-student/providing-aggregate-student-data-to-instructors.html
+  url: /sense/know-thy-student/providing-aggregate-student-data-to-instructors.html
 tags:
 - teaching
 title: Know thy student

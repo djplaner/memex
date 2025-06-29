@@ -1,11 +1,11 @@
 ﻿---
 backlinks:
 - title: Plants
-  url: /memex/sense/landscape-garden/plants/plants.html
+  url: /sense/landscape-garden/plants/plants.html
 - title: Sandpaper fig - The island
-  url: /memex/sense/landscape-garden/individual-plants/island-sandpaper-fig.html
+  url: /sense/landscape-garden/individual-plants/island-sandpaper-fig.html
 - title: Hugh and Kay's Sandpaper Fig (Gatton Creek frontage)
-  url: /memex/sense/landscape-garden/individual-plants/hugh-and-kays-sandpaper-fig.html
+  url: /sense/landscape-garden/individual-plants/hugh-and-kays-sandpaper-fig.html
 tags:
 - plant
 - fig

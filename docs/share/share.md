@@ -1,11 +1,11 @@
 ﻿---
 backlinks:
 - title: Personal Knowledge Management
-  url: /memex/pkm.html
+  url: /pkm.html
 - title: Thinking about 'memex v2'
-  url: /memex/colophon/memex-v2.html
+  url: /colophon/memex-v2.html
 - title: Visualising and pruning my Memex
-  url: /memex/share/blog/visualising-and-pruning-my-memex.html
+  url: /share/blog/visualising-and-pruning-my-memex.html
 title: Share
 ---
 What do I want to share with the world?

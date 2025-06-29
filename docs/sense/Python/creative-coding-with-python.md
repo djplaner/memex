@@ -1,13 +1,13 @@
 ﻿---
 backlinks:
 - title: Python
-  url: /memex/sense/Python/python.html
+  url: /sense/Python/python.html
 - title: My creative coding projects
-  url: /memex/sense/Teaching/Digital_Technologies/my-creative-coding-projects.html
+  url: /sense/Teaching/Digital_Technologies/my-creative-coding-projects.html
 - title: AC9TDI8P09
-  url: /memex/sense/Teaching/Curriculum/v9/Technologies/AC9TDI8P09.html
+  url: /sense/Teaching/Curriculum/v9/Technologies/AC9TDI8P09.html
 - title: Today's note
-  url: /memex/seek/journal/todays-note.html
+  url: /seek/journal/todays-note.html
 tags: python, teaching, creativeCoding
 title: Creative coding experiments
 type: note

@@ -1,9 +1,9 @@
 ﻿---
 backlinks:
 - title: MAT081C-2024
-  url: /memex/sense/Teaching/Implementation/2024/MAT081C/mat081c-2024.html
+  url: /sense/Teaching/Implementation/2024/MAT081C/mat081c-2024.html
 - title: Learning Areas
-  url: /memex/sense/Teaching/Curriculum/v9/v9-learning-areas.html
+  url: /sense/Teaching/Curriculum/v9/v9-learning-areas.html
 tags: australian-curriculum
 title: AC9M8ST04
 type: note

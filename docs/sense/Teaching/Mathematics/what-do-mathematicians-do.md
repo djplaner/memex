@@ -1,9 +1,9 @@
 ﻿---
 backlinks:
 - title: My Teaching Philosophy
-  url: /memex/sense/Teaching/my-teaching-philosophy.html
+  url: /sense/Teaching/my-teaching-philosophy.html
 - title: Teaching Mathematics
-  url: /memex/sense/Teaching/Mathematics/teaching-mathematics.html
+  url: /sense/Teaching/Mathematics/teaching-mathematics.html
 title: What do mathematicians do?
 ---
 # What do mathematicians do?

@@ -1,9 +1,9 @@
 ﻿---
 backlinks:
 - title: Colophon
-  url: /memex/colophon/colophon.html
+  url: /colophon/colophon.html
 - title: Alternate conceptions of the web
-  url: /memex/sense/computing/alternate-conceptions-of-the-web.html
+  url: /sense/computing/alternate-conceptions-of-the-web.html
 tags:
 - colophon
 - memex

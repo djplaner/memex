@@ -1,9 +1,9 @@
 ﻿---
 backlinks:
 - title: Templates and the scale problem
-  url: /memex/share/blog/2023/consistency-problem.html
+  url: /share/blog/2023/consistency-problem.html
 - title: Consistency vs quality?
-  url: /memex/sense/Design/consistency-quality.html
+  url: /sense/Design/consistency-quality.html
 title: Freedom and the Learning Management System (LMS)
 ---
 # Freedom and the Learning Management System (LMS)

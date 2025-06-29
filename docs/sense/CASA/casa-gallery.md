@@ -1,9 +1,9 @@
 ﻿---
 backlinks:
 - title: Contextually Appropriate Scaffolding Assemblages (CASA)
-  url: /memex/sense/CASA/casa.html
+  url: /sense/CASA/casa.html
 - title: 'Average Canvas quiz results '
-  url: /memex/sense/CASA/casa-averaging-canvas-quiz-results.html
+  url: /sense/CASA/casa-averaging-canvas-quiz-results.html
 tags:
 - casa
 title: CASA Gallery

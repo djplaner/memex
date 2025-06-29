@@ -1,9 +1,9 @@
 ﻿---
 backlinks:
 - title: Effective learning strategies
-  url: /memex/sense/Learning/effective-learning-strategies.html
+  url: /sense/Learning/effective-learning-strategies.html
 - title: Interleaving
-  url: /memex/sense/Learning/interleaving.html
+  url: /sense/Learning/interleaving.html
 title: Spaced practice (aka Distributed Practice)
 ---
 ## Definition

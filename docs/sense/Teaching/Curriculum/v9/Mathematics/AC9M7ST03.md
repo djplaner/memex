@@ -1,7 +1,7 @@
 ﻿---
 backlinks:
 - title: Learning Areas
-  url: /memex/sense/Teaching/Curriculum/v9/v9-learning-areas.html
+  url: /sense/Teaching/Curriculum/v9/v9-learning-areas.html
 tags: australian-curriculum
 title: AC9M7ST03
 type: note

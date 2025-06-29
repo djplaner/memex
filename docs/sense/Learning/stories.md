@@ -1,7 +1,7 @@
 ﻿---
 backlinks:
 - title: Learning
-  url: /memex/sense/Learning/learning.html
+  url: /sense/Learning/learning.html
 title: Stories
 ---
 From Michelle's Module 1 for EDM5000

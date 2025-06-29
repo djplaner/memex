@@ -1,7 +1,7 @@
 ﻿---
 backlinks:
 - title: Effective learning strategies
-  url: /memex/sense/Learning/effective-learning-strategies.html
+  url: /sense/Learning/effective-learning-strategies.html
 title: Elaboration
 ---
 An intentional strategy where new information that makes connections with the new information and existing knowledge.

@@ -1,31 +1,31 @@
 ﻿---
 backlinks:
 - title: Spaced practice (aka Distributed Practice)
-  url: /memex/sense/Learning/spaced-practice.html
+  url: /sense/Learning/spaced-practice.html
 - title: Rich mathematical tasks
-  url: /memex/sense/Teaching/Mathematics/rich-mathematical-tasks.html
+  url: /sense/Teaching/Mathematics/rich-mathematical-tasks.html
 - title: Across the grain
-  url: /memex/sense/Teaching/Mathematics/across-the-grain.html
+  url: /sense/Teaching/Mathematics/across-the-grain.html
 - title: Explicit versus inquiry
-  url: /memex/sense/Teaching/Mathematics/explicit-versus-inquiry.html
+  url: /sense/Teaching/Mathematics/explicit-versus-inquiry.html
 - title: Checks for pedagogy
-  url: /memex/sense/Teaching/Mathematics/checks-for-pedagogy.html
+  url: /sense/Teaching/Mathematics/checks-for-pedagogy.html
 - title: My approach to teaching mathematics
-  url: /memex/sense/Teaching/Mathematics/my-approach-to-teaching-mathematics.html
+  url: /sense/Teaching/Mathematics/my-approach-to-teaching-mathematics.html
 - title: Mathematical mindsets
-  url: /memex/sense/Teaching/Mathematics/mathematical-mindsets.html
+  url: /sense/Teaching/Mathematics/mathematical-mindsets.html
 - title: Technologies for teaching mathematics
-  url: /memex/sense/Teaching/Mathematics/technologies-for-teaching-mathematics.html
+  url: /sense/Teaching/Mathematics/technologies-for-teaching-mathematics.html
 - title: ALIVE
-  url: /memex/sense/Teaching/Mathematics/alive.html
+  url: /sense/Teaching/Mathematics/alive.html
 - title: Mathematical thinking tasks
-  url: /memex/sense/Teaching/Mathematics/mathematical-thinking-tasks.html
+  url: /sense/Teaching/Mathematics/mathematical-thinking-tasks.html
 - title: TIRED
-  url: /memex/sense/Teaching/Mathematics/tired.html
+  url: /sense/Teaching/Mathematics/tired.html
 - title: CSER Maths in Schools - Practices and pedagogies
-  url: /memex/sense/Teaching/Mathematics/cser-mooc/cser-practices-and-pedagogies.html
+  url: /sense/Teaching/Mathematics/cser-mooc/cser-practices-and-pedagogies.html
 - title: CSER MiS - Getting started module
-  url: /memex/sense/Teaching/Mathematics/cser-mooc/cser-getting-started.html
+  url: /sense/Teaching/Mathematics/cser-mooc/cser-getting-started.html
 tags: teaching, teaching-mathematics,
 title: Productive Failure
 type: note

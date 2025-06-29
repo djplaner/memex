@@ -1,9 +1,9 @@
 ﻿---
 backlinks:
 - title: Law of Requisite Variety
-  url: /memex/sense/concepts/law-of-requisite-variety.html
+  url: /sense/concepts/law-of-requisite-variety.html
 - title: Concepts
-  url: /memex/sense/concepts/concepts.html
+  url: /sense/concepts/concepts.html
 title: Law of Requisite Complexity
 ---
 Related: [[law-of-requisite-variety]]

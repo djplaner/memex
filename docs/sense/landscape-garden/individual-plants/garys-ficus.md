@@ -1,7 +1,7 @@
 ﻿---
 backlinks:
 - title: Individual plants
-  url: /memex/sense/landscape-garden/individual-plants/individual-plants.html
+  url: /sense/landscape-garden/individual-plants/individual-plants.html
 latitude: -27.53881296010301
 longitude: 152.0549056161355
 photos:

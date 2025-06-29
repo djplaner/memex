@@ -1,7 +1,7 @@
 ﻿---
 backlinks:
 - title: Landscape Design with Sketchup
-  url: /memex/sense/landscape-garden/landscape-design-with-sketchup.html
+  url: /sense/landscape-garden/landscape-design-with-sketchup.html
 tags: sense, landscape, garden, sketchup
 title: Sketchup Fundamentals and Practice
 type: note

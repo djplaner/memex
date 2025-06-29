@@ -1,9 +1,9 @@
 ﻿---
 backlinks:
 - title: Welcome
-  url: /memex/index.html
+  url: /index.html
 - title: Sense
-  url: /memex/sense/sense.html
+  url: /sense/sense.html
 tags: hobby, birdwatching, birding
 title: Birding
 type: note

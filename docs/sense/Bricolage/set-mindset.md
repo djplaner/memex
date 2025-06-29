@@ -1,15 +1,15 @@
 ﻿---
 backlinks:
 - title: Seek
-  url: /memex/seek/seek.html
+  url: /seek/seek.html
 - title: Visualising and pruning my Memex
-  url: /memex/share/blog/visualising-and-pruning-my-memex.html
+  url: /share/blog/visualising-and-pruning-my-memex.html
 - title: Contextually Appropriate Scaffolding Assemblages (CASA)
-  url: /memex/sense/CASA/casa.html
+  url: /sense/CASA/casa.html
 - title: New System Will Solve Everything Disease
-  url: /memex/sense/Bricolage/new-system-will-solve-everything-disease.html
+  url: /sense/Bricolage/new-system-will-solve-everything-disease.html
 - title: Returning to the profession
-  url: /memex/sense/Teaching/RTT/returning-to-the-profession.html
+  url: /sense/Teaching/RTT/returning-to-the-profession.html
 tags:
 - SET
 - BAD

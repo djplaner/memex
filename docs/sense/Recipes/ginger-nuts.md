@@ -1,7 +1,7 @@
 ﻿---
 backlinks:
 - title: Recipes
-  url: /memex/sense/Recipes/recipes.html
+  url: /sense/Recipes/recipes.html
 title: '# Ginger Nuts'
 ---
 ## Ginger Nuts

@@ -1,7 +1,7 @@
 ﻿---
 backlinks:
 - title: Nature of Digital Technology (nodt)
-  url: /memex/sense/nodt/nodt.html
+  url: /sense/nodt/nodt.html
 title: Overcoming algorithm aversion (by making it protean)
 ---
 # Overcoming algorithm aversion (by making it protean)

@@ -1,13 +1,13 @@
 ﻿---
 backlinks:
 - title: Seek
-  url: /memex/seek/seek.html
+  url: /seek/seek.html
 - title: Colophon
-  url: /memex/colophon/colophon.html
+  url: /colophon/colophon.html
 - title: Sense
-  url: /memex/sense/sense.html
+  url: /sense/sense.html
 - title: Alternate conceptions of the web
-  url: /memex/sense/computing/alternate-conceptions-of-the-web.html
+  url: /sense/computing/alternate-conceptions-of-the-web.html
 tags: academia, pkm
 title: Personal Knowledge Management
 type: index

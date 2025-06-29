@@ -1,7 +1,7 @@
 ﻿---
 backlinks:
 - title: CASA Gallery
-  url: /memex/sense/CASA/casa-gallery.html
+  url: /sense/CASA/casa-gallery.html
 title: 'Average Canvas quiz results '
 ---
 See [[casa-gallery]]

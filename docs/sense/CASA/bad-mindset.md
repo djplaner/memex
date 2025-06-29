@@ -1,37 +1,37 @@
 ﻿---
 backlinks:
 - title: Seek
-  url: /memex/seek/seek.html
+  url: /seek/seek.html
 - title: Some Assemblage Required
-  url: /memex/colophon/some-assemblage-required.html
+  url: /colophon/some-assemblage-required.html
 - title: Sense
-  url: /memex/sense/sense.html
+  url: /sense/sense.html
 - title: Affordances of digital technology
-  url: /memex/sense/Affordances/affordances-of-digital-technology.html
+  url: /sense/Affordances/affordances-of-digital-technology.html
 - title: 50 research methods for innovation - infographic
-  url: /memex/sense/loose/fifty-research-methods-for-innovation.html
+  url: /sense/loose/fifty-research-methods-for-innovation.html
 - title: OER as a participatory activity
-  url: /memex/sense/herding-cats/oer-as-a-participatory-activity.html
+  url: /sense/herding-cats/oer-as-a-participatory-activity.html
 - title: Contextually Appropriate Scaffolding Assemblages (CASA)
-  url: /memex/sense/CASA/casa.html
+  url: /sense/CASA/casa.html
 - title: The relationships between BAD/SET, CASA, and Gather/Weave
-  url: /memex/sense/CASA/bad_set-casa-gather-weave.html
+  url: /sense/CASA/bad_set-casa-gather-weave.html
 - title: Concrete Lounges
-  url: /memex/sense/nodt/concrete-lounges.html
+  url: /sense/nodt/concrete-lounges.html
 - title: Subsidiarity
-  url: /memex/sense/Distribution/subsidiarity.html
+  url: /sense/Distribution/subsidiarity.html
 - title: The SET mindset
-  url: /memex/sense/Bricolage/set-mindset.html
+  url: /sense/Bricolage/set-mindset.html
 - title: My Teaching Philosophy
-  url: /memex/sense/Teaching/my-teaching-philosophy.html
+  url: /sense/Teaching/my-teaching-philosophy.html
 - title: 'Dealing with bad relationships by turning BAD: An LMS migration case study'
-  url: /memex/sense/Paper-Ideas/deal-with-bad-relationships.html
+  url: /sense/Paper-Ideas/deal-with-bad-relationships.html
 - title: Design for the margins
-  url: /memex/sense/Teaching/Digital_Technologies/design-for-the-margins.html
+  url: /sense/Teaching/Digital_Technologies/design-for-the-margins.html
 - title: Returning to the profession
-  url: /memex/sense/Teaching/RTT/returning-to-the-profession.html
+  url: /sense/Teaching/RTT/returning-to-the-profession.html
 - title: Activity focused mathematics teaching (design for learning)
-  url: /memex/sense/Teaching/Mathematics/activity-types/activity-centered-math-teaching.html
+  url: /sense/Teaching/Mathematics/activity-types/activity-centered-math-teaching.html
 tags:
 - BAD
 - SET

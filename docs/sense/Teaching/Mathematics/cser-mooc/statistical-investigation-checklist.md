@@ -1,7 +1,7 @@
 ﻿---
 backlinks:
 - title: CSER Statistics - Content in Action
-  url: /memex/sense/Teaching/Mathematics/cser-mooc/cser-cia-statistics.html
+  url: /sense/Teaching/Mathematics/cser-mooc/cser-cia-statistics.html
 tags: cser, teaching-mathematics
 title: Statistical Investigation Checklist (CSER)
 type: note

@@ -1,9 +1,9 @@
 ﻿---
 backlinks:
 - title: Teaching Mathematics
-  url: /memex/sense/Teaching/Mathematics/teaching-mathematics.html
+  url: /sense/Teaching/Mathematics/teaching-mathematics.html
 - title: CSER MiS - Getting started module
-  url: /memex/sense/Teaching/Mathematics/cser-mooc/cser-getting-started.html
+  url: /sense/Teaching/Mathematics/cser-mooc/cser-getting-started.html
 tags: teaching, teaching-mathematics
 title: Talk moves
 type: note

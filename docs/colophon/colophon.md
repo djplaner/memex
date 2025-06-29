@@ -1,11 +1,11 @@
 ﻿---
 backlinks:
 - title: Welcome
-  url: /memex/index.html
+  url: /index.html
 - title: As We May Think
-  url: /memex/sense/computing/as-we-may-think.html
+  url: /sense/computing/as-we-may-think.html
 - title: Explorations in Foam development
-  url: /memex/sense/Web-development/foam-dev/foam-dev.html
+  url: /sense/Web-development/foam-dev/foam-dev.html
 tags: colophon, about
 title: Colophon
 type: note

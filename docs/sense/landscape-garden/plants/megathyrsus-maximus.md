@@ -1,13 +1,13 @@
 ﻿---
 backlinks:
 - title: Fig tree berm
-  url: /memex/sense/landscape-garden/fig-tree-berm.html
+  url: /sense/landscape-garden/fig-tree-berm.html
 - title: The Dam
-  url: /memex/sense/landscape-garden/the-dam.html
+  url: /sense/landscape-garden/the-dam.html
 - title: The Circle
-  url: /memex/sense/landscape-garden/the-circle.html
+  url: /sense/landscape-garden/the-circle.html
 - title: Plants
-  url: /memex/sense/landscape-garden/plants/plants.html
+  url: /sense/landscape-garden/plants/plants.html
 tags:
 - wood-duck-meadows
 - plant

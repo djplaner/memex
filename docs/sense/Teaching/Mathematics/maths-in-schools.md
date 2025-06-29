@@ -1,25 +1,25 @@
 ﻿---
 backlinks:
 - title: Exploring australian curriculum
-  url: /memex/sense/Python/exploring-australian-curriculum.html
+  url: /sense/Python/exploring-australian-curriculum.html
 - title: First Nations
-  url: /memex/sense/Teaching/first-nations.html
+  url: /sense/Teaching/first-nations.html
 - title: Discipline role models
-  url: /memex/sense/Teaching/discipline-role-models.html
+  url: /sense/Teaching/discipline-role-models.html
 - title: Computational thinking
-  url: /memex/sense/computing/computational-thinking.html
+  url: /sense/computing/computational-thinking.html
 - title: What is mathematics
-  url: /memex/sense/Teaching/Mathematics/what-is-mathematics.html
+  url: /sense/Teaching/Mathematics/what-is-mathematics.html
 - title: Teaching Mathematics
-  url: /memex/sense/Teaching/Mathematics/teaching-mathematics.html
+  url: /sense/Teaching/Mathematics/teaching-mathematics.html
 - title: Teaching Professional Development
-  url: /memex/sense/Teaching/Mathematics/teaching-professional-development.html
+  url: /sense/Teaching/Mathematics/teaching-professional-development.html
 - title: Mathematical structure
-  url: /memex/sense/Teaching/Mathematics/mathematical-structure.html
+  url: /sense/Teaching/Mathematics/mathematical-structure.html
 - title: Mathematical problem solving
-  url: /memex/sense/Teaching/Mathematics/mathematical-problem-solving.html
+  url: /sense/Teaching/Mathematics/mathematical-problem-solving.html
 - title: Mathematical Connections Activity Type
-  url: /memex/sense/Teaching/Mathematics/activity-types/math-connections-activity-type.html
+  url: /sense/Teaching/Mathematics/activity-types/math-connections-activity-type.html
 title: 'Maths in Schools Online: Year 7 - 10 course'
 ---
 An online MOOC, included as [PD from the Mathematics Hub](https://www.mathematicshub.edu.au/understanding-maths/professional-learning/maths-in-schools-professional-learning/). Developed by the University of Adelaide's [Maths in Schools](https://csermoocs.adelaide.edu.au/professional-learning/maths-in-schools)

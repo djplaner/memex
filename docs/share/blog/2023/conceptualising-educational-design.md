@@ -1,11 +1,11 @@
 ﻿---
 backlinks:
 - title: Blog posts
-  url: /memex/share/blog/blog-posts.html
+  url: /share/blog/blog-posts.html
 - title: Design
-  url: /memex/sense/Design/design.html
+  url: /sense/Design/design.html
 - title: Teaching as gathering, weaving, and augmenting
-  url: /memex/sense/Teaching/teaching-as-gather-weave-augment.html
+  url: /sense/Teaching/teaching-as-gather-weave-augment.html
 title: Conceptualising education design practice - where do we fit?
 ---
 ## Chat with Emma 

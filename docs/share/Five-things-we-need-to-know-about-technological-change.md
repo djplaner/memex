@@ -1,7 +1,7 @@
 ﻿---
 backlinks:
 - title: Share
-  url: /memex/share/share.html
+  url: /share/share.html
 tags:
 - technological change
 - postman

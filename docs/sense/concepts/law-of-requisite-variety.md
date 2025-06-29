@@ -1,11 +1,11 @@
 ﻿---
 backlinks:
 - title: Standardisation and its discontents
-  url: /memex/sense/Society/standardisation-and-its-discontents.html
+  url: /sense/Society/standardisation-and-its-discontents.html
 - title: Concepts
-  url: /memex/sense/concepts/concepts.html
+  url: /sense/concepts/concepts.html
 - title: Law of Requisite Complexity
-  url: /memex/sense/concepts/law-of-requisite-complexity.html
+  url: /sense/concepts/law-of-requisite-complexity.html
 title: Law of Requisite Variety
 ---
 Related: [[law-of-requisite-complexity]]

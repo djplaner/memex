@@ -1,7 +1,7 @@
 ﻿---
 backlinks:
 - title: Teaching Mathematics
-  url: /memex/sense/Teaching/Mathematics/teaching-mathematics.html
+  url: /sense/Teaching/Mathematics/teaching-mathematics.html
 tags: teaching
 title: Plans for teaching in 2024
 type: note

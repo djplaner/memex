@@ -1,9 +1,9 @@
 ﻿---
 backlinks:
 - title: CASA Gallery
-  url: /memex/sense/CASA/casa-gallery.html
+  url: /sense/CASA/casa-gallery.html
 - title: Canvas Development
-  url: /memex/sense/Design/canvas/canvas-development.html
+  url: /sense/Design/canvas/canvas-development.html
 title: Word to Canvas
 ---
 [Word to Canvas](https://djplaner.github.io/word-to-canvas-module/) is a userscript designed to enable authored Word documents to be converted into Canvas modules.

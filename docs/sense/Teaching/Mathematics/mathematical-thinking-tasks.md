@@ -1,7 +1,7 @@
 ﻿---
 backlinks:
 - title: Rich mathematical tasks
-  url: /memex/sense/Teaching/Mathematics/rich-mathematical-tasks.html
+  url: /sense/Teaching/Mathematics/rich-mathematical-tasks.html
 tags: teaching-mathematics, teaching
 title: Mathematical thinking tasks
 type: note

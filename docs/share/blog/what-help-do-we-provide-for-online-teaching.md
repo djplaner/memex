@@ -1,7 +1,7 @@
 ﻿---
 backlinks:
 - title: Blog posts
-  url: /memex/share/blog/blog-posts.html
+  url: /share/blog/blog-posts.html
 title: What Help Do We Provide for Online Teaching
 ---
 ```toml

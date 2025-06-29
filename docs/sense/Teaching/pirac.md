@@ -1,7 +1,7 @@
 ﻿---
 backlinks:
 - title: Data informed teaching
-  url: /memex/sense/Teaching/data-informed-teaching.html
+  url: /sense/Teaching/data-informed-teaching.html
 tags: teaching,data,analytics
 title: PIRAC
 type: note

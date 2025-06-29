@@ -1,9 +1,9 @@
 ﻿---
 backlinks:
 - title: Teaching Mathematics
-  url: /memex/sense/Teaching/Mathematics/teaching-mathematics.html
+  url: /sense/Teaching/Mathematics/teaching-mathematics.html
 - title: 'MATH081C Unit 1, Lesson 1: 2024'
-  url: /memex/sense/Teaching/Implementation/2024/MAT081C/mat081c-2024-u1l1.html
+  url: /sense/Teaching/Implementation/2024/MAT081C/mat081c-2024-u1l1.html
 tags: teaching-mathematics
 title: Mathematics Class Survey
 type: note

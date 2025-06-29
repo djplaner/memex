@@ -1,7 +1,7 @@
 ﻿---
 backlinks:
 - title: Technology Changes us
-  url: /memex/sense/Teaching/Digital_Technologies/technology-changes-us.html
+  url: /sense/Teaching/Digital_Technologies/technology-changes-us.html
 tags: design, technology
 title: Design for the margins
 type: note

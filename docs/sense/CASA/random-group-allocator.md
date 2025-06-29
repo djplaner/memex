@@ -1,11 +1,11 @@
 ﻿---
 backlinks:
 - title: CASA Gallery
-  url: /memex/sense/CASA/casa-gallery.html
+  url: /sense/CASA/casa-gallery.html
 - title: Use of reveal.js for presentations
-  url: /memex/sense/Teaching/Mathematics/use-of-revealjs-for-presentations.html
+  url: /sense/Teaching/Mathematics/use-of-revealjs-for-presentations.html
 - title: 'MATH081C Unit 1, Lesson 1: 2024'
-  url: /memex/sense/Teaching/Implementation/2024/MAT081C/mat081c-2024-u1l1.html
+  url: /sense/Teaching/Implementation/2024/MAT081C/mat081c-2024-u1l1.html
 tags: casa, teaching, visibly-random-groups, complex-instruction
 title: Random Group Allocator
 type: note

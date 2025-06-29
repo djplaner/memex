@@ -1,7 +1,7 @@
 ﻿---
 backlinks:
 - title: Concepts
-  url: /memex/sense/concepts/concepts.html
+  url: /sense/concepts/concepts.html
 title: Predatory Inclusion
 ---
 ## First experience with the concept

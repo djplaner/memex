@@ -1,7 +1,7 @@
 ﻿---
 backlinks:
 - title: Sense
-  url: /memex/sense/sense.html
+  url: /sense/sense.html
 tags: sense, quotes
 title: Quotes
 type: note

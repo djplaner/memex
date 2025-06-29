@@ -1,11 +1,11 @@
 ﻿---
 backlinks:
 - title: Seek
-  url: /memex/seek/seek.html
+  url: /seek/seek.html
 - title: Related work
-  url: /memex/colophon/related-work.html
+  url: /colophon/related-work.html
 - title: Computing
-  url: /memex/sense/computing/computing.html
+  url: /sense/computing/computing.html
 tags:
 - computing
 - web

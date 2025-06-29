@@ -1,9 +1,9 @@
 ﻿---
 backlinks:
 - title: CSER Statistics - Content in Action
-  url: /memex/sense/Teaching/Mathematics/cser-mooc/cser-cia-statistics.html
+  url: /sense/Teaching/Mathematics/cser-mooc/cser-cia-statistics.html
 - title: Learning Areas
-  url: /memex/sense/Teaching/Curriculum/v9/v9-learning-areas.html
+  url: /sense/Teaching/Curriculum/v9/v9-learning-areas.html
 tags: australian-curriculum
 title: AC9TDI8P01
 type: note

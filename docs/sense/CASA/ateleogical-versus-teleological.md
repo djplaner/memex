@@ -1,9 +1,9 @@
 ﻿---
 backlinks:
 - title: Forest for the trees
-  url: /memex/sense/Distribution/forest-for-the-trees.html
+  url: /sense/Distribution/forest-for-the-trees.html
 - title: Trees for the forest
-  url: /memex/sense/Distribution/trees-for-the-forest.html
+  url: /sense/Distribution/trees-for-the-forest.html
 title: Ateleological versus teleological
 ---
 Introna (1996) proposed a distinction between ateleological and teleoogical design.

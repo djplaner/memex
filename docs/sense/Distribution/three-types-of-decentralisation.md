@@ -1,7 +1,7 @@
 ﻿---
 backlinks:
 - title: Distribution
-  url: /memex/sense/Distribution/distribution.html
+  url: /sense/Distribution/distribution.html
 title: Three types of decentralisation
 ---
 Looks at de-centralisation largely from a technical perspective but has some interesting potential implications beyond.

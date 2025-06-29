@@ -1,9 +1,9 @@
 ﻿---
 backlinks:
 - title: Exploring australian curriculum
-  url: /memex/sense/Python/exploring-australian-curriculum.html
+  url: /sense/Python/exploring-australian-curriculum.html
 - title: Teaching Mathematics
-  url: /memex/sense/Teaching/Mathematics/teaching-mathematics.html
+  url: /sense/Teaching/Mathematics/teaching-mathematics.html
 title: ALIVE
 ---
 De Geest & Lee (2019) define ALIVE teaching as 

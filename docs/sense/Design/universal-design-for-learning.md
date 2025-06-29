@@ -1,7 +1,7 @@
 ﻿---
 backlinks:
 - title: Design
-  url: /memex/sense/Design/design.html
+  url: /sense/Design/design.html
 title: Universal Design for Learning
 ---
 ## Does it improve learning outcomes? Is that the right question? 

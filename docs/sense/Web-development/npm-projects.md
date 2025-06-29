@@ -1,7 +1,7 @@
 ﻿---
 backlinks:
 - title: Web development
-  url: /memex/sense/Web-development/web-development.html
+  url: /sense/Web-development/web-development.html
 title: NPM Projects - How to
 ---
 Trying to figure out and document a process for developing NPM JS projects, mainly to take advantage of associated CDN availability of the modules.

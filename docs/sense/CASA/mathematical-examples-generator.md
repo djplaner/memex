@@ -1,7 +1,7 @@
 ﻿---
 backlinks:
 - title: CASA Gallery
-  url: /memex/sense/CASA/casa-gallery.html
+  url: /sense/CASA/casa-gallery.html
 title: Mathematical Examples Generator
 ---
 ## Origins

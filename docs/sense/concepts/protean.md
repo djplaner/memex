@@ -1,21 +1,21 @@
 ﻿---
 backlinks:
 - title: Affordances of digital technology
-  url: /memex/sense/Affordances/affordances-of-digital-technology.html
+  url: /sense/Affordances/affordances-of-digital-technology.html
 - title: Automating instructional design
-  url: /memex/sense/Design/automating-instructional-design.html
+  url: /sense/Design/automating-instructional-design.html
 - title: Overcoming algorithm aversion (by making it protean)
-  url: /memex/sense/nodt/overcoming-algorithm-aversion-(by-making-it-protean).html
+  url: /sense/nodt/overcoming-algorithm-aversion-(by-making-it-protean).html
 - title: Nature of Digital Technology (nodt)
-  url: /memex/sense/nodt/nodt.html
+  url: /sense/nodt/nodt.html
 - title: Three obstacles to getting started with programming
-  url: /memex/sense/nodt/three-obstacles-to-getting-started-with-programming.html
+  url: /sense/nodt/three-obstacles-to-getting-started-with-programming.html
 - title: Enabling computational bricolage
-  url: /memex/sense/Bricolage/enabling-computational-bricolage.html
+  url: /sense/Bricolage/enabling-computational-bricolage.html
 - title: End-user programming
-  url: /memex/sense/Bricolage/end-user-programming.html
+  url: /sense/Bricolage/end-user-programming.html
 - title: Concepts
-  url: /memex/sense/concepts/concepts.html
+  url: /sense/concepts/concepts.html
 tags: computing, digital-technology, nodt, generativity, papert
 title: Protean
 type: note

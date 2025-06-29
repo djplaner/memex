@@ -1,9 +1,9 @@
 ﻿---
 backlinks:
 - title: Leveraging digital technologies
-  url: /memex/seek/leveraging-digital-technologies.html
+  url: /seek/leveraging-digital-technologies.html
 - title: Distribution
-  url: /memex/sense/Distribution/distribution.html
+  url: /sense/Distribution/distribution.html
 title: Hacker Ethos as Collective Intelligence
 ---
 ## Spark from _Coding Democracy_ 

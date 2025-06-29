@@ -1,7 +1,7 @@
 ﻿---
 backlinks:
 - title: Roadmaps for web development
-  url: /memex/sense/Web-development/roadmaps.html
+  url: /sense/Web-development/roadmaps.html
 title: Intro to Webpack
 ---
 ## Possible steps for pathway-planner

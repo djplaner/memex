@@ -1,13 +1,13 @@
 ﻿---
 backlinks:
 - title: Sense
-  url: /memex/sense/sense.html
+  url: /sense/sense.html
 - title: Creative coding experiments
-  url: /memex/sense/Python/creative-coding-with-python.html
+  url: /sense/Python/creative-coding-with-python.html
 - title: Understanding
-  url: /memex/sense/Learning/understanding.html
+  url: /sense/Learning/understanding.html
 - title: Teaching Professional Development
-  url: /memex/sense/Teaching/Mathematics/teaching-professional-development.html
+  url: /sense/Teaching/Mathematics/teaching-professional-development.html
 title: 'Teaching '
 ---
 Collection of resources, ideas etc around secondary teaching.

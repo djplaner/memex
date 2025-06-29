@@ -1,7 +1,7 @@
 ﻿---
 backlinks:
 - title: Blog posts
-  url: /memex/share/blog/blog-posts.html
+  url: /share/blog/blog-posts.html
 title: Why are Universities digital development practices so out-dated? (especially
   when it comes to L&T)
 ---

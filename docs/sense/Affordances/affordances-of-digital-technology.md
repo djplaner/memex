@@ -1,7 +1,7 @@
 ﻿---
 backlinks:
 - title: End-user programming
-  url: /memex/sense/Bricolage/end-user-programming.html
+  url: /sense/Bricolage/end-user-programming.html
 tags:
 - nodt
 - digital-technology

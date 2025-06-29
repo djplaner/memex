@@ -1,7 +1,7 @@
 ﻿---
 backlinks:
 - title: Paper Summaries
-  url: /memex/sense/Paper-Summaries/paper-summaries.html
+  url: /sense/Paper-Summaries/paper-summaries.html
 title: Self-organising university
 ---
 Summary of

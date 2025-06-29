@@ -1,13 +1,13 @@
 ﻿---
 backlinks:
 - title: Ficus obliqua (Small-leaved fig)
-  url: /memex/sense/landscape-garden/plants/ficus-obliqua.html
+  url: /sense/landscape-garden/plants/ficus-obliqua.html
 - title: Polyscias elegans (aka Celery Wood)
-  url: /memex/sense/landscape-garden/plants/polyscias-elegans.html
+  url: /sense/landscape-garden/plants/polyscias-elegans.html
 - title: Ochna serrulata (Mickey Mouse Plant)
-  url: /memex/sense/landscape-garden/plants/ochna-serrulata.html
+  url: /sense/landscape-garden/plants/ochna-serrulata.html
 - title: Ficus obliqua (Small-leaved fig)
-  url: /memex/sense/landscape-garden/individual-plants/ficus-obliqua-berm.html
+  url: /sense/landscape-garden/individual-plants/ficus-obliqua-berm.html
 tags: birding, birdwatching
 title: Australasian Figbird
 type: bird

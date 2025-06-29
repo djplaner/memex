@@ -1,7 +1,7 @@
 ﻿---
 backlinks:
 - title: Web development
-  url: /memex/sense/Web-development/web-development.html
+  url: /sense/Web-development/web-development.html
 tags: web-development
 title: Business site design
 type: note

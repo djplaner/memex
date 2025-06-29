@@ -1,37 +1,37 @@
 ﻿---
 backlinks:
 - title: Rocky Creek Frontage
-  url: /memex/sense/landscape-garden/rocky-creek-frontage.html
+  url: /sense/landscape-garden/rocky-creek-frontage.html
 - title: Wood duck meadows
-  url: /memex/sense/landscape-garden/wood-duck-meadows.html
+  url: /sense/landscape-garden/wood-duck-meadows.html
 - title: Schinus Terebinthifolia (Brazilian pepper tree)
-  url: /memex/sense/landscape-garden/plants/schinus-terebinthifolia.html
+  url: /sense/landscape-garden/plants/schinus-terebinthifolia.html
 - title: Macadamia integrifolia (Queensland Nut)
-  url: /memex/sense/landscape-garden/plants/macadamia-integrifolia.html
+  url: /sense/landscape-garden/plants/macadamia-integrifolia.html
 - title: Privet
-  url: /memex/sense/landscape-garden/plants/privet.html
+  url: /sense/landscape-garden/plants/privet.html
 - title: Muehlenbeckia platyclada (aka Ribbonbush)
-  url: /memex/sense/landscape-garden/plants/muehlenbeckia-platyclada.html
+  url: /sense/landscape-garden/plants/muehlenbeckia-platyclada.html
 - title: Cupaniopsis anacardioides (Tuckeroo)
-  url: /memex/sense/landscape-garden/plants/cupaniopsis-anacardioides.html
+  url: /sense/landscape-garden/plants/cupaniopsis-anacardioides.html
 - title: Talinum paniculatum (Pink baby's breath)
-  url: /memex/sense/landscape-garden/plants/talinum-paniculatum.html
+  url: /sense/landscape-garden/plants/talinum-paniculatum.html
 - title: Schotia brachypetala (Drunken Parrot Tree)
-  url: /memex/sense/landscape-garden/plants/schotia-brachypetala.html
+  url: /sense/landscape-garden/plants/schotia-brachypetala.html
 - title: Gleditsia triacanthos (Honey Locust)
-  url: /memex/sense/landscape-garden/plants/gleditsia-triacanthos.html
+  url: /sense/landscape-garden/plants/gleditsia-triacanthos.html
 - title: Manihot Grahamii (Graham's Manihot)
-  url: /memex/sense/landscape-garden/plants/manihot-grahamii.html
+  url: /sense/landscape-garden/plants/manihot-grahamii.html
 - title: Harpullia Pendula (Moreton Bay Tulipwood)
-  url: /memex/sense/landscape-garden/plants/harpullia-pendula.html
+  url: /sense/landscape-garden/plants/harpullia-pendula.html
 - title: White Shahtoot mulberry
-  url: /memex/sense/landscape-garden/individual-plants/white-shahtoot-mulberry.html
+  url: /sense/landscape-garden/individual-plants/white-shahtoot-mulberry.html
 - title: Unknown ficus
-  url: /memex/sense/landscape-garden/individual-plants/unknown-ficus.html
+  url: /sense/landscape-garden/individual-plants/unknown-ficus.html
 - title: Individual plants
-  url: /memex/sense/landscape-garden/individual-plants/individual-plants.html
+  url: /sense/landscape-garden/individual-plants/individual-plants.html
 - title: Unknown mulberry (Rocky Creek frontage)
-  url: /memex/sense/landscape-garden/individual-plants/unknown-mulberry-rocky-creek-frontage.html
+  url: /sense/landscape-garden/individual-plants/unknown-mulberry-rocky-creek-frontage.html
 tags:
 - gardens
 - landscape

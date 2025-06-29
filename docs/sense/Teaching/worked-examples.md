@@ -1,11 +1,11 @@
 ﻿---
 backlinks:
 - title: 'Teaching '
-  url: /memex/sense/Teaching/teaching.html
+  url: /sense/Teaching/teaching.html
 - title: Instructions
-  url: /memex/sense/computing/instructions.html
+  url: /sense/computing/instructions.html
 - title: Effective pedagogy in mathematics
-  url: /memex/sense/Teaching/Mathematics/effective-pedagogy-in-mathematics.html
+  url: /sense/Teaching/Mathematics/effective-pedagogy-in-mathematics.html
 tags: teaching, teaching-mathematics, teaching-digital-technology
 title: Worked examples
 type: note

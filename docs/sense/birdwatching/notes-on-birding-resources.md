@@ -1,7 +1,7 @@
 ﻿---
 backlinks:
 - title: Birding
-  url: /memex/sense/birdwatching/birding.html
+  url: /sense/birdwatching/birding.html
 tags: birdwatching, birding
 title: Notes on birding resources
 type: note

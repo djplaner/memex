@@ -1,7 +1,7 @@
 ﻿---
 backlinks:
 - title: Distribution
-  url: /memex/sense/Distribution/distribution.html
+  url: /sense/Distribution/distribution.html
 tags: complexity, distribution, ateleological
 title: Organising a child's birthday party
 type: note

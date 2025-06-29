@@ -1,9 +1,9 @@
 ﻿---
 backlinks:
 - title: Learning
-  url: /memex/sense/Learning/learning.html
+  url: /sense/Learning/learning.html
 - title: First experiments with LLM APIs
-  url: /memex/sense/AI/explorations/first-llm-api-experiments.html
+  url: /sense/AI/explorations/first-llm-api-experiments.html
 title: Research on Feedback in Learning
 ---
 ## Feedback in a Computer-Based Learning Environment

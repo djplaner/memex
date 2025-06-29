@@ -204,7 +204,10 @@ def retrieveMemexBubbles():
     for file in files:
         content = extractFileContent(file)
         if content is not None:
+            #localAbsPath = str(file).replace(DOCS_FOLDER, PREFIX)
             localAbsPath = str(file).replace(DOCS_FOLDER, "")
+#            print(f"file {file} becomes {localAbsPath}")
+#            input("Press Enter to continue...")
             bubbles[localAbsPath] = content
         else:
             raise ValueError(f"Could not extract content from {file}")
@@ -251,6 +254,8 @@ def generateBackLinks(bubbles: dict):
 
     backLinks = {}
     for file in bubbles.keys():
+#        print(f"backlinks for {file}")
+#        input("Press Enter to continue...")
         backLinks[file] = {}
 
     for file in bubbles.keys():
@@ -266,8 +271,8 @@ def generateBackLinks(bubbles: dict):
 
         # for each bubbleLink, add it to the backLinks dict
         for destinationPath in bubble['linkDefs']:
-            #sourcePath = f'{bubble["filePath"].replace(DOCS_FOLDER, "")}'
-            sourcePath = f'{PREFIX}{bubble["filePath"].replace(DOCS_FOLDER, "")}'
+            sourcePath = f'{bubble["filePath"].replace(DOCS_FOLDER, "")}'
+            #sourcePath = f'{PREFIX}{bubble["filePath"].replace(DOCS_FOLDER, "")}'
             #-- 
             if destinationPath not in backLinks:
                 backLinks[destinationPath] = {}
@@ -369,7 +374,8 @@ def updateFrontMatterBackLinks(bubbles, backLinks):
             title = "No given title"
             # Run sourceLink (a URL) to a bubble file path by removing WWW PREFIX 
             #fileLink = sourceLink.replace(PREFIX, "")
-            fileLink = re.sub( rf"^{PREFIX}", "", sourceLink)
+            #fileLink = re.sub( rf"^{PREFIX}", "", sourceLink)
+            fileLink = sourceLink
 
             title = "Unknown title"
             if 'title' in bubbles[fileLink]['yaml']:
@@ -378,7 +384,7 @@ def updateFrontMatterBackLinks(bubbles, backLinks):
                 title = extractTitleFromContent(bubbles[fileLink]['content'])
 
             backlinks.append({
-                'url': sourceLink.replace(".md", ".html"),
+                'url': f"{PREFIX}{sourceLink}".replace(".md", ".html"),
                 'title': title
             })
 
@@ -462,21 +468,32 @@ def generateGraphJson(backLinks, bubbles):
 
     graphData = {
         "nodes": [],
-        "edges": []
+        #"edges": []
+        "links": []
     }
+
+#       "nodes": [
+#        { "id": "id1", "name": "name1", "val": 1 }, 
+#        { "id": "id2", "name": "name2", "val": 10 },
+#    ],
+#    "links": [
+#        { "source": "id1", "target": "id2" },
 
     #-- add the nodes for the bubbles
     x = 1
     y = 1
     for filePath in bubbles.keys():
-
         if any(re.search(pattern, filePath) for pattern in EXCLUDE):
             continue
+
+#        print(f"Processing {filePath}")
+#        input("Press Enter to continue...")
 
         name = bubbles[filePath]['yaml'].get('title', 'No title found')
         # nodeId is filePath minus the PREFIX
         #-- remove the PREFIX from the filePath to get the nodeId
-        nodeId = filePath.replace(PREFIX, "")
+        #nodeId = filePath.replace(PREFIX, "")
+        nodeId = f"{PREFIX}{filePath}".replace(".md", ".html")
 
 #        print(f"Processing {filePath}")
 #        pprint(bubbles[filePath])
@@ -487,6 +504,7 @@ def generateGraphJson(backLinks, bubbles):
         # 'value': <path>
         graphData['nodes'].append({
             'id': nodeId,
+            'name': name,
             'x': x, 'y': y,
 #            'value': filePath,
             'data': { 'name': name },
@@ -503,35 +521,43 @@ def generateGraphJson(backLinks, bubbles):
     #    }   
     # }
     edgeId = 1
+    # destinationFilePath is a file path relative to memex docs folder
     for destinationFilePath in backLinks.keys():
 #        print("-------------------------")
-#        pprint(f"Processing backlinks for {destinationFilePath}")
+        print(f"Processing backlinks for {destinationFilePath}")
 #        pprint(backLinks[destinationFilePath].keys())
 #        input("1) Press Enter to continue...")
         # continue if there are no linkDefs for this destination
         for sourceLink in backLinks[destinationFilePath].keys():
 #            print(f"    - {sourceLink} -> {destinationFilePath}" )
 
-            #-- remove the PREFIX from the sourceLink to get the sourceId
-            source = sourceLink.replace(PREFIX, "")
-            target = destinationFilePath.replace(PREFIX, "")
-            graphData['edges'].append({
+            #-- source and target need to be Web paths, adding PREFIX and replacing .md with .html
+            #source = sourceLink.replace(PREFIX, "")
+            source = f"{PREFIX}{sourceLink}".replace(".md", ".html")
+            #target = destinationFilePath.replace(PREFIX, "")
+            target = f"{PREFIX}{destinationFilePath}".replace(".md", ".html")
+            #graphData['edges'].append({
+            graphData['links'].append({
                 'id': f"{edgeId}",
                 'source': source,
                 'target': target
             })
             edgeId += 1
-#        input("Press Enter to continue...")
+#            print(f"    - {source} -> {target}")
+#            input("Press Enter to continue...")
 
     #-- check the edges all have source and target
-    for edge in graphData['edges']:
+    #for edge in graphData['edges']:
+    for edge in graphData['links']:
         if 'source' not in edge or 'target' not in edge:
             pprint(edge)
             raise ValueError(f"Edge {edge} does not have source or target")
 
     #-- check that each edge source has a corresponding node
-    for edge in graphData['edges']:
+    #for edge in graphData['edges']:
+    for edge in graphData['links']:
         if edge['source'] not in [node['id'] for node in graphData['nodes']]:
+            pprint(graphData['nodes'])
             raise ValueError(f"Edge {edge} has source {edge['source']} that does not exist in nodes")
 
     #-- save the graph data to a JSON file

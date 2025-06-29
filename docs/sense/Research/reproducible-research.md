@@ -1,7 +1,7 @@
 ﻿---
 backlinks:
 - title: Research
-  url: /memex/sense/Research/research.html
+  url: /sense/Research/research.html
 title: Reproducible Research
 ---
 From this [Curriculum Development Hackathon](https://github.com/Reproducible-Science-Curriculum/RR-Jupyter-Hackathon-Jan-2017/blob/master/Call-for-participation.md) for using Jupyter Notebooks

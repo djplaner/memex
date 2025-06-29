@@ -1,7 +1,7 @@
 ﻿---
 backlinks:
 - title: Fig tree berm
-  url: /memex/sense/landscape-garden/fig-tree-berm.html
+  url: /sense/landscape-garden/fig-tree-berm.html
 tags: gardens, sense, landscape
 title: Improving clay soil
 type: note

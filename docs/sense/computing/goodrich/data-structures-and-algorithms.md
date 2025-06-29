@@ -1,7 +1,7 @@
 ﻿---
 backlinks:
 - title: Computing
-  url: /memex/sense/computing/computing.html
+  url: /sense/computing/computing.html
 title: Data Structures and Algorithms
 ---
 ## Data Structures and Algorithms in Python

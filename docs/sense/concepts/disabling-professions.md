@@ -1,7 +1,7 @@
 ﻿---
 backlinks:
 - title: Concepts
-  url: /memex/sense/concepts/concepts.html
+  url: /sense/concepts/concepts.html
 tags: sense, concepts
 title: Disabling professions
 type: note

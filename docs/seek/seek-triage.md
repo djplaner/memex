@@ -1,7 +1,7 @@
 ﻿---
 backlinks:
 - title: Seek triage list
-  url: /memex/seek/seek-triage.html
+  url: /seek/seek-triage.html
 tags:
 - seek
 title: Seek triage list

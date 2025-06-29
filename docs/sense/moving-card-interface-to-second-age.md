@@ -1,7 +1,7 @@
 ﻿---
 backlinks:
 - title: Card Interface
-  url: /memex/sense/card-interface.html
+  url: /sense/card-interface.html
 title: Moving the Card Interface to the Second Age of Javascript
 ---
 Aim is to move the [[card-interface]] into the 2nd of the [[third-age-of-javascript]]. i.e. away from jQuery to webpack and modern Javascript.

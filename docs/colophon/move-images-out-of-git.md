@@ -1,7 +1,7 @@
 ﻿---
 backlinks:
 - title: Colophon
-  url: /memex/colophon/colophon.html
+  url: /colophon/colophon.html
 tags:
 - colophon
 title: Move images out of git

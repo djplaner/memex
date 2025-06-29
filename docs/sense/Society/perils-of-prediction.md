@@ -1,7 +1,7 @@
 ﻿---
 backlinks:
 - title: Society
-  url: /memex/sense/Society/society.html
+  url: /sense/Society/society.html
 title: Perils of prediction
 ---
 Nice quotes about uselessness of technology and people's perceptions of that and future use.  Possible links to "what the user's want" questions around digital technology in L&T

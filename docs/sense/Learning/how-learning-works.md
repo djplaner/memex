@@ -1,9 +1,9 @@
 ﻿---
 backlinks:
 - title: Learning
-  url: /memex/sense/Learning/learning.html
+  url: /sense/Learning/learning.html
 - title: Big ideas in mathematics
-  url: /memex/sense/Teaching/Mathematics/big-ideas-in-mathematics.html
+  url: /sense/Teaching/Mathematics/big-ideas-in-mathematics.html
 tags: learning
 title: How learning works
 type: note

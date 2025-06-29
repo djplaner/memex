@@ -1,7 +1,7 @@
 ﻿---
 backlinks:
 - title: Canvas Development
-  url: /memex/sense/Design/canvas/canvas-development.html
+  url: /sense/Design/canvas/canvas-development.html
 title: local-canvas-dev
 ---
 ## docker - mac 

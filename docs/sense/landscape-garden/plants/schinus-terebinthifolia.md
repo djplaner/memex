@@ -1,19 +1,19 @@
 ﻿---
 backlinks:
 - title: Fig tree berm
-  url: /memex/sense/landscape-garden/fig-tree-berm.html
+  url: /sense/landscape-garden/fig-tree-berm.html
 - title: The Dam
-  url: /memex/sense/landscape-garden/the-dam.html
+  url: /sense/landscape-garden/the-dam.html
 - title: The Island
-  url: /memex/sense/landscape-garden/the-island.html
+  url: /sense/landscape-garden/the-island.html
 - title: Roundabout
-  url: /memex/sense/landscape-garden/roundabout.html
+  url: /sense/landscape-garden/roundabout.html
 - title: The Orchard (Orchard corner)
-  url: /memex/sense/landscape-garden/orchard-corner.html
+  url: /sense/landscape-garden/orchard-corner.html
 - title: Plants
-  url: /memex/sense/landscape-garden/plants/plants.html
+  url: /sense/landscape-garden/plants/plants.html
 - title: Arundo donax (Elephant Grass)
-  url: /memex/sense/landscape-garden/plants/arundo-donax.html
+  url: /sense/landscape-garden/plants/arundo-donax.html
 photos:
   1:
     date: 2025-01-25 06:24:40

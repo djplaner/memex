@@ -1,7 +1,7 @@
 ﻿---
 backlinks:
 - title: Sense
-  url: /memex/sense/sense.html
+  url: /sense/sense.html
 title: Work categories
 ---
 Collection of resources related to work.

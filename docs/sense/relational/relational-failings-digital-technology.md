@@ -1,7 +1,7 @@
 ﻿---
 backlinks:
 - title: Distribution
-  url: /memex/sense/Distribution/distribution.html
+  url: /sense/Distribution/distribution.html
 title: The Relational Failings of Digital Technology
 ---
 ## As workplace learning

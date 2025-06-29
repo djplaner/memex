@@ -1,9 +1,9 @@
 ﻿---
 backlinks:
 - title: 'Teaching '
-  url: /memex/sense/Teaching/teaching.html
+  url: /sense/Teaching/teaching.html
 - title: Canvas Learning Journal
-  url: /memex/sense/CASA/CASA/canvas-learning-journal.html
+  url: /sense/CASA/CASA/canvas-learning-journal.html
 title: Learning Journal
 ---
 Notes on the learning journal learning activity design.

@@ -1,13 +1,13 @@
 ﻿---
 backlinks:
 - title: Exploring australian curriculum
-  url: /memex/sense/Python/exploring-australian-curriculum.html
+  url: /sense/Python/exploring-australian-curriculum.html
 - title: Teaching as interweaving
-  url: /memex/sense/Teaching/teaching-as-interweaving.html
+  url: /sense/Teaching/teaching-as-interweaving.html
 - title: Paper Ideas
-  url: /memex/sense/Paper-Ideas/paper-ideas.html
+  url: /sense/Paper-Ideas/paper-ideas.html
 - title: My creative coding projects
-  url: /memex/sense/Teaching/Digital_Technologies/my-creative-coding-projects.html
+  url: /sense/Teaching/Digital_Technologies/my-creative-coding-projects.html
 title: 'Gatherers, Weavers and Augmenters: Three principles for dynamic and sustainable
   delivery of quality learning and teaching'
 ---

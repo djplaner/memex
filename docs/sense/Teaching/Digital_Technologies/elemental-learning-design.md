@@ -1,9 +1,9 @@
 ﻿---
 backlinks:
 - title: Unpicking technologies education
-  url: /memex/sense/Teaching/Digital_Technologies/unpicking-technologies-education.html
+  url: /sense/Teaching/Digital_Technologies/unpicking-technologies-education.html
 - title: Teaching Digital Technologies
-  url: /memex/sense/Teaching/Digital_Technologies/teaching-digital-technologies.html
+  url: /sense/Teaching/Digital_Technologies/teaching-digital-technologies.html
 tags: learning, teaching, teaching-digital-technologies
 title: Elemental learning design
 type: note

@@ -1,7 +1,7 @@
 ﻿---
 backlinks:
 - title: Computing
-  url: /memex/sense/computing/computing.html
+  url: /sense/computing/computing.html
 title: Team Topologies
 ---
 References: [Atlassian on Team Topologies](https://www.atlassian.com/devops/frameworks/team-topologies)

@@ -1,11 +1,11 @@
 ﻿---
 backlinks:
 - title: Some Assemblage Required
-  url: /memex/colophon/some-assemblage-required.html
+  url: /colophon/some-assemblage-required.html
 - title: Computing
-  url: /memex/sense/computing/computing.html
+  url: /sense/computing/computing.html
 - title: Digital Weaver
-  url: /memex/sense/computing/digital-weaver.html
+  url: /sense/computing/digital-weaver.html
 tags:
 - digital-renovator
 - bad

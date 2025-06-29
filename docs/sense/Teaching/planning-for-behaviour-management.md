@@ -1,7 +1,7 @@
 ﻿---
 backlinks:
 - title: Behaviour management
-  url: /memex/sense/Teaching/behaviour-management.html
+  url: /sense/Teaching/behaviour-management.html
 title: Planning for behaviour management
 ---
 Dunk (2020) suggests the follow strategies to increase engagement

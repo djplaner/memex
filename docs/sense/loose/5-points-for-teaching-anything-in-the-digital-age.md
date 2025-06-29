@@ -1,7 +1,7 @@
 ﻿---
 backlinks:
 - title: Loose notes
-  url: /memex/sense/loose/loose.html
+  url: /sense/loose/loose.html
 title: 5 points for teaching anything in the digital age
 ---
 5 points

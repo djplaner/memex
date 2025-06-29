@@ -1,9 +1,9 @@
 ﻿---
 backlinks:
 - title: 'Teaching '
-  url: /memex/sense/Teaching/teaching.html
+  url: /sense/Teaching/teaching.html
 - title: Effective learning
-  url: /memex/sense/Teaching/RTT/rtt-effective-learning.html
+  url: /sense/Teaching/RTT/rtt-effective-learning.html
 title: Pygmalion Effect (aka "Rosenthal effect")
 ---
 # Pygmalion Effect (aka "Rosenthal effect")

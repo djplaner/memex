@@ -1,9 +1,9 @@
 ﻿---
 backlinks:
 - title: Learning
-  url: /memex/sense/Learning/learning.html
+  url: /sense/Learning/learning.html
 - title: Leet speak reading
-  url: /memex/sense/Teaching/Mathematics/leet-speak-reading.html
+  url: /sense/Teaching/Mathematics/leet-speak-reading.html
 tags: learning, plasticity, brain-plasticity
 title: Brain Plasticity
 type: note

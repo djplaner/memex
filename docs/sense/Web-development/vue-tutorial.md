@@ -1,7 +1,7 @@
 ﻿---
 backlinks:
 - title: Learning Vue
-  url: /memex/sense/Web-development/learning-vue.html
+  url: /sense/Web-development/learning-vue.html
 tags: web-development, javascript, vue
 title: Vue Tutorial
 type: note

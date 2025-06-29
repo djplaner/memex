@@ -1,7 +1,7 @@
 ﻿---
 backlinks:
 - title: Design
-  url: /memex/sense/Design/design.html
+  url: /sense/Design/design.html
 title: Learning Design Ontologies
 ---
 ## Overview 

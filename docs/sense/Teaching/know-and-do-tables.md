@@ -1,9 +1,9 @@
 ﻿---
 backlinks:
 - title: 'Teaching '
-  url: /memex/sense/Teaching/teaching.html
+  url: /sense/Teaching/teaching.html
 - title: CSER MiS - Getting started module
-  url: /memex/sense/Teaching/Mathematics/cser-mooc/cser-getting-started.html
+  url: /sense/Teaching/Mathematics/cser-mooc/cser-getting-started.html
 tags: teaching
 title: Know and do tables
 type: note

@@ -1,7 +1,7 @@
 ﻿---
 backlinks:
 - title: Blog posts
-  url: /memex/share/blog/blog-posts.html
+  url: /share/blog/blog-posts.html
 title: Broader Implications Hax Web Compontents
 ---
 ## Broader implications: the NGDLE and the VLE 

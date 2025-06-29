@@ -1,7 +1,7 @@
 ﻿---
 backlinks:
 - title: 'Decomposition '
-  url: /memex/sense/computing/decomposition.html
+  url: /sense/computing/decomposition.html
 title: Cross cutting concerns
 ---
 Resources 

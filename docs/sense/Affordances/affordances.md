@@ -1,30 +1,30 @@
 ﻿---
 backlinks:
 - title: Sense
-  url: /memex/sense/sense.html
+  url: /sense/sense.html
 - title: Convivality
-  url: /memex/sense/Affordances/conviviality.html
+  url: /sense/Affordances/conviviality.html
 - title: Homogenisation - represent processes in machines that can interpret those
     representations
-  url: /memex/sense/Affordances/homogenisation-represent-processes-in-machines-that-can-interpret-those-representations.html
+  url: /sense/Affordances/homogenisation-represent-processes-in-machines-that-can-interpret-those-representations.html
 - title: Why the web scales
-  url: /memex/sense/Affordances/why-the-web-scales.html
+  url: /sense/Affordances/why-the-web-scales.html
 - title: OER as a participatory activity
-  url: /memex/sense/herding-cats/oer-as-a-participatory-activity.html
+  url: /sense/herding-cats/oer-as-a-participatory-activity.html
 - title: Digital technologies and impact of bad/absent schema
-  url: /memex/sense/nodt/digital-technologies-and-impact-of-badabsent-schema.html
+  url: /sense/nodt/digital-technologies-and-impact-of-badabsent-schema.html
 - title: Nature of Digital Technology (nodt)
-  url: /memex/sense/nodt/nodt.html
+  url: /sense/nodt/nodt.html
 - title: Concrete Lounges
-  url: /memex/sense/nodt/concrete-lounges.html
+  url: /sense/nodt/concrete-lounges.html
 - title: Blackboard tweaks
-  url: /memex/sense/Distribution/blackboard-tweaks.html
+  url: /sense/Distribution/blackboard-tweaks.html
 - title: Bricolage
-  url: /memex/sense/Bricolage/bricolage.html
+  url: /sense/Bricolage/bricolage.html
 - title: Digital Weaver
-  url: /memex/sense/computing/digital-weaver.html
+  url: /sense/computing/digital-weaver.html
 - title: Technology Changes us
-  url: /memex/sense/Teaching/Digital_Technologies/technology-changes-us.html
+  url: /sense/Teaching/Digital_Technologies/technology-changes-us.html
 tags:
 - affordances
 - bad

@@ -1,7 +1,7 @@
 ﻿---
 backlinks:
 - title: Mathematical mindsets
-  url: /memex/sense/Teaching/Mathematics/mathematical-mindsets.html
+  url: /sense/Teaching/Mathematics/mathematical-mindsets.html
 tags: teaching, mathematics
 title: SMILE
 type: note

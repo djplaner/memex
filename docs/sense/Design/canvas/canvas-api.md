@@ -1,9 +1,9 @@
 ﻿---
 backlinks:
 - title: Design
-  url: /memex/sense/Design/design.html
+  url: /sense/Design/design.html
 - title: Canvas resources
-  url: /memex/sense/Design/canvas/canvas-resources.html
+  url: /sense/Design/canvas/canvas-resources.html
 title: '# Canvas LMS API'
 ---
 ## Canvas LMS API

@@ -1,9 +1,9 @@
 ﻿---
 backlinks:
 - title: All models are wrong
-  url: /memex/sense/Teaching/all-models-are-wrong.html
+  url: /sense/Teaching/all-models-are-wrong.html
 - title: Returning to the profession
-  url: /memex/sense/Teaching/RTT/returning-to-the-profession.html
+  url: /sense/Teaching/RTT/returning-to-the-profession.html
 tags: teaching, philosophy
 title: It's not how bad you start, it's how quickly you get better
 type: note

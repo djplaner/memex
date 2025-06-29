@@ -1,7 +1,7 @@
 ﻿---
 backlinks:
 - title: Quality teaching
-  url: /memex/sense/Quality-and-teaching/quality-teaching.html
+  url: /sense/Quality-and-teaching/quality-teaching.html
 title: Quality
 ---
 "learning our lesson" cites Biggs statement that quality can be defined as an outcome, a property, or a process.

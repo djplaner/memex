@@ -1,9 +1,9 @@
 ﻿---
 backlinks:
 - title: Blog posts
-  url: /memex/share/blog/blog-posts.html
+  url: /share/blog/blog-posts.html
 - title: The Law of Conservation of Complexity
-  url: /memex/sense/Design/conservation-of-complexity.html
+  url: /sense/Design/conservation-of-complexity.html
 title: Digital education and the conservation of complexity
 ---
 Pondering whether [Tesler's "Law of Conservation of Complexity"](http://www.nomodes.com/Larry_Tesler_Consulting/Complexity_Law.html) (Tesler’s law from now on) applies to digital (e-)learning, and if so, what implications might arise, especially given the great 

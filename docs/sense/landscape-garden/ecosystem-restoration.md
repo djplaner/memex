@@ -1,9 +1,9 @@
 ﻿---
 backlinks:
 - title: Seek
-  url: /memex/seek/seek.html
+  url: /seek/seek.html
 - title: Bush regeneration (Wood duck meadows)
-  url: /memex/sense/landscape-garden/regeneration.html
+  url: /sense/landscape-garden/regeneration.html
 tags: landscape, regeneration, ecosystem
 title: Ecosystem restoration (aka bush regneration)
 type: note

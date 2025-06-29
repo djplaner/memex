@@ -1,7 +1,7 @@
 ﻿---
 backlinks:
 - title: Creative Coding
-  url: /memex/sense/Teaching/Digital_Technologies/creative-coding.html
+  url: /sense/Teaching/Digital_Technologies/creative-coding.html
 tags: creative-coding, python
 title: My creative coding projects
 type: note

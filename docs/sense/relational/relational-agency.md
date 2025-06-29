@@ -1,7 +1,7 @@
 ﻿---
 backlinks:
 - title: Relational
-  url: /memex/sense/relational/relational.html
+  url: /sense/relational/relational.html
 title: Relational Agency
 ---
 Edwards (2011) offers this definition of _relational agency_

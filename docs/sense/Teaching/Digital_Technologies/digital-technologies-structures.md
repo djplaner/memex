@@ -1,7 +1,7 @@
 ﻿---
 backlinks:
 - title: Teaching Digital Technologies
-  url: /memex/sense/Teaching/Digital_Technologies/teaching-digital-technologies.html
+  url: /sense/Teaching/Digital_Technologies/teaching-digital-technologies.html
 tags: digital-technologies, computing, teaching-digital-technologies
 title: Digital Technologies Structures
 type: note

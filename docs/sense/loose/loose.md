@@ -1,11 +1,11 @@
 ﻿---
 backlinks:
 - title: Sense
-  url: /memex/sense/sense.html
+  url: /sense/sense.html
 - title: Random Notes
-  url: /memex/seek/journal/random-notes.html
+  url: /seek/journal/random-notes.html
 - title: Today's note
-  url: /memex/seek/journal/todays-note.html
+  url: /seek/journal/todays-note.html
 title: Loose notes
 ---
 Things just floating around unconnected to the broader hierarchy

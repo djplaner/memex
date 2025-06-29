@@ -1,9 +1,9 @@
 ﻿---
 backlinks:
 - title: Design
-  url: /memex/sense/Design/design.html
+  url: /sense/Design/design.html
 - title: Understanding
-  url: /memex/sense/Learning/understanding.html
+  url: /sense/Learning/understanding.html
 title: Rubric Design
 ---
 ## Designing an assessment rubric

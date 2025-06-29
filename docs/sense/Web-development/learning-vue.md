@@ -1,7 +1,7 @@
 ﻿---
 backlinks:
 - title: Web development
-  url: /memex/sense/Web-development/web-development.html
+  url: /sense/Web-development/web-development.html
 tags: web-development, javascript, vue
 title: Learning Vue
 type: note

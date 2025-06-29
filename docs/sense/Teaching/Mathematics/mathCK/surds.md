@@ -1,11 +1,11 @@
 ﻿---
 backlinks:
 - title: Add a mathematics template
-  url: /memex/colophon/add-a-mathematics-template.html
+  url: /colophon/add-a-mathematics-template.html
 - title: Mathematical Content Knowledge
-  url: /memex/sense/Teaching/Mathematics/mathCK/mathematical-content-knowledge.html
+  url: /sense/Teaching/Mathematics/mathCK/mathematical-content-knowledge.html
 - title: Year 10 Surds warmup
-  url: /memex/sense/Teaching/Mathematics/math-lessons-resources/y10-surds-warmup.html
+  url: /sense/Teaching/Mathematics/math-lessons-resources/y10-surds-warmup.html
 tags: teaching, mathematics, surd
 template: math.html
 title: Surds - mathematical content knowledge

@@ -1,7 +1,7 @@
 ﻿---
 backlinks:
 - title: Statistical Investigation Checklist (CSER)
-  url: /memex/sense/Teaching/Mathematics/cser-mooc/statistical-investigation-checklist.html
+  url: /sense/Teaching/Mathematics/cser-mooc/statistical-investigation-checklist.html
 tags: teaching-mathematics, statistics
 title: Learning statistical investigation checklist
 type: note

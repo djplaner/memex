@@ -1,11 +1,11 @@
 ﻿---
 backlinks:
 - title: Wood duck meadows gallery generator
-  url: /memex/colophon/wood-duck-gallery-generator.html
+  url: /colophon/wood-duck-gallery-generator.html
 - title: Wood duck meadows
-  url: /memex/sense/landscape-garden/wood-duck-meadows.html
+  url: /sense/landscape-garden/wood-duck-meadows.html
 - title: Plants
-  url: /memex/sense/landscape-garden/plants/plants.html
+  url: /sense/landscape-garden/plants/plants.html
 tags:
 - plants
 - wood-duck-meadows

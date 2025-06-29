@@ -1,7 +1,7 @@
 ﻿---
 backlinks:
 - title: Seek
-  url: /memex/seek/seek.html
+  url: /seek/seek.html
 tags:
 - seek
 title: Experiments with Zotero

@@ -1,31 +1,31 @@
 ﻿---
 backlinks:
 - title: Timeline of changes
-  url: /memex/timeline-of-changes.html
+  url: /timeline-of-changes.html
 - title: Life list generator
-  url: /memex/colophon/life-list-generator.html
+  url: /colophon/life-list-generator.html
 - title: Plant location generator
-  url: /memex/colophon/plant-location-generator.html
+  url: /colophon/plant-location-generator.html
 - title: Modify Markdown files
-  url: /memex/colophon/modify-markdown-files.html
+  url: /colophon/modify-markdown-files.html
 - title: Colophon
-  url: /memex/colophon/colophon.html
+  url: /colophon/colophon.html
 - title: Blog Statistics
-  url: /memex/colophon/blog-statistics.html
+  url: /colophon/blog-statistics.html
 - title: Convert Wordpress into Memex
-  url: /memex/colophon/convert-wordpress-into-memex.html
+  url: /colophon/convert-wordpress-into-memex.html
 - title: Memex - Version 3
-  url: /memex/colophon/version-3-memex-design.html
+  url: /colophon/version-3-memex-design.html
 - title: Integrate backlinks automatically onto pages
-  url: /memex/colophon/integrate-backlinks-automatically-onto-pages.html
+  url: /colophon/integrate-backlinks-automatically-onto-pages.html
 - title: Recent changes
-  url: /memex/colophon/recent-changes.html
+  url: /colophon/recent-changes.html
 - title: A new day
-  url: /memex/share/blog/2025/a-new-day.html
+  url: /share/blog/2025/a-new-day.html
 - title: As We May Think
-  url: /memex/sense/computing/as-we-may-think.html
+  url: /sense/computing/as-we-may-think.html
 - title: Markdown Manipulation
-  url: /memex/sense/Web-development/foam-dev/markdown-manipulation.html
+  url: /sense/Web-development/foam-dev/markdown-manipulation.html
 tags:
 - colophon
 title: Computational components

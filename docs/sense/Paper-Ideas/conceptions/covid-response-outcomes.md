@@ -2,7 +2,7 @@
 backlinks:
 - title: 'Exploring conceptions of technology: Implications for learning, teaching,
     and meso-level practitioners'
-  url: /memex/sense/Paper-Ideas/ascilite-2021-exploring-conceptions-of-technology.html
+  url: /sense/Paper-Ideas/ascilite-2021-exploring-conceptions-of-technology.html
 title: COVID Response outcomes
 ---
 ## From Bellaby et al

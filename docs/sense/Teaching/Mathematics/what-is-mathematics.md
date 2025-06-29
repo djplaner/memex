@@ -1,7 +1,7 @@
 ﻿---
 backlinks:
 - title: Teaching Mathematics
-  url: /memex/sense/Teaching/Mathematics/teaching-mathematics.html
+  url: /sense/Teaching/Mathematics/teaching-mathematics.html
 title: What is mathematics
 ---
 Boaler (2015) sees the "the heart of the math problems we face in education" as being "the wide gulf between real mathematics and school mathematics"

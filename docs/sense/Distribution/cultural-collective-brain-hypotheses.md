@@ -1,7 +1,7 @@
 ﻿---
 backlinks:
 - title: Diversity
-  url: /memex/sense/Distribution/diversity.html
+  url: /sense/Distribution/diversity.html
 title: Cultural and Collective Brain Hypotheses
 ---
 Henrich et al (2023)

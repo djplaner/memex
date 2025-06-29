@@ -1,7 +1,7 @@
 ﻿---
 backlinks:
 - title: Concepts
-  url: /memex/sense/concepts/concepts.html
+  url: /sense/concepts/concepts.html
 title: Sociomaterialism
 ---
 [Fawns](https://timfawns.com/expanding-the-unit-of-analysis-of-learning/) offers this definition

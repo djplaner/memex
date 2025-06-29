@@ -1,15 +1,15 @@
 ﻿---
 backlinks:
 - title: Reading and writing the world with mathematics
-  url: /memex/sense/Teaching/Mathematics/reading-and-writing-the-world-with-mathematics.html
+  url: /sense/Teaching/Mathematics/reading-and-writing-the-world-with-mathematics.html
 - title: Practice approach to mathematics
-  url: /memex/sense/Teaching/Mathematics/practice-approach-to-mathematics.html
+  url: /sense/Teaching/Mathematics/practice-approach-to-mathematics.html
 - title: Technologies for teaching mathematics
-  url: /memex/sense/Teaching/Mathematics/technologies-for-teaching-mathematics.html
+  url: /sense/Teaching/Mathematics/technologies-for-teaching-mathematics.html
 - title: Mathematical Mindset
-  url: /memex/sense/Teaching/Mathematics/mathematical-mindset.html
+  url: /sense/Teaching/Mathematics/mathematical-mindset.html
 - title: Reflective mathematical homework
-  url: /memex/sense/Teaching/Mathematics/reflective-mathematical-homework.html
+  url: /sense/Teaching/Mathematics/reflective-mathematical-homework.html
 tags: teaching-mathematics, mathematical-mindset
 title: Conceptual approach to mathematics
 type: note

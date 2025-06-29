@@ -1,7 +1,7 @@
 ﻿---
 backlinks:
 - title: mat071e-2024
-  url: /memex/sense/Teaching/Implementation/2024/MAT071E/mat071e-2024.html
+  url: /sense/Teaching/Implementation/2024/MAT071E/mat071e-2024.html
 tags: mat071e, teaching-mathematics, 2024
 title: mat071e 2024 unit 1 - Integers and fractions
 type: note

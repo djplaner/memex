@@ -1,13 +1,13 @@
 ﻿---
 backlinks:
 - title: Bush regeneration (Wood duck meadows)
-  url: /memex/sense/landscape-garden/regeneration.html
+  url: /sense/landscape-garden/regeneration.html
 - title: Plants
-  url: /memex/sense/landscape-garden/plants/plants.html
+  url: /sense/landscape-garden/plants/plants.html
 - title: Harpullia Pendula (Moreton Bay Tulipwood)
-  url: /memex/sense/landscape-garden/plants/harpullia-pendula.html
+  url: /sense/landscape-garden/plants/harpullia-pendula.html
 - title: Individual plants
-  url: /memex/sense/landscape-garden/individual-plants/individual-plants.html
+  url: /sense/landscape-garden/individual-plants/individual-plants.html
 latitude: -27.53847
 longitude: 152.055175
 photos:

@@ -1,9 +1,9 @@
 ﻿---
 backlinks:
 - title: Design
-  url: /memex/sense/Design/design.html
+  url: /sense/Design/design.html
 - title: Patterns, pattern languages and design practice
-  url: /memex/sense/Paper-Summaries/goodyear-patterns-design-practice.html
+  url: /sense/Paper-Summaries/goodyear-patterns-design-practice.html
 title: Automating instructional design
 ---
 ## Background

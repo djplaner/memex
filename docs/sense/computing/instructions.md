@@ -1,9 +1,9 @@
 ﻿---
 backlinks:
 - title: Computing
-  url: /memex/sense/computing/computing.html
+  url: /sense/computing/computing.html
 - title: CSER Maths in Schools - Practices and pedagogies
-  url: /memex/sense/Teaching/Mathematics/cser-mooc/cser-practices-and-pedagogies.html
+  url: /sense/Teaching/Mathematics/cser-mooc/cser-practices-and-pedagogies.html
 tags: computing, teaching-digital-technology, teaching, documentation
 title: Instructions
 type: note

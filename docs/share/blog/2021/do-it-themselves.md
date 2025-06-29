@@ -1,7 +1,7 @@
 ﻿---
 backlinks:
 - title: Blog posts
-  url: /memex/share/blog/blog-posts.html
+  url: /share/blog/blog-posts.html
 title: '"Do it themselves" and technology/purpose mismatch'
 ---
 Or perhaps the "invisibility of purpose"

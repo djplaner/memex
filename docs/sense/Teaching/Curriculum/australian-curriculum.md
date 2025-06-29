@@ -1,19 +1,19 @@
 ﻿---
 backlinks:
 - title: Exploring australian curriculum
-  url: /memex/sense/Python/exploring-australian-curriculum.html
+  url: /sense/Python/exploring-australian-curriculum.html
 - title: 'Teaching '
-  url: /memex/sense/Teaching/teaching.html
+  url: /sense/Teaching/teaching.html
 - title: Curriculum
-  url: /memex/sense/Teaching/RTT/rtt-curriculum-and-assessment.html
+  url: /sense/Teaching/RTT/rtt-curriculum-and-assessment.html
 - title: other-oz-curriculum-code-projects
-  url: /memex/sense/Teaching/Curriculum/other-oz-curriculum-code-projects.html
+  url: /sense/Teaching/Curriculum/other-oz-curriculum-code-projects.html
 - title: Designing Curriculum Learning Design Tools
-  url: /memex/sense/Teaching/Curriculum/designing-curriculum-learning-design-tools.html
+  url: /sense/Teaching/Curriculum/designing-curriculum-learning-design-tools.html
 - title: CSER Maths in Schools - Practices and pedagogies
-  url: /memex/sense/Teaching/Mathematics/cser-mooc/cser-practices-and-pedagogies.html
+  url: /sense/Teaching/Mathematics/cser-mooc/cser-practices-and-pedagogies.html
 - title: CSER MiS - Getting started module
-  url: /memex/sense/Teaching/Mathematics/cser-mooc/cser-getting-started.html
+  url: /sense/Teaching/Mathematics/cser-mooc/cser-getting-started.html
 title: Australian Curriculum
 ---
 For much of my teaching I'll be using [version 9 of the Australian Curriculum](https://v9.australiancurriculum.edu.au/) which I've added here under [[v9-learning-areas]]

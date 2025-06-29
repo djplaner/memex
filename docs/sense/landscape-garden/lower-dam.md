@@ -1,17 +1,17 @@
 ﻿---
 backlinks:
 - title: Wood duck meadows
-  url: /memex/sense/landscape-garden/wood-duck-meadows.html
+  url: /sense/landscape-garden/wood-duck-meadows.html
 - title: Asparagus africanus (Climbing asparagus fern)
-  url: /memex/sense/landscape-garden/plants/asparagus-africanus.html
+  url: /sense/landscape-garden/plants/asparagus-africanus.html
 - title: Azola
-  url: /memex/sense/landscape-garden/plants/azolla.html
+  url: /sense/landscape-garden/plants/azolla.html
 - title: Corymbia Torelliana (Cadaghi)"
-  url: /memex/sense/landscape-garden/plants/corymbia-torelliana.html
+  url: /sense/landscape-garden/plants/corymbia-torelliana.html
 - title: Loquat on the lower dam
-  url: /memex/sense/landscape-garden/individual-plants/loquat-lower-dam.html
+  url: /sense/landscape-garden/individual-plants/loquat-lower-dam.html
 - title: Individual plants
-  url: /memex/sense/landscape-garden/individual-plants/individual-plants.html
+  url: /sense/landscape-garden/individual-plants/individual-plants.html
 tags: gardens, landscape
 title: The lower dam
 type: zone

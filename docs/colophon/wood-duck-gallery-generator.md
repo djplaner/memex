@@ -1,9 +1,9 @@
 ﻿---
 backlinks:
 - title: Computational components
-  url: /memex/colophon/computational-components.html
+  url: /colophon/computational-components.html
 - title: Memex - Version 3
-  url: /memex/colophon/version-3-memex-design.html
+  url: /colophon/version-3-memex-design.html
 tags:
 - colophon
 - computational-component

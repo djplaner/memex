@@ -1,9 +1,9 @@
 ﻿---
 backlinks:
 - title: Jesse Stommel on ungrading
-  url: /memex/sense/Teaching/stommel-ungrading.html
+  url: /sense/Teaching/stommel-ungrading.html
 - title: Teacher Biases
-  url: /memex/sense/Teaching/teacher-biases.html
+  url: /sense/Teaching/teacher-biases.html
 title: "How Teachers\u2019 Hidden Biases Are Hurting Our Girls"
 ---
 ## [time.com](https://time.com/3705454/teachers-biases-girls-education/) ▪ Friday, February 13, 2015 at 5:07 AM

@@ -1,7 +1,7 @@
 ﻿---
 backlinks:
 - title: Ungrading
-  url: /memex/sense/Teaching/ungrading.html
+  url: /sense/Teaching/ungrading.html
 title: Jesse Stommel on ungrading
 ---
 Summary and reflections on [a twitter thread on ungrading](https://twitter.com/Jessifer/status/1655763679437266944) from Jesse Stommel

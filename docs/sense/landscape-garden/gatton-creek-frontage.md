@@ -1,39 +1,39 @@
 ﻿---
 backlinks:
 - title: Bush regeneration (Wood duck meadows)
-  url: /memex/sense/landscape-garden/regeneration.html
+  url: /sense/landscape-garden/regeneration.html
 - title: Creek restoration
-  url: /memex/sense/landscape-garden/creek-restoration.html
+  url: /sense/landscape-garden/creek-restoration.html
 - title: Rocky Creek Frontage
-  url: /memex/sense/landscape-garden/rocky-creek-frontage.html
+  url: /sense/landscape-garden/rocky-creek-frontage.html
 - title: Wood duck meadows
-  url: /memex/sense/landscape-garden/wood-duck-meadows.html
+  url: /sense/landscape-garden/wood-duck-meadows.html
 - title: Front yard
-  url: /memex/sense/landscape-garden/front-yard.html
+  url: /sense/landscape-garden/front-yard.html
 - title: Roundabout
-  url: /memex/sense/landscape-garden/roundabout.html
+  url: /sense/landscape-garden/roundabout.html
 - title: Asparagus africanus (Climbing asparagus fern)
-  url: /memex/sense/landscape-garden/plants/asparagus-africanus.html
+  url: /sense/landscape-garden/plants/asparagus-africanus.html
 - title: Rubus probus (Atherton raspberry)
-  url: /memex/sense/landscape-garden/plants/rubus-probus.html
+  url: /sense/landscape-garden/plants/rubus-probus.html
 - title: Portulacaria afra (Elephant bush)
-  url: /memex/sense/landscape-garden/plants/portulacaria-afra.html
-- title: Wombat Berry - Eustrephus latifolius
-  url: /memex/sense/landscape-garden/plants/wombat-berry.html
+  url: /sense/landscape-garden/plants/portulacaria-afra.html
+- title: Wombat Berry
+  url: /sense/landscape-garden/plants/wombat-berry.html
 - title: Bunya Pine
-  url: /memex/sense/landscape-garden/plants/bunya-pine.html
+  url: /sense/landscape-garden/plants/bunya-pine.html
 - title: Tipuana tipu (Rosewood)
-  url: /memex/sense/landscape-garden/plants/tipuana-tipu.html
+  url: /sense/landscape-garden/plants/tipuana-tipu.html
 - title: Talinum paniculatum (Pink baby's breath)
-  url: /memex/sense/landscape-garden/plants/talinum-paniculatum.html
+  url: /sense/landscape-garden/plants/talinum-paniculatum.html
 - title: Gary's Ficus
-  url: /memex/sense/landscape-garden/individual-plants/garys-ficus.html
+  url: /sense/landscape-garden/individual-plants/garys-ficus.html
 - title: Hugh and Kay's Sandpaper Fig (Gatton Creek frontage)
-  url: /memex/sense/landscape-garden/individual-plants/hugh-and-kays-sandpaper-fig.html
+  url: /sense/landscape-garden/individual-plants/hugh-and-kays-sandpaper-fig.html
 - title: Individual plants
-  url: /memex/sense/landscape-garden/individual-plants/individual-plants.html
+  url: /sense/landscape-garden/individual-plants/individual-plants.html
 - title: Atherton raspberry (Gatton Creek)
-  url: /memex/sense/landscape-garden/individual-plants/atherton-raspberry-gatton-creek.html
+  url: /sense/landscape-garden/individual-plants/atherton-raspberry-gatton-creek.html
 tags:
 - gardens
 - region

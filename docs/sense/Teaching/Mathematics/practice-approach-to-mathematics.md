@@ -1,13 +1,13 @@
 ﻿---
 backlinks:
 - title: Technologies for teaching mathematics
-  url: /memex/sense/Teaching/Mathematics/technologies-for-teaching-mathematics.html
+  url: /sense/Teaching/Mathematics/technologies-for-teaching-mathematics.html
 - title: Mathematical Mindset
-  url: /memex/sense/Teaching/Mathematics/mathematical-mindset.html
+  url: /sense/Teaching/Mathematics/mathematical-mindset.html
 - title: Reflective mathematical homework
-  url: /memex/sense/Teaching/Mathematics/reflective-mathematical-homework.html
+  url: /sense/Teaching/Mathematics/reflective-mathematical-homework.html
 - title: Conceptual approach to mathematics
-  url: /memex/sense/Teaching/Mathematics/conceptual-approach-to-mathematics.html
+  url: /sense/Teaching/Mathematics/conceptual-approach-to-mathematics.html
 title: Practice approach to mathematics
 ---
 Boaler (2015)

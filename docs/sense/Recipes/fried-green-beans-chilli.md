@@ -1,7 +1,7 @@
 ﻿---
 backlinks:
 - title: Recipes
-  url: /memex/sense/Recipes/recipes.html
+  url: /sense/Recipes/recipes.html
 title: '# Kylie Kwong''s Spicy dry-fried green beans with hoisin sauce'
 ---
 ## Kylie Kwong's Spicy dry-fried green beans with hoisin sauce

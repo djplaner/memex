@@ -1,7 +1,7 @@
 ﻿---
 backlinks:
 - title: Loose notes
-  url: /memex/sense/loose/loose.html
+  url: /sense/loose/loose.html
 title: Characteristics of successful Professional Development/Learning
 ---
 Desimone (2009) argues that there is some consensus around the characteristics of PD (of teachers) that improves outcomes

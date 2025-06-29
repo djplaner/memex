@@ -1,7 +1,7 @@
 ﻿---
 backlinks:
 - title: Teaching Mathematics
-  url: /memex/sense/Teaching/Mathematics/teaching-mathematics.html
+  url: /sense/Teaching/Mathematics/teaching-mathematics.html
 tags: mathematics, teaching-mathematics
 title: Other Discipline Mathematics
 type: index

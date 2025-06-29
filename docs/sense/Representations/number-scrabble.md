@@ -1,15 +1,15 @@
 ﻿---
 backlinks:
 - title: Representations
-  url: /memex/sense/Representations/representations.html
+  url: /sense/Representations/representations.html
 - title: Transparent representation
-  url: /memex/sense/Representations/transparent-representation.html
+  url: /sense/Representations/transparent-representation.html
 - title: Number Scrabble - web implementation
-  url: /memex/sense/CASA/number-scrabble-web.html
+  url: /sense/CASA/number-scrabble-web.html
 - title: 'MATH081C Unit 1, Lesson 1: 2024'
-  url: /memex/sense/Teaching/Implementation/2024/MAT081C/mat081c-2024-u1l1.html
+  url: /sense/Teaching/Implementation/2024/MAT081C/mat081c-2024-u1l1.html
 - title: CSER Maths in Schools - Practices and pedagogies
-  url: /memex/sense/Teaching/Mathematics/cser-mooc/cser-practices-and-pedagogies.html
+  url: /sense/Teaching/Mathematics/cser-mooc/cser-practices-and-pedagogies.html
 tags:
 - representations
 - design

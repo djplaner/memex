@@ -1,11 +1,11 @@
 ﻿---
 backlinks:
 - title: Computing
-  url: /memex/sense/computing/computing.html
+  url: /sense/computing/computing.html
 - title: Why do digital transformations fail?
-  url: /memex/sense/computing/why-do-digital-transformations-fail.html
+  url: /sense/computing/why-do-digital-transformations-fail.html
 - title: Skills Framework for the Information Age
-  url: /memex/sense/computing/profession/skills-framework-for-the-information-age.html
+  url: /sense/computing/profession/skills-framework-for-the-information-age.html
 title: Digital Transformation
 ---
 ## Views on Digital Transformation

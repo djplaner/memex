@@ -1,33 +1,33 @@
 ﻿---
 backlinks:
 - title: Creek restoration
-  url: /memex/sense/landscape-garden/creek-restoration.html
+  url: /sense/landscape-garden/creek-restoration.html
 - title: Rocky Creek Frontage
-  url: /memex/sense/landscape-garden/rocky-creek-frontage.html
+  url: /sense/landscape-garden/rocky-creek-frontage.html
 - title: Wood duck meadows
-  url: /memex/sense/landscape-garden/wood-duck-meadows.html
+  url: /sense/landscape-garden/wood-duck-meadows.html
 - title: The lower dam
-  url: /memex/sense/landscape-garden/lower-dam.html
+  url: /sense/landscape-garden/lower-dam.html
 - title: Roundabout
-  url: /memex/sense/landscape-garden/roundabout.html
+  url: /sense/landscape-garden/roundabout.html
 - title: The Bunker
-  url: /memex/sense/landscape-garden/bunker.html
+  url: /sense/landscape-garden/bunker.html
 - title: White Shahtoot mulberry
-  url: /memex/sense/landscape-garden/individual-plants/white-shahtoot-mulberry.html
+  url: /sense/landscape-garden/individual-plants/white-shahtoot-mulberry.html
 - title: Lychee (No Mai Chee)
-  url: /memex/sense/landscape-garden/individual-plants/lychee-no-mai-chee.html
+  url: /sense/landscape-garden/individual-plants/lychee-no-mai-chee.html
 - title: Persimmon (Twentieth Century)
-  url: /memex/sense/landscape-garden/individual-plants/persimmon-twentieth-century.html
+  url: /sense/landscape-garden/individual-plants/persimmon-twentieth-century.html
 - title: Custard apple (Paxton Prolific)
-  url: /memex/sense/landscape-garden/individual-plants/custard-apple-paxton-prolific.html
+  url: /sense/landscape-garden/individual-plants/custard-apple-paxton-prolific.html
 - title: Individual plants
-  url: /memex/sense/landscape-garden/individual-plants/individual-plants.html
+  url: /sense/landscape-garden/individual-plants/individual-plants.html
 - title: Unknown mulberry (Rocky Creek frontage)
-  url: /memex/sense/landscape-garden/individual-plants/unknown-mulberry-rocky-creek-frontage.html
+  url: /sense/landscape-garden/individual-plants/unknown-mulberry-rocky-creek-frontage.html
 - title: Lychee (Erdon Lee)
-  url: /memex/sense/landscape-garden/individual-plants/lychee-erdon-lee.html
+  url: /sense/landscape-garden/individual-plants/lychee-erdon-lee.html
 - title: Lychee (Salathiel)
-  url: /memex/sense/landscape-garden/individual-plants/lychee-salathiel.html
+  url: /sense/landscape-garden/individual-plants/lychee-salathiel.html
 tags: gardens, region
 title: Rocky Creek Frontage
 type: zone

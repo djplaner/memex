@@ -1,11 +1,11 @@
 ﻿---
 backlinks:
 - title: My approach to teaching mathematics
-  url: /memex/sense/Teaching/Mathematics/my-approach-to-teaching-mathematics.html
+  url: /sense/Teaching/Mathematics/my-approach-to-teaching-mathematics.html
 - title: Mathematical mindsets
-  url: /memex/sense/Teaching/Mathematics/mathematical-mindsets.html
+  url: /sense/Teaching/Mathematics/mathematical-mindsets.html
 - title: CSER MiS - Getting started module
-  url: /memex/sense/Teaching/Mathematics/cser-mooc/cser-getting-started.html
+  url: /sense/Teaching/Mathematics/cser-mooc/cser-getting-started.html
 tags:
 - teaching
 - mathematics

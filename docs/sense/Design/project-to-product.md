@@ -1,7 +1,7 @@
 ﻿---
 backlinks:
 - title: Design
-  url: /memex/sense/Design/design.html
+  url: /sense/Design/design.html
 title: Project to Product
 ---
 Idea from agile, lean, devops, digital transformation. In part about moving IT from cost to profit center.

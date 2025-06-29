@@ -1,9 +1,9 @@
 ﻿---
 backlinks:
 - title: Plants
-  url: /memex/sense/landscape-garden/plants/plants.html
+  url: /sense/landscape-garden/plants/plants.html
 - title: Atherton raspberry (Gatton Creek)
-  url: /memex/sense/landscape-garden/individual-plants/atherton-raspberry-gatton-creek.html
+  url: /sense/landscape-garden/individual-plants/atherton-raspberry-gatton-creek.html
 tags:
 - plants
 - wood-duck-meadows

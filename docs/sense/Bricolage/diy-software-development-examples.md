@@ -1,7 +1,7 @@
 ﻿---
 backlinks:
 - title: Bricolage
-  url: /memex/sense/Bricolage/bricolage.html
+  url: /sense/Bricolage/bricolage.html
 title: Examples of DIY Software Development
 ---
 ## Commerical, platforms etc 

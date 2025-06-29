@@ -1,7 +1,7 @@
 ﻿---
 backlinks:
 - title: Computing
-  url: /memex/sense/computing/computing.html
+  url: /sense/computing/computing.html
 title: Computing project ideas
 ---
 Storage space for misc. ideas for computing projects.

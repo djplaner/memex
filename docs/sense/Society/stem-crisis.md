@@ -1,9 +1,9 @@
 ﻿---
 backlinks:
 - title: Society
-  url: /memex/sense/Society/society.html
+  url: /sense/Society/society.html
 - title: 'Teaching '
-  url: /memex/sense/Teaching/teaching.html
+  url: /sense/Teaching/teaching.html
 tags: society, STEM
 title: STEM Crisis
 type: note

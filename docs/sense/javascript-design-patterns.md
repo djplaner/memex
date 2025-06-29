@@ -1,9 +1,9 @@
 ﻿---
 backlinks:
 - title: Moving the Card Interface to the Second Age of Javascript
-  url: /memex/sense/moving-card-interface-to-second-age.html
+  url: /sense/moving-card-interface-to-second-age.html
 - title: Web development
-  url: /memex/sense/Web-development/web-development.html
+  url: /sense/Web-development/web-development.html
 title: javascript-design-patterns
 ---
 ## Resources

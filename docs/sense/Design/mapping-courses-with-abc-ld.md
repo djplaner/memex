@@ -1,9 +1,9 @@
 ﻿---
 backlinks:
 - title: Design
-  url: /memex/sense/Design/design.html
+  url: /sense/Design/design.html
 - title: ABC learning design explained
-  url: /memex/sense/Design/abc-learning-design-explained.html
+  url: /sense/Design/abc-learning-design-explained.html
 title: Mapping courses with ABC LD
 ---
 Is it possible to map an existing course and its activities using ABC LD?

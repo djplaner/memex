@@ -1,11 +1,11 @@
 ﻿---
 backlinks:
 - title: How to Develop Web Components
-  url: /memex/sense/how-to-develop-web-components.html
+  url: /sense/how-to-develop-web-components.html
 - title: My First LitElement Web Component
-  url: /memex/sense/Web-development/my-first-litelement-web-component.html
+  url: /sense/Web-development/my-first-litelement-web-component.html
 - title: Web development
-  url: /memex/sense/Web-development/web-development.html
+  url: /sense/Web-development/web-development.html
 title: Unbundled web components
 ---
 ## TODO

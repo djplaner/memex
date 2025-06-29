@@ -1,7 +1,7 @@
 ﻿---
 backlinks:
 - title: Sense
-  url: /memex/sense/sense.html
+  url: /sense/sense.html
 tags: health, personal
 title: Health check
 type: note

@@ -1,7 +1,7 @@
 ﻿---
 backlinks:
 - title: Mathematical Topics
-  url: /memex/sense/Teaching/Mathematics/mathematical-topics.html
+  url: /sense/Teaching/Mathematics/mathematical-topics.html
 title: Probability
 ---
 ## Resources

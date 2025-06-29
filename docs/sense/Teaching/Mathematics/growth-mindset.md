@@ -1,17 +1,17 @@
 ﻿---
 backlinks:
 - title: Bricolagogy
-  url: /memex/sense/Bricolage/bricalogogy.html
+  url: /sense/Bricolage/bricalogogy.html
 - title: Curriculum
-  url: /memex/sense/Teaching/RTT/rtt-curriculum-and-assessment.html
+  url: /sense/Teaching/RTT/rtt-curriculum-and-assessment.html
 - title: Leet speak reading
-  url: /memex/sense/Teaching/Mathematics/leet-speak-reading.html
+  url: /sense/Teaching/Mathematics/leet-speak-reading.html
 - title: Teaching mathematics for a growth mindset
-  url: /memex/sense/Teaching/Mathematics/teaching-mathematics-for-a-growth-mindset.html
+  url: /sense/Teaching/Mathematics/teaching-mathematics-for-a-growth-mindset.html
 - title: Design for a mathematical mindset
-  url: /memex/sense/Teaching/Mathematics/design-for-mathematical-mindset.html
+  url: /sense/Teaching/Mathematics/design-for-mathematical-mindset.html
 - title: CSER MiS - Getting started module
-  url: /memex/sense/Teaching/Mathematics/cser-mooc/cser-getting-started.html
+  url: /sense/Teaching/Mathematics/cser-mooc/cser-getting-started.html
 title: Growth Mindset
 ---
 ## Comparing growth and fixed mindsets

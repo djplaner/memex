@@ -1,7 +1,7 @@
 ﻿---
 backlinks:
 - title: Usable CASA
-  url: /memex/sense/Web-development/usable-casa/usable-casa.html
+  url: /sense/Web-development/usable-casa/usable-casa.html
 title: vite-plugin-monkey
 ---
 [Vite plugin server](https://github.com/lisonge/vite-plugin-monkey) to build userscripts, including support for svelte

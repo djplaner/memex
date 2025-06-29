@@ -1,7 +1,7 @@
 ﻿---
 backlinks:
 - title: Consistency vs quality?
-  url: /memex/sense/Design/consistency-quality.html
+  url: /sense/Design/consistency-quality.html
 title: Consistency is the low-hanging fruit solution to a more complex problem
 ---
 ```toml

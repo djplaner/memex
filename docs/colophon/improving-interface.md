@@ -1,7 +1,7 @@
 ﻿---
 backlinks:
 - title: Memex - Version 3
-  url: /memex/colophon/version-3-memex-design.html
+  url: /colophon/version-3-memex-design.html
 tags:
 - colophon
 - interface

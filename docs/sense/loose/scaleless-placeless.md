@@ -1,11 +1,11 @@
 ﻿---
 backlinks:
 - title: Consistency vs quality?
-  url: /memex/sense/Design/consistency-quality.html
+  url: /sense/Design/consistency-quality.html
 - title: Scale and learning, teaching & education
-  url: /memex/sense/Design/scale.html
+  url: /sense/Design/scale.html
 - title: The BAD (Bricolage, Affordances, Distribution) mindset
-  url: /memex/sense/CASA/bad-mindset.html
+  url: /sense/CASA/bad-mindset.html
 tags:
 - bad
 title: Scaleless and Placeless

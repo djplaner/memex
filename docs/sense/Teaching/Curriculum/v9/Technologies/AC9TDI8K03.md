@@ -1,9 +1,9 @@
 ﻿---
 backlinks:
 - title: Crackers
-  url: /memex/sense/Teaching/Mathematics/crackers.html
+  url: /sense/Teaching/Mathematics/crackers.html
 - title: Learning Areas
-  url: /memex/sense/Teaching/Curriculum/v9/v9-learning-areas.html
+  url: /sense/Teaching/Curriculum/v9/v9-learning-areas.html
 tags: australian-curriculum
 title: AC9TDI8K03
 type: note

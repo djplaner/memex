@@ -27,15 +27,76 @@ function createGraph(data) {
     // Sigma.js
     //const graph = new graphology.Graph();
 
-/*    graphElement = document.getElementById("graph-container");
+    graphElement = document.getElementById("graph-container");
     if (!graphElement) {
         console.error("Graph element not found");
         return;
-    } */
+    } 
+    // get width/height of graphElement
+    const width = graphElement.clientWidth;
+    const height = graphElement.clientHeight;
 
+    const highlightNodes = new Set();
+    const highlightLinks = new Set();
+    const NODE_R = 8;
+    let hoverNode = null;
+
+    const graph = new ForceGraph(graphElement).
+        graphData(data).
+        nodeRelSize(NODE_R).
+        nodeAutoColorBy('group').
+        onNodeHover(node => {
+            highlightNodes.clear();
+            highlightLinks.clear();
+            if (node) {
+                highlightNodes.add(node);
+                // add all nodes that have this node.id as a target in data.links
+                data.links.forEach(link => {
+                    if (link.target === node.id) {
+                        const sourceNode = data.nodes.find(n => n.id === link.source);
+                        if (sourceNode) {
+                            highlightNodes.add(sourceNode);
+                        }
+                        highlightLinks.add(link);
+                    }
+                });
+
+                hoverNode = node || null;
+
+/*                node.neighbors.forEach(neighbor => highlightNodes.add(neighbor));
+                node.links.forEach(link => highlightLinks.add(link)); */
+            }
+        }).
+        width(width).
+        height(height).
+//        nodeId('id'). 
+//        nodeVal('val').
+        nodeLabel( node => {
+            return `<strong>${node.name}</strong>`;
+        }). 
+        linkSource('source').
+        linkTarget('target').
+        enablePointerInteraction(true).
+        nodeAutoColorBy('name').
+        onNodeClick( node => {
+            // redirect browser to <current-host>/node.id
+            const url = new URL(node.id, window.location.origin);
+            window.location.href = url.href;
+/*            graph.centerAt( node.x, node.y, 1000 )
+            graph.zoom(8, 2000);*/
+        })
+        .nodeCanvasObject((node, ctx) => {
+        // add ring just for highlighted nodes
+        ctx.beginPath();
+        ctx.arc(node.x, node.y, NODE_R * 1.4, 0, 2 * Math.PI, false);
+        ctx.fillStyle = node === hoverNode ? 'red' : 'orange';
+        ctx.fill();
+      })
+
+      graph.onEngineStop(() => graph.zoomToFit(0,10));
 
     // G6
-    const { Graph } = G6;
+/*    const { Graph } = G6;
 
     const graph = new Graph({
         container: 'graph-container',
@@ -73,7 +134,7 @@ function createGraph(data) {
       });
 
       graph.render();
-
+*/
 
     
 //            { "id": "/pkm.md", "x": 1, "y": 1, "label": "Personal Knowledge Management" },

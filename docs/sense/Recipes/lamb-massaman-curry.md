@@ -1,7 +1,7 @@
 ﻿---
 backlinks:
 - title: Recipes
-  url: /memex/sense/Recipes/recipes.html
+  url: /sense/Recipes/recipes.html
 title: Massaman Lamb Curry
 ---
 Inspired by RecipeTinEats [Lamb Shanks Massaman](https://www.recipetineats.com/lamb-shanks-in-massaman-curry/)

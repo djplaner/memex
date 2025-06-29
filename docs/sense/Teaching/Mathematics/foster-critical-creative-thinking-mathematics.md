@@ -1,7 +1,7 @@
 ﻿---
 backlinks:
 - title: Technologies for teaching mathematics
-  url: /memex/sense/Teaching/Mathematics/technologies-for-teaching-mathematics.html
+  url: /sense/Teaching/Mathematics/technologies-for-teaching-mathematics.html
 title: Fostering critical and creative thinking - mathematics
 ---
 ## 7 Methods

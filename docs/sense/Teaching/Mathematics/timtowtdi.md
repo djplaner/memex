@@ -1,7 +1,7 @@
 ﻿---
 backlinks:
 - title: Effective pedagogy in mathematics
-  url: /memex/sense/Teaching/Mathematics/effective-pedagogy-in-mathematics.html
+  url: /sense/Teaching/Mathematics/effective-pedagogy-in-mathematics.html
 tags: teaching-mathematics, perl, mathematics
 title: There's more than one way to do it (TIMTOWTDI)
 type: note

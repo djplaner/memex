@@ -1,11 +1,11 @@
 ﻿---
 backlinks:
 - title: Gatton creek frontage
-  url: /memex/sense/landscape-garden/gatton-creek-frontage.html
+  url: /sense/landscape-garden/gatton-creek-frontage.html
 - title: Wood duck meadows
-  url: /memex/sense/landscape-garden/wood-duck-meadows.html
+  url: /sense/landscape-garden/wood-duck-meadows.html
 - title: Plants
-  url: /memex/sense/landscape-garden/plants/plants.html
+  url: /sense/landscape-garden/plants/plants.html
 tags:
 - wood-duck-meadows
 - plant

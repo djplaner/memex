@@ -1,7 +1,7 @@
 ﻿---
 backlinks:
 - title: AI
-  url: /memex/sense/AI/AI.html
+  url: /sense/AI/AI.html
 title: LLM Types
 ---
 ## Choice between proprietary or open source foundation models

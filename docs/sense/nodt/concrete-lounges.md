@@ -1,7 +1,7 @@
 ﻿---
 backlinks:
 - title: Three obstacles to getting started with programming
-  url: /memex/sense/nodt/three-obstacles-to-getting-started-with-programming.html
+  url: /sense/nodt/three-obstacles-to-getting-started-with-programming.html
 title: Concrete Lounges
 ---
 Originally expressed [in a blog post](https://djon.es/blog/2014/12/18/concrete-lounge/).

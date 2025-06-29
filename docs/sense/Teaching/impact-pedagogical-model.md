@@ -1,7 +1,7 @@
 ﻿---
 backlinks:
 - title: 'Teaching '
-  url: /memex/sense/Teaching/teaching.html
+  url: /sense/Teaching/teaching.html
 title: Impact pedagogical model
 ---
 Queensland (GU) based model - as a form of [golden circle]

@@ -1,9 +1,9 @@
 ﻿---
 backlinks:
 - title: Blog posts
-  url: /memex/share/blog/blog-posts.html
+  url: /share/blog/blog-posts.html
 - title: Today's note
-  url: /memex/seek/journal/todays-note.html
+  url: /seek/journal/todays-note.html
 title: Ed tech - some missing flavours
 ---
 ## Introduction

@@ -1,7 +1,7 @@
 ﻿---
 backlinks:
 - title: Quality and teaching
-  url: /memex/sense/Quality-and-teaching/quality-and-teaching.html
+  url: /sense/Quality-and-teaching/quality-and-teaching.html
 title: Excellent/quality teaching
 ---
 ## The problem

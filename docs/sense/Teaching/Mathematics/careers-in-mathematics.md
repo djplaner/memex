@@ -1,7 +1,7 @@
 ﻿---
 backlinks:
 - title: When will I ever use mathematics
-  url: /memex/sense/Teaching/Mathematics/when-will-i-ever-use-mathematics.html
+  url: /sense/Teaching/Mathematics/when-will-i-ever-use-mathematics.html
 tags: teaching-mathematics, mathematics
 title: Careers in mathematics
 type: note

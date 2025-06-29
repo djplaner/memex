@@ -1,7 +1,7 @@
 ﻿---
 backlinks:
 - title: Theory of computing
-  url: /memex/sense/computing/learning-cs/theory-of-computing.html
+  url: /sense/computing/learning-cs/theory-of-computing.html
 tags:
 - game-of-life
 - theory-of-computing

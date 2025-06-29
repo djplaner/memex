@@ -1,7 +1,7 @@
 ﻿---
 backlinks:
 - title: 'Teaching '
-  url: /memex/sense/Teaching/teaching.html
+  url: /sense/Teaching/teaching.html
 tags: teaching, behaviour-classroom-management
 title: Movement breaks
 type: note

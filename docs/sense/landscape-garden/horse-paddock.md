@@ -1,9 +1,9 @@
 ﻿---
 backlinks:
 - title: Wood duck meadows
-  url: /memex/sense/landscape-garden/wood-duck-meadows.html
+  url: /sense/landscape-garden/wood-duck-meadows.html
 - title: The Circle
-  url: /memex/sense/landscape-garden/the-circle.html
+  url: /sense/landscape-garden/the-circle.html
 tags:
 - gardens
 - landscape

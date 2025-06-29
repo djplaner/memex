@@ -1,9 +1,9 @@
 ﻿---
 backlinks:
 - title: Python
-  url: /memex/sense/Python/python.html
+  url: /sense/Python/python.html
 - title: CASA Gallery
-  url: /memex/sense/CASA/casa-gallery.html
+  url: /sense/CASA/casa-gallery.html
 tags: teaching, teaching-digital-technologies, teaching-mathematics, python
 title: Developing Crackers
 type: note

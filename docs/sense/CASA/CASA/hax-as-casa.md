@@ -1,9 +1,9 @@
 ﻿---
 backlinks:
 - title: CASA Gallery
-  url: /memex/sense/CASA/casa-gallery.html
+  url: /sense/CASA/casa-gallery.html
 - title: Today's note
-  url: /memex/seek/journal/todays-note.html
+  url: /seek/journal/todays-note.html
 title: H-A-X as CASA?
 ---
 ## Introduction 

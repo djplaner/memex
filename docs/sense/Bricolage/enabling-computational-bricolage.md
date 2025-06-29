@@ -1,7 +1,7 @@
 ﻿---
 backlinks:
 - title: Bricolage
-  url: /memex/sense/Bricolage/bricolage.html
+  url: /sense/Bricolage/bricolage.html
 tags:
 - bricolage
 - affordances

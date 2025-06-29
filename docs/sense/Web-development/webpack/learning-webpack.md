@@ -1,7 +1,7 @@
 ﻿---
 backlinks:
 - title: Web development
-  url: /memex/sense/Web-development/web-development.html
+  url: /sense/Web-development/web-development.html
 title: Learning Webpack
 ---
 Finally grok Webpack.  ~/code/2021/webpack

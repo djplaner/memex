@@ -1,9 +1,9 @@
 ﻿---
 backlinks:
 - title: Learning Journal
-  url: /memex/sense/Teaching/learning-journal.html
+  url: /sense/Teaching/learning-journal.html
 - title: 'Teaching '
-  url: /memex/sense/Teaching/teaching.html
+  url: /sense/Teaching/teaching.html
 title: Cognitive Strategies
 ---
 ## Three groups

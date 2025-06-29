@@ -1,9 +1,9 @@
 ﻿---
 backlinks:
 - title: Seek
-  url: /memex/seek/seek.html
+  url: /seek/seek.html
 - title: Seek triage list
-  url: /memex/seek/seek-triage.html
+  url: /seek/seek-triage.html
 tags:
 - seek
 title: Distributed indie web development

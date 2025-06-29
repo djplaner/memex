@@ -1,7 +1,7 @@
 ﻿---
 backlinks:
 - title: 'Maths in Schools Online: Year 7 - 10 course'
-  url: /memex/sense/Teaching/Mathematics/maths-in-schools.html
+  url: /sense/Teaching/Mathematics/maths-in-schools.html
 tags: cser, cser-maths-in-schools, cser-getting-started, teaching-mathematics
 title: CSER Maths in Schools - Content in Action
 type: note

@@ -1,23 +1,23 @@
 ﻿---
 backlinks:
 - title: Wood duck meadows
-  url: /memex/sense/landscape-garden/wood-duck-meadows.html
+  url: /sense/landscape-garden/wood-duck-meadows.html
 - title: Cherry Tree walk
-  url: /memex/sense/landscape-garden/cherry-tree-walk.html
+  url: /sense/landscape-garden/cherry-tree-walk.html
 - title: Heliotropium amplexicaule (Clasping heliotrope)
-  url: /memex/sense/landscape-garden/plants/heliotropium-amplexicaule.html
+  url: /sense/landscape-garden/plants/heliotropium-amplexicaule.html
 - title: Senna pendula (Easter Cassia)
-  url: /memex/sense/landscape-garden/plants/senna-pendula.html
+  url: /sense/landscape-garden/plants/senna-pendula.html
 - title: Azola
-  url: /memex/sense/landscape-garden/plants/azolla.html
+  url: /sense/landscape-garden/plants/azolla.html
 - title: Schotia brachypetala (Drunken Parrot Tree)
-  url: /memex/sense/landscape-garden/plants/schotia-brachypetala.html
+  url: /sense/landscape-garden/plants/schotia-brachypetala.html
 - title: Passiflora subpeltata (White passionflower)
-  url: /memex/sense/landscape-garden/plants/passiflora-subpeltata.html
+  url: /sense/landscape-garden/plants/passiflora-subpeltata.html
 - title: Senegal knotweed (Persicaria senegalensis)
-  url: /memex/sense/landscape-garden/plants/persicaria-senegalensis.html
+  url: /sense/landscape-garden/plants/persicaria-senegalensis.html
 - title: Sandpaper fig - The island
-  url: /memex/sense/landscape-garden/individual-plants/island-sandpaper-fig.html
+  url: /sense/landscape-garden/individual-plants/island-sandpaper-fig.html
 tags: wood-duck-meadows
 title: The Dam
 type: zone

@@ -1,7 +1,7 @@
 ﻿---
 backlinks:
 - title: Work categories
-  url: /memex/sense/work/work-categories.html
+  url: /sense/work/work-categories.html
 title: Narrated Powerpoint transcripts
 ---
 ## Problem

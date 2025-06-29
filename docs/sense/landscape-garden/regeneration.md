@@ -1,11 +1,11 @@
 ﻿---
 backlinks:
 - title: Welcome
-  url: /memex/index.html
+  url: /index.html
 - title: Wood duck meadows
-  url: /memex/sense/landscape-garden/wood-duck-meadows.html
+  url: /sense/landscape-garden/wood-duck-meadows.html
 - title: Improving soil
-  url: /memex/sense/landscape-garden/strategies/improving-soil.html
+  url: /sense/landscape-garden/strategies/improving-soil.html
 tags:
 - regeneration
 - sense

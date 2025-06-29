@@ -1,9 +1,9 @@
 ﻿---
 backlinks:
 - title: Teaching Digital Technologies
-  url: /memex/sense/Teaching/Digital_Technologies/teaching-digital-technologies.html
+  url: /sense/Teaching/Digital_Technologies/teaching-digital-technologies.html
 - title: My approach to teaching digital technologies
-  url: /memex/sense/Teaching/Mathematics/my-approach-to-teaching-digital-technologies.html
+  url: /sense/Teaching/Mathematics/my-approach-to-teaching-digital-technologies.html
 tags: teaching, teaching-digital-technologies
 title: Unpicking the Digital Technologies Hub
 type: note

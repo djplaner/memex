@@ -1,14 +1,14 @@
 ﻿---
 backlinks:
 - title: Sense
-  url: /memex/sense/sense.html
+  url: /sense/sense.html
 - title: Four levels of computer skills (and how little most people know)
-  url: /memex/sense/digital-literacy/four-levels-of-computer-skills-(and-how-little-most-people-know).html
+  url: /sense/digital-literacy/four-levels-of-computer-skills-(and-how-little-most-people-know).html
 - title: Creating a global measure of digital and ICT literacy
-  url: /memex/sense/digital-literacy/creating-a-global-measure-of-digital-and-ict-literacy.html
+  url: /sense/digital-literacy/creating-a-global-measure-of-digital-and-ict-literacy.html
 - title: 'Exploring digital literacy: moving from buzzwords towards a social construction
     of competency'
-  url: /memex/sense/digital-literacy/exploring-digital-literacy-moving-from-buzzwords-toward-a-social-construction-of-competency.html
+  url: /sense/digital-literacy/exploring-digital-literacy-moving-from-buzzwords-toward-a-social-construction-of-competency.html
 title: Digital Literacy
 ---
 ## Path

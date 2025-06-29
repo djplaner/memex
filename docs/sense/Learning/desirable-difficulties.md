@@ -1,9 +1,9 @@
 ﻿---
 backlinks:
 - title: Learning
-  url: /memex/sense/Learning/learning.html
+  url: /sense/Learning/learning.html
 - title: Instructions
-  url: /memex/sense/computing/instructions.html
+  url: /sense/computing/instructions.html
 tags: learning, learning-science, teaching
 title: Desirable difficulties
 type: note

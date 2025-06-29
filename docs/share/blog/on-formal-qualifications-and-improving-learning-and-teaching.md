@@ -1,7 +1,7 @@
 ﻿---
 backlinks:
 - title: Blog posts
-  url: /memex/share/blog/blog-posts.html
+  url: /share/blog/blog-posts.html
 title: On formal qualifications and improving learning and teaching
 ---
 ```toml

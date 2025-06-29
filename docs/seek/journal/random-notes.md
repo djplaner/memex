@@ -1,7 +1,7 @@
 ﻿---
 backlinks:
 - title: Today's note
-  url: /memex/seek/journal/todays-note.html
+  url: /seek/journal/todays-note.html
 tags:
 - seek
 title: Random Notes

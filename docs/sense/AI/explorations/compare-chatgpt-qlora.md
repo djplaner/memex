@@ -1,7 +1,7 @@
 ﻿---
 backlinks:
 - title: AI
-  url: /memex/sense/AI/AI.html
+  url: /sense/AI/AI.html
 title: Explorations in comparing ChatGPT & QLoRA
 ---
 [QLorA](https://arxiv.org/abs/2305.14314) (on [Hugging Face](https://huggingface.co/spaces/uwnlp/guanaco-playground-tgi)) new open source LLM with new approaches to reduce size etc.  Compare with ChatGPT 

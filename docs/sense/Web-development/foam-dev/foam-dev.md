@@ -1,15 +1,15 @@
 ﻿---
 backlinks:
 - title: Seek
-  url: /memex/seek/seek.html
+  url: /seek/seek.html
 - title: Note taking strategies
-  url: /memex/colophon/note-taking-strategies.html
+  url: /colophon/note-taking-strategies.html
 - title: FLOSS and FOSS
-  url: /memex/sense/computing/floss.html
+  url: /sense/computing/floss.html
 - title: Web development
-  url: /memex/sense/Web-development/web-development.html
+  url: /sense/Web-development/web-development.html
 - title: 'SvelteKit and Github pages '
-  url: /memex/sense/Web-development/foam-dev/sveltekit-github-pages.html
+  url: /sense/Web-development/foam-dev/sveltekit-github-pages.html
 tags:
 - foam
 - web-development

@@ -1,7 +1,7 @@
 ﻿---
 backlinks:
 - title: Colophon
-  url: /memex/colophon/colophon.html
+  url: /colophon/colophon.html
 tags: colophon, statistics, analytics
 title: Statistics and Analytics
 type: note

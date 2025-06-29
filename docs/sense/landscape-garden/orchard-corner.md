@@ -1,15 +1,15 @@
 ﻿---
 backlinks:
 - title: Pecan corner
-  url: /memex/sense/landscape-garden/pecan-corner.html
+  url: /sense/landscape-garden/pecan-corner.html
 - title: Wood duck meadows
-  url: /memex/sense/landscape-garden/wood-duck-meadows.html
+  url: /sense/landscape-garden/wood-duck-meadows.html
 - title: Melia azedarach (white cedar)
-  url: /memex/sense/landscape-garden/melia-azedarach.html
+  url: /sense/landscape-garden/melia-azedarach.html
 - title: Asparagus africanus (Climbing asparagus fern)
-  url: /memex/sense/landscape-garden/plants/asparagus-africanus.html
+  url: /sense/landscape-garden/plants/asparagus-africanus.html
 - title: Corymbia Torelliana (Cadaghi)"
-  url: /memex/sense/landscape-garden/plants/corymbia-torelliana.html
+  url: /sense/landscape-garden/plants/corymbia-torelliana.html
 tags:
 - gardens
 - sense

@@ -1,7 +1,7 @@
 ﻿---
 backlinks:
 - title: Loose notes
-  url: /memex/sense/loose/loose.html
+  url: /sense/loose/loose.html
 title: Queensland Universities - balance of academic/non-academic employees
 ---
 > The Queensland Auditor General [reports](https://www.qao.qld.gov.au/sites/all/libraries/pdf.js/web/viewer.html?file=https%3A%2F%2Fwww.qao.qld.gov.au%2Fsites%2Fqao%2Ffiles%2Freports%2Funiversities_and_grammar_schools-2016_results_of_financial_audits_report_18-2016-17.pdf&utm_medium=email&utm_source=sendpress&utm_campaign) the state’s seven universities were financially sustainable in 2016, all able to comfortably cover short-term liabilities.

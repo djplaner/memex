@@ -1,9 +1,9 @@
 ﻿---
 backlinks:
 - title: Bricolage
-  url: /memex/sense/Bricolage/bricolage.html
+  url: /sense/Bricolage/bricolage.html
 - title: My Teaching Philosophy
-  url: /memex/sense/Teaching/my-teaching-philosophy.html
+  url: /sense/Teaching/my-teaching-philosophy.html
 title: Bricolagogy
 ---
 Dron and Anderson (2022) provide an overview of "pedagogical paradigms". Documenting a shift beyond the traditional paradigms - objectivist (behaviourist/cognitivist), subjectivists (social constructivist), and complexivist (connectivist) - to include three-free and theory agnostic paradigms.  The theory agnostic paradigm is defined as _bricolagogy_.

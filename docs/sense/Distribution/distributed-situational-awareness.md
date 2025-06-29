@@ -1,9 +1,9 @@
 ﻿---
 backlinks:
 - title: Situational Awareness
-  url: /memex/sense/Distribution/situational-awareness.html
+  url: /sense/Distribution/situational-awareness.html
 - title: Computing project ideas
-  url: /memex/sense/computing/computing-project-ideas.html
+  url: /sense/computing/computing-project-ideas.html
 title: Distributed Situational Awareness
 ---
 ## Salmon et al (2022)

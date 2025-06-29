@@ -1,7 +1,7 @@
 ﻿---
 backlinks:
 - title: Canvas models
-  url: /memex/sense/Design/canvas/canvas-models.html
+  url: /sense/Design/canvas/canvas-models.html
 title: Authoring tools
 ---
 Collections of various content authoring tools

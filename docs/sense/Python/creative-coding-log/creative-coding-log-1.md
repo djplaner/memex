@@ -1,7 +1,7 @@
 ﻿---
 backlinks:
 - title: Creative coding log 2
-  url: /memex/sense/Python/creative-coding-log/creative-coding-log-2.html
+  url: /sense/Python/creative-coding-log/creative-coding-log-2.html
 tags: creativeCoding, python
 title: Creative coding log 1
 type: note

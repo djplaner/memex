@@ -1,7 +1,7 @@
 ﻿---
 backlinks:
 - title: Learning
-  url: /memex/sense/Learning/learning.html
+  url: /sense/Learning/learning.html
 title: Overcoming one size fits all learning
 ---
 [Blog post](http://info.alleninteractions.com/overcoming-one-size-fits-all-learning) touching on the problem of one-size-fits-all, de-contextualised learning approaches and offering a method for addressing the [[two-sigma-problem]] that relies on the learner.  

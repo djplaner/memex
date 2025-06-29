@@ -1,17 +1,17 @@
 ﻿---
 backlinks:
 - title: Python
-  url: /memex/sense/Python/python.html
+  url: /sense/Python/python.html
 - title: datasette
-  url: /memex/sense/Python/datasette.html
+  url: /sense/Python/datasette.html
 - title: streamlit
-  url: /memex/sense/Python/streamlit.html
+  url: /sense/Python/streamlit.html
 - title: CASA Gallery
-  url: /memex/sense/CASA/casa-gallery.html
+  url: /sense/CASA/casa-gallery.html
 - title: ALIVE
-  url: /memex/sense/Teaching/Mathematics/alive.html
+  url: /sense/Teaching/Mathematics/alive.html
 - title: Mathematics Conceptual Knowledge for Teaching (MCKT)
-  url: /memex/sense/Teaching/Mathematics/mathematics-conceptual-knowledge-for-teaching.html
+  url: /sense/Teaching/Mathematics/mathematics-conceptual-knowledge-for-teaching.html
 title: Exploring australian curriculum
 ---
 ## Development log

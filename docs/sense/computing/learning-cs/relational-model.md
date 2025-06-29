@@ -1,9 +1,9 @@
 ﻿---
 backlinks:
 - title: Functional dependencies
-  url: /memex/sense/computing/learning-cs/functional-dependencies.html
+  url: /sense/computing/learning-cs/functional-dependencies.html
 - title: ER modelling and SQL
-  url: /memex/sense/computing/learning-cs/er-modelling.html
+  url: /sense/computing/learning-cs/er-modelling.html
 tags:
 - relational-model
 - database-design

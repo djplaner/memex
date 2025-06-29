@@ -1,34 +1,34 @@
 ﻿---
 backlinks:
 - title: Leveraging digital technologies
-  url: /memex/seek/leveraging-digital-technologies.html
+  url: /seek/leveraging-digital-technologies.html
 - title: Sense
-  url: /memex/sense/sense.html
+  url: /sense/sense.html
 - title: Relational
-  url: /memex/sense/relational/relational.html
+  url: /sense/relational/relational.html
 - title: OER as a participatory activity
-  url: /memex/sense/herding-cats/oer-as-a-participatory-activity.html
+  url: /sense/herding-cats/oer-as-a-participatory-activity.html
 - title: Nature of Digital Technology (nodt)
-  url: /memex/sense/nodt/nodt.html
+  url: /sense/nodt/nodt.html
 - title: NGDLE - Next Generation Digital Learning Environment
-  url: /memex/sense/Distribution/ngdle---next-generation-digital-learning-environment.html
+  url: /sense/Distribution/ngdle---next-generation-digital-learning-environment.html
 - title: Subsidiarity
-  url: /memex/sense/Distribution/subsidiarity.html
+  url: /sense/Distribution/subsidiarity.html
 - title: Commons-based peer production
-  url: /memex/sense/Distribution/commons-based-peer-production.html
+  url: /sense/Distribution/commons-based-peer-production.html
 - title: Assemblage (Jones, 2015)
-  url: /memex/sense/Distribution/assemblage-jones-2015.html
+  url: /sense/Distribution/assemblage-jones-2015.html
 - title: Blackboard tweaks
-  url: /memex/sense/Distribution/blackboard-tweaks.html
+  url: /sense/Distribution/blackboard-tweaks.html
 - title: Situated cognition
-  url: /memex/sense/Distribution/situated-cognition.html
+  url: /sense/Distribution/situated-cognition.html
 - title: Notes from ["Learning Design SIG webinar on entangled pedagogy and learning
     design"](https://ascilite.org/events/learning-design-sig-webinar-on-entangled-pedagogy-and-learning-design/)
-  url: /memex/sense/Distribution/entangle-pedagogy-and-learning-design.html
+  url: /sense/Distribution/entangle-pedagogy-and-learning-design.html
 - title: Bricolage
-  url: /memex/sense/Bricolage/bricolage.html
+  url: /sense/Bricolage/bricolage.html
 - title: Floss, A Partial Antidote To Social Catastrophe
-  url: /memex/sense/computing/floss-antidote-to-social-catastrophe.html
+  url: /sense/computing/floss-antidote-to-social-catastrophe.html
 title: Distribution
 ---
 - [[evaluating-orchestration]]

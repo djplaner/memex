@@ -1,27 +1,27 @@
 ﻿---
 backlinks:
 - title: My Teaching Philosophy
-  url: /memex/sense/Teaching/my-teaching-philosophy.html
+  url: /sense/Teaching/my-teaching-philosophy.html
 - title: My approach to teaching mathematics
-  url: /memex/sense/Teaching/Mathematics/my-approach-to-teaching-mathematics.html
+  url: /sense/Teaching/Mathematics/my-approach-to-teaching-mathematics.html
 - title: mathematical-resilience-classroom-environment
-  url: /memex/sense/Teaching/Mathematics/mathematical-resilience-classroom-environment.html
+  url: /sense/Teaching/Mathematics/mathematical-resilience-classroom-environment.html
 - title: Practice approach to mathematics
-  url: /memex/sense/Teaching/Mathematics/practice-approach-to-mathematics.html
+  url: /sense/Teaching/Mathematics/practice-approach-to-mathematics.html
 - title: Number sense
-  url: /memex/sense/Teaching/Mathematics/number-sense.html
+  url: /sense/Teaching/Mathematics/number-sense.html
 - title: Teaching Mathematics
-  url: /memex/sense/Teaching/Mathematics/teaching-mathematics.html
+  url: /sense/Teaching/Mathematics/teaching-mathematics.html
 - title: Reflective mathematical homework
-  url: /memex/sense/Teaching/Mathematics/reflective-mathematical-homework.html
+  url: /sense/Teaching/Mathematics/reflective-mathematical-homework.html
 - title: Conceptual approach to mathematics
-  url: /memex/sense/Teaching/Mathematics/conceptual-approach-to-mathematics.html
+  url: /sense/Teaching/Mathematics/conceptual-approach-to-mathematics.html
 - title: 'Two types of teaching mathematics: instrumental and relational'
-  url: /memex/sense/Teaching/Mathematics/instrumental-relational-mathematics.html
+  url: /sense/Teaching/Mathematics/instrumental-relational-mathematics.html
 - title: Design for a mathematical mindset
-  url: /memex/sense/Teaching/Mathematics/design-for-mathematical-mindset.html
+  url: /sense/Teaching/Mathematics/design-for-mathematical-mindset.html
 - title: Real work versus Real world
-  url: /memex/sense/Teaching/Mathematics/real-work-versus-real-world.html
+  url: /sense/Teaching/Mathematics/real-work-versus-real-world.html
 title: Mathematical Mindset
 ---
 Related: [[mathematical-mindsets]] - vague notes from reading Boaler (2015)

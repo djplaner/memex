@@ -1,9 +1,9 @@
 ﻿---
 backlinks:
 - title: Seek
-  url: /memex/seek/seek.html
+  url: /seek/seek.html
 - title: Leveraging digital technologies
-  url: /memex/seek/leveraging-digital-technologies.html
+  url: /seek/leveraging-digital-technologies.html
 tags:
 - seek
 - teaching

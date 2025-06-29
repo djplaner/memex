@@ -1,7 +1,7 @@
 ﻿---
 backlinks:
 - title: Computational thinking
-  url: /memex/sense/computing/computational-thinking.html
+  url: /sense/computing/computational-thinking.html
 tags: teaching-digital-technologies, digital-technologies, programming, scratch, computational-thinking
 title: Computational thinking with Scratch
 type: note

@@ -1,9 +1,9 @@
 ﻿---
 backlinks:
 - title: Challenge of Teachers' Design Practice
-  url: /memex/sense/Design/challenge-of-teachers-design-practice.html
+  url: /sense/Design/challenge-of-teachers-design-practice.html
 - title: Design
-  url: /memex/sense/Design/design.html
+  url: /sense/Design/design.html
 title: Sharing the ABC Approach
 ---
 Hasenknopf, B., Michou, V., Milani, M., Perovic, N., & Young, C. (n.d.). [Sharing the ABC approach to learning design across three European Universities](https://eua.eu/downloads/content/2019.39_hasenknopf_michou_milani_perovic_young.pdf). *European University Association (EUA), 2019 European Learning & Teaching Forum*.

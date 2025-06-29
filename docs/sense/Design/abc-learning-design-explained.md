@@ -1,11 +1,11 @@
 ﻿---
 backlinks:
 - title: Design
-  url: /memex/sense/Design/design.html
+  url: /sense/Design/design.html
 - title: Evolution of design for learning
-  url: /memex/sense/Design/evolution-of-design-for-learning.html
+  url: /sense/Design/evolution-of-design-for-learning.html
 - title: Patterns, pattern languages and design practice
-  url: /memex/sense/Paper-Summaries/goodyear-patterns-design-practice.html
+  url: /sense/Paper-Summaries/goodyear-patterns-design-practice.html
 title: ABC learning design explained
 ---
 [ABC Learning Design](https://abc-ld.org/) is

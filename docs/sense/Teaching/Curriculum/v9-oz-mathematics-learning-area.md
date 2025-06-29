@@ -1,11 +1,11 @@
 ﻿---
 backlinks:
 - title: Australian Curriculum
-  url: /memex/sense/Teaching/Curriculum/australian-curriculum.html
+  url: /sense/Teaching/Curriculum/australian-curriculum.html
 - title: Teaching Mathematics
-  url: /memex/sense/Teaching/Mathematics/teaching-mathematics.html
+  url: /sense/Teaching/Mathematics/teaching-mathematics.html
 - title: Mathematical problem solving
-  url: /memex/sense/Teaching/Mathematics/mathematical-problem-solving.html
+  url: /sense/Teaching/Mathematics/mathematical-problem-solving.html
 title: Mathematics learning area - Australian Curriculum v9
 ---
 ## Strands

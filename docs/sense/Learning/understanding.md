@@ -1,9 +1,9 @@
 ﻿---
 backlinks:
 - title: Learning
-  url: /memex/sense/Learning/learning.html
+  url: /sense/Learning/learning.html
 - title: 'Two types of teaching mathematics: instrumental and relational'
-  url: /memex/sense/Teaching/Mathematics/instrumental-relational-mathematics.html
+  url: /sense/Teaching/Mathematics/instrumental-relational-mathematics.html
 title: Understanding
 ---
 Skemp (2006) identifies two types of understanding and links them to [[teaching]] practices

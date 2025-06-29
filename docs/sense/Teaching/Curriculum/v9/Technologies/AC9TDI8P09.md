@@ -1,9 +1,9 @@
 ﻿---
 backlinks:
 - title: Creative coding experiments
-  url: /memex/sense/Python/creative-coding-with-python.html
+  url: /sense/Python/creative-coding-with-python.html
 - title: Learning Areas
-  url: /memex/sense/Teaching/Curriculum/v9/v9-learning-areas.html
+  url: /sense/Teaching/Curriculum/v9/v9-learning-areas.html
 tags: australian-curriculum
 title: AC9TDI8P09
 type: note

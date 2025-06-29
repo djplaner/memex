@@ -1,13 +1,13 @@
 ﻿---
 backlinks:
 - title: Exploring australian curriculum
-  url: /memex/sense/Python/exploring-australian-curriculum.html
+  url: /sense/Python/exploring-australian-curriculum.html
 - title: Australian Curriculum
-  url: /memex/sense/Teaching/Curriculum/australian-curriculum.html
+  url: /sense/Teaching/Curriculum/australian-curriculum.html
 - title: CSER Statistics - Content in Action
-  url: /memex/sense/Teaching/Mathematics/cser-mooc/cser-cia-statistics.html
+  url: /sense/Teaching/Mathematics/cser-mooc/cser-cia-statistics.html
 - title: CSER MiS - Getting started module
-  url: /memex/sense/Teaching/Mathematics/cser-mooc/cser-getting-started.html
+  url: /sense/Teaching/Mathematics/cser-mooc/cser-getting-started.html
 tags:
 - teaching
 - australian-curriculum

@@ -1,9 +1,9 @@
 ﻿---
 backlinks:
 - title: Sense
-  url: /memex/sense/sense.html
+  url: /sense/sense.html
 - title: Early LLMm value thoughts
-  url: /memex/sense/AI/early-llm-value-thoughts.html
+  url: /sense/AI/early-llm-value-thoughts.html
 title: AI
 ---
 [[early-llm-value-thoughts]]

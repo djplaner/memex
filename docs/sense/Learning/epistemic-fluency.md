@@ -1,15 +1,15 @@
 ﻿---
 backlinks:
 - title: Shaping Spaces - Peter Goodyear ALTC 2017 Keynote
-  url: /memex/sense/Design/goodyear-shaping-spaces.html
+  url: /sense/Design/goodyear-shaping-spaces.html
 - title: Exploring australian curriculum
-  url: /memex/sense/Python/exploring-australian-curriculum.html
+  url: /sense/Python/exploring-australian-curriculum.html
 - title: Literature and quotes mentioning gather/weave concepts
-  url: /memex/sense/CASA/gather-weave-literature.html
+  url: /sense/CASA/gather-weave-literature.html
 - title: All models are wrong
-  url: /memex/sense/Teaching/all-models-are-wrong.html
+  url: /sense/Teaching/all-models-are-wrong.html
 - title: Changing interactions to improve L&T
-  url: /memex/sense/Paper-Ideas/changing-interactions-to-improve.html
+  url: /sense/Paper-Ideas/changing-interactions-to-improve.html
 title: Epistemic Fluency
 ---
 > Working on real-world problems usually requires the combination of different kinds of specialised and context-dependent knowledge, as well as different ways of knowing. People who are flexible and adept with respect to different ways of knowing about the world can be said to possess _epistemic fluency_. (Markauskaite & Goodyear, 2017, p. 1) 

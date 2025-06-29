@@ -1,7 +1,7 @@
 ﻿---
 backlinks:
 - title: Technologies for teaching mathematics
-  url: /memex/sense/Teaching/Mathematics/technologies-for-teaching-mathematics.html
+  url: /sense/Teaching/Mathematics/technologies-for-teaching-mathematics.html
 tags: teaching, mathematics, number-talks
 title: Number talk examples
 type: index

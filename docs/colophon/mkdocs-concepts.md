@@ -1,7 +1,7 @@
 ﻿---
 backlinks:
 - title: Support documentation
-  url: /memex/colophon/support-documentation.html
+  url: /colophon/support-documentation.html
 tags:
 - colophon
 title: mkdocs concepts

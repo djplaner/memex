@@ -1,11 +1,11 @@
 ﻿---
 backlinks:
 - title: Bush regeneration (Wood duck meadows)
-  url: /memex/sense/landscape-garden/regeneration.html
+  url: /sense/landscape-garden/regeneration.html
 - title: Improving soil
-  url: /memex/sense/landscape-garden/strategies/improving-soil.html
+  url: /sense/landscape-garden/strategies/improving-soil.html
 - title: Regeneration techniques
-  url: /memex/sense/landscape-garden/techniques/regeneration-techniques.html
+  url: /sense/landscape-garden/techniques/regeneration-techniques.html
 tags:
 - regeneration
 - techniques

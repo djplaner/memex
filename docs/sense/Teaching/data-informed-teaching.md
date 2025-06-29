@@ -1,11 +1,11 @@
 ﻿---
 backlinks:
 - title: PIRAC
-  url: /memex/sense/Teaching/pirac.html
+  url: /sense/Teaching/pirac.html
 - title: 'Teaching '
-  url: /memex/sense/Teaching/teaching.html
+  url: /sense/Teaching/teaching.html
 - title: My approach to teaching mathematics
-  url: /memex/sense/Teaching/Mathematics/my-approach-to-teaching-mathematics.html
+  url: /sense/Teaching/Mathematics/my-approach-to-teaching-mathematics.html
 tags: teaching
 title: Data informed teaching
 type: note

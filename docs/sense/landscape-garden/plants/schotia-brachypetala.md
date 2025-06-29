@@ -1,9 +1,9 @@
 ﻿---
 backlinks:
 - title: The Dam
-  url: /memex/sense/landscape-garden/the-dam.html
+  url: /sense/landscape-garden/the-dam.html
 - title: Plants
-  url: /memex/sense/landscape-garden/plants/plants.html
+  url: /sense/landscape-garden/plants/plants.html
 tags:
 - wood-duck-meadows
 - plant

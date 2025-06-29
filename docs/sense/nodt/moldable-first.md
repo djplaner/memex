@@ -1,7 +1,7 @@
 ﻿---
 backlinks:
 - title: Nature of Digital Technology (nodt)
-  url: /memex/sense/nodt/nodt.html
+  url: /sense/nodt/nodt.html
 title: Moldable first
 ---
 [Glamourous](https://gtoolkit.com/#design) is a toolkit built with Pharo language. Glamourous explicitly lists it's [design principles](https://gtoolkit.com/#design) with the first being **Moldable first** and described as

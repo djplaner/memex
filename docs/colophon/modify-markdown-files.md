@@ -1,11 +1,11 @@
 ﻿---
 backlinks:
 - title: Export Wordpress to Markdown
-  url: /memex/colophon/export-wordpress-to-markdown.html
+  url: /colophon/export-wordpress-to-markdown.html
 - title: Convert Wordpress into Memex
-  url: /memex/colophon/convert-wordpress-into-memex.html
+  url: /colophon/convert-wordpress-into-memex.html
 - title: A new day
-  url: /memex/share/blog/2025/a-new-day.html
+  url: /share/blog/2025/a-new-day.html
 tags:
 - colophon
 title: Modify Markdown files

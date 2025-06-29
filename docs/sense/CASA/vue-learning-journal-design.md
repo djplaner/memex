@@ -1,7 +1,7 @@
 ﻿---
 backlinks:
 - title: Canvas Learning Journal - Vue implementation
-  url: /memex/sense/CASA/vue-canvas-learning-journal.html
+  url: /sense/CASA/vue-canvas-learning-journal.html
 tags: web-development, javascript, vue, casa
 title: Vue learning journal design
 type: note

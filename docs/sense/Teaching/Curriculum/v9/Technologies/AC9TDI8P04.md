@@ -1,9 +1,9 @@
 ﻿---
 backlinks:
 - title: My approach to teaching digital technologies
-  url: /memex/sense/Teaching/Mathematics/my-approach-to-teaching-digital-technologies.html
+  url: /sense/Teaching/Mathematics/my-approach-to-teaching-digital-technologies.html
 - title: Learning Areas
-  url: /memex/sense/Teaching/Curriculum/v9/v9-learning-areas.html
+  url: /sense/Teaching/Curriculum/v9/v9-learning-areas.html
 tags: australian-curriculum
 title: AC9TDI8P04
 type: note

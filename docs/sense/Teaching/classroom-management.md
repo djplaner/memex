@@ -1,7 +1,7 @@
 ﻿---
 backlinks:
 - title: 'Teaching '
-  url: /memex/sense/Teaching/teaching.html
+  url: /sense/Teaching/teaching.html
 tags: teaching, classroom-management
 title: Classroom management
 type: note

@@ -1,7 +1,7 @@
 ﻿---
 backlinks:
 - title: Teaching Mathematics
-  url: /memex/sense/Teaching/Mathematics/teaching-mathematics.html
+  url: /sense/Teaching/Mathematics/teaching-mathematics.html
 title: Poverty Premium
 ---
 Anglicare report - [The Poverty Premium](https://www.anglicare.asn.au/publications/the-poverty-premium/) - makes a similar point as [[boots-theory]]. Other examples: [South Australian Council of Social Services (2017)](https://www.sacoss.org.au/sites/default/files/public/documents/Reports/APW%20Statements/A-P%20Week%20Statement%202017%20-%20FINAL.pdf)

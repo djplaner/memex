@@ -1,23 +1,23 @@
 ﻿---
 backlinks:
 - title: Fig tree berm
-  url: /memex/sense/landscape-garden/fig-tree-berm.html
+  url: /sense/landscape-garden/fig-tree-berm.html
 - title: The Dam
-  url: /memex/sense/landscape-garden/the-dam.html
+  url: /sense/landscape-garden/the-dam.html
 - title: The Island
-  url: /memex/sense/landscape-garden/the-island.html
+  url: /sense/landscape-garden/the-island.html
 - title: Wood duck meadows
-  url: /memex/sense/landscape-garden/wood-duck-meadows.html
+  url: /sense/landscape-garden/wood-duck-meadows.html
 - title: The Circle
-  url: /memex/sense/landscape-garden/the-circle.html
+  url: /sense/landscape-garden/the-circle.html
 - title: The Orchard (Orchard corner)
-  url: /memex/sense/landscape-garden/orchard-corner.html
+  url: /sense/landscape-garden/orchard-corner.html
 - title: Bunya Pine
-  url: /memex/sense/landscape-garden/plants/bunya-pine.html
+  url: /sense/landscape-garden/plants/bunya-pine.html
 - title: Plants
-  url: /memex/sense/landscape-garden/plants/plants.html
+  url: /sense/landscape-garden/plants/plants.html
 - title: The original island bunya pine
-  url: /memex/sense/landscape-garden/individual-plants/the-original-island-bunya-pine.html
+  url: /sense/landscape-garden/individual-plants/the-original-island-bunya-pine.html
 tags:
 - wood-duck-meadows
 - plant

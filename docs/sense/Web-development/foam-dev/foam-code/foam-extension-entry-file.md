@@ -1,7 +1,7 @@
 ﻿---
 backlinks:
 - title: Understanding the Foam Code Base
-  url: /memex/sense/Web-development/foam-dev/foam-code/understanding-foam-code-base.html
+  url: /sense/Web-development/foam-dev/foam-code/understanding-foam-code-base.html
 tags:
 - foam-dev
 - foam-code

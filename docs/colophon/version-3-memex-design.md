@@ -1,9 +1,9 @@
 ﻿---
 backlinks:
 - title: Colophon
-  url: /memex/colophon/colophon.html
+  url: /colophon/colophon.html
 - title: Converting Wordpress to Markdown
-  url: /memex/colophon/wordpress-to-markdown.html
+  url: /colophon/wordpress-to-markdown.html
 tags:
 - colophon
 title: Memex - Version 3

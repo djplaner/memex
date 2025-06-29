@@ -1,7 +1,7 @@
 ﻿---
 backlinks:
 - title: Bricolage
-  url: /memex/sense/Bricolage/bricolage.html
+  url: /sense/Bricolage/bricolage.html
 title: Strategic Planning
 ---
 Need to specify the strategic goals of the institution and the methods to be used.

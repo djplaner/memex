@@ -1,13 +1,13 @@
 ﻿---
 backlinks:
 - title: When will I ever use mathematics
-  url: /memex/sense/Teaching/Mathematics/when-will-i-ever-use-mathematics.html
+  url: /sense/Teaching/Mathematics/when-will-i-ever-use-mathematics.html
 - title: Teaching Mathematics
-  url: /memex/sense/Teaching/Mathematics/teaching-mathematics.html
+  url: /sense/Teaching/Mathematics/teaching-mathematics.html
 - title: Differentiation - Mathematics
-  url: /memex/sense/Teaching/Mathematics/differentiation-mathematics.html
+  url: /sense/Teaching/Mathematics/differentiation-mathematics.html
 - title: TIRED
-  url: /memex/sense/Teaching/Mathematics/tired.html
+  url: /sense/Teaching/Mathematics/tired.html
 title: Real work versus Real world
 ---
 Dan Meyer [makes the distinction between real work v real world](https://blog.mrmeyer.com/2014/developing-the-question-real-work-v-real-world/). The idea being that how much real world (e.g. adding mobile phones to a problem) is only one dimension. Another is the reality/interestingness of the work students do. Meyer suggests problem formulation and question development as being more "real" types of work.

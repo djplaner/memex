@@ -1,7 +1,7 @@
 ﻿---
 backlinks:
 - title: Canvas Learning Journal
-  url: /memex/sense/CASA/CASA/canvas-learning-journal.html
+  url: /sense/CASA/CASA/canvas-learning-journal.html
 tags:
 - canvas-learning-journal
 - casa

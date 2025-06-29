@@ -1,7 +1,7 @@
 ﻿---
 backlinks:
 - title: Gather and weave
-  url: /memex/sense/CASA/gather-weave.html
+  url: /sense/CASA/gather-weave.html
 title: Data Transfer Project (Initiative)
 ---
 The [Data Transfer Project](https://dtinit.org/documentation) has three components  (sadly Java)

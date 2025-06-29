@@ -1,7 +1,7 @@
 ﻿---
 backlinks:
 - title: Blog posts
-  url: /memex/share/blog/blog-posts.html
+  url: /share/blog/blog-posts.html
 title: 'Orchestrating entangled relations to break the iron triangle: examples from
   a LMS migration'
 ---

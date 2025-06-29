@@ -1,7 +1,7 @@
 ﻿---
 backlinks:
 - title: Travel
-  url: /memex/travel/travel.html
+  url: /travel/travel.html
 tags: travel, new-zealand
 title: New Zealand Trip - 2025
 type: note

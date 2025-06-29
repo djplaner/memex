@@ -1,9 +1,9 @@
 ﻿---
 backlinks:
 - title: The Orchard (Orchard corner)
-  url: /memex/sense/landscape-garden/orchard-corner.html
+  url: /sense/landscape-garden/orchard-corner.html
 - title: Plants
-  url: /memex/sense/landscape-garden/plants/plants.html
+  url: /sense/landscape-garden/plants/plants.html
 tags: garden, plant, wood-duck-meadows
 title: Melia azedarach (white cedar)
 type: plants

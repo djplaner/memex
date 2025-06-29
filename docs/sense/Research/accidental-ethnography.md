@@ -1,7 +1,7 @@
 ﻿---
 backlinks:
 - title: Research
-  url: /memex/sense/Research/research.html
+  url: /sense/Research/research.html
 tags:
 - research
 - ethnography

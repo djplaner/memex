@@ -1,9 +1,9 @@
 ﻿---
 backlinks:
 - title: Sense
-  url: /memex/sense/sense.html
+  url: /sense/sense.html
 - title: The relationships between BAD/SET, CASA, and Gather/Weave
-  url: /memex/sense/CASA/bad_set-casa-gather-weave.html
+  url: /sense/CASA/bad_set-casa-gather-weave.html
 tags: computing, digital-technology
 title: Computing
 type: note

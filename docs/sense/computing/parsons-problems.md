@@ -1,7 +1,7 @@
 ﻿---
 backlinks:
 - title: Computer Science Student-Centered Instructional (CSSC) Continuum
-  url: /memex/sense/Teaching/Digital_Technologies/cssc.html
+  url: /sense/Teaching/Digital_Technologies/cssc.html
 title: Parson's problems
 ---
 ## ChatGPT 

@@ -1,9 +1,9 @@
 ﻿---
 backlinks:
 - title: CSER Math Connections with Community
-  url: /memex/sense/Teaching/Mathematics/cser-connections-with-community.html
+  url: /sense/Teaching/Mathematics/cser-connections-with-community.html
 - title: Teaching Mathematics
-  url: /memex/sense/Teaching/Mathematics/teaching-mathematics.html
+  url: /sense/Teaching/Mathematics/teaching-mathematics.html
 tags: teaching-mathematics, mathematics
 title: PI Day (International day of mathematics)
 type: note

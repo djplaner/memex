@@ -1,9 +1,9 @@
 ﻿---
 backlinks:
 - title: Affordances of digital technology
-  url: /memex/sense/Affordances/affordances-of-digital-technology.html
+  url: /sense/Affordances/affordances-of-digital-technology.html
 - title: Computing
-  url: /memex/sense/computing/computing.html
+  url: /sense/computing/computing.html
 title: Data portability and interoperability
 ---
 Widely seen as key structural changes/requirements to ensure effective competition between digital services/platforms. 

@@ -1,28 +1,28 @@
 ﻿---
 backlinks:
 - title: Visualising and pruning my Memex
-  url: /memex/share/blog/visualising-and-pruning-my-memex.html
+  url: /share/blog/visualising-and-pruning-my-memex.html
 - title: Peak consistency in Digital Education
-  url: /memex/share/blog/peak-homogenisation-in-post-digital-education.html
+  url: /share/blog/peak-homogenisation-in-post-digital-education.html
 - title: Do the little things matter in design for learning?
-  url: /memex/share/blog/do-little-things-matter.html
+  url: /share/blog/do-little-things-matter.html
 - title: A new day
-  url: /memex/share/blog/2025/a-new-day.html
+  url: /share/blog/2025/a-new-day.html
 - title: Links between Iron Triangle and the Reusability Paradox
-  url: /memex/sense/Design/iron-triangle-reusability-paradox.html
+  url: /sense/Design/iron-triangle-reusability-paradox.html
 - title: OER as a participatory activity
-  url: /memex/sense/herding-cats/oer-as-a-participatory-activity.html
+  url: /sense/herding-cats/oer-as-a-participatory-activity.html
 - title: Trees for the forest
-  url: /memex/sense/Distribution/trees-for-the-forest.html
+  url: /sense/Distribution/trees-for-the-forest.html
 - title: Bricolage
-  url: /memex/sense/Bricolage/bricolage.html
+  url: /sense/Bricolage/bricolage.html
 - title: Evaluating orchestration
-  url: /memex/sense/Assemblage/evaluating-orchestration.html
+  url: /sense/Assemblage/evaluating-orchestration.html
 - title: 'Exploring conceptions of technology: Implications for learning, teaching,
     and meso-level practitioners'
-  url: /memex/sense/Paper-Ideas/exploring-conceptions-of-technology.html
+  url: /sense/Paper-Ideas/exploring-conceptions-of-technology.html
 - title: Exploring Oz Curriculum - Dev log 2
-  url: /memex/sense/Python/exploring-oz-curriculum/002-exploring-oz-dev-log.html
+  url: /sense/Python/exploring-oz-curriculum/002-exploring-oz-dev-log.html
 tags:
 - reusability
 - paradox

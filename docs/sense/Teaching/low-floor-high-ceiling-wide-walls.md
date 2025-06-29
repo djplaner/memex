@@ -1,27 +1,27 @@
 ﻿---
 backlinks:
 - title: Exploring australian curriculum
-  url: /memex/sense/Python/exploring-australian-curriculum.html
+  url: /sense/Python/exploring-australian-curriculum.html
 - title: Differentiation
-  url: /memex/sense/Teaching/differentiation.html
+  url: /sense/Teaching/differentiation.html
 - title: My Teaching Philosophy
-  url: /memex/sense/Teaching/my-teaching-philosophy.html
+  url: /sense/Teaching/my-teaching-philosophy.html
 - title: Checks for pedagogy
-  url: /memex/sense/Teaching/Mathematics/checks-for-pedagogy.html
+  url: /sense/Teaching/Mathematics/checks-for-pedagogy.html
 - title: My approach to teaching mathematics
-  url: /memex/sense/Teaching/Mathematics/my-approach-to-teaching-mathematics.html
+  url: /sense/Teaching/Mathematics/my-approach-to-teaching-mathematics.html
 - title: SMILE
-  url: /memex/sense/Teaching/Mathematics/smile.html
+  url: /sense/Teaching/Mathematics/smile.html
 - title: Mathematical mindsets
-  url: /memex/sense/Teaching/Mathematics/mathematical-mindsets.html
+  url: /sense/Teaching/Mathematics/mathematical-mindsets.html
 - title: Crackers
-  url: /memex/sense/Teaching/Mathematics/crackers.html
+  url: /sense/Teaching/Mathematics/crackers.html
 - title: ALIVE
-  url: /memex/sense/Teaching/Mathematics/alive.html
+  url: /sense/Teaching/Mathematics/alive.html
 - title: Mathematical thinking tasks
-  url: /memex/sense/Teaching/Mathematics/mathematical-thinking-tasks.html
+  url: /sense/Teaching/Mathematics/mathematical-thinking-tasks.html
 - title: 'MATH081C Unit 1, Lesson 1: 2024'
-  url: /memex/sense/Teaching/Implementation/2024/MAT081C/mat081c-2024-u1l1.html
+  url: /sense/Teaching/Implementation/2024/MAT081C/mat081c-2024-u1l1.html
 title: Low Floor, High Ceiling, Wide Walls
 ---
 Resnick and Silverman (2005) offer

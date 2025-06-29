@@ -1,7 +1,7 @@
 ﻿---
 backlinks:
 - title: Affordances of digital technology
-  url: /memex/sense/Affordances/affordances-of-digital-technology.html
+  url: /sense/Affordances/affordances-of-digital-technology.html
 title: '# Higher education use of cloud systems'
 ---
 ## Higher education use of cloud systems

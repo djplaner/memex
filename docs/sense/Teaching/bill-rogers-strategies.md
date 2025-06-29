@@ -1,7 +1,7 @@
 ﻿---
 backlinks:
 - title: Behaviour management
-  url: /memex/sense/Teaching/behaviour-management.html
+  url: /sense/Teaching/behaviour-management.html
 title: Bill Rogers' - on the spot strategies
 ---
 Rogers (2005), p. 95

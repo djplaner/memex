@@ -1,7 +1,7 @@
 ﻿---
 backlinks:
 - title: Developing Crackers
-  url: /memex/sense/Python/developing-crackers.html
+  url: /sense/Python/developing-crackers.html
 tags: crackers, teaching, python
 title: Crackers - dev log 1
 type: note

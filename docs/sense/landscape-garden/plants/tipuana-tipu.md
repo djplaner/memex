@@ -1,9 +1,9 @@
 ﻿---
 backlinks:
 - title: Front yard
-  url: /memex/sense/landscape-garden/front-yard.html
+  url: /sense/landscape-garden/front-yard.html
 - title: Plants
-  url: /memex/sense/landscape-garden/plants/plants.html
+  url: /sense/landscape-garden/plants/plants.html
 photos:
   1:
     date: 2025-04-05 11:40:27

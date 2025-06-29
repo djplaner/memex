@@ -1,9 +1,9 @@
 ﻿---
 backlinks:
 - title: New System Will Solve Everything Disease
-  url: /memex/sense/Bricolage/new-system-will-solve-everything-disease.html
+  url: /sense/Bricolage/new-system-will-solve-everything-disease.html
 - title: Bricolage
-  url: /memex/sense/Bricolage/bricolage.html
+  url: /sense/Bricolage/bricolage.html
 title: Engineering the Right
 ---
 Why are so many followers of radical strains of Islam engineers? A new work searches for (and finds) some answers. Roughly, the traits of engineers and extremists overlap.

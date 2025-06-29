@@ -1,7 +1,7 @@
 ﻿---
 backlinks:
 - title: Blog posts
-  url: /memex/share/blog/blog-posts.html
+  url: /share/blog/blog-posts.html
 title: Ignoring the entangled nature of education
 ---
 The practice of higher education - especially within contemporary Australian higher education - is inherently entangled. Entangled in the sense outlined by __what'is face and his stuff__ focused on the practice of individual learning and teaching. But much of what we talk about, practice, and seek to encourage doesn't recognise, let alone deal with this entanglement.

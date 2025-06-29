@@ -1,11 +1,11 @@
 ﻿---
 backlinks:
 - title: Wood duck meadows
-  url: /memex/sense/landscape-garden/wood-duck-meadows.html
+  url: /sense/landscape-garden/wood-duck-meadows.html
 - title: Plants
-  url: /memex/sense/landscape-garden/plants/plants.html
+  url: /sense/landscape-garden/plants/plants.html
 - title: Ficus obliqua (Small-leaved fig)
-  url: /memex/sense/landscape-garden/individual-plants/ficus-obliqua-berm.html
+  url: /sense/landscape-garden/individual-plants/ficus-obliqua-berm.html
 tags:
 - plant
 - tree

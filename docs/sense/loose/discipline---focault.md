@@ -1,7 +1,7 @@
 ﻿---
 backlinks:
 - title: Loose notes
-  url: /memex/sense/loose/loose.html
+  url: /sense/loose/loose.html
 title: Discipline - Focault
 ---
 > Discipline, according to Foucault’s historical and philosophical analyses, is a form of power that tells people how to act by coaxing them to adjust themselves to what is ‘normal’. It is power in the form of correct training [source](https://aeon.co/essays/why-foucaults-work-on-power-is-more-important-than-ever)

@@ -1,9 +1,9 @@
 ﻿---
 backlinks:
 - title: Teaching Mathematics
-  url: /memex/sense/Teaching/Mathematics/teaching-mathematics.html
+  url: /sense/Teaching/Mathematics/teaching-mathematics.html
 - title: CSER Number - Content In Action
-  url: /memex/sense/Teaching/Mathematics/cser-mooc/cser-cia-number.html
+  url: /sense/Teaching/Mathematics/cser-mooc/cser-cia-number.html
 tags: teaching-mathematics
 title: Newman's error analysis
 type: note

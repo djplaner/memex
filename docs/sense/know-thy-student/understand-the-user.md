@@ -1,7 +1,7 @@
 ﻿---
 backlinks:
 - title: Know thy student
-  url: /memex/sense/CASA/know-thy-student.html
+  url: /sense/CASA/know-thy-student.html
 title: Understand the user
 ---
 Alan Kay in comment 27 on [this post](https://computinged.wordpress.com/2019/01/21/standards-are-limiting-and-long-lasting-alan-kay-was-right/) writes

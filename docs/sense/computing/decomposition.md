@@ -1,9 +1,9 @@
 ﻿---
 backlinks:
 - title: Computing
-  url: /memex/sense/computing/computing.html
+  url: /sense/computing/computing.html
 - title: Computational thinking
-  url: /memex/sense/computing/computational-thinking.html
+  url: /sense/computing/computational-thinking.html
 title: 'Decomposition '
 ---
 ## Problems/challenges 

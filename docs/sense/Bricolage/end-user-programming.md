@@ -1,11 +1,11 @@
 ﻿---
 backlinks:
 - title: Note taking strategies
-  url: /memex/colophon/note-taking-strategies.html
+  url: /colophon/note-taking-strategies.html
 - title: Enabling computational bricolage
-  url: /memex/sense/Bricolage/enabling-computational-bricolage.html
+  url: /sense/Bricolage/enabling-computational-bricolage.html
 - title: Bricolage
-  url: /memex/sense/Bricolage/bricolage.html
+  url: /sense/Bricolage/bricolage.html
 tags:
 - end-user-programming
 - digital-technology

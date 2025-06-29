@@ -1,15 +1,15 @@
 ﻿---
 backlinks:
 - title: 'Teaching '
-  url: /memex/sense/Teaching/teaching.html
+  url: /sense/Teaching/teaching.html
 - title: Returning to the profession
-  url: /memex/sense/Teaching/RTT/returning-to-the-profession.html
+  url: /sense/Teaching/RTT/returning-to-the-profession.html
 - title: My approach to teaching mathematics
-  url: /memex/sense/Teaching/Mathematics/my-approach-to-teaching-mathematics.html
+  url: /sense/Teaching/Mathematics/my-approach-to-teaching-mathematics.html
 - title: My approach to teaching digital technologies
-  url: /memex/sense/Teaching/Mathematics/my-approach-to-teaching-digital-technologies.html
+  url: /sense/Teaching/Mathematics/my-approach-to-teaching-digital-technologies.html
 - title: Teaching implementation
-  url: /memex/sense/Teaching/Implementation/teaching-implementation.html
+  url: /sense/Teaching/Implementation/teaching-implementation.html
 title: My Teaching Philosophy
 ---
 Nascent attempt to articulate my teaching philosophy. Initially focused on listing ideas that resonate.

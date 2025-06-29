@@ -1,7 +1,7 @@
 ﻿---
 backlinks:
 - title: FLOSS and FOSS
-  url: /memex/sense/computing/floss.html
+  url: /sense/computing/floss.html
 tags:
 - floss
 - computing

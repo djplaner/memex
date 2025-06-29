@@ -1,9 +1,9 @@
 ﻿---
 backlinks:
 - title: Distribution
-  url: /memex/sense/Distribution/distribution.html
+  url: /sense/Distribution/distribution.html
 - title: Society
-  url: /memex/sense/Society/society.html
+  url: /sense/Society/society.html
 title: Standardisation and its discontents
 ---
 Summary and thoughts of

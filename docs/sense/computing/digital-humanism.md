@@ -1,15 +1,15 @@
 ﻿---
 backlinks:
 - title: The relationships between BAD/SET, CASA, and Gather/Weave
-  url: /memex/sense/CASA/bad_set-casa-gather-weave.html
+  url: /sense/CASA/bad_set-casa-gather-weave.html
 - title: Alternate conceptions of the web
-  url: /memex/sense/computing/alternate-conceptions-of-the-web.html
+  url: /sense/computing/alternate-conceptions-of-the-web.html
 - title: Computing
-  url: /memex/sense/computing/computing.html
+  url: /sense/computing/computing.html
 - title: Use of reveal.js for presentations
-  url: /memex/sense/Teaching/Mathematics/use-of-revealjs-for-presentations.html
+  url: /sense/Teaching/Mathematics/use-of-revealjs-for-presentations.html
 - title: My approach to teaching digital technologies
-  url: /memex/sense/Teaching/Mathematics/my-approach-to-teaching-digital-technologies.html
+  url: /sense/Teaching/Mathematics/my-approach-to-teaching-digital-technologies.html
 tags: computing, teaching, rww, digital-humanism
 title: Digital Humanism
 type: note

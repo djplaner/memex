@@ -1,15 +1,15 @@
 ﻿---
 backlinks:
 - title: Data informed teaching
-  url: /memex/sense/Teaching/data-informed-teaching.html
+  url: /sense/Teaching/data-informed-teaching.html
 - title: My approach to teaching mathematics
-  url: /memex/sense/Teaching/Mathematics/my-approach-to-teaching-mathematics.html
+  url: /sense/Teaching/Mathematics/my-approach-to-teaching-mathematics.html
 - title: Teaching Mathematics
-  url: /memex/sense/Teaching/Mathematics/teaching-mathematics.html
+  url: /sense/Teaching/Mathematics/teaching-mathematics.html
 - title: Visibly random groups
-  url: /memex/sense/Teaching/Mathematics/visibly-random-groups.html
+  url: /sense/Teaching/Mathematics/visibly-random-groups.html
 - title: CSER MiS - Getting started module
-  url: /memex/sense/Teaching/Mathematics/cser-mooc/cser-getting-started.html
+  url: /sense/Teaching/Mathematics/cser-mooc/cser-getting-started.html
 tags: teaching-mathematics, teaching
 title: Building a thinking classroom
 type: note

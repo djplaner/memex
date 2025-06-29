@@ -1,13 +1,13 @@
 ﻿---
 backlinks:
 - title: Predict Run Investigate Modify Make (PRIMM)
-  url: /memex/sense/Teaching/Digital_Technologies/primm.html
+  url: /sense/Teaching/Digital_Technologies/primm.html
 - title: Teaching Digital Technologies
-  url: /memex/sense/Teaching/Digital_Technologies/teaching-digital-technologies.html
+  url: /sense/Teaching/Digital_Technologies/teaching-digital-technologies.html
 - title: Digital Technologies Structures
-  url: /memex/sense/Teaching/Digital_Technologies/digital-technologies-structures.html
+  url: /sense/Teaching/Digital_Technologies/digital-technologies-structures.html
 - title: My approach to teaching digital technologies
-  url: /memex/sense/Teaching/Mathematics/my-approach-to-teaching-digital-technologies.html
+  url: /sense/Teaching/Mathematics/my-approach-to-teaching-digital-technologies.html
 tags: teaching-digital-technologies, computing, programming, teaching-programming
 title: The block model
 type: note

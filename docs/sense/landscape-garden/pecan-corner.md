@@ -1,13 +1,13 @@
 ﻿---
 backlinks:
 - title: Wood duck meadows
-  url: /memex/sense/landscape-garden/wood-duck-meadows.html
+  url: /sense/landscape-garden/wood-duck-meadows.html
 - title: The lower dam
-  url: /memex/sense/landscape-garden/lower-dam.html
+  url: /sense/landscape-garden/lower-dam.html
 - title: Plumcot (Spring Satin) - pecan corner
-  url: /memex/sense/landscape-garden/individual-plants/plumcot-pecan-corner.html
+  url: /sense/landscape-garden/individual-plants/plumcot-pecan-corner.html
 - title: Individual plants
-  url: /memex/sense/landscape-garden/individual-plants/individual-plants.html
+  url: /sense/landscape-garden/individual-plants/individual-plants.html
 tags: gardens, sense, landscape
 title: Pecan corner
 type: zone

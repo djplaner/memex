@@ -1,11 +1,11 @@
 ﻿---
 backlinks:
 - title: Timeline of changes
-  url: /memex/timeline-of-changes.html
+  url: /timeline-of-changes.html
 - title: Colophon
-  url: /memex/colophon/colophon.html
+  url: /colophon/colophon.html
 - title: Computational components
-  url: /memex/colophon/computational-components.html
+  url: /colophon/computational-components.html
 tags:
 - colophon
 - computational-component

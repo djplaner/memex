@@ -1,11 +1,11 @@
 ﻿---
 backlinks:
 - title: Lychee (No Mai Chee)
-  url: /memex/sense/landscape-garden/individual-plants/lychee-no-mai-chee.html
+  url: /sense/landscape-garden/individual-plants/lychee-no-mai-chee.html
 - title: Individual plants
-  url: /memex/sense/landscape-garden/individual-plants/individual-plants.html
+  url: /sense/landscape-garden/individual-plants/individual-plants.html
 - title: Longnan (Rocky Creek frontage)
-  url: /memex/sense/landscape-garden/individual-plants/longnan-rocky-creek-frontage.html
+  url: /sense/landscape-garden/individual-plants/longnan-rocky-creek-frontage.html
 latitude: -27.538083333333333
 longitude: 152.05566383333334
 photos:

@@ -1,9 +1,9 @@
 ﻿---
 backlinks:
 - title: Unpicking technologies education
-  url: /memex/sense/Teaching/Digital_Technologies/unpicking-technologies-education.html
+  url: /sense/Teaching/Digital_Technologies/unpicking-technologies-education.html
 - title: DIG071A-2024
-  url: /memex/sense/Teaching/Implementation/2024/DIG071A/DIG071A-2024.html
+  url: /sense/Teaching/Implementation/2024/DIG071A/DIG071A-2024.html
 tags: teaching-digital-technologies, digital-technologies, programming
 title: Scratch
 type: note

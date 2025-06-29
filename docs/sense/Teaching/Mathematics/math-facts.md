@@ -1,11 +1,11 @@
 ﻿---
 backlinks:
 - title: Number talks
-  url: /memex/sense/Teaching/Mathematics/number-talks.html
+  url: /sense/Teaching/Mathematics/number-talks.html
 - title: Mathematical Mindset
-  url: /memex/sense/Teaching/Mathematics/mathematical-mindset.html
+  url: /sense/Teaching/Mathematics/mathematical-mindset.html
 - title: Teaching Mathematics
-  url: /memex/sense/Teaching/Mathematics/teaching-mathematics.html
+  url: /sense/Teaching/Mathematics/teaching-mathematics.html
 title: Math Facts
 ---
 e.g. 8 x 4 = 32 is a mathematical fact.

@@ -1,7 +1,7 @@
 ﻿---
 backlinks:
 - title: Affordances of digital technology
-  url: /memex/sense/Affordances/affordances-of-digital-technology.html
+  url: /sense/Affordances/affordances-of-digital-technology.html
 title: Why the web scales
 ---
 The [citation for Tim Berners-Lee's Turing award](https://amturing.acm.org/award_winners/berners-lee_8087960.cfm) reads (emphasis added)

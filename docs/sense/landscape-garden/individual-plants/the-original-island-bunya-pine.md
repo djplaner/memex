@@ -1,9 +1,9 @@
 ﻿---
 backlinks:
 - title: Bunya Pine
-  url: /memex/sense/landscape-garden/plants/bunya-pine.html
+  url: /sense/landscape-garden/plants/bunya-pine.html
 - title: Individual plants
-  url: /memex/sense/landscape-garden/individual-plants/individual-plants.html
+  url: /sense/landscape-garden/individual-plants/individual-plants.html
 tags:
 - garden
 - plant

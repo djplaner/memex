@@ -1,9 +1,9 @@
 ﻿---
 backlinks:
 - title: Sense
-  url: /memex/sense/sense.html
+  url: /sense/sense.html
 - title: Patterns, pattern languages and design practice
-  url: /memex/sense/Paper-Summaries/goodyear-patterns-design-practice.html
+  url: /sense/Paper-Summaries/goodyear-patterns-design-practice.html
 title: Paper Summaries
 ---
 [[summary-template]]

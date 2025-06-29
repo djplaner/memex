@@ -1,7 +1,7 @@
 ﻿---
 backlinks:
 - title: Plants
-  url: /memex/sense/landscape-garden/plants/plants.html
+  url: /sense/landscape-garden/plants/plants.html
 tags:
 - wood-duck-meadows
 - plant
