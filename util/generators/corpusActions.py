@@ -41,8 +41,10 @@ import frontmatter
 from pprint import pprint
 import mkdocs_gen_files
 from mkdocs.config import Config, load_config
+from mkdocs.structure.files import File, Files
 
 ## Global holds the MkDocs config entry for the docs folder
+FULL_DOCS_FOLDER = "/Users/davidjones/memex/docs/"
 DOCS_FOLDER = ""
 ## Prefix added to URLs to match MkDocs configuration
 # i.e. https://djon.es/**memex**/<URL>
@@ -170,14 +172,25 @@ def extractFileContent( file ):
     """
 
     pageData = {}
-    with open(file, encoding="utf-8-sig") as f:
+    #-- file is a pathlib.Path object, so convert it to a string and make
+    #   relative to the docs folder
+    #   e.g. /Users/davidjones/memex/docs/pkm.md becomes /pkm.md
+    docsFile = str(file).replace(FULL_DOCS_FOLDER, "")
+#    print(f"Extracting content from {file} -> {docsFile}")
+#    input("Press Enter to continue...")
+
+    #with open(file, encoding="utf-8-sig") as f:
+    with mkdocs_gen_files.open(docsFile, 'r', encoding="utf-8-sig") as f:
         bubble = frontmatter.load(f)
+
 
     pageData['content'] = bubble.content
     pageData['yaml'] = bubble.metadata
     pageData['filePath'] = str(file)
 
     pageData = extractLinkDefs(pageData)
+#    pprint(pageData)
+#    input("Press Enter to continue...")
 
     return pageData
 
@@ -561,7 +574,8 @@ def generateGraphJson(backLinks, bubbles):
             raise ValueError(f"Edge {edge} has source {edge['source']} that does not exist in nodes")
 
     #-- save the graph data to a JSON file
-    with open(f"{DOCS_FOLDER}/colophon/graph.json", 'w', encoding="utf-8-sig") as f:
+#    with open(f"{DOCS_FOLDER}/colophon/graph.json", 'w', encoding="utf-8-sig") as f:
+    with mkdocs_gen_files.open(f"colophon/graph.json", 'w', encoding="utf-8-sig") as f:
         json.dump(graphData, f, indent=4, ensure_ascii=False)
         #yaml.dump(graphData, f, allow_unicode=True)
 
@@ -569,9 +583,31 @@ def generateGraphJson(backLinks, bubbles):
 Main entry point for the generator
 """
 
+
 config = configure()
 
-bubbles = retrieveMemexBubbles()
+# files is an object that access all the mkdoc files
+# via the .items() method
+# File object - https://www.mkdocs.org/dev-guide/api/#mkdocs.structure.files.File
+filesEditor = mkdocs_gen_files.editor.FilesEditor.current()
+files = filesEditor._files.items()
+markdownFiles = filesEditor.files.documentation_pages()
+# loop through markdown files
+"""for file in markdownFiles:
+    #-- file is a File object
+    print("-----------------------")
+    print(f"Markdown File: {file.src_path}")
+    pprint(file, indent=4)
+    print(f"  src_path: {file.src_path}")
+    print(f"  dest_path: {file.dest_path}")
+    print(f"  abs_src_path: {file.abs_src_path}")
+    print(f"  abs_dest_path: {file.abs_dest_path}")
+    print(f"  use_directory_urls: {file.use_directory_urls}")
+    print(f"  generated_by: {file.generated_by}")
+    input("Press Enter to continue...")
+"""
+
+bubbles = retrieveMemexBubbles(markdownFiles)
 #pprint(bubbles)
 #input("Press Enter to update front matter...")
 #addYamlFrontMatter(bubbles)

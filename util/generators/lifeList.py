@@ -240,6 +240,9 @@ def generateBirdPage(camelCaseName, commonName, birdRows):
     #-- using mkdocs_gen_files assume relative to docs folder
     birdPage = Path(LIFE_LIST_DOCS_FOLDER / f"{camelCaseName}.md")
 
+#    print(f"Generating page for {commonName} at {birdPage}")
+#    input("Press Enter to continue...")
+
     with mkdocs_gen_files.open(birdPage, "w") as f:
         content = BIRD_PAGE_TEMPLATE
         content = content.replace("{{{BIRDNAME}}}", commonName)

@@ -21,9 +21,7 @@ Resources on all things developing web applications
 - Usable projects - Aim to develop quick way of developing [[usable-casa]] using [[svelte]]
 - [[foam-dev]] - explorations around [Foam](https://foambubble.github.io/)
 
-
 ## Resources
-
 
 ### Knowledge
 
@@ -41,6 +39,7 @@ Resources on all things developing web applications
 - [[third-age-of-javascript]]
 - [[javascript-design-patterns]]
 - [[api-request-design]]
+- [[graphql-basics]] - basics of GraphQL, not specific to web development but useful for web APIs
 
 ### Javascript dev and build
 
@@ -74,6 +73,7 @@ Resources on all things developing web applications
 [third-age-of-javascript]: third-age-of-javascript "Third age of Javascript"
 [javascript-design-patterns]: ../javascript-design-patterns "javascript-design-patterns"
 [api-request-design]: api-request-design "Designing API request mechanisms"
+[graphql-basics]: graphql-basics "GraphQL basics"
 [npm-projects]: npm-projects "NPM Projects - How to"
 [webpack-essentials]: webpack-essentials "Webpack essentials"
 [learning-webpack]: webpack/learning-webpack "Learning Webpack"

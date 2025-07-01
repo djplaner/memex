@@ -39,147 +39,45 @@ Other live web-based examples include
 
 Display 
 
-- [ ] A navigable graph on a stand alone page
+- [x] A navigable graph on a stand alone page
 - [ ] graph in a modal
 - [ ] graph as a macro in the page
 
 Features
 
 - [ ] Display a graph of all bubbles
-- [ ] Support navigation to individual bubbles
+  - [ ] color of background and nodes/edges fit the dark theme
+  - [ ] color of background and nodes/edges fit the selected theme
+- [x] Support navigation to individual bubbles
 - [ ] Change the graph layout depending on the current visible bubble
 
 ### Implementation
 
-So far the following options have been explored:
+Numerous Javascript libraries (see comparisons: [one](https://www.cylynx.io/blog/a-comparison-of-javascript-graph-network-visualisation-libraries/)) available which all broadly follow the same implementation pattern. However, crafting that pattern to provide the functionality I want took a fair bit more experimentation than expected.
 
-- force-graph library 
-- Sigma.js
-- Cytoscape.js
-- G6
+1. [force-graph](https://vasturiano.github.io/force-graph/)
+2. [Sigma.js](https://www.sigmajs.org/)
+3. [Cytoscape.js](https://js.cytoscape.org/)
+4. [G6](https://g6.antv.antgroup.com/en/manual/introduction)
 
-1. Using force-graph library
+Implementation pipeline
 
-  - Issues with configuring colours etc.
-  - Interface somewhat limited (no search etc.)
-
-Other options
-
-- [sigma.js](https://www.sigmajs.org) 
-
-  Using CDN 
-  ```javascript 
-  <script src="https://cdn.jsdelivr.net/npm/sigma@3.0.2/dist/sigma.min.js" integrity="sha256-vm95DanBhWdlscQw3jsarFBDMiM2GHDtswl6mGghiog=" crossorigin="anonymous"></script>
-  <script src="https://cdn.jsdelivr.net/npm/graphology@0.26.0/dist/graphology.umd.min.js" integrity="sha256-3DN++iOQP2HgZMjn5/k6Qp5oVdzPwkWIArTtMMYhwIc=" crossorigin="anonymous"></script>
-  ```
-
-- [cytoscape](https://cytoscape.org)
+- [[computational-component]] generates a JSON file with the graph data (using format expected by JS library)
+- mkdocs template includes the Javascript library, and graph generation Javascript
+- Graph generation Javascript 
+  - reads the JSON file 
+  - creates and configures the graph
 
 To do
-
-- Configuration
-
-  - How to get width of div/screen from Javascript?
-  - How to access CSS variables from Javascript?
-
-#### [x] Markdown file loading Javascript graph library and test data
-
-- [x] force-graph
-- [x] sigma.js
-- [x] cytoscape.js
-
-#### [x] Python generates data for graph library
-
-- [x] [Example JSON dataset](https://github.com/vasturiano/force-graph/blob/master/example/datasets/miserables.json) for force-graph 
-
-```json
-{
-    "nodes": [
-        {
-          "id": "id1",
-          "name": "name1",
-          "val": 1
-        },
-        {
-          "id": "id2",
-          "name": "name2",
-          "val": 10
-        },
-        ...
-    ],
-    "links": [
-        {
-            "source": "id1",
-            "target": "id2"
-        },
-        ...
-    ]
-}
-```
-
-sigma.js uses the following format  (see [graph data](https://www.sigmajs.org/docs/advanced/data))
-
-- [ ] rename links to edges
-- [ ] give edges id
-- [ ] give nodes a label, 
-- [ ] give nodes x, y 
-- [ ] give nodes size
-
-```json
-{
-"nodes": [
-    {
-        "id": "chr1",
-        "x": 0,
-        "y": 0,
-        "label": "Bob",
-        "size": 8.75
-    },
-    {
-        "id": "chr10",
-        "label": "Alice",
-        "x": 3,
-        "y": 1,
-        "size": 14.75
-    }
-],
-"edges": [{
-    "id": "1",
-    "source": "chr1",
-    "target": "chr10"
-}]
-}
-```
-
-#### Configure graph options
-
-
-- Configure size of graph canvas
-
-  Has setters, which could be used with the different sizes. Question is how to get size of the current window to influence the size of the graph
-
-   ```javascript
-   .width(<width).height(<height>)
-   ```
-- Configure the colour scheme to work with memex template
-
-  setter for `backgroundColor()`, `nodeColor()`, `linkColor()`
-
-```javascript
-
-.zoomToFit()
-
-```
-
-- `onNodeClick(fn)` - to navigate to the clicked bubble ?? how to specify the link ??
-- `centerAt( node.x, node.y, <num>)` - [example](https://github.com/vasturiano/force-graph/blob/master/example/click-to-focus/index.html) used in a call back. ?? can it be used as elsewhere - how to get access to the node ??
-
-#### Integrate graph update into build process
-
-#### Implement modal
-
-#### Implement macro
-
+ 
+- check corpusActions
+  - does it run after bird list
+    - the life list generator only creates files "in mkdocs serve/build", not accessible to the other generators
+    - The issue is that corpusActions retrieves bubbles using glob - focused solely on what's in the file system, ?? Is there a way in mkdocs to find all the files ??
+  - writing backlinks (only if change)
+  - opening/writing JSON using mkdocs
+- colouring and theming
+- 
 
 ## Resources
 
@@ -263,4 +161,5 @@ A web application for analysing large data sets that also provides a [Javascript
 
 [//begin]: # "Autogenerated link references for markdown compatibility"
 [graph]: graph "Memex network graph"
+[computational-component]: computational-component "computational-component"
 [//end]: # "Autogenerated link references"
