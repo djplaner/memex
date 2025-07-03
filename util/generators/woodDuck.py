@@ -177,7 +177,7 @@ def retrievePlantsPages(plantsFolder=PLANTS_FOLDER):
             figures = extractFigures(pageData['html'], True)
         elif plantsFolder == INDIVIDUAL_PLANTS_FOLDER:
             figures = extractFigures(pageData['html'], False, True)
-        print(f"--- plant file {file}")
+#        print(f"--- plant file {file}")
         if "title" not in pageData['yaml']:
             pprint(pageData['yaml'], indent=4)
             print(f"--- no title in {file}")

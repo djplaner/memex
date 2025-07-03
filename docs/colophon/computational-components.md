@@ -1,31 +1,4 @@
 ﻿---
-backlinks:
-- title: Timeline of changes
-  url: /timeline-of-changes.html
-- title: Life list generator
-  url: /colophon/life-list-generator.html
-- title: Plant location generator
-  url: /colophon/plant-location-generator.html
-- title: Modify Markdown files
-  url: /colophon/modify-markdown-files.html
-- title: Colophon
-  url: /colophon/colophon.html
-- title: Blog Statistics
-  url: /colophon/blog-statistics.html
-- title: Convert Wordpress into Memex
-  url: /colophon/convert-wordpress-into-memex.html
-- title: Memex - Version 3
-  url: /colophon/version-3-memex-design.html
-- title: Integrate backlinks automatically onto pages
-  url: /colophon/integrate-backlinks-automatically-onto-pages.html
-- title: Recent changes
-  url: /colophon/recent-changes.html
-- title: A new day
-  url: /share/blog/2025/a-new-day.html
-- title: As We May Think
-  url: /sense/computing/as-we-may-think.html
-- title: Markdown Manipulation
-  url: /sense/Web-development/foam-dev/markdown-manipulation.html
 tags:
 - colophon
 title: Computational components

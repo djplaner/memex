@@ -3,6 +3,8 @@ corpusActions.py
 
 Generator that (will eventually) perform numerous actions that rely on reading the entire corpus of notes. All done in one generator so that the grabbing the entire corpus is done once.
 
+See https://djon.es/memex/colophon/integrate-backlinks-automatically-onto-pages.html
+
 Actions include
 
 - generateBackLinks
@@ -43,8 +45,11 @@ import mkdocs_gen_files
 from mkdocs.config import Config, load_config
 from mkdocs.structure.files import File, Files
 
+bubbles = {}
+
 ## Global holds the MkDocs config entry for the docs folder
 FULL_DOCS_FOLDER = "/Users/davidjones/memex/docs/"
+MEMEX_FOLDER = "/Users/davidjones/memex/"
 DOCS_FOLDER = ""
 ## Prefix added to URLs to match MkDocs configuration
 # i.e. https://djon.es/**memex**/<URL>
@@ -78,8 +83,11 @@ def generateAbsoluteLinks(markdownFile, linkDefs):
     """
 
     #-- Remove the markdown file name to get the current folder for the file
-    location = markdownFile.rfind("/")
+    location = f"/{markdownFile}".rfind("/")
     currentFolder = markdownFile[:location]
+
+#    print(f"Generating absolute links for {markdownFile} in folder {currentFolder}")
+#    input("Press Enter to continue...")
 
     newLinkDefs = {}
 
@@ -94,6 +102,14 @@ def generateAbsoluteLinks(markdownFile, linkDefs):
         #-- Get an absolute path with the docs folder as the root
         absPath = str(absPath).replace(DOCS_FOLDER, "")
 
+        #-- remove "/Users/davidjones/memex/" from front of absPath
+        absPath = absPath.replace("/Users/davidjones/memex/", "")
+        #-- if absPath starts with /, remove it
+        if absPath.startswith("/"):
+            absPath = absPath[1:]
+
+#        print(f"Link {link} -> {absPath}")
+
         newLinkDefs[absPath] = {
             'text': linkDefs[link]['text'],
             'description': linkDefs[link]['description']
@@ -103,8 +119,7 @@ def generateAbsoluteLinks(markdownFile, linkDefs):
 
 def extractLinkDefs(pageData):
     """
-    Extract the link definitions from the content of the markdown file
-    and add them to the pageData dictionary
+    Extract the link definitions from the content of the markdown file and add them to the pageData dictionary
 
     The links are relative to the path of the markdown file that contains them. They need to be transformed into a standard format that can be used as keys. Transform to absolute links relative to the docs directory.
 
@@ -148,16 +163,89 @@ def extractLinkDefs(pageData):
                     'text': text,
                     'description': description
                 }
-
-        # DO NOT Remove the link definitions from the content
-        # Need to convert the links to absolute link, where / is the docs folder
-        pageData['linkDefs'] = generateAbsoluteLinks(pageData['filePath'], pageData['linkDefs']) 
     else:
         pageData['linkDefs'] = []
+        return pageData
+
+    pageData['linkDefs'] = generateAbsoluteLinks(pageData['filePath'], pageData['linkDefs']) 
 
     return pageData
 
-def extractFileContent( file ):
+def generateAbsolutePath(currentFilePath: str, link: str) -> str:
+    """
+    Generate an absolute path from the current file path and the link
+    
+    Parameters
+    currentFilePath: str - the path to the current markdown file
+    link: str - the relative link to the markdown file
+    Returns
+    str - the absolute path to the markdown file, relative to the docs folder
+    """
+
+    #-- remove the file name from the current file path to get the folder
+    location = f"/{currentFilePath}".rfind("/")
+    currentFolder = currentFilePath[:location]
+
+    #-- join the current folder with the link to get the absolute path
+    absPath = str(pathlib.Path(currentFolder, link).resolve()).replace(MEMEX_FOLDER,"")
+
+#    print(f"generateAbsolutePath - currentFilePath: {currentFilePath} and link: {link}")
+#    print(f"   currentFolder {currentFolder}")
+#    print(f"   absPath: {absPath}")
+
+    #-- convert the absolute path to a string and remove the docs folder prefix
+    absPath = str(absPath).replace(DOCS_FOLDER, "")
+
+    #-- if it starts with /, remove it
+    if absPath.startswith("/"):
+        absPath = absPath[1:]
+
+    return absPath
+    
+def addRelativeLinks(markdownFiles: Files):
+    """
+    After the bubbles have all been loaded, revisit all the bubbles again, adding relative markdown links to the linkDefs data structure
+
+    Parameters
+    markdownFiles: Files - a (MkDocs) Files object containing all the markdown files in the docs folder
+    """
+
+    for file in markdownFiles:
+        print(f"addRelatedLinks - file is {file.src_path}")
+        content = file.content_string
+        start = content.find("[//begin]")
+        content = content[:start]
+
+        localLinkRegex = r"\[([^\]]+)\]\((\.[^\)]+.md)\)"
+        localLinks = re.findall(localLinkRegex, content)
+
+        if len(localLinks)>0:
+            for ( text, link ) in localLinks:
+                print(f"    Found local link: {link} with description: {text}")
+                # need to convert link to an absolute link
+                absLink = generateAbsolutePath( file.src_path, link )
+
+#                pprint(bubbles[absLink]['yaml'])
+                print(f"abslink {absLink}")
+#                print('-----------------------')
+#                print(bubbles[file.src_path]['yaml'])
+#                print(f"file {file.src_path}")
+#                print('-----------------------')
+                description = text
+                if 'title' in bubbles[absLink]['yaml']:
+                    description = bubbles[absLink]['yaml']['title']
+                
+                bubbles[file.src_path]['linkDefs'][absLink] = {
+                    'text': text,
+                    'description': description
+                }
+#            pprint(bubbles[file.src_path]['linkDefs'])
+#            input(f"--------------  finding relative links ")
+
+    # DO NOT Remove the link definitions from the content
+    # Need to convert the links to absolute link, where / is the docs folder
+
+def extractFileContent( file : File ) -> dict:
     """
     Given path local to a markdown file, extract the file content and return as a dictionary of the form
       {
@@ -169,35 +257,52 @@ def extractFileContent( file ):
             '<text2>': { 'link': <link2>, 'description': <description2> },
         }
 
+    Parameter
+
     """
 
     pageData = {}
     #-- file is a pathlib.Path object, so convert it to a string and make
     #   relative to the docs folder
     #   e.g. /Users/davidjones/memex/docs/pkm.md becomes /pkm.md
-    docsFile = str(file).replace(FULL_DOCS_FOLDER, "")
+#    docsFile = str(file).replace(FULL_DOCS_FOLDER, "")
 #    print(f"Extracting content from {file} -> {docsFile}")
 #    input("Press Enter to continue...")
 
     #with open(file, encoding="utf-8-sig") as f:
-    with mkdocs_gen_files.open(docsFile, 'r', encoding="utf-8-sig") as f:
-        bubble = frontmatter.load(f)
+#    with mkdocs_gen_files.open(docsFile, 'r', encoding="utf-8-sig") as f:
+#        bubble = frontmatter.load(f)
 
+    #-- get the content of the file
+    content = file.content_string
+
+#    print(f"Content of {file.src_path}:\n{content}...\n")
+#    input("Press Enter to continue...")
+    bubble = frontmatter.loads(content)
 
     pageData['content'] = bubble.content
     pageData['yaml'] = bubble.metadata
-    pageData['filePath'] = str(file)
+    #pageData['filePath'] = str(file)
+    pageData['filePath'] = file.src_path
 
     pageData = extractLinkDefs(pageData)
-#    pprint(pageData)
-#    input("Press Enter to continue...")
+
+#    if file.src_path.endswith("sense/birdwatching/life-list-gallery.md") or file.src_path.endswith("birding.md"):
+#        print(f"Extracted content from {file.src_path}")
+#        print(f"Content: {pageData['content'][:100]}...")
+#        print(f"YAML: {yaml.dump(pageData['yaml'])}")
+#        print(f"LinkDefs: {pageData['linkDefs']}")
+#        pprint(pageData, indent=4)
+#        input("Press Enter to continue...")
 
     return pageData
 
-def retrieveMemexBubbles():
+def retrieveMemexBubbles(markdownFiles: Files):
     """
     Retrieve all memex bubbles from the memex folder and return them as a list of dicts
 
+    Parameters
+    markdownFiles: Files - a (MkDocs) Files object containing all the markdown files in the docs folder
     Returns
     bubbles: dict of dicts
         <bubbleFilePath>: {
@@ -207,20 +312,22 @@ def retrieveMemexBubbles():
             'linkDefs': { <link>: { 'text': <text>, 'link': <link> } }
         }
     """
-    bubbles = {}
+    global bubbles
 
     #-- get all files in the memex folder
-    files = glob.glob(f"{DOCS_FOLDER}/memex/*.md")
-    folder = pathlib.Path(DOCS_FOLDER)
-    files = folder.rglob("*.md")
+#    files = glob.glob(f"{DOCS_FOLDER}/memex/*.md")
+#    folder = pathlib.Path(DOCS_FOLDER)
+#    files = folder.rglob("*.md")
 
-    for file in files:
+#    for file in files:
+    for file in markdownFiles:
         content = extractFileContent(file)
         if content is not None:
             #localAbsPath = str(file).replace(DOCS_FOLDER, PREFIX)
-            localAbsPath = str(file).replace(DOCS_FOLDER, "")
+#            localAbsPath = str(file).replace(DOCS_FOLDER, "")
 #            print(f"file {file} becomes {localAbsPath}")
 #            input("Press Enter to continue...")
+            localAbsPath = file.src_path
             bubbles[localAbsPath] = content
         else:
             raise ValueError(f"Could not extract content from {file}")
@@ -245,7 +352,17 @@ def configure():
 
 def generateBackLinks(bubbles: dict):
     """
-    Generate a data structure that contains details of the backlinks to each bubble
+    Generate a data structure that contains details of the backlinks to each bubble. i.e.
+    another bubble (source bubble) includes a link to the destination bubble.
+
+    Can be defined three different ways
+
+    - linkDefs - added by a specific VSCode/Foam extension. Text at the bottom of the bubble that defines all the bubbles the current bubble links to.
+    - local .md links - links in the current bubble of this form [wood-duck-gallery](./wood-duck-gallery.md) which are not added to linkDefs
+
+    Broken implementation - hard coded backlinks
+
+    Some generators are hard-coding backlinks into the header. But these aren't being added here. Should they? In theory, they should instead be hard coded as linkDefs, keeping a consistent method?
 
     parameters
     bubbles: dict of dicts contents of all Foam bubbles
@@ -265,31 +382,46 @@ def generateBackLinks(bubbles: dict):
     
     """
 
+    #-- initialist the backlinks data structure
     backLinks = {}
     for file in bubbles.keys():
-#        print(f"backlinks for {file}")
-#        input("Press Enter to continue...")
         backLinks[file] = {}
 
     for file in bubbles.keys():
-        # extract all bubble links (links to other bubbles) from the bubble
-        # TODO needs to access the linkDefs and perhaps transform them
-        ## bubbleLinks = extractBubbleLinks(bubble['content'])
-
+        # loop thru each file, except those that are excluded
         bubble = bubbles[file]
-
-        ## Only generate backlinks for pages that aren't EXCLUDED
         if any(re.search(pattern, bubble['filePath']) for pattern in EXCLUDE):
             continue
 
-        # for each bubbleLink, add it to the backLinks dict
+        if file.endswith("sense/birdwatching/spottedDove.md"):
+            print("--------------- spottedDove")
+#            print(f"Processing bubble {file}")
+#            pprint(bubble)
+#            input("Press Enter to continue...")
+
+        # add the current bubble's linkDefs to the backLinks data structure
         for destinationPath in bubble['linkDefs']:
             sourcePath = f'{bubble["filePath"].replace(DOCS_FOLDER, "")}'
             #sourcePath = f'{PREFIX}{bubble["filePath"].replace(DOCS_FOLDER, "")}'
+
+#            print("----- ")
+#            pprint(bubble['filePath'])
+#            print(f"Source Path: {sourcePath}")
+#            input("Press Enter to continue...")
             #-- 
             if destinationPath not in backLinks:
                 backLinks[destinationPath] = {}
             backLinks[destinationPath][sourcePath] = bubble
+            if file.endswith("sense/birdwatching/spottedDove.md"):
+                print(f" -- backlink {destinationPath} = {sourcePath}")
+
+            if destinationPath.endswith("sense/birdwatching/spottedDove.md"):
+                print(f" -- backlink {destinationPath} = {sourcePath}")
+                #pprint(bubble['linkDefs'])
+                #input("Press Enter to continue...")
+
+#        if file.endswith("life-list-gallery.md"):
+#            input("Press Enter to continue...")
 
     return backLinks
 
@@ -309,6 +441,13 @@ def saveBubble(bubble:dict):
 
     filePath = bubble['filePath'].replace(f"{DOCS_FOLDER}/", "")
 
+#    if filePath=="sense/birdwatching/spottedDove.md":
+#        print(f"saving bubble to {filePath}")
+#        print(yaml.dump(bubble['yaml']))
+#        print("----")
+#        print(bubble['content'])
+#        input("Press Enter to continue...")
+
     #with open(bubble['filePath'], 'w', encoding="utf-8-sig") as f:
     with mkdocs_gen_files.open(filePath, 'w', encoding="utf-8-sig") as f:
         f.write("---\n")
@@ -316,7 +455,7 @@ def saveBubble(bubble:dict):
         f.write("---\n")
         f.write(bubble['content'])
 
-    mkdocs_gen_files.set_edit_path(filePath, "corpousActions.py")
+    mkdocs_gen_files.set_edit_path(filePath, "corpusActions.py")
 
 def extractTitleFromContent(content : str):
     """
@@ -376,6 +515,13 @@ def updateFrontMatterBackLinks(bubbles, backLinks):
         backlinks = []
         # destinationPath = /seek/stretching-educations-iron-triangle.md
         #-- loop through all the backlinks
+
+#        if destinationFilePath.endswith("sense/birdwatching/life-list-gallery.md"):
+#            print(f"Processing backlinks for {destinationFilePath}")
+#            pprint(backLinks[destinationFilePath].keys())
+#            input("Press Enter to continue...")
+        
+
         for sourceLink in backLinks[destinationFilePath].keys():
 
             #-- sourceLink is the absolute path to the bubble linking to the destination bubble, but it has PREFIX prepended to it
@@ -397,7 +543,7 @@ def updateFrontMatterBackLinks(bubbles, backLinks):
                 title = extractTitleFromContent(bubbles[fileLink]['content'])
 
             backlinks.append({
-                'url': f"{PREFIX}{sourceLink}".replace(".md", ".html"),
+                'url': f"{PREFIX}/{sourceLink}".replace(".md", ".html"),
                 'title': title
             })
 
@@ -451,7 +597,7 @@ def moveImages(bubbles):
 
     for filePath in bubbles.keys():
         imgLinks = re.findall(r"!\[.*?\]\((.*?)\)", bubbles[filePath]['content'])
-        print(f"Found {len(imgLinks)} image links in {filePath}")
+#        print(f"Found {len(imgLinks)} image links in {filePath}")
         if len(imgLinks) == 0:
             continue
         for imgLink in imgLinks:
@@ -506,7 +652,7 @@ def generateGraphJson(backLinks, bubbles):
         # nodeId is filePath minus the PREFIX
         #-- remove the PREFIX from the filePath to get the nodeId
         #nodeId = filePath.replace(PREFIX, "")
-        nodeId = f"{PREFIX}{filePath}".replace(".md", ".html")
+        nodeId = f"{PREFIX}/{filePath}".replace(".md", ".html")
 
 #        print(f"Processing {filePath}")
 #        pprint(bubbles[filePath])
@@ -537,7 +683,7 @@ def generateGraphJson(backLinks, bubbles):
     # destinationFilePath is a file path relative to memex docs folder
     for destinationFilePath in backLinks.keys():
 #        print("-------------------------")
-        print(f"Processing backlinks for {destinationFilePath}")
+#        print(f"Processing backlinks for {destinationFilePath}")
 #        pprint(backLinks[destinationFilePath].keys())
 #        input("1) Press Enter to continue...")
         # continue if there are no linkDefs for this destination
@@ -546,9 +692,9 @@ def generateGraphJson(backLinks, bubbles):
 
             #-- source and target need to be Web paths, adding PREFIX and replacing .md with .html
             #source = sourceLink.replace(PREFIX, "")
-            source = f"{PREFIX}{sourceLink}".replace(".md", ".html")
+            source = f"{PREFIX}/{sourceLink}".replace(".md", ".html")
             #target = destinationFilePath.replace(PREFIX, "")
-            target = f"{PREFIX}{destinationFilePath}".replace(".md", ".html")
+            target = f"{PREFIX}/{destinationFilePath}".replace(".md", ".html")
             #graphData['edges'].append({
             graphData['links'].append({
                 'id': f"{edgeId}",
@@ -579,6 +725,32 @@ def generateGraphJson(backLinks, bubbles):
         json.dump(graphData, f, indent=4, ensure_ascii=False)
         #yaml.dump(graphData, f, allow_unicode=True)
 
+        
+def findFiles(markdownFiles: Files):
+    findFiles= [
+#    "sense/landscape-garden/wood-duck-gallery.md",
+#        "sense/birdwatching/life-list.md",
+        "sense/birdwatching/life-list-gallery.md",
+        "sense/birdwatching/spottedDove.md",
+#        "sense/birdwatching/australasianFigbird.md",
+#        "sense/birdwatching/greatEgret.md",
+#        "sense/birdwatching/greatEgret.md",
+#    "sense/birdwatching/life-list-gallery.md"
+    ]
+#-- search markdownFiles for findFile in src_path 
+    for findFile in findFiles:
+        for file in markdownFiles:
+            if file.src_path.endswith(findFile):
+                print("-------------------------")
+                print(f"Found {findFile} at {file.src_path}")
+                print(f"generated by {file.generated_by}")
+                print(file.content_string)
+                input("Press Enter to continue...")
+                continue
+
+    input("Press Enter to continue...")
+
+
 """
 Main entry point for the generator
 """
@@ -590,29 +762,50 @@ config = configure()
 # via the .items() method
 # File object - https://www.mkdocs.org/dev-guide/api/#mkdocs.structure.files.File
 filesEditor = mkdocs_gen_files.editor.FilesEditor.current()
-files = filesEditor._files.items()
 markdownFiles = filesEditor.files.documentation_pages()
-# loop through markdown files
-"""for file in markdownFiles:
-    #-- file is a File object
-    print("-----------------------")
-    print(f"Markdown File: {file.src_path}")
-    pprint(file, indent=4)
-    print(f"  src_path: {file.src_path}")
-    print(f"  dest_path: {file.dest_path}")
-    print(f"  abs_src_path: {file.abs_src_path}")
-    print(f"  abs_dest_path: {file.abs_dest_path}")
-    print(f"  use_directory_urls: {file.use_directory_urls}")
-    print(f"  generated_by: {file.generated_by}")
-    input("Press Enter to continue...")
-"""
 
-bubbles = retrieveMemexBubbles(markdownFiles)
-#pprint(bubbles)
-#input("Press Enter to update front matter...")
-#addYamlFrontMatter(bubbles)
+
+#findFiles(markdownFiles)
+
+retrieveMemexBubbles(markdownFiles)
+
+addRelativeLinks(markdownFiles)
+
+#pprint(bubbles.keys())
+
+#print(f"Retrieved {len(bubbles)} bubbles from the memex folder")
+#input('(retrieveMemexBubbles) Press Enter to continue...')
+#print(bubbles.keys( ))
+#print("--------- spottedDove")
+#pprint(bubbles["sense/birdwatching/spottedDove.md"], indent=4)
+#print("---- pkm")
+#pprint(bubbles["pkm.md"], indent=4)
+#input("(retrieveMemexBubbles) Press Enter to continue...")
+
+### Generate backlinks for the bubbles
+# backlinks[<destinationFilePath>] = {
+#    <sourceFilePath>: { <details of the bubble for this path> }
+#    <sourceFilePath2>: { <details of the bubble for this path> }
+# }
+# Defines the backlinks for <destinationFilePath> with two links from two source files
 backLinks = generateBackLinks(bubbles)
+
+#print("------ showBacklinks")
+#print(" SPotted dove")
+#print(backLinks['sense/birdwatching/spottedDove.md'].keys())
+#print("--------- pkm")
+#print(backLinks["pkm.md"].keys())
+#input("(Show backlinks) Press Enter to continue...")
 #pprint(backLinks)
+#input("Press Enter to update front matter backlinks...")
+
+#print("--------- spotted dove")
+#pprint(backLinks["sense/birdwatching/spottedDove.md"])
+#print("--------- gallery life list")
+#pprint(backLinks["sense/birdwatching/life-list-gallery.md"])
+#input("Press Enter to update front matter backlinks...")
+#for filePath in backLinks.keys():
+#    print(f"Backlinks for {filePath}: keys {backLinks[filePath].keys()}")
 #input("Press Enter to update front matter backlinks...")
 
 updateFrontMatterBackLinks(bubbles, backLinks)

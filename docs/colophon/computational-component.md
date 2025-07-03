@@ -1,2 +1,0 @@
-# computational-component
-

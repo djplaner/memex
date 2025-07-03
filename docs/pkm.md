@@ -1,13 +1,4 @@
 ﻿---
-backlinks:
-- title: Seek
-  url: /seek/seek.html
-- title: Colophon
-  url: /colophon/colophon.html
-- title: Sense
-  url: /sense/sense.html
-- title: Alternate conceptions of the web
-  url: /sense/computing/alternate-conceptions-of-the-web.html
 tags: academia, pkm
 title: Personal Knowledge Management
 type: index

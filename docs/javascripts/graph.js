@@ -60,16 +60,14 @@ function createGraph(data) {
                         highlightLinks.add(link);
                     }
                 });
-
                 hoverNode = node || null;
-
 /*                node.neighbors.forEach(neighbor => highlightNodes.add(neighbor));
                 node.links.forEach(link => highlightLinks.add(link)); */
             }
         }).
         width(width).
         height(height).
-//        nodeId('id'). 
+        nodeId('id'). 
 //        nodeVal('val').
         nodeLabel( node => {
             return `<strong>${node.name}</strong>`;
@@ -78,6 +76,7 @@ function createGraph(data) {
         linkTarget('target').
         enablePointerInteraction(true).
         nodeAutoColorBy('name').
+        zoomToFit(0,10).
         onNodeClick( node => {
             // redirect browser to <current-host>/node.id
             const url = new URL(node.id, window.location.origin);
@@ -85,15 +84,15 @@ function createGraph(data) {
 /*            graph.centerAt( node.x, node.y, 1000 )
             graph.zoom(8, 2000);*/
         })
-        .nodeCanvasObject((node, ctx) => {
+/*        .nodeCanvasObject((node, ctx) => {
         // add ring just for highlighted nodes
         ctx.beginPath();
         ctx.arc(node.x, node.y, NODE_R * 1.4, 0, 2 * Math.PI, false);
         ctx.fillStyle = node === hoverNode ? 'red' : 'orange';
         ctx.fill();
-      })
+      }) */
 
-      graph.onEngineStop(() => graph.zoomToFit(0,10));
+//      graph.onEngineStop(() => graph.zoomToFit(0,10));
 
     // G6
 /*    const { Graph } = G6;
