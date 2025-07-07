@@ -1,9 +1,4 @@
 ﻿---
-backlinks:
-- title: Correct links to Foam documentation
-  url: /sense/Web-development/foam-dev/correct-links-foam-docmentation.html
-- title: Explorations in Foam development
-  url: /sense/Web-development/foam-dev/foam-dev.html
 tags:
 - foam
 - web-development

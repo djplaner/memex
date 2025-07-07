@@ -1,9 +1,4 @@
 ﻿---
-backlinks:
-- title: Bush regeneration (Wood duck meadows)
-  url: /sense/landscape-garden/regeneration.html
-- title: Plants
-  url: /sense/landscape-garden/plants/plants.html
 photos:
   1:
     date: 2025-04-20 10:10:40

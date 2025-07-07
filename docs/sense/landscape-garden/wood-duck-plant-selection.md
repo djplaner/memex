@@ -1,9 +1,4 @@
 ﻿---
-backlinks:
-- title: Ecosystem restoration (aka bush regneration)
-  url: /sense/landscape-garden/ecosystem-restoration.html
-- title: Wood duck meadows
-  url: /sense/landscape-garden/wood-duck-meadows.html
 tags:
 - plants
 - wood-duck-meadows

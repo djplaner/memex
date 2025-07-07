@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Canvas Development
-  url: /sense/Design/canvas/canvas-development.html
 title: local-canvas-dev
 ---
 ## docker - mac 

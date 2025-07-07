@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: 'Teaching '
-  url: /sense/Teaching/teaching.html
 title: Assessment of process
 ---
 ## Lodge - won't be easy 

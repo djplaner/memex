@@ -1,9 +1,4 @@
 ﻿---
-backlinks:
-- title: Learning
-  url: /sense/Learning/learning.html
-- title: Big ideas in mathematics
-  url: /sense/Teaching/Mathematics/big-ideas-in-mathematics.html
 tags: learning
 title: How learning works
 type: note

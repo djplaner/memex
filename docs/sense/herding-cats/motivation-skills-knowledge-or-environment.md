@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Herding Cats
-  url: /sense/Bricolage/herding-cats.html
 title: Motivation, skills, knowledge or environment
 ---
 [Training may not be the answer.](http://blog.cathy-moore.com/2013/05/is-training-really-the-answer-ask-the-flowchart/) Lack of knowledge is not the only reason why people may not be able to perform a particular activity.  The problem might arise from anyone of

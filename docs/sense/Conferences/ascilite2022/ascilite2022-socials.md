@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: ASCILITE 2022
-  url: /sense/Conferences/ascilite2022/ascilite-2022.html
 title: ASCILITE 2022 - interesting stuff on the socials
 ---
 ## Dashboards and the tension with learning is hard

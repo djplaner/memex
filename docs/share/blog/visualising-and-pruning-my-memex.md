@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Blog posts
-  url: /share/blog/blog-posts.html
 title: Visualising and pruning my Memex
 ---
 > ### Update - now with automated memex links

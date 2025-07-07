@@ -1,11 +1,4 @@
 ﻿---
-backlinks:
-- title: Design
-  url: /sense/Design/design.html
-- title: Evolution of design for learning
-  url: /sense/Design/evolution-of-design-for-learning.html
-- title: Patterns, pattern languages and design practice
-  url: /sense/Paper-Summaries/goodyear-patterns-design-practice.html
 title: ABC learning design explained
 ---
 [ABC Learning Design](https://abc-ld.org/) is

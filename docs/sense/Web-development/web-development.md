@@ -1,17 +1,4 @@
 ﻿---
-backlinks:
-- title: Sense
-  url: /sense/sense.html
-- title: Pathway planner
-  url: /sense/Web-development/pathway-planner.html
-- title: When to use accordions
-  url: /sense/Web-development/when-to-use-accordions.html
-- title: Javascript REST API Client
-  url: /sense/Web-development/javascript-rest-api-client.html
-- title: Unbundled web components
-  url: /sense/Web-development/unbundled-web-components.html
-- title: Usable CASA
-  url: /sense/Web-development/usable-casa/usable-casa.html
 title: Web development
 ---
 Resources on all things developing web applications

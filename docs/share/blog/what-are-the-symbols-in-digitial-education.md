@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Blog posts
-  url: /share/blog/blog-posts.html
 title: What are the symbols in digital education/design for learning?
 ---
 ```toml

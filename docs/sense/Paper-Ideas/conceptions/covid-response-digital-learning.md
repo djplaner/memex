@@ -1,8 +1,4 @@
 ﻿---
-backlinks:
-- title: 'Exploring conceptions of technology: Implications for learning, teaching,
-    and meso-level practitioners'
-  url: /sense/Paper-Ideas/ascilite-2021-exploring-conceptions-of-technology.html
 title: 'COVID response what unis did '
 ---
 - COVID and broad economic, societal and personal impacts...but also L&T

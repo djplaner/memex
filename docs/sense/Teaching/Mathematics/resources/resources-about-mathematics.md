@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Teaching Mathematics
-  url: /sense/Teaching/Mathematics/teaching-mathematics.html
 title: Resources delving deeper into mathematics
 ---
 ## Other resources 

@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Learning
-  url: /sense/Learning/learning.html
 title: Stories
 ---
 From Michelle's Module 1 for EDM5000

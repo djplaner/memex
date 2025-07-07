@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Plants
-  url: /sense/landscape-garden/plants/plants.html
 photos:
   1:
     date: 2025-06-27 13:38:31

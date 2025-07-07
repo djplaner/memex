@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Learning computer science
-  url: /sense/computing/learning-cs/learning-computer-science.html
 tags:
 - sql
 - computing

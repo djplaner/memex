@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Blog posts
-  url: /share/blog/blog-posts.html
 title: Pondering Hax Web Components and Blackboard
 ---
 ```toml

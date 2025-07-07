@@ -1,11 +1,4 @@
 ﻿---
-backlinks:
-- title: Note taking strategies
-  url: /colophon/note-taking-strategies.html
-- title: Enabling computational bricolage
-  url: /sense/Bricolage/enabling-computational-bricolage.html
-- title: Bricolage
-  url: /sense/Bricolage/bricolage.html
 tags:
 - end-user-programming
 - digital-technology

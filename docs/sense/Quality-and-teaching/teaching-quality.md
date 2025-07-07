@@ -1,9 +1,4 @@
 ﻿---
-backlinks:
-- title: Quality teaching
-  url: /sense/Quality-and-teaching/quality-teaching.html
-- title: Quality and teaching
-  url: /sense/Quality-and-teaching/quality-and-teaching.html
 title: Teaching quality
 ---
 Raban (2007)

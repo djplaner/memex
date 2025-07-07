@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Teaching Mathematics
-  url: /sense/Teaching/Mathematics/teaching-mathematics.html
 tags: teaching, mathematics, teaching-mathematics
 title: Starter activities for mathematics
 type: index

@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Python
-  url: /sense/Python/python.html
 title: streamlit
 ---
 Getting started with [streamlit](https://streamlit.io/) an open-source app framework?

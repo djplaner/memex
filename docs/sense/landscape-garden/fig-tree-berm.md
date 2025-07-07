@@ -1,27 +1,4 @@
 ﻿---
-backlinks:
-- title: Wood duck meadows
-  url: /sense/landscape-garden/wood-duck-meadows.html
-- title: Ficus obliqua (Small-leaved fig)
-  url: /sense/landscape-garden/plants/ficus-obliqua.html
-- title: Asparagus africanus (Climbing asparagus fern)
-  url: /sense/landscape-garden/plants/asparagus-africanus.html
-- title: Solanum americanum (American black nightshade)
-  url: /sense/landscape-garden/plants/solanum-americanum.html
-- title: Macroptilium lathyroides (Phasey Bean)
-  url: /sense/landscape-garden/plants/macroptilium-lathyroides.html
-- title: Passiflora suberosa (Corky passion vine)
-  url: /sense/landscape-garden/plants/passiflora-suberosa.html
-- title: Corymbia Torelliana (Cadaghi)"
-  url: /sense/landscape-garden/plants/corymbia-torelliana.html
-- title: Solanum mauritianum (aka Wild tobacco tree)
-  url: /sense/landscape-garden/plants/solanum-mauritianum.html
-- title: Bidens pilosa (Cobbler's Pegs)
-  url: /sense/landscape-garden/plants/bidens-pilosa.html
-- title: Individual plants
-  url: /sense/landscape-garden/individual-plants/individual-plants.html
-- title: Ficus obliqua (Small-leaved fig)
-  url: /sense/landscape-garden/individual-plants/ficus-obliqua-berm.html
 tags: gardens, sense, landscape
 title: Fig tree berm
 type: zone

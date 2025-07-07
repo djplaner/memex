@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Design
-  url: /sense/Design/design.html
 title: Three Horizons Model
 ---
 Way of thinking about future thinking...lot more

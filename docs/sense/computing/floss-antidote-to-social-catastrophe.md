@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: FLOSS and FOSS
-  url: /sense/computing/floss.html
 tags:
 - floss
 - computing

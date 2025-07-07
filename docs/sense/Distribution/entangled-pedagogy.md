@@ -1,15 +1,4 @@
 ﻿---
-backlinks:
-- title: The relationships between BAD/SET, CASA, and Gather/Weave
-  url: /sense/CASA/bad_set-casa-gather-weave.html
-- title: Distribution
-  url: /sense/Distribution/distribution.html
-- title: Evaluating orchestration
-  url: /sense/Assemblage/evaluating-orchestration.html
-- title: Digital Weaver
-  url: /sense/computing/digital-weaver.html
-- title: Random Notes
-  url: /seek/journal/random-notes.html
 title: Entangled Pedagogy
 ---
 Fawns, T. (2022). An Entangled Pedagogy: Looking Beyond the Pedagogy---Technology Dichotomy. *Postdigital Science and Education*. <https://doi.org/10.1007/s42438-022-00302-7>

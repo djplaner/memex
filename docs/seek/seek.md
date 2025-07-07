@@ -1,19 +1,9 @@
 ﻿---
-backlinks:
-- title: Personal Knowledge Management
-  url: /pkm.html
-- title: Welcome
-  url: /index.html
-- title: Thinking about 'memex v2'
-  url: /colophon/memex-v2.html
-- title: Visualising and pruning my Memex
-  url: /share/blog/visualising-and-pruning-my-memex.html
 tags:
 - seek
 title: Seek
 type: index
 ---
-
 The questions and projects I'm probably paying some sort of attention to.
 
 And there are also things [[to-read]] and some [[zotero-experiments]]

@@ -1,11 +1,4 @@
 ﻿---
-backlinks:
-- title: My approach to teaching mathematics
-  url: /sense/Teaching/Mathematics/my-approach-to-teaching-mathematics.html
-- title: Mathematical mindsets
-  url: /sense/Teaching/Mathematics/mathematical-mindsets.html
-- title: CSER MiS - Getting started module
-  url: /sense/Teaching/Mathematics/cser-mooc/cser-getting-started.html
 tags:
 - teaching
 - mathematics

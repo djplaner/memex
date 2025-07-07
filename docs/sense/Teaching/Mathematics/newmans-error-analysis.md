@@ -1,9 +1,4 @@
 ﻿---
-backlinks:
-- title: Teaching Mathematics
-  url: /sense/Teaching/Mathematics/teaching-mathematics.html
-- title: CSER Number - Content In Action
-  url: /sense/Teaching/Mathematics/cser-mooc/cser-cia-number.html
 tags: teaching-mathematics
 title: Newman's error analysis
 type: note

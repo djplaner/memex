@@ -1,11 +1,4 @@
 ﻿---
-backlinks:
-- title: Computing
-  url: /sense/computing/computing.html
-- title: Why do digital transformations fail?
-  url: /sense/computing/why-do-digital-transformations-fail.html
-- title: Skills Framework for the Information Age
-  url: /sense/computing/profession/skills-framework-for-the-information-age.html
 title: Digital Transformation
 ---
 ## Views on Digital Transformation

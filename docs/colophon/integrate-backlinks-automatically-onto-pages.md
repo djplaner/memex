@@ -1,16 +1,10 @@
 ﻿---
-backlinks:
-- title: Colophon
-  url: /colophon/colophon.html
-- title: Computational components
-  url: /colophon/computational-components.html
 tags:
 - colophon
 - about
 title: Integrate backlinks automatically onto pages
 type: note
 ---
-
 For much of the life of this site, I've manually added ["backlinks"](https://en.wikipedia.org/wiki/Backlink) to pages in the form of "See also:". The intent being to help make these connections explicit and ease navigation. The automated inclusion of backlinks has long been a core feature of wikis and is [supported by Foam](https://foambubble.github.io/foam/user/features/backlinking) (the tool I use) in the authoring process. But Foam is agnostic about publishing and my method did not support backlinks.
 
 Until June 2025. Automatic creation and visualisation of backlinks is now integrated into this site through a [[computational-components|computational component]]. A bit of Python that generates backlinks for each page and adds them to the frontmatter of the page. The backlinks are then rendered in the page template. See above.

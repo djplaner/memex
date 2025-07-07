@@ -1,9 +1,4 @@
 ﻿---
-backlinks:
-- title: Colophon
-  url: /colophon/colophon.html
-- title: Converting Wordpress to Markdown
-  url: /colophon/wordpress-to-markdown.html
 tags:
 - colophon
 title: Memex - Version 3

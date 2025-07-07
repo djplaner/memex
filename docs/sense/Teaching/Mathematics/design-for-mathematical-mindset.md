@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Teaching mathematics for a growth mindset
-  url: /sense/Teaching/Mathematics/teaching-mathematics-for-a-growth-mindset.html
 title: Design for a mathematical mindset
 ---
 Nascent set of ideas about how to go about designing interventions that support the development of a [[mathematical-mindset]]

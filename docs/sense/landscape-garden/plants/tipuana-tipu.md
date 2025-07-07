@@ -1,9 +1,4 @@
 ﻿---
-backlinks:
-- title: Front yard
-  url: /sense/landscape-garden/front-yard.html
-- title: Plants
-  url: /sense/landscape-garden/plants/plants.html
 photos:
   1:
     date: 2025-04-05 11:40:27

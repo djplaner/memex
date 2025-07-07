@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: 'Teaching '
-  url: /sense/Teaching/teaching.html
 tags: STEM, teaching
 title: STEM
 type: note

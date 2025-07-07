@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Mathematical Content Knowledge
-  url: /sense/Teaching/Mathematics/mathCK/mathematical-content-knowledge.html
 tags: teaching, mathematics, indicies, logarithms
 template: math.html
 title: Indices and logarithms

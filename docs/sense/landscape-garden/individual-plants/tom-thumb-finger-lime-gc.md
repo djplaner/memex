@@ -1,10 +1,5 @@
 ﻿---
 XXXlatitude: -27.53681372047709
-backlinks:
-- title: Dry Rainforest
-  url: /sense/landscape-garden/dry-rainforest.html
-- title: Individual plants
-  url: /sense/landscape-garden/individual-plants/individual-plants.html
 photos:
   1:
     date: 2025-04-05 11:20:58

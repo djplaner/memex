@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Blog posts
-  url: /share/blog/blog-posts.html
 title: Integrating Zotero into Foam
 ---
 ```toml

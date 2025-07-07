@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Sense
-  url: /sense/sense.html
 title: Work categories
 ---
 Collection of resources related to work.

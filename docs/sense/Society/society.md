@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Sense
-  url: /sense/sense.html
 title: Society
 ---
 Insights and opinions into the nature of Society.

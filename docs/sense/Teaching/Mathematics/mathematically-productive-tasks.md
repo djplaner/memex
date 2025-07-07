@@ -1,9 +1,4 @@
 ﻿---
-backlinks:
-- title: Technologies for teaching mathematics
-  url: /sense/Teaching/Mathematics/technologies-for-teaching-mathematics.html
-- title: Notice and wonder
-  url: /sense/Teaching/Mathematics/notice-and-wonder.html
 title: Mathematically productive tasks
 ---
 Rumack & Huinker (2019) cite (unavailable work) that routines become mathematically productive when they:

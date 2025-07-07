@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Distribution
-  url: /sense/Distribution/distribution.html
 title: '# Lived complexity'
 ---
 ## Lived complexity

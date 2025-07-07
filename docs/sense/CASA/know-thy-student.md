@@ -1,9 +1,4 @@
 ﻿---
-backlinks:
-- title: Sense
-  url: /sense/sense.html
-- title: Providing aggregate student data to instructors
-  url: /sense/know-thy-student/providing-aggregate-student-data-to-instructors.html
 tags:
 - teaching
 title: Know thy student

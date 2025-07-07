@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Sense
-  url: /sense/sense.html
 title: Quality and teaching
 ---
 ## Path

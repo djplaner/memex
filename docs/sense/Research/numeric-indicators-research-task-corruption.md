@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Research
-  url: /sense/Research/research.html
 title: Numeric indicators, research, task corruption
 ---
 Brumback (2012) talking about impact of impact factor on research. The implications of simple numeric indicators and what they drive.

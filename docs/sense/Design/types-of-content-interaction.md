@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Design
-  url: /sense/Design/design.html
 title: Taxonomy of student-to-content interactions strategies
 ---
 Dunlap et al (2007) combine Bloom's taxonomy with Stouppe's (1998) categorization of content-specific interaction, and Garrison, Anderson, and Archer’s Community of Inquiry framework (1999, 2001). They identify 10 content interaction types and then map them against Bloom's.  

@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Design
-  url: /sense/Design/design.html
 tags: consistency, design
 title: Guiyang China Generative Building Blocks
 type: note

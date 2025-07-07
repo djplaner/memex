@@ -1,13 +1,4 @@
 ﻿---
-backlinks:
-- title: Wood duck meadows
-  url: /sense/landscape-garden/wood-duck-meadows.html
-- title: The lower dam
-  url: /sense/landscape-garden/lower-dam.html
-- title: Plumcot (Spring Satin) - pecan corner
-  url: /sense/landscape-garden/individual-plants/plumcot-pecan-corner.html
-- title: Individual plants
-  url: /sense/landscape-garden/individual-plants/individual-plants.html
 tags: gardens, sense, landscape
 title: Pecan corner
 type: zone

@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Affordances of digital technology
-  url: /sense/Affordances/affordances-of-digital-technology.html
 title: Homogenisation - represent processes in machines that can interpret those representations
 ---
 In comment 11 on [this blog post](https://computinged.wordpress.com/2019/01/21/standards-are-limiting-and-long-lasting-alan-kay-was-right/) Alan Kay (also has other comments) writes about the "earliest ideas about the 'essence' of computing"

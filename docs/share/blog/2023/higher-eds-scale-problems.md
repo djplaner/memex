@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Scale and learning, teaching & education
-  url: /sense/Design/scale.html
 title: Higher ed L&T's scale problem?
 ---
 ```toml

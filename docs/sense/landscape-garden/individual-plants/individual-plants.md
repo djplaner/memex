@@ -1,11 +1,4 @@
 ﻿---
-backlinks:
-- title: Wood duck meadows gallery generator
-  url: /colophon/wood-duck-gallery-generator.html
-- title: Wood duck meadows
-  url: /sense/landscape-garden/wood-duck-meadows.html
-- title: Plants
-  url: /sense/landscape-garden/plants/plants.html
 tags:
 - plants
 - wood-duck-meadows

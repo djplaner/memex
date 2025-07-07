@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Mathematical Topics
-  url: /sense/Teaching/Mathematics/mathematical-topics.html
 tags: statistics, teaching-mathematics
 title: Statistics - mathematical content
 type: note

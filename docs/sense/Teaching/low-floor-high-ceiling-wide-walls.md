@@ -1,27 +1,4 @@
 ﻿---
-backlinks:
-- title: Exploring australian curriculum
-  url: /sense/Python/exploring-australian-curriculum.html
-- title: Differentiation
-  url: /sense/Teaching/differentiation.html
-- title: My Teaching Philosophy
-  url: /sense/Teaching/my-teaching-philosophy.html
-- title: Checks for pedagogy
-  url: /sense/Teaching/Mathematics/checks-for-pedagogy.html
-- title: My approach to teaching mathematics
-  url: /sense/Teaching/Mathematics/my-approach-to-teaching-mathematics.html
-- title: SMILE
-  url: /sense/Teaching/Mathematics/smile.html
-- title: Mathematical mindsets
-  url: /sense/Teaching/Mathematics/mathematical-mindsets.html
-- title: Crackers
-  url: /sense/Teaching/Mathematics/crackers.html
-- title: ALIVE
-  url: /sense/Teaching/Mathematics/alive.html
-- title: Mathematical thinking tasks
-  url: /sense/Teaching/Mathematics/mathematical-thinking-tasks.html
-- title: 'MATH081C Unit 1, Lesson 1: 2024'
-  url: /sense/Teaching/Implementation/2024/MAT081C/mat081c-2024-u1l1.html
 title: Low Floor, High Ceiling, Wide Walls
 ---
 Resnick and Silverman (2005) offer

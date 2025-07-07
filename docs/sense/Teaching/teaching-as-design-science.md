@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Meddler in the middle
-  url: /sense/Conferences/ascilite2022/meddler-in-the-middle.html
 title: Teaching as design science
 ---
 ## Laurillard, 2012

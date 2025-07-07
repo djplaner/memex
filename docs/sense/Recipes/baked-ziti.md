@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Recipes
-  url: /sense/Recipes/recipes.html
 title: Baked Ziti
 ---
 From a [NTY recipe](http://lisahistory.net/wordpress/2020/06/working-against-canvas-three-tips/)

@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Sense
-  url: /sense/sense.html
 tags: -research
 title: Research
 type: note

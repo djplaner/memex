@@ -1,9 +1,4 @@
 ﻿---
-backlinks:
-- title: Design of the VUE Learning Journal CASA
-  url: /sense/CASA/design-of-vue-lj-casa-1.html
-- title: Web development
-  url: /sense/Web-development/web-development.html
 tags: javascript, web-development, rest-api, client
 title: Javascript REST API Client
 type: note

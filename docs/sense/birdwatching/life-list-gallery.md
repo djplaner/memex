@@ -1,0 +1,166 @@
+﻿---
+tags: birdwatching, birding
+title: Life list gallery
+type: birds
+---
+A list of all the bird photos taken from the observations listed in my [[life-list]].
+
+Scroll down the page to view the photos, or click on any photo to see a full size version and to navigate through the images. 
+
+See [[life-list-generator]] for how this was done.
+
+
+<figure markdown>
+  ![Spotted Dove](https://djon.es//assets/memex/sense/birdwatching/images/spottedDove/S191596000.jpeg){data-title="Spotted Dove" data-description="Observed at Postman’s Ridge on 2024-08-16"}
+  <caption>Spotted Dove<br />Observed at Postman’s Ridge on 2024-08-16</caption>
+</figure>
+
+<figure markdown>
+  ![Australasian Grebe](https://djon.es//assets/memex/sense/birdwatching/images/australasianGrebe/S191596337.jpeg){data-title="Australasian Grebe" data-description="Observed at Postman’s Ridge on 2024-08-16"}
+  <caption>Australasian Grebe<br />Observed at Postman’s Ridge on 2024-08-16</caption>
+</figure>
+
+<figure markdown>
+  ![Australian Ibis](https://djon.es//assets/memex/sense/birdwatching/images/australianIbis/S191595567.jpeg){data-title="Australian Ibis" data-description="Observed at Postman’s Ridge on 2024-03-21"}
+  <caption>Australian Ibis<br />Observed at Postman’s Ridge on 2024-03-21</caption>
+</figure>
+
+<figure markdown>
+  ![Yellow-billed Spoonbill](https://djon.es//assets/memex/sense/birdwatching/images/yellowbilledSpoonbill/S191595482.jpeg){data-title="Yellow-billed Spoonbill" data-description="Observed at Postman’s Ridge on 2024-03-21"}
+  <caption>Yellow-billed Spoonbill<br />Observed at Postman’s Ridge on 2024-03-21</caption>
+</figure>
+
+<figure markdown>
+  ![White-faced Heron](https://djon.es//assets/memex/sense/birdwatching/images/whitefacedHeron/S194900794.jpeg){data-title="White-faced Heron" data-description="Observed at Postman’s Ridge on 2024-09-13"}
+  <caption>White-faced Heron<br />Observed at Postman’s Ridge on 2024-09-13</caption>
+</figure>
+
+<figure markdown>
+  ![Pacific Heron](https://djon.es//assets/memex/sense/birdwatching/images/pacificHeron/S192925062_1.jpeg){data-title="Pacific Heron" data-description="Observed at Postman’s Ridge on 2024-08-27"}
+  <caption>Pacific Heron<br />Observed at Postman’s Ridge on 2024-08-27</caption>
+</figure>
+
+<figure markdown>
+  ![Pacific Heron](https://djon.es//assets/memex/sense/birdwatching/images/pacificHeron/S192925062.jpeg){data-title="Pacific Heron" data-description="Observed at Postman’s Ridge on 2024-08-27"}
+  <caption>Pacific Heron<br />Observed at Postman’s Ridge on 2024-08-27</caption>
+</figure>
+
+<figure markdown>
+  ![Great Egret](https://djon.es//assets/memex/sense/birdwatching/images/greatEgret/S194090540.jpeg){data-title="Great Egret" data-description="Observed at Postman’s Ridge on 2024-09-06"}
+  <caption>Great Egret<br />Observed at Postman’s Ridge on 2024-09-06</caption>
+</figure>
+
+<figure markdown>
+  ![Great Egret](https://djon.es//assets/memex/sense/birdwatching/images/greatEgret/S194090540_1.jpeg){data-title="Great Egret" data-description="Observed at Postman’s Ridge on 2024-09-06"}
+  <caption>Great Egret<br />Observed at Postman’s Ridge on 2024-09-06</caption>
+</figure>
+
+<figure markdown>
+  ![Laughing Kookaburra](https://djon.es//assets/memex/sense/birdwatching/images/laughingKookaburra/S191493556_1.jpeg){data-title="Laughing Kookaburra" data-description="Observed at Postman’s Ridge on 2024-08-15"}
+  <caption>Laughing Kookaburra<br />Observed at Postman’s Ridge on 2024-08-15</caption>
+</figure>
+
+<figure markdown>
+  ![Laughing Kookaburra](https://djon.es//assets/memex/sense/birdwatching/images/laughingKookaburra/S191493556.jpeg){data-title="Laughing Kookaburra" data-description="Observed at Postman’s Ridge on 2024-08-15"}
+  <caption>Laughing Kookaburra<br />Observed at Postman’s Ridge on 2024-08-15</caption>
+</figure>
+
+<figure markdown>
+  ![Red-tailed Black-Cockatoo](https://djon.es//assets/memex/sense/birdwatching/images/redtailedBlackCockatoo/S192516063_2.jpeg){data-title="Red-tailed Black-Cockatoo" data-description="Observed at Postman’s Ridge on 2024-08-24"}
+  <caption>Red-tailed Black-Cockatoo<br />Observed at Postman’s Ridge on 2024-08-24</caption>
+</figure>
+
+<figure markdown>
+  ![Red-tailed Black-Cockatoo](https://djon.es//assets/memex/sense/birdwatching/images/redtailedBlackCockatoo/S192516063.jpeg){data-title="Red-tailed Black-Cockatoo" data-description="Observed at Postman’s Ridge on 2024-08-24"}
+  <caption>Red-tailed Black-Cockatoo<br />Observed at Postman’s Ridge on 2024-08-24</caption>
+</figure>
+
+<figure markdown>
+  ![Galah](https://djon.es//assets/memex/sense/birdwatching/images/galah/S192925094.jpeg){data-title="Galah" data-description="Observed at Postman’s Ridge on 2024-08-27"}
+  <caption>Galah<br />Observed at Postman’s Ridge on 2024-08-27</caption>
+</figure>
+
+<figure markdown>
+  ![Little Corella](https://djon.es//assets/memex/sense/birdwatching/images/littleCorella/S193316800.jpeg){data-title="Little Corella" data-description="Observed at Postman’s Ridge on 2024-08-31"}
+  <caption>Little Corella<br />Observed at Postman’s Ridge on 2024-08-31</caption>
+</figure>
+
+<figure markdown>
+  ![Sulphur-crested Cockatoo](https://djon.es//assets/memex/sense/birdwatching/images/sulphurcrestedCockatoo/S192222567.jpeg){data-title="Sulphur-crested Cockatoo" data-description="Observed at Postman’s Ridge on 2024-08-21"}
+  <caption>Sulphur-crested Cockatoo<br />Observed at Postman’s Ridge on 2024-08-21</caption>
+</figure>
+
+<figure markdown>
+  ![Sulphur-crested Cockatoo](https://djon.es//assets/memex/sense/birdwatching/images/sulphurcrestedCockatoo/S192222567_1.jpeg){data-title="Sulphur-crested Cockatoo" data-description="Observed at Postman’s Ridge on 2024-08-21"}
+  <caption>Sulphur-crested Cockatoo<br />Observed at Postman’s Ridge on 2024-08-21</caption>
+</figure>
+
+<figure markdown>
+  ![Red-backed Fairywren](https://djon.es//assets/memex/sense/birdwatching/images/redbackedFairywren/S252217200.jpeg){data-title="Red-backed Fairywren" data-description="Observed at Postman’s Ridge on 2025-06-20"}
+  <caption>Red-backed Fairywren<br />Observed at Postman’s Ridge on 2025-06-20</caption>
+</figure>
+
+<figure markdown>
+  ![Blue-faced Honeyeater](https://djon.es//assets/memex/sense/birdwatching/images/bluefacedHoneyeater/S191596292.jpg){data-title="Blue-faced Honeyeater" data-description="Observed at Postman’s Ridge on 2024-08-16"}
+  <caption>Blue-faced Honeyeater<br />Observed at Postman’s Ridge on 2024-08-16</caption>
+</figure>
+
+<figure markdown>
+  ![Black-faced Cuckooshrike](https://djon.es//assets/memex/sense/birdwatching/images/blackfacedCuckooshrike/S192292972.jpeg){data-title="Black-faced Cuckooshrike" data-description="Observed at Postman’s Ridge on 2024-08-22"}
+  <caption>Black-faced Cuckooshrike<br />Observed at Postman’s Ridge on 2024-08-22</caption>
+</figure>
+
+<figure markdown>
+  ![Australasian Figbird](https://djon.es//assets/memex/sense/birdwatching/images/australasianFigbird/S191724022.jpeg){data-title="Australasian Figbird" data-description="Observed at Postman’s Ridge on 2024-08-17"}
+  <caption>Australasian Figbird<br />Observed at Postman’s Ridge on 2024-08-17</caption>
+</figure>
+
+<figure markdown>
+  ![Australasian Figbird](https://djon.es//assets/memex/sense/birdwatching/images/australasianFigbird/S191724022_1.jpeg){data-title="Australasian Figbird" data-description="Observed at Postman’s Ridge on 2024-08-17"}
+  <caption>Australasian Figbird<br />Observed at Postman’s Ridge on 2024-08-17</caption>
+</figure>
+
+<figure markdown>
+  ![Australasian Figbird](https://djon.es//assets/memex/sense/birdwatching/images/australasianFigbird/S194090693.jpeg){data-title="Australasian Figbird" data-description="Observed at Postman’s Ridge on 2024-09-06"}
+  <caption>Australasian Figbird<br />Observed at Postman’s Ridge on 2024-09-06</caption>
+</figure>
+
+<figure markdown>
+  ![Pied Butcherbird](https://djon.es//assets/memex/sense/birdwatching/images/piedButcherbird/S191493621.jpeg){data-title="Pied Butcherbird" data-description="Observed at Postman’s Ridge on 2024-08-15"}
+  <caption>Pied Butcherbird<br />Observed at Postman’s Ridge on 2024-08-15</caption>
+</figure>
+
+<figure markdown>
+  ![Willie-wagtail](https://djon.es//assets/memex/sense/birdwatching/images/williewagtail/S191596368.jpeg){data-title="Willie-wagtail" data-description="Observed at Postman’s Ridge on 2024-08-16"}
+  <caption>Willie-wagtail<br />Observed at Postman’s Ridge on 2024-08-16</caption>
+</figure>
+
+<figure markdown>
+  ![Torresian Crow](https://djon.es//assets/memex/sense/birdwatching/images/torresianCrow/S193656488.jpeg){data-title="Torresian Crow" data-description="Observed at Postman’s Ridge on 2024-09-02"}
+  <caption>Torresian Crow<br />Observed at Postman’s Ridge on 2024-09-02</caption>
+</figure>
+
+[//begin]: # "Autogenerated by lifeList.py"
+[life-list]: life-list "Life list"
+[birding]: birding "Birding"
+[life-list-generator]: life-list-generator "Life list generator"
+[computational-components]: ../colophon/computational-components "Computational components" [Spotted Dove]: spottedDove "Spotted Dove"
+[Australasian Grebe]: australasianGrebe "Australasian Grebe"
+[Australian Ibis]: australianIbis "Australian Ibis"
+[Yellow-billed Spoonbill]: yellowbilledSpoonbill "Yellow-billed Spoonbill"
+[White-faced Heron]: whitefacedHeron "White-faced Heron"
+[Pacific Heron]: pacificHeron "Pacific Heron"
+[Great Egret]: greatEgret "Great Egret"
+[Laughing Kookaburra]: laughingKookaburra "Laughing Kookaburra"
+[Red-tailed Black-Cockatoo]: redtailedBlackCockatoo "Red-tailed Black-Cockatoo"
+[Galah]: galah "Galah"
+[Little Corella]: littleCorella "Little Corella"
+[Sulphur-crested Cockatoo]: sulphurcrestedCockatoo "Sulphur-crested Cockatoo"
+[Red-backed Fairywren]: redbackedFairywren "Red-backed Fairywren"
+[Blue-faced Honeyeater]: bluefacedHoneyeater "Blue-faced Honeyeater"
+[Black-faced Cuckooshrike]: blackfacedCuckooshrike "Black-faced Cuckooshrike"
+[Australasian Figbird]: australasianFigbird "Australasian Figbird"
+[Pied Butcherbird]: piedButcherbird "Pied Butcherbird"
+[Willie-wagtail]: williewagtail "Willie-wagtail"
+[Torresian Crow]: torresianCrow "Torresian Crow"
+[//end]: # "Autogenerated link references"

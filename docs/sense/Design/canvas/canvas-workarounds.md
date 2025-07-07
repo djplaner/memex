@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Design
-  url: /sense/Design/design.html
 title: Canvas work arounds
 ---
 Collecting various existing workarounds for Canvas

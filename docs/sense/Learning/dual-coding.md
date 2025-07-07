@@ -1,9 +1,4 @@
 ﻿---
-backlinks:
-- title: Effective learning strategies
-  url: /sense/Learning/effective-learning-strategies.html
-- title: Checks for pedagogy
-  url: /sense/Teaching/Mathematics/checks-for-pedagogy.html
 title: Dual coding
 ---
 Multiple representations of the same information enhances learning and memory. Some information automatically evokes other representations (e.g. _dog_ evokes a visual etc) which also has the same benefit. Other work suggest adding motor movements also provides benefit.

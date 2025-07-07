@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Recipes
-  url: /sense/Recipes/recipes.html
 title: Chilli Chicken
 ---
 ## Ingredients

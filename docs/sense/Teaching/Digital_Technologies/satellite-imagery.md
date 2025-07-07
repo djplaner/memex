@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Teaching Digital Technologies
-  url: /sense/Teaching/Digital_Technologies/teaching-digital-technologies.html
 tags: computing, digital-technologies, teaching-digital-technologies
 title: Satellite imagery
 type: note

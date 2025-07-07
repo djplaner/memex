@@ -1,9 +1,4 @@
 ﻿---
-backlinks:
-- title: Learning
-  url: /sense/Learning/learning.html
-- title: Instructions
-  url: /sense/computing/instructions.html
 tags: learning, learning-science, teaching
 title: Desirable difficulties
 type: note

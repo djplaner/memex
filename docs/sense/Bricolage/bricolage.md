@@ -1,35 +1,4 @@
 ﻿---
-backlinks:
-- title: Some Assemblage Required
-  url: /colophon/some-assemblage-required.html
-- title: Sense
-  url: /sense/sense.html
-- title: Visualising and pruning my Memex
-  url: /share/blog/visualising-and-pruning-my-memex.html
-- title: Convivality
-  url: /sense/Affordances/conviviality.html
-- title: OER as a participatory activity
-  url: /sense/herding-cats/oer-as-a-participatory-activity.html
-- title: Requirements for meaning
-  url: /sense/Learning/requirements-for-meaning.html
-- title: The Red Queen Trap
-  url: /sense/Distribution/the-red-queen-trap.html
-- title: New System Will Solve Everything Disease
-  url: /sense/Bricolage/new-system-will-solve-everything-disease.html
-- title: Engineering the Right
-  url: /sense/Bricolage/engineering-the-right.html
-- title: Action learning and bricolage
-  url: /sense/Bricolage/action-learning-and-bricolage.html
-- title: Being punk in higher education
-  url: /sense/Bricolage/being-punk-in-higher-education.html
-- title: Strategic Planning
-  url: /sense/Bricolage/strategic-planning.html
-- title: Bricolage
-  url: /sense/Bricolage/bricolage.html
-- title: Post adoptive behaviours
-  url: /sense/Bricolage/post-adoptive-behaviours.html
-- title: Bricolagogy
-  url: /sense/Bricolage/bricalogogy.html
 title: Bricolage
 ---
 Bricolage forms part of the BAD Mindset ([[Bricolage]], [[affordances]], [[distribution]]) conceived of as a way to understand [the e-learning reality/rhetoric chasm](http://djon.es/blog/2014/09/05/breaking-bad-to-bridge-the-e-learning-realityrhetoric-chasm/)

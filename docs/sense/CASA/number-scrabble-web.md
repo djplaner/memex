@@ -1,11 +1,4 @@
 ﻿---
-backlinks:
-- title: Implementing number scrabble
-  url: /sense/Representations/implementing-number-scrabble.html
-- title: CASA Gallery
-  url: /sense/CASA/casa-gallery.html
-- title: 'MATH081C Unit 1, Lesson 1: 2024'
-  url: /sense/Teaching/Implementation/2024/MAT081C/mat081c-2024-u1l1.html
 tags: teaching, number-scrabble
 title: Number Scrabble - web implementation
 type: note

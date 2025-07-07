@@ -1,11 +1,4 @@
 ﻿---
-backlinks:
-- title: Wood duck meadows
-  url: /sense/landscape-garden/wood-duck-meadows.html
-- title: Front yard
-  url: /sense/landscape-garden/front-yard.html
-- title: Ceratonia siliqua (Carob tree)
-  url: /sense/landscape-garden/plants/ceratonia-siliqua.html
 tags:
 - zone
 - wood-duck-meadows

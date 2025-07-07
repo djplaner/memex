@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Convivality
-  url: /sense/Affordances/conviviality.html
 tags:
 - sense
 - conviviality

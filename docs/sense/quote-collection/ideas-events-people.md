@@ -1,9 +1,4 @@
 ﻿---
-backlinks:
-- title: Colophon
-  url: /colophon/colophon.html
-- title: Quotes
-  url: /sense/quote-collection/quotes.html
 tags: quotes, pkm
 title: Great Minds Discuss Ideas; Average Minds Discuss Events; Small Minds Discuss
   People

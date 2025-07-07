@@ -1,11 +1,4 @@
 ﻿---
-backlinks:
-- title: Add a mathematics template
-  url: /colophon/add-a-mathematics-template.html
-- title: Mathematical Content Knowledge
-  url: /sense/Teaching/Mathematics/mathCK/mathematical-content-knowledge.html
-- title: Year 10 Surds warmup
-  url: /sense/Teaching/Mathematics/math-lessons-resources/y10-surds-warmup.html
 tags: teaching, mathematics, surd
 template: math.html
 title: Surds - mathematical content knowledge

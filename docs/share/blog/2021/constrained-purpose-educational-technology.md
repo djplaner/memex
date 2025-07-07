@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Blog posts
-  url: /share/blog/blog-posts.html
 title: Problems with the constrained purpose of educational technologies and their
   orchestration
 ---

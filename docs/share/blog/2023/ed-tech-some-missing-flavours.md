@@ -1,9 +1,4 @@
 ﻿---
-backlinks:
-- title: Blog posts
-  url: /share/blog/blog-posts.html
-- title: Today's note
-  url: /seek/journal/todays-note.html
 title: Ed tech - some missing flavours
 ---
 ## Introduction

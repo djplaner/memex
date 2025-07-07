@@ -1,9 +1,4 @@
 ﻿---
-backlinks:
-- title: Sense
-  url: /sense/sense.html
-- title: Computing
-  url: /sense/computing/computing.html
 tags:
 - computing
 - floss

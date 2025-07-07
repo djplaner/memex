@@ -1,15 +1,4 @@
 ﻿---
-backlinks:
-- title: Some Assemblage Required
-  url: /colophon/some-assemblage-required.html
-- title: A new day
-  url: /share/blog/2025/a-new-day.html
-- title: Nature of Digital Technology (nodt)
-  url: /sense/nodt/nodt.html
-- title: Distribution
-  url: /sense/Distribution/distribution.html
-- title: Today's note
-  url: /seek/journal/todays-note.html
 tags:
 - distribution
 - assemblage

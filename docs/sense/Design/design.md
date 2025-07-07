@@ -1,9 +1,4 @@
 ﻿---
-backlinks:
-- title: Sense
-  url: /sense/sense.html
-- title: Forward-oriented design
-  url: /sense/concepts/forward-oriented-design.html
 title: Design
 ---
 Bubble holding misc. thoughts about design.

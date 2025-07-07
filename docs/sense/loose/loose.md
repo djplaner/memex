@@ -1,11 +1,4 @@
 ﻿---
-backlinks:
-- title: Sense
-  url: /sense/sense.html
-- title: Random Notes
-  url: /seek/journal/random-notes.html
-- title: Today's note
-  url: /seek/journal/todays-note.html
 title: Loose notes
 ---
 Things just floating around unconnected to the broader hierarchy

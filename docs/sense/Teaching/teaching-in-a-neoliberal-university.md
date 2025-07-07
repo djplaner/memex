@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: 'Teaching '
-  url: /sense/Teaching/teaching.html
 title: Teaching in a neo-liberal university
 ---
 ## Overview 

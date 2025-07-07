@@ -1,9 +1,4 @@
 ﻿---
-backlinks:
-- title: Roundabout
-  url: /sense/landscape-garden/roundabout.html
-- title: Plants
-  url: /sense/landscape-garden/plants/plants.html
 tags:
 - wood-duck-meadows
 - plant

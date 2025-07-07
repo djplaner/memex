@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Share
-  url: /share/share.html
 tags:
 - technological change
 - postman

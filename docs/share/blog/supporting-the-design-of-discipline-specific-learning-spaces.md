@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Blog posts
-  url: /share/blog/blog-posts.html
 title: Supporting the design of discipline-specific digital learning activities
 ---
 ```toml

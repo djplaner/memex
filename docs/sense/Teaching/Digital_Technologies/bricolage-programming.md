@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Creative Coding
-  url: /sense/Teaching/Digital_Technologies/creative-coding.html
 tags: digital-technology, programming
 title: Bricolage programming
 type: note

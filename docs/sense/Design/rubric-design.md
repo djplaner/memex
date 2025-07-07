@@ -1,9 +1,4 @@
 ﻿---
-backlinks:
-- title: Design
-  url: /sense/Design/design.html
-- title: Understanding
-  url: /sense/Learning/understanding.html
 title: Rubric Design
 ---
 ## Designing an assessment rubric

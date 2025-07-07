@@ -1,9 +1,4 @@
 ﻿---
-backlinks:
-- title: Fig tree berm
-  url: /sense/landscape-garden/fig-tree-berm.html
-- title: Plants
-  url: /sense/landscape-garden/plants/plants.html
 tags:
 - wood-duck-meadows
 - plant

@@ -1,9 +1,4 @@
 ﻿---
-backlinks:
-- title: Alternate conceptions of the web
-  url: /sense/computing/alternate-conceptions-of-the-web.html
-- title: Computing
-  url: /sense/computing/computing.html
 tags: small-web, web-development,
 title: Small Web
 type: note

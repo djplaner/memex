@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Behaviour management
-  url: /sense/Teaching/behaviour-management.html
 title: Bill Rogers' - on the spot strategies
 ---
 Rogers (2005), p. 95

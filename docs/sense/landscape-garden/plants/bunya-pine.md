@@ -1,13 +1,4 @@
 ﻿---
-backlinks:
-- title: Bush regeneration (Wood duck meadows)
-  url: /sense/landscape-garden/regeneration.html
-- title: The Island
-  url: /sense/landscape-garden/the-island.html
-- title: Mango paddock
-  url: /sense/landscape-garden/mango-paddock.html
-- title: Plants
-  url: /sense/landscape-garden/plants/plants.html
 tags:
 - wood-duck-meadows
 - plant

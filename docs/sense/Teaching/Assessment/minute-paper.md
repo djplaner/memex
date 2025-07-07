@@ -1,9 +1,4 @@
 ﻿---
-backlinks:
-- title: Mathematical mindsets
-  url: /sense/Teaching/Mathematics/mathematical-mindsets.html
-- title: Assessment
-  url: /sense/Teaching/Assessment/assessment.html
 tags:
 - teaching
 - assessment

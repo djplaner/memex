@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Know thy student
-  url: /sense/CASA/know-thy-student.html
 title: Intellectually honest versions of it
 ---
 From a comment on [this post](https://computinged.wordpress.com/2019/01/21/standards-are-limiting-and-long-lasting-alan-kay-was-right/) Alan Kay shares a quote from Jerome Bruner that he is "a bit enthusiast about"

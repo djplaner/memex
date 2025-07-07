@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Society
-  url: /sense/Society/society.html
 title: Living in an era of technological change?
 ---
 # Living in an era of technological change?

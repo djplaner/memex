@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Teaching Digital Technologies
-  url: /sense/Teaching/Digital_Technologies/teaching-digital-technologies.html
 tags: digitalTechnology, technology, brainPlasticity
 title: Technology Changes us
 type: note

@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: CSER Maths in Schools - Content in Action
-  url: /sense/Teaching/Mathematics/cser-mooc/cser-content-in-action.html
 tags: cser, cser-maths-in-schools, cser-getting-started, teaching-mathematics
 title: CSER Statistics - Content in Action
 type: note

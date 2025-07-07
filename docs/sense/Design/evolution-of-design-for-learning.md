@@ -1,15 +1,4 @@
 ﻿---
-backlinks:
-- title: Design for learning
-  url: /sense/Design/design-for-learning.html
-- title: Design
-  url: /sense/Design/design.html
-- title: Teaching as gathering, weaving, and augmenting
-  url: /sense/Teaching/teaching-as-gather-weave-augment.html
-- title: Effective teaching
-  url: /sense/Teaching/RTT/rtt-effective-teaching.html
-- title: My approach to teaching mathematics
-  url: /sense/Teaching/Mathematics/my-approach-to-teaching-mathematics.html
 title: Evolution of design for learning
 ---
 Carvahlo et al (2023) provide the following timeline of the evolution of "stuff" leading to design for learning.

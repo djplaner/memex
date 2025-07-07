@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Mathematical Topics
-  url: /sense/Teaching/Mathematics/mathematical-topics.html
 template: math.html
 title: Fibonacci sequence
 ---

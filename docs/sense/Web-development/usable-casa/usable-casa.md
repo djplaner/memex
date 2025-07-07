@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Web development
-  url: /sense/Web-development/web-development.html
 title: Usable CASA
 ---
 ## See also

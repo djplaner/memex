@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Computing
-  url: /sense/computing/computing.html
 tags:
 - learning
 - computer-science

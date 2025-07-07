@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: 'Teaching '
-  url: /sense/Teaching/teaching.html
 tags: teaching, digitalLearning
 title: Digital learning tools
 type: note

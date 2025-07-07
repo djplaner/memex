@@ -1,9 +1,4 @@
 ﻿---
-backlinks:
-- title: Nature of Digital Technology (nodt)
-  url: /sense/nodt/nodt.html
-- title: Concepts
-  url: /sense/concepts/concepts.html
 title: Technology
 ---
 ## Quotes about technology

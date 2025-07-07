@@ -1,11 +1,4 @@
 ﻿---
-backlinks:
-- title: Some Assemblage Required
-  url: /colophon/some-assemblage-required.html
-- title: Computing
-  url: /sense/computing/computing.html
-- title: Digital Weaver
-  url: /sense/computing/digital-weaver.html
 tags:
 - digital-renovator
 - bad

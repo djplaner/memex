@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Bricolage
-  url: /sense/Bricolage/bricolage.html
 title: Action learning and bricolage
 ---
 Layton and Brown (2011) talk about an action learning process based on bricolage and cite Turkle and Papert (1991)....may good things to follow up there.

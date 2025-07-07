@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Bricolage
-  url: /sense/Bricolage/bricolage.html
 title: Examples of DIY Software Development
 ---
 ## Commerical, platforms etc 

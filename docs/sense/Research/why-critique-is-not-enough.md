@@ -1,9 +1,4 @@
 ﻿---
-backlinks:
-- title: Research
-  url: /sense/Research/research.html
-- title: Ethical and Critical considerations
-  url: /sense/ethics-critical/ethics-critical.html
 title: Why critique is not enough
 ---
 > I enjoyed that talk much more than I really wanted to. The point that I keep grappling with is that if you've got the luxury of working for a living where what you have to produce can be critique then there is not so much of a problem with this. 

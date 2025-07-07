@@ -1,9 +1,4 @@
 ﻿---
-backlinks:
-- title: Building a thinking classroom
-  url: /sense/Teaching/Mathematics/building-a-thinking-classroom.html
-- title: Complex instruction
-  url: /sense/Teaching/Mathematics/complex-instruction.html
 tags: teaching, complex-instruction
 title: Visibly random groups
 type: note

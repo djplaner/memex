@@ -1,13 +1,4 @@
 ﻿---
-backlinks:
-- title: Creative coding experiments
-  url: /sense/Python/creative-coding-with-python.html
-- title: Computing
-  url: /sense/computing/computing.html
-- title: Teaching Digital Technologies
-  url: /sense/Teaching/Digital_Technologies/teaching-digital-technologies.html
-- title: My approach to teaching digital technologies
-  url: /sense/Teaching/Mathematics/my-approach-to-teaching-digital-technologies.html
 tags: digital,art, creative-coding
 title: Creative Coding
 type: note

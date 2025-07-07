@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Design
-  url: /sense/Design/design.html
 title: Representing learning designs
 ---
 ## Example tools 

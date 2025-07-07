@@ -1,9 +1,4 @@
 ﻿---
-backlinks:
-- title: Design
-  url: /sense/Design/design.html
-- title: Canvas resources
-  url: /sense/Design/canvas/canvas-resources.html
 title: Canvas models
 ---
 Attempt to distill the models that underpin Canvas

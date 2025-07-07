@@ -1,9 +1,4 @@
 ﻿---
-backlinks:
-- title: Computing
-  url: /sense/computing/computing.html
-- title: Computational thinking
-  url: /sense/computing/computational-thinking.html
 title: 'Decomposition '
 ---
 ## Problems/challenges 

@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: ER modelling and SQL
-  url: /sense/computing/learning-cs/er-modelling.html
 tags:
 - normal-forms
 - database-design

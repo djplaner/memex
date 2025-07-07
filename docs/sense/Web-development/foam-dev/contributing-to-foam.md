@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Explorations in Foam development
-  url: /sense/Web-development/foam-dev/foam-dev.html
 tags:
 - foam
 - colophon

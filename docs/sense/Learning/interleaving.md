@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Effective learning strategies
-  url: /sense/Learning/effective-learning-strategies.html
 title: Interleaving
 ---
 Like [[spaced-practice]], interleaving is a scheduling technique shown to increase learning. The distinction between interleaving and [[spaced-practice]] can be blurry.

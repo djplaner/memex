@@ -1,9 +1,4 @@
 ﻿---
-backlinks:
-- title: Starter activities for mathematics
-  url: /sense/Teaching/Mathematics/mathematics-starters.html
-- title: 'Mathematics: lessons and resources'
-  url: /sense/Teaching/Mathematics/math-lessons-resources/math-lessons-resources.html
 tags: teaching, mathematics, 2023
 template: math.html
 title: Year 10 Surds warmup

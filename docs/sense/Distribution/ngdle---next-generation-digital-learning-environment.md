@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Distribution
-  url: /sense/Distribution/distribution.html
 title: NGDLE - Next Generation Digital Learning Environment
 ---
 [EDUCAUSE define the NGDLE](https://www.educause.edu/ecar/research-publications/foundations-for-a-next-generation-digital-learning-environment-faculty-students-and-the-lms/ngdle-the-wave-of-the-future) as

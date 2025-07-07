@@ -1,9 +1,4 @@
 ﻿---
-backlinks:
-- title: Design
-  url: /sense/Design/design.html
-- title: Learning
-  url: /sense/Learning/learning.html
 title: Shaping Spaces - Peter Goodyear ALTC 2017 Keynote
 ---
 Related resources

@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Mathematical misconceptions and difficulties
-  url: /sense/Teaching/Mathematics/math-misconceptions/mathematical-misconceptions.html
 title: Trickiest Multiplications
 ---
 Heatmap showing the trickiest multiplications for students to learn. 

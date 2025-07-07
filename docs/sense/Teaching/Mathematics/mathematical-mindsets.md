@@ -1,19 +1,4 @@
 ﻿---
-backlinks:
-- title: Effective learning
-  url: /sense/Teaching/RTT/rtt-effective-learning.html
-- title: My approach to teaching mathematics
-  url: /sense/Teaching/Mathematics/my-approach-to-teaching-mathematics.html
-- title: Class Expectations
-  url: /sense/Teaching/Mathematics/class-expectations.html
-- title: Complex instruction
-  url: /sense/Teaching/Mathematics/complex-instruction.html
-- title: Mathematical Mindset
-  url: /sense/Teaching/Mathematics/mathematical-mindset.html
-- title: CSER Maths in Schools - Practices and pedagogies
-  url: /sense/Teaching/Mathematics/cser-mooc/cser-practices-and-pedagogies.html
-- title: CSER MiS - Getting started module
-  url: /sense/Teaching/Mathematics/cser-mooc/cser-getting-started.html
 title: Mathematical mindsets
 ---
 Resources: [YouTube video](https://www.youtube.com/watch?v=bxrPy1fjVU4&t=472s) - associated with YouCubed - Boaler and students

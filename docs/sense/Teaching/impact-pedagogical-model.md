@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: 'Teaching '
-  url: /sense/Teaching/teaching.html
 title: Impact pedagogical model
 ---
 Queensland (GU) based model - as a form of [golden circle]

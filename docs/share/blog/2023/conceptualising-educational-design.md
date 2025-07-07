@@ -1,11 +1,4 @@
 ﻿---
-backlinks:
-- title: Blog posts
-  url: /share/blog/blog-posts.html
-- title: Design
-  url: /sense/Design/design.html
-- title: Teaching as gathering, weaving, and augmenting
-  url: /sense/Teaching/teaching-as-gather-weave-augment.html
 title: Conceptualising education design practice - where do we fit?
 ---
 ## Chat with Emma 

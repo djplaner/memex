@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Technology Changes us
-  url: /sense/Teaching/Digital_Technologies/technology-changes-us.html
 tags: design, technology
 title: Design for the margins
 type: note

@@ -1,11 +1,4 @@
 ﻿---
-backlinks:
-- title: Welcome
-  url: /index.html
-- title: As We May Think
-  url: /sense/computing/as-we-may-think.html
-- title: Explorations in Foam development
-  url: /sense/Web-development/foam-dev/foam-dev.html
 tags: colophon, about
 title: Colophon
 type: note

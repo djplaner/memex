@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Computing
-  url: /sense/computing/computing.html
 title: Alternate forms of computing
 ---
 - [DNA-based computer able to run 100 billion different programs](https://www.newscientist.com/article/2391747-dna-based-computer-can-run-100-billion-different-programs/)

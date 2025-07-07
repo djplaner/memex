@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Gather and weave
-  url: /sense/CASA/gather-weave.html
 title: Data Transfer Project (Initiative)
 ---
 The [Data Transfer Project](https://dtinit.org/documentation) has three components  (sadly Java)

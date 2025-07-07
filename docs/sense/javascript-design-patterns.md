@@ -1,9 +1,4 @@
 ﻿---
-backlinks:
-- title: Moving the Card Interface to the Second Age of Javascript
-  url: /sense/moving-card-interface-to-second-age.html
-- title: Web development
-  url: /sense/Web-development/web-development.html
 title: javascript-design-patterns
 ---
 ## Resources

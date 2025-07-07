@@ -1,9 +1,4 @@
 ﻿---
-backlinks:
-- title: 'Teaching '
-  url: /sense/Teaching/teaching.html
-- title: My Teaching Philosophy
-  url: /sense/Teaching/my-teaching-philosophy.html
 tags: teaching, pedagogy, technology
 title: Teaching as gathering, weaving, and augmenting
 type: note

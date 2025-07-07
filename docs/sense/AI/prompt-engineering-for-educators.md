@@ -1,13 +1,4 @@
 ﻿---
-backlinks:
-- title: Implementing number scrabble
-  url: /sense/Representations/implementing-number-scrabble.html
-- title: Prompt engineering
-  url: /sense/AI/prompt-engineering.html
-- title: AI
-  url: /sense/AI/AI.html
-- title: First experiments with LLM APIs
-  url: /sense/AI/explorations/first-llm-api-experiments.html
 title: prompt-engineering-for-educators
 ---
 ## Designing effective AI Prompts (for Primary and High School Teachers)

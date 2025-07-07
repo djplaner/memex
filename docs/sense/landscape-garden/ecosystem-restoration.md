@@ -1,9 +1,4 @@
 ﻿---
-backlinks:
-- title: Seek
-  url: /seek/seek.html
-- title: Bush regeneration (Wood duck meadows)
-  url: /sense/landscape-garden/regeneration.html
 tags: landscape, regeneration, ecosystem
 title: Ecosystem restoration (aka bush regneration)
 type: note

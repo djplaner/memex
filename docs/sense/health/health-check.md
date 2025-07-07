@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Sense
-  url: /sense/sense.html
 tags: health, personal
 title: Health check
 type: note

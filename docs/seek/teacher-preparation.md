@@ -1,9 +1,4 @@
 ﻿---
-backlinks:
-- title: Seek
-  url: /seek/seek.html
-- title: Leveraging digital technologies
-  url: /seek/leveraging-digital-technologies.html
 tags:
 - seek
 - teaching

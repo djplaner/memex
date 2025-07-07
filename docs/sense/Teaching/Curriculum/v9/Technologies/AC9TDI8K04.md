@@ -1,9 +1,4 @@
 ﻿---
-backlinks:
-- title: Crackers
-  url: /sense/Teaching/Mathematics/crackers.html
-- title: Learning Areas
-  url: /sense/Teaching/Curriculum/v9/v9-learning-areas.html
 tags: australian-curriculum
 title: AC9TDI8K04
 type: note

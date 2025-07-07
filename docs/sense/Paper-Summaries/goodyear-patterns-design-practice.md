@@ -1,13 +1,4 @@
 ﻿---
-backlinks:
-- title: Automating instructional design
-  url: /sense/Design/automating-instructional-design.html
-- title: Paper Summaries
-  url: /sense/Paper-Summaries/paper-summaries.html
-- title: 'Teaching '
-  url: /sense/Teaching/teaching.html
-- title: Forward-oriented design
-  url: /sense/concepts/forward-oriented-design.html
 title: Patterns, pattern languages and design practice
 ---
 Goodyear, P. (2005). Educational design and networked learning: Patterns, pattern languages and design practice. *Australasian Journal of Educational Technology*, *21*(1). <https://doi.org/10.14742/ajet.1344>

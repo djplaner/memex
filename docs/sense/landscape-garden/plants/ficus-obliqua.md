@@ -1,11 +1,4 @@
 ﻿---
-backlinks:
-- title: Wood duck meadows
-  url: /sense/landscape-garden/wood-duck-meadows.html
-- title: Plants
-  url: /sense/landscape-garden/plants/plants.html
-- title: Ficus obliqua (Small-leaved fig)
-  url: /sense/landscape-garden/individual-plants/ficus-obliqua-berm.html
 tags:
 - plant
 - tree

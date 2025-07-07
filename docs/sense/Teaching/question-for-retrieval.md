@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: 'Teaching '
-  url: /sense/Teaching/teaching.html
 title: Questioning for retrieval
 ---
 ## Questioning for retrieval: five mistakes to avoid

@@ -32,6 +32,8 @@ Main task for the day was dropping Barry, Jenny and Jonathon off at Auckland air
 
 After almost 5 hours in the car and still feeling crook the rest of the day was spent reading [_Character Limit_](https://www.theguardian.com/books/2024/sep/18/character-limit-by-kate-conger-and-ryan-mac-review-musks-twitter-takeover) and trawling social media and the news. It was during the latter that I learned of the passing of Steve Munster. A good guy and great cricketer (esp. indoor) who I used to play cricket within the 90s. Commiserations to his family.
 
-The rest of the evening to be spent figuring out what I can do tomorrow to get out and about a bit more.
+The rest of the evening to be spent figuring out what I can do tomorrow to get out and about a bit more, some options:
+
+- Mangapohue Natural Bridge Walk
 
 

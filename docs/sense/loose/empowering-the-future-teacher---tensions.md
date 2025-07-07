@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Loose notes
-  url: /sense/loose/loose.html
 title: Empowering the future teacher - tensions
 ---
 Highlights some of the key tensions.

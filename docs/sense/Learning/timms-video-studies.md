@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Productive Failure
-  url: /sense/Teaching/Mathematics/productive-failure.html
 tags: teaching-mathematics
 title: TIMMS Video Studies
 type: note

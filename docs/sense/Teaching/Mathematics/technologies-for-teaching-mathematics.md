@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Teaching Mathematics
-  url: /sense/Teaching/Mathematics/teaching-mathematics.html
 tags: teaching,teachingMathematics
 title: Technologies for teaching mathematics
 type: note

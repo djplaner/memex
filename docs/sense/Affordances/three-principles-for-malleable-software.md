@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Affordances of digital technology
-  url: /sense/Affordances/affordances-of-digital-technology.html
 tags: software
 title: Three principles for malleable software
 type: note

@@ -1,19 +1,4 @@
 ﻿---
-backlinks:
-- title: Exploring australian curriculum
-  url: /sense/Python/exploring-australian-curriculum.html
-- title: 'Teaching '
-  url: /sense/Teaching/teaching.html
-- title: Curriculum
-  url: /sense/Teaching/RTT/rtt-curriculum-and-assessment.html
-- title: other-oz-curriculum-code-projects
-  url: /sense/Teaching/Curriculum/other-oz-curriculum-code-projects.html
-- title: Designing Curriculum Learning Design Tools
-  url: /sense/Teaching/Curriculum/designing-curriculum-learning-design-tools.html
-- title: CSER Maths in Schools - Practices and pedagogies
-  url: /sense/Teaching/Mathematics/cser-mooc/cser-practices-and-pedagogies.html
-- title: CSER MiS - Getting started module
-  url: /sense/Teaching/Mathematics/cser-mooc/cser-getting-started.html
 title: Australian Curriculum
 ---
 For much of my teaching I'll be using [version 9 of the Australian Curriculum](https://v9.australiancurriculum.edu.au/) which I've added here under [[v9-learning-areas]]

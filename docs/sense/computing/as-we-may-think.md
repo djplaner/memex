@@ -1,9 +1,4 @@
 ﻿---
-backlinks:
-- title: Colophon
-  url: /colophon/colophon.html
-- title: Alternate conceptions of the web
-  url: /sense/computing/alternate-conceptions-of-the-web.html
 tags:
 - colophon
 - memex

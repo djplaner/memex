@@ -1,21 +1,4 @@
 ﻿---
-backlinks:
-- title: Affordances of digital technology
-  url: /sense/Affordances/affordances-of-digital-technology.html
-- title: Automating instructional design
-  url: /sense/Design/automating-instructional-design.html
-- title: Overcoming algorithm aversion (by making it protean)
-  url: /sense/nodt/overcoming-algorithm-aversion-(by-making-it-protean).html
-- title: Nature of Digital Technology (nodt)
-  url: /sense/nodt/nodt.html
-- title: Three obstacles to getting started with programming
-  url: /sense/nodt/three-obstacles-to-getting-started-with-programming.html
-- title: Enabling computational bricolage
-  url: /sense/Bricolage/enabling-computational-bricolage.html
-- title: End-user programming
-  url: /sense/Bricolage/end-user-programming.html
-- title: Concepts
-  url: /sense/concepts/concepts.html
 tags: computing, digital-technology, nodt, generativity, papert
 title: Protean
 type: note

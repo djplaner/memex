@@ -1,9 +1,4 @@
 ﻿---
-backlinks:
-- title: Welcome
-  url: /index.html
-- title: Recent changes
-  url: /colophon/recent-changes.html
 tags:
 - colophon
 - computational-component

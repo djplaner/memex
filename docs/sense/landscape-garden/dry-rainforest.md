@@ -1,9 +1,4 @@
 ﻿---
-backlinks:
-- title: The Island
-  url: /sense/landscape-garden/the-island.html
-- title: Gatton creek frontage
-  url: /sense/landscape-garden/gatton-creek-frontage.html
 tags: sense, landscape, garden
 title: Dry Rainforest
 type: note

@@ -1,9 +1,4 @@
 ﻿---
-backlinks:
-- title: Learning
-  url: /sense/Learning/learning.html
-- title: Leet speak reading
-  url: /sense/Teaching/Mathematics/leet-speak-reading.html
 tags: learning, plasticity, brain-plasticity
 title: Brain Plasticity
 type: note

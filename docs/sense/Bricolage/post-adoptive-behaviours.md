@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Bricolage
-  url: /sense/Bricolage/bricolage.html
 title: Post adoptive behaviours
 ---
 Jasperson et al (2005)

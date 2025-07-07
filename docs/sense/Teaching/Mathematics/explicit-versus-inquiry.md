@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: My Teaching Philosophy
-  url: /sense/Teaching/my-teaching-philosophy.html
 title: Explicit versus inquiry
 ---
 When applied to learning mathematics - Boaler & Selling (2017) - describe the two approaches as _active engagement_ (inquiry) and _passive engagement_ (explicit) in mathematics.

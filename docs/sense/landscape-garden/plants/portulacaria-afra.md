@@ -1,9 +1,4 @@
 ﻿---
-backlinks:
-- title: Portulacaria afra (Elephant bush)
-  url: /sense/landscape-garden/plants/portulacaria-afra.html
-- title: Plants
-  url: /sense/landscape-garden/plants/plants.html
 photos:
   1:
     date: 2025-04-05 11:40:38

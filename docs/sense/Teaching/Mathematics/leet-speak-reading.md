@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Growth Mindset
-  url: /sense/Teaching/Mathematics/growth-mindset.html
 tags: teaching, mathematics, growth-mindset, brain-plasticity
 title: Leet speak reading
 type: note

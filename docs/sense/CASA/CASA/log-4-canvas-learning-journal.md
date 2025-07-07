@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Canvas Learning Journal
-  url: /sense/CASA/CASA/canvas-learning-journal.html
 tags:
 - canvas-learning-journal
 - casa

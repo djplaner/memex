@@ -1,9 +1,4 @@
 ﻿---
-backlinks:
-- title: Overcoming one size fits all learning
-  url: /sense/Learning/overcoming-one-size-fits-all-learning.html
-- title: Nature of Digital Technology (nodt)
-  url: /sense/nodt/nodt.html
 title: Digital technologies and impact of bad/absent schema
 ---
 Ben-Ari and Yeshno (2006) found that people with appropriate conceptual models of digital technologies were better able to analyse and solve problems. While learners without appropriate conceptual models were limited to aimless trial and error.

@@ -1,15 +1,4 @@
 ﻿---
-backlinks:
-- title: Teacher preparation
-  url: /seek/teacher-preparation.html
-- title: Exploring australian curriculum
-  url: /sense/Python/exploring-australian-curriculum.html
-- title: Creative coding experiments
-  url: /sense/Python/creative-coding-with-python.html
-- title: 'Teaching '
-  url: /sense/Teaching/teaching.html
-- title: Crackers
-  url: /sense/Teaching/Mathematics/crackers.html
 title: Teaching Digital Technologies
 ---
 <div class="grid cards" markdown>

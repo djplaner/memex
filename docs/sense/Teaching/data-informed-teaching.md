@@ -1,11 +1,4 @@
 ﻿---
-backlinks:
-- title: PIRAC
-  url: /sense/Teaching/pirac.html
-- title: 'Teaching '
-  url: /sense/Teaching/teaching.html
-- title: My approach to teaching mathematics
-  url: /sense/Teaching/Mathematics/my-approach-to-teaching-mathematics.html
 tags: teaching
 title: Data informed teaching
 type: note

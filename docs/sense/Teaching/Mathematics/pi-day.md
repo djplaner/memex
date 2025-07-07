@@ -1,9 +1,4 @@
 ﻿---
-backlinks:
-- title: CSER Math Connections with Community
-  url: /sense/Teaching/Mathematics/cser-connections-with-community.html
-- title: Teaching Mathematics
-  url: /sense/Teaching/Mathematics/teaching-mathematics.html
 tags: teaching-mathematics, mathematics
 title: PI Day (International day of mathematics)
 type: note

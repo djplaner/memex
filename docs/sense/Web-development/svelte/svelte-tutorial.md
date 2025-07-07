@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Svelte
-  url: /sense/Web-development/svelte/svelte.html
 title: Svelte tutorial
 ---
 See [[svelte]]

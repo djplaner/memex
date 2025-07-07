@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Concepts
-  url: /sense/concepts/concepts.html
 title: Meta Occam
 ---
 ## Source 

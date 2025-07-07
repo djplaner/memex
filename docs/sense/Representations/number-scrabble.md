@@ -1,15 +1,4 @@
 ﻿---
-backlinks:
-- title: Representations
-  url: /sense/Representations/representations.html
-- title: Transparent representation
-  url: /sense/Representations/transparent-representation.html
-- title: Number Scrabble - web implementation
-  url: /sense/CASA/number-scrabble-web.html
-- title: 'MATH081C Unit 1, Lesson 1: 2024'
-  url: /sense/Teaching/Implementation/2024/MAT081C/mat081c-2024-u1l1.html
-- title: CSER Maths in Schools - Practices and pedagogies
-  url: /sense/Teaching/Mathematics/cser-mooc/cser-practices-and-pedagogies.html
 tags:
 - representations
 - design

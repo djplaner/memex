@@ -1,9 +1,4 @@
 ﻿---
-backlinks:
-- title: Exploring australian curriculum
-  url: /sense/Python/exploring-australian-curriculum.html
-- title: 'Teaching '
-  url: /sense/Teaching/teaching.html
 title: Curriculum Ergonomics
 ---
 Choppin et al (2018) "conceptualize curriculum ergonomics as a field that studies the interactions between users and curriculum materials" 

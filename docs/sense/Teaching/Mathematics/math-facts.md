@@ -1,11 +1,4 @@
 ﻿---
-backlinks:
-- title: Number talks
-  url: /sense/Teaching/Mathematics/number-talks.html
-- title: Mathematical Mindset
-  url: /sense/Teaching/Mathematics/mathematical-mindset.html
-- title: Teaching Mathematics
-  url: /sense/Teaching/Mathematics/teaching-mathematics.html
 title: Math Facts
 ---
 e.g. 8 x 4 = 32 is a mathematical fact.

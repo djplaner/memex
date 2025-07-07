@@ -1,9 +1,4 @@
 ﻿---
-backlinks:
-- title: Exploring australian curriculum
-  url: /sense/Python/exploring-australian-curriculum.html
-- title: Teaching Mathematics
-  url: /sense/Teaching/Mathematics/teaching-mathematics.html
 title: ALIVE
 ---
 De Geest & Lee (2019) define ALIVE teaching as 

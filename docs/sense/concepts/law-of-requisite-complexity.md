@@ -1,9 +1,4 @@
 ﻿---
-backlinks:
-- title: Law of Requisite Variety
-  url: /sense/concepts/law-of-requisite-variety.html
-- title: Concepts
-  url: /sense/concepts/concepts.html
 title: Law of Requisite Complexity
 ---
 Related: [[law-of-requisite-variety]]

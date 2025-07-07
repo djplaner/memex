@@ -1,11 +1,4 @@
 ﻿---
-backlinks:
-- title: Templates and the scale problem
-  url: /share/blog/2023/consistency-problem.html
-- title: Scale and learning, teaching & education
-  url: /sense/Design/scale.html
-- title: Design
-  url: /sense/Design/design.html
 title: Consistency vs quality?
 ---
 # Consistency vs quality?

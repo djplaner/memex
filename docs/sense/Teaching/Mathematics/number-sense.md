@@ -1,9 +1,4 @@
 ﻿---
-backlinks:
-- title: Number talks
-  url: /sense/Teaching/Mathematics/number-talks.html
-- title: Mathematical Mindset
-  url: /sense/Teaching/Mathematics/mathematical-mindset.html
 title: Number sense
 ---
 Boaler (2015)

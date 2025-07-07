@@ -1,9 +1,4 @@
 ﻿---
-backlinks:
-- title: Design
-  url: /sense/Design/design.html
-- title: Joyce Learning Design Systems
-  url: /sense/Design/joyce-learning-design-systems.html
 title: The Law of Conservation of Complexity
 ---
 A draft blog post - [[digital-education-conservation-complexity]] - expands further on the following.

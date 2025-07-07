@@ -1,21 +1,4 @@
 ﻿---
-backlinks:
-- title: Some Assemblage Required
-  url: /colophon/some-assemblage-required.html
-- title: Colophon
-  url: /colophon/colophon.html
-- title: Technology
-  url: /sense/nodt/technology.html
-- title: Nature of Digital Technology (nodt)
-  url: /sense/nodt/nodt.html
-- title: As We May Think
-  url: /sense/computing/as-we-may-think.html
-- title: Digital Weaver
-  url: /sense/computing/digital-weaver.html
-- title: Digital Humanism
-  url: /sense/computing/digital-humanism.html
-- title: Big ideas in mathematics
-  url: /sense/Teaching/Mathematics/big-ideas-in-mathematics.html
 title: Dron's take on technology
 ---
 What is educational technology?

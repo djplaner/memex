@@ -1,9 +1,4 @@
 ﻿---
-backlinks:
-- title: Bush regeneration (Wood duck meadows)
-  url: /sense/landscape-garden/regeneration.html
-- title: Permaculture
-  url: /sense/landscape-garden/permaculture.html
 tags: sense, landscape, regeneration, permaculture
 title: Permaculture Principles
 type: note

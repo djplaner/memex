@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Meddler in the middle
-  url: /sense/Conferences/ascilite2022/meddler-in-the-middle.html
 title: Meddler in the middle - the missing last mile?
 ---
 # Meddler in the middle - the missing last mile?

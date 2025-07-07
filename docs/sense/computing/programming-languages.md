@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Computing
-  url: /sense/computing/computing.html
 title: Programming Languages
 ---
 ## Popularity of programming languages

@@ -1,9 +1,4 @@
 ﻿---
-backlinks:
-- title: Effective learning strategies
-  url: /sense/Learning/effective-learning-strategies.html
-- title: Interleaving
-  url: /sense/Learning/interleaving.html
 title: Spaced practice (aka Distributed Practice)
 ---
 ## Definition

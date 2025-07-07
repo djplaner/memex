@@ -1,9 +1,4 @@
 ﻿---
-backlinks:
-- title: Computing
-  url: /sense/computing/computing.html
-- title: Unpicking the Digital Technologies Hub
-  url: /sense/Teaching/Digital_Technologies/unpicking-digital-technologies-hub.html
 title: Integrated Computing
 ---
 Idea - apparently from K-12 education in the US - to teach computer science topics - progrmaming and computer literacy (rather narrow?) - within (integrated into) traditional subjects.

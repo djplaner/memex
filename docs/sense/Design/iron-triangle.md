@@ -1,19 +1,4 @@
 ﻿---
-backlinks:
-- title: Stretching education's iron triangle
-  url: /seek/stretching-educations-iron-triangle.html
-- title: Seek
-  url: /seek/seek.html
-- title: Consistency vs quality?
-  url: /sense/Design/consistency-quality.html
-- title: Links between Iron Triangle and the Reusability Paradox
-  url: /sense/Design/iron-triangle-reusability-paradox.html
-- title: Design
-  url: /sense/Design/design.html
-- title: The relationships between BAD/SET, CASA, and Gather/Weave
-  url: /sense/CASA/bad_set-casa-gather-weave.html
-- title: Breaking the iron triangle
-  url: /sense/Paper-Ideas/explorations-breaking-iron-triangle.html
 title: Iron Triangle
 ---
 There are two orgins for the iron triangle concept. The broader orgin is project management - scope, cost, and speed. The narrower, more specific is that proposed by Daniels et al - access, quality, cost.  Or latterly accessibility, quality, efficiency which gets at "widening access to higher education for the same or lower cost without compromising outcomes" (Lane, 2014, p. 2)

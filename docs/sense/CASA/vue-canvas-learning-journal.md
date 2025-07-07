@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: CASA Gallery
-  url: /sense/CASA/casa-gallery.html
 tags: web-development, javascript, vue, canvas, casa
 title: Canvas Learning Journal - Vue implementation
 type: note

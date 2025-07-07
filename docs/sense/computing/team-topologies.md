@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Computing
-  url: /sense/computing/computing.html
 title: Team Topologies
 ---
 References: [Atlassian on Team Topologies](https://www.atlassian.com/devops/frameworks/team-topologies)

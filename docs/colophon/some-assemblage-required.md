@@ -1,9 +1,4 @@
 ﻿---
-backlinks:
-- title: Colophon
-  url: /colophon/colophon.html
-- title: Today's note
-  url: /seek/journal/todays-note.html
 tags:
 - colophon
 - bad

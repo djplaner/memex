@@ -1,31 +1,4 @@
 ﻿---
-backlinks:
-- title: Spaced practice (aka Distributed Practice)
-  url: /sense/Learning/spaced-practice.html
-- title: Rich mathematical tasks
-  url: /sense/Teaching/Mathematics/rich-mathematical-tasks.html
-- title: Across the grain
-  url: /sense/Teaching/Mathematics/across-the-grain.html
-- title: Explicit versus inquiry
-  url: /sense/Teaching/Mathematics/explicit-versus-inquiry.html
-- title: Checks for pedagogy
-  url: /sense/Teaching/Mathematics/checks-for-pedagogy.html
-- title: My approach to teaching mathematics
-  url: /sense/Teaching/Mathematics/my-approach-to-teaching-mathematics.html
-- title: Mathematical mindsets
-  url: /sense/Teaching/Mathematics/mathematical-mindsets.html
-- title: Technologies for teaching mathematics
-  url: /sense/Teaching/Mathematics/technologies-for-teaching-mathematics.html
-- title: ALIVE
-  url: /sense/Teaching/Mathematics/alive.html
-- title: Mathematical thinking tasks
-  url: /sense/Teaching/Mathematics/mathematical-thinking-tasks.html
-- title: TIRED
-  url: /sense/Teaching/Mathematics/tired.html
-- title: CSER Maths in Schools - Practices and pedagogies
-  url: /sense/Teaching/Mathematics/cser-mooc/cser-practices-and-pedagogies.html
-- title: CSER MiS - Getting started module
-  url: /sense/Teaching/Mathematics/cser-mooc/cser-getting-started.html
 tags: teaching, teaching-mathematics,
 title: Productive Failure
 type: note

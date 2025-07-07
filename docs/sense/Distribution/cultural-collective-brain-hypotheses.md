@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Diversity
-  url: /sense/Distribution/diversity.html
 title: Cultural and Collective Brain Hypotheses
 ---
 Henrich et al (2023)

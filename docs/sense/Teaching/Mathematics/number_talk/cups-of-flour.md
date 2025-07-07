@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Number talk examples
-  url: /sense/Teaching/Mathematics/number_talk/number-talk-examples.html
 tags: number-talk, mathematics, teaching, fractions
 title: Number talk - Cups of flour
 type: numberTalk

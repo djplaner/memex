@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Web development
-  url: /sense/Web-development/web-development.html
 tags: web-development, javascript, vue
 title: Learning Vue
 type: note

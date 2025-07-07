@@ -1,20 +1,4 @@
 ﻿---
-backlinks:
-- title: 'Orchestrating entangled relations to break the iron triangle: examples from
-    a LMS migration'
-  url: /share/blog/2022/orchestrating-entangled-relations.html
-- title: 'Consistency: Low floor and low ceiling'
-  url: /share/blog/2021/consistency-low-floor-low-ceiling.html
-- title: 'Exploring conceptions of technology: Implications for learning, teaching,
-    and meso-level practitioners'
-  url: /sense/Paper-Ideas/ascilite-2021-exploring-conceptions-of-technology.html
-- title: 'Exploring conceptions of technology: Implications for learning, teaching,
-    and meso-level practitioners'
-  url: /sense/Paper-Ideas/exploring-conceptions-of-technology.html
-- title: My approach to teaching digital technologies
-  url: /sense/Teaching/Mathematics/my-approach-to-teaching-digital-technologies.html
-- title: Mathematical problem solving
-  url: /sense/Teaching/Mathematics/mathematical-problem-solving.html
 title: Pedagogy before technology
 ---
 Numerous authors (Ascough, 2002; Leijen et al, 2008; Glover et al, 2016; Cowling & Birt, 2018; Sankey et al, 2020) suggest that thinking of the "pedagogy before the technology" is a good approach to designing learning and teaching experiences.

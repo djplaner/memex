@@ -1,9 +1,4 @@
 ﻿---
-backlinks:
-- title: Sense
-  url: /sense/sense.html
-- title: OER as a participatory activity
-  url: /sense/herding-cats/oer-as-a-participatory-activity.html
 title: Herding Cats
 ---
 Resources around how to encourage people (teachers) undergo change

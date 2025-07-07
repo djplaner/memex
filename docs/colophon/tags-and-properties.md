@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Colophon
-  url: /colophon/colophon.html
 tags: tags
 title: Tags and properties
 type: colophon

@@ -1,9 +1,4 @@
 ﻿---
-backlinks:
-- title: Unpicking technologies education
-  url: /sense/Teaching/Digital_Technologies/unpicking-technologies-education.html
-- title: Teaching Digital Technologies
-  url: /sense/Teaching/Digital_Technologies/teaching-digital-technologies.html
 tags: learning, teaching, teaching-digital-technologies
 title: Elemental learning design
 type: note

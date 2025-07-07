@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Sharing design knowledge
-  url: /sense/Sharing-design-knowledge/sharing-design-knowledge.html
 title: Expertise for content development
 ---
 Jegan & Eswaran (2004) suggest that

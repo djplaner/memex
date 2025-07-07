@@ -1,9 +1,4 @@
 ﻿---
-backlinks:
-- title: Sense
-  url: /sense/sense.html
-- title: Early LLMm value thoughts
-  url: /sense/AI/early-llm-value-thoughts.html
 title: AI
 ---
 [[early-llm-value-thoughts]]

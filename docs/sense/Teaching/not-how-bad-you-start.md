@@ -1,9 +1,4 @@
 ﻿---
-backlinks:
-- title: All models are wrong
-  url: /sense/Teaching/all-models-are-wrong.html
-- title: Returning to the profession
-  url: /sense/Teaching/RTT/returning-to-the-profession.html
 tags: teaching, philosophy
 title: It's not how bad you start, it's how quickly you get better
 type: note

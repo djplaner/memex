@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Computing
-  url: /sense/computing/computing.html
 title: Learning analytics should be human mediated
 ---
 Argument outlining need for analytics to be human mediated - part of a longer blog post and also part of a debate.

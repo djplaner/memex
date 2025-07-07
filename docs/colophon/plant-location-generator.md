@@ -1,9 +1,4 @@
 ﻿---
-backlinks:
-- title: Computational components
-  url: /colophon/computational-components.html
-- title: Memex - Version 3
-  url: /colophon/version-3-memex-design.html
 tags:
 - colophon
 - computational-components

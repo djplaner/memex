@@ -1,9 +1,4 @@
 ﻿---
-backlinks:
-- title: Teaching Mathematics
-  url: /sense/Teaching/Mathematics/teaching-mathematics.html
-- title: CSER MiS - Getting started module
-  url: /sense/Teaching/Mathematics/cser-mooc/cser-getting-started.html
 tags: teaching, teaching-mathematics
 title: Talk moves
 type: note

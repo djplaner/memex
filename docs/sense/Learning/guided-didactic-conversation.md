@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Learning
-  url: /sense/Learning/learning.html
 title: Guided Didactic Conversation aka teaching-learning conversations
 ---
 A model for understanding and designing Distance Education introduced in 1960 by [Börje Holmberg](https://en.wikipedia.org/wiki/B%C3%B6rje_Holmberg). Holmberg (1983) offers a detailed summary, including postulates, assumptions and hypotheses about the approach. Connected with conversation-theory. 

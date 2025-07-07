@@ -1,11 +1,4 @@
 ﻿---
-backlinks:
-- title: Timeline of changes
-  url: /timeline-of-changes.html
-- title: Colophon
-  url: /colophon/colophon.html
-- title: Computational components
-  url: /colophon/computational-components.html
 tags:
 - colophon
 - computational-component

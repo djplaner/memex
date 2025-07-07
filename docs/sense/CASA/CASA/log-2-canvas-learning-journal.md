@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Canvas Learning Journal
-  url: /sense/CASA/CASA/canvas-learning-journal.html
 title: Canvas learning journal - log 2
 ---
 Finalising requirements and design for a [[canvas-learning-journal]] CASA. A method to increase the efficiency and effectiveness of the single student group kludge for implementing a learning journal in Canvas.

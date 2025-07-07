@@ -1,9 +1,4 @@
 ﻿---
-backlinks:
-- title: Creative coding experiments
-  url: /sense/Python/creative-coding-with-python.html
-- title: Learning Areas
-  url: /sense/Teaching/Curriculum/v9/v9-learning-areas.html
 tags: australian-curriculum
 title: AC9TDI8P09
 type: note

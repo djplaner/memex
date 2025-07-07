@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Individual plants
-  url: /sense/landscape-garden/individual-plants/individual-plants.html
 latitude: -27.539595
 longitude: 152.05545
 photos:

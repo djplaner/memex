@@ -1,15 +1,4 @@
 ﻿---
-backlinks:
-- title: Seek
-  url: /seek/seek.html
-- title: Visualising and pruning my Memex
-  url: /share/blog/visualising-and-pruning-my-memex.html
-- title: Contextually Appropriate Scaffolding Assemblages (CASA)
-  url: /sense/CASA/casa.html
-- title: New System Will Solve Everything Disease
-  url: /sense/Bricolage/new-system-will-solve-everything-disease.html
-- title: Returning to the profession
-  url: /sense/Teaching/RTT/returning-to-the-profession.html
 tags:
 - SET
 - BAD

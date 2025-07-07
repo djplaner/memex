@@ -1,13 +1,4 @@
 ﻿---
-backlinks:
-- title: Python
-  url: /sense/Python/python.html
-- title: My creative coding projects
-  url: /sense/Teaching/Digital_Technologies/my-creative-coding-projects.html
-- title: AC9TDI8P09
-  url: /sense/Teaching/Curriculum/v9/Technologies/AC9TDI8P09.html
-- title: Today's note
-  url: /seek/journal/todays-note.html
 tags: python, teaching, creativeCoding
 title: Creative coding experiments
 type: note

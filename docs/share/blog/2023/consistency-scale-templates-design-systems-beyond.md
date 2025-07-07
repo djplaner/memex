@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Blog posts
-  url: /share/blog/blog-posts.html
 title: Consistency, scale, templates, design systems and beyond
 ---
 ```toml

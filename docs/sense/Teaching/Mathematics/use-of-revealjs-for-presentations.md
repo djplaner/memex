@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: My approach to teaching mathematics
-  url: /sense/Teaching/Mathematics/my-approach-to-teaching-mathematics.html
 tags: teaching, teaching-mathematics, teaching-digital-technologies
 title: Use of reveal.js for presentations
 type: note

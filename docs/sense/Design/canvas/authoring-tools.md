@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Canvas models
-  url: /sense/Design/canvas/canvas-models.html
 title: Authoring tools
 ---
 Collections of various content authoring tools

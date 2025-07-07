@@ -1,11 +1,4 @@
 ﻿---
-backlinks:
-- title: Improve static search
-  url: /colophon/improve-static-search.html
-- title: Convert Wordpress into Memex
-  url: /colophon/convert-wordpress-into-memex.html
-- title: A new day
-  url: /share/blog/2025/a-new-day.html
 tags:
 - colophon
 - wordpress

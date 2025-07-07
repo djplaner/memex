@@ -1,9 +1,4 @@
 ﻿---
-backlinks:
-- title: Canvas Learning Journal - Vue implementation
-  url: /sense/CASA/vue-canvas-learning-journal.html
-- title: Development tasks - Canvas Learning Journal
-  url: /sense/CASA/design-of-vue-lj-casa-5.html
 tags: web-development, javascript, vue, canvas, casa
 title: Design of Vue Learning Journal Data Structures
 type: note

@@ -1,13 +1,4 @@
 ﻿---
-backlinks:
-- title: Fig tree berm
-  url: /sense/landscape-garden/fig-tree-berm.html
-- title: The Orchard (Orchard corner)
-  url: /sense/landscape-garden/orchard-corner.html
-- title: Plants
-  url: /sense/landscape-garden/plants/plants.html
-- title: Ficus obliqua (Small-leaved fig)
-  url: /sense/landscape-garden/individual-plants/ficus-obliqua-berm.html
 tags:
 - wood-duck-meadows
 - tree

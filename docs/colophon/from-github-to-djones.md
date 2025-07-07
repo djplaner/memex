@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Memex - Version 3
-  url: /colophon/version-3-memex-design.html
 tags:
 - colophon
 - github

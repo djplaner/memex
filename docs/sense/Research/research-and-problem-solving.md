@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Research
-  url: /sense/Research/research.html
 title: Research and problem solving
 ---
 Links to the idea of computer scientist as toolsmith

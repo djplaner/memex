@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Design
-  url: /sense/Design/design.html
 title: Atomic Design
 ---
 [Book](https://atomicdesign.bradfrost.com/table-of-contents/) by Brad Frost

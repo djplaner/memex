@@ -1,11 +1,4 @@
 ﻿---
-backlinks:
-- title: Seek
-  url: /seek/seek.html
-- title: Computational components
-  url: /colophon/computational-components.html
-- title: Statistics and Analytics
-  url: /colophon/statistics-and-analytics.html
 tags:
 - colophon
 - statistics

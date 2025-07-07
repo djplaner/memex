@@ -1,9 +1,4 @@
 ﻿---
-backlinks:
-- title: Sandpaper fig
-  url: /sense/landscape-garden/plants/sandpaper-fig.html
-- title: Individual plants
-  url: /sense/landscape-garden/individual-plants/individual-plants.html
 latitude: -27.539086666666666
 longitude: 152.05566383333334
 photos:

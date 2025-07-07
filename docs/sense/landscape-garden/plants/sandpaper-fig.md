@@ -1,11 +1,4 @@
 ﻿---
-backlinks:
-- title: Plants
-  url: /sense/landscape-garden/plants/plants.html
-- title: Sandpaper fig - The island
-  url: /sense/landscape-garden/individual-plants/island-sandpaper-fig.html
-- title: Hugh and Kay's Sandpaper Fig (Gatton Creek frontage)
-  url: /sense/landscape-garden/individual-plants/hugh-and-kays-sandpaper-fig.html
 tags:
 - plant
 - fig

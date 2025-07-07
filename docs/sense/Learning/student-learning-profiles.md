@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Learning
-  url: /sense/Learning/learning.html
 title: Student Learning Profiles
 ---
 ## Overview 

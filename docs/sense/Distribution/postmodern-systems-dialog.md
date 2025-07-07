@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Distribution
-  url: /sense/Distribution/distribution.html
 title: 'Postmodern systems: Intersubjectivity through dialog'
 ---
 - Quinn Wilton

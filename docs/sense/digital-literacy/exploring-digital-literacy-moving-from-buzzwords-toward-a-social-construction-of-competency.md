@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Digital Literacy
-  url: /sense/Learning/digital-literacy.html
 title: 'Exploring digital literacy: moving from buzzwords towards a social construction
   of competency'
 ---

@@ -1,9 +1,4 @@
 ﻿---
-backlinks:
-- title: 'Teaching '
-  url: /sense/Teaching/teaching.html
-- title: Effective learning
-  url: /sense/Teaching/RTT/rtt-effective-learning.html
 title: Pygmalion Effect (aka "Rosenthal effect")
 ---
 # Pygmalion Effect (aka "Rosenthal effect")

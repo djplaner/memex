@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Learning
-  url: /sense/Learning/learning.html
 title: Learning activity types
 ---
 ## Laurillard (2012)

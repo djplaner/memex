@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Concepts
-  url: /sense/concepts/concepts.html
 title: Predatory Inclusion
 ---
 ## First experience with the concept

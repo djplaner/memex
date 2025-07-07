@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Loose notes
-  url: /sense/loose/loose.html
 title: Mental models are highly personal
 ---
 Talking about web/internet and how people perceive these terms and how is this linked to [[nodt]].

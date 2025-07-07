@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Concepts
-  url: /sense/concepts/concepts.html
 tags: sense, concepts
 title: Disabling professions
 type: note

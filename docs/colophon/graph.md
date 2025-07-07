@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Publishing graph interface
-  url: /colophon/publishing-graph-interface.html
 tags:
 - colophon
 - visualisation

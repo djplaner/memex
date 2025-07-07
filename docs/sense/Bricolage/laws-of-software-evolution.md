@@ -1,10 +1,4 @@
 ﻿---
-backlinks:
-- title: Bricolage
-  url: /sense/Bricolage/bricolage.html
-- title: 'Gathers, Weavers and Augmenters: Three principles for dynamic and sustainable
-    delivery of quality learning and teaching'
-  url: /sense/Paper-Ideas/Published/gathers-weavers-augmenters.html
 title: Laws of Software Evolution
 ---
 ## Programs, life cycles, and laws of software evolution

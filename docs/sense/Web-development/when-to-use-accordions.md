@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Web development
-  url: /sense/Web-development/web-development.html
 title: When to use accordions
 ---
 [detailed look at when](https://www.nngroup.com/articles/accordions-complex-content/) to use accordions

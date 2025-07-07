@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Teaching Mathematics
-  url: /sense/Teaching/Mathematics/teaching-mathematics.html
 tags: teaching, excel, mathematics, society
 title: Excel World Championship
 type: note

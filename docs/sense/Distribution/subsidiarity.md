@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Distribution
-  url: /sense/Distribution/distribution.html
 tags: bad, distribution
 title: Subsidiarity
 type: note

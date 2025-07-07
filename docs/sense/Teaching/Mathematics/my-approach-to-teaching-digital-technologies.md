@@ -1,11 +1,4 @@
 ﻿---
-backlinks:
-- title: Teaching Digital Technologies
-  url: /sense/Teaching/Digital_Technologies/teaching-digital-technologies.html
-- title: Plans for teaching in 2024
-  url: /sense/Teaching/Mathematics/2024-teaching-plans.html
-- title: Teaching implementation
-  url: /sense/Teaching/Implementation/teaching-implementation.html
 tags: teaching, digital-technologies, teaching-digital-technologies
 title: My approach to teaching digital technologies
 type: note

@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Loose notes
-  url: /sense/loose/loose.html
 title: Devaluing teaching
 ---
 Quinn (2012, p. 78) quotes (Weimer 1997, 52)

@@ -1,11 +1,4 @@
 ﻿---
-backlinks:
-- title: Digital Renovator
-  url: /sense/computing/digital-renovator.html
-- title: Computing
-  url: /sense/computing/computing.html
-- title: Teaching Digital Technologies
-  url: /sense/Teaching/Digital_Technologies/teaching-digital-technologies.html
 title: Current Digital Dark Age
 ---
 Dave Lane wrote [_The current (digital) Dark age](https://davelane.nz/current-digital-dark-age) arguing "that we're in the midst of a new Dark Age" (also [written about previously](https://davelane.nz/midnight-musing-history-repeats-only-time-its-digital))

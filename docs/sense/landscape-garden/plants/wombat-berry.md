@@ -1,9 +1,4 @@
 ﻿---
-backlinks:
-- title: Gatton creek frontage
-  url: /sense/landscape-garden/gatton-creek-frontage.html
-- title: Plants
-  url: /sense/landscape-garden/plants/plants.html
 photos:
   1:
     date: 2025-06-29 12:44:07

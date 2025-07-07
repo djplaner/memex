@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Distribution
-  url: /sense/Distribution/distribution.html
 tags: complexity, distribution, ateleological
 title: Organising a child's birthday party
 type: note

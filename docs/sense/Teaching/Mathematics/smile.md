@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Mathematical mindsets
-  url: /sense/Teaching/Mathematics/mathematical-mindsets.html
 tags: teaching, mathematics
 title: SMILE
 type: note

@@ -1,15 +1,4 @@
 ﻿---
-backlinks:
-- title: Seek
-  url: /seek/seek.html
-- title: Note taking strategies
-  url: /colophon/note-taking-strategies.html
-- title: FLOSS and FOSS
-  url: /sense/computing/floss.html
-- title: Web development
-  url: /sense/Web-development/web-development.html
-- title: 'SvelteKit and Github pages '
-  url: /sense/Web-development/foam-dev/sveltekit-github-pages.html
 tags:
 - foam
 - web-development

@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Mathematics learning area - Australian Curriculum v9
-  url: /sense/Teaching/Curriculum/v9-oz-mathematics-learning-area.html
 tags: mathematics, v9ozCurriculum
 title: Algebra - for version 9 of the Australian Curriculum
 ---

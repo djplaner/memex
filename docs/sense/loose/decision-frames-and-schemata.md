@@ -1,9 +1,4 @@
 ﻿---
-backlinks:
-- title: Loose notes
-  url: /sense/loose/loose.html
-- title: Digital technologies and impact of bad/absent schema
-  url: /sense/nodt/digital-technologies-and-impact-of-badabsent-schema.html
 title: Decision frames and schemata
 ---
 "Decision frames"

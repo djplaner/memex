@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Quality and teaching
-  url: /sense/Quality-and-teaching/quality-and-teaching.html
 title: Excellent/quality teaching
 ---
 ## The problem

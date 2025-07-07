@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Bricolage
-  url: /sense/Bricolage/bricolage.html
 tags:
 - bricolage
 - affordances

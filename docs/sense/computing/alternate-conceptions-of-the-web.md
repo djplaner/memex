@@ -1,11 +1,4 @@
 ﻿---
-backlinks:
-- title: Seek
-  url: /seek/seek.html
-- title: Related work
-  url: /colophon/related-work.html
-- title: Computing
-  url: /sense/computing/computing.html
 tags:
 - computing
 - web

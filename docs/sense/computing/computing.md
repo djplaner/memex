@@ -1,9 +1,4 @@
 ﻿---
-backlinks:
-- title: Sense
-  url: /sense/sense.html
-- title: The relationships between BAD/SET, CASA, and Gather/Weave
-  url: /sense/CASA/bad_set-casa-gather-weave.html
 tags: computing, digital-technology
 title: Computing
 type: note

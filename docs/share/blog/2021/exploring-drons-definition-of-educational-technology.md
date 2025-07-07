@@ -1,13 +1,4 @@
 ﻿---
-backlinks:
-- title: Kafkaesque and Orwellian Technology Design
-  url: /sense/kafkaesque-and-orwellian-technology-design.html
-- title: Blog posts
-  url: /share/blog/blog-posts.html
-- title: Data informed teaching
-  url: /sense/Teaching/data-informed-teaching.html
-- title: Technologies for teaching mathematics
-  url: /sense/Teaching/Mathematics/technologies-for-teaching-mathematics.html
 title: Exploring Dron's definition of educational technology
 ---
 Pre-COVID the role of technology in learning and teaching in higher education was important. However, in 2020 it became core as part of the COVID response. Given the circumstances it is no surprise that chunks of that response were not that great. There was some good work. There was a lot of a "good enough for the situation" work. There was quite a bit that really sucked. For example,

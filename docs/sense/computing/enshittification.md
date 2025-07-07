@@ -1,11 +1,4 @@
 ﻿---
-backlinks:
-- title: Nature of Digital Technology (nodt)
-  url: /sense/nodt/nodt.html
-- title: Digital Humanism
-  url: /sense/computing/digital-humanism.html
-- title: Use of reveal.js for presentations
-  url: /sense/Teaching/Mathematics/use-of-revealjs-for-presentations.html
 tags: digital-humanism, teaching-digital-technologies, BAD
 title: Platform Decay (enshittification)
 type: note

@@ -1,9 +1,4 @@
 ﻿---
-backlinks:
-- title: Templates and the scale problem
-  url: /share/blog/2023/consistency-problem.html
-- title: Consistency vs quality?
-  url: /sense/Design/consistency-quality.html
 title: Freedom and the Learning Management System (LMS)
 ---
 # Freedom and the Learning Management System (LMS)

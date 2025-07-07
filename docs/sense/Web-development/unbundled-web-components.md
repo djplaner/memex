@@ -1,11 +1,4 @@
 ﻿---
-backlinks:
-- title: How to Develop Web Components
-  url: /sense/how-to-develop-web-components.html
-- title: My First LitElement Web Component
-  url: /sense/Web-development/my-first-litelement-web-component.html
-- title: Web development
-  url: /sense/Web-development/web-development.html
 title: Unbundled web components
 ---
 ## TODO

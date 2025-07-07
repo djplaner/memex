@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Blog posts
-  url: /share/blog/blog-posts.html
 title: Broader Implications Hax Web Compontents
 ---
 ## Broader implications: the NGDLE and the VLE 

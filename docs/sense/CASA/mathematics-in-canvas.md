@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: CASA Gallery
-  url: /sense/CASA/casa-gallery.html
 title: Mathematics in Canvas
 ---
 Early explorations into how to make use of Canvas to support the teaching of mathematics.

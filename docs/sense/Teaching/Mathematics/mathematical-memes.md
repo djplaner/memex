@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Technologies for teaching mathematics
-  url: /sense/Teaching/Mathematics/technologies-for-teaching-mathematics.html
 title: Mathematical Memes
 ---
 Collections of mathematical memes intended for eventually use in teaching.

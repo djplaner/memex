@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Statistics and Analytics
-  url: /colophon/statistics-and-analytics.html
 tags: philosophy
 title: All models are wrong
 type: note

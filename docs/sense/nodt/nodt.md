@@ -1,21 +1,4 @@
 ﻿---
-backlinks:
-- title: Leveraging digital technologies
-  url: /seek/leveraging-digital-technologies.html
-- title: Some Assemblage Required
-  url: /colophon/some-assemblage-required.html
-- title: Sense
-  url: /sense/sense.html
-- title: Mental models are highly personal
-  url: /sense/loose/mental-models-are-highly-personal.html
-- title: Technology
-  url: /sense/nodt/technology.html
-- title: Digital technologies and impact of bad/absent schema
-  url: /sense/nodt/digital-technologies-and-impact-of-badabsent-schema.html
-- title: Concrete Lounges
-  url: /sense/nodt/concrete-lounges.html
-- title: Digital Weaver
-  url: /sense/computing/digital-weaver.html
 tags:
 - digital-technology
 - affordances

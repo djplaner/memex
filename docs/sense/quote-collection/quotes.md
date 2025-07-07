@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Sense
-  url: /sense/sense.html
 tags: sense, quotes
 title: Quotes
 type: note

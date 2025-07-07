@@ -1,15 +1,4 @@
 ﻿---
-backlinks:
-- title: 'Teaching '
-  url: /sense/Teaching/teaching.html
-- title: Returning to the profession
-  url: /sense/Teaching/RTT/returning-to-the-profession.html
-- title: My approach to teaching mathematics
-  url: /sense/Teaching/Mathematics/my-approach-to-teaching-mathematics.html
-- title: My approach to teaching digital technologies
-  url: /sense/Teaching/Mathematics/my-approach-to-teaching-digital-technologies.html
-- title: Teaching implementation
-  url: /sense/Teaching/Implementation/teaching-implementation.html
 title: My Teaching Philosophy
 ---
 Nascent attempt to articulate my teaching philosophy. Initially focused on listing ideas that resonate.

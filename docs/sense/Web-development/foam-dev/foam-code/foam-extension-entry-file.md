@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Understanding the Foam Code Base
-  url: /sense/Web-development/foam-dev/foam-code/understanding-foam-code-base.html
 tags:
 - foam-dev
 - foam-code

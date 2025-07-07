@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Exploring australian curriculum
-  url: /sense/Python/exploring-australian-curriculum.html
 tags: python, v9ozCurriculum, curriculum
 title: 'Dev log - 003: Exploring Oz Curriculum'
 type: devLog

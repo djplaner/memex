@@ -1,9 +1,4 @@
 ﻿---
-backlinks:
-- title: Spaced practice (aka Distributed Practice)
-  url: /sense/Learning/spaced-practice.html
-- title: Effective learning strategies
-  url: /sense/Learning/effective-learning-strategies.html
 title: Retrieval Practice
 ---
 Initially identified as a side effect of testing. Engaging in more retrieval improves the minds _retrieval strength_.

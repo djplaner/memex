@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: CSER Maths in Schools - Practices and pedagogies
-  url: /sense/Teaching/Mathematics/cser-mooc/cser-practices-and-pedagogies.html
 tags: teaching-mathematics, teaching, goompi-model
 title: Reality, Abstraction, Mathematics, Reality (RAMR) cycle
 type: note

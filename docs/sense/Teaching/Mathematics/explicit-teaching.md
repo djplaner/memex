@@ -1,21 +1,4 @@
 ﻿---
-backlinks:
-- title: High impact teaching strategies
-  url: /sense/Teaching/high-impact-teaching-strategies.html
-- title: Three acts of a mathematical story
-  url: /sense/Teaching/Mathematics/three-acts-of-a-mathematical-story.html
-- title: Explicit versus inquiry
-  url: /sense/Teaching/Mathematics/explicit-versus-inquiry.html
-- title: Technologies for teaching mathematics
-  url: /sense/Teaching/Mathematics/technologies-for-teaching-mathematics.html
-- title: Differentiation - Mathematics
-  url: /sense/Teaching/Mathematics/differentiation-mathematics.html
-- title: What do mathematicians do?
-  url: /sense/Teaching/Mathematics/what-do-mathematicians-do.html
-- title: Mathematical thinking tasks
-  url: /sense/Teaching/Mathematics/mathematical-thinking-tasks.html
-- title: CSER Maths in Schools - Practices and pedagogies
-  url: /sense/Teaching/Mathematics/cser-mooc/cser-practices-and-pedagogies.html
 tags: teaching, teaching-mathematics
 title: Explicit teaching
 type: note

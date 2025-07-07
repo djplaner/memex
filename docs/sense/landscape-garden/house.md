@@ -1,9 +1,4 @@
 ﻿---
-backlinks:
-- title: Wood duck meadows
-  url: /sense/landscape-garden/wood-duck-meadows.html
-- title: Ficus macrophylla (Moreton Bay fig)
-  url: /sense/landscape-garden/plants/ficus-macrophylla.html
 tags: wood-duck-meadows
 title: House
 type: zone

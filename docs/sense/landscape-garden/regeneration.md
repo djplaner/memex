@@ -1,11 +1,4 @@
 ﻿---
-backlinks:
-- title: Welcome
-  url: /index.html
-- title: Wood duck meadows
-  url: /sense/landscape-garden/wood-duck-meadows.html
-- title: Improving soil
-  url: /sense/landscape-garden/strategies/improving-soil.html
 tags:
 - regeneration
 - sense

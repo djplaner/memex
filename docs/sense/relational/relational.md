@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Sense
-  url: /sense/sense.html
 title: Relational
 ---
 Thinking about the term *relational*

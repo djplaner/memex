@@ -1,11 +1,4 @@
 ﻿---
-backlinks:
-- title: Fig tree berm
-  url: /sense/landscape-garden/fig-tree-berm.html
-- title: Passiflora subpeltata (White passionflower)
-  url: /sense/landscape-garden/plants/passiflora-subpeltata.html
-- title: Plants
-  url: /sense/landscape-garden/plants/plants.html
 tags:
 - wood-duck-meadows
 - plant

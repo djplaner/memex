@@ -1,9 +1,4 @@
 ﻿---
-backlinks:
-- title: CASA Gallery
-  url: /sense/CASA/casa-gallery.html
-- title: Today's note
-  url: /seek/journal/todays-note.html
 title: H-A-X as CASA?
 ---
 ## Introduction 

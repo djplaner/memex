@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Convert Wordpress into Memex
-  url: /colophon/convert-wordpress-into-memex.html
 tags:
 - colophon
 - authoring

@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Design
-  url: /sense/Design/design.html
 title: Canvas resources
 ---
 Collection point for misc Canvas resources - see also [[canvas-models]] and [[canvas-api]]

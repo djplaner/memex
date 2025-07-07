@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Herding Cats
-  url: /sense/Bricolage/herding-cats.html
 title: OER as a participatory activity
 ---
 If OER is participatory, then the environment should support and encourage participation

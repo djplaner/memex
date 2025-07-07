@@ -1,13 +1,4 @@
 ﻿---
-backlinks:
-- title: Exploring australian curriculum
-  url: /sense/Python/exploring-australian-curriculum.html
-- title: Australian Curriculum
-  url: /sense/Teaching/Curriculum/australian-curriculum.html
-- title: CSER Statistics - Content in Action
-  url: /sense/Teaching/Mathematics/cser-mooc/cser-cia-statistics.html
-- title: CSER MiS - Getting started module
-  url: /sense/Teaching/Mathematics/cser-mooc/cser-getting-started.html
 tags:
 - teaching
 - australian-curriculum

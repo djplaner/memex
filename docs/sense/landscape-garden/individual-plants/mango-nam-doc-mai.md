@@ -1,9 +1,4 @@
 ﻿---
-backlinks:
-- title: Bush regeneration (Wood duck meadows)
-  url: /sense/landscape-garden/regeneration.html
-- title: Individual plants
-  url: /sense/landscape-garden/individual-plants/individual-plants.html
 latitude: -27.539463333333334
 longitude: 152.0554195
 photos:

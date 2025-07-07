@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Distribution
-  url: /sense/Distribution/distribution.html
 title: Social Pedagogies
 ---
 [Derek Bruff cites](https://derekbruff.org/?p=808) Randy Bass as defining social pedagogies as

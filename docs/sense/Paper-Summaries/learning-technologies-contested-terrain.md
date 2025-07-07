@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Paper Summaries
-  url: /sense/Paper-Summaries/paper-summaries.html
 title: 'Learning technology as contested terrain: Insights from teaching academics
   and learning designers in Australian higher education'
 ---

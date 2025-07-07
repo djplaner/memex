@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Concepts
-  url: /sense/concepts/concepts.html
 title: Sociomaterialism
 ---
 [Fawns](https://timfawns.com/expanding-the-unit-of-analysis-of-learning/) offers this definition

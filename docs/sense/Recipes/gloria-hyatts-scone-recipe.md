@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Recipes
-  url: /sense/Recipes/recipes.html
 title: "Gloria Hyatt\u2019s scone recipe"
 ---
 > Makes 12-18 (depending in the size of your scone cutter)

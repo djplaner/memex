@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: 'Decomposition '
-  url: /sense/computing/decomposition.html
 title: Cross cutting concerns
 ---
 Resources 

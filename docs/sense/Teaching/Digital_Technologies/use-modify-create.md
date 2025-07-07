@@ -1,9 +1,4 @@
 ﻿---
-backlinks:
-- title: Predict Run Investigate Modify Make (PRIMM)
-  url: /sense/Teaching/Digital_Technologies/primm.html
-- title: Teaching Digital Technologies
-  url: /sense/Teaching/Digital_Technologies/teaching-digital-technologies.html
 tags: teaching, digital-technologies, teaching-digital-technologies
 title: Use-modify-create
 type: note

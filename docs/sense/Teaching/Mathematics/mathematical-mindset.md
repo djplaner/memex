@@ -1,27 +1,4 @@
 ﻿---
-backlinks:
-- title: My Teaching Philosophy
-  url: /sense/Teaching/my-teaching-philosophy.html
-- title: My approach to teaching mathematics
-  url: /sense/Teaching/Mathematics/my-approach-to-teaching-mathematics.html
-- title: mathematical-resilience-classroom-environment
-  url: /sense/Teaching/Mathematics/mathematical-resilience-classroom-environment.html
-- title: Practice approach to mathematics
-  url: /sense/Teaching/Mathematics/practice-approach-to-mathematics.html
-- title: Number sense
-  url: /sense/Teaching/Mathematics/number-sense.html
-- title: Teaching Mathematics
-  url: /sense/Teaching/Mathematics/teaching-mathematics.html
-- title: Reflective mathematical homework
-  url: /sense/Teaching/Mathematics/reflective-mathematical-homework.html
-- title: Conceptual approach to mathematics
-  url: /sense/Teaching/Mathematics/conceptual-approach-to-mathematics.html
-- title: 'Two types of teaching mathematics: instrumental and relational'
-  url: /sense/Teaching/Mathematics/instrumental-relational-mathematics.html
-- title: Design for a mathematical mindset
-  url: /sense/Teaching/Mathematics/design-for-mathematical-mindset.html
-- title: Real work versus Real world
-  url: /sense/Teaching/Mathematics/real-work-versus-real-world.html
 title: Mathematical Mindset
 ---
 Related: [[mathematical-mindsets]] - vague notes from reading Boaler (2015)

@@ -1,9 +1,4 @@
 ﻿---
-backlinks:
-- title: Situational Awareness
-  url: /sense/Distribution/situational-awareness.html
-- title: Computing project ideas
-  url: /sense/computing/computing-project-ideas.html
 title: Distributed Situational Awareness
 ---
 ## Salmon et al (2022)

@@ -1,9 +1,4 @@
 ﻿---
-backlinks:
-- title: 'Teaching '
-  url: /sense/Teaching/teaching.html
-- title: Teaching Professional Development
-  url: /sense/Teaching/Mathematics/teaching-professional-development.html
 tags: teaching
 title: ACU's Return to Teaching course
 type: note

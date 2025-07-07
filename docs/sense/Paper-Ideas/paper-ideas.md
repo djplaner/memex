@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Sense
-  url: /sense/sense.html
 title: Paper Ideas
 ---
 And some earlier [[published-papers]]

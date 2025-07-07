@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Seek triage list
-  url: /seek/seek-triage.html
 tags:
 - seek
 title: Seek triage list

@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Research
-  url: /sense/Research/research.html
 title: Reviewing PhD Thesis
 ---
 Misc thoughts re: reviewing PhD thesis

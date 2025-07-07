@@ -1,9 +1,4 @@
 ﻿---
-backlinks:
-- title: Distribution
-  url: /sense/Distribution/distribution.html
-- title: Society
-  url: /sense/Society/society.html
 title: Standardisation and its discontents
 ---
 Summary and thoughts of

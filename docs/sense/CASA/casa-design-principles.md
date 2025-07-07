@@ -1,9 +1,4 @@
 ﻿---
-backlinks:
-- title: Shaping Spaces - Peter Goodyear ALTC 2017 Keynote
-  url: /sense/Design/goodyear-shaping-spaces.html
-- title: Contextually Appropriate Scaffolding Assemblages (CASA)
-  url: /sense/CASA/casa.html
 title: Design principles for Context-Appropriate Scaffolding Assemblages (CASA)
 ---
 # Design principles for Context-Appropriate Scaffolding Assemblages (CASA)

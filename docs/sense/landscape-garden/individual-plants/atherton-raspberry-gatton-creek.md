@@ -1,9 +1,4 @@
 ﻿---
-backlinks:
-- title: Rubus probus (Atherton raspberry)
-  url: /sense/landscape-garden/plants/rubus-probus.html
-- title: Individual plants
-  url: /sense/landscape-garden/individual-plants/individual-plants.html
 latitude: -27.53902760336878
 longitude: 152.0546644182429
 photos:

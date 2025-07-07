@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Bricolage
-  url: /sense/Bricolage/bricolage.html
 title: Strategic Planning
 ---
 Need to specify the strategic goals of the institution and the methods to be used.

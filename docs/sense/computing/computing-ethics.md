@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Computing
-  url: /sense/computing/computing.html
 title: Computing related ethics
 ---
 ## Applications - teachable moments 

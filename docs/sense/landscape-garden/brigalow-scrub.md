@@ -1,13 +1,4 @@
 ﻿---
-backlinks:
-- title: Bush regeneration (Wood duck meadows)
-  url: /sense/landscape-garden/regeneration.html
-- title: Wood duck meadows
-  url: /sense/landscape-garden/wood-duck-meadows.html
-- title: Asparagus africanus (Climbing asparagus fern)
-  url: /sense/landscape-garden/plants/asparagus-africanus.html
-- title: Bunya Pine
-  url: /sense/landscape-garden/plants/bunya-pine.html
 tags: gardens, landscape, wood-duck-meadows
 title: Brigalow scrub
 type: note

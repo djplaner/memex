@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Scratch
-  url: /sense/Teaching/Digital_Technologies/scratch.html
 tags: teaching-digital-technologies, digital-technologies, programming, scratch
 title: Tell a story - Scratch
 type: note

@@ -1,9 +1,4 @@
 ﻿---
-backlinks:
-- title: Know and do tables
-  url: /sense/Teaching/know-and-do-tables.html
-- title: Concepts
-  url: /sense/concepts/concepts.html
 tags: concept, learning, knowledge
 title: Declarative and procedural knowledge
 type: note

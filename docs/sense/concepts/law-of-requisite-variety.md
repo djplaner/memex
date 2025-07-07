@@ -1,11 +1,4 @@
 ﻿---
-backlinks:
-- title: Standardisation and its discontents
-  url: /sense/Society/standardisation-and-its-discontents.html
-- title: Concepts
-  url: /sense/concepts/concepts.html
-- title: Law of Requisite Complexity
-  url: /sense/concepts/law-of-requisite-complexity.html
 title: Law of Requisite Variety
 ---
 Related: [[law-of-requisite-complexity]]

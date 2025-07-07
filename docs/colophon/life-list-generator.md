@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Computational components
-  url: /colophon/computational-components.html
 tags:
 - colophon
 - birding

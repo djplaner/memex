@@ -1,15 +1,4 @@
 ﻿---
-backlinks:
-- title: Data informed teaching
-  url: /sense/Teaching/data-informed-teaching.html
-- title: My approach to teaching mathematics
-  url: /sense/Teaching/Mathematics/my-approach-to-teaching-mathematics.html
-- title: Teaching Mathematics
-  url: /sense/Teaching/Mathematics/teaching-mathematics.html
-- title: Visibly random groups
-  url: /sense/Teaching/Mathematics/visibly-random-groups.html
-- title: CSER MiS - Getting started module
-  url: /sense/Teaching/Mathematics/cser-mooc/cser-getting-started.html
 tags: teaching-mathematics, teaching
 title: Building a thinking classroom
 type: note

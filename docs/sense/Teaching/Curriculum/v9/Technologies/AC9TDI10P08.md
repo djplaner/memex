@@ -1,9 +1,4 @@
 ﻿---
-backlinks:
-- title: DIG101A-2024
-  url: /sense/Teaching/Implementation/2024/DIG101A/dig101a-2024.html
-- title: Learning Areas
-  url: /sense/Teaching/Curriculum/v9/v9-learning-areas.html
 tags: australian-curriculum
 title: AC9TDI10P08
 type: note

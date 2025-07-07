@@ -1,11 +1,4 @@
 ﻿---
-backlinks:
-- title: 'Teaching '
-  url: /sense/Teaching/teaching.html
-- title: Instructions
-  url: /sense/computing/instructions.html
-- title: Effective pedagogy in mathematics
-  url: /sense/Teaching/Mathematics/effective-pedagogy-in-mathematics.html
 tags: teaching, teaching-mathematics, teaching-digital-technology
 title: Worked examples
 type: note

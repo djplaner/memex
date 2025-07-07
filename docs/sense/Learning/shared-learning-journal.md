@@ -1,9 +1,4 @@
 ﻿---
-backlinks:
-- title: Learning
-  url: /sense/Learning/learning.html
-- title: Learning computer science
-  url: /sense/computing/learning-cs/learning-computer-science.html
 tags:
 - learning
 - journal

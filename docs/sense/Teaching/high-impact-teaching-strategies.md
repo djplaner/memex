@@ -1,9 +1,4 @@
 ﻿---
-backlinks:
-- title: 'Teaching '
-  url: /sense/Teaching/teaching.html
-- title: Explicit teaching
-  url: /sense/Teaching/Mathematics/explicit-teaching.html
 title: High impact teaching strategies
 ---
 Sources: [Victorian DoE](https://www.education.vic.gov.au/school/teachers/teachingresources/practice/improve/Pages/hits.aspx) and related [full PDF](https://www.education.vic.gov.au/Documents/school/teachers/support/high-impact-teaching-strategies.pdf)

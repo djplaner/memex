@@ -1,9 +1,4 @@
 ﻿---
-backlinks:
-- title: Trees for the forest
-  url: /sense/Distribution/trees-for-the-forest.html
-- title: Distribution
-  url: /sense/Distribution/distribution.html
 title: Forest for the trees
 ---
 One of two initial observations ([[trees-for-the-forest]] being the other) of an education system's attempts to improve learning and teaching at scale. Both are side effects of using a standardised, top-down, reductionist approach to a complex problem. 

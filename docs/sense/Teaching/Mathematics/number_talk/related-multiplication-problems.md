@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Number talk examples
-  url: /sense/Teaching/Mathematics/number_talk/number-talk-examples.html
 tags: teaching, mathematics, number-talks, multiplication, arithmetic
 template: math.html
 title: Related multiplication problems

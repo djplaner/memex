@@ -1,9 +1,4 @@
 ﻿---
-backlinks:
-- title: Note taking strategies
-  url: /colophon/note-taking-strategies.html
-- title: Alternate conceptions of the web
-  url: /sense/computing/alternate-conceptions-of-the-web.html
 tags:
 - zettelkasten
 - knowledge management

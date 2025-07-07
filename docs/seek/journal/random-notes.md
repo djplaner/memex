@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Today's note
-  url: /seek/journal/todays-note.html
 tags:
 - seek
 title: Random Notes

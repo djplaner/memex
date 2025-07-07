@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Mathematical discussion and communication (in the classroom)
-  url: /sense/Teaching/Mathematics/mathematical-discussion-communication.html
 tags: teaching, teaching-mathematics, questioning
 title: Questioning
 type: note

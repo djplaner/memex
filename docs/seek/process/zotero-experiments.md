@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Seek
-  url: /seek/seek.html
 tags:
 - seek
 title: Experiments with Zotero

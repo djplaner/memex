@@ -1,9 +1,4 @@
 ﻿---
-backlinks:
-- title: Sense
-  url: /sense/sense.html
-- title: Patterns, pattern languages and design practice
-  url: /sense/Paper-Summaries/goodyear-patterns-design-practice.html
 title: Paper Summaries
 ---
 [[summary-template]]

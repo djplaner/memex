@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Recipes
-  url: /sense/Recipes/recipes.html
 title: Blue cheese sauce
 ---
 ## Ingredients

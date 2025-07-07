@@ -1,11 +1,4 @@
 ﻿---
-backlinks:
-- title: Bush regeneration (Wood duck meadows)
-  url: /sense/landscape-garden/regeneration.html
-- title: Improving soil
-  url: /sense/landscape-garden/strategies/improving-soil.html
-- title: Regeneration techniques
-  url: /sense/landscape-garden/techniques/regeneration-techniques.html
 tags:
 - regeneration
 - techniques

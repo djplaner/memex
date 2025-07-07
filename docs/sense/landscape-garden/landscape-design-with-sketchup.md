@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Using Sketchup
-  url: /sense/landscape-garden/using-sketchup.html
 tags: sense, landscape, garden, sketchup
 title: Landscape Design with Sketchup
 type: note

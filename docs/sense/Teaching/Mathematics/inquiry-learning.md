@@ -1,11 +1,4 @@
 ﻿---
-backlinks:
-- title: 'Teaching '
-  url: /sense/Teaching/teaching.html
-- title: Explicit versus inquiry
-  url: /sense/Teaching/Mathematics/explicit-versus-inquiry.html
-- title: Mathematical thinking tasks
-  url: /sense/Teaching/Mathematics/mathematical-thinking-tasks.html
 title: Inquiry Learning
 ---
 ## Guided inquiry

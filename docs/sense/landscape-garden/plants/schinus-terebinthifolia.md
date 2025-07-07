@@ -1,19 +1,4 @@
 ﻿---
-backlinks:
-- title: Fig tree berm
-  url: /sense/landscape-garden/fig-tree-berm.html
-- title: The Dam
-  url: /sense/landscape-garden/the-dam.html
-- title: The Island
-  url: /sense/landscape-garden/the-island.html
-- title: Roundabout
-  url: /sense/landscape-garden/roundabout.html
-- title: The Orchard (Orchard corner)
-  url: /sense/landscape-garden/orchard-corner.html
-- title: Plants
-  url: /sense/landscape-garden/plants/plants.html
-- title: Arundo donax (Elephant Grass)
-  url: /sense/landscape-garden/plants/arundo-donax.html
 photos:
   1:
     date: 2025-01-25 06:24:40

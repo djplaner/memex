@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Sense
-  url: /sense/sense.html
 title: Recipes
 ---
 ## Gra's recipes - via Mum's book

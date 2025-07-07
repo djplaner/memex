@@ -1,9 +1,4 @@
 ﻿---
-backlinks:
-- title: Computing
-  url: /sense/computing/computing.html
-- title: Developer automation
-  url: /sense/relational/software-deveopment/developer-automation.html
 tags:
 - software development
 title: Three great virtues of a programmer

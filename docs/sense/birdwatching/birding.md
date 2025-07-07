@@ -1,9 +1,4 @@
 ﻿---
-backlinks:
-- title: Welcome
-  url: /index.html
-- title: Sense
-  url: /sense/sense.html
 tags: hobby, birdwatching, birding
 title: Birding
 type: note

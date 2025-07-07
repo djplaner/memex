@@ -1,9 +1,4 @@
 ﻿---
-backlinks:
-- title: Society
-  url: /sense/Society/society.html
-- title: 'Teaching '
-  url: /sense/Teaching/teaching.html
 tags: society, STEM
 title: STEM Crisis
 type: note

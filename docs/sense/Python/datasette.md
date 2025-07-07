@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Python
-  url: /sense/Python/python.html
 title: datasette
 ---
 [Datasette](https://datasette.io/) is a Python-based tool (growing ecosystem) to aid the exploration and publication/sharing of data. Looks to be a personally useful tool, good intent, and good implementation. Using a number of practices that resonate (command line etc)

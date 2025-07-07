@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Research
-  url: /sense/Research/research.html
 tags:
 - research
 - ethnography

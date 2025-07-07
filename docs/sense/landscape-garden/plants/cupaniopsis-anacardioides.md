@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Plants
-  url: /sense/landscape-garden/plants/plants.html
 tags:
 - plants
 title: Cupaniopsis anacardioides (Tuckeroo)

@@ -1,9 +1,4 @@
 ﻿---
-backlinks:
-- title: To Read
-  url: /seek/to-read.html
-- title: Loose notes
-  url: /sense/loose/loose.html
 title: Problems with Modular Thinking
 ---
 **TODO**

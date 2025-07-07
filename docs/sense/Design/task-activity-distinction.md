@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: 'Dealing with bad relationships by turning BAD: An LMS migration case study'
-  url: /sense/Paper-Ideas/deal-with-bad-relationships.html
 title: The distinction between task and activity
 ---
 My current take

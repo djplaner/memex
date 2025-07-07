@@ -1,25 +1,4 @@
 ﻿---
-backlinks:
-- title: Ed tech - some missing flavours
-  url: /share/blog/2023/ed-tech-some-missing-flavours.html
-- title: ABC Learning Design and ACAD
-  url: /sense/Design/abc-learning-design-and-acad.html
-- title: Challenge of Teachers' Design Practice
-  url: /sense/Design/challenge-of-teachers-design-practice.html
-- title: Sharing the ABC Approach
-  url: /sense/Design/sharing-the-abc-approach.html
-- title: Design
-  url: /sense/Design/design.html
-- title: Evolution of design for learning
-  url: /sense/Design/evolution-of-design-for-learning.html
-- title: Patterns, pattern languages and design practice
-  url: /sense/Paper-Summaries/goodyear-patterns-design-practice.html
-- title: Concepts
-  url: /sense/concepts/concepts.html
-- title: Breaking the iron triangle
-  url: /sense/Paper-Ideas/explorations-breaking-iron-triangle.html
-- title: Explorations in comparing ChatGPT & QLoRA
-  url: /sense/AI/explorations/compare-chatgpt-qlora.html
 title: Forward-oriented design
 ---
 Idea first suggested in [Dimitriadis & Goodyear (2013)](https://petergoodyear.files.wordpress.com/2017/07/dimitriadis-goodyear-2013-forward-oriented-design.pdf) and [Goodyear and Dimitriadis (2013)](https://petergoodyear.files.wordpress.com/2017/07/goodyear-dimitriadis-2013-in-medias-res.pdf)

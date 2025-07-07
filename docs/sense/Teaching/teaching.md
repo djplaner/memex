@@ -1,13 +1,4 @@
 ﻿---
-backlinks:
-- title: Sense
-  url: /sense/sense.html
-- title: Creative coding experiments
-  url: /sense/Python/creative-coding-with-python.html
-- title: Understanding
-  url: /sense/Learning/understanding.html
-- title: Teaching Professional Development
-  url: /sense/Teaching/Mathematics/teaching-professional-development.html
 title: 'Teaching '
 ---
 Collection of resources, ideas etc around secondary teaching.

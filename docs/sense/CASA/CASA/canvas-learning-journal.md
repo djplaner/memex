@@ -1,13 +1,4 @@
 ﻿---
-backlinks:
-- title: Canvas Learning Journal - Vue implementation
-  url: /sense/CASA/vue-canvas-learning-journal.html
-- title: CASA Gallery
-  url: /sense/CASA/casa-gallery.html
-- title: Log 3 - Canvas learning journal
-  url: /sense/CASA/CASA/log-3-canvas-learning-journal.html
-- title: Canvas learning journal - log 2
-  url: /sense/CASA/CASA/log-2-canvas-learning-journal.html
 title: Canvas Learning Journal
 ---
 Document exploration and design of a [[learning-journal]] [[casa]] for Canvas.

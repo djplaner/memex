@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Distribution
-  url: /sense/Distribution/distribution.html
 title: 'Coherent Pluralism '
 ---
 To read: Jackson (1999)

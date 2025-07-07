@@ -1,25 +1,4 @@
 ﻿---
-backlinks:
-- title: Teacher preparation
-  url: /seek/teacher-preparation.html
-- title: Exploring australian curriculum
-  url: /sense/Python/exploring-australian-curriculum.html
-- title: Creative coding experiments
-  url: /sense/Python/creative-coding-with-python.html
-- title: Interleaving
-  url: /sense/Learning/interleaving.html
-- title: 'Teaching '
-  url: /sense/Teaching/teaching.html
-- title: There's more than one way to do it (TIMTOWTDI)
-  url: /sense/Teaching/Mathematics/timtowtdi.html
-- title: 'Two types of teaching mathematics: instrumental and relational'
-  url: /sense/Teaching/Mathematics/instrumental-relational-mathematics.html
-- title: Teaching mathematics for a growth mindset
-  url: /sense/Teaching/Mathematics/teaching-mathematics-for-a-growth-mindset.html
-- title: Mathematical Exceptions Activity Type
-  url: /sense/Teaching/Mathematics/activity-types/math-expectations-activity-type.html
-- title: Mathematical Connections Activity Type
-  url: /sense/Teaching/Mathematics/activity-types/math-connections-activity-type.html
 tags: mathematics, teaching
 title: Teaching Mathematics
 type: index

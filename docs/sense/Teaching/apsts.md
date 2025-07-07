@@ -1,13 +1,4 @@
 ﻿---
-backlinks:
-- title: 'Teaching '
-  url: /sense/Teaching/teaching.html
-- title: Classroom management
-  url: /sense/Teaching/RTT/rtt-classroom-management.html
-- title: The legal context
-  url: /sense/Teaching/RTT/rtt-the-legal-context.html
-- title: Effective teaching
-  url: /sense/Teaching/RTT/rtt-effective-teaching.html
 tags: teaching
 title: Australian Professional Standards for Teachers
 type: note

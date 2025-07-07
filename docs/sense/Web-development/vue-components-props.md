@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Learning Vue
-  url: /sense/Web-development/learning-vue.html
 tags: web-development, javascript, vue
 title: Vue components/props in depth
 type: note

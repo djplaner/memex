@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Computing
-  url: /sense/computing/computing.html
 title: Recoding America
 ---
 [Recoding America](https://www.recodingamerica.us/) is a book written by Jennifer Pahlka reflecting on lessons learned as Deputy Chief Technology Officer of the United States - amonst other related experiences.  See [Ezra Klein podcast](https://www.nytimes.com/2023/06/06/opinion/ezra-klein-podcast-jennifer-pahlka.html)

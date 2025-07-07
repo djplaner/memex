@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Design
-  url: /sense/Design/design.html
 title: Creating learning paths
 ---
 Summary of training session with Instructor - "Creating Learning Paths"

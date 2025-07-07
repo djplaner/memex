@@ -1,15 +1,4 @@
 ﻿---
-backlinks:
-- title: Conferences
-  url: /sense/Conferences/conferences.html
-- title: ASCILITE 2022 - misc work takeaways
-  url: /sense/Conferences/ascilite2022/ascilite-2022-work-takeaways.html
-- title: ASCILITE 2022 - Day 1
-  url: /sense/Conferences/ascilite2022/ascilite2022-day-one.html
-- title: ASCILITE 2022 - Day 3
-  url: /sense/Conferences/ascilite2022/ascilite2022-day-three.html
-- title: ASCILITE 2022 - Day 2
-  url: /sense/Conferences/ascilite2022/ascilite2022-day-two.html
 title: ASCILITE 2022
 ---
 ## Presentations

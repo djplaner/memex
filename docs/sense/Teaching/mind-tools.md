@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: 'Teaching '
-  url: /sense/Teaching/teaching.html
 title: Mind Tools (and Mindstorms)
 ---
 # Mind Tools (and Mindstorms)

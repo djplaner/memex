@@ -1,15 +1,4 @@
 ﻿---
-backlinks:
-- title: Wood duck meadows
-  url: /sense/landscape-garden/wood-duck-meadows.html
-- title: Front yard
-  url: /sense/landscape-garden/front-yard.html
-- title: Melia azedarach (white cedar)
-  url: /sense/landscape-garden/melia-azedarach.html
-- title: Ceratonia siliqua (Carob tree)
-  url: /sense/landscape-garden/plants/ceratonia-siliqua.html
-- title: Tipuana tipu (Rosewood)
-  url: /sense/landscape-garden/plants/tipuana-tipu.html
 tags: gardens, landscape, wood-duck-meadows
 title: Front yard
 type: note

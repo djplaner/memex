@@ -1,15 +1,4 @@
 ﻿---
-backlinks:
-- title: Pecan corner
-  url: /sense/landscape-garden/pecan-corner.html
-- title: Wood duck meadows
-  url: /sense/landscape-garden/wood-duck-meadows.html
-- title: Melia azedarach (white cedar)
-  url: /sense/landscape-garden/melia-azedarach.html
-- title: Asparagus africanus (Climbing asparagus fern)
-  url: /sense/landscape-garden/plants/asparagus-africanus.html
-- title: Corymbia Torelliana (Cadaghi)"
-  url: /sense/landscape-garden/plants/corymbia-torelliana.html
 tags:
 - gardens
 - sense

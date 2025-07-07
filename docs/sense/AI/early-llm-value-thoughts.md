@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: AI
-  url: /sense/AI/AI.html
 title: Early LLMm value thoughts
 ---
 See: [[AI]]

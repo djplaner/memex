@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Affordances of digital technology
-  url: /sense/Affordances/affordances-of-digital-technology.html
 title: Automation
 ---
 - [[rpa-suitable-tasks]]

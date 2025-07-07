@@ -1,17 +1,4 @@
 ﻿---
-backlinks:
-- title: Sense
-  url: /sense/sense.html
-- title: Help the learner know what, when and why to do something
-  url: /sense/Learning/know-what-and-when.html
-- title: Guided Didactic Conversation aka teaching-learning conversations
-  url: /sense/Learning/guided-didactic-conversation.html
-- title: Pedagogical Paradigms
-  url: /sense/Learning/pedagogical-paradigms.html
-- title: '"Cop Shit"'
-  url: /sense/Learning/cop-shit.html
-- title: Situated cognition
-  url: /sense/Distribution/situated-cognition.html
 tags:
 - learning
 title: Learning

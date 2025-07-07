@@ -1,28 +1,4 @@
 ﻿---
-backlinks:
-- title: Visualising and pruning my Memex
-  url: /share/blog/visualising-and-pruning-my-memex.html
-- title: Peak consistency in Digital Education
-  url: /share/blog/peak-homogenisation-in-post-digital-education.html
-- title: Do the little things matter in design for learning?
-  url: /share/blog/do-little-things-matter.html
-- title: A new day
-  url: /share/blog/2025/a-new-day.html
-- title: Links between Iron Triangle and the Reusability Paradox
-  url: /sense/Design/iron-triangle-reusability-paradox.html
-- title: OER as a participatory activity
-  url: /sense/herding-cats/oer-as-a-participatory-activity.html
-- title: Trees for the forest
-  url: /sense/Distribution/trees-for-the-forest.html
-- title: Bricolage
-  url: /sense/Bricolage/bricolage.html
-- title: Evaluating orchestration
-  url: /sense/Assemblage/evaluating-orchestration.html
-- title: 'Exploring conceptions of technology: Implications for learning, teaching,
-    and meso-level practitioners'
-  url: /sense/Paper-Ideas/exploring-conceptions-of-technology.html
-- title: Exploring Oz Curriculum - Dev log 2
-  url: /sense/Python/exploring-oz-curriculum/002-exploring-oz-dev-log.html
 tags:
 - reusability
 - paradox

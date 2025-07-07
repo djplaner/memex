@@ -1,11 +1,4 @@
 ﻿---
-backlinks:
-- title: Consistency vs quality?
-  url: /sense/Design/consistency-quality.html
-- title: Scale and learning, teaching & education
-  url: /sense/Design/scale.html
-- title: The BAD (Bricolage, Affordances, Distribution) mindset
-  url: /sense/CASA/bad-mindset.html
 tags:
 - bad
 title: Scaleless and Placeless

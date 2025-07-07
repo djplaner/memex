@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Colophon
-  url: /colophon/colophon.html
 tags:
 - colophon
 title: Adding ActivityPub to the blog

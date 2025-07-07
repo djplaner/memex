@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Poverty Premium
-  url: /sense/Teaching/Mathematics/poverty-premium.html
 title: Boots theory
 ---
 The **Sam Vimes "Boots" theory of socioeconomic unfairness**

@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Support documentation
-  url: /colophon/support-documentation.html
 tags:
 - colophon
 title: mkdocs concepts

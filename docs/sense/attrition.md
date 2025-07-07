@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Loose notes
-  url: /sense/loose/loose.html
 tags:
 - teaching
 - teaching-quality

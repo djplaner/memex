@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Exploring Oz Curriculum - Dev log 2
-  url: /sense/Python/exploring-oz-curriculum/002-exploring-oz-dev-log.html
 tags: rdf, python, exploring-oz-curriculum
 title: RDF Basics
 type: note

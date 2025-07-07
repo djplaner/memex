@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Activity focused mathematics teaching (design for learning)
-  url: /sense/Teaching/Mathematics/activity-types/activity-centered-math-teaching.html
 title: Mathematical Exceptions Activity Type
 ---
 Early start on ideas for an activity type to be use when [[teaching-mathematics]]

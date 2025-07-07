@@ -1,11 +1,4 @@
 ﻿---
-backlinks:
-- title: Blog Statistics
-  url: /colophon/blog-statistics.html
-- title: Recent changes
-  url: /colophon/recent-changes.html
-- title: Explorations in Foam development
-  url: /sense/Web-development/foam-dev/foam-dev.html
 tags:
 - python
 - web-development

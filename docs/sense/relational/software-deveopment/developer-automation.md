@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Computing
-  url: /sense/computing/computing.html
 title: Developer automation
 ---
 Ideas about how, why, and perspectives on software developers automating tasks.

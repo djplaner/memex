@@ -1,9 +1,4 @@
 ﻿---
-backlinks:
-- title: Learning Journal
-  url: /sense/Teaching/learning-journal.html
-- title: 'Teaching '
-  url: /sense/Teaching/teaching.html
 title: Cognitive Strategies
 ---
 ## Three groups

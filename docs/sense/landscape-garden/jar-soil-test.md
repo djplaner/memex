@@ -1,9 +1,4 @@
 ﻿---
-backlinks:
-- title: Bush regeneration (Wood duck meadows)
-  url: /sense/landscape-garden/regeneration.html
-- title: Ecosystem metrics
-  url: /sense/landscape-garden/ecosystem-metrics.html
 tags: landscape, garden, soil
 title: Jar soil test
 type: note

@@ -1,9 +1,4 @@
 ﻿---
-backlinks:
-- title: Learning
-  url: /sense/Learning/learning.html
-- title: First experiments with LLM APIs
-  url: /sense/AI/explorations/first-llm-api-experiments.html
 title: Learning Sciences at Khan Academy
 ---
 [Source](https://blog.khanacademy.org/an-introduction-to-learning-science-at-khan-academy/)

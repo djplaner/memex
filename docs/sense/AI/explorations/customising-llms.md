@@ -1,9 +1,4 @@
 ﻿---
-backlinks:
-- title: AI
-  url: /sense/AI/AI.html
-- title: PrivateGPT
-  url: /sense/AI/explorations/privateGPT.html
 title: Customising LLMs
 ---
 Appears there are two broad approaches: fine-tuning and embedding. With embedding seemingly the most accessible. LangChain is a framework designed to help implement embeddings using different LLMs, including (apparently) local LLMs. LangChain and the link help with creating the underlying orchestration engine for LLM interactions.

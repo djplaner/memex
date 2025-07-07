@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Teaching Digital Technologies
-  url: /sense/Teaching/Digital_Technologies/teaching-digital-technologies.html
 tags: teaching-digital-technologies
 title: Digital technologies classroom survey
 type: note

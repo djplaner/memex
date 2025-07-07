@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Canvas Learning Journal - Vue implementation
-  url: /sense/CASA/vue-canvas-learning-journal.html
 tags: web-development, javascript, vue, canvas, casa
 title: Design of root components - (Canvas Learning Journal CASA 4)
 type: note

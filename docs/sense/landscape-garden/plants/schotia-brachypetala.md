@@ -1,9 +1,4 @@
 ﻿---
-backlinks:
-- title: The Dam
-  url: /sense/landscape-garden/the-dam.html
-- title: Plants
-  url: /sense/landscape-garden/plants/plants.html
 tags:
 - wood-duck-meadows
 - plant

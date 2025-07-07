@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Technologies for teaching mathematics
-  url: /sense/Teaching/Mathematics/technologies-for-teaching-mathematics.html
 title: Differentiation - Mathematics
 ---
 ## Mathematics Strategies that promote equity and achievement 

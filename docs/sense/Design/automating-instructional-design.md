@@ -1,9 +1,4 @@
 ﻿---
-backlinks:
-- title: Design
-  url: /sense/Design/design.html
-- title: Patterns, pattern languages and design practice
-  url: /sense/Paper-Summaries/goodyear-patterns-design-practice.html
 title: Automating instructional design
 ---
 ## Background

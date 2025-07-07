@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Distribution
-  url: /sense/Distribution/distribution.html
 tags: distribution, bricolage, concepts
 title: Boundary objects
 type: note

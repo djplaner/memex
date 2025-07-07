@@ -1,9 +1,4 @@
 ﻿---
-backlinks:
-- title: Some Assemblage Required
-  url: /colophon/some-assemblage-required.html
-- title: Learning
-  url: /sense/Learning/learning.html
 title: Orchestration
 ---
 - [[evaluating-orchestration]]

@@ -1,9 +1,4 @@
 ﻿---
-backlinks:
-- title: My approach to teaching mathematics
-  url: /sense/Teaching/Mathematics/my-approach-to-teaching-mathematics.html
-- title: Activity focused mathematics teaching (design for learning)
-  url: /sense/Teaching/Mathematics/activity-types/activity-centered-math-teaching.html
 title: Mathematical Connections Activity Type
 ---
 Early start on ideas for an activity type to be use when [[teaching-mathematics]]

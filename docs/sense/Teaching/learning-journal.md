@@ -1,9 +1,4 @@
 ﻿---
-backlinks:
-- title: 'Teaching '
-  url: /sense/Teaching/teaching.html
-- title: Canvas Learning Journal
-  url: /sense/CASA/CASA/canvas-learning-journal.html
 title: Learning Journal
 ---
 Notes on the learning journal learning activity design.

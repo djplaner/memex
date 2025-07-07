@@ -1,23 +1,4 @@
 ﻿---
-backlinks:
-- title: Wood duck meadows
-  url: /sense/landscape-garden/wood-duck-meadows.html
-- title: Cherry Tree walk
-  url: /sense/landscape-garden/cherry-tree-walk.html
-- title: Heliotropium amplexicaule (Clasping heliotrope)
-  url: /sense/landscape-garden/plants/heliotropium-amplexicaule.html
-- title: Senna pendula (Easter Cassia)
-  url: /sense/landscape-garden/plants/senna-pendula.html
-- title: Azola
-  url: /sense/landscape-garden/plants/azolla.html
-- title: Schotia brachypetala (Drunken Parrot Tree)
-  url: /sense/landscape-garden/plants/schotia-brachypetala.html
-- title: Passiflora subpeltata (White passionflower)
-  url: /sense/landscape-garden/plants/passiflora-subpeltata.html
-- title: Senegal knotweed (Persicaria senegalensis)
-  url: /sense/landscape-garden/plants/persicaria-senegalensis.html
-- title: Sandpaper fig - The island
-  url: /sense/landscape-garden/individual-plants/island-sandpaper-fig.html
 tags: wood-duck-meadows
 title: The Dam
 type: zone

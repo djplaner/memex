@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: End-user programming
-  url: /sense/Bricolage/end-user-programming.html
 tags:
 - nodt
 - digital-technology

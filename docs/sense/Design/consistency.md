@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Design
-  url: /sense/Design/design.html
 title: Consistency
 ---
 > In Civilisation and Its Discontents, Freud wrote of an irreducible tension between the individual (seeking freedom for autonomous action) and civilisation (demanding a necessary conformity) (Freud, 1930). Similarly, Greenhalgh has argued that the tension between standardization and contingency can never be resolved, but rather must be actively managed, a task that gets harder as the domain of application gets larger (Greenhalgh, et al., 2009). Thus standardisation cannot be a universal approach to quality and safety, but will always require continual grounding and judgment if it is to be used safely and effectively. (Wears, p. 8)

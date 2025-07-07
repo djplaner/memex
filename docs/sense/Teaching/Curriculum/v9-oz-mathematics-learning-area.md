@@ -1,11 +1,4 @@
 ﻿---
-backlinks:
-- title: Australian Curriculum
-  url: /sense/Teaching/Curriculum/australian-curriculum.html
-- title: Teaching Mathematics
-  url: /sense/Teaching/Mathematics/teaching-mathematics.html
-- title: Mathematical problem solving
-  url: /sense/Teaching/Mathematics/mathematical-problem-solving.html
 title: Mathematics learning area - Australian Curriculum v9
 ---
 ## Strands

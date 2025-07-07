@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Paper Ideas
-  url: /sense/Paper-Ideas/paper-ideas.html
 title: Changing interactions to improve L&T
 ---
 ## Spark

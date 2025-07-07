@@ -1,9 +1,4 @@
 ﻿---
-backlinks:
-- title: Colophon
-  url: /colophon/colophon.html
-- title: Deploy with GitHub Action
-  url: /colophon/deploy-with-github-action.html
 tags:
 - colophon
 title: Why combine mkdocs with Foam

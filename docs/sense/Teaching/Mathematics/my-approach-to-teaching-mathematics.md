@@ -1,15 +1,4 @@
 ﻿---
-backlinks:
-- title: Teaching Mathematics
-  url: /sense/Teaching/Mathematics/teaching-mathematics.html
-- title: Plans for teaching in 2024
-  url: /sense/Teaching/Mathematics/2024-teaching-plans.html
-- title: Teaching implementation
-  url: /sense/Teaching/Implementation/teaching-implementation.html
-- title: Goompi model
-  url: /sense/Teaching/Mathematics/cser-mooc/goompi-model.html
-- title: Activity focused mathematics teaching (design for learning)
-  url: /sense/Teaching/Mathematics/activity-types/activity-centered-math-teaching.html
 tags: teaching, teaching-mathematics
 title: My approach to teaching mathematics
 type: note

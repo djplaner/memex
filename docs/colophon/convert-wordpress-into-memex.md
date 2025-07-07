@@ -1,17 +1,4 @@
 ﻿---
-backlinks:
-- title: Modify Markdown files
-  url: /colophon/modify-markdown-files.html
-- title: Modify blog interface
-  url: /colophon/modify-interface.html
-- title: Computational components
-  url: /colophon/computational-components.html
-- title: Comparing Wordpress to Memex
-  url: /colophon/comparing-wordpress-to-memex.html
-- title: Memex - Version 3
-  url: /colophon/version-3-memex-design.html
-- title: A new day
-  url: /share/blog/2025/a-new-day.html
 tags:
 - colophon
 title: Convert Wordpress into Memex

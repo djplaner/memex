@@ -1,11 +1,4 @@
 ﻿---
-backlinks:
-- title: Personal Knowledge Management
-  url: /pkm.html
-- title: Thinking about 'memex v2'
-  url: /colophon/memex-v2.html
-- title: Visualising and pruning my Memex
-  url: /share/blog/visualising-and-pruning-my-memex.html
 title: Share
 ---
 What do I want to share with the world?

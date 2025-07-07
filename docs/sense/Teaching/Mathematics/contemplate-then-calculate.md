@@ -1,13 +1,4 @@
 ﻿---
-backlinks:
-- title: Across the grain
-  url: /sense/Teaching/Mathematics/across-the-grain.html
-- title: My approach to teaching mathematics
-  url: /sense/Teaching/Mathematics/my-approach-to-teaching-mathematics.html
-- title: CSER Math Connections with Community
-  url: /sense/Teaching/Mathematics/cser-connections-with-community.html
-- title: Technologies for teaching mathematics
-  url: /sense/Teaching/Mathematics/technologies-for-teaching-mathematics.html
 title: Contemplate then calculate
 ---
 Resources: [originators site](https://www.fosteringmathpractices.com/contemplate-then-calculate/), [primer](https://tedd.org/wp-content/uploads/2015/06/Contemplate-then-Calculate-CTCPrimer1.pdf), [PD PowerPoint](https://www.nctm.org/uploadedFiles/Conferences_and_Professional_Development/Institutes/Grades_3-8_Mathematical_Practices/2015%20Institute_Lucenta_C%20then%20C_REV.pdf)

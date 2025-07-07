@@ -1,11 +1,4 @@
 ﻿---
-backlinks:
-- title: Seek
-  url: /seek/seek.html
-- title: Seek triage list
-  url: /seek/seek-triage.html
-- title: Distributed indie web development
-  url: /seek/distributed-indie-web-development.html
 tags:
 - seek
 title: Leveraging digital technologies

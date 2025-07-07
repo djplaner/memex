@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Computing
-  url: /sense/computing/computing.html
 tags: computing, digital-technology, teaching-digital-technology
 title: Teaching Programming
 type: note

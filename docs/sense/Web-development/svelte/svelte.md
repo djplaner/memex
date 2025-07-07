@@ -1,9 +1,4 @@
 ﻿---
-backlinks:
-- title: Web development
-  url: /sense/Web-development/web-development.html
-- title: Svelte tutorial
-  url: /sense/Web-development/svelte/svelte-tutorial.html
 title: Svelte
 ---
 [Svelte](https://svelte.dev/) an open-source, declarative web development framework that works as a compiler to vanilla JS.

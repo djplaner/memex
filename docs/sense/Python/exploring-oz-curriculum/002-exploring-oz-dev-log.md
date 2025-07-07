@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Exploring australian curriculum
-  url: /sense/Python/exploring-australian-curriculum.html
 title: Exploring Oz Curriculum - Dev log 2
 ---
 ## Tasks 

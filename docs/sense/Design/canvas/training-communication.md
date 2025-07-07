@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Canvas models
-  url: /sense/Design/canvas/canvas-models.html
 title: Canvas training communication
 ---
 - Communicating for online learning

@@ -1,12 +1,4 @@
 ﻿---
-backlinks:
-- title: Orchestration
-  url: /sense/orchestration.html
-- title: 'Orchestrating entangled relations to break the iron triangle: Observations
-    from an LMS migration'
-  url: /share/conferences/ascilite-2022/observations-from-an-lms-migration.html
-- title: Distribution
-  url: /sense/Distribution/distribution.html
 title: Evaluating orchestration
 ---
 Nascent attempt to extract meaning from [[role-of-relationships-breaking-the-iron-triangle]]
@@ -81,6 +73,7 @@ Dependent upon all three. Providing access means supporting a useful combination
 #### Example - [Moving content from one LMS to another](https://djon.es/blog/2022/07/05/orchestrating-entangled-relations-to-break-the-iron-triangle-examples-from-a-lms-migration/#moving-content-from-one-lms-to-another-using-the-common-cartridge-standard)
 
 Using the Common Cartridge standard to migrate course content means
+
 1. Explicitly removing all contextual knowledge.
 
     By definition/purpose, Common Cartridge defines a generic standard.

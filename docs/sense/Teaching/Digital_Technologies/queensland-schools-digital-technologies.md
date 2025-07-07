@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Teaching Digital Technologies
-  url: /sense/Teaching/Digital_Technologies/teaching-digital-technologies.html
 title: Queensland schools and digital technologies
 ---
 ## 2023

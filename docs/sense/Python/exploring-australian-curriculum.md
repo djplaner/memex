@@ -1,17 +1,4 @@
 ﻿---
-backlinks:
-- title: Python
-  url: /sense/Python/python.html
-- title: datasette
-  url: /sense/Python/datasette.html
-- title: streamlit
-  url: /sense/Python/streamlit.html
-- title: CASA Gallery
-  url: /sense/CASA/casa-gallery.html
-- title: ALIVE
-  url: /sense/Teaching/Mathematics/alive.html
-- title: Mathematics Conceptual Knowledge for Teaching (MCKT)
-  url: /sense/Teaching/Mathematics/mathematics-conceptual-knowledge-for-teaching.html
 title: Exploring australian curriculum
 ---
 ## Development log

@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Work categories
-  url: /sense/work/work-categories.html
 title: Narrated Powerpoint transcripts
 ---
 ## Problem

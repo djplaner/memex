@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Concepts
-  url: /sense/concepts/concepts.html
 title: Continuous Delivery and Deployment
 ---
 ## Continuous delivery 

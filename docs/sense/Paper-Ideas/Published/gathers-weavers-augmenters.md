@@ -1,9 +1,4 @@
 ﻿---
-backlinks:
-- title: Teaching as gathering, weaving, and augmenting
-  url: /sense/Teaching/teaching-as-gather-weave-augment.html
-- title: Published papers
-  url: /sense/Paper-Ideas/Published/published-papers.html
 title: 'Gathers, Weavers and Augmenters: Three principles for dynamic and sustainable
   delivery of quality learning and teaching'
 ---

@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Technologies for teaching mathematics
-  url: /sense/Teaching/Mathematics/technologies-for-teaching-mathematics.html
 title: Teaching mathematics for a growth mindset
 ---
 See als: [[teaching-mathematics]], [[design-for-mathematical-mindset]], [[growth-mindset]]

@@ -1,9 +1,4 @@
 ﻿---
-backlinks:
-- title: Python
-  url: /sense/Python/python.html
-- title: CASA Gallery
-  url: /sense/CASA/casa-gallery.html
 tags: teaching, teaching-digital-technologies, teaching-mathematics, python
 title: Developing Crackers
 type: note

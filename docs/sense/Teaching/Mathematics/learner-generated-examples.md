@@ -1,11 +1,4 @@
 ﻿---
-backlinks:
-- title: Mathematical Examples Generator
-  url: /sense/CASA/mathematical-examples-generator.html
-- title: Mathematical discussion and communication (in the classroom)
-  url: /sense/Teaching/Mathematics/mathematical-discussion-communication.html
-- title: Technologies for teaching mathematics
-  url: /sense/Teaching/Mathematics/technologies-for-teaching-mathematics.html
 title: Learner Generated Examples
 ---
 Watson and Shipman (2008) 

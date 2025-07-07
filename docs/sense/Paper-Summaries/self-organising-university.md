@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Paper Summaries
-  url: /sense/Paper-Summaries/paper-summaries.html
 title: Self-organising university
 ---
 Summary of

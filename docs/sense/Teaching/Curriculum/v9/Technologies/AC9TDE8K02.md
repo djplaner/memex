@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Learning Areas
-  url: /sense/Teaching/Curriculum/v9/v9-learning-areas.html
 tags: australian-curriculum
 title: AC9TDE8K02
 type: note

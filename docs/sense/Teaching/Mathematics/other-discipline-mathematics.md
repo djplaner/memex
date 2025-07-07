@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Teaching Mathematics
-  url: /sense/Teaching/Mathematics/teaching-mathematics.html
 tags: mathematics, teaching-mathematics
 title: Other Discipline Mathematics
 type: index

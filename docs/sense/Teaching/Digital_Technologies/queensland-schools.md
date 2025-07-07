@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: 'Teaching '
-  url: /sense/Teaching/teaching.html
 title: Queensland Schools
 ---
 Misc melting pot of resources/info re: Queensland schools.

@@ -1,11 +1,4 @@
 ﻿---
-backlinks:
-- title: My Teaching Philosophy
-  url: /sense/Teaching/my-teaching-philosophy.html
-- title: Teaching Mathematics
-  url: /sense/Teaching/Mathematics/teaching-mathematics.html
-- title: CSER MiS - Getting started module
-  url: /sense/Teaching/Mathematics/cser-mooc/cser-getting-started.html
 template: math.html
 title: Mathematical structure
 ---

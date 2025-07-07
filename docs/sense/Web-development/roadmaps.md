@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Web development
-  url: /sense/Web-development/web-development.html
 title: Roadmaps for web development
 ---
 [Original website](https://roadmap.sh) offers annotated roadmaps for

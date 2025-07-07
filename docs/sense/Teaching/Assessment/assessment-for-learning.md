@@ -1,23 +1,4 @@
 ﻿---
-backlinks:
-- title: Data informed teaching
-  url: /sense/Teaching/data-informed-teaching.html
-- title: My approach to teaching mathematics
-  url: /sense/Teaching/Mathematics/my-approach-to-teaching-mathematics.html
-- title: Mathematical mindsets
-  url: /sense/Teaching/Mathematics/mathematical-mindsets.html
-- title: Effective pedagogy in mathematics
-  url: /sense/Teaching/Mathematics/effective-pedagogy-in-mathematics.html
-- title: Targeted teaching
-  url: /sense/Teaching/Assessment/targeted-teaching.html
-- title: Assessment
-  url: /sense/Teaching/Assessment/assessment.html
-- title: CSER Maths in Schools - Practices and pedagogies
-  url: /sense/Teaching/Mathematics/cser-mooc/cser-practices-and-pedagogies.html
-- title: CSER MiS - Getting started module
-  url: /sense/Teaching/Mathematics/cser-mooc/cser-getting-started.html
-- title: Mathematical misconceptions and difficulties
-  url: /sense/Teaching/Mathematics/math-misconceptions/mathematical-misconceptions.html
 tags: teaching, assessment
 title: Assessment for learning
 type: note

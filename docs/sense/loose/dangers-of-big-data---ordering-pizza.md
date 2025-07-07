@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Computing
-  url: /sense/computing/computing.html
 title: Dangers of big data - ordering pizza
 ---
 The [ACLU pizza video](https://www.aclu.org/video/ordering-pizza-2015) seems a good example of the dangers of big data, but also a good example of intelligence amplification. A thin line to walk.

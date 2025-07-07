@@ -164,7 +164,7 @@ def extractLinkDefs(pageData):
                     'description': description
                 }
     else:
-        pageData['linkDefs'] = []
+        pageData['linkDefs'] = {}
         return pageData
 
     pageData['linkDefs'] = generateAbsoluteLinks(pageData['filePath'], pageData['linkDefs']) 
@@ -202,35 +202,32 @@ def generateAbsolutePath(currentFilePath: str, link: str) -> str:
 
     return absPath
     
-def addRelativeLinks(markdownFiles: Files):
+def addOtherLinks(markdownFiles: Files):
     """
-    After the bubbles have all been loaded, revisit all the bubbles again, adding relative markdown links to the linkDefs data structure
+    After the bubbles have all been loaded, revisit all the bubbles again, adding 'other' links to the linkdefs data structure, including 
+    - relative markdown links 
+        [text](./link.md) or [text](./link.md#anchor)
+    - absolute local links 
+        [text(/memex/link.md) or [text](/memex/link.md#anchor)
 
     Parameters
     markdownFiles: Files - a (MkDocs) Files object containing all the markdown files in the docs folder
     """
 
     for file in markdownFiles:
-        print(f"addRelatedLinks - file is {file.src_path}")
         content = file.content_string
         start = content.find("[//begin]")
         content = content[:start]
 
+        # local links are defined as [text](./link.md) or [text](./link.md#anchor)
         localLinkRegex = r"\[([^\]]+)\]\((\.[^\)]+.md)\)"
         localLinks = re.findall(localLinkRegex, content)
 
         if len(localLinks)>0:
             for ( text, link ) in localLinks:
-                print(f"    Found local link: {link} with description: {text}")
                 # need to convert link to an absolute link
                 absLink = generateAbsolutePath( file.src_path, link )
 
-#                pprint(bubbles[absLink]['yaml'])
-                print(f"abslink {absLink}")
-#                print('-----------------------')
-#                print(bubbles[file.src_path]['yaml'])
-#                print(f"file {file.src_path}")
-#                print('-----------------------')
                 description = text
                 if 'title' in bubbles[absLink]['yaml']:
                     description = bubbles[absLink]['yaml']['title']
@@ -239,8 +236,26 @@ def addRelativeLinks(markdownFiles: Files):
                     'text': text,
                     'description': description
                 }
-#            pprint(bubbles[file.src_path]['linkDefs'])
-#            input(f"--------------  finding relative links ")
+
+        # absolute links are defined as [text](/memex/link.md) or [text](/memex/link.md#anchor)
+        absLinkRegex = r"\[([^\]]+)\]\((/memex/[^\)]+.md)\)"
+        absLinks = re.findall(absLinkRegex, content)
+        if len(absLinks)>0:
+            print(f"file {file.src_path} has {len(absLinks)} absolute links")
+            for ( text, link ) in absLinks:
+                # absLink is link minus the /memex/ prefix
+                absLink = link.replace("/memex/", "")
+                if 'title' in bubbles[absLink]['yaml']:
+                    description = bubbles[absLink]['yaml']['title']
+
+                if 'linkDefs' not in bubbles[file.src_path]:
+                    bubbles[file.src_path]['linkDefs'] = {}
+
+                bubbles[file.src_path]['linkDefs'][absLink] = {
+                    'text': text,
+                    'description': description
+                }
+
 
     # DO NOT Remove the link definitions from the content
     # Need to convert the links to absolute link, where / is the docs folder
@@ -750,6 +765,65 @@ def findFiles(markdownFiles: Files):
 
     input("Press Enter to continue...")
 
+def saveBubbleToFile(bubble: dict):
+    """
+    Save a bubble to the file system
+
+    Parameters
+    bubble: dict - a dictionary containing the bubble content, yaml metadata, and file path
+        {
+            'content': <content of bubble>,
+            'yaml': <yaml metadata of bubble>,
+            'filePath': <absolute path to bubble file>
+            'linkDefs': { <link>: { 'text': <text>, 'link': <link> } }
+        }
+    """
+
+    #-- save the bubble to the file system
+
+    with open(f"docs/{bubble['filePath']}", 'w', encoding="utf-8-sig") as f:
+        f.write("---\n")
+        f.write(yaml.dump(bubble['yaml']))
+        f.write("---\n")
+        f.write(bubble['content'])
+
+#    print(f"Saved bubble to {bubble['filePath']}")
+#    pprint(bubble['yaml'])
+#    input("Press Enter to continue...")
+
+
+def removeBackLinks():
+    """
+    Find any markdown files that have backlinks in the front matter (of the bubble) and remove the backlinks from the front matter in the actual files
+
+    Backlink format
+
+backlinks:
+- title: Bush regeneration (Wood duck meadows)
+  url: /sense/landscape-garden/regeneration.html
+- title: The Island
+  url: /sense/landscape-garden/the-island.html
+- title: Mango paddock
+  url: /sense/landscape-garden/mango-paddock.html
+- title: Plants
+  url: /sense/landscape-garden/plants/plants.html
+    """
+
+    #-- loop through each bubble and see if it has backlinks in the front matter
+    for filePath in bubbles.keys():
+        #-- if the filePath is not in the bubbles, skip it
+        if filePath not in bubbles:
+            continue
+
+        #-- if the bubble has backlinks, remove them from the front matter
+        if 'backlinks' in bubbles[filePath]['yaml']:
+#            print(f"Removing backlinks from {filePath}")
+#            pprint(bubbles[filePath]['yaml']['backlinks'])
+            del bubbles[filePath]['yaml']['backlinks']
+#            print("Backlinks removed")
+#            pprint(bubbles[filePath]['yaml'])
+            #-- save the bubble without backlinks
+            saveBubbleToFile(bubbles[filePath])
 
 """
 Main entry point for the generator
@@ -762,14 +836,18 @@ config = configure()
 # via the .items() method
 # File object - https://www.mkdocs.org/dev-guide/api/#mkdocs.structure.files.File
 filesEditor = mkdocs_gen_files.editor.FilesEditor.current()
+#-- use mkdocs to get all the markdown files for mkdocs
 markdownFiles = filesEditor.files.documentation_pages()
-
-
 #findFiles(markdownFiles)
-
+#-- use mkdocs data structures to get all Memex bubbles
 retrieveMemexBubbles(markdownFiles)
 
-addRelativeLinks(markdownFiles)
+#-- one-off utility function - to remove backlinks from front matter of actual files
+#  not the mkdocs in memory copies
+#removeBackLinks()
+#quit()
+
+addOtherLinks(markdownFiles)
 
 #pprint(bubbles.keys())
 

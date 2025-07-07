@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Paper Ideas
-  url: /sense/Paper-Ideas/paper-ideas.html
 title: Breaking the iron triangle
 ---
 [[iron-triangle]]

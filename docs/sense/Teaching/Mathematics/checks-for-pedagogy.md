@@ -1,11 +1,4 @@
 ﻿---
-backlinks:
-- title: Dual coding
-  url: /sense/Learning/dual-coding.html
-- title: Technologies for teaching mathematics
-  url: /sense/Teaching/Mathematics/technologies-for-teaching-mathematics.html
-- title: TIRED
-  url: /sense/Teaching/Mathematics/tired.html
 title: Checks for pedagogy
 ---
 Checklist for pedagogy in mathematics teaching offered by Grant Sanderson in a talk titled [_Math's pedagogical curse_](https://www.youtube.com/watch?v=UOuxo6SA8Uc)

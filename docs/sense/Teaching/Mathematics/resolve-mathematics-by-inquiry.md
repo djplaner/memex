@@ -1,13 +1,4 @@
 ﻿---
-backlinks:
-- title: My approach to teaching mathematics
-  url: /sense/Teaching/Mathematics/my-approach-to-teaching-mathematics.html
-- title: CSER Math Connections with Community
-  url: /sense/Teaching/Mathematics/cser-connections-with-community.html
-- title: Technologies for teaching mathematics
-  url: /sense/Teaching/Mathematics/technologies-for-teaching-mathematics.html
-- title: CSER Maths in Schools - Practices and pedagogies
-  url: /sense/Teaching/Mathematics/cser-mooc/cser-practices-and-pedagogies.html
 title: reSolve - Mathematics by inquiry
 ---
 [re(Solve) - Maths by Inquiry](https://www.resolve.edu.au/) - Oz Government funded project including numerous teaching resources including alignment with Oz Curriculum (but sadly not v9)

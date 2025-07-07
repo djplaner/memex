@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Consistency
-  url: /sense/Design/consistency.html
 title: Consistency and UX
 ---
 - Lots of people push for consistent course websites

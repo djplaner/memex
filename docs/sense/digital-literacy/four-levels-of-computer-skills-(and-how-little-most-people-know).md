@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Digital Literacy
-  url: /sense/Learning/digital-literacy.html
 title: Four levels of computer skills (and how little most people know)
 ---
 # Four levels of computer skills (and how little most people know)

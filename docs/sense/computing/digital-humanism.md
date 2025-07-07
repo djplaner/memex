@@ -1,15 +1,4 @@
 ﻿---
-backlinks:
-- title: The relationships between BAD/SET, CASA, and Gather/Weave
-  url: /sense/CASA/bad_set-casa-gather-weave.html
-- title: Alternate conceptions of the web
-  url: /sense/computing/alternate-conceptions-of-the-web.html
-- title: Computing
-  url: /sense/computing/computing.html
-- title: Use of reveal.js for presentations
-  url: /sense/Teaching/Mathematics/use-of-revealjs-for-presentations.html
-- title: My approach to teaching digital technologies
-  url: /sense/Teaching/Mathematics/my-approach-to-teaching-digital-technologies.html
 tags: computing, teaching, rww, digital-humanism
 title: Digital Humanism
 type: note

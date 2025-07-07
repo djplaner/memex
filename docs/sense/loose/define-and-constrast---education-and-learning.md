@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Loose notes
-  url: /sense/loose/loose.html
 title: Define and constrast - Education & Learning
 ---
 > a) education; is a process organized by institutions who offer qualifications based on set texts to be used by learning groups in classes to meet accreditation criteria. Teachers provide resources and broker these educational processes.

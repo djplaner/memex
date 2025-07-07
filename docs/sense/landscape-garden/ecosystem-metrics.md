@@ -1,7 +1,4 @@
 ﻿---
-backlinks:
-- title: Bush regeneration (Wood duck meadows)
-  url: /sense/landscape-garden/regeneration.html
 tags: landscape, garden, ecosystem
 title: Ecosystem metrics
 type: note
