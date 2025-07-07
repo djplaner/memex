@@ -11,6 +11,7 @@ tags:
 **NOW**
 
 - [x] Extracting relative links in corpusActions
+  - [ ] remove `backlinks` from frontmatter
 - [ ] Also extract absolut memex links [something](/memex/sense.*.md)
 - [ ] Network graph not finding memex/sense/birdwatching/life-list-generator.html
 - [ ] Also wasn't expanding out the graph - applying the force graph layout
