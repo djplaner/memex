@@ -13,6 +13,7 @@ tags:
 - [x] Extracting relative links in corpusActions
   - [x] remove `backlinks` from frontmatter
 - [x] Also extract absolute memex links 
+
 - [ ] Network graph not finding memex/sense/birdwatching/life-list-generator.html
 - [ ] Also wasn't expanding out the graph - applying the force graph layout
 
@@ -22,6 +23,7 @@ On-going
 
 - Process the [sense list](#sense)
 - [[publishing-graph-interface]]
+- 
 
 - Refine/merge/handle [[random-notes]] and [[loose]] notes
 - Update the "Made with Material for Mkdocs" to be more [[some-assemblage-required]]
