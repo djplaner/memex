@@ -84,6 +84,13 @@ The highlight being views into various limestone caves created by the steam.
 
 ## Wednesday 9th July, Auckland and back, again
 
-The missus flies in today. Another day largely taken up with driving to and back from Auckland airport. Especially when leaving Auckland airport around 5pm, dealing with peak hour traffic, and taking a wrong turn. Close on 4 hours later a safe return "home".
+My lovely wife flies in today. Another day largely taken up with driving to and back from Auckland airport. Especially when leaving Auckland airport around 5pm, dealing with peak hour traffic, and taking a wrong turn. Close on 4 hours later a safe return "home".
 
 ## Thursday 10th July, Otorohanga
+
+A settling in day. A bit of a sleep in, some reading, a tour of the temporary home, and orientation with the animals. Followed by a trip into Otorohanga for a walk and provisions. 70+mm of rain predicted for tomorrow, so expecting a day of doing nothing beyond watch the creeks rise.
+
+<figure markdown>
+![New Zealand pigeon sitting in a decideous tree. Hidden somewhat by numerous thin branches tree. The bird is leaning forward so tail and head are horizontal. White underbelly conspicuous below red/green wings and neck/head.](https://djon.es/assets/memex/sense/Travel/nz-2025/new-zealand-pigeon.jpeg)
+<caption>New Zealand pigeon in a tree just outside the house at the start of the farm tour</caption>
+</figure>
