@@ -82,4 +82,8 @@ The highlight being views into various limestone caves created by the steam.
 <caption>Stream entering the largest of the caves on the Ruakuri Bushwalk</caption>
 </figure>
 
+## Wednesday 9th July, Auckland and back, again
 
+The missus flies in today. Another day largely taken up with driving to and back from Auckland airport. Especially when leaving Auckland airport around 5pm, dealing with peak hour traffic, and taking a wrong turn. Close on 4 hours later a safe return "home".
+
+## Thursday 10th July, Otorohanga
