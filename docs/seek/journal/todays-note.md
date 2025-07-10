@@ -14,6 +14,7 @@ tags:
   - [x] remove `backlinks` from frontmatter
 - [x] Also extract absolute memex links 
 
+- [x] add numeric totals to timeline of changes
 - [ ] Network graph not finding memex/sense/birdwatching/life-list-generator.html
 - [ ] Also wasn't expanding out the graph - applying the force graph layout
 

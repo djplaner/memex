@@ -70,7 +70,7 @@ def generateMonthByYearStats( year, commitsByYear, numCommits, numChanges ):
 
 """
 
-    bar_chart = pygal.HorizontalBar(human_readable=True, style=DarkStyle)
+    bar_chart = pygal.HorizontalBar(human_readable=True, style=DarkStyle, print_values=True)
     bar_chart.title = f"# of commits by month for {year}"
 
     for month in [ 'December', 'November', 'October', 'September', 'August', 'July', 'June', 'May', 'April', 'March', 'February', 'January' ]:
@@ -110,7 +110,7 @@ def generateByYearStats( commitsByYear, numChanges ):
 
 #    stats += "\n\n"
 
-    bar_chart = pygal.HorizontalBar( human_readable=True, style=DarkStyle)
+    bar_chart = pygal.HorizontalBar( human_readable=True, style=DarkStyle, print_values=True )
     bar_chart.title = "# of commits by year"
     for year in sorted(commitsByYear.keys(), reverse=True):
         numCommits = sum(len(month) for month in commitsByYear[year].values())
