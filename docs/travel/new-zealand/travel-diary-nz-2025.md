@@ -94,3 +94,34 @@ A settling in day. A bit of a sleep in, some reading, a tour of the temporary ho
 ![New Zealand pigeon sitting in a decideous tree. Hidden somewhat by numerous thin branches tree. The bird is leaning forward so tail and head are horizontal. White underbelly conspicuous below red/green wings and neck/head.](https://djon.es/assets/memex/sense/Travel/nz-2025/new-zealand-pigeon.jpeg)
 <caption>New Zealand pigeon in a tree just outside the house at the start of the farm tour</caption>
 </figure>
+
+## Friday 11th July, Otorohanga
+
+Day of heavier showers and rain. Long decided to stay entirely at home. Watched the 2024 movie _Civil War_ and episodes of _Squid Game_. Some reading.
+
+## Saturday 12th July, Otorohanga
+
+Another day of rain/showers and minimal activity. Did venture to town to get some provisions. Finished _Squid Game_ and various other distractions.
+
+Did move the cattle to a new paddock due to sunnier weather. However, typical of the day our first foray to the cattle was aborted due to a heavy shower. Sun, shower followed each other the rest of the day. Took the opportunity to head up the hill closer to the boundary to get a better view.
+
+<figure markdown>
+![](https://djon.es/assets/memex/sense/Travel/nz-2025/nz-home-pano.jpeg)
+<caption>Panoramic view of our home whilst in NZ</caption>
+</figure>
+
+## Sunday 13th July, Otorohanga ???
+
+Slow start to the day, looking like being a bit wetter than yesterday. The plan is to get out a bit more today, maybe. First some chores for the morning feeding some animals and cleaning up the chooks a touch. Spotted some of the "local wildlife" down the valley.
+
+<figure markdown>
+![Seven wild turkeys walking down a green paddock beside a small stream. The stream is lined by a barbed wire fence.](https://djon.es/assets/memex/sense/Travel/nz-2025/turkeys.jpeg)
+<caption>Turkeys in the valley</caption>
+</figure>
+
+On the way back up the drive took struck by the lightly wooded hills clouded with mist.
+
+<figure markdown>
+![Lightly wooded hills rising from a small valley. Green grassed largish hill heading off to the left. Further right a fence line is followed with large decideous trees without their leaves. Hill tops clouded in mist.](https://djon.es/assets/memex/sense/Travel/nz-2025/mist-hills.jpeg)
+<caption>View across the valley</caption>
+</figure>

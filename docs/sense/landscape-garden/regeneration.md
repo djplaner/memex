@@ -43,6 +43,7 @@ Any approach should be appropriate to the context.
 
     - [[permaculture]]
     - [[ecosystem-restoration]]
+    - [[nature-markets]]
 
 - [[regeneration-strategies|Strategies]]
 
@@ -104,6 +105,7 @@ Organisations
 [harpullia-pendula]: plants/harpullia-pendula "Harpullia Pendula (Moreton Bay Tulipwood)"
 [unknown-ficus]: individual-plants/unknown-ficus "Unknown ficus"
 [brachychiton-rupestris]: plants/brachychiton-rupestris "Brachychiton rupestris (Queensland Bottle Tree)"
+[nature-markets]: nature-markets "Nature markets"
 [regeneration-strategies|Strategies]: strategies/regeneration-strategies "Regeneration strategies"
 [improving-soil]: strategies/improving-soil "Improving soil"
 [regeneration-techniques|Techniques]: techniques/regeneration-techniques "Regeneration techniques"

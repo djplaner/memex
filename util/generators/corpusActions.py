@@ -408,8 +408,6 @@ def generateBackLinks(bubbles: dict):
         if any(re.search(pattern, bubble['filePath']) for pattern in EXCLUDE):
             continue
 
-        if file.endswith("sense/birdwatching/spottedDove.md"):
-            print("--------------- spottedDove")
 #            print(f"Processing bubble {file}")
 #            pprint(bubble)
 #            input("Press Enter to continue...")
@@ -425,6 +423,9 @@ def generateBackLinks(bubbles: dict):
 #            input("Press Enter to continue...")
             #-- 
             if destinationPath not in backLinks:
+                print(f"Warning: destinationPath {destinationPath} not found in backLinks")
+                print(f"from file {file}")
+                input("Press Enter to continue...")
                 backLinks[destinationPath] = {}
             backLinks[destinationPath][sourcePath] = bubble
             if file.endswith("sense/birdwatching/spottedDove.md"):

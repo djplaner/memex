@@ -3,7 +3,6 @@ tags: design, gather-weave, CASA
 title: Gather and weave
 type: note
 ---
-# Gather and Weave
 
 The "gather and weave" metaphor emerged from [work by Henry Cook, Steven Booten, and I](https://djon.es/blog/2023/02/09/gathers-weavers-and-augmenters-three-principles-for-dynamic-and-sustainable-delivery-of-quality-learning-and-teaching/) during an institutional LMS migration. Subsequently we started exploring how it may be useful for business as usual. Beyond that, perhaps a useful abstract way to think more broadly about educational design and development in an increasingly entangled/complex L&T context.  
 
