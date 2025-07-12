@@ -76,7 +76,7 @@ function createGraph(data) {
         linkTarget('target').
         enablePointerInteraction(true).
         nodeAutoColorBy('name').
-        zoomToFit(0,10).
+//        zoomToFit(0,10).
         onNodeClick( node => {
             // redirect browser to <current-host>/node.id
             const url = new URL(node.id, window.location.origin);
@@ -92,7 +92,7 @@ function createGraph(data) {
         ctx.fill();
       }) */
 
-//      graph.onEngineStop(() => graph.zoomToFit(0,10));
+      graph.onEngineStop(() => graph.zoomToFit(0,10));
 
     // G6
 /*    const { Graph } = G6;

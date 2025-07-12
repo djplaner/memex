@@ -680,7 +680,7 @@ def generateGraphJson(backLinks, bubbles):
         graphData['nodes'].append({
             'id': nodeId,
             'name': name,
-            'x': x, 'y': y,
+#            'x': x, 'y': y,
 #            'value': filePath,
             'data': { 'name': name },
         })
