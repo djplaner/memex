@@ -110,7 +110,7 @@ Did move the cattle to a new paddock due to sunnier weather. However, typical of
 <caption>Panoramic view of our home whilst in NZ</caption>
 </figure>
 
-## Sunday 13th July, Otorohanga ???
+## Sunday 13th July, Otorohanga, Te Awamutu, Yarndley's Bush and Lake Ngaroto 
 
 Slow start to the day, looking like being a bit wetter than yesterday. The plan is to get out a bit more today, maybe. First some chores for the morning feeding some animals and cleaning up the chooks a touch. Spotted some of the "local wildlife" down the valley.
 
@@ -124,4 +124,25 @@ On the way back up the drive took struck by the lightly wooded hills clouded wit
 <figure markdown>
 ![Lightly wooded hills rising from a small valley. Green grassed largish hill heading off to the left. Further right a fence line is followed with large decideous trees without their leaves. Hill tops clouded in mist.](https://djon.es/assets/memex/sense/Travel/nz-2025/mist-hills.jpeg)
 <caption>View across the valley</caption>
+</figure>
+
+Around lunch time we headed off to Te Awamutu. Initially for a visit to [Yarndley's Bush](https://www.waipadc.govt.nz/your-waipa/parks-and-reserves/te-awamutu-parks-and-reserves/yarndleys-bush). A remnant of native  Kahikatea swamp forest. The ~150 year old Kahikatea trees are 30-35m tall.
+
+<figure markdown>
+![](https://djon.es/assets/memex/sense/Travel/nz-2025/kahikatea-tree-tops.jpeg)
+<caption>Up to the tops of the Kahikatea trees</caption>
+</figure>
+
+As a swamp forest the soil is very moist, thus limited oxygen for the roots. The trees have adapted by growing large buttress roots to support the tree and provide some oxygen.
+
+<figure markdown>
+![](https://djon.es/assets/memex/sense/Travel/nz-2025/kahikatea-roots.jpeg)
+<caption>Kahikatea roots</caption>
+</figure>
+
+From there we drove a short while to [Lake Ngaroto](https://en.wikipedia.org/wiki/Lake_Ngaroto). Nice for a brief stop, the big surprise was spotting some black swans. 
+
+<figure markdown>
+![](https://djon.es/assets/memex/sense/Travel/nz-2025/black-swans.jpeg)
+<caption>Black swans on Lake Ngaroto</caption>
 </figure>
