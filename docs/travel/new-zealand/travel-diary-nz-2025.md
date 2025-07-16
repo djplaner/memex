@@ -146,3 +146,39 @@ From there we drove a short while to [Lake Ngaroto](https://en.wikipedia.org/wik
 ![](https://djon.es/assets/memex/sense/Travel/nz-2025/black-swans.jpeg)
 <caption>Black swans on Lake Ngaroto</caption>
 </figure>
+
+## Monday 14th July, Ruakuri Bushwalk
+
+Sandy had a couple of work calls scheduled and it was raining at times during the day. Hence mostly spent at home. However, we did manage the [Ruakuri Bushwalk](https://www.doc.govt.nz/parks-and-recreation/places-to-go/waikato/places/waitomo-area/tracks/ruakuri-walk/) after lunch. Sandy's first attempt. Followed by food shopping in Otorohanga. Home just in time for the rain to continue.
+
+<figure markdown>
+![](https://djon.es/assets/memex/sense/Travel/nz-2025/sandy-bush-walk.jpeg)
+<caption>Sandy braving the wilds of the Ruakuri Bushwalk</caption>
+</figure>
+
+## Tuesday 15th July, Otorohanga
+
+Another day of rain, another day indoors. This time with cooking. Sandy cooked another batch of dhal, I did some choc chip cookies. Tomorrow promises to be fine.
+
+## Wednesday 16th July, Sanctuary Mountain Maungatautari
+
+Spent most of the day (11:30am to 4:00pm) at [Sanctuary Mountain Maungatautari](https://www.sanctuarymountain.co.nz/). The intent being to explore more of native NZ bush. Almost all of the country side is green rolling hills given over to dairy cattle or sheep. What bush remains in odd pockets feels the impacts of mammals like possums, rats, and stoats. Not native to NZ.
+
+<figure markdown>
+![](https://djon.es/assets/memex/sense/Travel/nz-2025/waikato-river-country.jpeg)
+<caption>View back toward the Waikato River from the Sanctuary Mountain Maungatautari. A fair bit more "bush" visible in this photo than much of the countryside.</caption>
+</figure>
+
+Sanctuary Mountain Maungatautari is a large ecological sanctuary based on [Maungatautari](https://en.wikipedia.org/wiki/Maungatautari) an extinct volcano. Some 33,000+ hectares of mountain and forest surrounded by a 47km predator-proof fence. Once the fence was up significant effort was expended removing (killing) non-native animals within the fence. In their absence the native flora and fauna have thrived.
+
+<figure markdown>
+![](https://djon.es/assets/memex/sense/Travel/nz-2025/sanctuary-mountain-bush.jpeg)
+<caption>A taste of the native bush within Sanctuary Mountain Maungatautari</caption>
+</figure>
+
+There are kilometers of graveled walking tracks throughout the sanctuary. We spent almost all of our time wondering along different tracks. Also took in one of the available guided tours, a good introduction. Later in the day we walked through a collection of birds busy in the canopy. The highlight being a [North Island Kaka](http://djon.es/memex/sense/birdwatching/newZealandKaka.html) happily destroying a branch just above the path. Very happy to ignore us we watched. The [Kaka](https://en.wikipedia.org/wiki/K%C4%81k%C4%81) is an endangered parrot native to New Zealand. 
+
+<figure markdown>
+![](https://djon.es//assets/memex/sense/birdwatching/images/newZealandKaka/S260231634.jpeg)
+<caption>North Island Kaka</caption>
+</figure>
