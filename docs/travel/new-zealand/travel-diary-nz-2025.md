@@ -182,3 +182,30 @@ There are kilometers of graveled walking tracks throughout the sanctuary. We spe
 ![](https://djon.es//assets/memex/sense/birdwatching/images/newZealandKaka/S260231634.jpeg)
 <caption>North Island Kaka</caption>
 </figure>
+
+## Thursday 17th July, Otorohanga
+
+Another day of rain and indoors. Nothing exciting.
+
+## Friday 18th July, Hobbiton
+
+The weather forecast was for rain clearing from late morning. It's been consistently reliable so we booked for a Hobbiton tour at midday. All went well with the weather and the tour was enjoyable. Sandy's highlight was entering a Hobbit hole and seeing the interior detail. In particular, the preserves. The level of detail was impressive.
+
+<figure markdown>
+![](https://djon.es/assets/memex/sense/Travel/nz-2025/hobbit-hole-interior.jpeg)
+<caption>Interior of a Hobbit hole</caption>
+</figure>
+
+With a bit more background on the books and the movies I enjoyed the outside more than Sandy. Afterward we watched the first Hobbit movie to help Sandy make connections.
+
+<figure markdown>
+![](https://djon.es/assets/memex/sense/Travel/nz-2025/hobbiton.jpeg)
+<caption>Looking over Hobbiton with Bagend up top</caption>
+</figure>
+
+The end of the tour was at the Green Dragon Inn with a free drink (cider for me, ginger beer for Sandy). Our last surprise of the tour were the free Stein due to there being construction work going on. Not that we were worried by it.
+
+<figure markdown>
+![](https://djon.es/assets/memex/sense/Travel/nz-2025/green-dragon.jpeg)
+<caption>Green Dragon Inn</caption>
+</figure>
