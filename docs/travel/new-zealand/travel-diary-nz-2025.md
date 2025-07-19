@@ -209,3 +209,26 @@ The end of the tour was at the Green Dragon Inn with a free drink (cider for me,
 ![](https://djon.es/assets/memex/sense/Travel/nz-2025/green-dragon.jpeg)
 <caption>Green Dragon Inn</caption>
 </figure>
+
+## Saturday 19th July, Raglan
+
+A fine day with the promise of possible showers in the afternoon. Took the opportunity to head to Raglan to tick off a west coast seaside town, including the chance of fish and chips. Lovely drive, especially as we headed west toward Raglan. The road winding its way up and down hills toward the coast. Closer to Raglan we took advantage of the sign-posted "windfarm observation point".
+
+<figure markdown>
+![](https://djon.es/assets/memex/sense/Travel/nz-2025/windfarm.jpeg)
+<caption>View from the windfarm observation point</caption>
+</figure>
+
+The provided information board included a map suggesting that the [Bridal Veil Falls walk](https://www.doc.govt.nz/parks-and-recreation/places-to-go/waikato/places/raglan-area/tracks/waireinga-bridal-veil-falls/) included the possibility of seeing the windfarm up closer. An apparent point of interest for my wife the Civil Engineer (on paper anyway). The plan was to head into Raglan first and then head to the falls. But sadly the weather was against us with the rain returning just as we left Raglan after lunch.
+
+Before all that our first sight-seeing stop was Manu Bay Reserve just out of Raglan. Great views of the ocean, the west coast, and a long line of surfers. After this we headed back into Raglan for fish and chips on the wharf. The best fish and chips I've had in ages. Apparently the fish was fresh caught. Sandy reported her potato fritter was also top notch.
+
+<figure markdown>
+![](https://djon.es/assets/memex/sense/Travel/nz-2025/manu-bay-surfers.jpeg)
+<caption>30+ surfers lining up for the perfect wave</caption>
+</figure>
+
+<figure markdown>
+![](https://djon.es/assets/memex/sense/Travel/nz-2025/manu-bay-pano.jpeg)
+<caption>Panoramic view of Manu Bay</caption>
+</figure>
