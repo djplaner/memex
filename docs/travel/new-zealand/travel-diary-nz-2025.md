@@ -232,3 +232,35 @@ Before all that our first sight-seeing stop was Manu Bay Reserve just out of Rag
 ![](https://djon.es/assets/memex/sense/Travel/nz-2025/manu-bay-pano.jpeg)
 <caption>Panoramic view of Manu Bay</caption>
 </figure>
+
+## Sunday 20th July, Te Anga Road and Waitomo area
+
+Early fog gave way to a clear day, including into the night. Which meant we got a fair bit of nature-based sight-seeing whilst remaining in the local area. Around 11 we headed off down the Te Anga Road. Heading west from the Waitomo Caves. For three different easy walks to see: Mangapohue Natural Bridge, Piripiri Cave, and Marokopa Falls. All variations on water, limestone, other geology, and bush. All within an easy 5 minute drive of each other.
+
+At the Mangapohue Natural Bridge you walk through a limestone gorge. Water running at the bottom and the NZ bush growing on the sides.
+
+<figure markdown>
+![](https://djon.es/assets/memex/sense/Travel/nz-2025/mangapohue-walk.jpeg)
+<caption>View down the Mangapohue Natural Bridge walk</caption>
+</figure>
+
+Toward the end of the gorge the water has missed a top section. A natural bridge forms high over head across the gorge. Bush growing on top the bridge is visible, as are the roots from trees growing through the bridge.
+
+<figure markdown>
+![](https://djon.es/assets/memex/sense/Travel/nz-2025/mangapohue-bridge.jpeg)
+<caption>The Mangapohue Natural Bridge from below</caption>
+</figure>
+
+From there we drove onto the Piripiri Cave. A short walk and you descend down into a limestone cave. Very dark at first, but your eyes adjust and you start to make out more. In the meantime the sound of water drip dripping in the cave is consistent.
+
+<figure markdown>
+![](https://djon.es/assets/memex/sense/Travel/nz-2025/piripiri-cave.jpeg)
+<caption>Shot back up the stairs from inside the Piripiri Cave</caption>
+</figure>
+
+A bit further up the road are the Marakopa Falls. A short walk down a graveled path (without the odd bit of mud) leads to two different viewing options. A more distance viewing platform and a closer natural outcrop. The following is from the latter.
+
+<figure markdown>
+![](https://djon.es/assets/memex/sense/Travel/nz-2025/marakopa-falls.jpeg)
+<caption>Rainbow at the Marakopa Falls</caption>
+</figure>
