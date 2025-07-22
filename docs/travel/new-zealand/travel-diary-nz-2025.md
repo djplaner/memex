@@ -264,3 +264,51 @@ A bit further up the road are the Marakopa Falls. A short walk down a graveled p
 ![](https://djon.es/assets/memex/sense/Travel/nz-2025/marakopa-falls.jpeg)
 <caption>Rainbow at the Marakopa Falls</caption>
 </figure>
+
+## Monday 21st July, Mt Kakepuku
+
+Another fine day and after a couple of sedentary weeks it was time for a real walk, up [the Kakepuku Track](https://www.doc.govt.nz/parks-and-recreation/places-to-go/waikato/places/kakepuku-mountain-historic-reserve/tracks/kakepuku-track/). A 7.2km return walk to the top of a dormant volcano. Quite a pleasant 3/4 hour ~~dawdle~~ walk up a fairly well maintained track. In places a bit muddy due to the climate and the mountain keeping parts of the track in shade all day.
+
+The early part of the track is up a rise along a very obvious farm track surrounded by a small swathe of regenerated bush on both sides. Though the neighbouring dairy farms remain very visible.
+
+<figure markdown>
+![](https://djon.es/assets/memex/sense/Travel/nz-2025/kakepuku-dairy-farm.jpeg)
+<caption>A newly replanted section giving a clear view to the most common local land use</caption>
+</figure>
+
+Up further, after the farm track ends, there is much more surrounding bush and stairs.
+
+<figure markdown>
+![Just one of the many sets of stairs to be traversed on the way up Mt Kakepuku](https://djon.es/assets/memex/sense/Travel/nz-2025/kakepuku-stairs.jpeg)
+<caption>Just one of the many sets of stairs to be traversed on the way up Mt Kakepuku</caption>
+</figure>
+
+At various stops along the way there are views over the surrounding countryside. Almost entirely dairy farms with isolated sections of bush. Also visible are the other 7 extinct volcanoes that form the [Alexandra Volcanic Group](https://en.wikipedia.org/wiki/Alexandra_Volcanic_Group).
+
+<figure markdown>
+![One of the views on the way up Mt Kakepuku](https://djon.es/assets/memex/sense/Travel/nz-2025/kakepuku-view-middle.jpeg)
+<caption>One of the views on the way up Mt Kakepuku</caption>
+</figure>
+
+On our way up the track we met three other people coming back down. A consistent measure was a lovely view, in particular because of the clear day. One of the obvious local walkers shared it was clear enough to see Mt Taranaki (171.89km distant) and not a common sight. More common was the view of Mt Ruapehu (137.86km distant) and associated peaks.
+
+<figure markdown>
+![The snowy peak of Mt Ruapehu peeking over the horizon](https://djon.es/assets/memex/sense/Travel/nz-2025/kakepuku-mountains.jpeg)
+<caption>The snowy peak of Mt Ruapehu peeking over the horizon</caption>
+</figure>
+
+## Tuesday 22nd July, Hamilton Gardens
+
+Our last full day at our temporary home. Another fine day and the coldest of our stay. Morning minimum well a bit below 0°C. The plan was to head into Hamilton to visit the [Hamilton Gardens](https://hamiltongardens.co.nz/). A large public garden with a variety of themed gardens. The first we saw was the Italian Renaissance Garden. 
+
+<figure markdown>
+![The Italian Renaissance Garden at Hamilton Gardens](https://djon.es/assets/memex/sense/Travel/nz-2025/hamilton-gardens-italian.jpeg)
+<caption>Italian Renaissance Garden</caption>
+</figure>
+
+The variety and quality of all of the gardens was impressive and an interesting point of distinction from the traditional botanical gardens. Our favourite was probably the Surrealist Garden. 
+
+<figure markdown>
+![The Surrealist Garden at Hamilton Gardens (look closely near the garden fork)](https://djon.es/assets/memex/sense/Travel/nz-2025/hamilton-gardens-surreal.jpeg)
+<caption>Surrealist Garden (look closely near the garden fork)</caption>
+</figure>
