@@ -312,3 +312,40 @@ The variety and quality of all of the gardens was impressive and an interesting 
 ![The Surrealist Garden at Hamilton Gardens (look closely near the garden fork)](https://djon.es/assets/memex/sense/Travel/nz-2025/hamilton-gardens-surreal.jpeg)
 <caption>Surrealist Garden (look closely near the garden fork)</caption>
 </figure>
+
+## Wednesday 23rd July, Otorohanga to Auckland
+
+Last day dawned. Packing up, cleaning up, leaving some gifts, and saying goodbye to the animals (and some final animal related chores). 
+
+No up and close goodbye from the cattle who had headed up the back paddock.
+
+<figure markdown>
+![One of the cattle up the back of the top paddock, ignoring the hay in the foreground](https://djon.es/assets/memex/sense/Travel/nz-2025/top-paddock-cows.jpeg)
+<caption>One of the cattle up the back of the top paddock, ignoring the hay in the foreground</caption>
+</figure>
+
+The hay the cows were ignoring was attracting some attention from the local (but not native) birdlife.
+
+<figure markdown>
+![](https://djon.es//assets/memex/sense/birdwatching/images/yellowhammer/S261995237.jpeg)
+<caption>Yellowhammer enjoying some hay</caption>
+</figure>
+
+The drive to Auckland included a stop at Kihikihi for [Viands Brothers Bakery](https://www.instagram.com/viands_brothersbakery/?hl=en) recommended by Barry. Both Sandy and I enjoyed the pies and I the cream lamington. The day ended at an airport hotel with a early flight out the next morning.
+
+<figure markdown>
+![View from the Auckland airport hotel](https://djon.es/assets/memex/sense/Travel/nz-2025/airport-view.jpeg)
+<caption>View from the Auckland airport hotel</caption>
+</figure>
+
+## Quick Reflection
+
+A great opportunity to experience house sitting. Thank you Barry and Jenny. Great part of the country and a very enjoyable experience in a very different environment. Most of what we did was take in the local environment. Having a consistent home base allowed us to breath, not always moving on. It also constrained the distance we could travel. Requiring a focus more on the local area.
+
+Walking through the different NZ bush was the main highlight. The Hobbiton visit was also a highlight.
+
+Culinary highlight was the discovery of [Snacka Changi chips](https://www.betterfooddistribution.com.au/brands/snackachangi/). The best spiced chips I've had to date.
+
+The most striking thing about the visit was the dominance of farming and farms. Just above the entire countryside is covered by rolling green hills. Almost all the land is apparently productive and used for farming. Tracts of bush or scrub are rare and typically very small compared to the Queensland landscape of which we're most familiar. Obviously saying something about the respective agricultural productivity of the climate and environment.
+
+The big exceptions was places like Yarndley's Bush, Sanctuary Mountain Maungatautari and Mt Kakepuku. Sites where individuals or community groups have banded together to actively set aside and protect/regenerate native bush. Sites that give a very different experience of the NZ landscape.
