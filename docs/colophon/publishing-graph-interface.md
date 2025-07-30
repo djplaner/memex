@@ -5,11 +5,8 @@ tags:
 title: Publishing graph interface
 type: note
 ---
-!!! note ":construction: Work in progress"
 
-
-Work has commenced, see [[graph]] for an initial stand alone implementation. Having issues identify a Javascript network visualisation library that is usable.
-
+Version 1 using [force-graph](https://github.com/vasturiano/force-graph) is working is visible on  [[graph]].
 
 ## Motivation
 
@@ -35,18 +32,23 @@ Other live web-based examples include
 Display 
 
 - [x] A navigable graph on a stand alone page
-- [ ] graph in a modal
-- [ ] graph as a macro in the page
+- [ ] ~~graph in a modal~~
+
+    Decided an in-page approach worked better.
+
+- [ ] ~~graph as a macro in the page~~
+
+    Implemented using a mkdocs template.
 
 Features
 
-- [ ] Display a graph of all bubbles
+- [x] Display a graph of all bubbles
   - [ ] color of background and nodes/edges fit the dark theme
   - [ ] color of background and nodes/edges fit the selected theme
 - [x] Support navigation to individual bubbles
 - [ ] Change the graph layout depending on the current visible bubble
 
-### Implementation
+### Possible implementation platforms
 
 Numerous Javascript libraries (see comparisons: [one](https://www.cylynx.io/blog/a-comparison-of-javascript-graph-network-visualisation-libraries/)) available which all broadly follow the same implementation pattern. However, crafting that pattern to provide the functionality I want took a fair bit more experimentation than expected.
 

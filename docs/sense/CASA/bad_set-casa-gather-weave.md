@@ -1,6 +1,14 @@
 ﻿---
 title: The relationships between BAD/SET, CASA, and Gather/Weave
+tags:
+    - CASA
+    - bad
+    - SET
+    - gather
+    - weave
+type: note
 ---
+
 Over the last 10+ years colleagues and I have been reflecting on experiences trying to stretch the [[iron-triangle]]. That work has resulted in three different abstractions/mini-theories:
 
 1. The [[bad-mindset]]/set (Bricolage, Affordances, Distribution / Strategic, Established, Tree-like) framework (Jones & Clark, 2014) and [related blog posts](https://djon.es/blog/category/bad/)

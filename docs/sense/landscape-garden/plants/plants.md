@@ -23,6 +23,7 @@ The following provides a summary of the plant species we've come across on [[woo
 - [[cupaniopsis-anacardioides]] (aka Tuckeroo) 
 - [[ficus-obliqua]] (aka small-leaved fig)
 - [[ficus-macrophylla]] (aka Moreton Bay fig)
+- [[grevillea-robusta]] (aka Silky Oak)
 - [[sandpaper-fig]]
 - [[unknown-ficus]]
 - [[harpullia-pendula]] (aka Moreton Bay Tulipwood)
@@ -55,6 +56,7 @@ The following provides a summary of the plant species we've come across on [[woo
 - [[manihot-grahamii]] - Graham's manihot
 - [[muehlenbeckia-platyclada]] - Ribbonbush
 - [[senna-pendula]] - Easter Cassia/Golden shower
+- [[ricinus-communis]] - Castor oil plant
 - [[solanum-americanum]] - American black nightshade
 - [[solanum-mauritianum]] - Wild tobacco tree
 - [[talinum-paniculatum]] - fameflower or pink baby's breath
@@ -113,6 +115,7 @@ The following provides a summary of the plant species we've come across on [[woo
 [cupaniopsis-anacardioides]: cupaniopsis-anacardioides "Cupaniopsis anacardioides (Tuckeroo)"
 [ficus-obliqua]: ficus-obliqua "Ficus obliqua (Small-leaved fig)"
 [ficus-macrophylla]: ficus-macrophylla "Ficus macrophylla (Moreton Bay fig)"
+[grevillea-robusta]: grevillea-robusta "Grevillea robusta (Silky Oak)"
 [sandpaper-fig]: sandpaper-fig "Sandpaper fig"
 [unknown-ficus]: ../individual-plants/unknown-ficus "Unknown ficus"
 [harpullia-pendula]: harpullia-pendula "Harpullia Pendula (Moreton Bay Tulipwood)"
@@ -134,6 +137,7 @@ The following provides a summary of the plant species we've come across on [[woo
 [manihot-grahamii]: manihot-grahamii "Manihot Grahamii (Graham's Manihot)"
 [muehlenbeckia-platyclada]: muehlenbeckia-platyclada "Muehlenbeckia platyclada (aka Ribbonbush)"
 [senna-pendula]: senna-pendula "Senna pendula (Easter Cassia)"
+[ricinus-communis]: ricinus-communis "Ricinus communis (Castor oil plant)"
 [solanum-americanum]: solanum-americanum "Solanum americanum (American black nightshade)"
 [solanum-mauritianum]: solanum-mauritianum "Solanum mauritianum (aka Wild tobacco tree)"
 [talinum-paniculatum]: talinum-paniculatum "Talinum paniculatum (Pink baby's breath)"

@@ -132,6 +132,9 @@ def generateAbsoluteLinks(markdownFile, linkDefs):
     return: a dictionary of link definitions with absolute links
     """
 
+    if not linkDefs:
+        return {}
+
     #-- Grab the (current)folder containing the markdownFile
     location = markdownFile.rfind("/")
     currentFolder = markdownFile[:location]

@@ -1,6 +1,7 @@
 ﻿---
 title: Interoperability Taxonomy
 ---
+
 Based on Cory Doctrow's [Interoperaability: Fix the Internet, Not the Tech Companies](https://www.eff.org/deeplinks/2019/07/interoperability-fix-internet-not-tech-companies)
 
 The argument is that fixing big problems with the tech companies needs to allow adversarial interoperability so that new players can come in, rather than trust the existing big players (e.g. facebook)
@@ -13,7 +14,7 @@ This is the space where interoperability has to become than just using the plug 
 
 ## Indifferent interoperability
 
-Company A doens't care/know that Company B makes a product that interoperates with the B product.
+_Company A_ doens't care/know that _Company B_ makes a product that interoperates with the B product.
 
 e.g. early evolution of cigarette lighter in cars
 
