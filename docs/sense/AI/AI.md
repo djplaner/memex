@@ -2,8 +2,9 @@
 title: AI
 type: note
 tags:
-	- AI
+- AI
 ---
+
 
 !!! note "🚧  Under renovation"
 

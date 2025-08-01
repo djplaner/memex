@@ -18,6 +18,7 @@ Up until late July 2025 it was though that [[wood-duck-meadows]] had a couple of
 <figure markdown>
 ![Close up of the leaves of one of the Grevillea robusta (Silky Oak) seedlings discovered in the Back corner](https://djon.es/assets/memex/sense/landscape-garden/plants/images/grevillea-robusta/1.jpeg)
 <caption>Close up of the leaves of one of the Grevillea robusta (Silky Oak) seedlings discovered in the [[back-corner]]</caption>
+</figure>
 
 The Silky Oak (no relation to true oaks) is a fast-growing evergreen tree with fern-like leaves. The species is native to eastern Australia, particularly in New South Wales and Queensland. Originally growing in subtropical and dry rainforests, and wet forests.
 
