@@ -367,10 +367,10 @@ def updateMemex( plantName: str, plantMemex: dict,
     #-- convert plantMemex[yaml] dict to a yaml string
     yaml = createYamlString(plantName, plantMemex["yaml"], photoInfo, species)
 
-    #print(f"Writing YAML for {plantName} with species={species}:\n{yaml}")
-    #print('----- markdown')
-    #print(markdown)
-    #quit()
+#    print(f"Writing YAML for {plantName} with species={species}:\n{yaml}")
+#    print('----- markdown')
+#    print(markdown)
+#    quit()
 
     writePlantFile( plantName, yaml, markdown, species ) 
 

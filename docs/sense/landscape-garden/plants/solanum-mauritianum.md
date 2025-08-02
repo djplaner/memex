@@ -1,16 +1,24 @@
 ---
-photos:
-  1:
-    date: 2025-06-27 13:38:31
-    description: None
-    filename: C79E2E04-CD98-4E36-8D41-9969E9F26364.heic
-    latitude: -27.538411666666665
-    longitude: 152.0558305
-    memexFilename: https://djon.es/assets/memex/sense/landscape-garden/plants/images/solanum-mauritianum/1.jpeg
-    title: None
 tags: plants, gardens, weeds
 title: Solanum mauritianum (aka Wild tobacco tree)
 type: plant
+photos:
+  1:
+      date: 2025-06-27 13:38:31
+      description: None
+      filename: C79E2E04-CD98-4E36-8D41-9969E9F26364.heic
+      latitude: -27.538411666666665
+      longitude: 152.0558305
+      memexFilename: https://djon.es/assets/memex/sense/landscape-garden/plants/images/solanum-mauritianum/1.jpeg
+      title: None
+  2:
+      title: None
+      filename: 66A281F4-B3F9-4B3B-B34D-057AD84B211E.heic
+      latitude: -27.537621666666666
+      longitude: 152.05715833333332
+      description: None
+      date: 2025-07-29 11:52:50
+      memexFilename: https://djon.es/assets/memex/sense/landscape-garden/plants/images/solanum-mauritianum/2.jpeg
 ---
 [Solanum mauritianum](https://en.wikipedia.org/wiki/Solanum_mauritianum) (aka Wild tobacco tree) is a large shrub or small tree native to South America. It can grow up to 5m tall and has large, soft, hairy leaves. The plant produces clusters of white to purple flowers followed by yellow berries.
 
@@ -25,6 +33,10 @@ Has been identified in numerous locations, including: [[fig-tree-berm]], [[the-i
 
 The [[back-corner]] saw the largest example of this plant, one that had started to flower and seed. Large enough that a chain saw was required to remove it in July 2025.
 
+<figure markdown>
+![Just some of the flowers and fruit of the large wild tobacco tree.](https://djon.es/assets/memex/sense/landscape-garden/plants/images/solanum-mauritianum/2.jpeg)
+<caption>Just some of the flowers and fruit of the large wild tobacco tree.</caption>
+</figure>
 
 
 

@@ -10,6 +10,13 @@ The "bunker" is a small concrete walled building with an iron roof located in th
 <caption>Small concrete "bunker" currently used for storage</caption>
 </figure>
 
+Somewhat surprisingly the bunker appears to have provided a reasonable surface for a Ficus tree to grow on.
+
+<figure markdown>
+![Small ficus seedling growing out of the bunker's outside wall](https://djon.es/assets/memex/sense/landscape-garden/images/bunker-ficus.jpeg)
+<caption>Small ficus seedling growing out of the bunker's outside wall</caption>
+</figure>
+
 ## Location
 
 <figure markdown>
