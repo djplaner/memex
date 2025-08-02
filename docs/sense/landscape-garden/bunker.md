@@ -20,7 +20,7 @@ Somewhat surprisingly the bunker appears to have provided a reasonable surface f
 ## Location
 
 <figure markdown>
-![Located in the north-east of the property the bunker includes the land between the lower dam, Rocky creek frontage, and the fig tree berm](https://djon.es/assets/memex/sense/landscape-garden/./images/bunker-location.jpg)
+![Located in the north-east of the property the bunker includes the land between the lower dam, Rocky creek frontage, and the fig tree berm](https://djon.es/assets/memex/sense/landscape-garden/plants/images/bunker-location.jpg)
 <caption>The bunker is located in the north-east of the property and includes the area of land between the [[rocky-creek-frontage]] and the [[fig-tree-berm]]</caption>
 </figure>
 

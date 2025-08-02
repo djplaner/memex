@@ -14,7 +14,8 @@ tags:
 
 - [[creating-compost]]
 - [[wikilinks-admonition-bug]]
-- add Plant not reading existing image in markdown frontmatter
+- Read/reflect on Col's [PIRAC post](https://beerc.wordpress.com/2025/07/27/irac-2-pirac/)
+- 
 
 On-going
 

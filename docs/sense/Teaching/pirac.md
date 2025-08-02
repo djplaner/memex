@@ -7,10 +7,17 @@ Resources: [Original IRAC paper](https://djon.es/blog/2013/10/03/the-irac-framew
 
 PIRAC (Purpose, Information, Representation, Affordances, Change) is a framework for offering a bit of design guidance for learning analytics first formulated in [Jones et al (2013)](https://djon.es/blog/2013/10/03/the-irac-framework-locating-the-performance-zone-for-learning-analytics/) - much of the following originated in that paper
 
-The idea is that application sof learning analytics/[[data-informed-teaching]] will be more effective if consideration of all parts of the PIRAC framework are considered. The argument is that too much of learning analytics focuses on the information and representation aspects and not enough on the other aspects.
+The idea is that applications of learning analytics/[[data-informed-teaching]] will be more effective if consideration of all parts of the PIRAC framework are considered. The argument is that too much of learning analytics focuses on the information and representation aspects and not enough on the other aspects.
 
 
 ## Purpose
+
+!!! note "Missing from the original paper"
+
+    Adding purpose to the original IRAC framework came about a year or so after the original paper. Happening whilst Col and I were enjoying [the Queenstown scenery](https://djon.es/blog/2015/01/30/using-the-pirac-thinking-about-an-integrated-dashboard/#adding-purpose) after another ASCILITE conference. Since then, Col's gone on to give some more thought to purpose in his ["IRAC 2 PIRAC" post](https://beerc.wordpress.com/2025/07/27/irac-2-pirac/)
+
+    See also a 2015 post ["Using PIRAC"](https://djon.es/blog/2015/01/30/using-the-pirac-thinking-about-an-integrated-dashboard/#pirac)
+
 
 Olmos & Corrin (2012), amongst others, reinforce the importance for learning analytics to start with “a clear understanding of the questions to be answered” (p. 47) or the task to be achieved. If you start the design of a learning analytics tool/intervention without a clear idea of the task (and its context) in mind, then it’s going to be difficult to implement.
 
