@@ -10,12 +10,9 @@ tags:
 
 **NOW**
 
-- [ ] Report to the FOAM discussion the issue with wikilinks not being updated when links are included in quoted sections (e.g. mkdocs markdown plugin)
-
 - [[creating-compost]]
 - [[wikilinks-admonition-bug]]
-- Read/reflect on Col's [PIRAC post](https://beerc.wordpress.com/2025/07/27/irac-2-pirac/)
-- 
+- Looking at how to integrate zotero into memex
 
 On-going
 

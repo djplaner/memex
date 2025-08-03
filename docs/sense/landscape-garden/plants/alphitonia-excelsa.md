@@ -1,16 +1,24 @@
-﻿---
-photos:
-  1:
-    date: 2025-06-27 08:39:48
-    description: None
-    filename: 491F2F2C-C6C5-438D-86CF-9F86BB961D9A.heic
-    latitude: -27.538983333333334
-    longitude: 152.05552783333334
-    memexFilename: https://djon.es/assets/memex/sense/landscape-garden/plants/images/alphitonia-excelsa/1.jpeg
-    title: None
+---
 tags: plants, gardens, native
 title: Alphitonia excelsa (aka Soap tree, red ash)
 type: plant
+photos:
+  1:
+      date: 2025-06-27 08:39:48
+      description: None
+      filename: 491F2F2C-C6C5-438D-86CF-9F86BB961D9A.heic
+      latitude: -27.538983333333334
+      longitude: 152.05552783333334
+      memexFilename: https://djon.es/assets/memex/sense/landscape-garden/plants/images/alphitonia-excelsa/1.jpeg
+      title: None
+  2:
+      title: None
+      filename: 5E64A908-0978-4172-97AD-FA909DFE622E.heic
+      latitude: -27.538978333333333
+      longitude: 152.05554166666667
+      description: None
+      date: 2025-08-02 11:29:23
+      memexFilename: https://djon.es/assets/memex/sense/landscape-garden/plants/images/alphitonia-excelsa/2.jpeg
 ---
 [Alphitonia excelsa](https://en.wikipedia.org/wiki/Alphitonia_excelsa) (aka Soap tree, red ash) is a native Australian tree growing from 7-25m. When larger will form a spreading shade-producing canopy. Will produce small greenish-white flowers in late autumn to early winter. With globular dark fruit following.
 
@@ -23,6 +31,13 @@ First identified on [[the-island]] in June 2025.
 <figure markdown>
 ![Alphitonia excelsa](https://djon.es/assets/memex/sense/landscape-garden/plants/images/alphitonia-excelsa/1.jpeg)
 <caption>Soap tree identified on [[the-island]] in June 2025</caption>
+</figure>
+
+Come August and the fruit are starting to appear.
+
+<figure markdown>
+![Three soap tree fruit visible as small green buds at the center of the image. Surrounded on the left by various leaves, including two green leaves in the foreground.](https://djon.es/assets/memex/sense/landscape-garden/plants/images/alphitonia-excelsa/2.jpeg)
+<caption>First of the soap tree's fruit appearing in August 2025</caption>
 </figure>
 
 

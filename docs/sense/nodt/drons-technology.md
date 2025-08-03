@@ -1,6 +1,10 @@
 ﻿---
 title: Dron's take on technology
+type: note
+tags:
+- nodt
 ---
+
 What is educational technology?
 
 Dron (2021) answers

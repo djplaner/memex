@@ -47,7 +47,7 @@ Spray new growth.
 
 Initial introduction when working with the [Friends of Redwood Park](https://fep.org.au/our-parks/redwood-park/) where it is one of the major weeds. 
 
-Subsequent identification on [[wood-duck-meadows]], but very obvious and widespread in the Gatton and Rocky creeks running alongside the property.
+Subsequent identification on [[wood-duck-meadows]] limited mostly to the Gatton and Rocky creeks running alongside the property.
 
 ## References
 
