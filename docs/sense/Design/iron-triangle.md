@@ -1,11 +1,19 @@
 ﻿---
 title: Iron Triangle
+type: note
+tags:
+- gwa
+- iron-triangle
 ---
+
 There are two orgins for the iron triangle concept. The broader orgin is project management - scope, cost, and speed. The narrower, more specific is that proposed by Daniels et al - access, quality, cost.  Or latterly accessibility, quality, efficiency which gets at "widening access to higher education for the same or lower cost without compromising outcomes" (Lane, 2014, p. 2)
 
 The latter version also appears to be used in health
 
-[[iron-triangle-reusability-paradox]]
+Related
+
+- [[iron-triangle-reusability-paradox]]
+- Doug Clow suggests [the iron quadrilateral](https://dougclow.org/2022/02/04/the-iron-quadrilateral/) by adding _scope_ to _cost_, _time_, and _quality_.
 
 ## Visualisation
 

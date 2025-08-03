@@ -13,14 +13,14 @@ The "bunker" is a small concrete walled building with an iron roof located in th
 Somewhat surprisingly the bunker appears to have provided a reasonable surface for a Ficus tree to grow on.
 
 <figure markdown>
-![Small ficus seedling growing out of the bunker's outside wall](https://djon.es/assets/memex/sense/landscape-garden/images/bunker-ficus.jpeg)
+![Small ficus seedling growing out of the bunker's outside wall](https://djon.es/assets/memex/sense/landscape-garden/plants/images/bunker-ficus.jpeg)
 <caption>Small ficus seedling growing out of the bunker's outside wall</caption>
 </figure>
 
 ## Location
 
 <figure markdown>
-![Located in the north-east of the property the bunker includes the land between the lower dam, Rocky creek frontage, and the fig tree berm](https://djon.es/assets/memex/sense/landscape-garden/plants/images/bunker-location.jpg)
+![Located in the north-east of the property the bunker includes the land between the lower dam, Rocky creek frontage, and the fig tree berm](https://djon.es/assets/memex/sense/landscape-garden/images/bunker-location.jpg)
 <caption>The bunker is located in the north-east of the property and includes the area of land between the [[rocky-creek-frontage]] and the [[fig-tree-berm]]</caption>
 </figure>
 

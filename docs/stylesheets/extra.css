@@ -2,6 +2,18 @@
   font-size: calc(125% * 1.1); /* <- 1.1 equals + 10% – adjust to taste */
 }
 
+.md-cc {
+  display: flex; 
+  justify-content: space-between; 
+  align-items: center
+}
+
+.md-cc-image {
+  padding: 0em; 
+  vertical-align: middle;
+}
+
+
 #graph-container {
   width: 800px; 
   height: 600px; 
