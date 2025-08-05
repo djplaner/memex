@@ -13,7 +13,7 @@ Initial intent is to clean it up and transform it into something far more native
 
 <figure markdown>
 ![Gatton Creek frontage](https://djon.es/assets/memex/sense/landscape-garden/./images/gatton-creek-frontage.jpg)
-<figcaption>Gatton Creek frontage location</figcaption>
+<caption>Gatton Creek frontage location</caption>
 </figure>
 
 ## History 

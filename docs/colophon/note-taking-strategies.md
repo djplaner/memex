@@ -7,10 +7,15 @@ type: note
 ---
 Exploring and reflecting on various note-taking strategies and if/how they are applied on this site.
 
+## Critiques
+
+[I deleted my second brain](https://www.joanwestenberg.com/p/i-deleted-my-second-brain) provides some pushback on the benefits of this type of approach. 10,000 notes removed because of how the focus on a "second brain" "froze my curiosity into static categories" and other limitations.
+
 ## Broader Strategies
 
 - [[zettelkasten]] - a method for note-taking and knowledge management
 - [[digital-garden]]
+
 
 
 ### Process strategies
@@ -30,6 +35,35 @@ Principles
 - Evergreen notes should be densely linked
 - Prefer associative ontologies to hierarchical taxonomies
 - Write notes for yourself, by default, disregarding audience
+
+### CODE - Capture, Organise, Distill, and Express
+
+Forte's [second brain](https://fortelabs.com/blog/basboverview/) four step method
+
+1. Capture - collect info you think worth saving
+
+    Three guidelines suggested
+
+    1. Think like a curator - don't consume immediately, set aside a time for that
+    2. Keep only what resonates - don't be overly intellectual
+    3. Use capture tools - to gain info in digital form
+
+2. Organise for actionability -  Simple and more flexible organisation, focus on active projects
+
+    Three guidelines 
+
+    1. Adopt the para method - Projects, Areas, Resources, Archives
+    2. Start with a clean state
+    3. Ask three questions - filter info by asking "what (project/area/resource) will this be useful?" - Done once a week
+
+3. Distill down to the essence - into 
+
+    Another 3 guidlines
+
+    1. Design notes for your future self - define key terms, insert placeholders, add links to related websites, files etc.
+    2. Summarise progressively at different levels of detail
+    3. Distill opportunistically, a little at a time
+
 
 ### Content structure for individual notes
 

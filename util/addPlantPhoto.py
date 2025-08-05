@@ -312,6 +312,7 @@ def createYamlString( plantName: str, yamlStruct: dict,
                         yamlStruct["photos"][photoNum][key] = pDict[key].strftime("%Y-%m-%d %H:%M:%S")
                 updatePhoto = True
                 #-- export the photo to the relevant directory to overwrite
+                print(f"XXXXXX Updating the photo {pDict['filename']} in {plantName} with number {photoNum}")
                 if exportPhoto(photoInfo, plantName,  photoNum, species ):
                     yamlStruct["photos"][photoNum]["memexFilename"] = f"{url}{plantName}/{photoNum}.jpeg"
                 else:
@@ -328,6 +329,7 @@ def createYamlString( plantName: str, yamlStruct: dict,
                 yamlStruct["photos"][lastPhoto][key] = pDict[key]
             else:
                 yamlStruct["photos"][lastPhoto][key] = pDict[key].strftime("%Y-%m-%d %H:%M:%S")
+        print(f"XXXX creating new Last photo number in YAML: {lastPhoto}")
         #-- export the photo to the relevant directory to add it
         if exportPhoto(photoInfo, plantName,  lastPhoto, species):
             yamlStruct["photos"][lastPhoto]["memexFilename"] = f"{url}{plantName}/{lastPhoto}.jpeg"
@@ -367,10 +369,10 @@ def updateMemex( plantName: str, plantMemex: dict,
     #-- convert plantMemex[yaml] dict to a yaml string
     yaml = createYamlString(plantName, plantMemex["yaml"], photoInfo, species)
 
-#    print(f"Writing YAML for {plantName} with species={species}:\n{yaml}")
-#    print('----- markdown')
-#    print(markdown)
-#    quit()
+    print(f"Writing YAML for {plantName} with species={species}:\n{yaml}")
+    print('----- markdown')
+    print(markdown)
+    quit()
 
     writePlantFile( plantName, yaml, markdown, species ) 
 

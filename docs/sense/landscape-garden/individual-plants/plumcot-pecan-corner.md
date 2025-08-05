@@ -30,7 +30,7 @@ This [plumcot](https://en.wikipedia.org/wiki/Plucot) - a Spring Satin variety - 
 
 <figure markdown>
 ![Largish plumcot seedling over two-metres tall with a V-like collection of branches starting to form the canopy](https://djon.es/assets/memex/sense/landscape-garden/individual-plants/images/plumcot-pecan-corner/1.jpeg)
-<figcaption>Plumcot tree planted in pecan corner</figcaption>
+<caption>Plumcot tree planted in pecan corner</caption>
 </figure>
 
 

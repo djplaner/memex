@@ -22,7 +22,7 @@ photos:
 ---
 [Alphitonia excelsa](https://en.wikipedia.org/wiki/Alphitonia_excelsa) (aka Soap tree, red ash) is a native Australian tree growing from 7-25m. When larger will form a spreading shade-producing canopy. Will produce small greenish-white flowers in late autumn to early winter. With globular dark fruit following.
 
-Useful as a pioneer species. Leaves used as soap by Indigenous Australians.
+Useful as a pioneer species. Leaves used as soap by Indigenous Australians with other parts used for [various different purposes](https://tooheyforesteec.eq.edu.au/support-and-resources/research/soap-tree): young leaf tips chewed for upset stomach; crushed leaves and crushed berries used to poison fish, etc.
 
 ## Wood duck meadows history
 

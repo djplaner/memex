@@ -7,7 +7,7 @@ The front of [[wood-duck-meadows]] has a small stand of [brigalow scrub](https:/
 
 <figure markdown>
 ![Brigalow scrub](https://djon.es/assets/memex/sense/landscape-garden/./images/brigalow-scrub.jpg)
-<figcaption>Brigalow scrub stand</figcaption>
+<caption>Brigalow scrub stand</caption>
 </figure>
 
 

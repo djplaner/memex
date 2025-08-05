@@ -41,7 +41,7 @@ The following image is an example (vanilla) Canvas modules index page. Showing t
 From what you see here, can you identify the three driving questions behind the design of this course? 
 
 <figure markdown>
-<figcaption>Scrolling through a sample (vanilla) Canvas modules index page</figcaption>
+<caption>Scrolling through a sample (vanilla) Canvas modules index page</caption>
 <a href="https://github.com/djplaner/canvas-collections/blob/main/docs/assets/vanillaModules.gif"><img style="width:50%" alt="Scrolling through a Canvas modules index page. Showing 13 modules and all their items in one long linear scroll. Each module visualised with a 'windows-95' like folder with a list of items." src="https://github.com/djplaner/canvas-collections/raw/main/docs/assets/vanillaModules.gif" /></a>
 </figure>
 
@@ -56,7 +56,7 @@ The following image is the same course as above. However, the Canvas Collections
 Can you identify the three driving questions behind the design of this course from this view?
 
 <figure markdown>
-<figcaption>Scrolling through the same module page but with Canvas Collections turned on</figcaption>
+<caption>Scrolling through the same module page but with Canvas Collections turned on</caption>
 <a href="https://github.com/djplaner/canvas-collections/blob/main/docs/assets/withCanvasCollections.gif"><img width="50%" src="https://github.com/djplaner/canvas-collections/raw/main/docs/assets/withCanvasCollections.gif" alt="Canvas modules page configured with four collections (why, what, how, and questions & suggestions). Changing between different collections, showing only that collection's modules at any one time. Navigating directly to a module by clicking on its specific representation. Showing off the representations which include cards for each module. Cards with images/iframes, descriptions, dates, labels and other contextual data" /></a>
 </figure>
 
@@ -71,7 +71,7 @@ The following demonstrates a Claytons Collections version of the live Collection
 (NOTE: Due to [limitations of the Canvas RCE](https://community.canvaslms.com/t5/Canvas-Resource-Documents/Canvas-HTML-Editor-Allowlist/ta-p/387066) at least one of the current representations shown does require external CSS to work.)
 
 <figure markdown>
-<figcaption>Using a Claytons Collections home page</figcaption>
+<caption>Using a Claytons Collections home page</caption>
 <a href="https://github.com/djplaner/canvas-collections/blob/main/docs/assets/claytonsCollections.gif"><img width="50%" src="https://github.com/djplaner/canvas-collections/raw/main/docs/assets/claytonsCollections.gif" alt="Animation showing how a Canvas page has been updated to contain a sequence of tabs for each collection. Allowing the visitor to see different representations of Canvas modules (but not the modules themselves). Representations that are basically the same as live Canvas Collections. Clicking on the representation for a module will take you directly to that module.">
 </figure>
 

@@ -19,7 +19,7 @@ A previous owner had spent had placed irrigation on the island and planted numer
 
 <figure markdown>
 ![The island](https://djon.es/assets/memex/sense/landscape-garden/./images/theIsland.jpg)
-<figcaption>The island</figcaption>
+<caption>The island</caption>
 </figure>
 
 ## Design ideation
@@ -41,7 +41,7 @@ Following image shows progress from an early stage where some bamboo and [[aspar
 
 <figure markdown>
 ![A comparison of clearing on the island. The 'how it started' image shows a small number of trees largely overtaken by asparagus fern. With only a the odd trunk and branch visible. The 'how it's going' image shows the same trees (and Mauritius hemp) now almost entirely visible. The house is also visible.](https://djon.es/assets/memex/sense/landscape-garden/images/early-clearing.jpg)
-<figcaption>Early clearing progress</figcaption>
+<caption>Early clearing progress</caption>
 </figure>
 
 ### Mauritius hemp
@@ -55,7 +55,7 @@ After removing the climbing asparagus, it was time for the Mauritius hemp to go.
 
 <figure markdown>
 ![The third photo of clearing "the island" illustrating the reduction (but not complete removal) of the Mauritius hemp.](https://djon.es/assets/memex/sense/landscape-garden/images/mauritius-hemp-removal.jpeg)
-<figcaption>Removing the Mauritius hemp</figcaption>
+<caption>Removing the Mauritius hemp</caption>
 </figure>
 
 ### Madeira vine

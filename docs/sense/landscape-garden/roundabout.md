@@ -11,10 +11,15 @@ The "roundabout" is a small section that splits the [[gatton-creek-frontage]] an
 
 <figure markdown>
 ![Roundabout](https://djon.es/assets/memex/sense/landscape-garden/./images/roundabout.jpg)
-<figcaption>Roundabout location</figcaption>
+<caption>Roundabout location</caption>
 </figure>
 
 ## History 
+
+<figure markdown>
+![Grassed area of the Roundabout forms a semi-circle in the foreground. The perimeter of the roundabout is formed by a collection of different trees. Most showing dark green leaves. Roughly straight ahead is a tall palm at least twice has tall as most of the other trees.](https://djon.es/assets/memex/sense/landscape-garden/images/the-roundabout-jan-2025.jpeg)
+<caption>The "pre-work" version of the roundabout early 2025.</caption>
+</figure>
 
 | Date | Activity |
 | --- | --- |

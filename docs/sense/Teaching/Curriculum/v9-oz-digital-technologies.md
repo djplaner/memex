@@ -19,5 +19,5 @@ Both studied from F-Y8.  y9 and 10 dependent on states and schools
 
 <figure markdown>
 ![Overview of Technologies core concepts](https://djon.es/assets/memex/sense/Teaching/Curriculum/images/digitalTechOverview.png)
-<figcaption>Overview of Technologies core concepts</figcaption>
+<caption>Overview of Technologies core concepts</caption>
 </figure>

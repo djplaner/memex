@@ -46,7 +46,7 @@ An index of all the individual [[plants]] we're tracking on [[wood-duck-meadows]
 ## [[the-island|The Island]]
 
 - [[the-original-island-bunya-pine]]
-- [[island-sandpaper-fig]]
+- [[island-sandpaper-fig|Ficus Opposita]]
 
 ## [[lower-dam|Lower dam]]
 
@@ -88,7 +88,7 @@ An index of all the individual [[plants]] we're tracking on [[wood-duck-meadows]
 [custard-apple-paxton-prolific]: custard-apple-paxton-prolific "Custard apple (Paxton Prolific)"
 [the-island|The Island]: ../the-island "The Island"
 [the-original-island-bunya-pine]: the-original-island-bunya-pine "The original island bunya pine"
-[island-sandpaper-fig]: island-sandpaper-fig "Sandpaper fig - The island"
+[island-sandpaper-fig|Ficus Opposita]: island-sandpaper-fig "Sandpaper fig - The island"
 [lower-dam|Lower dam]: ../lower-dam "The lower dam"
 [loquat-lower-dam]: loquat-lower-dam "Loquat on the lower dam"
 [abiu-lower-dam]: abiu-lower-dam "Abiu (Pouteria caimito) on the lower dam"

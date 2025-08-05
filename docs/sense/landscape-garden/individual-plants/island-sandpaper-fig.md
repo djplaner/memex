@@ -19,8 +19,16 @@ photos:
       description: None
       date: 2025-07-31 14:55:05
       memexFilename: https://djon.es/assets/memex/docs/sense/landscape-garden/individual-plants/images/island-sandpaper-fig/2.jpeg
+  3:
+      title: None
+      filename: 6DD1CCD2-DF4D-4E5A-8128-599005C1EC68.heic
+      latitude: -27.539121666666666
+      longitude: 152.05578616666668
+      description: None
+      date: 2025-08-05 12:45:20
+      memexFilename: https://djon.es/assets/memex/docs/sense/landscape-garden/individual-plants/images/island-sandpaper-fig/3.jpeg
 ---
-With [[the-dam]] level low during 2024 we planted out a [[sandpaper-fig]] onto [[the-island]]. Though we are yet to identify the specific type. [Cyclone Alfred](https://en.wikipedia.org/wiki/Cyclone_Alfred_(2025)) and a subsequent low kept the dam level high, making it interesting to water the fig.
+With [[the-dam]] level low during 2024 we planted out a [[sandpaper-fig]] onto [[the-island]]. iNaturalist suggests that it is Ficus opposita (to be confirmed). [Cyclone Alfred](https://en.wikipedia.org/wiki/Cyclone_Alfred_(2025)) and a subsequent low kept the dam level high, making it interesting to water the fig.
 
 <figure markdown>
 ![Slowly growing sandpaper fig on the island surrounded by green panic grass](https://djon.es/assets/memex/sense/landscape-garden/individual-plants/images/island-sandpaper-fig/1.jpeg)
@@ -32,7 +40,7 @@ With [[the-dam]] level low during 2024 we planted out a [[sandpaper-fig]] onto [
 And come July 2025 the fig tree had is first three fruit.
 
 <figure markdown>
-![First three fruit on the island sandpaper fig barely visible](https://djon.es/assets/memex/sense/landscape-garden/individual-plants/images/island-sandpaper-fig/2.jpeg)
+![First three fruit on the island sandpaper fig barely visible](https://djon.es/assets/memex/sense/landscape-garden/individual-plants/images/island-sandpaper-fig/3.jpeg)
 <caption>First three fruit on the island sandpaper fig barely visible</caption>
 </figure>
 

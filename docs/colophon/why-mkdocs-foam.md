@@ -36,7 +36,7 @@ Already working out of the box
 
 <figure markdown>
 ![Searching for "goodyear" using mkdocs search. Showing a good list of pages where it was found](https://djon.es/assets/memex/colophon/images/mkdocsSearch.png){:width="75%"}
-<figcaption>Successfully searching memex for <em>goodyear</em></figcaption>
+<caption>Successfully searching memex for <em>goodyear</em></caption>
 </figure>
 
 ### Interface design
@@ -55,7 +55,7 @@ Giving the best of both worlds.
 
 <figure markdown>
 ![Additional navigation structure](https://djon.es/assets/memex/colophon/images/mkdocsNavStructure.png){:width="50%"}
-<figcaption>Additional navigation structure</figcaption>
+<caption>Additional navigation structure</caption>
 </figure>
 
 ## Further exploration

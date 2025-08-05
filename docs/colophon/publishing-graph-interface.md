@@ -14,7 +14,7 @@ Foam has a graph/map feature for notes from within VS-Code (see the figure below
 
 <figure markdown>
 ![](https://djon.es/assets/memex/colophon/images/foam-graph.png)
-<figcaption>Sample graph/map of memex (within VSCode)</figcaption>
+<caption>Sample graph/map of memex (within VSCode)</caption>
 </figure>
 
 Other live web-based examples include

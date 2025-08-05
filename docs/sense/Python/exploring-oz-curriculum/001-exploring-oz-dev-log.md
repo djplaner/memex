@@ -36,7 +36,7 @@ sqlite-utils also offers ways to transform the data and the database.
 
 <figure markdown>
 [![](https://djon.es/assets/memex/sense/Python/exploring-oz-curriculum/../images/dataSetteOzCurr.png)](https://djon.es/assets/memex/sense/Python/exploring-oz-curriculum/../images/dataSetteOzCurr.png)
-<figcaption>Initial Datasette visualisation of Australian Curriculum (click to see larger)</figcaption>
+<caption>Initial Datasette visualisation of Australian Curriculum (click to see larger)</caption>
 </figure>
 
 ## Datasette and immediate exploration

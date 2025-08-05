@@ -19,7 +19,7 @@ Located right on the border between the [[rocky-creek-frontage]] and the [[round
 
 <figure markdown>
 ![A small mulberry tree with a few leaves](https://djon.es/assets/memex/sense/landscape-garden/individual-plants/images/white-shahtoot-mulberry/1.jpeg)
-<figcaption>Mulberry tree planted on the border between rocky creek frontage and roundabout</figcaption>
+<caption>Mulberry tree planted on the border between rocky creek frontage and roundabout</caption>
 </figure>
 
 
