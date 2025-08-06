@@ -13,7 +13,7 @@ tags:
 - [[creating-compost]]
 - [[wikilinks-admonition-bug]]
 - Looking at how to integrate zotero into memex
-- 
+- blog statistics - posts / year - not ordered on year
 
 On-going
 

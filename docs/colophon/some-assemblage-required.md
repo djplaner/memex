@@ -50,9 +50,7 @@ Core to the quality of this site is influenced by how the above is orchestrated 
 
     This is where my practices need to improve.
 
-Still need to refine and formalise my [[note-taking-strategies]]
-
-A slightly interesting part of this activity is leveraging the [[nodt|nature of digital technology]] to help gather, weave, and augment content.
+Still need to refine and formalise my [[note-taking-strategies]] and ponder if/how/what it means to move beyond simply taking notes for a "Second Brain". How might I leverage leveraging the [[nodt|nature of digital technology]] to help gather, weave, and augment content generated for every day activities - work mostly being done by [[computational-components]].
 
 ## Purpose
 

@@ -66,6 +66,7 @@ With the above it became evident the island had become home to numerous [Madeira
 
 | Date | Activity | 
 | --- | --- |
+| 2025-08-05 | Tidy up cutting and poisoning of [[schinus-terebinthifolia]] trees, pulling of some [[madeira-vine]], [[asparagus-africanus]] and numerous other weeds. |
 | 2024-12-21 | Finally cut down the last dead tree and cut down some shoulder high grass |
 | Late 2024 | Planting of sandpaper fig |
 | Jan 2025 | Harvesting (picking up from the ground) of the first [[bunya-pine]] cones |
