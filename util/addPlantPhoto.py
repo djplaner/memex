@@ -372,7 +372,7 @@ def updateMemex( plantName: str, plantMemex: dict,
     print(f"Writing YAML for {plantName} with species={species}:\n{yaml}")
     print('----- markdown')
     print(markdown)
-    quit()
+#    quit()
 
     writePlantFile( plantName, yaml, markdown, species ) 
 
