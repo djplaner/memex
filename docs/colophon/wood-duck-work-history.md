@@ -14,6 +14,7 @@ Method to [[gather-weave-augment]] the work history of [[wood-duck-meadows]]
 ## Implementation plan
 
 - [ ] Create the data
+- [ ] Modify corpusActions - exclude work-history files
 - [ ] Implement utility class
 - [ ] Implement `regionWorkHistory`
 - [ ] Implement `woodDuckWorkHistory`

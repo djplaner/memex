@@ -10,6 +10,7 @@ type: note
 
 - [[creating-compost]]
 - [[weed-tea]]
+- [[raised-garden-beds]]
 
 ## Weed control
 

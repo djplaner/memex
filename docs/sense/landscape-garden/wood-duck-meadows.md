@@ -3,6 +3,7 @@ tags: gardens, sense, landscape
 title: Wood duck meadows
 type: note
 ---
+
 Internal backlinks: [[wood-duck-plant-selection]], [[individual-plants]]
 
 See also: [wood-duck-gallery](./wood-duck-gallery.md), [[plants]], [[individual-plants]], [plant-locations](./individual-plants/plant-location.html)
@@ -71,6 +72,7 @@ To aid discussion and planning we're slowly dividing the property into the diffe
 | [[house]] | House, stables, sheds and surrounding gardens |
 | [[pecan-corner]] | Pecan and other fruit/nut trees |
 | [[lower-dam]] | Dam area on the Gatton creek frontage |
+| [[garden-beds]] | Our foray into vegetable gardening located just above the [[lower-dam]] |
 | [[orchard-corner]] | A nascent grove at the southern end of the property | 
 | [[horse-paddock]] | The largest cleared space on the property that used to form the main horse paddock. Contains the [[the-circle]]. |
 | [[the-circle]] | Small collection of trees in the middle of the main horse paddock |
@@ -142,6 +144,7 @@ List of projects/tools to help with various forms of measurement of what we're d
 [rocky-creek-frontage]: rocky-creek-frontage "Rocky Creek Frontage"
 [pecan-corner]: pecan-corner "Pecan corner"
 [lower-dam]: lower-dam "The lower dam"
+[garden-beds]: garden-beds "Garden Beds"
 [orchard-corner]: orchard-corner "The Orchard (Orchard corner)"
 [horse-paddock]: horse-paddock "Horse paddock"
 [the-circle]: the-circle "The Circle"
