@@ -1,4 +1,4 @@
-﻿---
+---
 title: Teaching with video in Canvas
 ---
 ![](https://djon.es/assets/memex/sense/Design/canvas/images/video-agenda.png)

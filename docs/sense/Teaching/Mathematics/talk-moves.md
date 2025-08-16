@@ -1,4 +1,4 @@
-﻿---
+---
 tags: teaching, teaching-mathematics
 title: Talk moves
 type: note

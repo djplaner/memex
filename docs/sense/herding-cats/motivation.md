@@ -1,4 +1,4 @@
-﻿---
+---
 tags: learning, knowledge, teaching
 title: Motivation
 type: note

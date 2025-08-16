@@ -1,4 +1,4 @@
-﻿---
+---
 title: Systems thinking
 ---
 > Systems thinking is a mind-set—a way of seeing and talking about reality that recognizes the interrelatedness of things. System thinking sees collections of interdependent components as a set of relationships and consequences that are at least as important as the individual components themselves. It emphasizes the emergent properties of the whole that neither arise directly, nor are predictable, from the properties of the parts.

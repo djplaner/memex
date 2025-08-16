@@ -1,4 +1,4 @@
-﻿---
+---
 title: LLM Assessment Strategies
 ---
 Place to think out loud and develop ideas. Goal being to be

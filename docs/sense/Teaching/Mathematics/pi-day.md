@@ -1,4 +1,4 @@
-﻿---
+---
 tags: teaching-mathematics, mathematics
 title: PI Day (International day of mathematics)
 type: note

@@ -1,4 +1,4 @@
-﻿---
+---
 title: '# Lived complexity'
 ---
 ## Lived complexity

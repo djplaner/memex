@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Postmodern systems: Intersubjectivity through dialog'
 ---
 - Quinn Wilton

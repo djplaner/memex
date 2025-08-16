@@ -1,4 +1,4 @@
-﻿---
+---
 title: Predatory Inclusion
 ---
 ## First experience with the concept

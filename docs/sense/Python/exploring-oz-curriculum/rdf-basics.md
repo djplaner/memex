@@ -1,4 +1,4 @@
-﻿---
+---
 tags: rdf, python, exploring-oz-curriculum
 title: RDF Basics
 type: note

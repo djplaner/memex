@@ -1,4 +1,4 @@
-﻿---
+---
 title: local-canvas-dev
 ---
 ## docker - mac 

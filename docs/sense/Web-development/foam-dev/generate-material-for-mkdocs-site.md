@@ -1,4 +1,4 @@
-﻿---
+---
 tags:
 - foam
 - web-development

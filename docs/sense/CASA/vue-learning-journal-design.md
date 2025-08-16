@@ -1,4 +1,4 @@
-﻿---
+---
 tags: web-development, javascript, vue, casa
 title: Vue learning journal design
 type: note

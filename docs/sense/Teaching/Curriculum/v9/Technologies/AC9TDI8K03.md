@@ -1,4 +1,4 @@
-﻿---
+---
 tags: australian-curriculum
 title: AC9TDI8K03
 type: note

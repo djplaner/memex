@@ -1,4 +1,4 @@
-﻿---
+---
 title: Designing API request mechanisms
 ---
 ## Purpose

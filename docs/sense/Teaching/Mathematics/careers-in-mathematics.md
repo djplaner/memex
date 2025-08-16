@@ -1,4 +1,4 @@
-﻿---
+---
 tags: teaching-mathematics, mathematics
 title: Careers in mathematics
 type: note

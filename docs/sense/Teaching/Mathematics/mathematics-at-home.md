@@ -1,4 +1,4 @@
-﻿---
+---
 tags: teaching-mathematics, teaching
 title: Mathematics at home
 type: note

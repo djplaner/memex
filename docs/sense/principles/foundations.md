@@ -1,4 +1,4 @@
-﻿---
+---
 title: Foundations
 ---
 Random and very slowly emerging thinking about the foundations of my work/life (small l)

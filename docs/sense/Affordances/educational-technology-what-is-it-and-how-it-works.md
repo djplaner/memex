@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Educational technology: what is it and how it works'
 ---
 ## Definition: Educational Technology

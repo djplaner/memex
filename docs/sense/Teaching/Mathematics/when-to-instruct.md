@@ -1,4 +1,4 @@
-﻿---
+---
 tags: teaching, teaching-mathematics
 title: When to instruct
 type: note

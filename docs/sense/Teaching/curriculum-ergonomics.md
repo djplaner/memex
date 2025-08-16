@@ -1,4 +1,4 @@
-﻿---
+---
 title: Curriculum Ergonomics
 ---
 Choppin et al (2018) "conceptualize curriculum ergonomics as a field that studies the interactions between users and curriculum materials" 

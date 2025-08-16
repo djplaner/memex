@@ -1,4 +1,4 @@
-﻿---
+---
 title: Decision frames and schemata
 ---
 "Decision frames"

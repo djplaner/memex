@@ -1,4 +1,4 @@
-﻿---
+---
 title: 004-exploring-oz-dev-log
 ---
 Intent is to start generating markdown pages using Foam format for eventual inclusion in memex.

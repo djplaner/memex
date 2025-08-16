@@ -1,4 +1,4 @@
-﻿---
+---
 title: Mind Tools (and Mindstorms)
 ---
 # Mind Tools (and Mindstorms)

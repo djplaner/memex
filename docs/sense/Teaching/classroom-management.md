@@ -1,4 +1,4 @@
-﻿---
+---
 tags: teaching, classroom-management
 title: Classroom management
 type: note

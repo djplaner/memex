@@ -1,4 +1,4 @@
-﻿---
+---
 title: Queensland Schools
 ---
 Misc melting pot of resources/info re: Queensland schools.

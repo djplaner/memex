@@ -1,4 +1,4 @@
-﻿---
+---
 tags: gardens, sense, landscape
 title: Improving clay soil
 type: note

@@ -1,4 +1,4 @@
-﻿---
+---
 tags: tags
 title: Tags and properties
 type: colophon

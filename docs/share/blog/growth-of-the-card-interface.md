@@ -1,4 +1,4 @@
-﻿---
+---
 title: Reflecting on the spread of the Card Interface for Blackboard Learn
 ---
 ```toml

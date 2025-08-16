@@ -1,4 +1,4 @@
-﻿---
+---
 title: Design Science Research
 ---
 ## Definitions

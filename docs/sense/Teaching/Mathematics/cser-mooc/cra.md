@@ -1,4 +1,4 @@
-﻿---
+---
 tags: teaching, teaching-mathematics
 title: Concrete, Representation (Pictorial), Abstract (CRA)
 type: note

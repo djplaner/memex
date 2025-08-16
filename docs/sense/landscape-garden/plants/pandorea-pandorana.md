@@ -23,7 +23,7 @@ tags:
 
 Hugh and Kay provided what we thought were our initial examples of Wonga Vine in late 2024/early 2025. Sandy planted this in her rainforest example beside [[the-dam]].
 
-In August 2025 while clearing the area for the [[garden-beds]] a couple of mature Wonga vines were discovered.
+In August 2025 while clearing the area for the [[vegetable-beds]] a couple of mature Wonga vines were discovered.
 
 <figure markdown>
 ![](https://djon.es/assets/memex/sense/landscape-garden/plants/images/pandorea-pandorana/1.jpeg)

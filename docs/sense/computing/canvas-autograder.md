@@ -1,4 +1,4 @@
-﻿---
+---
 title: Canvas Autograder
 ---
 [Teachers pays teachers page](https://www.teacherspayteachers.com/Product/Canvas-to-ChatGPT-Autograder-9325328?st=7cab7def3d32905b16aaa75e4654b33e) for a Python script that will 

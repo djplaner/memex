@@ -1,4 +1,4 @@
-﻿---
+---
 title: Continuous Delivery and Deployment
 ---
 ## Continuous delivery 

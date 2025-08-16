@@ -1,4 +1,4 @@
-﻿---
+---
 tags:
 - bad
 title: Scaleless and Placeless

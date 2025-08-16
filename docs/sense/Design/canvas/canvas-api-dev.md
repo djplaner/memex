@@ -1,4 +1,4 @@
-﻿---
+---
 title: Canvas API dev
 ---
 Resources and approaches to using the Canvas API.

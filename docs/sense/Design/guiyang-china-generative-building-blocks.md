@@ -1,4 +1,4 @@
-﻿---
+---
 tags: consistency, design
 title: Guiyang China Generative Building Blocks
 type: note

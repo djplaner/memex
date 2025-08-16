@@ -1,4 +1,4 @@
-﻿---
+---
 tags: computing, digital-technology, nodt, generativity, papert
 title: Protean
 type: note

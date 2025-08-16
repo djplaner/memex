@@ -1,4 +1,4 @@
-﻿---
+---
 title: Elaboration
 ---
 An intentional strategy where new information that makes connections with the new information and existing knowledge.

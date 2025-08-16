@@ -1,4 +1,4 @@
-﻿---
+---
 tags: learning, learning-science, teaching
 title: Desirable difficulties
 type: note

@@ -1,4 +1,4 @@
-﻿---
+---
 tags: computing, digital-technology, teaching-digital-technology
 title: Teaching Programming
 type: note

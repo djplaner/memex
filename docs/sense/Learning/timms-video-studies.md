@@ -1,4 +1,4 @@
-﻿---
+---
 tags: teaching-mathematics
 title: TIMMS Video Studies
 type: note

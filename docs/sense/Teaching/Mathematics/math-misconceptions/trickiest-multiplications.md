@@ -1,4 +1,4 @@
-﻿---
+---
 title: Trickiest Multiplications
 ---
 Heatmap showing the trickiest multiplications for students to learn. 

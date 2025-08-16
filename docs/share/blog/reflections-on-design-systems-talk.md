@@ -1,4 +1,4 @@
-﻿---
+---
 title: Reflections on learning design systems presentation
 ---
 ```toml

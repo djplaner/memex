@@ -1,4 +1,4 @@
-﻿---
+---
 title: Canvas Rubrics
 ---
 ## Misc resources

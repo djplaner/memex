@@ -1,4 +1,4 @@
-﻿---
+---
 tags: casa, teaching, visibly-random-groups, complex-instruction
 title: Random Group Allocator
 type: note

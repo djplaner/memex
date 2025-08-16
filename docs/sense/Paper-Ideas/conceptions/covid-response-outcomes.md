@@ -1,4 +1,4 @@
-﻿---
+---
 title: COVID Response outcomes
 ---
 ## From Bellaby et al

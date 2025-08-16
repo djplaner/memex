@@ -1,4 +1,4 @@
-﻿---
+---
 title: Excellent/quality teaching
 ---
 ## The problem

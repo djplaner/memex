@@ -1,4 +1,4 @@
-﻿---
+---
 title: 2 Sigma Problem
 ---
 Experiments using three types of learning methods

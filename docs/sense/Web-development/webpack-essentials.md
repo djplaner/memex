@@ -1,4 +1,4 @@
-﻿---
+---
 title: Webpack essentials
 ---
 ## Background

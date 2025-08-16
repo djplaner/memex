@@ -1,4 +1,4 @@
-﻿---
+---
 tags: sense, landscape, regeneration, permaculture
 title: Permaculture Principles
 type: note

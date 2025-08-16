@@ -1,4 +1,4 @@
-﻿---
+---
 title: Class observations
 ---
 ## Talk

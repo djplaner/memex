@@ -1,4 +1,4 @@
-﻿---
+---
 title: algebra
 ---
 ## Summary of learning

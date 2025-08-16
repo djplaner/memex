@@ -1,4 +1,4 @@
-﻿---
+---
 tags: digital,art, creative-coding, poetic-computation
 title: Poetic Computation
 type: note

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Mapping courses with ABC LD
 ---
 Is it possible to map an existing course and its activities using ABC LD?

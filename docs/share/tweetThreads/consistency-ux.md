@@ -1,4 +1,4 @@
-﻿---
+---
 title: Consistency and UX
 ---
 - Lots of people push for consistent course websites

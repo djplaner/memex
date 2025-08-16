@@ -1,4 +1,4 @@
-﻿---
+---
 title: Mathematically productive tasks
 ---
 Rumack & Huinker (2019) cite (unavailable work) that routines become mathematically productive when they:

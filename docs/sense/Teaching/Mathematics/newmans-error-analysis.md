@@ -1,4 +1,4 @@
-﻿---
+---
 tags: teaching-mathematics
 title: Newman's error analysis
 type: note

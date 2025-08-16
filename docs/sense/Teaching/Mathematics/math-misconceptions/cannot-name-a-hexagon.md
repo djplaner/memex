@@ -1,4 +1,4 @@
-﻿---
+---
 title: Cannot name a hexagon
 ---
 From Boaler (2015). A misconception said to arise due to the common way hexagons are shown in mathematical textbooks - a misconception available in lots of similar shapes, lines, etc

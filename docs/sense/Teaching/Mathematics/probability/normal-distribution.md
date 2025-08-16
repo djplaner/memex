@@ -1,4 +1,4 @@
-﻿---
+---
 title: Normal (Gaussian) distribution
 ---
 ## Why it seems everywhere and why under closer inspection it is almost nowhere.

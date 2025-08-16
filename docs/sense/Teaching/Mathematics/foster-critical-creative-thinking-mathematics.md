@@ -1,4 +1,4 @@
-﻿---
+---
 title: Fostering critical and creative thinking - mathematics
 ---
 ## 7 Methods

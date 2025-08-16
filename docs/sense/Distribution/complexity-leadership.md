@@ -1,4 +1,4 @@
-﻿---
+---
 tags: complexity, distribution, BAD
 title: Complexity leadership
 type: note

@@ -1,4 +1,4 @@
-﻿---
+---
 tags: teaching-digital-technologies, digital-technologies, programming, scratch
 title: Tell a story - Scratch
 type: note

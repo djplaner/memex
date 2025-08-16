@@ -1,4 +1,4 @@
-﻿---
+---
 tags: landscape, garden, soil
 title: Jar soil test
 type: note

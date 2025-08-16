@@ -1,4 +1,4 @@
-﻿---
+---
 tags: teaching, excel, mathematics, society
 title: Excel World Championship
 type: note

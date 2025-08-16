@@ -1,4 +1,4 @@
-﻿---
+---
 tags: web-development, javascript, vue, canvas, casa
 title: Design of Vue Learning Journal Data Structures
 type: note

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Long and short arc learning design
 ---
 Goodyear (2009) proposes two contrasting images (recognising that there are many) of how a teacher may design a course

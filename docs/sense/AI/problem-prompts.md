@@ -1,4 +1,4 @@
-﻿---
+---
 title: Problem prompts
 ---
 A sample of prompts that cause problems with LLMS/demonstrate their limitations.

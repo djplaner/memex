@@ -1,4 +1,4 @@
-﻿---
+---
 tags: teaching
 title: Australian Professional Standards for Teachers
 type: note

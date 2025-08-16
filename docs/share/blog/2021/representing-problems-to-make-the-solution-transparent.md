@@ -1,4 +1,4 @@
-﻿---
+---
 title: Representing problems to make the solution transparent
 ---
 ```toml

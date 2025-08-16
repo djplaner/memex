@@ -1,4 +1,4 @@
-﻿---
+---
 tags: teaching, programming, software
 title: Program or be programmed
 type: note

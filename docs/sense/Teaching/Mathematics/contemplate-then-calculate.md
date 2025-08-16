@@ -1,4 +1,4 @@
-﻿---
+---
 title: Contemplate then calculate
 ---
 Resources: [originators site](https://www.fosteringmathpractices.com/contemplate-then-calculate/), [primer](https://tedd.org/wp-content/uploads/2015/06/Contemplate-then-Calculate-CTCPrimer1.pdf), [PD PowerPoint](https://www.nctm.org/uploadedFiles/Conferences_and_Professional_Development/Institutes/Grades_3-8_Mathematical_Practices/2015%20Institute_Lucenta_C%20then%20C_REV.pdf)

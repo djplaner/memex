@@ -1,4 +1,4 @@
-﻿---
+---
 tags: computing, digital-technologies, teaching-digital-technologies
 title: Satellite imagery
 type: note

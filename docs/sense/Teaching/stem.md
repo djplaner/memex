@@ -1,4 +1,4 @@
-﻿---
+---
 tags: STEM, teaching
 title: STEM
 type: note

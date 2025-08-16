@@ -13,7 +13,7 @@ Method to [[gather-weave-augment]] the work history of [[wood-duck-meadows]]
 
 ## Implementation plan
 
-- [ ] Create the data
+- [x] Create the data
 - [ ] Modify corpusActions - exclude work-history files
 - [ ] Implement utility class
 - [ ] Implement `regionWorkHistory`
@@ -50,8 +50,6 @@ Data use
 
     Work history table for the given region.
 
-
-
 Data
 
 - landscape-garden/wood-duck-meadows/work-files/
@@ -82,7 +80,19 @@ Code
 
     Generate the work history page for Wood duck meadows. 
 
+### corpus.py
 
+A class to ready the work history, but eventually become something used by corpusActions.
+
+
+```python
+from util.corpus import corpus
+workHistory = corpus( type="<type>")
+
+## iterate through the work history
+for work in workHistory:
+    print(work.date, work.region, work.description)
+```
 
 
 

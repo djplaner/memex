@@ -1,4 +1,4 @@
-﻿---
+---
 tags:
 - relational-model
 - database-design

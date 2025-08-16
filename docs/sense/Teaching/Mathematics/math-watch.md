@@ -1,4 +1,4 @@
-﻿---
+---
 title: Math Watch
 ---
 Idea of encouraging student engagement in mathematics by identifying common misuses of mathematics in the general media and other daily practices. Original idea rose out of a [unit plan](https://djon.es/blog/2011/09/21/the-final-plan-khan-academy-gamification-and-the-flipped-classroom/) I developed during my Grad Dip. Inspired by the [ABC Australia TV show _Media Watch_](https://en.wikipedia.org/wiki/Media_Watch_(TV_program) but with a focus on examining the use of mathematics in "real life".

@@ -1,4 +1,4 @@
-﻿---
+---
 tags: teaching-mathematics
 title: Mathematics Class Survey
 type: note

@@ -1,4 +1,4 @@
-﻿---
+---
 tags: web-development, javascript, vue, canvas, casa
 title: Design of root components - (Canvas Learning Journal CASA 4)
 type: note

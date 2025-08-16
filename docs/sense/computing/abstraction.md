@@ -1,4 +1,4 @@
-﻿---
+---
 tags: computing, teaching-digital-technology, computational-thinking
 title: Abstraction
 type: note

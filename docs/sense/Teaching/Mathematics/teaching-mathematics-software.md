@@ -1,4 +1,4 @@
-﻿---
+---
 title: Software for teaching mathematics
 ---
 ## [Code4Math](http://code4math.org/)

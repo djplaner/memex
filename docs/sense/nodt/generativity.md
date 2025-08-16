@@ -1,4 +1,4 @@
-﻿---
+---
 title: Generativity
 ---
 ## Zittrain (2006)

@@ -1,4 +1,4 @@
-﻿---
+---
 tags:
 - normal-forms
 - database-design

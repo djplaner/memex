@@ -1,4 +1,4 @@
-﻿---
+---
 title: On formal qualifications and improving learning and teaching
 ---
 ```toml

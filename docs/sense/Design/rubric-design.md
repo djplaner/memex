@@ -1,4 +1,4 @@
-﻿---
+---
 title: Rubric Design
 ---
 ## Designing an assessment rubric

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Reviewing PhD Thesis
 ---
 Misc thoughts re: reviewing PhD thesis

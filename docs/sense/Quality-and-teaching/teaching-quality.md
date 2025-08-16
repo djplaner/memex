@@ -1,4 +1,4 @@
-﻿---
+---
 title: Teaching quality
 ---
 Raban (2007)

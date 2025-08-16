@@ -1,4 +1,4 @@
-﻿---
+---
 tags:
 - colophon
 - interface

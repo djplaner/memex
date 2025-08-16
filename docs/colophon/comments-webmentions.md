@@ -1,4 +1,4 @@
-﻿---
+---
 tags:
 - colophon
 title: Comments, webmentions, pingbacks etc

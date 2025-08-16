@@ -1,4 +1,4 @@
-﻿---
+---
 title: Digital Revolution
 ---
 [In this book](https://books.google.com.au/books?id=1tcyDQAAQBAJ&pg=PA1&lpg=PA1&dq=Universities,+Disruptive+Technologies,+and+Continuity+in+Higher+Education&source=bl&ots=cPx-N5tMrQ&sig=XAfscdrc0BIcYWuRVrmTL5_GNNA&hl=en&sa=X&redir_esc=y#v=onepage&q=digital%20revolution&f=false) Moodie uses the term *digital revolution* to identify the 3rd revolution to impact Universities (Gutenberg and Scientific revolutions being the first two).

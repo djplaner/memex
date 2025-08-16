@@ -1,4 +1,4 @@
-﻿---
+---
 title: Higher ed L&T's scale problem?
 ---
 ```toml

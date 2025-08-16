@@ -1,4 +1,4 @@
-﻿---
+---
 title: "How Teachers\u2019 Hidden Biases Are Hurting Our Girls"
 ---
 ## [time.com](https://time.com/3705454/teachers-biases-girls-education/) ▪ Friday, February 13, 2015 at 5:07 AM

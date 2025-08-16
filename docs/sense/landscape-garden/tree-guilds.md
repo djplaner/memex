@@ -1,4 +1,4 @@
-﻿---
+---
 tags: sense, landscape, garden, permaculture
 title: Tree guilds
 type: note

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Building AI applications based on learning research
 ---
 [GRAILE Seminar](https://www.eventbrite.com/x/621321217487/?keep_tld=1&internal_ref=social) - [Global Research Alliance for AI in Learning and Education](https://graile.ai/)

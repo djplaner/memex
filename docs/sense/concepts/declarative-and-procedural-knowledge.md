@@ -1,4 +1,4 @@
-﻿---
+---
 tags: concept, learning, knowledge
 title: Declarative and procedural knowledge
 type: note

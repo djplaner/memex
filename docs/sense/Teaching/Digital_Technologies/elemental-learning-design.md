@@ -1,4 +1,4 @@
-﻿---
+---
 tags: learning, teaching, teaching-digital-technologies
 title: Elemental learning design
 type: note

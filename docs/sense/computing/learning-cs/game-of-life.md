@@ -1,4 +1,4 @@
-﻿---
+---
 tags:
 - game-of-life
 - theory-of-computing

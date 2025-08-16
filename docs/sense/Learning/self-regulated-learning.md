@@ -1,4 +1,4 @@
-﻿---
+---
 title: Self Regulated Learning
 ---
 ## Zimmerman

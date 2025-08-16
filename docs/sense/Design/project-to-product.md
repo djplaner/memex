@@ -1,4 +1,4 @@
-﻿---
+---
 title: Project to Product
 ---
 Idea from agile, lean, devops, digital transformation. In part about moving IT from cost to profit center.

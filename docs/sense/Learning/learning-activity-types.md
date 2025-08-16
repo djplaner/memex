@@ -1,4 +1,4 @@
-﻿---
+---
 title: Learning activity types
 ---
 ## Laurillard (2012)

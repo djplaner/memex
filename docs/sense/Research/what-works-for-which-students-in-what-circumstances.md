@@ -1,4 +1,4 @@
-﻿---
+---
 title: What works, for which students, in what circumstances
 ---
 The "Clayton Christensen Institute for Disruptive Education" arguing that education research needs to move beyond what works - away from gathering evidence for the "average" - towards understanding why it works for different learners.

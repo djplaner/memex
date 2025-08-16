@@ -1,4 +1,4 @@
-﻿---
+---
 tags:
 - mathematics
 - teaching-mathematics

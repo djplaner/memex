@@ -1,4 +1,4 @@
-﻿---
+---
 tags: teaching
 title: ACU's Return to Teaching course
 type: note

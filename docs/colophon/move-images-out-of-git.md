@@ -1,4 +1,4 @@
-﻿---
+---
 tags:
 - colophon
 title: Move images out of git

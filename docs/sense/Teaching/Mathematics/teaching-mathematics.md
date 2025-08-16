@@ -1,4 +1,4 @@
-﻿---
+---
 tags: mathematics, teaching
 title: Teaching Mathematics
 type: index
@@ -158,7 +158,7 @@ Boaler, J. (2015). Creating Mathematical Mindsets: The Importance of Flexibility
 [real-work-versus-real-world]: real-work-versus-real-world "Real work versus Real world"
 [mathematical-mindset]: mathematical-mindset "Mathematical Mindset"
 [math-facts]: math-facts "Math Facts"
-[when-to-instruct]: when-to-instruct "when-to-instruct"
+[when-to-instruct]: when-to-instruct "When to instruct"
 [reading-and-writing-the-world-with-mathematics]: reading-and-writing-the-world-with-mathematics "Reading and writing the world with mathematics"
 [mathematical-misconceptions]: math-misconceptions/mathematical-misconceptions "Mathematical misconceptions and difficulties"
 [effective-pedagogy-in-mathematics]: effective-pedagogy-in-mathematics "Effective pedagogy in mathematics"

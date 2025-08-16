@@ -1,4 +1,4 @@
-﻿---
+---
 tags: teaching
 title: Classroom Talks
 type: note

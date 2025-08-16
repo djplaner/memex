@@ -1,4 +1,4 @@
-﻿---
+---
 tags: teaching, philosophy
 title: It's not how bad you start, it's how quickly you get better
 type: note

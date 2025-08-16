@@ -1,4 +1,4 @@
-﻿---
+---
 tags: teaching, digitalLearning
 title: Digital learning tools
 type: note

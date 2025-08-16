@@ -1,4 +1,4 @@
-﻿---
+---
 title: Creating learning paths
 ---
 Summary of training session with Instructor - "Creating Learning Paths"

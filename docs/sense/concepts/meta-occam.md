@@ -1,4 +1,4 @@
-﻿---
+---
 title: Meta Occam
 ---
 ## Source 

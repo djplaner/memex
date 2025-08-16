@@ -1,4 +1,4 @@
-﻿---
+---
 title: Recipes
 ---
 ## Gra's recipes - via Mum's book
@@ -60,7 +60,7 @@ Other baking recipes
 [lamb-massaman-curry]: lamb-massaman-curry "Massaman Lamb Curry"
 [stir-fried-pork-fillets]: stir-fried-pork-fillets "# Kylie Kwong's Stir-Fried Pork Fillets"
 [fried-green-beans-chilli]: fried-green-beans-chilli "# Kylie Kwong's Spicy dry-fried green beans with hoisin sauce"
-[stir-fried-noodles]: stir-fried-noodles "stir-fried-noodles"
+[stir-fried-noodles]: stir-fried-noodles "Stir fried noodles"
 [chilli-chicken]: chilli-chicken "Chilli Chicken"
 [indian-spiced-frittata]: indian-spiced-frittata "Indian Spiced Frittata"
 [Chicken-spuds-carrots-honey-garlic]: chicken-spuds-carrots-honey-garlic "Chicken-spuds-carrots-honey-garlic"

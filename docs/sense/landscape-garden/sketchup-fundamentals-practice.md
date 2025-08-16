@@ -1,4 +1,4 @@
-﻿---
+---
 tags: sense, landscape, garden, sketchup
 title: Sketchup Fundamentals and Practice
 type: note

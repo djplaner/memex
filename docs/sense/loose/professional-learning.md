@@ -1,4 +1,4 @@
-﻿---
+---
 title: Professional learning
 ---
 Mayer and Lloyd (2011, p.3) offer

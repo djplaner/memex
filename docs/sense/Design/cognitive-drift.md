@@ -1,4 +1,4 @@
-﻿---
+---
 tags:
 - design
 title: Cognitive drift

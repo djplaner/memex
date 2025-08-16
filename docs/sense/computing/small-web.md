@@ -1,4 +1,4 @@
-﻿---
+---
 tags: small-web, web-development,
 title: Small Web
 type: note

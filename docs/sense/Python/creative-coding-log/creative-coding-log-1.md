@@ -1,4 +1,4 @@
-﻿---
+---
 tags: creativeCoding, python
 title: Creative coding log 1
 type: note

@@ -1,4 +1,4 @@
-﻿---
+---
 tags: digital-technology, programming
 title: Bricolage programming
 type: note

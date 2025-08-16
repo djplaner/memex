@@ -1,4 +1,4 @@
-﻿---
+---
 title: Recognition and rewards
 ---
 [Definitions](https://www.bhengagement.com/employee-rewards-recognition/)

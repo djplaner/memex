@@ -1,4 +1,4 @@
-﻿---
+---
 title: Mathematical Memes
 ---
 Collections of mathematical memes intended for eventually use in teaching.

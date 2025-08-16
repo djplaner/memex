@@ -1,4 +1,4 @@
-﻿---
+---
 tags:
 - software development
 title: Three great virtues of a programmer

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Systemism
 ---
 @voineaDesigningConviviality2018 

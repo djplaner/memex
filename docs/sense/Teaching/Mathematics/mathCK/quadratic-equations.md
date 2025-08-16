@@ -1,4 +1,4 @@
-﻿---
+---
 tags: teaching, mathematics, quadratic
 template: math.html
 title: Quadratic equations

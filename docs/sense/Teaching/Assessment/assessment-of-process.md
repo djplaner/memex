@@ -1,4 +1,4 @@
-﻿---
+---
 title: Assessment of process
 ---
 ## Lodge - won't be easy 

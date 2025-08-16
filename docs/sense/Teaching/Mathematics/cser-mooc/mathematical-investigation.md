@@ -1,4 +1,4 @@
-﻿---
+---
 tags: teaching-mathematics
 title: Mathematical Investigation
 type: note

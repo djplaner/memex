@@ -1,4 +1,4 @@
-﻿---
+---
 tags: teaching-digital-technologies
 title: Digital technologies classroom survey
 type: note

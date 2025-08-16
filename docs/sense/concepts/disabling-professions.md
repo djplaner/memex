@@ -1,4 +1,4 @@
-﻿---
+---
 tags: sense, concepts
 title: Disabling professions
 type: note

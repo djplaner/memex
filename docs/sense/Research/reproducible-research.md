@@ -1,4 +1,4 @@
-﻿---
+---
 title: Reproducible Research
 ---
 From this [Curriculum Development Hackathon](https://github.com/Reproducible-Science-Curriculum/RR-Jupyter-Hackathon-Jan-2017/blob/master/Call-for-participation.md) for using Jupyter Notebooks

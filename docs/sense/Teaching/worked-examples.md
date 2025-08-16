@@ -1,4 +1,4 @@
-﻿---
+---
 tags: teaching, teaching-mathematics, teaching-digital-technology
 title: Worked examples
 type: note

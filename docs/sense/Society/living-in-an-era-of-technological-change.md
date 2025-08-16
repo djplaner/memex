@@ -1,4 +1,4 @@
-﻿---
+---
 title: Living in an era of technological change?
 ---
 # Living in an era of technological change?

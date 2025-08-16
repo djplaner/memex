@@ -1,4 +1,4 @@
-﻿---
+---
 title: Research on Feedback in Learning
 ---
 ## Feedback in a Computer-Based Learning Environment

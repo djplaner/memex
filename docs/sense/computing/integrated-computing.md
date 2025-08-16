@@ -1,4 +1,4 @@
-﻿---
+---
 title: Integrated Computing
 ---
 Idea - apparently from K-12 education in the US - to teach computer science topics - progrmaming and computer literacy (rather narrow?) - within (integrated into) traditional subjects.

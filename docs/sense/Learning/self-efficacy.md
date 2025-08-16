@@ -1,4 +1,4 @@
-﻿---
+---
 title: Self-efficacy
 ---
 Bandura, A. (1977) [Self-efficacy: Toward a unifying theory of behavioral change.](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.315.4567&rep=rep1&type=pdf) Psychological review, 84(2), 191-215. 

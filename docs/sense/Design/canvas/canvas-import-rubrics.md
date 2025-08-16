@@ -1,4 +1,4 @@
-﻿---
+---
 title: Import rubrics to Canvas - userscript
 ---
 [import-rubric](https://github.com/jamesjonesmath/canvancement/tree/master/rubrics/import-rubric) ([detailed documentation](https://community.canvaslms.com/t5/Canvas-Instructional-Designer/Importing-Rubrics-from-a-Spreadsheet/ba-p/264527)) is one of a collection of [Canvas/rubric userscripts](https://github.com/jamesjonesmath/canvancement/tree/master/rubrics) included in the [canvancement "project"](https://github.com/jamesjonesmath/canvancement/)

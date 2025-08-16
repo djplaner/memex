@@ -1,4 +1,4 @@
-﻿---
+---
 title: Community Governance
 ---
 ## [CommunityRule](https://communityrule.info/)

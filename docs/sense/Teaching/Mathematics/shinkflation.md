@@ -1,4 +1,4 @@
-﻿---
+---
 tags: mathematics
 title: Shrinkflation
 type: note

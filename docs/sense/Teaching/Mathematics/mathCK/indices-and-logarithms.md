@@ -1,4 +1,4 @@
-﻿---
+---
 tags: teaching, mathematics, indicies, logarithms
 template: math.html
 title: Indices and logarithms

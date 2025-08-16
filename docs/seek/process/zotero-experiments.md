@@ -1,4 +1,4 @@
-﻿---
+---
 tags:
 - seek
 title: Experiments with Zotero

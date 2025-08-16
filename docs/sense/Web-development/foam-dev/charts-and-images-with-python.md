@@ -1,4 +1,4 @@
-﻿---
+---
 tags:
 - python
 - web-development

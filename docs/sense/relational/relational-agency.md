@@ -1,4 +1,4 @@
-﻿---
+---
 title: Relational Agency
 ---
 Edwards (2011) offers this definition of _relational agency_

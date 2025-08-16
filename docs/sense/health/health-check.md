@@ -1,4 +1,4 @@
-﻿---
+---
 tags: health, personal
 title: Health check
 type: note

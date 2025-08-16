@@ -1,4 +1,4 @@
-﻿---
+---
 tags: birdwatching, birding
 title: How to get into birdwatching
 type: note

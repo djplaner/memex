@@ -1,4 +1,4 @@
-﻿---
+---
 title: Prompt exploration for preparing number scrabble
 type: note
 ---

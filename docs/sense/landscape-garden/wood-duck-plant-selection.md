@@ -1,4 +1,4 @@
-﻿---
+---
 tags:
 - plants
 - wood-duck-meadows

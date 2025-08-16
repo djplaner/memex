@@ -1,4 +1,4 @@
-﻿---
+---
 title: Teaching in a neo-liberal university
 ---
 ## Overview 

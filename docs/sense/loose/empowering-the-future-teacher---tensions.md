@@ -1,4 +1,4 @@
-﻿---
+---
 title: Empowering the future teacher - tensions
 ---
 Highlights some of the key tensions.

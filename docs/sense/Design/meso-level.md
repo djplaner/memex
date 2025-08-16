@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Meso-level '
 ---
 Important concept that crops up in institutional L&T literature and often usefully describes the work I do.

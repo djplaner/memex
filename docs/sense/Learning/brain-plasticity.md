@@ -1,4 +1,4 @@
-﻿---
+---
 tags: learning, plasticity, brain-plasticity
 title: Brain Plasticity
 type: note

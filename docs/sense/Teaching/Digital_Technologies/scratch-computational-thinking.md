@@ -1,4 +1,4 @@
-﻿---
+---
 tags: teaching-digital-technologies, digital-technologies, programming, scratch, computational-thinking
 title: Computational thinking with Scratch
 type: note

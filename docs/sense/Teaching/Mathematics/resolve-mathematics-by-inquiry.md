@@ -1,4 +1,4 @@
-﻿---
+---
 title: reSolve - Mathematics by inquiry
 ---
 [re(Solve) - Maths by Inquiry](https://www.resolve.edu.au/) - Oz Government funded project including numerous teaching resources including alignment with Oz Curriculum (but sadly not v9)

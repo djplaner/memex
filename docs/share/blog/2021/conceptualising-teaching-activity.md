@@ -1,4 +1,4 @@
-﻿---
+---
 title: Conceptutalising the complexity of teaching activity
 ---
 Big picture thinking.

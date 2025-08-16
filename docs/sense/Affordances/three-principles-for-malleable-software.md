@@ -1,4 +1,4 @@
-﻿---
+---
 tags: software
 title: Three principles for malleable software
 type: note

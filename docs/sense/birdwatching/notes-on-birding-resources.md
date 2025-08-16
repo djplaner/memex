@@ -1,4 +1,4 @@
-﻿---
+---
 tags: birdwatching, birding
 title: Notes on birding resources
 type: note

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Understanding University Teachers Design Work
 ---
 Bennett, S., Agostinho, S., & Lockyer, L. (2017). [The process of designing for learning: Understanding university teachers' design work.](https://drive.google.com/file/d/1LS_2Yrr2dDIl4qCGXM75KXyUrebiYLKg/view?usp=sharing) *Educational Technology Research & Development*, *65*(1), 125--145\. <https://doi.org/10.1007/s11423-016-9469-y>

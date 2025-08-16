@@ -1,4 +1,4 @@
-﻿---
+---
 title: Resources delving deeper into mathematics
 ---
 ## Other resources 

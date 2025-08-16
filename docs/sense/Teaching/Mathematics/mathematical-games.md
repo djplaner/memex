@@ -1,4 +1,4 @@
-﻿---
+---
 tags: teaching, mathematics, teaching-mathematics
 title: Mathematical games
 type: index

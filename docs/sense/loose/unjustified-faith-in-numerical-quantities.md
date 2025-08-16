@@ -1,4 +1,4 @@
-﻿---
+---
 title: Unjustified faith in numerical quantities
 type: quote
 ---

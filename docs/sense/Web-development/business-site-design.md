@@ -1,4 +1,4 @@
-﻿---
+---
 tags: web-development
 title: Business site design
 type: note

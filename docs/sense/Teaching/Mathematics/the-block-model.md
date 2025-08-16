@@ -1,4 +1,4 @@
-﻿---
+---
 tags: teaching-digital-technologies, computing, programming, teaching-programming
 title: The block model
 type: note

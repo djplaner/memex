@@ -1,4 +1,4 @@
-﻿---
+---
 title: What now?
 ---
 ```toml

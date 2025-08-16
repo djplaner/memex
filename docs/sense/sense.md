@@ -1,4 +1,4 @@
-﻿---
+---
 title: Sense
 ---
 See: [[pkm]]
@@ -70,7 +70,7 @@ See: [[pkm]]
 [casa]: CASA/casa "Contextually Appropriate Scaffolding Assemblages (CASA)"
 [herding-cats]: Bricolage/herding-cats "Herding Cats"
 [know-thy-student]: CASA/know-thy-student "Know thy student"
-[nodt]: nodt/nodt "Nature of Digital Technology"
+[nodt]: nodt/nodt "Nature of Digital Technology (nodt)"
 [sharing-design-knowledge]: Sharing-design-knowledge/sharing-design-knowledge "Sharing design knowledge"
 [concepts]: concepts/concepts "Concepts"
 [foundations]: principles/foundations "Foundations"
@@ -81,7 +81,7 @@ See: [[pkm]]
 [computing]: computing/computing "Computing"
 [design]: Design/design "Design"
 [floss]: computing/floss "FLOSS and FOSS"
-[learning]: Learning/learning "learning"
+[learning]: Learning/learning "Learning"
 [python]: Python/python "Python"
 [relational]: relational/relational "Relational"
 [research]: Research/research "Research"

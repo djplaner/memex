@@ -1,4 +1,4 @@
-﻿---
+---
 tags: birdwatching, birding
 title: Why birding?
 type: note

@@ -1,4 +1,4 @@
-﻿---
+---
 tags:
 - colophon
 title: Adding ActivityPub to the blog

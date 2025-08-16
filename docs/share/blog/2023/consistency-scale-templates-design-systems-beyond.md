@@ -1,4 +1,4 @@
-﻿---
+---
 title: Consistency, scale, templates, design systems and beyond
 ---
 ```toml

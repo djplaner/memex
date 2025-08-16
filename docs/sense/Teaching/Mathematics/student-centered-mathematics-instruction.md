@@ -1,4 +1,4 @@
-﻿---
+---
 title: Student Centred Mathematics instruction
 ---
 Defined by Thanheiser & Melhuish (2023) as instruction where

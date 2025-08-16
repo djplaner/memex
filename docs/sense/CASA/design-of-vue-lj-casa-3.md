@@ -1,4 +1,4 @@
-﻿---
+---
 tags: web-development, javascript, vue, canvas, casa
 title: Design of Canvas Learning Journal CASA 3
 type: note

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Expertise for content development
 ---
 Jegan & Eswaran (2004) suggest that

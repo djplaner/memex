@@ -1,4 +1,4 @@
-﻿---
+---
 tags: quotes, pkm
 title: Great Minds Discuss Ideas; Average Minds Discuss Events; Small Minds Discuss
   People

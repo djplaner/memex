@@ -1,4 +1,4 @@
-﻿---
+---
 title: RPA suitable tasks
 ---
 Syed, R., Suriadi, S., Adams, M., Bandara, W., Leemans, S. J. J., Ouyang, C., ter Hofstede, A. H. M., van de Weerd, I., Wynn, M. T., & Reijers, H. A. (2020). Robotic Process Automation: Contemporary themes and challenges. *Computers in Industry*, *115*, 103162\. <https://doi.org/10.1016/j.compind.2019.103162>

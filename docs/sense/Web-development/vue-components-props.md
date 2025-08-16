@@ -1,4 +1,4 @@
-﻿---
+---
 tags: web-development, javascript, vue
 title: Vue components/props in depth
 type: note

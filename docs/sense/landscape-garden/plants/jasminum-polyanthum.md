@@ -19,7 +19,7 @@ Naturalised in Australia it can be considered [an invasive species](https://weed
 
 ## Wood duck history
 
-Apparently planted by Sandy in the early 2010s, only rediscovered when clearing the [[garden-beds]] in August 2025. 
+Apparently planted by Sandy in the early 2010s, only rediscovered when clearing the [[vegetable-beds]] in August 2025. 
 
 <figure markdown>
 ![](https://djon.es/assets/memex/sense/landscape-garden/plants/images/jasminum-polyanthum/1.jpeg)

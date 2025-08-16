@@ -1,4 +1,4 @@
-﻿---
+---
 title: The Mushroom at the End of the World
 ---
 Tsing, A. L. (2015). *The Mushroom at the End of the World: On the Possibility of Life in Capitalist Ruins*. Princeton University Press.

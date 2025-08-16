@@ -1,4 +1,4 @@
-﻿---
+---
 tags: teaching-digital-technologies, computing
 title: Open data sources
 type: note

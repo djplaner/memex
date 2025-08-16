@@ -1,4 +1,4 @@
-﻿---
+---
 title: Freedom and the Learning Management System (LMS)
 ---
 # Freedom and the Learning Management System (LMS)

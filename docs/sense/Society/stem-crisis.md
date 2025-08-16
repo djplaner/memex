@@ -1,4 +1,4 @@
-﻿---
+---
 tags: society, STEM
 title: STEM Crisis
 type: note

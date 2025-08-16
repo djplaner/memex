@@ -1,4 +1,4 @@
-﻿---
+---
 title: Design Systems
 ---
 ## Misc quotes

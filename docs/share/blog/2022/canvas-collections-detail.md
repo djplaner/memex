@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Canvas Collection: Purpose, How, and Functionality'
 ---
 ```toml

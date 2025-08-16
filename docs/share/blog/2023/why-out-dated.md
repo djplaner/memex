@@ -1,4 +1,4 @@
-﻿---
+---
 title: Why are Universities digital development practices so out-dated? (especially
   when it comes to L&T)
 ---

@@ -1,4 +1,4 @@
-﻿---
+---
 tags:
 - technological change
 - postman

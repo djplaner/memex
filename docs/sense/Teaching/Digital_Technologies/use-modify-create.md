@@ -1,4 +1,4 @@
-﻿---
+---
 tags: teaching, digital-technologies, teaching-digital-technologies
 title: Use-modify-create
 type: note

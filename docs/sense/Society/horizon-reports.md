@@ -1,4 +1,4 @@
-﻿---
+---
 title: Horizon Repors
 ---
 ## Value and criticism

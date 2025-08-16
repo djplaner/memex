@@ -1,4 +1,4 @@
-﻿---
+---
 tags: teaching, mathematics, surd
 template: math.html
 title: Surds - mathematical content knowledge

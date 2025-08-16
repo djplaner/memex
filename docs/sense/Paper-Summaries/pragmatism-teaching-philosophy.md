@@ -1,4 +1,4 @@
-﻿---
+---
 title: Pragmatism as a teaching philosophy
 ---
 Klockner, K., Shields, P., Pillay, M., & Ames, K. (2021). Pragmatism as a teaching philosophy in the safety sciences: A higher education pedagogy perspective. *Safety Science*, *138*, 105095. <https://doi.org/10.1016/j.ssci.2020.105095>
