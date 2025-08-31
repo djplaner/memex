@@ -1,8 +1,9 @@
 ---
-title: Work file for 02-08-2024
+title: Exploring the back corner
 date: 02-08-2025
 region: back-corner
 type: work-history
+template: work-history.html
 ---
 
 Explorations in the [[back-corner]]. Removal of a large [[solanum-mauritianum]], a large [[solanum-americanum]], and identifying 15+ [[grevillea-robusta]] saplings apparently all from the large [[grevillea-robusta]] in the [[back-corner]].

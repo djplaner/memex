@@ -24,7 +24,7 @@ Initial intent is to clean it up and transform it into something far more native
 | Late Dec 2024 | Discovered [[wombat-berry]] growing in the area. |    
 | Jan-Mar 2025 | Foliar spraying and pulling [[madeira-vine]] and [[agave]] regrowth. |
 
-
+{{ workHistory('gatton-creek-frontage') }}
 
 
 

@@ -10,6 +10,103 @@ import pygal
 from pygal.style import DarkStyle
 
 from pprint import pprint
+import sys
+
+sys.path.append("/Users/davidjones/memex/util")
+
+from corpus import corpus
+bubbles = corpus()
+
+def filterWorkHistory(region=""):
+    """
+    Retrieve the work history for a given region and convert the list of bubbles into a dict of dicts ordered on month and day.
+    """
+    #-- get a list of work-history bubbles
+    regionWorkHistory = bubbles.get_bubble_by_type("work-history")
+    #-- filter by region, if region "" don't filter
+    if region:
+        workHistory = []
+        for bubble in regionWorkHistory:
+            yaml = bubble.get('yaml', {})
+            if not yaml:
+                continue
+            bubbleRegion = yaml.get('region', "unknown")
+            if bubbleRegion == region:
+                workHistory.append(bubble)
+
+    #-- convert the list of bubbles into a dict of dicts ordered on month and day.
+    history = {}
+    for bubble in workHistory:
+        yaml = bubble.get('yaml', "")
+        if not yaml:
+            continue
+        dateStr = yaml.get('date', "")
+        if not dateStr:
+            continue
+        region = yaml.get('region', "unknown")
+        #-- convert dateStr to a datetime object
+        date = datetime.datetime.strptime(dateStr, "%d-%m-%Y")
+#        date = date.strftime("%Y-%m-%d")
+        if date.year not in history:
+            history[date.year] = {}
+        if date.month not in history[date.year]:
+            history[date.year][date.month] = {}
+        history[date.year][date.month][region] = bubble
+
+    return history
+
+def getWorkHistory(region=""):
+    """
+    Generate a string showing the work history for a region. The default region "" is for all regions
+
+    For a single region show work history in reverse chronological order, structured as a collection of headings for year, month, and day
+
+    ### Year
+
+    #### Month
+
+    ##### Day
+
+    [Region] <if multiple regions>
+
+    """
+
+    #-- Extract the work history bubbles for the given region
+    history = filterWorkHistory(region)
+
+#    return pprint.pformat(history, indent=4)
+
+    content = ""
+
+    for year in sorted(history.keys(), reverse=True):
+        content += f"### {year}\n\n"
+
+        for month in sorted(history[year].keys(), reverse=True):
+            #-- convert numeric month into month name
+            month_name = datetime.date(year, month, 1).strftime("%B")
+            content += f"#### {month_name}\n"
+
+            for day in sorted(history[year][month].keys(), reverse=True):
+                bubble = history[year][month][day]
+                yaml = bubble.get('yaml', {})
+                title = ""
+                dateStr = ""
+                if yaml:
+                    title = yaml.get('title', "")
+                    dateStr = yaml.get('date', "")
+                    if dateStr:
+                        date = datetime.datetime.strptime(dateStr, "%d-%m-%Y")
+                        ## dateStr == "<date> <Month> <Year>"
+                        dateStr = f"**{date.strftime("%d %B %Y")}** - "
+
+                content += f"{dateStr}{title}\n\n"
+                ## - show content
+                content += f"{bubble['content']}\n\n"
+
+    if content == "":
+        content = "No work history available."
+
+    return content
 
 def calculateCommitsByYear( commits ):
     """
@@ -214,6 +311,13 @@ def define_env(env):
     """
     Define the macros for use in markdown files
     """
+
+    @env.macro
+    def workHistory( region: str = "" ):
+        """
+        Get the work history for a specific region.
+        """
+        return getWorkHistory( region )
 
     @env.macro
     def recentChanges( numChanges : int = 5 ):

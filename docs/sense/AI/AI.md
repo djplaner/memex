@@ -28,6 +28,11 @@ Sources that have influenced my thinking, include:
 - [[llm-types]] - over of different LLM types
 - [Weird world of LLMS](https://simonwillison.net/2023/Aug/3/weird-world-of-llms/) - interesting presentation giving different perspectives.
 
+## Impact of AI
+
+- [[95-percent-of-generative-ai-pilots-fail]]
+
+
 ## Presentations 
 
 - [[building-ai-applications-based-on-learning-research]] - Q&A with Khan Academy on their use of LLMs
@@ -55,6 +60,7 @@ Sources that have influenced my thinking, include:
 [computational-techniques-to-reduce-lab-time]: research/computational-techniques-to-reduce-lab-time "Computational techniques to reduce lab time"
 [early-llm-value-thoughts]: early-llm-value-thoughts "Early LLMm value thoughts"
 [llm-types]: llm-types "LLM Types"
+[95-percent-of-generative-ai-pilots-fail]: 95-percent-of-generative-ai-pilots-fail "95% of generative AI pilots at companies fail"
 [building-ai-applications-based-on-learning-research]: building-ai-applications-based-on-learning-research "Building AI applications based on learning research"
 [prompt-engineering]: prompt-engineering "Prompt engineering"
 [prompt-engineering-for-educators]: prompt-engineering-for-educators "prompt-engineering-for-educators"

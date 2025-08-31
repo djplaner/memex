@@ -32,17 +32,23 @@ class corpus:
         self.type = type
         self.paths = paths
         # retrieve corpus items
-        self.items = self._retrieve_corpus_items()
+        self.bubbles = self._retrieve_corpus_bubbles()
+
+    def __len__(self):
+        return len(self.bubbles)
 
     def __iter__(self):
         # This method should return an iterator over the corpus items
-        pass
+        return iter(self.bubbles)
+
+    def __next__(self):
+        return next(self.bubbles)
 
     def __getitem__(self, key):
         # This method should allow access to items in the corpus by key
         pass
 
-    def _retrieve_corpus_items(self):
+    def _retrieve_corpus_bubbles(self):
         """
         Retrieve items from the corpus based on the type.
         This is a placeholder for the actual implementation.
@@ -51,9 +57,21 @@ class corpus:
         ## generate a list of files based on the paths
         files = self._get_fileNames_from_paths()
 
-        print(f"Retrieving corpus items from paths: {self.paths}")
-        print(f"Found {len(files)} files in the corpus.")
-        print(f"Files: {files}")
+#        print(f"Retrieving corpus items from paths: {self.paths}")
+#        print(f"Found {len(files)} files in the corpus.")
+#        print(f"Files: {files}")
+
+        bubbles = []
+        for path in files:
+            #-- extract the file content and metadata
+            bubble = self._extract_file_content(path)
+            #-- decide if the bubble should be included in the corpus
+            if self._include_bubble(bubble):
+                bubbles.append(bubble)
+#            bubbles.append(bubble)
+
+        return bubbles
+
 
     def _get_fileNames_from_paths(self):
         """
@@ -66,22 +84,14 @@ class corpus:
             if not path.startswith(FULL_DOCS_FOLDER):
                 path = FULL_DOCS_FOLDER + path
             
-            print(f"Searching for files in path: {path}")
+            #print(f"Searching for files in path: {path}")
             #-- get all files in the path
 #            files += glob.glob(f"{path}*.md")
             folder = pathlib.Path(path)
             files += list(folder.rglob("*.md"))  
 
-        bubbles = []
-        for path in files:
-            #-- extract the file content and metadata
-            bubble = self._extract_file_content(path)
-            #-- decide if the bubble should be included in the corpus
-            if self.include_bubble(bubble):
-                bubbles.append(bubble)
-#            bubbles.append(bubble)
-
         return files
+
 
     def _include_bubble(self, bubble) -> bool:
         """
@@ -126,8 +136,8 @@ class corpus:
         #   relative to the docs folder
         #   e.g. /Users/davidjones/memex/docs/pkm.md becomes /pkm.md
         docsFile = str(path).replace(FULL_DOCS_FOLDER, "")
-        print(f"Extracting content from {path} -> {docsFile}")
-        input("Press Enter to continue...")
+        #print(f"Extracting content from {path} -> {docsFile}")
+#        input("Press Enter to continue...")
 
         with open(path, encoding="utf-8-sig") as f:
 #    with mkdocs_gen_files.open(docsFile, 'r', encoding="utf-8-sig") as f:
@@ -142,8 +152,8 @@ class corpus:
         #pageData['filePath'] = file.src_path
 
         pageData = self._extract_link_defs(pageData)
-        pprint(pageData)
-        input("Press Enter to continue...")
+        #pprint(pageData)
+#        input("Press Enter to continue...")
 
         return pageData
 
@@ -258,4 +268,20 @@ class corpus:
 
         return newLinkDefs
 
+    def get_bubble_by_type(self, bubble_type):
+        """
+        Get a list of all bubbles of a specific type.
+        """
+        #return [bubble for bubble in self.bubbles if bubble== bubble_type]
 
+        bubbles = []
+        for bubble in self.bubbles:
+
+            yaml = bubble.get("yaml", {})
+            if not yaml:
+                continue
+            type = yaml.get("type", "")
+            if type == bubble_type:
+                bubbles.append(bubble)
+
+        return bubbles

@@ -6,7 +6,7 @@ title: Affordances
 type: note
 ---
 
-The notion of affordances offers a relational perspective on individuals and their environment (see the [broader definition below](#origins---broader-definition)). 
+The notion of affordances offers a relational perspective on individuals and their environment (see the [broader definition below](#origins-broader-definition)). 
 
 My common use of affordances is as part of the [[bad_set-casa-gather-weave]] ideas.  Based on the idea that inherent to the [[nodt|nature of digital technology]] is its **reprogrammability**. Digital media should be (but many aren't) protean. Providing individuals with the affordance to engage in [[bricolage]].
 

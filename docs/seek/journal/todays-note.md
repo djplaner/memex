@@ -21,6 +21,7 @@ On-going
 
 - Process the [sense list](#sense)
 - [[publishing-graph-interface]]
+- ponder use of [webmention.io](https://webmention.io)
 
 - Update the "Made with Material for Mkdocs" to be more [[some-assemblage-required]]
 - work on [[assemblage]]
