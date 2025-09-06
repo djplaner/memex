@@ -9,11 +9,6 @@ Small collection of Acacia trees that almost form a circle sitting within the cl
 
     Cleared out various invasive plants/weeds and beginning experiments with planting native species as ground cover.
 
-<figure markdown>
-![Asparagus Africanus (climbing asparagus) climbing over one of the Acacia trees growing in the circle](https://djon.es/assets/memex/sense/landscape-garden/./plants/images/asparagus-circle.jpeg)
-<caption>Climbing asparagus ([[asparagus-africanus]]) climbing over one of the Acacia trees growing in the circle</caption>
-</figure>
-
 ## Location
 
 <figure markdown>
