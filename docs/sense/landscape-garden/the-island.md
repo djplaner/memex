@@ -44,20 +44,6 @@ Following image shows progress from an early stage where some bamboo and [[aspar
 <caption>Early clearing progress</caption>
 </figure>
 
-### Mauritius hemp
-
-After removing the climbing asparagus, it was time for the Mauritius hemp to go.
-
-<figure markdown>
-![Maurtitius hemp plants growing amongst the [[asparagus-africanus]] (climbing asparagus) near the [[bunya-pine]] on [[the-island]] ](https://djon.es/assets/memex/sense/landscape-garden/./plants/images/maruritius-hemp.jpeg)
-<caption></caption>
-</figure>
-
-<figure markdown>
-![The third photo of clearing "the island" illustrating the reduction (but not complete removal) of the Mauritius hemp.](https://djon.es/assets/memex/sense/landscape-garden/images/mauritius-hemp-removal.jpeg)
-<caption>Removing the Mauritius hemp</caption>
-</figure>
-
 ### Madeira vine
 
 With the above it became evident the island had become home to numerous [Madeira vine tuberlings](https://weeds.brisbane.qld.gov.au/weeds/madeira-vine). [Recommended control measures](https://www.publications.qld.gov.au/ckan-publications-attachments-prod/resources/71a76eb4-d6eb-4d75-870f-14fee5b13839/madeira-vine.pdf?ETag=209013df91fcee28410bbf693318c772) suggest that physical control may be appropriate. Digging out the tubers and freezing/microwaving them to prevent reshooting.

@@ -31,7 +31,11 @@ def filterWorkHistory(region=""):
             if not yaml:
                 continue
             bubbleRegion = yaml.get('region', "unknown")
-            if bubbleRegion == region:
+            #-- check if region is a list
+            if isinstance(bubbleRegion, list):
+                if region in bubbleRegion:
+                    workHistory.append(bubble)
+            elif region == "wood-duck-meadows" or bubbleRegion == region:
                 workHistory.append(bubble)
 
     #-- convert the list of bubbles into a dict of dicts ordered on month and day.
@@ -51,7 +55,9 @@ def filterWorkHistory(region=""):
             history[date.year] = {}
         if date.month not in history[date.year]:
             history[date.year][date.month] = {}
-        history[date.year][date.month][region] = bubble
+        if date.day not in history[date.year][date.month]:
+            history[date.year][date.month][date.day] = {}
+        history[date.year][date.month][date.day] = bubble
 
     return history
 
@@ -73,8 +79,6 @@ def getWorkHistory(region=""):
 
     #-- Extract the work history bubbles for the given region
     history = filterWorkHistory(region)
-
-#    return pprint.pformat(history, indent=4)
 
     content = ""
 

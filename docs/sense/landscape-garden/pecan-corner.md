@@ -3,7 +3,8 @@ tags: gardens, sense, landscape
 title: Pecan corner
 type: zone
 ---
-Another area set aside for fruit and nut trees (see [[orchard-corner]]). Originally including pecan trees which later suffered a weedeater incident.
+
+Another area set aside for fruit and nut trees (see [[orchard-corner]]). Originally including pecan trees which later suffered a weedeater incident. Pecan Corner - like all the fruit tree heavy zones - is Sandy's area. She's done much more work on these areas than captured by the following history of the work I've performed.
 
 ## History
 
