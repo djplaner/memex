@@ -5,7 +5,7 @@ tags:
 - native
 - weed
 - plant
-title: Corymbia Torelliana (Cadaghi)"
+title: Corymbia Torelliana (Cadaghi)
 type: plant
 ---
 [Cadaghi (Coymbia Torelliana)](https://en.wikipedia.org/wiki/Corymbia_torelliana) is a species of tree native to North Queensland which is considered an [environmental pest](https://weeds.brisbane.qld.gov.au/weeds/cadaghi) in South East Queensland. A lovely large tree with a dense canopy providing good shade. A feature that is also a problem with the heavy shade preventing native understorey plants in sub tropical regions. 

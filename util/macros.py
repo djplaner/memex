@@ -104,6 +104,9 @@ def getWorkHistory(region=""):
                 content += f"{bubble['content']}\n\n"
 
     if content == "":
+        print(f"--------No work history available. -- region '{region}' --------")
+        print(sorted(history.keys(), reverse=True))
+        print("------------")
         content = "No work history available."
 
     return content
