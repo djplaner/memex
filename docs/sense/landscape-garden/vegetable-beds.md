@@ -6,7 +6,7 @@ tags:
 - wood-duck-meadows
 ---
 
-Located just above the [[lower-dam]], the vegetable beds region is set aside for [[raised-garden-beds]] and hopefully plentiful harvests of vegetables. 
+Located just above the [[lower-dam]], the vegetable beds region is set aside for [[raised-garden-beds]], associated activities (e.g. compositing), and hopefully plentiful harvests of vegetables. 
 
 First step was to clear by hand the weeds and grass taking up the area. Mostly [[megathyrsus-maximus]], ad hoc small weeds, and [[asparagus-africanus]]. Doing it by hand - rather than a weedeater - enabled the discovery of a couple of [[wombat-berry]] vines. The [[asparagus-africanus]] and [[wombat-berry]] growing over the stump of a fallen hoop pine. A [[jasminum-polyanthum]] vine was also making its home over the same stump.
 

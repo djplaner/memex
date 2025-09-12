@@ -32,7 +32,7 @@ Other functionality includes:
 - Site search is provided [PageFind](https://pagefind.app/).
 - Analytics provided by [GoatCounter](https://www.goatcounter.com/).
 
-Beyond the technology are the [[note-taking-strategies]] and [[digital-garden]] practices that I'm slowly startign to use properly.
+Beyond the technology are the [[note-taking-strategies]] and [[digital-garden]] practices that I'm slowly starting to use properly.
 
 !!! note "Always emerging out of bricolage"
 
