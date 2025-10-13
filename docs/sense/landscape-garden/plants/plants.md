@@ -73,6 +73,7 @@ Not so native
 - [[solanum-americanum]] - American black nightshade
 - [[solanum-mauritianum]] - Wild tobacco tree
 - [[talinum-paniculatum]] - fameflower or pink baby's breath
+- [[tecoma-stans]]
 - [[ochna-serrulata]] - Mickey mouse plant/bush
 
 ### Grasses
