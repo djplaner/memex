@@ -1,2 +1,0 @@
-# vegetable-garden
-

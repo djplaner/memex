@@ -8,7 +8,10 @@
 <!-- Add date, categories, and tag information -->
  <div class="pre-amble">
   <p>
-    📅  {{ page.meta.date.strftime('%d %B %Y') }}
+    📅  
+    {% if page.meta.date %}
+    {{ page.meta.date.strftime('%d %B %Y') }}
+    {% endif %}
     {% if page.meta.categories %}
       <strong>in:</strong>
       {% for category in page.meta.categories %}
