@@ -8,6 +8,9 @@ photos:
       description: None
       date: 2025-10-06 09:33:34
       memexFilename: https://djon.es/assets/memex/sense/landscape-garden/plants/images/ochna-serrulata/1.jpeg
+tags: plants, gardens, weeds
+title: Ochna serrulata (Mickey Mouse Plant)
+type: plant
 ---
 South-african ornamental garden plant that is considered a significant environmental weed in South-East Queensland. Shrub or small tree to 3m. [Ochna Serrulata](https://en.wikipedia.org/wiki/Ochna_serrulata) is also known as Mickey Mouse Plant due to the shape of its fruit.
 
