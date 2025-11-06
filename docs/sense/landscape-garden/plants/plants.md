@@ -28,6 +28,7 @@ The following provides a summary of the plant species we've come across on [[woo
 - [[geijera-salicifolia]] (aka Scrub Wilga, Glasswood)
 - [[grevillea-robusta]] (aka Silky Oak)
 - [[sandpaper-fig]]
+- [[syzygium-oleosum]] (aka Blue lilly pilly)
 - [[unknown-ficus]]
 - [[harpullia-pendula]] (aka Moreton Bay Tulipwood)
 - [[macadamia]]
@@ -41,6 +42,7 @@ Not so native
 
 ## Shrubs, vines, etc.
 
+- [[dendrophtoe-glabrescens]] (aka orange mistletoe)
 - [[maclura-cochinchinensis]] (Cockspur thorn)
 - [[pandorea-pandorana]] (aka Wonga Wonga vine)
 - [[wombat-berry]]
@@ -135,6 +137,7 @@ Not so native
 [geijera-salicifolia]: geijera-salicifolia "Geijera salicifolia (Scrub Wilga, Glasswood)"
 [grevillea-robusta]: grevillea-robusta "Grevillea robusta (Silky Oak)"
 [sandpaper-fig]: sandpaper-fig "Sandpaper fig"
+[syzygium-oleosum]: syzygium-oleosum "Syzygium oleosum (Blue lilly pilly)"
 [unknown-ficus]: ../individual-plants/unknown-ficus "Unknown ficus"
 [harpullia-pendula]: harpullia-pendula "Harpullia Pendula (Moreton Bay Tulipwood)"
 [macadamia]: macadamia "Macadamia"
@@ -142,6 +145,7 @@ Not so native
 [polyscias-elegans]: polyscias-elegans "Polyscias elegans (aka Celery Wood)"
 [rhodosphaera]: rhodosphaera "Rhodosphaera (deep yellowwood, yellow cedar)"
 [antidesma-bunius]: antidesma-bunius "Antidesma bunius (Bignay)"
+[dendrophtoe-glabrescens]: dendrophtoe-glabrescens "Dendrophtoe glabrescens (Orange Mistletoe)"
 [maclura-cochinchinensis]: maclura-cochinchinensis "Maclura cochinchinensis (Cockspur thorn)"
 [pandorea-pandorana]: pandorea-pandorana "Pandorea pandorana (Wonga Wonga vine)"
 [wombat-berry]: wombat-berry "Wombat Berry"
@@ -163,6 +167,7 @@ Not so native
 [solanum-americanum]: solanum-americanum "Solanum americanum (American black nightshade)"
 [solanum-mauritianum]: solanum-mauritianum "Solanum mauritianum (aka Wild tobacco tree)"
 [talinum-paniculatum]: talinum-paniculatum "Talinum paniculatum (Pink baby's breath)"
+[tecoma-stans]: tecoma-stans "Tecoma stans (Yellow bells)"
 [ochna-serrulata]: ochna-serrulata "Ochna serrulata (Mickey Mouse Plant)"
 [arundo-donax]: arundo-donax "Arundo donax (Elephant Grass)"
 [megathyrsus-maximus]: megathyrsus-maximus "Megathyrsus maximus (Guinea grass)"

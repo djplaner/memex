@@ -17,6 +17,7 @@ tags:
 
 Misc
 
+- exclude work history files from backlink calculations
 - [[creating-compost]]
 - [[raised-garden-beds]]
 - [[wikilinks-admonition-bug]]
