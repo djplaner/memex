@@ -13,7 +13,23 @@ tags:
 [[wood-duck-work-history]]
 
 - Exclude the work_history files from the network graph and other related corpus actions
-- Ponder how work history might be linked to the fediverse
+- update the work history based on imported videos
+
+[open graph](https://www.freecodecamp.org/news/what-is-open-graph-and-how-can-i-use-it-for-my-website/) and [preview](https://www.opengraph.xyz)
+
+- Ponder how work history might be linked to the fediverse - implement open graph
+- open graph set up on each page, 
+  - template set up
+  - page specific in page metadata (title already there)
+  - use website defaults when not defined in metadata 
+- work history 
+  - Allow it on individual pages?
+  - most recent work history might be used on the region page?
+
+Add an _observations_ approach that is similar to work history
+
+  - Used when making observations of animals, individual plants, etc
+  - rather than regions, it can be object type e.g. (plant, animal, bird etc)
 
 Misc
 

@@ -59,7 +59,8 @@ PREFIX="/memex"
 EXCLUDE = [
     r"oldNAV\.",
     r"NAV\.",
-    r"/reveal.js"
+    r"/reveal.js",
+    r"/landscape-garden/work-files/"
 ]
 
 def generateAbsoluteLinks(markdownFile, linkDefs):
