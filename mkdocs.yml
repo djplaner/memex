@@ -146,6 +146,11 @@ extra:
     link: https://indieweb.social/@djplaner
   - icon: fontawesome/brands/github
     link: https://github.com/djplaner
+  open_graph:
+    title: "David's Memex"
+    description: "David's personal knowledge management garden"
+    image: https://djon.es/assets/memex/assets/memex-ficus-small.jpeg
+
 
 nav:
   - Home: index.md
@@ -164,7 +169,6 @@ validation:
     omitted_files: ignore
   links: 
     absolute_links: ignore
-
 
 
 not_in_nav: |

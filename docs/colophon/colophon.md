@@ -56,8 +56,7 @@ Beyond the technology are the [[note-taking-strategies]] and [[digital-garden]] 
 
 Improvements being worked on or thought about, include:
 
-- [[publishing-graph-interface]] - adding an interface option to navigate the inter-connected bubbles of the site using a network graph.
-- [[statistics-and-analytics]] - exploring how to improve statistics and analytics for the site and the blog.
+- [[open-graph-per-page]]
 - [[comments-webmentions]] and/or [[add-activity-pub]] - have the blog post/retrieve comments via ActivityPub.
 - expand [[recent-changes]]
 
@@ -68,6 +67,8 @@ Completed
 - [[improve-static-search]] - replace the default MkDocs search with a lighter-weight search engine.
 - [[add-a-mathematics-template]] to include MathJax when required.
 - [[move-images-out-of-git]] - move images out of the git repo and into a shared assets folder.
+- [[publishing-graph-interface]] - adding an interface option to navigate the inter-connected bubbles of the site using a network graph.
+- [[statistics-and-analytics]] - exploring how to improve statistics and analytics for the site and the blog.
 
 
 
@@ -126,13 +127,14 @@ Timed with an increased focus on leveraging this site for my [personal learning 
 [support-documentation]: support-documentation "Support documentation"
 [computational-components]: computational-components "Computational components"
 [recent-changes]: recent-changes "Recent changes"
-[publishing-graph-interface]: publishing-graph-interface "Publishing graph interface"
-[statistics-and-analytics]: statistics-and-analytics "Statistics and Analytics"
+[open-graph-per-page]: open-graph-per-page "open-graph-per-page"
 [comments-webmentions]: comments-webmentions "Comments, webmentions, pingbacks etc"
 [add-activity-pub]: add-activity-pub "Adding ActivityPub to the blog"
 [improve-static-search]: improve-static-search "Improve static search"
 [add-a-mathematics-template]: add-a-mathematics-template "Add a mathematics template"
 [move-images-out-of-git]: move-images-out-of-git "Move images out of git"
+[publishing-graph-interface]: publishing-graph-interface "Publishing graph interface"
+[statistics-and-analytics]: statistics-and-analytics "Statistics and Analytics"
 [version-3-memex-design]: version-3-memex-design "Memex - Version 3"
 [integrate-backlinks-automatically-onto-pages]: integrate-backlinks-automatically-onto-pages "Integrate backlinks automatically onto pages"
 [why-mkdocs-foam]: why-mkdocs-foam "Why combine mkdocs with Foam"

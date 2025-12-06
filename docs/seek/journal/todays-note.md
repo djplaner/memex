@@ -12,8 +12,7 @@ tags:
 
 [[wood-duck-work-history]]
 
-- Exclude the work_history files from the network graph and other related corpus actions
-- update the work history based on imported videos
+- update the work history based on imported images
 
 [open graph](https://www.freecodecamp.org/news/what-is-open-graph-and-how-can-i-use-it-for-my-website/) and [preview](https://www.opengraph.xyz)
 
