@@ -2,6 +2,8 @@
 tags: gardens, sense, landscape
 title: Wood duck meadows
 type: note
+image: https://djon.es/assets/memex/sense/landscape-garden/images/wood-duck-meadows-2013.jpeg
+description: Overview of our home (Wood Duck Meadows) including location, zones, plant selection and measurement tools.
 ---
 
 Internal backlinks: [[wood-duck-plant-selection]], [[individual-plants]]

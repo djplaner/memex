@@ -57,6 +57,24 @@ e.g.
 
 ## Implementation
 
+### Changes
+
+- `mkdocs.yml`
+    - MkDocs configuration file
+    - add site specific open graph values to the `extras:` section
+- `base.html` 
+  - the template containing the `<head>` section
+  - added macros to add default open graph metadata, or page specific metadata if provided
+
+### Usage - page
+
+Can add the following to the page meta data
+
+- `image: <image-url>` - URL of the image to use for the page
+- `description: <description-text>` - description text for the page
+
+These may eventually be used to display the page.
+
 ### Images
 
 [One recommendation](https://doinwp.com/og-image-size-and-requirements/) 
@@ -66,6 +84,12 @@ e.g.
 - use JPG or PNG format
 
 Use `assets/memex-ficus-small.jpeg` as the default image.
+
+!!! note "File size and dimensions issue with images"
+
+    All current images in memex are designed for display not for open graph use. Especially the page specific images added by author.
+
+
 
 
 
