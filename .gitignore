@@ -12,4 +12,4 @@ bin/
 lib/
 __pycache__/
 docs/pagefind/
-docs/colophon/commits*.svg
+docs/colophon/*.svg

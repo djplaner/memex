@@ -58,6 +58,7 @@ Putting people at the centre of technology.
 - [[programming-languages]]
 - [[three-great-virtues-programmer]] - laziness, impatience, hubris
 - [[developer-automation]]
+- [Laws for software engineering](https://isaaclyman.com/blog/posts/laws/) - list of established "laws"
 
 ## Teaching 
 

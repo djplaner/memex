@@ -1,5 +1,11 @@
 ---
 title: Exploring Dron's definition of educational technology
+type: note
+tags:
+  - nodt
+  - dron
+  - pedagogy
+  - technology
 ---
 Pre-COVID the role of technology in learning and teaching in higher education was important. However, in 2020 it became core as part of the COVID response. Given the circumstances it is no surprise that chunks of that response were not that great. There was some good work. There was a lot of a "good enough for the situation" work. There was quite a bit that really sucked. For example,
 

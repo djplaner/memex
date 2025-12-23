@@ -21,7 +21,7 @@ To find out more try:
 
     ---
 
-    Improving our [[wood-duck-meadows|home block]] through [[regeneration]] including dabbling in [[birding]], [[travel]] etc.
+    Improving our [[wood-duck-meadows|home block]] through [[regeneration]] including dabbling in [[birding]], [[travel]], [[photography]] etc.
     
 
 - :material-reflect-vertical: __[[sense|Categories]]__ 
@@ -50,6 +50,7 @@ See also: [[timeline-of-changes]]
 [regeneration]: sense/landscape-garden/regeneration "Bush regeneration (Wood duck meadows)"
 [birding]: sense/birdwatching/birding "Birding"
 [travel]: travel/travel "Travel"
+[photography]: sense/photography/photography "Photography"
 [sense|Categories]: sense/sense "Sense"
 [colophon|About]: colophon/colophon "Colophon"
 [timeline-of-changes]: timeline-of-changes "Timeline of changes"

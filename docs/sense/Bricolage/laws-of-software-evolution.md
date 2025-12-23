@@ -1,5 +1,10 @@
 ---
 title: Laws of Software Evolution
+type: note
+tags:
+    - software-evolution
+    - bricolage
+    - software-development
 ---
 ## Programs, life cycles, and laws of software evolution
 
