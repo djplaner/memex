@@ -86,7 +86,7 @@ Requirements
 - Existing folder in `assets` to hold the bird photos
     
 - Each existing bird observation image (45) will need to be added to a markdown file - there may be multiple images per observation
-- Each bird species needs its own page that uses the `observations` macro (e.g. `{{ observations('bird', <species>) }}`) which gathers the content of the relevant markdown files and displays them on the bird page.
+- Each bird species needs its own page that uses the `observations` macro (e.g. `observations('bird', <species>)`) which gathers the content of the relevant markdown files and displays them on the bird page.
 - Modify `addBirdPhoto.py` to create the markdown files as well as copy the images to the assets folder 
   - Would need the HTML template from the existing life-list-generator for each photo
   - the ability to add photos to an existing markdown file
