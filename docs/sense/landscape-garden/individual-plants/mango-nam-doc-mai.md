@@ -1,6 +1,7 @@
 ﻿---
 latitude: -27.539463333333334
 longitude: 152.0554195
+region: mango-paddock
 photos:
   1:
     date: 2025-03-14 17:53:58

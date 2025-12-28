@@ -1,6 +1,7 @@
 ﻿---
 latitude: -27.53799666666667
 longitude: 152.0560445
+region: pecan-corner
 photos:
   1:
     date: 2025-03-19 07:47:14

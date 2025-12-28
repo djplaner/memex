@@ -56,7 +56,6 @@ Beyond the technology are the [[note-taking-strategies]] and [[digital-garden]] 
 
 Improvements being worked on or thought about, include:
 
-- [[open-graph-per-page]]
 - [[comments-webmentions]] and/or [[add-activity-pub]] - have the blog post/retrieve comments via ActivityPub.
 - expand [[recent-changes]]
 
@@ -64,13 +63,12 @@ Improvements being worked on or thought about, include:
 
 Completed
 
+- [[open-graph-per-page]]
 - [[improve-static-search]] - replace the default MkDocs search with a lighter-weight search engine.
 - [[add-a-mathematics-template]] to include MathJax when required.
 - [[move-images-out-of-git]] - move images out of the git repo and into a shared assets folder.
 - [[publishing-graph-interface]] - adding an interface option to navigate the inter-connected bubbles of the site using a network graph.
 - [[statistics-and-analytics]] - exploring how to improve statistics and analytics for the site and the blog.
-
-
 
 ## Evolution
 
@@ -127,9 +125,9 @@ Timed with an increased focus on leveraging this site for my [personal learning 
 [support-documentation]: support-documentation "Support documentation"
 [computational-components]: computational-components "Computational components"
 [recent-changes]: recent-changes "Recent changes"
-[open-graph-per-page]: open-graph-per-page "open-graph-per-page"
 [comments-webmentions]: comments-webmentions "Comments, webmentions, pingbacks etc"
 [add-activity-pub]: add-activity-pub "Adding ActivityPub to the blog"
+[open-graph-per-page]: open-graph-per-page "Open graph per page"
 [improve-static-search]: improve-static-search "Improve static search"
 [add-a-mathematics-template]: add-a-mathematics-template "Add a mathematics template"
 [move-images-out-of-git]: move-images-out-of-git "Move images out of git"

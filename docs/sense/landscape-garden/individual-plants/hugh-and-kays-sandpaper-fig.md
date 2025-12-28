@@ -5,6 +5,7 @@ tags:
 - gatton-creek-frontage
 title: Hugh and Kay's Sandpaper Fig (Gatton Creek frontage)
 type: single-plant
+region: gatton-creek-frontage
 ---
 In late 2024, Hugh and Kay donated a sandpaper fig which we planted on the [[gatton-creek-frontage]]. We're yet to identify which type of [[sandpaper-fig]] it is.
 

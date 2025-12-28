@@ -16,6 +16,7 @@ tags:
 - wood-duck-meadows
 title: Lychee (Salathiel)
 type: single-plant
+region: rocky-creek-frontage
 ---
 Another lychee (see also [[lychee-no-mai-chee]]) planted along the [[rocky-creek-frontage]] in March 2025.
 

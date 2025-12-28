@@ -11,6 +11,16 @@ Unit 0 including working through some basic information about the course and wat
 
 Currently thinking I should be able to engage in the course and get something out of it.
 
+??? success "Status complete"
+
+    Completed on boxing day 2025.
+
+    From a course design/implementation perspective, the combination of a website and discord server will suit me. The design of the intro tasks are appropriate. In particular, the "photo I'm proud of" tasks. People doing this course are likely to have a few and want to share.
+
+    There appears to be a broad spectrum in experience/ability of participants. Will be interesting to see how that plays out.
+
+    Personally, the chance to review some of my favourite photos (mostly those on Flickr) was an engaging experience.
+
 ## Learning journal questions
 
 ### Goals
@@ -70,7 +80,7 @@ Travel
 
 **Why I chose this photo**
 
-This photo is framed and on the wall I can see from where I'm writing this. It's a photo I'm proud of and which is a memory of a special trip. Based on my limited artistic knowledge of photography, the composition and lighting are pleasing. The mixture of elements - stony beach, sea, sun, cloud and mountains - are an unusual combination for someone used to Australian beaches.
+This is my favourite photo taken on a family trip almost 20 years ago. I can see a framed copy on the wall as I write. It's the combination of elements that I like. The combination of a stony beach, misty mountains in the background, ocean breakers rolling in, and the early morning sun breaking through the clouds. My untrained eye like what the lens flare adds to the image.
 
 **What I'd do differently**
 

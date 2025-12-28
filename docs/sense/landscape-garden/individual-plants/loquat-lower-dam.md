@@ -1,6 +1,7 @@
 ﻿---
 latitude: -27.537888333333335
 longitude: 152.056075
+region: lower-dam
 photos:
   1:
     date: 2025-03-14 17:24:23

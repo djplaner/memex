@@ -1,6 +1,7 @@
 ﻿---
 latitude: -27.53817
 longitude: 152.05557216666668
+region: rocky-creek-frontage
 photos:
   1:
     date: 2025-03-14 17:27:41

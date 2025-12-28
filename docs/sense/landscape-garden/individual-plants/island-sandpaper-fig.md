@@ -2,6 +2,7 @@
 tags: ['plants', 'fig', 'the-island']
 title: Sandpaper fig - The island
 type: single-plant
+region: the-island
 photos:
   1:
       date: 2025-03-22 09:28:15

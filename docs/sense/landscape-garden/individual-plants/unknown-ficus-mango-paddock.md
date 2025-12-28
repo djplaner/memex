@@ -16,6 +16,7 @@ tags:
 - wood-duck-meadows
 title: Unknown ficus (mango paddock)
 type: single-plant
+region: mango-paddock
 ---
 Yet another (unknown) ficus planted in the great March planting of 2025 in the [[mango-paddock]]
 

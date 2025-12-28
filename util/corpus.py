@@ -285,3 +285,48 @@ class corpus:
                 bubbles.append(bubble)
 
         return bubbles
+
+    def get_bubbles_by_frontmatter(self , matter : dict ):
+        """
+        Get a list of all bubbles where the frontmatter matches the "frontmatter" provided in the format
+        {
+            title: <string>,
+            type: <string>,
+            tags: [<string>, <string>, ...],
+            <string>: <string>,
+        }
+        
+        :param self: corpus of all bubbles within Memex
+        :param matter: Dict specifying frontmatter key-value pairs to match
+
+        **todo** 
+        - currently only matches exact values for all entries in matter. Provide an option to match if any of the entries match
+
+        """
+
+        bubbles = []
+        for bubble in self.bubbles:
+
+            yaml = bubble.get("yaml", {})
+            if not yaml:
+                continue
+
+            match = True
+            for key in matter:
+                if key not in yaml:
+                    match = False
+                    break
+                #-- if the value is a list, check if all items are in the yaml list
+                if isinstance(matter[key], list):
+                    if not all(item in yaml[key] for item in matter[key]):
+                        match = False
+                        break
+                else:
+                    if yaml[key] != matter[key]:
+                        match = False
+                        break
+
+            if match:
+                bubbles.append(bubble)
+
+        return bubbles

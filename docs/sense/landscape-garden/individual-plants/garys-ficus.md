@@ -15,6 +15,7 @@ tags:
 - wood-duck-meadows
 title: Gary's Ficus
 type: single-plant
+region: gatton-creek-frontage
 ---
 Making friends is one of the benefits of volunteering at [Redwood Park](https://fep.org.au/our-parks/redwood-park/) with the [Friends of the Escarpment Parks](https://fep.org.au). Friends who have surplus plants, including the odd ficus to give away. Planted in late 2024 in the [[gatton-creek-frontage]] this ficus is growing well. Thanks Gary.
 

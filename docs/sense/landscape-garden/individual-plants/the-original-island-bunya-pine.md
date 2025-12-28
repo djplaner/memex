@@ -5,6 +5,7 @@ tags:
 - bunya-pine
 title: The original island bunya pine
 type: single-plant
+region: the-island
 ---
 The original center piece of [[the-island]] at [[wood-duck-meadows]]. By the time we started work it had almost been entirely overgrown by [[asparagus-africanus]]. 
 

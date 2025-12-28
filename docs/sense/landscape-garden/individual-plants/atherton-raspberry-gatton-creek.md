@@ -15,6 +15,7 @@ tags:
 - wood-duck-meadows
 title: Atherton raspberry (Gatton Creek)
 type: single-plant
+region: gatton-creek-frontage
 ---
 A [[rubus-probus]] (Atherton raspberry) planted out to the [[gatton-creek-frontage]] in early 2025. Seeing some good growth due to Cyclone Alfred and the subsequent rain events.
 
