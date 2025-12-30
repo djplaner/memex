@@ -6,7 +6,7 @@ tags:
 - tree
 - weed
 title: Schotia brachypetala (Drunken Parrot Tree)
-type: plants
+type: plant
 ---
 A medium to large tree to 20 meters. Native to Africa below the Zambezi river. Perhaps most well-known in Australia due to the [intoxication of lorikeets](https://www.australiangeographic.com.au/topics/wildlife/2011/10/drunk-birds-inebriation-in-the-wild/) that result when they feed on the red flowers of the tree. 
 

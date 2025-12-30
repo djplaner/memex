@@ -10,7 +10,7 @@ photos:
     title: None
 tags: plants, ficus
 title: Ficus macrophylla (Moreton Bay fig)
-type: plants
+type: plant
 ---
 The [Moreton Bay fig (Ficus macrophylla)](https://en.wikipedia.org/wiki/Ficus_macrophylla) is a large evergreen tree native to eastern Australia. Broad, leathery leaves and distinctive aerial roots that can grow down from the branches to the ground - it is a banyan.  
 

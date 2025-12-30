@@ -1,5 +1,6 @@
 ---
 title: "Gloria Hyatt\u2019s scone recipe"
+type: recipe
 ---
 > Makes 12-18 (depending in the size of your scone cutter)
 > 1 egg

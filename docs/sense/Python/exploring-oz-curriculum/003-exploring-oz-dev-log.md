@@ -1,7 +1,7 @@
 ---
 tags: python, v9ozCurriculum, curriculum
 title: 'Dev log - 003: Exploring Oz Curriculum'
-type: devLog
+type: note
 ---
 ## Purpose
 

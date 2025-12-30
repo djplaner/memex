@@ -1,7 +1,7 @@
 ﻿---
 tags: sense, landscape, garden
 title: Dry Rainforest
-type: note
+type: zone
 ---
 Often occurring in areas that experience significant seasonal droughts. A low to medium canopy layer that is uneven. With a mixture of evergreen, semi-evergreen and deciduous tree species. The canopy may be open or closed. Twining or scrambling plants are prominent. As a rainforest it has the ability to regenerate.
 

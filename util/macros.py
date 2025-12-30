@@ -313,6 +313,29 @@ def getRecentChanges( numChanges : int ):
 
     return changes
 
+def getBubbleTypes():
+    """
+    Return a markdown table showing all bubble types in the corpus with counts ordered by descending order on count.
+    """
+    
+    bubbleTypes = bubbles.get_bubble_type_count()
+
+    #-- generate a list of tuples (bubbleType, count)
+    bubbleTypeCounts = []
+    for btype in bubbleTypes:
+        bubbleTypeCounts.append( (btype, len(bubbleTypes[btype])) )
+
+    #-- sort the list by count in descending order
+    bubbleTypeCounts.sort( key=lambda x: x[1], reverse=True )
+
+    content = """| Bubble Type | Count |
+| --- | --- |
+"""
+
+    for btype, count in bubbleTypeCounts:
+        content += f"| {btype} | {count} |\n"
+
+    return content
 
 def define_env(env):
     """
@@ -357,3 +380,11 @@ def define_env(env):
         """
 
         return "{{ blogStats()}}"
+
+    @env.macro
+    def showBubbleTypes():
+        """
+        Show all bubble types in the corpus with counts.
+        """
+
+        return getBubbleTypes()

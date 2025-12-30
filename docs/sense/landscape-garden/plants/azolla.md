@@ -6,7 +6,7 @@ tags:
 - plant
 - native
 title: Azola
-type: plants
+type: plant
 ---
 First noticed in 2023/2024 in [[the-dam]] [azolla](https://agriculture.vic.gov.au/farm-management/water/managing-dams/azolla-growth-in-farm-dams) is a small, free-floating fern native to Australia. Under good conditions azolla spreads across a dam surface with the ability to double its surface area within a week. It is able to fix nitrogen from the atmosphere due to hosting nitrogen-fixing bacteria.
 

@@ -1,5 +1,6 @@
 ---
-title: '# Ginger Nuts'
+title: 'Ginger Nuts'
+type: recipe
 ---
 ## Ginger Nuts
 

@@ -1,7 +1,7 @@
 ﻿---
 tags: garden, plant, wood-duck-meadows
 title: Melia azedarach (white cedar)
-type: plants
+type: plant
 photos:
   1:
       title: None

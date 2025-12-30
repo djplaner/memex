@@ -1,3 +1,6 @@
+"""
+Various tests/support functions for corpus manipulation
+"""
 
 from corpus import corpus
 from pprint import pprint
@@ -68,8 +71,32 @@ def test_bubble_frontmatter():
         plantType = yaml.get("type", "No type")
         print(f"Region: {region} \tPlant: {title} ({plantType})")
 
+def show_bubble_types(show_counts=True):
+    """
+    Show all bubble types in the corpus. By default show counts, otherwise show list of titles
+    """
+
+    print("********************\nshow bubble types\n********************")
+    allBubbles = corpus( )
+
+    bubbleTypes = allBubbles.get_bubble_type_count()
+
+    print(f"Number of bubble types: {len(bubbleTypes)}")
+    print("Bubble types:")
+    for btype in bubbleTypes:
+#        pprint(bubbleTypes[btype], indent=4)
+#        quit()
+        if show_counts:
+            print(f"{btype}\t{len(bubbleTypes[btype])}")
+        else:
+            titles = [bubble.get("yaml", {}).get("title", "No title") for bubble in bubbleTypes[btype]]
+            print(f"{btype}")
+            for title in titles:
+                print(f"- {title}")
 
 if __name__ == "__main__":
 #    test_work_history()
 
-    test_bubble_frontmatter()
+    show_bubble_types(False)
+
+#    test_bubble_frontmatter()

@@ -1,5 +1,6 @@
 ---
 title: Nat's What I Reckon - bolagnaise
+type: recipe
 ---
 [Original source](https://www.abc.net.au/news/2020-07-10/nats-what-i-reckon-is-here-to-help-you-make-bolognaise/12402390) and [video](https://youtu.be/Sw_Ze9zIafM)
 

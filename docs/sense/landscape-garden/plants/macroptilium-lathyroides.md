@@ -5,7 +5,7 @@ tags:
 - weed
 - introduced
 title: Macroptilium lathyroides (Phasey Bean)
-type: plants
+type: plant
 ---
 [Macroptilium lathyroides (aka Phasey Bean)](https://en.wikipedia.org/wiki/Macroptilium_lathyroides) is a legume native to the Americas and introduced to Queensland as a pasture legume and is now [considered a weed](https://en.wikipedia.org/wiki/Macroptilium_lathyroides).
 

@@ -5,7 +5,7 @@ tags:
 - weed
 - introduced
 title: Arundo donax (Elephant Grass)
-type: plants
+type: plant
 ---
 Elephant Grass (aka Giant Reed) is a large perennial grass that is [weed in Australia](https://weeds.org.au/profiles/giant-reed-elephant/). Can be removed in small batches, but rhizomes need to be removed. Cut stump and foliar spraying are other options. 
 

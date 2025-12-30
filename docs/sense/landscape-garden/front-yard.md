@@ -1,7 +1,7 @@
 ﻿---
 tags: gardens, landscape, wood-duck-meadows
 title: Front yard
-type: note
+type: zone
 ---
 The "front yard" is a semi-open area laying between the house and the front entrance. Bordered on either side by the [[gatton-creek-frontage]] and [[cherry-tree-walk]]. A sprinkling of different trees sprinkled throughout the area.
 

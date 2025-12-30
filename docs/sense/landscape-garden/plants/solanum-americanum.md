@@ -5,7 +5,7 @@ tags:
 - introduced
 - weed
 title: Solanum americanum (American black nightshade)
-type: plants
+type: plant
 ---
 [Solanum americanum](https://en.wikipedia.org/wiki/Solanum_americanum) (American black nightshade) is a herbaceous flowering plant initially found on the [[fig-tree-berm]]. The entire plant - except ripe fruit - [is toxic](https://www.poisonsinfo.health.qld.gov.au/plants-and-mushrooms/blackberry-nightshade-solanum-nigrum-solanum-americanum).
 

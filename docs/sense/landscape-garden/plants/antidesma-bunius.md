@@ -1,6 +1,6 @@
 ---
 title: Antidesma bunius (Bignay)
-type: plants
+type: plant
 tags:
 - landscape-garden
 - tree

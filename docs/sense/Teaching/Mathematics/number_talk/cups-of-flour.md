@@ -1,7 +1,7 @@
 ﻿---
 tags: number-talk, mathematics, teaching, fractions
 title: Number talk - Cups of flour
-type: numberTalk
+type: note
 ---
 Sourced from an example given in Lee & Yeo (2022) written as
 

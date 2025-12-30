@@ -1,5 +1,6 @@
 ---
 title: Anzac Biscuits
+type: recipe
 ---
 ## Ingredients
 

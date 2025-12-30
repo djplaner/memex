@@ -1,5 +1,6 @@
 ---
 title: Massaman Lamb Curry
+type: recipe
 ---
 Inspired by RecipeTinEats [Lamb Shanks Massaman](https://www.recipetineats.com/lamb-shanks-in-massaman-curry/)
 

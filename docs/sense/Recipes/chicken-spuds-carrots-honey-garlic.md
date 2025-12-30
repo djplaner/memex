@@ -1,5 +1,6 @@
 ---
 title: Chicken-spuds-carrots-honey-garlic
+type: recipe
 ---
 [Source](https://www.youtube.com/watch?v=IHazc7yxnto)
 

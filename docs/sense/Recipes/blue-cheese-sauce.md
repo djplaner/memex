@@ -1,5 +1,6 @@
 ---
 title: Blue cheese sauce
+type: recipe
 ---
 ## Ingredients
 

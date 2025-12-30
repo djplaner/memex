@@ -6,7 +6,7 @@ tags:
 - tree
 - native
 title: Sandpaper fig
-type: plants
+type: plant
 ---
 Adding to the numerous fig (ficus) trees on [[wood-duck-meadows]] are a couple sandpaper figs ([[island-sandpaper-fig]]) we planted out in 2024 and 2024.
 

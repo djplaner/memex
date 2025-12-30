@@ -4,7 +4,7 @@ tags:
 - plant
 - introduced
 title: Senegal knotweed (Persicaria senegalensis)
-type: plants
+type: plant
 ---
 Tentative identification of plant growing profusely in [[the-dam]] around [[the-island]]. Not a lot of resources found after a quick search online.
 

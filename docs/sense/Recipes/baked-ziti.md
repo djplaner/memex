@@ -1,5 +1,6 @@
 ---
 title: Baked Ziti
+type: recipe
 ---
 From a [NTY recipe](http://lisahistory.net/wordpress/2020/06/working-against-canvas-three-tips/)
 

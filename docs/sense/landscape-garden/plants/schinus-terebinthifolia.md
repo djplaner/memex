@@ -14,7 +14,7 @@ tags:
 - weed
 - invasive
 title: Schinus Terebinthifolia (Brazilian pepper tree)
-type: plants
+type: plant
 ---
 The Schinus Terebinthifolia (aka Brazilian pepper tree) is a small tree that can grow up to 10m tall. It is native to South America and is considered a weed in Australia. 
 

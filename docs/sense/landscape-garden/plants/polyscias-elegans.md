@@ -10,7 +10,7 @@ photos:
     title: None
 tags: plants, wood-duck-meadows
 title: Polyscias elegans (aka Celery Wood)
-type: plants
+type: plant
 ---
 [Polyscias elegans](https://en.wikipedia.org/wiki/Polyscias_elegans (aka Celery Wood)) is a small tree or shrub native to the rainforests of New South Wales and Queensland. A fast-growing medium sized tree known as a pioneer species for its fast growth and subsequent shading of invasive species.
 

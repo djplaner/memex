@@ -10,7 +10,7 @@ photos:
     title: Senna acclinis, April 2025
 tags: plants, wood-duck-meadows
 title: Senna acclinis (rainforest cassia or brush senna)
-type: plants
+type: plant
 ---
 [Senna acclinis](https://en.wikipedia.org/wiki/Senna_acclinis), commonly known as rainforest cassia or brush senna, is a shrub native to the rainforests of eastern Australia. Is [bee friendly](https://sown.com.au/senna-acclinis-caesalpinaceae-edge-senna/) and two butterflies - Small Grass-yellow and Yellow Migrant - breed on it.
 

@@ -1,5 +1,6 @@
 ---
-title: '# Kylie Kwong''s Spicy dry-fried green beans with hoisin sauce'
+title: 'Kylie Kwong''s Spicy dry-fried green beans with hoisin sauce'
+type: recipe
 ---
 ## Kylie Kwong's Spicy dry-fried green beans with hoisin sauce
 

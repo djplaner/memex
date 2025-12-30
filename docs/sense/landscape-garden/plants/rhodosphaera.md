@@ -10,7 +10,7 @@ photos:
     title: None
 tags: plants, wood-duck-meadows
 title: Rhodosphaera (deep yellowwood, yellow cedar)
-type: plants
+type: plant
 ---
 [Rhodosphaera](https://en.wikipedia.org/wiki/Rhodosphaera) (aka [deep yellowwood](https://sown.com.au/rhodosphaera-rhodanthema-anacardiaceae-deep-yellowwood/)) is a rainforest tree - both sub-tropical and dry - native to eastern Australia. Growing to 25 metres tall. Forms red flowers in panicles during early spring and fruit from late summary into winter.
 

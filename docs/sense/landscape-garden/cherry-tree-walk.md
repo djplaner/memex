@@ -4,7 +4,7 @@ tags:
 - wood-duck-meadows
 - landscape
 title: Cherry Tree walk
-type: note
+type: zone
 ---
 _Cherry Tree Walk_ proceeds along the front berm which helps re-direct water run-off from the road into [[the-dam]]. Cherry trees have been planted at the start of the walk.
 

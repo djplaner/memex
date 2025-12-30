@@ -1,5 +1,6 @@
 ---
-title: '# Kylie Kwong''s Stir-Fried Pork Fillets'
+title: 'Kylie Kwong''s Stir-Fried Pork Fillets'
+type: recipe
 ---
 ## Kylie Kwong's Stir-Fried Pork Fillets
 

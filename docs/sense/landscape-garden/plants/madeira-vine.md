@@ -7,7 +7,7 @@ tags:
 - introduced
 - invasive
 title: Madeira vine (Anredera cordifolia)
-type: plants
+type: plant
 ---
 [Madeira vine (Anredera cordifolia)](https://en.wikipedia.org/wiki/Anredera_cordifolia)  is an ornamental, succulent, South American vine. It is [serious environmental weed](https://www.business.qld.gov.au/industries/farms-fishing-forestry/agriculture/biosecurity/plants/invasive/restricted/madeira-vine) that can overgrow and smother native vegetation. 
 

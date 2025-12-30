@@ -2,7 +2,7 @@
 tags: teaching, mathematics, number-talks, multiplication, arithmetic
 template: math.html
 title: Related multiplication problems
-type: content
+type: note
 ---
 Adapted from 
 

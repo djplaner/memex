@@ -6,7 +6,7 @@ tags:
 - vine
 - introduced
 title: Passiflora subpeltata (White passionflower)
-type: plants
+type: plant
 ---
 Vine with slender stems, small white flowers and pale green with three rounded lobes. [Considered an environmental weed](https://weeds.brisbane.qld.gov.au/weeds/white-passionflower) in Queensland and NSW.
 

@@ -1,5 +1,6 @@
 ---
 title: Chilli Chicken
+type: recipe
 ---
 ## Ingredients
 

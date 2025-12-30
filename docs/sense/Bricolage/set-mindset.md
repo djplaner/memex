@@ -4,7 +4,7 @@ tags:
 - BAD
 - CASA
 title: The SET mindset
-type: note[[bad-mindset]]
+type: note
 ---
 We argued that the _SET mindset_ is the primary contemporary way to answering three  (of the many) inter-related questions about the implementation of e-learning ([Jones & Clark, 2014](https://djon.es/blog/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/)). Perhaps because this mindset is the dominant way of answering these questions in contemporary neo-liberal society.
 

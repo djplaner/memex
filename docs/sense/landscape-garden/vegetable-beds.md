@@ -1,6 +1,6 @@
 ---
 title: Vegetable Beds
-type: wood-duck-region
+type: zone
 tags:
 - garden-beds
 - wood-duck-meadows

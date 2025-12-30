@@ -6,7 +6,7 @@ tags:
 - introduced
 - weed
 title: Gleditsia triacanthos (Honey Locust)
-type: plants
+type: plant
 ---
 [Honey Locust (Gelditsia triancanthos)](https://en.wikipedia.org/wiki/Honey_locust) is a deciduous tree native to central North America. Growing to 20+m growing large spines on the trunk and branches. Introduced to Australia as a fodder tree and used ornamentally it has recently been nominated as Weed of National Significance.
 

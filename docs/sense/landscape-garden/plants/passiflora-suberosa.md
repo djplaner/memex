@@ -6,7 +6,7 @@ tags:
 - vine
 - introduced
 title: Passiflora suberosa (Corky passion vine)
-type: plants
+type: plant
 ---
 [Passiflora suberosa (aka Corky passion vine)](https://en.wikipedia.org/wiki/Passiflora_suberosa) is a creeping/climbing perennial native to the Americas.
 It is considered an [environmental weed in Queensland](https://weeds.brisbane.qld.gov.au/weeds/corky-passion-vine).

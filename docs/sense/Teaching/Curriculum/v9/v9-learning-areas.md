@@ -3,7 +3,7 @@ tags:
 - teaching
 - australian-curriculum
 title: Learning Areas
-type: teaching
+type: index
 ---
 ??? info "About this page"
 

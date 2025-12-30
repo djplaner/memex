@@ -286,6 +286,28 @@ class corpus:
 
         return bubbles
 
+    def get_bubble_type_count(self) -> dict: 
+        """
+        Get a count of all bubble types in the corpus.
+
+        Return a dict keyed on bubble type with a list of bubbles belonging to that count
+        """
+
+        bubbleTypes = {}
+
+        for bubble in self.bubbles:
+
+            yaml = bubble.get("yaml", {})
+            if not yaml:
+                continue
+            type = yaml.get("type", "unknown")
+            #-- extract keys of bubbleTypes
+            if type not in list(bubbleTypes.keys()):
+                bubbleTypes[type] = []
+            bubbleTypes[type].append(bubble)
+
+        return bubbleTypes
+
     def get_bubbles_by_frontmatter(self , matter : dict ):
         """
         Get a list of all bubbles where the frontmatter matches the "frontmatter" provided in the format

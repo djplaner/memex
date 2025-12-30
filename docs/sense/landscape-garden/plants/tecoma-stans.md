@@ -1,6 +1,6 @@
 ---
 title: Tecoma stans (Yellow bells)
-type: plants
+type: plant
 tags: ['plant', 'introduced', 'weed', 'invasive']
 photos:
   1:
