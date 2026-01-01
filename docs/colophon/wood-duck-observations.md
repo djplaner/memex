@@ -11,6 +11,25 @@ description: Computational component to gather observations of animals, birds, i
 
 With an interest in [[regeneration]] of the [[wood-duck-meadows]] ecosystem comes the desire to make and track various observations about the flora and fauna that inhabit the area. Beyond simply making and recording the observations the desire is to computationally weave and augment observational information to achieve different purposes.
 
+## To do
+
+- Import data and create observations for
+
+    - [ ] eBird - bird observations
+      - [ ] Replace [[life-list-generator]] using observations
+      - [ ] Create individual bird pages, including using of observations
+    - [ ] iNaturalist - observations of other fauna and flora
+- Implement indexes for observations and types
+    - [ ] plants
+    - [ ] single plants
+    - [ ] birds
+- Replace/modify photo existing scripts to create observations with photos
+  - [ ] `addBirdPhoto` 
+  - [ ] `addPlantPhoto` 
+- [ ] Figure out whether to use the `add<Observation>` scripts to create observations for existing photos - or leave as is (probably leave)
+- [ ] Update [[plants]] (both index and note bubbles) to use observations (essentially add a macro)
+
+
 ## Questions and tasks
 
 - What purpose(s) do we need to support - somewhat open ended, but need one or two to get going
@@ -26,14 +45,30 @@ With an interest in [[regeneration]] of the [[wood-duck-meadows]] ecosystem come
 
 ## Conceptual Design
 
-- Entry and storage options
-    - Markdown files - hand written using Foam/VSCode
-    - external data sources - require "converters" to transform original data into markdown files
-      - eBird - provides a downloadable CSV 
-      - iNaturalist
+- Built on [[bubbles-as-objects]] practice
+- Data entry and storage
+    - Individual observations are represented by individual markdown files with front-matter (see [data design](#data-design) below)
+    - Observations are generally stored in `docs/sense/observations` with sub-folders for different observation types e.g. `bird`, `insect`, `plant`, etc.
+    - Observation creation has two methods
+      - Manual editing
+      - Import from external data sources (e.g. eBird and iNaturalist) via "converters" to transform original data into markdown files
+      - **TODO** Resolve if/how both manual editing and external data source import can co-exist (e.g. I want to add some annotation to an eBird observation) and/or an iNaturalist observation changes - how to update that?
+    - Each observation type has its own index (`docs/sense/Observations/bird-observations/bird-observations.md`) in a folder into which Markdown files are created for each observation.
+    - **TODO** 
 - Display
+    - The individual markdown file for an observation is visible/searchable/shareable
+        - **TODO** Where possible include open graph metadata for sharing on social media
+        - **TODO** `type` is having to do double duty. Indicating it's an observation, but type is also used for display????? (Maybe not)
+    - [[computational-components]] esp. macro versions are used to display lists of all observations of a= type or to show the content of all observations of a given type
+        - `observationsIndex( <other-metadata> )` - generates an index of all observations matching provided metadata
+        - `observations( <other-metadata> ) ` - concatenate all the content from matching observations
+
+
+After implementation
+
     - [[life-list-generator]] (not a [[computational-components]]) generates life list, life list gallery and individual bird species pages
-    - Generate pages for individual observations for sharing on social media
+
+
     - Provide a macro that allows grouping together observations of a specific type into another page
         - Species page (for flora or fauna) that lists all observations of that species
         - Region page that lists all observations made in that region
@@ -45,6 +80,8 @@ Each observation has a markdown file with following possible front matter fields
 
 - type: observation
 - observation-type: e.g. bird, insect, mammal, plant, fungi, etc
+- plant-type: [ native, exotic, weed, tree, shrub, groundcover, climber, aquatic, etc ] - only for plant observations
+- region: <wood-duck-meadows-region> (as appropriate)
 - title and other metadata a possible search
 - use of tags 
 
@@ -52,7 +89,10 @@ Enabling macros like
 
 ```markdown
 \{\{ observations('gatton-creek-frontage') \}\}
+\{\{ observations('gatton-creek-frontage', `bird`) \}\}
 ```
+
+
 
 ## Draft thinking
 
@@ -62,10 +102,46 @@ Enabling macros like
 - multiple outputs??
     - link observations to regions
 
+## eBird importer
+
+### [[life-list-generator]]
+
+Existing practice 
+
+- Retrieves data from eBird CSV export
+- Makes some modifications to that data
+- Checks to see if there's (a) photo(s) matching an observation in a given folder
+    - Photos are added by `addBirdPhoto` script  
+- Generates a 
+  - life list and life list gallery as markdown files
+  - individual bird page if there are photos for that bird species
+
+### New practice
+
+- ebird csv file is stored outside the memex project
+- bird observations are stored as individual markdown files in `docs/sense/observations/bird-observations/`
+  - Each eBird observation is a separate markdown observation file
+    - metadata includes most of the eBird fields
+    - content (by default) includes some boiler plate text
+    - existing observation files are not updated - meaning user can manually add observations
+    - if there are photos these are included in the page (as per existing practice)
+- a new `ebirdToObservations.py` script is created to convert the eBird CSV file into individual observation markdown files
+- a new `iNaturalistToObservations.py` script is created to convert iNaturalist data into individual observation markdown files
+    - use the img URLs included in iNaturalist data
+- [[life-list-generator]] is modified to 
+    - work more explicitly as a [[computational-components]] - probably as macros
+    - retrieving the `type: observation` and `aka: bird` bubbles
+    - life list and life list gallery become macros to be embedded in relevant pages
+
+
+
+
 
 [//begin]: # "Autogenerated link references for markdown compatibility"
 [regeneration]: ../sense/landscape-garden/regeneration "Bush regeneration (Wood duck meadows)"
 [wood-duck-meadows]: ../sense/landscape-garden/wood-duck-meadows "Wood duck meadows"
 [life-list-generator]: life-list-generator "Life list generator"
+[plants]: ../sense/landscape-garden/plants/plants "Plants"
+[bubbles-as-objects]: bubbles-as-objects "Bubbles as objects"
 [computational-components]: computational-components "Computational components"
 [//end]: # "Autogenerated link references"
