@@ -17,7 +17,7 @@ Continue work on
 
   - updates to `corpus.py` to serve observations - see [[corpus-manipulation]]
     - select bubbles based on tags and metadata
-- [[photography]]
+- [[photography]] particularly [[photoclass-2026]]
 
 General work
 
@@ -132,6 +132,7 @@ Questions
 [wood-duck-observations]: ../../colophon/wood-duck-observations "Wood Duck observations"
 [corpus-manipulation]: ../../colophon/corpus-manipulation "Corpus manipulation"
 [photography]: ../../sense/photography/photography "Photography"
+[photoclass-2026]: ../../sense/photography/2026-class/photoclass-2026 "Focal Point (Reddit) Photography Class 2026"
 [open-graph-per-page]: ../../colophon/open-graph-per-page "Open graph per page"
 [creating-compost]: ../../sense/landscape-garden/techniques/creating-compost "Creating compost"
 [raised-garden-beds]: ../../sense/landscape-garden/techniques/raised-garden-beds "Raised garden beds"
