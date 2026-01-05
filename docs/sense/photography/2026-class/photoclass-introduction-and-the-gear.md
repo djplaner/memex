@@ -163,13 +163,131 @@ The light box that connects/coordinates between the sensor and lens.
 
 ## Focal length
 
+Choosing focal length is a first step in composing
+
+What
+
+- physical property of the lens
+- distance in mms between the len's optical center and the image plane when the lens is focused at infinity
+- describes how wide/narrow a scene appears in a photograph
+- lower focal length = wider view
+- higher focal length = narrower view
+
+The size of the sensor impacts the angle of the view. There's more of the sensor beyond the center. It changes the _crop factor_ which is a ratio of the sensor to the 35mm film standard.
+
+Specifying focal length should include mention of the camera.
+
+!!! note "Compression - a visual effect of narrowing the perceived distance between elements of an image"
+
+    Physical distance between photo and subject influences perspective. Not focal length. A low focal length lens will require a closer distance to the subject to fill the frame. 
+
+    A reason why longer lens are often used for portraiture. 
+
+| Range | Focal length | Description | 
+|-------|--------------|-------------|
+| Ultra wide | 14-24mm | Exaggerated perspective, can make images cartoonish |
+| Wide | 24-35mm | Wide enough for a lot of context, not so wide to look unnatural. A good "default" focal range |
+| Normal | 40-75mm | Closest to what they eye sees. Liked by street photographers |
+| Mid-telephoto | 85-105mm | Primary portrait category. Long enough to create separate, but short enough to enable subject communication |
+| Medium telephoto | 120mm-300mm | Can be used in most genres. 
+| Large and exotic telephoto | 300mm+ | Wildlife and sports |
+
 ## Raw vs Jpeg
+
+Digital camera records a large set of numerical values to represent the light hitting each pixel on the sensor. To produce a visible image, numerous steps must be followed
+
+- assigning color information
+- applying white balance
+- adjusting contrast
+- sharpening
+- setting saturation
+
+Two methods
+
+1. Camera does processing and generates a Jpeg image
+2. Camera saves raw sensor data for later processing on a computer
+
+Raw files provide more control over processing. Camera processing has become quite good.
 
 ## Digital workflow
 
+### Digital Asset Management, including software
+
+Free options
+
+1. [Darktable](https://www.darktable.org)
+
+    GPL licence. Cross platform, incl Mac.
+2. [Ansel](https://ansel.photos/en/)
+
+    GPL licence. Alpha version. Promoted as Darktable, but better. Actually a DarkTable 4 variant.
+3. [digiKam](https://www.digikam.org)
+
+Other possibilities
+
+4. [RawTherapee](https://rawtherapee.com)
+
+    GPL licence. Cross platform, incl Mac.
+
+### Example workflow
+
+0. Configure camera settings
+
+    - naming - include name/initials
+    - date format and setting correct
+    - add in copyright and creator info
+    - configure save format
+1. Import photos from camera to computer
+
+    e.g. card reader
+
+2. Star photos based on quick initial review
+
+3. Process photos with particular star rating - update the star rating if processing results in a good outcome
+
+    Processing includes updating relevant metadata and also DAM software tags/keywords.
+
+4. Export "5 star" photos as JPEGs
+
+5. Optional: upload to photo sharing site e.g. Flickr, Pixelfed, etc.
+
+### Backups
+
+3-2-1 backup strategy
+
+3. Create at least 3 copies of your files
+2. Store on 2 different types of media
+1. Store 1 copy offsite
+
 ## Knowledge check
 
+H5P quiz? Recaping introduced material. 100%
+
 ## Unit 1 Assignment
+
+### The task
+
+Create a short photo story (3-5 images) and take note of how camera choice or focal length shapes the final image.
+
+3 parts
+
+1. Pick a single scene or subject. A scene that stays the same.
+2. Take two or more photos with the following approaches
+
+    - Two cameras
+    - one camera but two shooting distances
+    - One camera but two focal lengths
+3. Be thoughtful about how you approach the scene. Illustrate/see how these choices affect your final image, or your shooting style in the moment. Keep in mind
+
+    - Manual or auto modes are both fine
+    - Don't worry about technical execution
+    - __For this lesson only__: no heavy editing. Light crop or straighten, but share SOOC Jpegs
+
+What to submit
+
+1. Your final 2-4 images
+2. A short paragraph reflecting on the points above.
+3 Optional: Past without labeling your approach and let others guess how the image was made.
 
 ### Why I chose this photo
 
