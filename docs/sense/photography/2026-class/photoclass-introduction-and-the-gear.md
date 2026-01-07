@@ -173,6 +173,16 @@ What
 - lower focal length = wider view
 - higher focal length = narrower view
 
+!!! note "Distortion and compression"
+
+    A portrait with a short focal length results in a distorted face and background far away - _extension distortion_.
+
+    Portrait with long focal length makes the subject and background more compressed - foreground and background appear closer together - _compression distortion_.
+
+    The distance from the camera to the subject is creating these distortions.
+
+    Small focal lengths compress the apparent distance between foreground and background elements.
+
 The size of the sensor impacts the angle of the view. There's more of the sensor beyond the center. It changes the _crop factor_ which is a ratio of the sensor to the 35mm film standard.
 
 Specifying focal length should include mention of the camera.
@@ -182,6 +192,10 @@ Specifying focal length should include mention of the camera.
     Physical distance between photo and subject influences perspective. Not focal length. A low focal length lens will require a closer distance to the subject to fill the frame. 
 
     A reason why longer lens are often used for portraiture. 
+
+Related resources
+
+- [How lens compression and perspective distortion work](https://fstoppers.com/architecture/how-lens-compression-and-perspective-distortion-work-251737)
 
 | Range | Focal length | Description | 
 |-------|--------------|-------------|
@@ -217,7 +231,7 @@ Free options
 
 1. [Darktable](https://www.darktable.org)
 
-    GPL licence. Cross platform, incl Mac.
+    GPL licence. Cross platform, incl Mac. [Review of Darktable 5](https://www.thephoblographer.com/2025/06/20/is-darktable-5-0-finally-usable/). Not positive.
 2. [Ansel](https://ansel.photos/en/)
 
     GPL licence. Alpha version. Promoted as Darktable, but better. Actually a DarkTable 4 variant.
@@ -228,6 +242,19 @@ Other possibilities
 4. [RawTherapee](https://rawtherapee.com)
 
     GPL licence. Cross platform, incl Mac.
+
+Other sources
+
+- Article comparing [5 open source possibilities](https://photographylife.com/free-open-source-photo-editors#open-source-software-recommendations)
+- [open source Lightroom alternatives](https://www.dpreview.com/articles/0404869946/the-best-open-source-lightroom-alternatives)
+
+    - RawTherapee - vast control, but needs an update
+    - DarkTable - powerful and very actively developed
+    - DigiKam - didn't work for writing to disk (for this reviewer)
+
+- [RawTherappe best for 2024](https://marcrphoto.wordpress.com/2024/11/22/rawtherapee-crowned-best-free-raw-editor-of-2024/) reports on a magazine decision
+- [Best photo editing in 2026](https://amateurphotographer.com/software/best-photo-editing-software/) - same magazine's choices for 2026 - still RawTherapee and [related guide to free alterantives](https://amateurphotographer.com/round-ups/best-free-photo-editing-software/)
+
 
 ### Example workflow
 
@@ -283,6 +310,15 @@ Create a short photo story (3-5 images) and take note of how camera choice or fo
     - Don't worry about technical execution
     - __For this lesson only__: no heavy editing. Light crop or straighten, but share SOOC Jpegs
 
+4. Reflect and share
+
+    Chose 2-4 images the clearly show how your choices affected the result. When sharing, including a short reflection, including:
+
+    - What stayed the same across the images?
+    - What changed, and why do you think it happened?
+    - Which version felt closest to how you experienced the scene?
+    - What kind of feedback are you hoping to receive?
+
 What to submit
 
 1. Your final 2-4 images
@@ -292,6 +328,52 @@ What to submit
 ### Why I chose this photo
 
 ### What I'd do differently 
+
+## Assignment preparation
+
+### Focal length and photo composition, story telling etc
+
+Focal length's impacts
+
+- how you frame the scene
+- your position relative to the subject
+- perspective exaggeration, perspective flattening, and the related concept of compression
+- alter how foreground and background elements relate to each other
+
+### Experiment - Perspective test
+
+Changing focal length and distance to subject whilst maintaining the size of the subject in the image. The aim here is to gather visual evidence of how this impacts perspective.
+
+The subject for this test was a the [bunker]. A derelict, cube-like concrete building on our property. The idea is that images focused on the corner of the bunker will provide a clear view of how perspective changes.
+
+I took 7 or 8 photos with each using different focal lengths at different distances to the bunker such that it takes up a similar portion of the frame. From those I selected four that best illustrate the differences with focal lengths of 14mm, 29mm, 39mm, and 58mm.
+
+<figure markdown>
+![](https://djon.es/assets/memex/sense/photography/photoclass/perspective-test-1.jpeg)
+<caption>Perspective test #1. Focal length - 14mm </caption>
+</figure>
+
+<figure markdown>
+![](https://djon.es/assets/memex/sense/photography/photoclass/perspective-test-2.jpeg)
+<caption>Perspective test #2. Focal length - 29mm </caption>
+</figure>
+
+<figure markdown>
+![](https://djon.es/assets/memex/sense/photography/photoclass/perspective-test-3.jpeg)
+<caption>Perspective test #3. Focal length - 39mm </caption>
+</figure>
+
+<figure markdown>
+![](https://djon.es/assets/memex/sense/photography/photoclass/perspective-test-4.jpeg)
+<caption>Perspective test #4. Focal length - 58mm </caption>
+</figure>
+
+
+### Experiment - Multiple attachments 
+
+Shoot the bunker's ficus close up (as close as the wasps next) and then zoom out to include more of the context.
+
+
 
 [//begin]: # "Autogenerated link references for markdown compatibility"
 [wood-duck-meadows|our home]: ../../landscape-garden/wood-duck-meadows "Wood duck meadows"
