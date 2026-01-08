@@ -64,7 +64,11 @@ class corpus:
         bubbles = []
         for path in files:
             #-- extract the file content and metadata
-            bubble = self._extract_file_content(path)
+            try:
+                bubble = self._extract_file_content(path)
+            except Exception as e:
+                print(f"Error extracting content from {path}: {e}")
+                quit()
             #-- decide if the bubble should be included in the corpus
             if self._include_bubble(bubble):
                 bubbles.append(bubble)

@@ -1,11 +1,11 @@
 ---
-title The Mounds
+title: The Mounds
 type: zone
 tags:
     - gardens
     - sense
     - landscape
-description: Description and work performed on the Mounds area of Wood Duck Meados
+description: Description and work performed on the Mounds area of Wood Duck Meadows
 ---
 
 The mounds are a series of small earth mounds located above the [[lower-dam]] and below the [[horse-paddock]]. The [[vegetable-beds]] are located to the east of the mounds. Our [[creating-compost|compost bins]] are located on the southern end of the mounds.
