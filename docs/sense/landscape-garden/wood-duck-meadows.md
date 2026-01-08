@@ -74,6 +74,7 @@ To aid discussion and planning we're slowly dividing the property into the diffe
 | [[house]] | House, stables, sheds and surrounding gardens |
 | [[pecan-corner]] | Pecan and other fruit/nut trees |
 | [[lower-dam]] | Dam area on the Gatton creek frontage |
+| [[mounds]] | Small mounds between the [[lower-dam]], [[vegetable-beds]] and the [[horse-paddock]] |
 | [[vegetable-beds]] | Our foray into vegetable gardening located just above the [[lower-dam]] |
 | [[orchard-corner]] | A nascent grove at the southern end of the property | 
 | [[horse-paddock]] | The largest cleared space on the property that used to form the main horse paddock. Contains the [[the-circle]]. |
@@ -147,8 +148,8 @@ List of projects/tools to help with various forms of measurement of what we're d
 [pecan-corner]: pecan-corner "Pecan corner"
 [lower-dam]: lower-dam "The lower dam"
 [vegetable-beds]: vegetable-beds "Vegetable Beds"
-[orchard-corner]: orchard-corner "The Orchard (Orchard corner)"
 [horse-paddock]: horse-paddock "Horse paddock"
+[orchard-corner]: orchard-corner "The Orchard (Orchard corner)"
 [the-circle]: the-circle "The Circle"
 [fig-tree-berm]: fig-tree-berm "Fig tree berm"
 [bunker]: bunker "The Bunker"
