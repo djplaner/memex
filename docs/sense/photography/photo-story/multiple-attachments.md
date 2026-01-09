@@ -18,17 +18,17 @@ The following uses this to reveal multiple attachments. First, that of some form
 
 
 <figure markdown>
-![](https://djon.es/assets/memex/sense/photography/photoclass/multiple-attachments-1.jpeg)
+![Wasps attachment to their nest](https://djon.es/assets/memex/sense/photography/photoclass/multiple-attachments-1.jpeg)
 <caption>Wasps attachment to their nest</caption>
 </figure>
 
 <figure markdown>
-![](https://djon.es/assets/memex/sense/photography/photoclass/multiple-attachments-2.jpeg)
+![Wasp's nest attached to a young small-leaf fig](https://djon.es/assets/memex/sense/photography/photoclass/multiple-attachments-2.jpeg)
 <caption>Wasp's nest attached to a young [[ficus-obliqua|small-leaf fig tree]]</caption>
 </figure>
 
 <figure markdown>
-![](https://djon.es/assets/memex/sense/photography/photoclass/multiple-attachments-3.jpeg)
+![The fig tree's attachment to the bunker](https://djon.es/assets/memex/sense/photography/photoclass/multiple-attachments-3.jpeg)
 <caption>The fig tree's attachment to the [[bunker]]</caption>
 </figure>
 
