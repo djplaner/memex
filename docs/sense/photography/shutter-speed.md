@@ -1,0 +1,20 @@
+---
+title: Shutter speed
+type: note
+description: Notes on shutter speed in photography.
+tags:
+    - photography
+    - shutter-speed
+--- 
+
+Rule of thumb from a [Kodak manual](https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fif-you-had-to-start-from-zero-how-would-you-learn-v0-ohzvqrkjgd0d1.jpeg%3Fwidth%3D1500%26format%3Dpjpg%26auto%3Dwebp%26s%3De2e71c2e80b517eb4c18e777b1109dd59095140c)
+
+| Condition | Shutter Speed (1/125) |
+|-----------|----------------|
+| Bright/hazy sun on light sand/snow | f/16 | 
+| Bright or hazy sun (distinct shadows) | f/11 |
+| Cloudy bright (no shadows) | f/5.6 |
+| Heavy overcast | f/4 |
+| Open shade | f/4 |
+
+
