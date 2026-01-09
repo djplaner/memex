@@ -13,7 +13,7 @@ Checks:
 - Is there a page for the bird - if not create it
 
 Output:
-- Markdown files in ~/memex/docs/sense/Observations/birdObservations/<species>-<sessionId>.md
+- Markdown files in ~/memex/docs/sense/Observations/bird-observations/<species>-<sessionId>.md
 - Content example below
 - Markdown file for bird species if not already present in
     ~/memex/docs/sense/birdwatching/
@@ -31,6 +31,7 @@ ASSETS_HOME=f"{HOME_FOLDER}/assets/memex/"
 ASSETS_URL="https://djon.es/"
 
 BIRD_ASSETS_HOME= Path(f"{ASSETS_HOME}/sense/birdwatching/")
+BIRD_OBSERVATIONS_HOME = Path(f"{HOME_FOLDER}/memex/docs/sense/Observations/bird-observations/")
 LIFE_LIST_IMAGE_FOLDER = Path(BIRD_ASSETS_HOME / "images")
 
 
@@ -55,6 +56,17 @@ description: "eBird observation of <Common Name> (<Scientific Name>) on <Time> <
 tags:
     - birdwatching
     - eBird
+observation-data:
+    common-name: "<Common Name>"
+    scientific-name: "<Scientific Name>"
+    taxonomic-order: "<Taxonomic Order>"
+    latitude: <Latitude>
+    longitude: <Longitude>
+    date: "<Date>"
+    time: "<Time>"
+    taxonomic-order: "<Taxonomic Order>"
+    county: "<County>"
+    location: "<Location>"
 ---
 
 [[<wikiLink common name>]] observation recorded via eBird on <Time> <Date> at <Location> ([<Latitude>, <Longitude>](https://www.google.com/maps/search/?api=1&query=<Latitude>,<Longitude>)).
@@ -73,6 +85,8 @@ tags:
 ---
 
 Observations of <Common Name> (<Scientific Name>). 
+
+{{ observationsList( <camelCaseName> ) }}
 
 """
 
@@ -159,7 +173,8 @@ def generateObservationMDs(df : pd.DataFrame):
         ~/assets/memex/sense/birdwatching/images/<speciesName>/<sessionId>(_<count>).jpeg
     - check if file exists - if so skip
     - if not create the markdown file in
-        ~/memex/docs/sense/Observations/birdObservations/<species>-<sessionId>.md
+        ~/memex/docs/sense/Observations/bird-observations/<species>-<sessionId>.md
+      - include matching images if any
     
     :param df: DataFrame
         DataFrame containing the eBird data with any modifications
@@ -169,15 +184,13 @@ def generateObservationMDs(df : pd.DataFrame):
     for index, row in df.iterrows():
         speciesName = row['camelCaseName']
         sessionId = row['Submission ID']
-        observationMDFile = Path(
-            f"{HOME_FOLDER}/memex/docs/sense/Observations/birdObservations/{speciesName}-{sessionId}.md")
+        observationMDFile = Path( f"{BIRD_OBSERVATIONS_HOME}/{speciesName}-{sessionId}.md")
         numImages = len(row['images']) if row['images'] is not None else 0
         
         # -- check if the file already exists
         if observationMDFile.exists():
             print(f"Observation markdown {observationMDFile} already exists - skipping")
             continue
-
 
         # -- create the markdown content
         mdContent = OBSERVATION_MD_TEMPLATE
@@ -196,13 +209,13 @@ def generateObservationMDs(df : pd.DataFrame):
             imagesMarkdown = generateImageMarkdown(row)
             mdContent = mdContent.replace("<images markdown>", imagesMarkdown)
 
-        print(mdContent)
-        print(f"Generating observation markdown for {speciesName} session {sessionId} with {numImages} images")
-        print(f"Generated observation markdown: {observationMDFile}")
+#        print(mdContent)
+#        print(f"Generating observation markdown for {speciesName} session {sessionId} with {numImages} images")
+#        print(f"Generated observation markdown: {observationMDFile}")
 
         # -- write the markdown file
-#        with open(observationMDFile, 'w') as f:
-#            f.write(mdContent)
+        with open(observationMDFile, 'w') as f:
+            f.write(mdContent)
 
 def generateImageMarkdown(row) -> str:
     """
@@ -229,6 +242,35 @@ def generateImageMarkdown(row) -> str:
 
     return imagesMD
 
+def generateBirdSpeciesMDs( df: pd.DataFrame):
+    """
+    Loop thru each unique bird species in the DataFrame
+    - check if a markdown file exists for the species in
+        ~/memex/docs/sense/birdwatching/<species>.md
+    - if not create it using the BIRD_SPECIES_MD_TEMPLATE
+
+    :param df: DataFrame
+        DataFrame containing the eBird data with any modifications
+    """
+
+    uniqueSpecies = df['camelCaseName'].unique()
+
+    for species in uniqueSpecies:
+        speciesMDFile = Path( f"{BIRD_ASSETS_HOME}/{species}.md")
+
+        # -- check if the file already exists
+        if speciesMDFile.exists():
+            print(f"Species markdown {speciesMDFile} already exists - skipping")
+            continue
+
+        # -- get the first row matching the species to get common and scientific names
+        speciesRow = df[df['camelCaseName'] == species].iloc[0]
+
+        # -- create the markdown content
+        mdContent = BIRD_SPECIES_MD_TEMPLATE
+        mdContent = mdContent.replace("<Common Name>", speciesRow['Common Name'])
+        mdContent = mdContent.replace("<Scientific Name>", speciesRow['Scientific Name'])
+
 
 def main():
 
@@ -238,7 +280,7 @@ def main():
     listData = addPhotoData(listData)
 
     generateObservationMDs(listData)
-#    generateBirdSpeciesMDs(listData)
+    generateBirdSpeciesMDs(listData)
 
     ## TODO
 #    generateImageGallery(listData)

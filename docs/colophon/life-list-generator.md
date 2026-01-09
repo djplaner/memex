@@ -16,7 +16,7 @@ type: note
 
     Added script to export chosen photos from Photos library to an appropriate folder in the assets folder - `addBirdPhoto.py`.
 
-- 📅 Late December 2025 - [Update to move](#wood-duck-observations) to [[wood-duck-observations]] approach
+- 📅 Late December 2025 - 🚧 🚧  [Update to move](#wood-duck-observations) to [[wood-duck-observations]] approach
 
 
 ## Initial design
