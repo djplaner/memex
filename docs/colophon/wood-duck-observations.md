@@ -46,61 +46,83 @@ With an interest in [[regeneration]] of the [[wood-duck-meadows]] ecosystem come
 ## Conceptual Design
 
 - Built on [[bubbles-as-objects]] practice
-- Data entry and storage
-    - Individual observations are represented by individual markdown files with front-matter (see [data design](#data-design) below)
-    - Observations are generally stored in `docs/sense/observations` with sub-folders for different observation types e.g. `bird`, `insect`, `plant`, etc.
-    - Observation creation has two methods
-      - Manual editing
-      - Import from external data sources (e.g. eBird and iNaturalist) via "converters" to transform original data into markdown files
-      - **TODO** Resolve if/how both manual editing and external data source import can co-exist (e.g. I want to add some annotation to an eBird observation) and/or an iNaturalist observation changes - how to update that?
-    - Each observation type has its own index (`docs/sense/Observations/bird-observations/bird-observations.md`) in a folder into which Markdown files are created for each observation.
-    - **TODO** 
-- Display
-    - The individual markdown file for an observation is visible/searchable/shareable
-        - **TODO** Where possible include open graph metadata for sharing on social media
-        - **TODO** `type` is having to do double duty. Indicating it's an observation, but type is also used for display????? (Maybe not)
-    - [[computational-components]] esp. macro versions are used to display lists of all observations of a= type or to show the content of all observations of a given type
-        - `observationsIndex( <other-metadata> )` - generates an index of all observations matching provided metadata
-        - `observations( <other-metadata> ) ` - concatenate all the content from matching observations
 
+### Data entry and storage
+
+- Individual observations are represented by individual markdown files with front-matter (see [data design](#data-design) below)
+- Observations are generally stored in `docs/sense/observations` with sub-folders for different observation types e.g. `bird`, `insect`, `plant`, etc.
+- Observation creation has two methods
+  - Manual editing
+  - Import from external data sources (e.g. eBird and iNaturalist) via "converters" to transform original data into markdown files
+  - **TODO** Resolve if/how both manual editing and external data source import can co-exist (e.g. I want to add some annotation to an eBird observation) and/or an iNaturalist observation changes - how to update that?
+- Each observation type has its own index (`docs/sense/Observations/bird-observations/bird-observations.md`) in a folder into which Markdown files are created for each observation.
+    - **TODO** 
+    
+### Display
+
+- The individual markdown file for an observation is visible/searchable/shareable
+    - **TODO** Where possible include open graph metadata for sharing on social media
+    - **TODO** `type` is having to do double duty. Indicating it's an observation, but type is also used for display????? (Maybe not)
+- [[computational-components]] esp. macro versions are used to display lists of all observations of a= type or to show the content of all observations of a given type
+    - `observationsIndex( <other-metadata> )` - generates an index of all observations matching provided metadata
+    - `observations( <other-metadata> ) ` - concatenate all the content from matching observations
 
 After implementation
 
-    - [[life-list-generator]] (not a [[computational-components]]) generates life list, life list gallery and individual bird species pages
+- [[life-list-generator]] (not a [[computational-components]]) generates life list, life list gallery and individual bird species pages
 
 
-    - Provide a macro that allows grouping together observations of a specific type into another page
-        - Species page (for flora or fauna) that lists all observations of that species
-        - Region page that lists all observations made in that region
-        - Individual plant pages that list all observations made of that plant
+- Provide a macro that allows grouping together observations of a specific type into another page
+    - Species page (for flora or fauna) that lists all observations of that species
+    - Region page that lists all observations made in that region
+    - Individual plant pages that list all observations made of that plant
 
 ## Data design
 
 Each observation has a markdown file with following possible front matter fields that can be used for searching and filtering:
 
 - type: observation
-- observation-type: e.g. bird, insect, mammal, plant, fungi, etc
-- plant-type: [ native, exotic, weed, tree, shrub, groundcover, climber, aquatic, etc ] - only for plant observations
-- region: <wood-duck-meadows-region> (as appropriate)
-- title and other metadata a possible search
-- use of tags 
+
+    All observations have this.
+- subject: [ <wikiLink-of-subject>, ... ]
+    Was originally `aka`. Specifies that this is an observation of a particular subject. e.g. a species of bird/plant, a individual plant, etc. 
+- observation-type: <established observation type> 
+    e.g. bird, insect, mammal, plant, fungi, etc
+- And misc others as required
+    - plant-type: [ native, exotic, weed, tree, shrub, groundcover, climber, aquatic, etc ] - only for plant observations
+  - region: <wood-duck-meadows-region> (as appropriate)
 
 Enabling macros like
 
 ```markdown
-\{\{ observations('gatton-creek-frontage') \}\}
-\{\{ observations('gatton-creek-frontage', `bird`) \}\}
+\{\{ observations( subject: "ficus-obliqua") \}\}
+\{\{ observationsIndex( observation-type: 'plant') \}\}
+\{\{ observations(region:'gatton-creek-frontage', observation-type: 'bird') \}\}
 ```
 
+Real life requirements
+
+- [[bird-observations]] 
+
+    Display a list of all the bird observations I've made ` \{\{ observationsIndex( observation-type: 'bird') \}\} `
+
+    Perhaps the `observation-type` not only controls which observations are included, but also the display format?
+
+- Display content of all bird observations of Black Swans
+
+    ` \{\{ observations( subject: 'black-swan') \}\} ` 
+
+- Display all list of trees that have been observed
+
+    ` \{\{ observationsIndex( observation-type: 'plant', plant-type: 'tree') \}\} `
+
+- Display list of all observations of ficus-obliqua
+
+    ` \{\{ observationsIndex( subject: 'ficus-obliqua') \}\} `
 
 
-## Draft thinking
 
-- link to the eBird stuff
-- How to link to eBird and iNaturalist
-- not just Markdown files in a particular folder
-- multiple outputs??
-    - link observations to regions
+
 
 ## eBird importer
 
@@ -144,4 +166,5 @@ Existing practice
 [plants]: ../sense/landscape-garden/plants/plants "Plants"
 [bubbles-as-objects]: bubbles-as-objects "Bubbles as objects"
 [computational-components]: computational-components "Computational components"
+[bird-observations]: ../sense/Observations/bird-observations "Bird observations"
 [//end]: # "Autogenerated link references"

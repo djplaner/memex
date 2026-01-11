@@ -49,8 +49,8 @@ LIFE_LIST_IMAGE_FOLDER = Path(BIRD_ASSETS_HOME / "images")
 OBSERVATION_MD_TEMPLATE = """---
 title: "<Common Name> (<Scientific Name>) - eBird observation <Date>"
 type: observation
-aka:
-    - <wikiLink common name>
+subject: [ <wikiLink common name> ]
+observation-type: bird
 date: <Date>
 description: "eBird observation of <Common Name> (<Scientific Name>) on <Time> <Date>"
 tags:
@@ -64,7 +64,6 @@ observation-data:
     longitude: <Longitude>
     date: "<Date>"
     time: "<Time>"
-    taxonomic-order: "<Taxonomic Order>"
     county: "<County>"
     location: "<Location>"
 ---
@@ -77,16 +76,20 @@ observation-data:
 
 BIRD_SPECIES_MD_TEMPLATE = """---
 title: "<Common Name>"
-type: birdSpecies
+type: bird-species
+bird-data:
+    common-name: "<Common Name>"
+    scientific-name: "<Scientific Name>"
+    taxonomic-order: "<Taxonomic Order>"
 description: "Information (largely observations) about the bird species <Common Name> (<Scientific Name>)"
 tags:
     - birdwatching
     - species
 ---
 
-Observations of <Common Name> (<Scientific Name>). 
+## Observations
 
-{{ observationsList( <camelCaseName> ) }}
+{{ observations( subject: <wikiLink common name> ) }}
 
 """
 
@@ -184,13 +187,16 @@ def generateObservationMDs(df : pd.DataFrame):
     for index, row in df.iterrows():
         speciesName = row['camelCaseName']
         sessionId = row['Submission ID']
-        observationMDFile = Path( f"{BIRD_OBSERVATIONS_HOME}/{speciesName}-{sessionId}.md")
+        observationMDFile = Path( f"{BIRD_OBSERVATIONS_HOME}/{speciesName}/{sessionId}.md")
         numImages = len(row['images']) if row['images'] is not None else 0
         
         # -- check if the file already exists
         if observationMDFile.exists():
             print(f"Observation markdown {observationMDFile} already exists - skipping")
             continue
+        else:
+            # -- ensure the parent folder exists
+            observationMDFile.parent.mkdir(parents=True, exist_ok=True)
 
         # -- create the markdown content
         mdContent = OBSERVATION_MD_TEMPLATE
