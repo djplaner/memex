@@ -14,90 +14,13 @@ import sys
 
 sys.path.append("/Users/davidjones/memex/util")
 
+# import the eBird utility functions
+from lib.observations import displayObservationsIndex, displayObservations, filterObservations
+
 from corpus import corpus
 bubbles = corpus()
 
-# ********************* Observations
 
-def filterObservations( params ):
-    """
-    Retrieve observations matching the given parameters.
-
-    params: dict - a dict of parameters to filter observations by
-
-    Returns:
-        list - a list of observation bubbles matching the parameters
-    """
-
-    #-- get a list of observation bubbles
-    observationBubbles = bubbles.get_bubble_by_type("observation")
-
-    print(f"Total observations: {len(observationBubbles)}")
-
-    #-- filter by params
-    filteredObservations = []
-    for bubble in observationBubbles:
-        yaml = bubble.get('yaml', {})
-        if not yaml:
-            continue
-
-        match = True
-        for key, value in params.items():
-            if key not in yaml or yaml[key] != value:
-                print(f" - No  match for key '{key}': bubble has '{yaml.get(key, 'N/A')}', expected '{value}'")
-                match = False
-                break
-
-        if match:
-            filteredObservations.append(bubble)
-
-    return filteredObservations
-
-
-def renderBirderObservationsIndex( observations ):
-    """
-    Render a bird observations index from the given observations as a Markdown table with these columns
-    - common name - including a link to the common name wiki link
-    - scientific name
-    - number of observations
-    - date of most recent observation
-
-    :param observations: dict - a dict of bird observations to render
-    :return: string - the rendered bird observations index
-    """
-
-    content = """
-| Common Name | Scientific Name | # Observations | Most Recent Observation |
-| --- | --- | --- | --- |
-    """
-
-    for bubble in observations:
-        yaml = bubble.get('yaml', {})
-        title = yaml.get('title', 'Untitled Observation')
-        date = yaml.get('date', 'Unknown Date')
-        subject = yaml.get('subject', ['Unknown Subject'])[0]
-        content += f"- [{title}](/sense/Observations/bird-observations/{subject.replace(' ', '-').lower()}) - {date}\n"
-
-    return content
-def displayObservationsIndex( observations, params ):
-    """
-    Based on the params, figure out which display function to call to render the observations index.
-    
-    :param observations: dict - a dict of observations to display
-    :param params: dict - a dict of parameters used to filter observations
-    :return: string - the rendered observations index
-    """
-
-    if 'observation-type' in params:
-        observation_type = params['observation-type']
-        if observation_type == 'bird':
-            return renderBirdObservationsIndex( observations )
-#        elif observation_type == 'plant':
-#            return renderPlantObservationsIndex( observations )
-        else:
-            print(f"--- No specific display function for observation-type '{observation_type}' - using default ---")
-
-    return ""
 
 def filterWorkHistory(region=""):
     """
@@ -512,27 +435,28 @@ def define_env(env):
         ` {{ observationsIndex( observation-type: 'bird') }} `
         """
 
-        observations = filterObservations( params )
+        observations = filterObservations( bubbles, params )
 
         #-- based on params, call a different view
         return displayObservationsIndex( observations, params )
 
-        ## return pprint string of observations
-        output = pformat(observations, indent=4) 
-        return f"```python \n {output} \n```\n"
+    @env.macro
+    def observations( params : dict ):
+        """
+        Retrieve observations matching the given parameters.
 
-        subject = params.get('subject', "")
-        observation_type = params.get('observation-type', "")
-        plant_type = params.get('plant-type', "")
+        params: dict - a dict of parameters to filter observations by
 
-        params = []
-        if subject:
-            params.append( f"subject: '{subject}'" )
-        if observation_type:
-            params.append( f"observation-type: '{observation_type}'" )
-        if plant_type:
-            params.append( f"plant-type: '{plant_type}'" )
+        Returns:
+            list - a list of observation bubbles matching the parameters
+        """
 
-        paramStr = ", ".join( params )
+        observations = filterObservations( bubbles, params )
+        numObservations = len(observations)
+#        pprint(params,indent=4)
+#        print(f"Total filtered observations: {numObservations}")
+#        input("Press Enter to continue...")
 
-        return f" show index of observations for {paramStr} "
+
+
+        return displayObservations( observations, params )

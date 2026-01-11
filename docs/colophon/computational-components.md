@@ -18,11 +18,11 @@ A lot of the "Second Brain" ideas focus on people manually gathering and weaving
 
 ## Current computational components
 
-The ecosystem I'm using to [[some-assemblage-required|assemble]] Memex means that these computational components are implemented using Python and using a couple of [MkDocs plugins](https://github.com/mkdocs/catalog?tab=readme-ov-file#----catalog----) (see [method](#methods) below).
+The ecosystem I'm using to [[some-assemblage-required|assemble]] Memex means that these computational components are implemented using Python and using a couple of [MkDocs plugins](https://github.com/mkdocs/catalog?tab=readme-ov-file#----catalog----) 
 
 - 🚧 [[wood-duck-observations]] 🚧 
 
-    Similar to [[wood-duck-history]], but intended to gather observations of animals, birds, insects, etc made on [[wood-duck-meadows]].
+    Similar to [[wood-duck-work-history]], but intended to gather observations of animals, birds, insects, etc made on [[wood-duck-meadows]].
 
 - [[wood-duck-work-history]]
 
@@ -119,8 +119,8 @@ regionWorkHistory = bubbles.get_bubble_by_type("work-history")
 [pkm|personal knowledge management]: ../pkm "Personal Knowledge Management"
 [some-assemblage-required|assemble]: some-assemblage-required "Some Assemblage Required"
 [wood-duck-observations]: wood-duck-observations "Wood Duck observations"
-[wood-duck-meadows]: ../sense/landscape-garden/wood-duck-meadows "Wood duck meadows"
 [wood-duck-work-history]: wood-duck-work-history "Wood duck work history"
+[wood-duck-meadows]: ../sense/landscape-garden/wood-duck-meadows "Wood duck meadows"
 [regeneration]: ../sense/landscape-garden/regeneration "Bush regeneration (Wood duck meadows)"
 [wood-duck-gallery-generator]: wood-duck-gallery-generator "Wood duck meadows gallery generator"
 [life-list-generator]: life-list-generator "Life list generator"

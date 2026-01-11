@@ -7,7 +7,7 @@ tags:
     - pkm
 ---
 
-[[Open Graph]](https://ogp.me) is a protocol that enables any web page to become a rich object in a social graph. Implement method to create a 
+[Open Graph](https://ogp.me) is a protocol that enables any web page to become a rich object in a social graph. Implement method to create a 
 
 - default open graph set up for the site
 - allow page specific open graph metadata to be added

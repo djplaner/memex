@@ -32,6 +32,7 @@ ASSETS_URL="https://djon.es/"
 
 BIRD_ASSETS_HOME= Path(f"{ASSETS_HOME}/sense/birdwatching/")
 BIRD_OBSERVATIONS_HOME = Path(f"{HOME_FOLDER}/memex/docs/sense/Observations/bird-observations/")
+SPECIES_FOLDER = Path(f"{HOME_FOLDER}/memex/docs/sense/birdwatching/bird-species/")
 LIFE_LIST_IMAGE_FOLDER = Path(BIRD_ASSETS_HOME / "images")
 
 
@@ -49,7 +50,7 @@ LIFE_LIST_IMAGE_FOLDER = Path(BIRD_ASSETS_HOME / "images")
 OBSERVATION_MD_TEMPLATE = """---
 title: "<Common Name> (<Scientific Name>) - eBird observation <Date>"
 type: observation
-subject: [ <wikiLink common name> ]
+subject: [ "<wikiLink common name>" ]
 observation-type: bird
 date: <Date>
 description: "eBird observation of <Common Name> (<Scientific Name>) on <Time> <Date>"
@@ -58,17 +59,19 @@ tags:
     - eBird
 observation-data:
     common-name: "<Common Name>"
+    wikilink-common-name: "<wikiLink common name>"
     scientific-name: "<Scientific Name>"
-    taxonomic-order: "<Taxonomic Order>"
+    taxonomic-order: "<taxonomic order>"
     latitude: <Latitude>
     longitude: <Longitude>
     date: "<Date>"
+    human-date: "<Human Date>"
     time: "<Time>"
-    county: "<County>"
+    county: "<county>"
     location: "<Location>"
 ---
 
-[[<wikiLink common name>]] observation recorded via eBird on <Time> <Date> at <Location> ([<Latitude>, <Longitude>](https://www.google.com/maps/search/?api=1&query=<Latitude>,<Longitude>)).
+[[<wikiLink common name>]] observation recorded via eBird on <Time> <Human Date> at <Location> ([<Latitude>, <Longitude>](https://www.google.com/maps/search/?api=1&query=<Latitude>,<Longitude>)).
 
 <images markdown>
 
@@ -76,7 +79,7 @@ observation-data:
 
 BIRD_SPECIES_MD_TEMPLATE = """---
 title: "<Common Name>"
-type: bird-species
+type: "bird-species"
 bird-data:
     common-name: "<Common Name>"
     scientific-name: "<Scientific Name>"
@@ -89,7 +92,7 @@ tags:
 
 ## Observations
 
-{{ observations( subject: <wikiLink common name> ) }}
+{{ observations( { "subject": "<wikiLink common name>" } ) }}
 
 """
 
@@ -202,12 +205,18 @@ def generateObservationMDs(df : pd.DataFrame):
         mdContent = OBSERVATION_MD_TEMPLATE
         mdContent = mdContent.replace("<Common Name>", row['Common Name'])
         mdContent = mdContent.replace("<Scientific Name>", row['Scientific Name'])
+        #-- convert date to a human readable format DD Mon YYYY
+        humanDate = pd.to_datetime(row['Date']).strftime("%A, %d %B %Y")
+        mdContent = mdContent.replace("<Human Date>", humanDate)
         mdContent = mdContent.replace("<Date>", row['Date'])
         mdContent = mdContent.replace("<Time>", str(row['Time']))
         mdContent = mdContent.replace("<Location>", row['Location'])
         mdContent = mdContent.replace("<Latitude>", str(row['Latitude']))
+
         mdContent = mdContent.replace("<Longitude>", str(row['Longitude']))
         mdContent = mdContent.replace("<wikiLink common name>", row['wikiLink'])
+        mdContent = mdContent.replace("<taxonomic order>", str(row['Taxonomic Order']))
+        mdContent = mdContent.replace("<county>", str(row['County']))
 
         if numImages == 0:
             mdContent = mdContent.replace("<images markdown>", "No images available for this observation.")
@@ -262,7 +271,7 @@ def generateBirdSpeciesMDs( df: pd.DataFrame):
     uniqueSpecies = df['camelCaseName'].unique()
 
     for species in uniqueSpecies:
-        speciesMDFile = Path( f"{BIRD_ASSETS_HOME}/{species}.md")
+        speciesMDFile = Path( f"{SPECIES_FOLDER}/{species}.md")
 
         # -- check if the file already exists
         if speciesMDFile.exists():
@@ -276,6 +285,11 @@ def generateBirdSpeciesMDs( df: pd.DataFrame):
         mdContent = BIRD_SPECIES_MD_TEMPLATE
         mdContent = mdContent.replace("<Common Name>", speciesRow['Common Name'])
         mdContent = mdContent.replace("<Scientific Name>", speciesRow['Scientific Name'])
+        mdContent = mdContent.replace("<wikiLink common name>", speciesRow['wikiLink'])
+        mdContent = mdContent.replace("<taxonomic order>", str(speciesRow['Taxonomic Order']))
+        # -- write the markdown file
+        with open(speciesMDFile, 'w') as f:
+            f.write(mdContent)
 
 
 def main():
