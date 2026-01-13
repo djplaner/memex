@@ -14,7 +14,6 @@ A few instances where wikilinks are used in documentation e.g. `[[some-wikilink]
 
 link, links, wikilink, `[[`, wikilinks, mediawiki, github-pages, note-b, note-a, notes, note...lots in wikilinks-in-foam
 
-[[book]] in tags.md that isn't quoted.
 
 also autolink module: `[your link..](other-file)`
 

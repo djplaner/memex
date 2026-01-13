@@ -23,6 +23,7 @@ Output:
 
 import pandas as pd
 from pathlib import Path
+from pprint import pprint
 
 HOME_FOLDER="/Users/davidjones"
 LIFE_LIST_DATA_FILE = Path(f"{HOME_FOLDER}/memex_data/ebirdData.csv")
@@ -54,11 +55,13 @@ subject: [ "<wikiLink common name>" ]
 observation-type: bird
 date: <Date>
 description: "eBird observation of <Common Name> (<Scientific Name>) on <Time> <Date>"
+image:
 tags:
     - birdwatching
     - eBird
 observation-data:
     common-name: "<Common Name>"
+    submission-id: "<Submission ID>"
     wikilink-common-name: "<wikiLink common name>"
     scientific-name: "<Scientific Name>"
     taxonomic-order: "<taxonomic order>"
@@ -186,12 +189,19 @@ def generateObservationMDs(df : pd.DataFrame):
         DataFrame containing the eBird data with any modifications
     """
 
+    firstImagePath = None
+
+
     #-- loop through each row in the dataframe
     for index, row in df.iterrows():
         speciesName = row['camelCaseName']
         sessionId = row['Submission ID']
         observationMDFile = Path( f"{BIRD_OBSERVATIONS_HOME}/{speciesName}/{sessionId}.md")
-        numImages = len(row['images']) if row['images'] is not None else 0
+        numImages = 0
+        if row['images'] is not None:
+            numImages = len(row['images']) 
+            if firstImagePath is None:
+                firstImagePath = str(row['images'][0]).replace(str(HOME_FOLDER), ASSETS_URL)
         
         # -- check if the file already exists
         if observationMDFile.exists():
@@ -203,8 +213,16 @@ def generateObservationMDs(df : pd.DataFrame):
 
         # -- create the markdown content
         mdContent = OBSERVATION_MD_TEMPLATE
+
+        if firstImagePath is not None:
+            mdContent = mdContent.replace("image:", f"image: {firstImagePath}")
+        else:
+            # remove the image: line
+            mdContent = mdContent.replace("image:\n", "")
+
         mdContent = mdContent.replace("<Common Name>", row['Common Name'])
         mdContent = mdContent.replace("<Scientific Name>", row['Scientific Name'])
+        mdContent = mdContent.replace("<Submission ID>", row['Submission ID'])
         #-- convert date to a human readable format DD Mon YYYY
         humanDate = pd.to_datetime(row['Date']).strftime("%A, %d %B %Y")
         mdContent = mdContent.replace("<Human Date>", humanDate)
