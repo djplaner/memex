@@ -1,5 +1,5 @@
 ---
-title: Life list
+title: Bird Life list
 type: index
 description: My life list of bird observations recorded at Wood Duck Meadows and elsewhere.
 tags:

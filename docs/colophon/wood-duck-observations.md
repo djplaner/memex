@@ -17,7 +17,7 @@ With an interest in [[regeneration]] of the [[wood-duck-meadows]] ecosystem come
 
     - [x] eBird - bird observations
       - [x] Replace [[life-list-generator]] using observations
-        - [x] Modify [[life-list]] to include a link to each observation
+        - [x] Modify [[bird-life-list]] to include a link to each observation
         - [x] for observation set the `image:` frontmatter to the first image
       - [x] Create individual bird pages, including using of observations
     - [ ] iNaturalist - observations of other fauna and flora
@@ -104,7 +104,7 @@ Enabling macros like
 
 Real life requirements
 
-- [[life-list]] 
+- [[bird-life-list]] 
 
     Display a list of all the bird observations I've made ` \{\{ observationsIndex( observation-type: 'bird') \}\} `
 
@@ -165,7 +165,7 @@ Existing practice
 [regeneration]: ../sense/landscape-garden/regeneration "Bush regeneration (Wood duck meadows)"
 [wood-duck-meadows]: ../sense/landscape-garden/wood-duck-meadows "Wood duck meadows"
 [life-list-generator]: life-list-generator "Life list generator"
-[life-list]: ../sense/Observations/life-list "Life list"
+[bird-life-list]: ../sense/Observations/bird-life-list "Life list"
 [plants]: ../sense/landscape-garden/plants/plants "Plants"
 [bubbles-as-objects]: bubbles-as-objects "Bubbles as objects"
 [computational-components]: computational-components "Computational components"
