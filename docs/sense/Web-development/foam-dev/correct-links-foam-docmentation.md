@@ -10,7 +10,7 @@ While working on [[generate-material-for-mkdocs-site]] a number of links in the 
 
 ### use of dummy wikilink defitions
 
-A few instances where wikilinks are used in documentation e.g. `[[some-wikilink]]`. These are quoted, are not meant to be real links, and there is no matching match.
+A few instances where wikilinks are used in documentation e.g. `\[\[some-wikilink\]\]`. These are quoted, are not meant to be real links, and there is no matching match.
 
 link, links, wikilink, `[[`, wikilinks, mediawiki, github-pages, note-b, note-a, notes, note...lots in wikilinks-in-foam
 
@@ -42,7 +42,7 @@ Similar
 
 ### intentional missing wikilinks
 
-`[[placeholder]]` to illustrate various Foam presentations.
+`\[\[placeholder\]\]` to illustrate various Foam presentations.
 
 ## Output log
 

@@ -12,7 +12,7 @@ A [life list](https://en.wikipedia.org/wiki/Life_list) is simply some sort of li
 !!! note "🚧 Under construction"
 
 
-{{ observationsIndex('plant') }}
+{{ observationsIndex( { "observation-type": "plant" } ) }}
 
 
 

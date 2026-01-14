@@ -18,6 +18,8 @@ Starting to generate 1st versions of iNaturalist observation files -- will have 
   - [x] examine the iNaturalist CSV export format
   - [x] re-factor `importeBird.py` to be more generic - `importObservations.py`?
     - [x] factor out specific eBird and iNaturalist functions into support libraries
+  - remove punctuation from cameCaseName for iNaturalist
+  - camelCaseName should be camelCase for all words
   - for plants figure out how to identify natives, weeds etc
     - e.g. iNaturalist mentions austrlia checklist
     - https://www.inaturalist.org/check_lists/1033-Australia

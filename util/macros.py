@@ -423,7 +423,7 @@ def define_env(env):
 #        return f"{{{{ observations( {paramStr} ) }}}}"
 
     @env.macro
-    def observationsIndex( params ): 
+    def observationsIndex( params: dict ): 
         """
         Placeholder function for use in observation listing index. Actual observation listing index is implemented via the observations plugin.
 

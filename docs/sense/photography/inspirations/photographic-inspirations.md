@@ -9,9 +9,9 @@ tags:
 
 !!! note "🚧 Work in progress 🚧"
 
-    Created in late December 2025 (for [[photoclass-introduction-and-the-gear-introduction-and-the-gear]]) this is a nascent idea of implementing a [[seek-sense-share]] process for photographic inspirations. Eventually this page will list the resources providing inspiration and specific artefacts and associated reflections.
+    Created in late December 2025 (for [[photoclass-introduction-and-the-gear]]) this is a nascent idea of implementing a [[seek-sense-share]] process for photographic inspirations. Eventually this page will list the resources providing inspiration and specific artefacts and associated reflections.
 
 
 ## Mastodon
 
-The `#photography` tag on Mastodon seems to be fairly active- 830 people in 2 days at the end of 2025. Worth exploring further, but perhaps a bit too active.
+The `#photography` tag on Mastodon seems to be fairly active- 830 people in 2 days at the end of 2025. Worth exploring further, but perhaps a bit too active. Currently slowly playing with the idea of using Mastodon lists to curate people I follow and leave the default view for hashtags like `#photography`
