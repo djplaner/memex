@@ -17,7 +17,7 @@ tags:
     - [ ] Look through the "inspiration" links, find what might be interesting, and start weaving that into my [[pkm]] process.
     - [ ] Explore photography on mastodon, including Pixelfed.
     - [ ] Develop a photographic PKM process including use of [[photographic-inspirations]] note and perhaps the blog?
-    - [ ] Add a current-photography-gear note listing current gear.
+    - [x] Add a [[current-photography-gear]] note listing current gear.
 
 ## Understanding photography
 
@@ -261,23 +261,17 @@ Other sources
 ### Example workflow
 
 0. Configure camera settings
-
     - naming - include name/initials
     - date format and setting correct
     - add in copyright and creator info
     - configure save format
 1. Import photos from camera to computer
-
     e.g. card reader
-
 2. Star photos based on quick initial review
-
 3. Process photos with particular star rating - update the star rating if processing results in a good outcome
 
     Processing includes updating relevant metadata and also DAM software tags/keywords.
-
 4. Export "5 star" photos as JPEGs
-
 5. Optional: upload to photo sharing site e.g. Flickr, Pixelfed, etc.
 
 ### Backups
@@ -302,20 +296,15 @@ Create a short photo story (3-5 images) and take note of how camera choice or fo
 
 1. Pick a single scene or subject. A scene that stays the same.
 2. Take two or more photos with the following approaches
-
     - Two cameras
     - one camera but two shooting distances
     - One camera but two focal lengths
 3. Be thoughtful about how you approach the scene. Illustrate/see how these choices affect your final image, or your shooting style in the moment. Keep in mind
-
     - Manual or auto modes are both fine
     - Don't worry about technical execution
     - __For this lesson only__: no heavy editing. Light crop or straighten, but share SOOC Jpegs
-
 4. Reflect and share
-
     Chose 2-4 images the clearly show how your choices affected the result. When sharing, including a short reflection, including:
-
     - What stayed the same across the images?
     - What changed, and why do you think it happened?
     - Which version felt closest to how you experienced the scene?
@@ -325,7 +314,34 @@ What to submit
 
 1. Your final 2-4 images
 2. A short paragraph reflecting on the points above.
-3 Optional: Past without labeling your approach and let others guess how the image was made.
+3. Optional: Past without labeling your approach and let others guess how the image was made.
+
+### Reflect and share
+
+_What stayed the same and what changed?_
+
+In the following images the aim was to maintain the size of the subject (a derelict building on our property) within the frame while changing the focal length. To do this made it necessary to increase the distance to the subject as the focal length was increased.  
+
+As expected compression (aka perspective distortion) is evident in the images in the apparent angle of the walls and the distances between corners. The 14mm focal length image showing a "pointy" building with the 58mm image showing a "flatter" building. 
+
+(I was using a micro four thirds camera, the focal lengths for the included images were: 14mm, 29mm, 39mm, and 58mm. Other images with different focal lengths were taken. However, to keep with the four image limit I selected these four as they best illustrated the differences.)
+
+_Why the change?_
+
+My explanation for this relies on the idea of the ratio of distances between the lens and each of the elements in the image. The closer I am to the subject, the relative distances to other elements increases. The further away I am the relative distances decrease.
+
+_What was closest to how I experienced the scene?_
+
+I hadn't really pondered this question while taking and selecting the images. My assumption is that the course materials suggestion that a focal length of 45mm "looks very natural" would be a likely answer. However, my understanding is that my micro four thirds camera would require a focal length of around 22mm to achieve that effect (as per [this source](https://apotelyt.com/camera-specs/olympus-e-m5-ii-sensor-crop)). Suggesting that the 29mm image is likely the closest to how I experienced the scene. 
+
+_What kind of feedback am I hoping to receive?_
+
+Any and all welcome, but feedback on where I've tried to apply new knowledge would be particularly welcome, including:
+
+1. My explanation for "Why the change?", and
+2. The calculation of a "natural" focal length for my camera in the "What was closest" section.
+
+
 
 ### Why I chose this photo
 

@@ -43,10 +43,9 @@ I took 7 or 8 photos each using different focal lengths. However, to keep the ap
 ## What would I do differently?
 
 1. Slow down and pay attention.
-   Pay more attention to the size and placement of the subject in the frame. I was too rushed taking these photos. 
+    Pay more attention to the size and placement of the subject in the frame. I was too rushed taking these photos. 
    
-   Whilst writing this CoPilot on VsCode was suggesting "use a tripod" as part of this point. I'm not quite that into photography, which perhaps says something about my approach.
-
+    Whilst writing this CoPilot on VsCode was suggesting "use a tripod" as part of this point. I'm not quite that into photography, which perhaps says something about my approach.
 2. Improve my conceptual understanding
     I understand that changing focal length and distance to subject will impact perspective. But I don't yet fully understand how and why this happens. Need to learn more.
 

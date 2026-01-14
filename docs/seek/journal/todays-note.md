@@ -15,9 +15,12 @@ tags:
 Starting to generate 1st versions of iNaturalist observation files -- will have problems to resolve
 
 - start work on iNaturalist import
-  - examine the iNaturalist CSV export format
-  - re-factor `importeBird.py` to be more generic - `importObservations.py`?
-    - factor out specific eBird and iNaturalist functions into support libraries
+  - [x] examine the iNaturalist CSV export format
+  - [x] re-factor `importeBird.py` to be more generic - `importObservations.py`?
+    - [x] factor out specific eBird and iNaturalist functions into support libraries
+  - for plants figure out how to identify natives, weeds etc
+    - e.g. iNaturalist mentions austrlia checklist
+    - https://www.inaturalist.org/check_lists/1033-Australia
   - integrate iNaturalist bird observations into existing bird life list
   - clarify the outputs for non-bird iNaturalist observations (plants, fauna?)
     - individual plant observations
