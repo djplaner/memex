@@ -4,7 +4,7 @@ type: "bird-species"
 bird-data:
     common-name: "Yellowhammer"
     scientific-name: "Emberiza citrinella"
-    taxonomic-order: "<Taxonomic Order>"
+    taxonomic-order: "32451"
 description: "Information (largely observations) about the bird species Yellowhammer (Emberiza citrinella)"
 tags:
     - birdwatching

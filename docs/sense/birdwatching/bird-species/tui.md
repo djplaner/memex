@@ -4,7 +4,7 @@ type: "bird-species"
 bird-data:
     common-name: "Tui"
     scientific-name: "Prosthemadera novaeseelandiae"
-    taxonomic-order: "<Taxonomic Order>"
+    taxonomic-order: "17543"
 description: "Information (largely observations) about the bird species Tui (Prosthemadera novaeseelandiae)"
 tags:
     - birdwatching
