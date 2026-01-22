@@ -1,0 +1,2 @@
+# computational component architecture|#architecture
+

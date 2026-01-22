@@ -3,6 +3,16 @@ tags: gardens
 title: Plants
 type: note
 ---
+
+!!! note "🚧 New method for plant observations etc"
+
+    The original manual method shown below is slowly being replaced by a method that integrates with iNaturalist observations. See [[plant-life-list]] for current implementation.
+
+    The intent is that the [[plant-life-list]] will provide access to information and observations about plant species, replacing the list below. Pages for [[individual-plants]] will also be updated to integrate relevant iNaturalist observations.
+
+    The photo gallery will also be re-implemented.
+
+
 The following provides a summary of the plant species we've come across on [[wood-duck-meadows]]. It is a far from complete list. See [[individual-plants]] for details on the [[wood-duck-meadows]] plants we're maintaining.
 
 !!! info "Photo gallery"

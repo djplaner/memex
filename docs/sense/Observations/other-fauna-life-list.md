@@ -9,8 +9,6 @@ tags:
 
 A [life list](https://en.wikipedia.org/wiki/Life_list) is simply some sort of list of all the species of flora/fauna you've observed. The following is a list of all the "other fauna" (i.e. not birds, since there's a [[bird-life-list]]) I've observed through iNaturalist. 
 
-!!! note "🚧 Under construction"
-
 
 {{ observationsIndex( { "observation-type": "other-fauna" } ) }}
 

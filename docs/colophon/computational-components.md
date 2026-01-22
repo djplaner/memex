@@ -22,24 +22,40 @@ The ecosystem I'm using to [[some-assemblage-required|assemble]] Memex means tha
 
 - 🚧 [[wood-duck-observations]] 🚧 
 
-    Similar to [[wood-duck-work-history]], but intended to gather observations of animals, birds, insects, etc made on [[wood-duck-meadows]].
+    Similar to [[wood-duck-work-history]], but intended to gather observations of animals, birds, insects, etc made on [[wood-duck-meadows]]. Early development of the idea of [[bubbles-as-objects]] and how that can be integrated into the computational component architecture.
 
 - [[wood-duck-work-history]]
 
-    Allows [[regeneration]] work performed on [[wood-duck-meadows]] to be recorded and then woven together with where the work was done.
+    Allows [[regeneration]] work performed on [[wood-duck-meadows]] to be recorded and then woven together with where the work was done. Initial experiments with the [[bubbles-as-objects]] concept.
 
 - [wood-duck-gallery](../sense/landscape-garden/wood-duck-gallery.md)
  
     The ([[wood-duck-gallery-generator]]) gathers all the photos from the zone and plant pages for [[wood-duck-meadows]]. Implemented using `mkdoc-gen-files` to integrate a Python script into `mkdocs`
 
-- [life-list-gallery](../sense/birdwatching/life-list-gallery.md)
-
-    [[life-list-generator]] is a stand alone Python script (**TODO** integrate using `mkdocs-gen-files`) generates the life list gallery from a combination of eBird CSV file download and images saved locally.
-
 - [[recent-changes]] 
-    read git commit log to display recent website updates
+    Macro that queries github changelog and generates a table or timeline of recent changes made to the site.
 
-    Python script to generate JSON and Javascript to generate HTML, or Python script to replace bound text in a markdown file.
+- [[blog-statistics]]
+
+    Generate and display statistics about the content of the blog.
+
+- [[graph|Bubble network visualisation]]
+
+    Generate a public website version of [Foam's graph feature](https://foambubble.github.io/foam/user/features/graph-visualization).
+
+- Corpus Actions
+
+    Early work on a component to perform actions on the entire corpus of bubbles. Initial work done implementing [[integrate-backlinks-automatically-onto-pages]]
+
+
+And some deprecated/archived components:
+
+- life-list-gallery
+
+    [[life-list-generator]] is/was a stand alone Python script (**TODO** integrate using `mkdocs-gen-files`) generates the life list gallery from a combination of eBird CSV file download and images saved locally.
+
+    **Replaced** by [[wood-duck-observations]] approach.
+
 
 - 🚧 [[plant-location-generator]] 🚧 
 
@@ -49,24 +65,22 @@ The ecosystem I'm using to [[some-assemblage-required|assemble]] Memex means tha
 
     Category and archive pages, RSS feeds, and blog statistics are being generated using Python scripts.
 
-- [[blog-statistics]]
-
-    Generate and display statistics about the content of the blog.
-
-- Corpus Actions
-
-    Early work on a component to perform actions on the entire corpus of bubbles. Initial work done implementing [[integrate-backlinks-automatically-onto-pages]]
-
-- [[graph|Bubble network visualisation]]
-
-    Generate a public website version of [Foam's graph feature](https://foambubble.github.io/foam/user/features/graph-visualization).
 
 ## Architecture
 
-There are two types of computational component based on what they generate. The two options are:
+There are two types of computational component based on what they generate, including:
 
-1. Macros - implemented using [mkdocs-macros-plugin](https://mkdocs-macros-plugin.readthedocs.io/en/latest/) - to generate content to be included in Markdown files.
-2. Entire markdown files - implemented using [mkdocs-gen-files](https://oprypin.github.io/mkdocs-gen-files/index.html) - generating entire markdown files which `mkdocs` will then process as part of the site build.
+1. Generators; and, 
+
+    Create entire markdown files which are then translated by the SSG into HTML pages as part of building the site. Implemented using [mkdocs-gen-files](https://oprypin.github.io/mkdocs-gen-files/index.html).
+
+    e.g. [[wood-duck-observations]] uses a generator to transform eBird and iNaturalist data into markdown files.
+
+2. Macros. 
+
+    Create markdown that is inserted into an existing Markdown pages. Implemented using [mkdocs-macros-plugin](https://mkdocs-macros-plugin.readthedocs.io/en/latest/).
+
+    e.g. the [[timeline-of-changes]] page uses '\{\{ recentChangesTimeline() \}\}' macro to insert a timeline of recent changes into the page.
 
 ### Configuration
 
@@ -111,6 +125,9 @@ bubbles = corpus()
 regionWorkHistory = bubbles.get_bubble_by_type("work-history")
 ```
 
+### Object model
+
+The [[bubbles-as-objects]] concept is based on the idea of each bubble (Markdown file) being treated as an object.
 
 
 
@@ -121,15 +138,16 @@ regionWorkHistory = bubbles.get_bubble_by_type("work-history")
 [wood-duck-observations]: wood-duck-observations "Wood Duck observations"
 [wood-duck-work-history]: wood-duck-work-history "Wood duck work history"
 [wood-duck-meadows]: ../sense/landscape-garden/wood-duck-meadows "Wood duck meadows"
+[bubbles-as-objects]: bubbles-as-objects "Bubbles as objects"
 [regeneration]: ../sense/landscape-garden/regeneration "Bush regeneration (Wood duck meadows)"
 [wood-duck-gallery-generator]: wood-duck-gallery-generator "Wood duck meadows gallery generator"
-[life-list-generator]: life-list-generator "Life list generator"
 [recent-changes]: recent-changes "Recent changes"
+[blog-statistics]: blog-statistics "Blog Statistics"
+[graph|Bubble network visualisation]: graph "Memex network graph"
+[integrate-backlinks-automatically-onto-pages]: integrate-backlinks-automatically-onto-pages "Integrate backlinks automatically onto pages"
+[life-list-generator]: life-list-generator "Life list generator"
 [plant-location-generator]: plant-location-generator "Plant location generator"
 [convert-wordpress-into-memex]: convert-wordpress-into-memex "Convert Wordpress into Memex"
-[blog-statistics]: blog-statistics "Blog Statistics"
-[integrate-backlinks-automatically-onto-pages]: integrate-backlinks-automatically-onto-pages "Integrate backlinks automatically onto pages"
-[graph|Bubble network visualisation]: graph "Memex network graph"
+[timeline-of-changes]: ../timeline-of-changes "Timeline of changes"
 [corpus-manipulation]: corpus-manipulation "Corpus manipulation"
-[bubbles-as-objects]: bubbles-as-objects "Bubbles as objects"
 [//end]: # "Autogenerated link references"

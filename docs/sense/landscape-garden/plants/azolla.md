@@ -12,7 +12,7 @@ First noticed in 2023/2024 in [[the-dam]] [azolla](https://agriculture.vic.gov.a
 
 <figure markdown>
 ![Small water bird (Australasian grebe) swimming through a dam covered entirely in red azolla. The bird has yellow cheeks, orange eyes, red feathers toward the back of its head, white feathers at the tail and yellow feathers along the lower parts of its body.](https://djon.es/assets/memex/sense/landscape-garden/plants/../../birdwatching/images/australasianGrebe/S191596337.jpeg)
-<caption>[Australasian Grebe](/memex/sense/birdwatching/australasianGrebe.md) swimming amongst the azolla in [[the-dam]]</caption>
+<caption>[[australasian-grebe]] swimming amongst the azolla in [[the-dam]]</caption>
 </figure>
 
 ## Wood duck meadows

@@ -110,7 +110,7 @@ plugins:
   - gen-files:
       scripts:
         - util/generators/woodDuck.py ## wood duck meadows generator
-        - util/generators/lifeList.py ## updating eBird life list
+#        - util/generators/lifeList.py ## updating eBird life list
 # Turned off due to Google Maps activity        - util/generators/plantLocation.py ## generating javascript for plant locations
         - util/generators/corpusActions.py
   - macros:

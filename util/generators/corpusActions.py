@@ -303,14 +303,6 @@ def extractFileContent( file : File ) -> dict:
 
     pageData = extractLinkDefs(pageData)
 
-#    if file.src_path.endswith("sense/birdwatching/life-list-gallery.md") or file.src_path.endswith("birding.md"):
-#        print(f"Extracted content from {file.src_path}")
-#        print(f"Content: {pageData['content'][:100]}...")
-#        print(f"YAML: {yaml.dump(pageData['yaml'])}")
-#        print(f"LinkDefs: {pageData['linkDefs']}")
-#        pprint(pageData, indent=4)
-#        input("Press Enter to continue...")
-
     return pageData
 
 def retrieveMemexBubbles(markdownFiles: Files):
@@ -444,9 +436,6 @@ def generateBackLinks(bubbles: dict):
                 #pprint(bubble['linkDefs'])
                 #input("Press Enter to continue...")
 
-#        if file.endswith("life-list-gallery.md"):
-#            input("Press Enter to continue...")
-
     return backLinks
 
 def saveBubble(bubble:dict):
@@ -539,12 +528,6 @@ def updateFrontMatterBackLinks(bubbles, backLinks):
         backlinks = []
         # destinationPath = /seek/stretching-educations-iron-triangle.md
         #-- loop through all the backlinks
-
-#        if destinationFilePath.endswith("sense/birdwatching/life-list-gallery.md"):
-#            print(f"Processing backlinks for {destinationFilePath}")
-#            pprint(backLinks[destinationFilePath].keys())
-#            input("Press Enter to continue...")
-        
 
         for sourceLink in backLinks[destinationFilePath].keys():
 
@@ -754,12 +737,10 @@ def findFiles(markdownFiles: Files):
     findFiles= [
 #    "sense/landscape-garden/wood-duck-gallery.md",
 #        "sense/birdwatching/life-list.md",
-        "sense/birdwatching/life-list-gallery.md",
-        "sense/birdwatching/spottedDove.md",
+#        "sense/birdwatching/spottedDove.md",
 #        "sense/birdwatching/australasianFigbird.md",
 #        "sense/birdwatching/greatEgret.md",
 #        "sense/birdwatching/greatEgret.md",
-#    "sense/birdwatching/life-list-gallery.md"
     ]
 #-- search markdownFiles for findFile in src_path 
     for findFile in findFiles:
@@ -889,7 +870,6 @@ backLinks = generateBackLinks(bubbles)
 #print("--------- spotted dove")
 #pprint(backLinks["sense/birdwatching/spottedDove.md"])
 #print("--------- gallery life list")
-#pprint(backLinks["sense/birdwatching/life-list-gallery.md"])
 #input("Press Enter to update front matter backlinks...")
 #for filePath in backLinks.keys():
 #    print(f"Backlinks for {filePath}: keys {backLinks[filePath].keys()}")

@@ -516,7 +516,7 @@ A dynamically generated gallery of all the photos from the pages associated with
 
 <figure markdown>
 ![Small water bird (Australasian grebe) swimming through a dam covered entirely in red azolla. The bird has yellow cheeks, orange eyes, red feathers toward the back of its head, white feathers at the tail and yellow feathers along the lower parts of its body.](https://djon.es/assets/memex/sense/landscape-garden/plants/../../birdwatching/images/australasianGrebe/S191596337.jpeg){data-title="Azola" data-description="Small water bird (Australasian grebe) swimming through a dam covered entirely in red azolla. The bird has yellow cheeks, orange eyes, red feathers toward the back of its head, white feathers at the tail and yellow feathers along the lower parts of its body."}
-<caption>[Australasian Grebe](/memex/sense/birdwatching/australasianGrebe.md) swimming amongst the azolla in [[the-dam]]</caption>
+<caption>[[australasian-grebe]] swimming amongst the azolla in [[the-dam]]</caption>
 </figure> 
 
 
