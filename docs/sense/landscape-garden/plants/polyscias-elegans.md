@@ -25,7 +25,7 @@ Hugh and Kay donated a sapling in April, 2025.
 <caption>Celery wood sapling donated by H&K</caption>
 </figure>
 
-<h3>Observations</h3>
+## Observations
 
 {{ observations( { "subject": "polyscias-elegans" } ) }}
 

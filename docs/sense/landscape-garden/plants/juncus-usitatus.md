@@ -7,6 +7,11 @@ type: note
 ---
 The common rush ([Juncus usitatus](https://en.wikipedia.org/wiki/Juncus_usitatus)) has been found in the dam surrounding [[the-island]].
 
+## Observations
+
+{{ observations( { "subject": "juncus-usitatus" } ) }}
+
+
 ## Resources
 
 - [Juncus usitatus L.A.S.Johnson page](https://plantnet.rbgsyd.nsw.gov.au/cgi-bin/NSWfl.pl?page=nswfl&lvl=sp&name=Juncus~usitatus) from NSW Flora Online

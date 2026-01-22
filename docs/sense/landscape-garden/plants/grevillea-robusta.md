@@ -22,7 +22,7 @@ Up until late July 2025 it was though that [[wood-duck-meadows]] had a couple of
 
 The Silky Oak (no relation to true oaks) is a fast-growing evergreen tree with fern-like leaves. The species is native to eastern Australia, particularly in New South Wales and Queensland. Originally growing in subtropical and dry rainforests, and wet forests.
 
-<h3>Observations</h3>
+## Observations
 
 {{ observations( { "subject": "grevillea-robusta" } ) }}
 

@@ -21,7 +21,7 @@ These first four are being planted on [[the-island]].  You can just see the firs
 ![Syzygium oleosum seedlings just after planting on The Island](https://djon.es/assets/memex/sense/landscape-garden/plants/images/syzygium-oleosum/1.jpeg)
 <caption>Syzygium oleosum (Blue lilly pilly) seedlings just after planting on [[the-island]] November 2025</caption>
 
-<h3>Observations</h3>
+## Observations
 
 {{ observations( { "subject": "syzygium-oleosum" } ) }}
 

@@ -32,6 +32,11 @@ Flowers
 
 Seen throughout Redwood park, but only rarely at [[wood-duck-meadows]]
 
+## Observations
+
+{{ observations( { "subject": "symphoricarpos-orbiculatus" } ) }}
+
+
 ## References
 
 - [Weeds Brisbane](https://weeds.brisbane.qld.gov.au/weeds/coral-berry)

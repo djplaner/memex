@@ -30,6 +30,10 @@ Initially found in the [[gatton-creek-frontage]]. With berries identified in Jun
 <caption>Thin stem of a wombat berry with numerous leaves and four greeenish/yellowish berries</caption>
 </figure>
 
+## Observations
+
+{{ observations( { "subject": "eustrephus-latifolius" } ) }}
+
 ## Resources
 
 Save Our Waterways Now, [Wombat Berry](https://sown.com.au/eustrephus-latifolius-philesiaceae-wombat-berry/)

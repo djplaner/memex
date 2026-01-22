@@ -21,7 +21,8 @@ Discovered as a young extant tree on [[the-island]]. A large (30-35m) deciduous 
 <caption>Brachychiton acerifolius (Illawarra flame tree) - ([[the-island]] 27 June 2025)</caption>
 </figure>
 
-<h3>Observations</h3>
+## Observations
+
 
 {{ observations( { "subject": "brachychiton-acerifolius" } ) }}
 

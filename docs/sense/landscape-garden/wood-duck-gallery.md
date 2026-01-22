@@ -392,7 +392,7 @@ A dynamically generated gallery of all the photos from the pages associated with
 </figure> 
 
 
-### [Wombat Berry](plants/wombat-berry.md)
+### [Wombat Berry](plants/eustrephus-latifolius.md)
 
 
 <figure markdown>
@@ -461,7 +461,7 @@ A dynamically generated gallery of all the photos from the pages associated with
 </figure> 
 
 
-### [Cat's claw creeper (Dolichandra unguis-cati)](plants/cats-claw-creeper.md)
+### [Cat's claw creeper (Dolichandra unguis-cati)](plants/dolichandra-unguis-cati.md)
 
 
 <figure markdown>

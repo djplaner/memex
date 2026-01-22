@@ -55,7 +55,7 @@ Not so native
 - [[dendrophtoe-glabrescens]] (aka orange mistletoe)
 - [[maclura-cochinchinensis]] (Cockspur thorn)
 - [[pandorea-pandorana]] (aka Wonga Wonga vine)
-- [[wombat-berry]]
+- [[eustrephus-latifolius]]
 - Pararistolochia praevenosa (aka Richmond Birdwing Vine) - [SOWN](https://sown.com.au/pararistolochia-praevenosa-aristolochiaceae-richmond-birdwing-vine-2/) - purchased by Sandy and provided by H&K.
 
 ### Flowers
@@ -65,7 +65,7 @@ Not so native
 ### Others
 
 - [[azolla]]
-- [[common-rush]] 
+- [[juncus-usitatus]] 
 - [[rubus-probus]] - Atherton raspberry
 - [[senna-acclinis]] - Rainforest cassia, bush senna
 - Pittosporum revolutum (aka Brisbane Laurel) seeds provided by Tony ([Wikipedia](https://en.wikipedia.org/wiki/Pittosporum_revolutum)), [SOWN](http://sown.com.au/pittosporum-revolutum-pittosporaceae-brisbane-laurel)
@@ -73,7 +73,7 @@ Not so native
 ## Non-natives, weeds and other nasties
 
 - [[bidens-pilosa]] - Cobbler's pegs
-- [[coral-berry]]
+- [[symphoricarpos-orbiculatus]]
 - [[jasminum-polyanthum]] - Pink jasmine
 - [[crassocephalum-crepidioides]] - Redflower ragleaf, fireweed
 - [[heliotropium-amplexicaule]] - Clasping heliotrope
@@ -97,8 +97,8 @@ Not so native
 ### Vines
 
 - [[asparagus-africanus]]
-- [[cats-claw-creeper]]
-- [[madeira-vine]]
+- [[dolichandra-unguis-cati]]
+- [[anredera-cordifolia]]
 - [[passiflora-suberosa]] - Corky passionfruit
 - [[passiflora-subpeltata]] - White passionflower
 
@@ -158,14 +158,14 @@ Not so native
 [dendrophtoe-glabrescens]: dendrophtoe-glabrescens "Dendrophtoe glabrescens (Orange Mistletoe)"
 [maclura-cochinchinensis]: maclura-cochinchinensis "Maclura cochinchinensis (Cockspur thorn)"
 [pandorea-pandorana]: pandorea-pandorana "Pandorea pandorana (Wonga Wonga vine)"
-[wombat-berry]: wombat-berry "Wombat Berry"
+[eustrephus-latifolius]: eustrephus-latifolius "Wombat Berry"
 [dendrodbium-taberi]: dendrodbium-taberi "Dendrodbium taberi (King Orchid)"
 [azolla]: azolla "Azola"
-[common-rush]: common-rush "Common Rush"
+[juncus-usitatus]: juncus-usitatus "Common Rush"
 [rubus-probus]: rubus-probus "Rubus probus (Atherton raspberry)"
 [senna-acclinis]: senna-acclinis "Senna acclinis (rainforest cassia or brush senna)"
 [bidens-pilosa]: bidens-pilosa "Bidens pilosa (Cobbler's Pegs)"
-[coral-berry]: coral-berry "Coral Berry (Symphoricarpos orbiculatus)"
+[symphoricarpos-orbiculatus]: symphoricarpos-orbiculatus "Coral Berry (Symphoricarpos orbiculatus)"
 [jasminum-polyanthum]: jasminum-polyanthum "Jasminum polyanthum (Pink Jasmine)"
 [crassocephalum-crepidioides]: crassocephalum-crepidioides "Crassocephalum crepidioides (aka Redflower ragleaf, fireweed)"
 [heliotropium-amplexicaule]: heliotropium-amplexicaule "Heliotropium amplexicaule (Clasping heliotrope)"
@@ -182,8 +182,8 @@ Not so native
 [arundo-donax]: arundo-donax "Arundo donax (Elephant Grass)"
 [megathyrsus-maximus]: megathyrsus-maximus "Megathyrsus maximus (Guinea grass)"
 [asparagus-africanus]: asparagus-africanus "Asparagus africanus (Climbing asparagus fern)"
-[cats-claw-creeper]: cats-claw-creeper "Cat's claw creeper (Dolichandra unguis-cati)"
-[madeira-vine]: madeira-vine "Madeira vine (Anredera cordifolia)"
+[dolichandra-unguis-cati]: dolichandra-unguis-cati "Cat's claw creeper (Dolichandra unguis-cati)"
+[anredera-cordifolia]: anredera-cordifolia "Madeira vine (Anredera cordifolia)"
 [passiflora-suberosa]: passiflora-suberosa "Passiflora suberosa (Corky passion vine)"
 [passiflora-subpeltata]: passiflora-subpeltata "Passiflora subpeltata (White passionflower)"
 [schinus-terebinthifolia]: schinus-terebinthifolia "Schinus Terebinthifolia (Brazilian pepper tree)"

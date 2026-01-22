@@ -24,6 +24,7 @@ Starting to generate 1st versions of iNaturalist observation files -- will have 
     - [x] plant observations and species pages
     - [x] subject in observations should use wiki-link scientific name for plants
     - [ ] Need to update old plant species page to include observations macro
+    - [ ] Need to link plant, bird and other-fauna species to relevant life lists to ensure that the graph doesn't have unconnected bubbles
     - [ ] [[rhodosphaera]] - is a genus, not a species. Need to see if we can get specific - esp. with H&K's deep yellowwood
     - [x] plant observation MD still mentions eBird
     - [ ] remove the indvidual observation pages from pagefind search - see [this](https://pagefind.app/docs/indexing/) - will likely need a new template for the observation type

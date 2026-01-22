@@ -49,6 +49,13 @@ Initial introduction when working with the [Friends of Redwood Park](https://fep
 
 Subsequent identification on [[wood-duck-meadows]] limited mostly to the Gatton and Rocky creeks running alongside the property.
 
+
+## Observations
+
+{{ observations( { "subject": "dolichandra-unguis-cati" } ) }}
+
+
+
 ## References
 
 - [Weeds Brisbane](https://weeds.brisbane.qld.gov.au/weeds/cats-claw-creeper) - good info

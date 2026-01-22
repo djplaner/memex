@@ -37,6 +37,12 @@ Initial introduction when working with the [Friends of Redwood Park](https://fep
 
 Subsequent identification of some evidence on [[wood-duck-meadows]]. Early infestation coming up from the creeks. Also some evidence of birds bringing it onto [[the-island]]
 
+
+## Observations
+
+{{ observations( { "subject": "anredera-cordifolia" } ) }}
+
+
 ## References
 
 - [Madeira vine](https://weeds.org.au/profiles/madeira-vine-jalap/)
