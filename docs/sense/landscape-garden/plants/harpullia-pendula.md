@@ -46,6 +46,9 @@ Hugh and Kay donated a Tulipwood sapling in April, 2025. Remains some uncertaint
 <caption>Sandy's Tulipwood not long after planting out in June 2025</caption>
 </figure>
 
+<h3>Observations</h3>
+
+{{ observations( { "subject": "harpullia-pendula" } ) }}
 
 ## Resources
 

@@ -9,5 +9,5 @@ description: "Information (largely observations) about desert horse purslane (Tr
 
 ## Observations
 
-{{ observations( { "subject": "desert-horse-purslane" } ) }}
+{{ observations( { "subject": "trianthema-portulacastrum" } ) }}
 

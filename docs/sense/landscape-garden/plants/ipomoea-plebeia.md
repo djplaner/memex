@@ -9,5 +9,5 @@ description: "Information (largely observations) about bell vine (Ipomoea plebei
 
 ## Observations
 
-{{ observations( { "subject": "bell-vine" } ) }}
+{{ observations( { "subject": "ipomoea-plebeia" } ) }}
 

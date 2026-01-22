@@ -9,5 +9,5 @@ description: "Information (largely observations) about Sandpaper Fig (Ficus oppo
 
 ## Observations
 
-{{ observations( { "subject": "sandpaper-fig" } ) }}
+{{ observations( { "subject": "ficus-opposita" } ) }}
 

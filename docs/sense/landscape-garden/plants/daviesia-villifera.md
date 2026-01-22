@@ -9,5 +9,5 @@ description: "Information (largely observations) about prickly daviesia (Daviesi
 
 ## Observations
 
-{{ observations( { "subject": "prickly-daviesia" } ) }}
+{{ observations( { "subject": "daviesia-villifera" } ) }}
 

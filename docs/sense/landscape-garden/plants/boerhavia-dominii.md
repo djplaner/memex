@@ -9,5 +9,5 @@ description: "Information (largely observations) about Tah-vine (Boerhavia domin
 
 ## Observations
 
-{{ observations( { "subject": "tah-vine" } ) }}
+{{ observations( { "subject": "boerhavia-dominii" } ) }}
 

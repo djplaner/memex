@@ -9,5 +9,5 @@ description: "Information (largely observations) about Elephant's-foot (Beaucarn
 
 ## Observations
 
-{{ observations( { "subject": "elephants-foot" } ) }}
+{{ observations( { "subject": "beaucarnea-recurvata" } ) }}
 

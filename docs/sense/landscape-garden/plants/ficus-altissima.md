@@ -9,5 +9,5 @@ description: "Information (largely observations) about Mountain Fig (Ficus altis
 
 ## Observations
 
-{{ observations( { "subject": "mountain-fig" } ) }}
+{{ observations( { "subject": "ficus-altissima" } ) }}
 

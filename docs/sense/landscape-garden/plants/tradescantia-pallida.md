@@ -9,5 +9,5 @@ description: "Information (largely observations) about Purple Heart (Tradescanti
 
 ## Observations
 
-{{ observations( { "subject": "purple-heart" } ) }}
+{{ observations( { "subject": "tradescantia-pallida" } ) }}
 

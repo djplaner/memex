@@ -9,5 +9,5 @@ description: "Information (largely observations) about tropical horseweed (Erige
 
 ## Observations
 
-{{ observations( { "subject": "tropical-horseweed" } ) }}
+{{ observations( { "subject": "erigeron-sumatrensis" } ) }}
 

@@ -9,5 +9,5 @@ description: "Information (largely observations) about shaggy portulaca (Portula
 
 ## Observations
 
-{{ observations( { "subject": "shaggy-portulaca" } ) }}
+{{ observations( { "subject": "portulaca-pilosa" } ) }}
 

@@ -82,6 +82,10 @@ Clearing the asparagus fern from around the tree left disconnected vines high in
 
 The pine cone shown above was the first found (Jan 14) of the 2025 bunya nut season.
 
+## Observations
+
+{{ observations( { "subject": "araucaria-bidwillii" } ) }}
+
 ## References
 
 - [Bunya Pine](https://en.wikipedia.org/wiki/Araucaria_bidwillii) on Wikipedia

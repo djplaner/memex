@@ -9,5 +9,5 @@ description: "Information (largely observations) about Burdekin Plum (Pleiogyniu
 
 ## Observations
 
-{{ observations( { "subject": "burdekin-plum" } ) }}
+{{ observations( { "subject": "pleiogynium-timoriense" } ) }}
 

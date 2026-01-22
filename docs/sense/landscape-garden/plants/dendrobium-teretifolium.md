@@ -9,5 +9,5 @@ description: "Information (largely observations) about Thin Pencil Orchid (Dendr
 
 ## Observations
 
-{{ observations( { "subject": "thin-pencil-orchid" } ) }}
+{{ observations( { "subject": "dendrobium-teretifolium" } ) }}
 

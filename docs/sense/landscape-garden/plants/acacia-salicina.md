@@ -9,5 +9,5 @@ description: "Information (largely observations) about Willow Acacia (Acacia sal
 
 ## Observations
 
-{{ observations( { "subject": "willow-acacia" } ) }}
+{{ observations( { "subject": "acacia-salicina" } ) }}
 

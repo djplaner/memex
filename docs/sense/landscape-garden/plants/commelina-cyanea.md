@@ -9,5 +9,5 @@ description: "Information (largely observations) about scurvy weed (Commelina cy
 
 ## Observations
 
-{{ observations( { "subject": "scurvy-weed" } ) }}
+{{ observations( { "subject": "commelina-cyanea" } ) }}
 

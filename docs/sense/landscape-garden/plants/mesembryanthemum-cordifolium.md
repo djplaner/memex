@@ -9,5 +9,5 @@ description: "Information (largely observations) about heart-leaf ice plant (Mes
 
 ## Observations
 
-{{ observations( { "subject": "heart-leaf-ice-plant" } ) }}
+{{ observations( { "subject": "mesembryanthemum-cordifolium" } ) }}
 

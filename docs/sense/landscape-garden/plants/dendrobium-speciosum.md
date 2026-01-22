@@ -9,5 +9,5 @@ description: "Information (largely observations) about rock orchid (Dendrobium s
 
 ## Observations
 
-{{ observations( { "subject": "rock-orchid" } ) }}
+{{ observations( { "subject": "dendrobium-speciosum" } ) }}
 

@@ -9,5 +9,5 @@ description: "Information (largely observations) about Borage (Borago officinali
 
 ## Observations
 
-{{ observations( { "subject": "borage" } ) }}
+{{ observations( { "subject": "borago-officinalis" } ) }}
 

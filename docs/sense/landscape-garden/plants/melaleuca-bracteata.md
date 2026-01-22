@@ -9,5 +9,5 @@ description: "Information (largely observations) about black tea-tree (Melaleuca
 
 ## Observations
 
-{{ observations( { "subject": "black-tea-tree" } ) }}
+{{ observations( { "subject": "melaleuca-bracteata" } ) }}
 

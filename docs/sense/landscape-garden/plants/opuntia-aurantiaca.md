@@ -9,5 +9,5 @@ description: "Information (largely observations) about Tiger Pear (Opuntia auran
 
 ## Observations
 
-{{ observations( { "subject": "tiger-pear" } ) }}
+{{ observations( { "subject": "opuntia-aurantiaca" } ) }}
 

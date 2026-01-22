@@ -9,5 +9,5 @@ description: "Information (largely observations) about Surinam cherry (Eugenia u
 
 ## Observations
 
-{{ observations( { "subject": "surinam-cherry" } ) }}
+{{ observations( { "subject": "eugenia-uniflora" } ) }}
 

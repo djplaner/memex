@@ -165,7 +165,7 @@ Existing practice
 [regeneration]: ../sense/landscape-garden/regeneration "Bush regeneration (Wood duck meadows)"
 [wood-duck-meadows]: ../sense/landscape-garden/wood-duck-meadows "Wood duck meadows"
 [life-list-generator]: life-list-generator "Life list generator"
-[bird-life-list]: ../sense/Observations/bird-life-list "Life list"
+[bird-life-list]: ../sense/Observations/bird-life-list "Bird Life list"
 [plants]: ../sense/landscape-garden/plants/plants "Plants"
 [bubbles-as-objects]: bubbles-as-objects "Bubbles as objects"
 [computational-components]: computational-components "Computational components"

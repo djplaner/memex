@@ -9,5 +9,5 @@ description: "Information (largely observations) about pigeonberry (Rivina humil
 
 ## Observations
 
-{{ observations( { "subject": "pigeonberry" } ) }}
+{{ observations( { "subject": "rivina-humilis" } ) }}
 

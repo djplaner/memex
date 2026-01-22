@@ -9,5 +9,5 @@ description: "Information (largely observations) about Australian frangipani (Hy
 
 ## Observations
 
-{{ observations( { "subject": "australian-frangipani" } ) }}
+{{ observations( { "subject": "hymenosporum-flavum" } ) }}
 

@@ -9,5 +9,5 @@ description: "Information (largely observations) about scaly ebony (Diospyros ge
 
 ## Observations
 
-{{ observations( { "subject": "scaly-ebony" } ) }}
+{{ observations( { "subject": "diospyros-geminata" } ) }}
 

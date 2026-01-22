@@ -9,5 +9,5 @@ description: "Information (largely observations) about Purple Bush-Bean (Macropt
 
 ## Observations
 
-{{ observations( { "subject": "purple-bush-bean" } ) }}
+{{ observations( { "subject": "macroptilium-atropurpureum" } ) }}
 

@@ -1,4 +1,4 @@
-﻿---
+---
 tags:
 - regeneration
 - sense
@@ -28,7 +28,7 @@ Any approach should be appropriate to the context.
 
 - [dry rainforest](https://www.qld.gov.au/environment/plants-animals/habitats/habitat/dry-rainforest) and [semi-evergreen vine thickets (aka dry rainforest)](https://apps.des.qld.gov.au/regional-ecosystems/details/?re=12.8.21).
 
-    There are dry rainforest trees spread across the property, including: [[bunya-pine]], hoop pines; [[macadamia]] trees; [[harpullia-pendula]] (Tulipwoods); numerous fig trees of different species (e.g. [[unknown-ficus]]); and, some [[brachychiton-rupestris]]].
+    There are dry rainforest trees spread across the property, including: [[araucaria-bidwillii]], hoop pines; [[macadamia]] trees; [[harpullia-pendula]] (Tulipwoods); numerous fig trees of different species (e.g. [[unknown-ficus]]); and, some [[brachychiton-rupestris]]].
 
 
 ## Levels of thinking about bush regeneration
@@ -100,7 +100,7 @@ Organisations
 [gatton-creek-frontage]: gatton-creek-frontage "Gatton creek frontage"
 [the-circle]: the-circle "The Circle"
 [brigalow-scrub]: brigalow-scrub "Brigalow scrub"
-[bunya-pine]: plants/bunya-pine "Bunya Pine"
+[araucaria-bidwillii]: plants/araucaria-bidwillii "Bunya Pine"
 [macadamia]: plants/macadamia "Macadamia"
 [harpullia-pendula]: plants/harpullia-pendula "Harpullia Pendula (Moreton Bay Tulipwood)"
 [unknown-ficus]: individual-plants/unknown-ficus "Unknown ficus"

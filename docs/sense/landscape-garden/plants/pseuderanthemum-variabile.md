@@ -9,5 +9,5 @@ description: "Information (largely observations) about Pastel Flower (Pseuderant
 
 ## Observations
 
-{{ observations( { "subject": "pastel-flower" } ) }}
+{{ observations( { "subject": "pseuderanthemum-variabile" } ) }}
 

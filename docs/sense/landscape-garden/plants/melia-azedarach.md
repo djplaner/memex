@@ -38,6 +38,9 @@ The invasive tendency is somewhat evident at [[wood-duck-meadows]] with a number
 <caption>Melia azedarach in the orchard corner after loosing almost all of its leaves</caption>
 </figure>
 
+<h3>Observations</h3>
+
+{{ observations( { "subject": "melia-azedarach" } ) }}
 
 ## Resources
 

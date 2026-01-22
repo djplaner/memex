@@ -9,5 +9,5 @@ description: "Information (largely observations) about Mother-of-Millions (Kalan
 
 ## Observations
 
-{{ observations( { "subject": "mother-of-millions" } ) }}
+{{ observations( { "subject": "kalanchoe-delagoensis" } ) }}
 

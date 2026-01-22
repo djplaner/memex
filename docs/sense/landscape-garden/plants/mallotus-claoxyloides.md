@@ -9,5 +9,5 @@ description: "Information (largely observations) about Green Kamala (Mallotus cl
 
 ## Observations
 
-{{ observations( { "subject": "green-kamala" } ) }}
+{{ observations( { "subject": "mallotus-claoxyloides" } ) }}
 

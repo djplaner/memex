@@ -9,5 +9,5 @@ description: "Information (largely observations) about Woollyjoint Pricklypear (
 
 ## Observations
 
-{{ observations( { "subject": "woollyjoint-pricklypear" } ) }}
+{{ observations( { "subject": "opuntia-tomentosa" } ) }}
 

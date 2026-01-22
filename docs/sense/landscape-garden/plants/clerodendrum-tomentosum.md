@@ -9,5 +9,5 @@ description: "Information (largely observations) about Downy Chance (Clerodendru
 
 ## Observations
 
-{{ observations( { "subject": "downy-chance" } ) }}
+{{ observations( { "subject": "clerodendrum-tomentosum" } ) }}
 

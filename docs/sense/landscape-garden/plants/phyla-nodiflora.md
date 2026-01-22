@@ -9,5 +9,5 @@ description: "Information (largely observations) about turkey tangle frogfruit (
 
 ## Observations
 
-{{ observations( { "subject": "turkey-tangle-frogfruit" } ) }}
+{{ observations( { "subject": "phyla-nodiflora" } ) }}
 

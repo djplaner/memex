@@ -9,5 +9,5 @@ description: "Information (largely observations) about Lavender Scallops (Kalanc
 
 ## Observations
 
-{{ observations( { "subject": "lavender-scallops" } ) }}
+{{ observations( { "subject": "kalanchoe-fedtschenkoi" } ) }}
 

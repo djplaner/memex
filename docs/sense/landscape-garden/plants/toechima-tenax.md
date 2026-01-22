@@ -9,5 +9,5 @@ description: "Information (largely observations) about brush teak (Toechima tena
 
 ## Observations
 
-{{ observations( { "subject": "brush-teak" } ) }}
+{{ observations( { "subject": "toechima-tenax" } ) }}
 

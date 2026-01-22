@@ -9,5 +9,5 @@ description: "Information (largely observations) about White fig (Ficus virens)"
 
 ## Observations
 
-{{ observations( { "subject": "white-fig" } ) }}
+{{ observations( { "subject": "ficus-virens" } ) }}
 

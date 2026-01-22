@@ -9,5 +9,5 @@ description: "Information (largely observations) about orange mistletoe (Dendrop
 
 ## Observations
 
-{{ observations( { "subject": "orange-mistletoe" } ) }}
+{{ observations( { "subject": "dendrophthoe-glabrescens" } ) }}
 

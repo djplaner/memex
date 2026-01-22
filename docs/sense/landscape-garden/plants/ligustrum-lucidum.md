@@ -9,5 +9,5 @@ description: "Information (largely observations) about broad-leaf privet (Ligust
 
 ## Observations
 
-{{ observations( { "subject": "broad-leaf-privet" } ) }}
+{{ observations( { "subject": "ligustrum-lucidum" } ) }}
 

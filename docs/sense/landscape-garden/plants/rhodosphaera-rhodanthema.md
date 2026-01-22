@@ -9,5 +9,5 @@ description: "Information (largely observations) about deep yellow wood (Rhodosp
 
 ## Observations
 
-{{ observations( { "subject": "deep-yellow-wood" } ) }}
+{{ observations( { "subject": "rhodosphaera-rhodanthema" } ) }}
 

@@ -9,5 +9,5 @@ description: "Information (largely observations) about Bailey's cypress-pine (Ca
 
 ## Observations
 
-{{ observations( { "subject": "baileys-cypress-pine" } ) }}
+{{ observations( { "subject": "callitris-baileyi" } ) }}
 

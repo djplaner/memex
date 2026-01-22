@@ -1,4 +1,4 @@
-﻿---
+---
 tags: gardens
 title: Plants
 type: note
@@ -30,7 +30,7 @@ The following provides a summary of the plant species we've come across on [[woo
 - [[alphitonia-excelsa]] (aka red ash or soap tree)
 - [[brachychiton-rupestris]] - Queensland Bottle Tree
 - [[brachychiton-acerifolius]] (aka Illawarra flame tree)
-- [[bunya-pine]]
+- [[araucaria-bidwillii]]
 - [[corymbia-torelliana]] (aka Cadaghi) which is native to North Queensland but considered an [environmental pest](https://weeds.brisbane.qld.gov.au/weeds/cadaghi) in South East Queensland.
 - [[cupaniopsis-anacardioides]] (aka Tuckeroo) 
 - [[ficus-obliqua]] (aka small-leaved fig)
@@ -139,7 +139,7 @@ Not so native
 [alphitonia-excelsa]: alphitonia-excelsa "Alphitonia excelsa (aka Soap tree, red ash)"
 [brachychiton-rupestris]: brachychiton-rupestris "Brachychiton rupestris (Queensland Bottle Tree)"
 [brachychiton-acerifolius]: brachychiton-acerifolius "Brachychiton acerifolius (Illawarra flame tree)"
-[bunya-pine]: bunya-pine "Bunya Pine"
+[araucaria-bidwillii]: araucaria-bidwillii "Bunya Pine"
 [corymbia-torelliana]: corymbia-torelliana "Corymbia Torelliana (Cadaghi)"
 [cupaniopsis-anacardioides]: cupaniopsis-anacardioides "Cupaniopsis anacardioides (Tuckeroo)"
 [ficus-obliqua]: ficus-obliqua "Ficus obliqua (Small-leaved fig)"

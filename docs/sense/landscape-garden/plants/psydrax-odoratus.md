@@ -9,5 +9,5 @@ description: "Information (largely observations) about Lamboto (Psydrax odoratus
 
 ## Observations
 
-{{ observations( { "subject": "lamboto" } ) }}
+{{ observations( { "subject": "psydrax-odoratus" } ) }}
 

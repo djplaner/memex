@@ -419,7 +419,7 @@ A dynamically generated gallery of all the photos from the pages associated with
 </figure> 
 
 
-### [Bunya Pine](plants/bunya-pine.md)
+### [Bunya Pine](plants/araucaria-bidwillii.md)
 
 
 <figure markdown>

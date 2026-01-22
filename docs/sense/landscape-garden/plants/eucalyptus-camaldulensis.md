@@ -9,5 +9,5 @@ description: "Information (largely observations) about River Red Gum (Eucalyptus
 
 ## Observations
 
-{{ observations( { "subject": "river-red-gum" } ) }}
+{{ observations( { "subject": "eucalyptus-camaldulensis" } ) }}
 

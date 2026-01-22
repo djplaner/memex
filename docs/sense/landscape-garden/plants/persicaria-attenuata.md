@@ -9,5 +9,5 @@ description: "Information (largely observations) about Velvet Knotweed (Persicar
 
 ## Observations
 
-{{ observations( { "subject": "velvet-knotweed" } ) }}
+{{ observations( { "subject": "persicaria-attenuata" } ) }}
 

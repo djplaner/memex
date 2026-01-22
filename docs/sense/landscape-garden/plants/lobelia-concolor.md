@@ -9,5 +9,5 @@ description: "Information (largely observations) about Poison Pratia (Lobelia co
 
 ## Observations
 
-{{ observations( { "subject": "poison-pratia" } ) }}
+{{ observations( { "subject": "lobelia-concolor" } ) }}
 

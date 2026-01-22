@@ -9,5 +9,5 @@ description: "Information (largely observations) about Winter Apple (Eremophila 
 
 ## Observations
 
-{{ observations( { "subject": "winter-apple" } ) }}
+{{ observations( { "subject": "eremophila-debilis" } ) }}
 

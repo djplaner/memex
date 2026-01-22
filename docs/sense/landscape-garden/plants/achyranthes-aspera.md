@@ -9,5 +9,5 @@ description: "Information (largely observations) about Chaff Flower (Achyranthes
 
 ## Observations
 
-{{ observations( { "subject": "chaff-flower" } ) }}
+{{ observations( { "subject": "achyranthes-aspera" } ) }}
 

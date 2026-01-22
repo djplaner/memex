@@ -9,5 +9,5 @@ description: "Information (largely observations) about Brazilian Nightshade (Sol
 
 ## Observations
 
-{{ observations( { "subject": "brazilian-nightshade" } ) }}
+{{ observations( { "subject": "solanum-seaforthianum" } ) }}
 
