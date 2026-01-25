@@ -29,12 +29,29 @@ To do
 - Refinements to individual observation pages
     - [ ] Add details about status of iNaturalist observations (e.g. needs ID, research grade, etc)
     - [ ] Support updating of iNaturalist observation pages (e.g. as status changes)
-    - [ ] 
+       - change plant life list title to Plant life list - check other life lists
+       - need to have import create the life list pages, including figuring out how to have linkdefs added - perhaps hand code - will have issue when both iNaturalist and eBird species are included (i.e. birds)
 
-- Implement indexes for observations and types
-    - [ ] plants
-    - [ ] single plants
-    - [ ] birds
+    - [ ] [[rhodosphaera]] - is a genus, not a species. Need to see if we can get specific - esp. with H&K's deep yellowwood
+    - [ ] update iNaturalist imports
+        - iNaturalist observations can be updated, need to check existing observation markdowns and update as necessary 
+            - compare existing frontmatter with new and update as necessary from iNaturalist, don't update if frontmatter new
+    - [x] plant observation MD still mentions eBird
+    - [ ] remove the indvidual observation pages from pagefind search - see [this](https://pagefind.app/docs/indexing/) - will likely need a new template for the observation type
+  - Thinking about the nice to haves
+    - [ ] iNaturalist pages that include confirmation counts
+    - [x] Turn off life list generator and update documentation 
+    - [ ] implement a `lifeListGallery` macro for different observations
+        - extract relevant bubbles, extract images, construct gallery page content
+    - [ ] Need to look into merging old plants that don't have observations, but have entries in the plants folder
+      - adding observation macros to the bottom of each page
+    - [ ] Ditto for the link to `individual-plants` and how [[individual-plants]] links with the species
+      - individual plants arranged by zones
+      - ways to link plant observations to zones
+    - [ ] Anyway to solve the issue with species pages not having back links (due to life lists relying on macros to have those links) -- perhaps add a "See also" link on species pages to the relevant life list?
+    - [ ] update species pages to include scientific name (in brackets)
+
+
 - Replace/modify photo existing scripts to create observations with photos
   - [ ] `addBirdPhoto` 
   - [ ] `addPlantPhoto` 

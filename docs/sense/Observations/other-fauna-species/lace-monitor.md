@@ -7,6 +7,8 @@ species-data:
 description: "Information (largely observations) about Lace Monitor (Varanus varius)"
 ---
 
+Lace Monitor (Varanus varius) is one of the other-fauna-species.
+
 ## Observations
 
 {{ observations( { "subject": "lace-monitor" } ) }}

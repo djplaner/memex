@@ -7,6 +7,8 @@ species-data:
 description: "Information (largely observations) about Small Brown Paper Wasps (Ropalidia)"
 ---
 
+Small Brown Paper Wasps (Ropalidia) is one of the other-fauna-species.
+
 ## Observations
 
 {{ observations( { "subject": "small-brown-paper-wasps" } ) }}

@@ -7,6 +7,8 @@ species-data:
 description: "Information (largely observations) about Australian Water Dragon (Intellagama lesueurii)"
 ---
 
+Australian Water Dragon (Intellagama lesueurii) is one of the other-fauna-species.
+
 ## Observations
 
 {{ observations( { "subject": "australian-water-dragon" } ) }}

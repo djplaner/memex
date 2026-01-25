@@ -7,6 +7,8 @@ species-data:
 description: "Information (largely observations) about Spider Ants (Leptomyrmex tibialis)"
 ---
 
+Spider Ants (Leptomyrmex tibialis) is one of the other-fauna-species.
+
 ## Observations
 
 {{ observations( { "subject": "spider-ants" } ) }}

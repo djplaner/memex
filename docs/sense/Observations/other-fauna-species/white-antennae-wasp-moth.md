@@ -7,6 +7,8 @@ species-data:
 description: "Information (largely observations) about White Antennae Wasp Moth (Amata nigriceps)"
 ---
 
+White Antennae Wasp Moth (Amata nigriceps) is one of the other-fauna-species.
+
 ## Observations
 
 {{ observations( { "subject": "white-antennae-wasp-moth" } ) }}

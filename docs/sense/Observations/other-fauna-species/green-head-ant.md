@@ -7,6 +7,8 @@ species-data:
 description: "Information (largely observations) about Green-head Ant (Rhytidoponera metallica)"
 ---
 
+Green-head Ant (Rhytidoponera metallica) is one of the other-fauna-species.
+
 ## Observations
 
 {{ observations( { "subject": "green-head-ant" } ) }}
