@@ -403,6 +403,7 @@ def generateBackLinks(bubbles: dict):
         backLinks[file] = {}
 
     for file in bubbles.keys():
+
         # loop thru each file, except those that are excluded
         bubble = bubbles[file]
         if any(re.search(pattern, bubble['filePath']) for pattern in EXCLUDE):
@@ -859,10 +860,16 @@ addOtherLinks(markdownFiles)
 backLinks = generateBackLinks(bubbles)
 
 #print("------ showBacklinks")
-#print(" SPotted dove")
-#print(backLinks['sense/birdwatching/spottedDove.md'].keys())
-#print("--------- pkm")
+#print("plant-life-list")
 #print(backLinks["pkm.md"].keys())
+#print("--------- plant life list")
+#print(backLinks["sense/Observations/plant-life-list.md"].keys())
+#print("--------- bird life list")
+#print(backLinks["sense/Observations/bird-life-list.md"].keys())
+#print("--------- red ash observation")
+#print(backLinks["sense/Observations/plant-observations/redAsh/332976273.md"].keys())
+#input("Press Enter to continue...")
+#print("--------- pkm")
 #input("(Show backlinks) Press Enter to continue...")
 #pprint(backLinks)
 #input("Press Enter to update front matter backlinks...")

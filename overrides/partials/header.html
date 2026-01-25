@@ -43,8 +43,13 @@
       {% include "partials/alternate.html" %}
     {% endif %}
     <a href="#" id="nav-link-search">
-      <label class="md-icon nav-label" for="__search">
+      <label class="md-icon nav-label" for="__search" title="Search Memex" aria-label="Search Memex">
         {% include ".icons/material/magnify.svg" %}
+      </label>
+    </a>
+    <a href="/memex/colophon/graph.html" id="nav-link-graph">
+      <label class="md-icon nav-label" title="View Memex graph" aria-label="View Memex graph">
+        {% include ".icons/material/spider-web.svg" %}
       </label>
     </a>
     {% if config.repo_url %}
