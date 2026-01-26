@@ -15,7 +15,7 @@ After doing some work clearing the [[roundabout]] we discovered a mature macadam
 
 <figure markdown>
 ![A macadamia integrifolia hiding under a curtain of cat's claw creeper and madeira vine](https://djon.es/assets/memex/sense/landscape-garden/plants/./images/macadamia-covered.jpeg)
-<caption>A macadamia integrifolia hiding under a curtain of [[cats-claw-creeper]] and [[madeira-vine]]</caption>
+<caption>A macadamia integrifolia hiding under a curtain of [[dolichandra-unguis-cati]] and [[anredera-cordifolia]]</caption>
 </figure>
 
 ## Resources

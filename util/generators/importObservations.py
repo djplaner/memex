@@ -39,7 +39,44 @@ sys.path.append("/Users/davidjones/memex/util")
 from lib.eBird import importeBird
 from lib.iNaturalist import importiNaturalist
 
+from pprint import pprint
+
+def mergeEBirdAndINatObservations(eBirdBirds, iNatBirds):
+    """
+    Merge eBird and iNaturalist bird observations into a dict keyed on species name
+    with the values
+
+
+    :param eBirdBirds: DataFrame
+        DataFrame containing eBird bird observations
+    :param iNatBirds: DataFrame
+        DataFrame containing iNaturalist bird observations
+    :return: DataFrame
+        DataFrame containing merged bird observations
+    """
+    import pandas as pd
+
+    #-- concatenate the two dataframes
+    birdObservations = pd.concat([eBirdBirds, iNatBirds], ignore_index=True)
+
+    #-- sort by date observed
+    birdObservations = birdObservations.sort_values(by=['date_observed'], ascending=False)
+
+    #-- generate observation markdown files
+    from lib.eBird import generateEBirdObservationMDs
+    from lib.iNaturalist import generateiNatObservationMDs
+
+    generateEBirdObservationMDs(eBirdBirds)
+    generateiNatObservationMDs(iNatBirds)
+
+    return birdObservations
 
 if __name__ == "__main__":
-    importeBird()
-    importiNaturalist()
+    eBirdBirds = importeBird()
+    pprint(eBirdBirds.to_dict(),indent=4)
+    #-- create appropriate observation and species markdown files
+    # return a dataFrame of bird observations from iNaturalist spreadsheet
+    iNatBirds = importiNaturalist()
+
+    birdObservations = mergeEBirdAndINatObservations(eBirdBirds, iNatBirds)
+#    generateBirdLifeList(birdObservations)

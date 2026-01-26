@@ -370,7 +370,7 @@ A dynamically generated gallery of all the photos from the pages associated with
 
 <figure markdown>
 ![A macadamia integrifolia hiding under a curtain of cat's claw creeper and madeira vine](https://djon.es/assets/memex/sense/landscape-garden/plants/./images/macadamia-covered.jpeg){data-title="Macadamia integrifolia (Queensland Nut)" data-description="A macadamia integrifolia hiding under a curtain of cat's claw creeper and madeira vine"}
-<caption>A macadamia integrifolia hiding under a curtain of [[cats-claw-creeper]] and [[madeira-vine]]</caption>
+<caption>A macadamia integrifolia hiding under a curtain of [[dolichandra-unguis-cati]] and [[anredera-cordifolia]]</caption>
 </figure> 
 
 
