@@ -9,8 +9,9 @@ tags:
 
 [Open Graph](https://ogp.me) is a protocol that enables any web page to become a rich object in a social graph. Implement method to create a 
 
-- default open graph set up for the site
-- allow page specific open graph metadata to be added
+- [x] default open graph set up for the site
+- [x] allow page specific open graph metadata to be added
+- [ ] auto-generate custom images (e.g. [dev.to example](https://dev.to/francozanardi/fast-declarative-open-graph-image-generation-in-python-4nd3))
 
 
 ## Open Graph basics

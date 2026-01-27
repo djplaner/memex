@@ -31,6 +31,7 @@ Starting to generate 1st versions of iNaturalist observation files -- will have 
     - individual plant pages
 
 - [[photography]] particularly [[photoclass-2026]]
+- implement dynamic page image for [[open-graph-per-page]]
 
 General work
 

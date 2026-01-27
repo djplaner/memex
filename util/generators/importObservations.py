@@ -78,5 +78,5 @@ if __name__ == "__main__":
     # return a dataFrame of bird observations from iNaturalist spreadsheet
     iNatBirds = importiNaturalist()
 
-    birdObservations = mergeEBirdAndINatObservations(eBirdBirds, iNatBirds)
+#    birdObservations = mergeEBirdAndINatObservations(eBirdBirds, iNatBirds)
 #    generateBirdLifeList(birdObservations)

@@ -66,7 +66,11 @@
 
 
 {% block container %}
+{% if page.meta and page.meta.page_search!=false %}
 <div class="md-content" data-md-component="content" data-pagefind-body>
+{% else %}
+<div class="md-content" data-md-component="content">
+{% endif %}
   <article class="md-content__inner md-typeset">
     {% block content %}
     {% include "partials/content.html" %}
