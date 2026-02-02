@@ -1,7 +1,7 @@
 ---
 title: A matter of perspective (distortion)
 description: A photo story experimenting with perspective by changing focal length and distance to subject.
-type: note
+type: photo-story
 tags:
     - photography
     - photo-stories

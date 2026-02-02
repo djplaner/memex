@@ -36,9 +36,6 @@ What's next depends on the mode
 
 [Canon outside of autoplay](https://www.canon.ca/CanonOutsideOfAuto/play) - interactive tutorial on exposure modes
 
-
-
-
 ### Three key settings: aperture, shutter speed, ISO
 
 Metaphor used to introduce the three concepts
@@ -57,7 +54,7 @@ Metaphor used to introduce the three concepts
 
 2. Change the aperture and notice how the shutter speed changes to maintain exposure.
 
-3. Observe the light meter indicator - it should stay centered if the expsure is balanced.
+3. Observe the light meter indicator - it should stay centered if the exposure is balanced.
 
 
 #### Full manual mode
@@ -68,27 +65,133 @@ Metaphor used to introduce the three concepts
 
 3. Check how the light meter changes as you adjust settings.
 
-3. take a correctly exposed shot
+4. take a correctly exposed shot
 
-4. Initially take an underexposed shot
+5. Initially take an underexposed shot
 
-5. Then take an overexposed shot
+6. Then take an overexposed shot
 
-6. How does the light meter reflect these changes?
-
-
-
+7. How does the light meter reflect these changes?
 
 
 ## Histogram
 
+Moving on from what is exposure and how to change exposure settings, to how to evaluate exposure using the histogram.
+
+Histogram 
+
+- provides a more consistent reference for evaluating exposure than the camera LCD (which is influenced by ambient light, screen brightness etc.)
+- is based on the JPEG preview, not the RAW data
+- a graphical representation of the shadows and light appearing in the image.
+- Numerous continuous plots representing different parts of the light peaking along different parts of the X axis based on the proportion of the image
+- Shadows to the left, highlights to the right.
+- An 'ideal' histogram often resembles a bell curve spread across the entire width with nothing beyond the edges.
+
+### Understanding histogram adjustments
+
+- Increasing exposure shifts the histogram to the right, decreasing exposure shifts it to the left.
+
+### What about colour?
+
+- Histogram provides color data divided into three channels: Red, Green, and Blue.
+
+### The "Expose to the Right" (ETTR) technique
+
+- Digital cameras capture more detail in highlights than in shadows.
+- Some photographers use ETTR because of this - by pushing the histogram to the right without clipping highlights, they aim to maximize detail in the image.
 
 ## Exposure Triangle
 
+The ratio between: aperture, shutter speed, and ISO.
+
+A new definition for these
+
+| Concept | Definition |
+| ---------|------------|
+| ISO | Amplification to the sensor\nHigher ISO useful in darker scenes, lower ISO good for brighter scenes\nFixed feature of camera film, but adjustable in digital cameras |    
+| Shutter speed | How long the sensor is exposed to light\nLonger it is open, the more light is recorded |
+| Aperture | Size of the opening of the lens\nWide aperture (small number) allows more light in\nALso an important aspect in depth of field |
+
+!!! Note "Depth of field"
+
+    Depth of field is the range of distances of a photograph that appear in focus. Wider aperture create a shallow depth of field, often giving blurred backgrounds. Smaller apertures keep more of the scene in focus.
+
 ## Aperture
 
+Measured in __f-stops__ aka __f-numbers__. Representing a ratio between the focal length of the lens and the diameter of the aperture opening.
 
-## Depth of field
+F-stops represent fractions.  Hence f/2.8 is a larger aperture than f/16.
+
+!!! question "Is the __f__ in f/2.8 short for 'focal length'?"
+
+    Appears so, but it's not explicitly mentioned in the course material. That would make it much more obvious. Would also imply that if you change the focal length the actual diameter of the aperture changes to maintain the same f-number.
+
+### Depth of field
+
+Range of distances within a scene that appear acceptably sharp in an image.
+
+Wider aperture (smaller f-number) gives a shallow depth of field - isolating the subject from foreground and background. Creating a pronounced blur in out-of-focus areas.
+
+Narrower aperture (larger f-number) increases depth of field - keeping more of the scene in focus from foreground to background.
+
+Other factors affecting depth of field
+
+- distances between camera, subject, and background
+- focal length of the lens
+
+### Diffraction
+
+- Diffraction is the bending and spreading of light waves as they pass through the aperture of a lens
+- More noticeable at smaller apertures (high f-numbers)
+- As the aperture decreases, light spreads out after passing through, rather than traveling in straight paths
+- Eventually diffraction can reduce overall sharpness of the image
+
+
+!!! note "Depth of field/sharpness trade-off"
+
+    Important where detail matters: landscape work, macro photography or using high-resolution sensors.  As the depth of field increases (smaller aperture), diffraction may reduce sharpness.  Finding a balance between depth of field and sharpness is key.
+
+    Can be lens dependent.
+
+### Advanced aperture techniques
+
+Bokeh shapes 
+
+- custom shapes are made in black paper/cardboard that are placed over the lens
+- wide aperture used to create shallow depth of field and introduce blurred light
+- light sources in the background take on the shape of the cutout
+
+Bokeh panorama (Brenizer method)
+
+- uses a wide aperture lens to create a shallow depth of field
+- multiple overlapping images are taken while panning the camera
+- stitched together in post-processing to create a high-resolution image with a shallow depth of field
+
+Focus stacking
+
+- multiple images taken at different focus distances
+- combined in post-processing to create an image with a greater depth of field than any single shot
+- useful in macro photography or where subject is very close to the camera
+
+## Depth of Field
+
+Shallow depth of field main reason is to focus on the subject, bluring out background/foreground. e.g. portraits
+
+Achieved with wide aperture (small f-number), longer focal length, and close subject distance.
+
+### Deep depth of field
+
+An image where a large portion of the scene appears in sharp focus.
+
+### Bokeh
+
+The aesthetic quality of the out-of-focus areas in a photograph. How the blur looks, not how much blur there is.
+
+Common characteristics of good bokeh
+
+- Smooth and creamy - without hard edges
+- Pleasant shapes - often circular or hexagonal depending on lens aperture blades
+- background separation - helps the subject stand out
 
 ## Shutter speed
 
@@ -106,19 +209,8 @@ Select your strongest work, and reflect on the process
 
 ### Step 1: Capture images with different outcomes
 
-Capture the following to demonstrate the effect of aperture and shutter speed.
+Capture 6 different images to demonstrate the effect of aperture and shutter speed - see [[exposure-triangle-scavenger-hunt]]
 
--   **Portrait with bokeh:** Use a wide aperture and place your subject far from the background to create a shallow depth of field and blurred background.
-
--   **Landscape with deep focus:** Use a small aperture to keep most or all layers of the scene in sharp focus. 
-
--   **Frozen action:** Use a fast shutter speed to stop motion. Examples include: jumping, sports, moving vehicles, or fast-moving water.
-
--   **Light trails:** Use a slow shutter speed to record moving lights at night. 
-
--   **Smooth water:** Use a slow shutter speed to blur the motion of water in a fountain, river, sink, waterfall, etc.
-
--   **Intentional motion blur:** Use a slow shutter speed to blur movement creatively. For example, panning a moving subject, or capturing the energy of a busy scene.
 
 ### Step 2: Analyse exposure trade-offs
 
@@ -147,3 +239,7 @@ Choose **5 final images** that demonstrate a range of exposure effects. Includ
 -   Which settings were most challenging
 
 -   What type of feedback you want, such as technical, compositional, or narrative
+
+[//begin]: # "Autogenerated link references for markdown compatibility"
+[exposure-triangle-scavenger-hunt]: ../photo-story/exposure-triangle-scavenger-hunt "Exposure Triangle Scavenger Hunt"
+[//end]: # "Autogenerated link references"

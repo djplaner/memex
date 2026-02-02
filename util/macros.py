@@ -15,7 +15,7 @@ import sys
 sys.path.append("/Users/davidjones/memex/util")
 
 # import the eBird utility functions
-from lib.observations import displayObservationsIndex, displayObservations, filterObservations
+from lib.observations import displayObservationsIndex, displayObservations, filterObservations, generateObservationDescription
 
 from corpus import corpus
 bubbles = corpus()
@@ -452,11 +452,34 @@ def define_env(env):
         """
 
         observations = filterObservations( bubbles, params )
-        numObservations = len(observations)
-#        pprint(params,indent=4)
-#        print(f"Total filtered observations: {numObservations}")
-#        input("Press Enter to continue...")
-
-
+#        numObservations = len(observations)
 
         return displayObservations( observations, params )
+
+    @env.macro 
+    def observationDescription( param : dict ):
+        """
+        Given params that specify the id for an observation, display a relevant description of that observation.
+        
+        If more than one or no matching observation, then return an error message.
+
+        Example usage:
+
+        ` {{ observationDescription( { id: '<id>' } ) }} `
+        """
+
+#        pprint(param, indent = 4)
+#        input("observationDescription: Press Enter to continue...")
+        if 'id' not in param:
+            return("observationDescription: 'id' parameter is required.")
+
+        observation = filterObservations( bubbles, { 'id': param.get('id', '') } )
+
+#        input(f"observationDescription: observation filter returned {len(observation)} results for id '{param.get('id', '')}'.")
+
+        if len(observation) == 0:
+            return(f"observationDescription: No observation found with id '{param.get('id', '')}'.")
+        elif len(observation) > 1:
+            return(f"observationDescription: Multiple observations found with id '{param.get('id', '')}'.")
+
+        return generateObservationDescription(observation)

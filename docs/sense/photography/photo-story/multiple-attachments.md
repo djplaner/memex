@@ -1,7 +1,7 @@
 ---
 title: Multiple attachments
 description: A photo story revealing multiple attachments through changes in focal length.
-type: note
+type: photo-story
 tags:
     - photography
     - photo-stories
