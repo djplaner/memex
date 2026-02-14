@@ -16,17 +16,41 @@ Photo story arising from [[photoclass-photography-basics|Unit 2 - Photography Ba
 
 Use a wide aperture and place your subject far from the background to create a shallow depth of field and blurred background.
 
+Method
+
+- Find interesting subject in front of a busy background
+- __A__perture mode 
+- Vary aperture
+
 ### Landscape with deep focus
 
 Use a small aperture to keep most or all layers of the scene in sharp focus. 
+
+Method
+
+- Find interesting landscape scene with foreground, middle ground, background elements
+- __A__perture mode
+- Vary aperture to bigger numbers
 
 ### Frozen action
 
 Use a fast shutter speed to stop motion. Examples include: jumping, sports, moving vehicles, or fast-moving water.
 
+Method
+
+- Find interesting subject with motion
+- __S__hutter priority mode
+- Vary shutter speed to faster speeds
+
 ### Light trails
 
 Use a slow shutter speed to record moving lights at night. 
+
+Method
+
+- Find interesting scene with moving lights at night (e.g., cars on road)
+- __S__hutter priority mode
+- Vary shutter speed to slower speeds
 
 ### Smooth water
 

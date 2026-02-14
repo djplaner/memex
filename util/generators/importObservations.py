@@ -35,11 +35,29 @@ Output:
 
 import sys
 sys.path.append("/Users/davidjones/memex/util")
+from pathlib import Path
+from pprint import pprint
 
 from lib.eBird import importeBird
 from lib.iNaturalist import importiNaturalist
+from lib.observations import filterObservations, displayObservationsIndex
+from corpus import corpus
 
-from pprint import pprint
+HOME_FOLDER="/Users/davidjones"
+LIFE_LIST_DETAILS = {
+    'plant': {
+        'path': Path(f"{HOME_FOLDER}/memex/docs/sense/Observations/plant-life-list.md"),
+        'title': "Plant life list"
+    },
+    'bird': {
+        'path': Path(f"{HOME_FOLDER}/memex/docs/sense/Observations/bird-life-list.md"),
+        'title': "Bird life list"
+    },
+    'other-fauna': {
+        'path': Path(f"{HOME_FOLDER}/memex/docs/sense/Observations/other-fauna-life-list.md"),
+        'title': "Other-Fauna life list"
+    }
+}
 
 def mergeEBirdAndINatObservations(eBirdBirds, iNatBirds):
     """
@@ -71,12 +89,55 @@ def mergeEBirdAndINatObservations(eBirdBirds, iNatBirds):
 
     return birdObservations
 
-if __name__ == "__main__":
-    eBirdBirds = importeBird()
-    pprint(eBirdBirds.to_dict(),indent=4)
-    #-- create appropriate observation and species markdown files
-    # return a dataFrame of bird observations from iNaturalist spreadsheet
-    iNatBirds = importiNaturalist()
+def generateLifeLists():
+    """
+    Generate the life lists for all of the LIFE_LIST_PATHS by extract all the observations for
+    each species type from the markdown files (bubbles)
+    """
 
-#    birdObservations = mergeEBirdAndINatObservations(eBirdBirds, iNatBirds)
+    #-- get all the memex bubbles
+    bubbles = corpus()
+
+    #-- generate life lists for each species type
+    for species in LIFE_LIST_DETAILS.keys():
+        ##-- generate markdown for life list for <species>
+        observations = filterObservations( bubbles, { "observation-type": species } )
+        lifeListMarkdown = displayObservationsIndex( observations, { 'observation-type': species} )
+
+        print(lifeListMarkdown)
+        print()
+        print(f"Found bubble for {LIFE_LIST_DETAILS[species]['title']}")
+        input("Press enter to continue...")
+
+        ##-- update the life list file by replace the life list markdown
+        lifeListBubble = bubbles.get_bubbles_by_frontmatter( { "title": LIFE_LIST_DETAILS[species]['title'] } )
+        if len(lifeListBubble) == 0:
+            print(f"No bubble found for {LIFE_LIST_DETAILS[species]['title']}")
+            continue
+        pprint(lifeListBubble[0],indent=4)
+        #-- need to update the life list markdown in lifeListBubble[0] with lifeListMarkdown
+
+        #-- save the updated lifeListBubble[0]
+        bubbles.saveBubble( lifeListBubble[0] )
+
+        #-- need to add linkdefs (probably - without removing existing)
+        # linkDefs are stored in the bubble's dictionary's linkDefs key. It's a dict keyed on
+        # the full path  - going to be hard to update
+
+if __name__ == "__main__":
+
+    ## import and generate individual observation files from eBird and iNaturalist
+    eBirdObs = importeBird()
+    iNatObs = importiNaturalist()
+
+#    generateLifeLists()
+    
+
+
+        #-- based on params, call a different view
+
+        
+
+    ## combine eBirdObs and iNatObs
+#    observations = mergeObservations( { "ebird": eBirdObs, "inat": iNatObs })
 #    generateBirdLifeList(birdObservations)
