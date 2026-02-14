@@ -2,7 +2,7 @@
 title: "Weeding the (southern) dam bank"
 type: work-history
 region: the-dam
-date: 02-14-2026
+date: 14-02-2026
 ---
 
 The southern bank of [[the-dam]] was in need of some weeding (lots of [[338485210|Tropical horseweed]]) up to and including a bit more chainsaw surgery and remnant [[schinus-terebinthifolia]] trees. The following photo provides some idea of the extent.
