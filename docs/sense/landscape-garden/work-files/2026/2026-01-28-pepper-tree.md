@@ -15,7 +15,7 @@ Removing four clumps of [[schinus-terebinthifolia]] (Brazilian pepper tree) from
 Whilst removing them there were also misc. other nasties to remove, including: [[asparagus-africanus]], [[ochna-serrulata]], [[solanum-seaforthianum]] and others.
 
 <figure markdown>
-![Much more open with the removal of the Brazilian Pepper trees](https://djon.es/assets/memex/sense/landscape-garden/work-history/2026/pepper-tree-removed.jpeg)
+![Much more open with the removal of the Brazilian Pepper trees](https://djon.es/assets/memex/sense/landscape-garden/work-history/2026/pepper-tree-gatton-after.jpeg)
 <caption>Much more open with the removal of the Brazilian Pepper trees</caption>
 </figure>
 
