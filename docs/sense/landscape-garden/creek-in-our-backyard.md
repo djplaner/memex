@@ -1,21 +1,28 @@
-﻿---
+---
+title: The creek in our backyard
 tags:
-- landscape
-- creek
-- restoration
-- regeneration
-title: Creek restoration
+    - riparian
 type: note
 ---
-Initially a set of notes taken from Whyte (2013), perhaps eventually some plans for restoration of the relevant portions of the [[gatton-creek-frontage]] and [[rocky-creek-frontage]]
+
+A set of notes taken from Whyte (2013), perhaps eventually some plans for restoration of the relevant portions of the [[gatton-creek-frontage]] and [[rocky-creek-frontage]]. Whyte (2013) is an short, accessible tome on restoration of creeks in SE Qld.
 
 > a creek is freshwater flowing from high to low along the paths of least resistance. (Whyte, 2013, p. 11)
 
 ## Method
 
+Inspect to identify existing native species, existing weeds, and erosion issues.
+
 1. Remove the invaders
+
+  - Avoid bare earth
+
 2. Repair the structural damage
 3. Replant with original vegetation of hardy, locally-native species
+
+  Aim being to stabilise ground, prevent erosion and create shade. Pioneer plants quickly establish shade but need protection from flood tolerant rushes, reeds, sedges and few trees that can handle floods.
+
+
 
 ## Plants
 
@@ -68,6 +75,41 @@ Trees
 
 ## Creek zones
 
+<figure markdown>
+![Diagram outlining 6 creek zones](https://djon.es/assets/memex/sense/landscape-garden/images/creek-zones.png)
+<caption>Identifying creek zones (Whyte, 2013, p. 11)</caption>
+</figure>
+
+### Stream bed zone
+
+No plants
+
+### Waterx edge 
+
+Suggestions - rushes, reeds, and sedges (Lomandra, Carex and Gahnia)
+
+- Crinum pedunculatum (Brisbane Lily)
+- Cyperus exaltatus (Exalted Sedge)
+
+### Creek bank
+
+Start with densely planted 'control' species: hardy grasses, sedges and matrushes. Eventually smaller rainforest trees.
+
+- control species
+  - Lomandra hystrix (Green matrush)
+  - Cyperus exaltatus (Giant sedge)
+
+
+- Trees
+  - Syzgium floribundum (aka Waterhousea) - "perhaps the best of all"
+  - Castanospermum australe (Black bean)
+  - Glochidion ferdinandi (Cheese tree)
+  - Melaleuca viminalis (Creek bottlebrush)
+  - Eupomatia laurina (Bolwarra)
+  - Casuarina cunninghamiana (River she oak)
+  - Ficus - sandpaper and stranglers
+
+
 ### Buffer zone
 
 ### Upper bank zone
@@ -76,14 +118,7 @@ Trees
 
 ### Sand bar zone
 
-### Water edge zone
 
-### Stream bed zone
-
-<figure markdown>
-![Diagram outlining 6 creek zones](https://djon.es/assets/memex/sense/landscape-garden/images/creek-zones.png)
-<caption>Identifying creek zones (Whyte, 2013, p. 11)</caption>
-</figure>
 
 ## Notes
 

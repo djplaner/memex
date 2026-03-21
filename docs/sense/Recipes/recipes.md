@@ -43,6 +43,10 @@ Other baking recipes
 - [[Chicken-spuds-carrots-honey-garlic]]
 - [[thai-red-curry-chicken-pieces]]
 
+## Mexican
+
+- [[chilli-spice-mix]]
+
 ## Pasta
 
 - [[nats-bolognaise]]
@@ -67,6 +71,7 @@ Other baking recipes
 [indian-spiced-frittata]: indian-spiced-frittata "Indian Spiced Frittata"
 [Chicken-spuds-carrots-honey-garlic]: chicken-spuds-carrots-honey-garlic "Chicken-spuds-carrots-honey-garlic"
 [thai-red-curry-chicken-pieces]: thai-red-curry-chicken-pieces "Thai red curry chicken pieces"
+[chilli-spice-mix]: chilli-spice-mix "Chilli spice mix"
 [nats-bolognaise]: nats-bolognaise "Nat's What I Reckon - bolagnaise"
 [baked-ziti]: baked-ziti "Baked Ziti"
 [blue-cheese-sauce]: blue-cheese-sauce "Blue cheese sauce"
