@@ -11,7 +11,7 @@ title: Recipes
 2024 onwards regular cycle, via RecipeTinEats
 
 - [Soft easy chocolate chip cookies](https://www.recipetineats.com/chocolate-chip-cookies/#wprm-recipe-container-21670)
-- [[double-choc-chip-cookies]]] - adapted from the above recipe
+- [[double-choc-chip-cookies]] - adapted from the above recipe
 - [ANZAC biscuits](https://www.recipetineats.com/anzac-biscuits-golden-oatmeal-cookies/#wprm-recipe-container-26375)
 - [Easy chocolate brownies](https://www.recipetineats.com/easy-chocolate-brownies/#wprm-recipe-container-24736)
 

@@ -43,6 +43,12 @@ Land types ([Lockyer Valley](https://www.hlw.org.au/resources/downloads/seq-land
 
     More on mid to upper slopes of rolling and steep hills. Hoop pine, crow's ash. Some soils are shallow dark, clay loams, but typically friable well drained loamy soils that are brown, yellowish/reddish brown
 
+## Related government data sources
+
+- [Lockyer Valley Flood Information](https://floodinformationportal.lvrc.qld.gov.au/flood/)
+
+    Suggests the 2011 flood came up fairly high - covering some of the road in.
+
 ## Zones
 
 To aid discussion and planning we're slowly dividing the property into the different zones list in the following table.
