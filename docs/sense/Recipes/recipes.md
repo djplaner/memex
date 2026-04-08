@@ -43,9 +43,10 @@ Other baking recipes
 - [[Chicken-spuds-carrots-honey-garlic]]
 - [[thai-red-curry-chicken-pieces]]
 
-## Mexican
+## Mexican etc
 
 - [[chilli-spice-mix]]
+- [[buffalo-wings]]
 
 ## Pasta
 
@@ -72,6 +73,7 @@ Other baking recipes
 [Chicken-spuds-carrots-honey-garlic]: chicken-spuds-carrots-honey-garlic "Chicken-spuds-carrots-honey-garlic"
 [thai-red-curry-chicken-pieces]: thai-red-curry-chicken-pieces "Thai red curry chicken pieces"
 [chilli-spice-mix]: chilli-spice-mix "Chilli spice mix"
+[buffalo-wings]: buffalo-wings "Buffalo Wings"
 [nats-bolognaise]: nats-bolognaise "Nat's What I Reckon - bolagnaise"
 [baked-ziti]: baked-ziti "Baked Ziti"
 [blue-cheese-sauce]: blue-cheese-sauce "Blue cheese sauce"
