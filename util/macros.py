@@ -106,7 +106,7 @@ def getWorkHistory(region=""):
                     if dateStr:
                         date = datetime.datetime.strptime(dateStr, "%d-%m-%Y")
                         ## dateStr == "<date> <Month> <Year>"
-                        dateStr = f"**{date.strftime("%d %B %Y")}** - "
+                        dateStr = f'**{date.strftime("%d %B %Y")}** - '
 
                 content += f"{dateStr}{title}\n\n"
                 ## - show content
