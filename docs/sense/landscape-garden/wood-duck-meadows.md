@@ -33,7 +33,11 @@ The [[house]] is also undergoing a regeneration to be more appropriate to the ch
 
 ## Position
 
-The property is located in western side of the Lockyer Valley, Queensland. In the region of Postman's Ridge. The [Lockyer Valley Catchment Story](https://wetlandinfo.detsi.qld.gov.au/wetlands/ecology/processes-systems/water/catchment-stories/lockyer/) has more to say about the broader Lockyer Valley. Our block has a regional ecosystem designation of [12.3.7 Eucalyptus tereticornis (Blue Gum) fringing forests](https://apps.des.qld.gov.au/regional-ecosystems/details/?re=12.3.7) and [12.3.3 Blue Gum woodlands on alluvial flats](https://apps.des.qld.gov.au/regional-ecosystems/details/?re=12.3.3). The latter of which is classed as _endangered_.
+The property is located in western side of the Lockyer Valley, Queensland. In the region of Postman's Ridge. The [Lockyer Valley Catchment Story](https://wetlandinfo.detsi.qld.gov.au/wetlands/ecology/processes-systems/water/catchment-stories/lockyer/) has more to say about the broader Lockyer Valley, includes the finding that our block is split between the Gatton Creek and Lockyer Creek catchments.
+
+Our block has a regional ecosystem designation of [12.3.7 Eucalyptus tereticornis (Blue Gum) fringing forests](https://apps.des.qld.gov.au/regional-ecosystems/details/?re=12.3.7) and [12.3.3 Blue Gum woodlands on alluvial flats](https://apps.des.qld.gov.au/regional-ecosystems/details/?re=12.3.3). The latter of which is classed as _endangered_. The local council provides advice on planting lists and revegetation for [12.3.3](https://www.lockyervalley.qld.gov.au/repository/libraries/id:2eccbxg5l17q9su8pzhy/hierarchy/our-services/strategic-planning/documents/planning-studies/Revegetation%20Species%20List%20for%20Regional%20Ecosystem%2012.3.3.pdf) and [12.3.7](https://www.lockyervalley.qld.gov.au/repository/libraries/id:2eccbxg5l17q9su8pzhy/hierarchy/our-services/strategic-planning/documents/planning-studies/Revegetation%20Species%20List%20for%20Regional%20Ecosystem%2012.3.7.pdf)
+
+
 
 
 Land types ([Lockyer Valley](https://www.hlw.org.au/resources/downloads/seq-land-types/223-land-type-booklet-lockyer-catchment/file)):

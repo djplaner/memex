@@ -24,6 +24,7 @@ Sources that have influenced my thinking, include:
 - [AI and Software Quality](https://softwarecrisis.dev/letters/ai-and-software-quality/)
 - [Ayyyyy Eyeeeee](https://doctorow.medium.com/ayyyyyy-eyeeeee-4ac92fa2eed) - from Cory Doctorow that uses prior tech experience ([criti-hype](https://sts-news.medium.com/youre-doing-it-wrong-notes-on-criticism-and-technology-hype-18b08b4307e5)) and current LLM happenings to explore how they'll be used for [enshittification](https://pluralistic.net/2023/01/21/potemkin-ai/#hey-guys) to argue the idea that rather than posing an existential risk, LLMs "a product of limited utility that has been shoehorned into high-stakes applicaions that it is unsuited to perform"
 - [[the-algorithm-everyone-thinks-they-understand]] - summary of and thinking sparked by a post from Chris Bigum
+- [Brain rot, AI slop and the work of thinking](https://davewebster.org/2026/05/12/brain-rot-ai-slop-and-the-work-of-thinking/) - well written/though out piece suggesting education needs to focus more on developing an appetite for thinking, rather than detection etc lazy responses.
 
 ## About LLMs
 

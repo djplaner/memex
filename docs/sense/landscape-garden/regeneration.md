@@ -17,20 +17,7 @@ An early part of the work was volunteering with the [Friends of Escarpment Parks
 
 ### Our context
 
-[[wood-duck-meadows]] is located within the Lockyer Valley. There are a number of [regionally appropriate habitat types](https://www.qld.gov.au/environment/plants-animals/habitats/habitat) that we may be looking to regenerate/develop, including
-
-- [Eucalypt woodlands](https://www.qld.gov.au/environment/plants-animals/habitats/habitat/eucalypt-woodlands), 
-
-    The [[gatton-creek-frontage]] zone is almost a Eucalypt woodland now. Given its size, [[the-circle]] zone might be a candidate for this habitat type. 
-
-- [Brigalow scrub](https://www.qld.gov.au/environment/plants-animals/habitats/habitat/brigalow), and 
-
-    The [[brigalow-scrub]] zone is a small but well established example. We're unlikely to significantly expand this habitat type, but we definitely wish to retain and strengthen its.
-
-- [dry rainforest](https://www.qld.gov.au/environment/plants-animals/habitats/habitat/dry-rainforest) and [semi-evergreen vine thickets (aka dry rainforest)](https://apps.des.qld.gov.au/regional-ecosystems/details/?re=12.8.21).
-
-    There are dry rainforest trees spread across the property, including: [[araucaria-bidwillii]], hoop pines; [[macadamia]] trees; [[harpullia-pendula]] (Tulipwoods); numerous fig trees of different species (e.g. [[unknown-ficus]]); and, some [[brachychiton-rupestris]]].
-
+See the _position_ section of [[wood-duck-meadows]]
 
 ## Levels of thinking about bush regeneration
 
@@ -99,14 +86,6 @@ Organisations
 [permaculture-principles]: permaculture-principles "Permaculture Principles"
 [mango-nam-doc-mai]: individual-plants/mango-nam-doc-mai "Mango (Nam Doc Mai) - mango paddock"
 [loquat-lower-dam]: individual-plants/loquat-lower-dam "Loquat on the lower dam"
-[gatton-creek-frontage]: gatton-creek-frontage "Gatton creek frontage"
-[the-circle]: the-circle "The Circle"
-[brigalow-scrub]: brigalow-scrub "Brigalow scrub"
-[araucaria-bidwillii]: plants/araucaria-bidwillii "Bunya Pine"
-[macadamia]: plants/macadamia "Macadamia"
-[harpullia-pendula]: plants/harpullia-pendula "Harpullia Pendula (Moreton Bay Tulipwood)"
-[unknown-ficus]: individual-plants/unknown-ficus "Unknown ficus"
-[brachychiton-rupestris]: plants/brachychiton-rupestris "Brachychiton rupestris (Queensland Bottle Tree)"
 [nature-markets]: nature-markets "Nature markets"
 [regeneration-strategies|Strategies]: strategies/regeneration-strategies "Regeneration strategies"
 [improving-soil]: strategies/improving-soil "Improving soil"
