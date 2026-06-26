@@ -6,6 +6,7 @@ type: note
 
 Early explorations informing a plan to visit India in late January/early February 2027, in part aligned with the Australian mens Test tour of India.
 
+- [[india-itinerary]]
 
 ## Planning
 
@@ -146,10 +147,11 @@ Jaisalmer to Jaipur
 
 Accommodation
 
-[Jaipur Haveli](https://jaipurhaveli.com) - probably sold out, $R12,500 ~ $180 1 night
-     Transfers from Jaisamler
+- [Jaipur Haveli](https://jaipurhaveli.com) - probably sold out, $R12,500 ~ $180 1 night
+- [The Bagheera Farms](https://thebagheerafarms.com)
 
 
+- [Tuk tuk tour Jaipur](https://www.tripadvisor.com/AttractionProductReview-g304555-d13391321-Private_Full_Day_Jaipur_Sightseeing_Tour_By_Tuk_Tuk-Jaipur_Jaipur_District_Rajasth.html)
 
 Travel
 
@@ -166,6 +168,27 @@ Accommodation
 - [Greens Suite](https://www.makemytrip.com/hotels/hotel-details/?hotelId=202103121416492652&_uCurrency=INR&checkin=06102026&checkout=06112026&city=CTMAA&country=IN&lat=13.08138&lng=80.27021&locusId=CTMAA&locusType=city&rank=1&regionNearByExp=3&roomStayQualifier=2e0e&rsc=1e2eundefinede&searchText=Greens+Suite+-+Business+Class+Hotel&topHtlId=202103121416492652&mtkeys=-3244572476892395029&isPropSearch=T)
 
   Cheaper place near train station. For a one nighter.
+
+- [Radisson Blu Resort](https://www.radissonhotels.com/en-us/hotels/radisson-blu-resort-mamallapuram-temple-bay)
+
+- [Apartment airbnb](https://www.airbnb.com.au/rooms/1636658340932174697?check_in=2027-01-28&check_out=2027-01-31&location=chennai&search_mode=regular_search&source_impression_id=p3_1782013940_P3JASH0WG_u4Zw8q&previous_page_section_name=1001&federated_search_id=de0710f0-ec3a-4462-8d2b-9fc9edbf246a&scroll_to_review=1702078010696112374&review_page_entrypoint=show_more)
+
+  $398 for 5 nights
+
+- [Treebo hotel](https://www.treebo.com/hotels-in-chennai/treebo-premium-taara-thousand-lights-4276/?checkin=2027-01-27&checkout=2027-01-31&city=Chennai&hotel_id=4276&landmark=&locality=Thousand%20Lights&q=Treebo%20Premium%20Taara%20Thousand%20Lights%2C%20Chennai&rateplan=de22f242f67c442c949fde761e7900ed&roomconfig=2-0&roomtype=maple)
+
+  $190 for 5 nights
+
+- [Heritage 2bdr place - near cricket and Marina beach](https://www.airbnb.com.au/rooms/1583627872714822190?check_in=2027-01-28&location=chennai&search_mode=regular_search&source_impression_id=p3_1782014616_P3MrlIM9FqOsXQM8&previous_page_section_name=1001&federated_search_id=28b3da00-579c-46c8-aab6-ad0b7fc06ac7&review_page_entrypoint=show_all&guests=2&adults=2&check_out=2027-02-02)
+
+  $393 for 5 nights
+
+
+
+Things to do
+
+- [private tour of Mahabalipuram](https://www.tripadvisor.com.au/AttractionProductReview-g304556-d11989824-Mahabalipuram_tour_by_Tourism_Ministry_approved_company-Chennai_Madras_Chennai_Dis.html)
+- [private tour of Mahabalipuram and Pondicherry](https://www.tripadvisor.com.au/AttractionProductReview-g304556-d19494654-Mahabalipuram_Pondicherry_one_day_trip_from_Chennai_with_Lunch-Chennai_Madras_Chen.html)
 
 ### Ooty (hill station)
 
@@ -185,6 +208,10 @@ Possible tour packages
 
     Flights to near ooty with transfers. - $1200 total
 
+  Getting around
+
+  - [taxi/tour company in Ooty](https://www.bestootytravels.com/tariff.html)
+
 Accommodation
 
 - [Hotel Savoy](https://www.seleqtionshotels.com/en-in/hotels/savoy-ooty) $500 a night
@@ -194,6 +221,15 @@ Accommodation
 
     Looks like the one.
   - [BnB outside Coonor](https://www.airbnb.com.au/rooms/974645034426647072?adults=2&check_in=2027-01-23&check_out=2027-01-25&search_mode=regular_search&source_impression_id=p3_1781064270_P3e1LZBHFXqcrGMY&previous_page_section_name=1000&federated_search_id=06421cc2-9cb5-4363-b8fa-0c2e4ed45f29&scroll_to_review=1696952615278573014&review_page_entrypoint=show_more) - probably too far out
+
+    Not available 
+
+### Other Tamil Nadu
+
+Beach resorts
+
+
+
 
 ### Cricket
 
