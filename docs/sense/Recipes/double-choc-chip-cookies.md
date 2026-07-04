@@ -12,13 +12,13 @@ I found RecipeTinEats' cookies could be a bit too soft. Replacing some of the fl
 
 ## Ingredients
 
-- 1.25 cups plain flour
-- 0.5 cup of cocoa powder
+- 265  plain flour
+  - replace 30 grams of cocoa powder for double choc chip
 - 1 tsp baking soda 
 - pinch of salt
 - 175g unsalted butter
-- 0.5 cup brown sugar
-- 0.5 cup white sugar
+- 110 g brown sugar
+- 110 g white sugar
 - 1 egg
 - 1 egg yolk 
 - 2 tsp vanilla extract
@@ -30,7 +30,7 @@ I found RecipeTinEats' cookies could be a bit too soft. Replacing some of the fl
 
     Possibly sieve the flour/cocoa.
 
-2. Melt the butter in the microwave using 25 sec intervals.
+2. Melt the butter in the microwave around 40 sec for butter from fridge.
 3. Whisk to finish melting the butter
 4. Add the butter to the combined sugars and whisk/stir well (at least 15 secs)
 5. Add egg, egg yolk and vanilla to the butter/sugar and whisk.
