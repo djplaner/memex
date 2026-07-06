@@ -13,7 +13,7 @@ title: Recipes
 - [Soft easy chocolate chip cookies](https://www.recipetineats.com/chocolate-chip-cookies/#wprm-recipe-container-21670)
 - [[double-choc-chip-cookies]] - adapted from the above recipe
 - [ANZAC biscuits](https://www.recipetineats.com/anzac-biscuits-golden-oatmeal-cookies/#wprm-recipe-container-26375)
-- [Easy chocolate brownies](https://www.recipetineats.com/easy-chocolate-brownies/#wprm-recipe-container-24736)
+- [[easy-chocolate-brownies]]
 
 Other baking recipes
 
@@ -63,6 +63,7 @@ Other baking recipes
 [ginger-nuts]: ginger-nuts "Ginger Nuts"
 [anzac-biscuits]: anzac-biscuits "Anzac Biscuits"
 [double-choc-chip-cookies]: double-choc-chip-cookies "Double choc chip cookies"
+[easy-chocolate-brownies]: easy-chocolate-brownies "Easy chocolate brownies"
 [gloria-hyatts-scone-recipe]: gloria-hyatts-scone-recipe "Gloria Hyatt’s scone recipe"
 [lamb-massaman-curry]: lamb-massaman-curry "Massaman Lamb Curry"
 [stir-fried-pork-fillets]: stir-fried-pork-fillets "Kylie Kwong's Stir-Fried Pork Fillets"
