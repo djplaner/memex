@@ -21,6 +21,11 @@ Fed by road runoff the dam surrounds [[the-island]] and (occasionally) provides 
 <caption>Location of the dam to the south of the house</caption>
 </figure>
 
+## Resources
+
+- [Enhancing farm dams guide](https://www.sustainablefarms.org.au/wp-content/uploads/2023/05/Enhancing-Farm-Dams-guide.pdf) 
+- [Farm dams technical guide](https://www.sustainablefarms.org.au/docs/kb/farm-dams-technical-guide/farm-dams/)
+
 ## Seasonal levels
 
 The dam is seasonal and fed largely by road runoff. At times it can be dry for extended periods. At other times it can be full and overflow into the neighbour's place making for one large dam.

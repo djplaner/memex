@@ -9,7 +9,11 @@ type: plant
 ---
 [Leucaena leucocephala](https://en.wikipedia.org/wiki/Leucaena_leucocephala) (aka Leucaena) is a fast-growing tree native to Central America. Introduced to Australia as a fodder tree which unless heavily grazed can spread rapidly.
 
-Resources: [Leucaena leucocephala](https://en.wikipedia.org/wiki/Leucaena_leucocephala), [How to grow etc](https://www.microfarmguide.com/leucaena-leucocephala/) 
+Resources: 
+
+- [Leucaena](https://www.publications.qld.gov.au/ckan-publications-attachments-prod/resources/d721eec9-53f5-4898-9dd6-1a0e33e25c70/leucaena.pdf?ETag=3dc4e9e4d897fcf4b5aaeb810e979a39) - Queensland government handout
+- [Leucaena leucocephala](https://en.wikipedia.org/wiki/Leucaena_leucocephala), [How to grow etc](https://www.microfarmguide.com/leucaena-leucocephala/) 
+
 
 ## Wood duck meadows
 

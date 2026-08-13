@@ -89,7 +89,7 @@ List of projects/tools to help with various forms of measurement of what we're d
 
 [Healthy Land & Water](https://www.hlw.org.au/region/about/natural-assets/nature#gsc.tab=0) provides statistics showing a decline in vegetation across the broader south-east Queensland region since 2001, including:
 
-- Losses of 7,384 hectares of remnant vegation, 54,983 hectares of woody vegetation, and 1,220 hectares of natural wetlands.
+- Losses of 7,384 hectares of remnant vegetation, 54,983 hectares of woody vegetation, and 1,220 hectares of natural wetlands.
 - Fragmentation of remaining vegetation tracts.
 
 ## Under construction

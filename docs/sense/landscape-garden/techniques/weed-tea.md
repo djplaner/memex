@@ -6,6 +6,7 @@ tags:
 title: Weed tea
 type: note
 ---
+
 Placing weeds in a bucket of water to use fermentation to create a nutrient-rich liquid fertiliser.
 
 !!! note "An absence of empirical evidence?"
