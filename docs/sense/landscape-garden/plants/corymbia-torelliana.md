@@ -1,5 +1,5 @@
 ﻿---
-tags:https://www.startpage.com/sp/search
+tags:
 - wood-duck-meadows
 - tree
 - native
