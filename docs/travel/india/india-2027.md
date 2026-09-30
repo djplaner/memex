@@ -6,7 +6,6 @@ type: note
 
 Early explorations informing a plan to visit India in late January/early February 2027, in part aligned with the Australian mens Test tour of India.
 
-- [[india-itinerary]]
 
 ## Planning
 
@@ -21,67 +20,25 @@ Broad current plan is to do
 ### Dates
 
 - 26 January is Republic Day
+- 12 Jan to ?? Feb
 
 ### Questions
 
-- If and how long to visit Delhi?
 - India SIM or e-Sim?
 
   e-sim for 2/3 weeks. Easier to set up.
 
-- Australian vaccinations for India
-
-  Check with GP
-
+- Apps to install?
 - What rest days are built in?
 - Payment? How widespread is UPI (ApplePay)?
 
 ### Itineraries
 
-- 2 nights in Delhi (could be 1)
-- Fly to Jaisalmer
-- 2 nights in Jaisalmer (could be 1)
-  Desert experience and sight see in Jaisalmer
-- Overnight to Jaipur ??
-- 2 nights in Jaipur
-  [tuk tuk tour of Jaipur](https://www.viator.com/en-AU/tours/Jaipur/Same-Day-Ajmer-Pushkar-Tour-Through-AC-Car/d4627-205210P2) - 5 star 30 reviews
-- Jaipur to Agra - day [long private car](https://www.viator.com/en-AU/tours/Jaipur/Private-Transfer-From-Jaipur-to-Agra-including-Fatehpur-Sikri/d4627-22327P44)? 4-5 hours
-- 1 night in Agra
-- To Chennai - 2 days
-  TamilNadu express leaves late at night.
-
-### Travel
-
-Flights  - Australia/India
-
-- Singapore Airlines under $3000 from Brisbane.
-  - BNE 9:10am, 1h30 layover SIN, DEL 8:00pm - 15:20 time - ~$1000
-  - MAA 23:35, 1h10 layover SIN, BNE 16:55 ~$1000
-- Air India - BNE via Sydney seems cheaper
-  - BNE 16:05 > DEL 4:15am - 16:40 $900 to $1000
-  - MAA near midnight > BNE around 8pm $1400
-- QANTAS
-  $3,293 - India flights by Indigo (cheap, no entertainment) via Singapore, 
-  - BNE 10:35 > DEL 23:10 17:05
-  - MAA 6:25 > BNE 5:55
-- Skyscanner
-  - $1831 "best", $1435, $2484 fastest (to Jodhpur)
-  - 1554, 1308, 1539 fastest (Delhi) - Malaysian Airlines is cheaper, but a bit longer
-
-
-Internal travel
-
-- Delhi to Jaislmer - 1.5 hour flights from $97 pp 
-
-
-Around the triangle
-
-- [suggestions 1](https://www.neverendingfootsteps.com/golden-triangle-india-guide/) ND > Agra by train, Car from Agra to Jaipur (more to see)
-- [travel options in India (and beyond)](https://12go.asia/en/travel/new-delhi/agra/)
+Nearing final [[india-itinerary]]
 
 ### New Delhi
 
-Main question is how long to stay in New Dehli
+2 nights in New Dehli, pm arrival, next day sightseeing, next day flying to Jaisalmer via Indigo
 
 Accommodation
 
@@ -96,30 +53,14 @@ Accommodation
 
   Random list of suggestions
 
-Perhaps not
-
-- [Haveli Dhaarampura](https://www.havelidharampura.com)
-
-  Hertiage place. $364 a night. 5*. Owned by the BJP leader and some reviews aren't fantastic
-
-
 Flights: DEL to Jaisalmer
 
 - Air India ~$200: 13:30-15:00 or 8:30-10:00
 - IndiGo ~$200 12:35-14:20
 
-### Agra
-
-
-Accommodation (near Taj Mahal)
-
-- [Hotel Taj Resorts](https://www.hoteltajresorts.com)
-
-### Rajasthan
+#### Jaisalmer
 
 - [10 reasons to visit Rajasthan](https://www.adventureworld.com/blog/10-reasons-why-you-should-visit-rajasthan/)
-
-#### Jaisalmer
 
 Accommodation
 
@@ -136,12 +77,12 @@ Desert experiences appear to be out of Jaisalmer.
 - [Desert experience](https://www.getyourguide.com/en-gb/jaisalmer-l32220/peep-s-billions-of-star-experience-with-non-touristic-safari-t482097/?ranking_uuid=a83e4d10-5de9-4bf0-8064-54cca5ea3604)
 - [A night in the Thar desert](https://www.tripadvisor.com.au/AttractionProductReview-g297667-d19715112-A_Night_in_Thar_Desert_Unforgettable_Luxury_Camel_Safari-Jaisalmer_Jaisalmer_Distr.html)
 
-Jaisalmer to Jaipur 
+Jaisalmer to Jaipur - train main option
 
-- Bus
-- Flights 11:25-13:00 ~$400
+- [Leelan SF Express](https://www.railyatri.in/trains/route-12467-lelan-sf-expres?utm_source=trains_route_seo) 00:30 to 13:20
+- [Ranikhet express](https://www.railyatri.in/trains/route-15013-ranikhet-expres?utm_source=trains_route_seo) - 2:40 to 15:15
+- Swarn Nagari Express - 17:00 to 03:20
 
-  - IndiGo 
 
 #### Jaipur
 
@@ -160,6 +101,27 @@ Accommodation
 Travel
 
 - [Jaipur to Jaimsala overnight by train](https://awaywiththesteiners.com/overnight-train-jaipur-to-jaisalmer/)
+- Jaipur to Agra - day [long private car](https://www.viator.com/en-AU/tours/Jaipur/Private-Transfer-From-Jaipur-to-Agra-including-Fatehpur-Sikri/d4627-22327P44)? 4-5 hours
+
+
+### Agra
+
+
+Accommodation (near Taj Mahal)
+
+- [Hotel Taj Resorts](https://www.hoteltajresorts.com)
+
+
+### Bhopal
+
+Accommodation
+
+- [Jehan Numa Retreat](https://www.jehannuma.com/retreat-bhopal/)
+
+Activities
+
+- [Rock art](https://www.incredibleindia.gov.in/en/madhya-pradesh/bhopal/exploring-the-rock-art-wonders-of-madhya-pradesh)
+
 
 ### Chennai
 
