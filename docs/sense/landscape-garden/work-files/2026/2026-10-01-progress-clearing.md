@@ -2,7 +2,7 @@
 title: Clearing progress
 type: work-history
 region: rocky-creek-frontage
-date: 01-10-2026
+date: 02-10-2026
 ---
 
 Time to compare progress between the following and March 2026 photo.
