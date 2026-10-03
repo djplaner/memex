@@ -93,7 +93,7 @@ def getWorkHistory(region=""):
         for month in sorted(history[year].keys(), reverse=True):
             #-- convert numeric month into month name
             month_name = datetime.date(year, month, 1).strftime("%B")
-            content += f"#### {month_name}\n"
+            content += f"#### {month_name}, {year}\n"
 
             for day in sorted(history[year][month].keys(), reverse=True):
                 bubble = history[year][month][day]
