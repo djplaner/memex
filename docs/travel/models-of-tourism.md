@@ -1,0 +1,103 @@
+---
+tags: travel
+title: Models of tourism
+type: note
+---
+
+Planning the [[india-2027]] trip it became obvious that our planning approach was based on "search for sights". Searching online for "things to see and do". On reflection, an approach destined to produce a tick-a-box approach to travel. Begging the question, what other models are there?
+
+In this era of social media, branding, and differentiation there appear to be a growing number of labels/adjectives (e.g. transformative, sustainable, responsible, regenerative etc.) for tourism.
+
+Some thoughts evolving from what's summarised below in [background](#background), other reading, and reflection
+
+- Act local
+
+    Minimise use of large chains. Use local services and companies. Engage with locals more through the services and locations they use.
+
+- Explore [Atlas obscura](https://www.atlasobscura.com/)
+
+    A more mechanical and tentative suggestion. Not yet tested, but a site that promises to point to different places to visit.
+
+
+## Background
+
+### Transformative tourism
+
+[transformative tourism](https://woodwego.com/2024/04/21/transformativni-turizem/) aka transformative holistic tourism. Brief overview before making the case for Slovenia as an possible example.
+
+> Learning about other cultures, nature, yourself. Every moment is an opportunity for reflection and growth.
+
+Key areas
+
+- sustainability
+- inclusion of local communities
+- education and raising awareness
+- volunteering and social inclusion
+- spiritual and wellness tourism
+- connection with nature
+
+### 2024 Booking.com travel trends
+
+[Distillation](https://woodwego.com/2024/03/24/potovalni-trendi-leta-2024/) of findings from a 2024 survey.
+
+- Connection with nature and holistic experience
+- Sustainable choice and lifestyle
+- Personal growth and transformative experience
+- Authenticity and boutique character
+
+    More unique experiences, interacting with locals in less visited destinations
+- Wellness experience and culinary pleasures
+
+### Responsible travel
+
+[Responsible travel](https://www.responsibletravel.com/holidays/responsible-tourism/travel-guide) - a very uninformative piece. ["So many definitions"](https://www.responsibletravel.com/holidays/responsible-tourism/travel-guide/ecotourism) is from the same site and offers perspectives on ecotourism, ethical and sustainable tourism. Positions responsible tourism as combining the best of all. Nothing - at first glance - that is very useful.
+
+[How to be a responsible tourist](https://www.theinvisibletourist.com/responsible-tourist-tips-for-ethical-tourism/) defines a responsible tourist as an invisible one. A tourist that aims to
+
+> protect the natural environment, preserve local cultural heritage, seek out meaningful connections with locals, and positively contribute to local economies.
+
+Some useful specific tips, but nothing particularly novel associated with planning. Avoiding the use of AirBnB (in popular cities) was interesting. Is it better if you use it in less popular cities?
+
+And specific advice is given, including
+
+- Enjoy cultural experiences
+- Support local small business
+- Rethink accommodation options
+- Be respectful of local cultures, customs and etiquette
+- Reduce, reuse, recycle
+- Travel off peak seasonally and daily
+- travel independently or in small groups by avoiding large coach tours and cruises
+- Rethink using vacation rental services (e.g. AirBnB) in popular destinations
+
+    e.g. [ethical AirBnB alternatives](https://www.theinvisibletourist.com/ethical-alternatives-to-airbnb/)
+- Take direct flights instead of multiple cheap ones
+- Avoid day trips to popular destinations
+- Seek out alternatives to popular spots
+- Post to social media in an ethical way (various tips)
+- Avoid risky situations with wild animals
+- Avoid placing yourself in avoidable situations
+- Avoid pickpockets and scammers
+    - child beggars
+- Avoid animal exploitation in tourism
+- Learn some basics of the local language
+
+### Regenerative tourism
+
+[5 opportunities and 5 challenges for regenerative tourism](https://www.thetourismspace.com/blog/opportunities-challenges-regenerative-tourism)
+
+Borrows from other uses of regeneration, e.g. agriculture, it's not about tending to the soil, but improving it. Draws on this definition
+
+> Regenerative tourism, at its simplest, is about ensuring the visitor economy delivers a net positive benefit for communities, the environment, and the destination.
+
+[Where to start your regenerative journey](https://www.thetourismcolab.com.au/post/where-to-start-your-regenerative-journey) is from the same site as the definition, it shares these first steps (**more focused on business/locales developing regenerative tourism**)
+
+- Start with genuine curiosity about your place
+- Start the conversation before you start the planning
+    - Start small and learn
+    - Start together, not alone
+    - Use living systems as a metaphor to create your journey
+
+
+[//begin]: # "Autogenerated link references for markdown compatibility"
+[india-2027]: india/india-2027 "India - 2027"
+[//end]: # "Autogenerated link references"
