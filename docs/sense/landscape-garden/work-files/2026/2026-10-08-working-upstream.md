@@ -2,7 +2,7 @@
 title: Working upstream
 type: work-history
 region: gatton-creek-frontage
-date: 01-10-2026
+date: 08-10-2026
 ---
 
 With the walking track down to the big rock cleared and being used regularly it was time to start working further upstream on Gatton Creek. Heading further west toward our boundary. Mostly clearing Umbrella Sedge, [[schinus-terebinthifolia]], Lantana, [[tecoma-stans]] and Castor Oil trees.
