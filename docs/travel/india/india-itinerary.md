@@ -9,18 +9,17 @@ tags: travel
 | --- |  --- | --- |
 | Mon 11/01/27 | 0 | Overnight in BNE airport hotel |
 | Tue 12/01/27 | 1 | BNE (9:10) - DEL (20:00)  15h20m|
-| | | Overnight at AeroCity, ([Aloft by Marriot](https://www.marriott.com/en-us/hotels/delal-aloft-new-delhi-aerocity/overview/))
-| Wed 13/01/27 | 2 | Sightseeing New Delhi<br />[Private tour](https://www.tripadvisor.com.au/AttractionProductReview-g304551-d13896240-Private_Old_and_New_Delhi_City_Tour_Half_Day_Full_Day_Options-New_Delhi_National_C.html) |
-, $136 7-9 hours, both old and new Delhi, can be split |
-| | | Overnight at AeroCity, ([Aloft by Marriot](https://www.marriott.com/en-us/hotels/delal-aloft-new-delhi-aerocity/overview/))
-| Thu 14/01/27 | 3 | DEL-Jaisalmer (12:35-14:20) |
+| | | Overnight at The Lodhi |
+| Wed 13/01/27 | 2 | Sightseeing New Delhi |
+| | | Overnight at The Lodhi |
+| Thu 14/01/27 | 3 | Free morning, DEL-Jaisalmer (12:35-14:20) |
 | | | [Hotel Garh Jaisal Haveli](https://www.tripadvisor.com.au/Hotel_Review-g297667-d633869-Reviews-Hotel_Garh_Jaisal_Haveli_Jaisalmer-Jaisalmer_Jaisalmer_District_Rajasthan.html) |
 | Fri 15/01/27 | 4 | Sightsee Jaisalmer (am), Desert tour (pm) |
 | | | Overnight in desert |
 | Sat 16/01/27 | 5 | Sightsee Jaisalmer |
 | | | Overnight to Jaipur by Swarn Nagari train 17:00-03:20|
 | Sun 17/01/27 | 6 | Sightsee Jaipur |
-| | | Overnight in Jaipur [Tripadvisor](https://www.tripadvisor.com.au/Hotels-g304555-a_sort.POPULARITY-Jaipur_Jaipur_District_Rajasthan-Hotels.html), [AirBnB](https://www.airbnb.com.au/s/Jaipur--India/homes?adults=1&refinement_paths%5B%5D=%2Fhomes&place_id=ChIJgeJXTN9KbDkRCS7yDDrG4Qw&location=Jaipur%2C+India&checkin=2027-01-17&checkout=2027-01-19&date_picker_type=calendar), [Suggestion, $158 for 2 nights](https://www.airbnb.com.au/rooms/568469202446699701?adults=1&check_in=2027-01-17&check_out=2027-01-19&search_mode=regular_search&category_tag=Tag%3A86https://banking.westpac.com.au/secure/banking/accounts/getsummarystartpage78&photo_id=1501966028&source_impression_id=p3_1782452472_P3LKzbXCCNf6Cg_A&previous_page_section_name=1000&federated_search_id=1de289ab-bd75-4cf7-98cc-f7996e92197b) |
+| | | Overnight in Jaipur [Tripadvisor](https://www.tripadvisor.com.au/Hotels-g304555-a_sort.POPULARITY-Jaipur_Jaipur_District_Rajasthan-Hotels.html), [Sitaram Bhawan](https://sitarambhawan.com), [Umaid Bhawan](https://www.umaidbhawan.com), [Surya Haveli](https://bookings.suryahaveli.com/?propertyId=7560) |
 | Mon 18/01/27 | 7 | Sightsee in Jaipur ([tuk tuk tour](https://www.viator.com/en-AU/tours/Jaipur/Same-Day-Ajmer-Pushkar-Tour-Through-AC-Car/d4627-205210P2)) |
 | | | Overnight in Jaipur |
 | Tue 19/01/27 | 8 | Jaipur to Agra by [personal car](https://www.viator.com/en-AU/tours/Jaipur/Private-Transfer-From-Jaipur-to-Agra-including-Fatehpur-Sikri/d4627-22327P44) |

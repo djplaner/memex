@@ -82,20 +82,31 @@ Jaisalmer to Jaipur - train main option
 
 - [Leelan SF Express](https://www.railyatri.in/trains/route-12467-lelan-sf-expres?utm_source=trains_route_seo) 00:30 to 13:20
 - [Ranikhet express](https://www.railyatri.in/trains/route-15013-ranikhet-expres?utm_source=trains_route_seo) - 2:40 to 15:15
-- Swarn Nagari Express - 17:00 to 03:20
+- Swarn Nagari Express - 17:00 to 03:20 **seems the option**
 
 
 #### Jaipur
 
 Accommodation
 
-- [Jaipur Haveli](https://jaipurhaveli.com) - probably sold out, $R12,500 ~ $180 1 night
-- [The Bagheera Farms](https://thebagheerafarms.com)
+- [Jaipur Haveli](https://jaipurhaveli.com) - sold out
 - [Alsisar Haveli](https://www.tripadvisor.com.au/Hotel_Review-g304555-d307723-Reviews-Alsisar_Haveli-Jaipur_Jaipur_District_Rajasthan.html) - walking distance to interesting things, 1892 mansion ~$170 a night
-- [Adobe Jaipur](https://abodeboutiquehotels.com/jaipur-rooms.php) - not a haveli, 1[20]000 INR
-- [Shahpura House](https://www.tripadvisor.com.au/Hotel_Review-g304555-d304576-Reviews-Shahpura_House-Jaipur_Jaipur_District_Rajasthan.html) ~$300 for two nights
-- [Umaid Bhawan](https://www.umaidbhawan.com) Hertiage style boutique, less than $300 for two nights
+- [Adobe Jaipur](https://abodeboutiquehotels.com/jaipur-rooms.php) - not a haveli, 1[20]000 INR (**no**)
+- Overnight in Jaipur [Tripadvisor](https://www.tripadvisor.com.au/Hotels-g304555-a_sort.POPULARITY-Jaipur_Jaipur_District_Rajasthan-Hotels.html)
+- [Sitaram Bhawan](https://sitarambhawan.com), 
+- [marigold inn homestay](https://www.marigoldinnhomestay.com) - 
 
+Bani Park
+
+- [Spree hotel](https://www.spreehotels.com/spree-hotel-jaipur/) - business hotel, city centre (Bani Park) ~$200 for 3 nights
+
+Near amber fort
+
+- [Umaid Bhawan](https://www.umaidbhawan.com) Hertiage style boutique, less than $300 for two nights
+- [Surya Haveli](https://bookings.suryahaveli.com/?propertyId=7560)
+- [House of Amer](https://houseofamer.com)
+
+Tours
 
 - [Tuk tuk tour Jaipur](https://www.tripadvisor.com/AttractionProductReview-g304555-d13391321-Private_Full_Day_Jaipur_Sightseeing_Tour_By_Tuk_Tuk-Jaipur_Jaipur_District_Rajasth.html)
 
