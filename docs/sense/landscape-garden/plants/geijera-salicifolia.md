@@ -13,7 +13,7 @@ photos:
       memexFilename: https://djon.es/assets/memex/sense/landscape-garden/plants/images/geijera-salicifolia/1.jpeg
 ---
 
-Native Australian shrub or tree potentially growing to 25-35m. Growing in dry rainforests, rainforests and woodland.
+Native Australian shrub or tree potentially growing to 25-35m. Growing in dry rainforests, rainforests and woodland. Also known as [glasswood, green satinheart, or scrub wilga](https://en.wikipedia.org/wiki/Geijera_salicifolia).
 
 
 ## Wood duck history
