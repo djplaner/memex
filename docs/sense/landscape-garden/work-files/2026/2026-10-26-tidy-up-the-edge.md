@@ -20,7 +20,7 @@ Thankfully the recent rain made removal a fair bit easier, though it was still a
 
 
 <figure markdown>
-![After removal of the asparagus](https://djon.es/assets/memex/sense/landscape-garden/work-history/2026/bunker-nightshade-before.jpeg)
+![After removal of the asparagus](https://djon.es/assets/memex/sense/landscape-garden/work-history/2026/bunker-asparagus-after.jpeg)
 <caption>After removal of the asparagus</caption>
 </figure>
 
@@ -28,7 +28,7 @@ Thankfully the recent rain made removal a fair bit easier, though it was still a
 The second more easterly section was almost entirely a very established collection of [[solanum-seaforthianum]].
 
 <figure markdown>
-![Fence covered with Brazilian Nightshade](https://djon.es/assets/memex/sense/landscape-garden/work-history/2026/bunker-nightshade-after.jpeg)
+![Fence covered with Brazilian Nightshade](https://djon.es/assets/memex/sense/landscape-garden/work-history/2026/bunker-nightshade-before.jpeg)
 <caption>Fence covered with Brazilian Nightshade</caption>
 </figure>
 
@@ -39,7 +39,16 @@ Again, some was fairly easily removed with others requiring roundup. With the ni
 <caption>Fence after removal of the Brazilian Nightshade</caption>
 </figure>
 
+#### Bare ficus
 
+Whilst in the area, the bunker's parasitic ficus is still hanging on. It's gone through a phase of good growth, including hosting 3 or 4 paper wasp nests. However, currently it appears to be in a bit of a shutdown. All leaves shown in the above image are gone, but there is evidence of life with new growth appearing at the branch tips.
+
+On the aesthetic front, I found this image quite striking once seen on a bigger screen. The weathered whites and greys of the concrete causing the ficus to almost disappear. 
+
+<figure markdown>
+![Bare ficus](https://djon.es/assets/memex/sense/landscape-garden/work-history/2026/bare-ficus.jpeg)
+<caption>Bare ficus</caption>
+</figure>
 
 
 
