@@ -1,7 +1,7 @@
 ---
 title: Post-rain weeding - an early start
 type: work-history
-region: rocky-creek
+region: rocky-creek-frontage
 date: 31-10-2026
 ---
 
