@@ -89,7 +89,7 @@ def mergeEBirdAndINatObservations(eBirdBirds, iNatBirds):
 
     return birdObservations
 
-def generateLifeLists():
+def replaceListForLifeLists():
     """
     Generate the life lists for all of the LIFE_LIST_PATHS by extract all the observations for
     each species type from the markdown files (bubbles)
@@ -109,7 +109,7 @@ def generateLifeLists():
         print(f"Found bubble for {LIFE_LIST_DETAILS[species]['title']}")
         input("Press enter to continue...")
 
-        ##-- update the life list file by replace the life list markdown
+        ##-- update the life list file by replacing the life list markdown
         lifeListBubble = bubbles.get_bubbles_by_frontmatter( { "title": LIFE_LIST_DETAILS[species]['title'] } )
         if len(lifeListBubble) == 0:
             print(f"No bubble found for {LIFE_LIST_DETAILS[species]['title']}")
@@ -117,8 +117,14 @@ def generateLifeLists():
         pprint(lifeListBubble[0],indent=4)
         #-- need to update the life list markdown in lifeListBubble[0] with lifeListMarkdown
 
+        print("****** content")
+        content = lifeListBubble[0]['content']
+        print(content)
+
+        input("Press enter to continue...")
+
         #-- save the updated lifeListBubble[0]
-        bubbles.saveBubble( lifeListBubble[0] )
+##        bubbles.saveBubble( lifeListBubble[0] )
 
         #-- need to add linkdefs (probably - without removing existing)
         # linkDefs are stored in the bubble's dictionary's linkDefs key. It's a dict keyed on
@@ -130,7 +136,9 @@ if __name__ == "__main__":
     eBirdObs = importeBird()
     iNatObs = importiNaturalist()
 
-#    generateLifeLists()
+    #-- new method/naming for replace list macros with generation via Python
+    replaceListForLifeLists()
+#   replaceListForObservations()
     
 
 

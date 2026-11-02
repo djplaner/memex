@@ -7,7 +7,9 @@ tags:
 description: Computational component to gather observations of animals, birds, insects, etc and weave and augment that information on this site.
 ---
 
-🚧 Under construction 🚧 
+!!! info "🚧 Under construction 🚧 Current work"
+
+    Still a WIP. Currently figuring out what to do with `importObservations.py` and macros required for generating lists of content and how this impacts connections to the network graph.
 
 ## Purpose
 
@@ -66,6 +68,28 @@ Implement as macros.
 !!! warning "Reason for graphing"
 
     Life lists - the primary way observations/species - are linked by the graph are implement by macros that don't work with graphing.
+
+Possible solutions
+
+1. Manually generate life lists via `importObservations.py`.
+
+   But that requires Python code that will add/replace the generated text. Simple solution might be to have placeholders for start/end 
+
+2. The "generators" in the Markdown pipeline are run before/modify how Markdown generates backlinks
+
+    Not sure this would be possible and there's an increasing chance mkdocs will need to be replaced.
+
+
+Manually generating adding "lists" would require
+
+- Manually (in source code or via data file) identifying the specific and/or types of files that need to have lists added, what is included in the list, and what is added to it 
+
+    Hard coded in the `importObservations.py` script
+
+    - plant species, life lists, and maybe eventually regions
+    - code for each specifies the content of the list and its representation
+    - always replaces the (possibly empty) list as its run after any files are replaced
+    - knows how to find the bubbles that should be part of the list
 
 ## Task list
 
