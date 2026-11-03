@@ -34,6 +34,8 @@ Output:
 """
 
 import sys
+import re
+
 sys.path.append("/Users/davidjones/memex/util")
 from pathlib import Path
 from pprint import pprint
@@ -103,11 +105,12 @@ def replaceListForLifeLists():
         ##-- generate markdown for life list for <species>
         observations = filterObservations( bubbles, { "observation-type": species } )
         lifeListMarkdown = displayObservationsIndex( observations, { 'observation-type': species} )
+        ## TODO generate new linkDefs and add them to the bubble linkDefs
 
-        print(lifeListMarkdown)
-        print()
-        print(f"Found bubble for {LIFE_LIST_DETAILS[species]['title']}")
-        input("Press enter to continue...")
+#        print(lifeListMarkdown)
+#        print()
+#        print(f"Found bubble for {LIFE_LIST_DETAILS[species]['title']}")
+#        input("Press enter to continue...")
 
         ##-- update the life list file by replacing the life list markdown
         lifeListBubble = bubbles.get_bubbles_by_frontmatter( { "title": LIFE_LIST_DETAILS[species]['title'] } )
@@ -120,14 +123,32 @@ def replaceListForLifeLists():
         #     <!-- /observation -->
         #  with lifeListMarkdown
 
-        print("****** content")
-        content = lifeListBubble[0]['content']
-        print(content)
-        input("Press enter to continue...")
+        observationContent = f"""
+<!-- observations() -->
+
+{lifeListMarkdown}
+
+<!-- /observations -->
+"""
+        observationRe = re.compile(r"<!-- observations\(\) -->.*<!-- \/observations -->", flags=re.DOTALL)
+
+#        print("****** content")
+#        content = lifeListBubble[0]['content']
+#        print(content)
+#        input("Press enter to continue (to replace observations)...")
         #-- update the string
+        lifeListBubble[0]['content'] = observationRe.sub( observationContent, lifeListBubble[0]['content'], count=1) 
+######        lifeListBubble[0]['content'] = content
+#        print(content)
+#        input("Press enter to continue (to replace observations)...")
+
+        # **TODO** Do I need to (probably yes) add information to the linkDefs for the bubble for all
+        # the links that have just been added in lifeListMarkdown ???
 
         #-- save the updated lifeListBubble[0]
-##        bubbles.saveBubble( lifeListBubble[0] )
+        bubbles.saveBubble( lifeListBubble[0] )
+#        lifeListBubble[0].saveBubble()
+#        input("Check it Press enter to continue (to replace observations)...")
 
         #-- need to add linkdefs (probably - without removing existing)
         # linkDefs are stored in the bubble's dictionary's linkDefs key. It's a dict keyed on

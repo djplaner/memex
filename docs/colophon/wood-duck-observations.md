@@ -11,6 +11,21 @@ description: Computational component to gather observations of animals, birds, i
 
     Still a WIP. Currently figuring out what to do with `importObservations.py` and macros required for generating lists of content and how this impacts connections to the network graph.
 
+??? note "To do"
+
+    1. Update importObservations.py to add table of observations to plant-life-list (as initial test case)
+
+        1. Trying to save the updated file 
+        
+            Currently adding existing linkDefs to the bottom of existing linkDefs - TBF. However, correctly done this does fix the orphan nodes on the visualisation graph.
+
+        2. Will need (probably) to add link data to linkDefs
+
+            Probably add this displayObservationsIndex - generates the markdown, should generate the linkdefs as it has all the knowledge about where these files will be. Then just a question of adding to 
+            
+
+
+
 ## Purpose
 
 With an interest in [[regeneration]] of the [[wood-duck-meadows]] ecosystem comes the desire to make and track various observations about the flora and fauna that inhabit the area. Beyond simply making and recording the observations the desire is to computationally weave and augment observational information to achieve different purposes.

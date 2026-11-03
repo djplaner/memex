@@ -8,6 +8,11 @@ Collection of articles, web pages etc that I've at some stage marked to read.
 
 ## Current
 
+- [An approach to computing and sustainability inspired by permaculture](https://100r.co/site/computing_and_sustainability.html) - [video](https://www.youtube.com/watch?v=T3u7bGgVspM)
+
+## Old, more academic stuff
+
+
 ### Design
 
 - Manzini E (2015) Design, when everybody designs: an introduction to design for social innovation
