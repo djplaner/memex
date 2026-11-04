@@ -60,7 +60,10 @@ EXCLUDE = [
     r"oldNAV\.",
     r"NAV\.",
     r"/reveal.js",
-    r"/landscape-garden/work-files/"
+    r"/landscape-garden/work-files/",
+    r"/Observations/bird-observations/",
+    r"/Observations/other-fauna-observations/",
+    r"/Observations/plant-observations/"
 ]
 
 def generateAbsoluteLinks(markdownFile, linkDefs):

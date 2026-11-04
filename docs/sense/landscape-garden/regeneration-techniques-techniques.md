@@ -1,2 +1,0 @@
-# regeneration-techniques|Techniques
-

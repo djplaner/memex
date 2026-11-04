@@ -19,10 +19,11 @@ description: Computational component to gather observations of animals, birds, i
         
             Currently adding existing linkDefs to the bottom of existing linkDefs - TBF. However, correctly done this does fix the orphan nodes on the visualisation graph.
 
-        2. Will need (probably) to add link data to linkDefs
+        2. Will need (probably) to add link data to linkDefs (currently working because I'm manually saving the life list files after the Python code updates - Foam is updating linkDefs)
 
             Probably add this displayObservationsIndex - generates the markdown, should generate the linkdefs as it has all the knowledge about where these files will be. Then just a question of adding to 
             
+    2. Remove observation bubbles from graphing *✔*
 
 
 
