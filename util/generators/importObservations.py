@@ -104,8 +104,13 @@ def replaceListForLifeLists():
     for species in LIFE_LIST_DETAILS.keys():
         ##-- generate markdown for life list for <species>
         observations = filterObservations( bubbles, { "observation-type": species } )
-        lifeListMarkdown = displayObservationsIndex( observations, { 'observation-type': species} )
         ## TODO generate new linkDefs and add them to the bubble linkDefs
+        # - displayObservationsIndex will return a tuple [ markdown, linkDefs]
+        # - linkDefs will need to be merged into existing linkDefs for the bubble
+        [ lifeListMarkdown, lifeListLinkDefs ] = displayObservationsIndex( observations, { 'observation-type': species} )
+
+#        pprint(lifeListLinkDefs)
+#        input(" > linkDefs ")
 
 #        print(lifeListMarkdown)
 #        print()
@@ -117,7 +122,7 @@ def replaceListForLifeLists():
         if len(lifeListBubble) == 0:
             print(f"No bubble found for {LIFE_LIST_DETAILS[species]['title']}")
             continue
-        pprint(lifeListBubble[0],indent=4)
+        #pprint(lifeListBubble[0],indent=4)
         #-- update the life list markdown (in lifeListBubble[0]) replacing anything between
         #     <!-- observations(species) -->
         #     <!-- /observation -->
@@ -146,6 +151,9 @@ def replaceListForLifeLists():
         # the links that have just been added in lifeListMarkdown ???
 
         #-- save the updated lifeListBubble[0]
+        print("##########3")
+        pprint(lifeListBubble[0])
+        input("before save > ")
         bubbles.saveBubble( lifeListBubble[0] )
 #        lifeListBubble[0].saveBubble()
 #        input("Check it Press enter to continue (to replace observations)...")

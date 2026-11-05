@@ -12,18 +12,22 @@ I found RecipeTinEats' cookies could be a bit too soft. Replacing some of the fl
 
 ## Ingredients
 
-- 265  plain flour
-  - replace 30 grams of cocoa powder for double choc chip
-- 1 tsp baking soda 
-- pinch of salt
-- 175g unsalted butter
-- 110 g brown sugar
-- 110 g white sugar
-- Eggs
-  - original recipe: 1 egg & 1 egg yolk 
-  - mistaken modification which I like: 3 eggs (edging toward [[easy-chocolate-brownies]]|brownie) territory
-- 2 tsp vanilla extract
-- 1 cup chocolate chips
+* 265  plain flour
+
+    Replace 30 grams of cocoa powder for double choc chip
+
+* 1 tsp baking soda 
+* pinch of salt
+* 175g unsalted butter
+* 110 g brown sugar
+* 110 g white sugar
+* Eggs
+
+    - original recipe: 1 egg & 1 egg yolk 
+    - mistaken modification which I like: 3 eggs (edging toward [[easy-chocolate-brownies]]|brownie) territory
+
+* 2 tsp vanilla extract
+* 1 cup chocolate chips
 
 ## Instructions
 
