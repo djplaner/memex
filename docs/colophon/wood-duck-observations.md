@@ -13,17 +13,24 @@ description: Computational component to gather observations of animals, birds, i
 
 ??? note "To do"
 
-    1. Update importObservations.py to add table of observations to plant-life-list (as initial test case)
+    1. [ ] Update importObservations.py to add table of observations to plant-life-list (as initial test case)
 
-        1. Trying to save the updated file 
+        1. [ ] Trying to save the updated file 
         
-            Currently adding existing linkDefs to the bottom of existing linkDefs - TBF. However, correctly done this does fix the orphan nodes on the visualisation graph.
+            Currently adding existing linkDefs to the bottom of existing linkDefs.
 
-        2. Will need (probably) to add link data to linkDefs (currently working because I'm manually saving the life list files after the Python code updates - Foam is updating linkDefs)
+            - [ ] plant and bird life lists linkDefs are not generating the right link
+
+                - creating linkDefs when reading bubble seems to create a broken link if the link is to the current file
+
+                    e.g. in the plant-life-list.md file and a linkDef that starts [plant-life-list] **FIX THIS**
+                    `corpus.py::_extract_link_defs`
+
+        2. [ ] Will need (probably) to add link data to linkDefs (currently working because I'm manually saving the life list files after the Python code updates - Foam is updating linkDefs)
 
             Probably add this displayObservationsIndex - generates the markdown, should generate the linkdefs as it has all the knowledge about where these files will be. Then just a question of adding to 
             
-    2. Remove observation bubbles from graphing *✔*
+    2. [x] Remove observation bubbles from graphing 
 
 
 

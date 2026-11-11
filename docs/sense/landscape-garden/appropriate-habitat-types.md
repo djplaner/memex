@@ -17,6 +17,23 @@ This are the areas of the property actually in and closely surrounding the Gatto
 - Local council on [planting lists and revegetation 12.3.7](https://www.lockyervalley.qld.gov.au/repository/libraries/id:2eccbxg5l17q9su8pzhy/hierarchy/our-services/strategic-planning/documents/planning-studies/Revegetation%20Species%20List%20for%20Regional%20Ecosystem%2012.3.7.pdf)
 - Healthy land and water's [factsheet for RE 12.3.7](https://www.lfwseq.org.au/wp-content/uploads/2017/06/RE-Fact-Sheet_12.3.7_HLW.pdf)
 
+Common species include (can also include large numbers of rainforest species)
+
+- Blue gum (Eucalyptus tereticornis), 
+- Creek Bottle Brush (Melaleuca viminalis), 
+- She-oak (Casuarina cunninghamiana), and 
+- Black Tea-tree (Melaleuca bracteata). 
+
+Understorey of, Native
+
+- Frangipani (Hymenosporum flavum), 
+- Sweet Pittosporum (Pittosporum undulatum) 
+- Diamond Hollywood (Auranticarpa rhombifolia), 
+- Mat rushes (Lomandra spp.), 
+- ferns (Adiantum, Christella, Pellaea, Doodia, Pteridium), 
+- herbs Coleus (Plectranthus spp.) 
+- Vines (Pandorea, Maclura, Jasminum, Malaisia, and Parsonsia).
+
 ## [12.3.3 Blue Gum woodlands on alluvial flats](https://apps.des.qld.gov.au/regional-ecosystems/details/?re=12.3.3). 
 
 Due to widespread clearing this regional ecosystem is classed as _endangered_. Much of this RE is cleared on [[wood-duck-meadows]]. There remain evidence of Queensland Blue Gums, mostly nearer or part of the [[gatton-creek-frontage]] and [[rocky-creek-frontage]]

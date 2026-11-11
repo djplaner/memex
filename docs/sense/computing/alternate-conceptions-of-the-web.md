@@ -7,9 +7,10 @@ tags:
 title: Alternate conceptions of the web
 type: note
 ---
-As of 2025, most individuals' experience with the web is through spaces controlled by large corporations (aka Big Web/Big Tech/Web 2.0). Fighting against this are various alternate conceptions with a significant emphasis on [[digital-humanism]].
 
-[[as-we-may-think]] (Bush, 1945)
+As of 2025, most individuals' experience with the web is through spaces controlled by large corporations (aka Big Web/Big Tech/Web 2.0). Most of those spaces aren't anything resembling much what some would call the web. Fighting against this are various alternate conceptions with a significant emphasis on [[digital-humanism]].
+
+The original mind experiment and what we might have had - [[as-we-may-think]] (Bush, 1945)
 
 ## Examples
 
@@ -46,25 +47,36 @@ As of 2025, most individuals' experience with the web is through spaces controll
 
 There are many alternative conceptions of the web each with their own principles, focii and often community. Examples include (but certainly are not limited to):
 
-- [[small-web]]
-- [smolweb](https://smolweb.org/index.html)). 
+### [[small-web]] and [smolweb](https://smolweb.org/index.html)). 
 
-    Principles including
+Principles including
 
-        - Own your own data 
-        - Use & publish visible data 
-        - Make what you need 
-        - Use what you make
-        - Document your stuff
-        - Open source your stuff
-        - UX and design is more important that protocols, formats, data models, schema etc
-        - Modularity
-        - Longevity
-        - Pluralism
-        - Have fun
-- [IndieWeb](https://indieweb.org/principles)
+- Own your own data 
+- Use & publish visible data 
+- Make what you need 
+- Use what you make
+- Document your stuff
+- Open source your stuff
+- UX and design is more important that protocols, formats, data models, schema etc
+- Modularity
+- Longevity
+- Pluralism
+- Have fun
 
-Conceptual ideas with a [[pkm|Personal Knowledge Management]] focus
+### [IndieWeb](https://indieweb.org/principles)
+
+[Indieweb is punk](https://indiewebispunk.net) with echoes of [Edupunk](https://en.wikipedia.org/wiki/Edupunk). "Pretty" distillation of discussions about how the Indieweb principles are punk
+
+    - I. We Are the DIY Kids
+    - We Own the Masters Now
+    - No A&R, No Venture Capital, No Gatekeepers
+    - The Zine Never Died, It Just Got a Domain
+    - Make What You Need, Not What "Everyone" Needs
+    - Weird Is a Feature
+    - It's an All-Ages Show
+    - This Is the Counterculture Now
+
+### Conceptual ideas with a [[pkm|Personal Knowledge Management]] focus
 
 - [[zettelkasten]]
 - [[digital-garden]]

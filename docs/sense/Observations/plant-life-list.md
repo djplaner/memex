@@ -16,7 +16,6 @@ I currently have three life lists: [[plant-life-list]], [[bird-life-list]] and [
 
 
 
-
 <!-- observations() -->
 
 
@@ -127,9 +126,6 @@ I currently have three life lists: [[plant-life-list]], [[bird-life-list]] and [
 | yellow trumpet flower | [[tecoma-stans]] | 10:30 AM Friday, 03 October 2025<br />08:18 AM Saturday, 11 October 2025<br /> | 
 
 <!-- /observations -->
-
-
-
 
 
 

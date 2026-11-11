@@ -432,11 +432,11 @@ def generateBackLinks(bubbles: dict):
                 input("Press Enter to continue...")
                 backLinks[destinationPath] = {}
             backLinks[destinationPath][sourcePath] = bubble
-            if file.endswith("sense/birdwatching/spottedDove.md"):
-                print(f" -- backlink {destinationPath} = {sourcePath}")
+#            if file.endswith("sense/birdwatching/spottedDove.md"):
+#                print(f" -- backlink {destinationPath} = {sourcePath}")
 
-            if destinationPath.endswith("sense/birdwatching/spottedDove.md"):
-                print(f" -- backlink {destinationPath} = {sourcePath}")
+#            if destinationPath.endswith("sense/birdwatching/spottedDove.md"):
+#                print(f" -- backlink {destinationPath} = {sourcePath}")
                 #pprint(bubble['linkDefs'])
                 #input("Press Enter to continue...")
 

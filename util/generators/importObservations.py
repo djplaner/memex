@@ -151,9 +151,9 @@ def replaceListForLifeLists():
         # the links that have just been added in lifeListMarkdown ???
 
         #-- save the updated lifeListBubble[0]
-        print("##########3")
-        pprint(lifeListBubble[0])
-        input("before save > ")
+#        print("##########3")
+#        pprint(lifeListBubble[0])
+#        input("before save > ")
         bubbles.saveBubble( lifeListBubble[0] )
 #        lifeListBubble[0].saveBubble()
 #        input("Check it Press enter to continue (to replace observations)...")
