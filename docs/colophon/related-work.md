@@ -29,7 +29,7 @@ Decades after the Memex suggestion there are systems (e.g. Obsidian and Notion) 
     - Search a page by title and/or contents
     - Quick diff
     - Page list (list all pages on the wiki)
-    - Backlinks (findn all pages pointing to a page)
+    - Backlinks (find all pages pointing to a page)
 
 ### Other examples
 

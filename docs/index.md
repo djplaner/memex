@@ -4,7 +4,7 @@ type: "index"
 tags: home, welcome
 ---
 
-Welcome to the [[digital-garden]] of [David Jones](https://djon.es/blog/about-2/index.html). An attempt to approach Bush's idea of [[as-we-may-think|memex]]. On the rare occasion, it may be of interest to others.
+Welcome to the [[digital-garden]] of [David Jones](https://djon.es/blog/about-2/index.html). An attempt to approach Bush's idea of [[as-we-may-think|memex]]. Designed to scratch my itch(es). On the rare occasion, it may be of interest to you.
 
 
 

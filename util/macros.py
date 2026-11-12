@@ -327,8 +327,10 @@ def getBubbleTypes():
 
     #-- generate a list of tuples (bubbleType, count)
     bubbleTypeCounts = []
+    totalBubbles = 0
     for btype in bubbleTypes:
         bubbleTypeCounts.append( (btype, len(bubbleTypes[btype])) )
+        totalBubbles += len(bubbleTypes[btype])
 
     #-- sort the list by count in descending order
     bubbleTypeCounts.sort( key=lambda x: x[1], reverse=True )
@@ -338,7 +340,8 @@ def getBubbleTypes():
 """
 
     for btype, count in bubbleTypeCounts:
-        content += f"| {btype} | {count} |\n"
+        percent = round( ( 100 / totalBubbles ) * count, 1 )
+        content += f"| {btype} | {count} ({percent}%) |\n"
 
     return content
 

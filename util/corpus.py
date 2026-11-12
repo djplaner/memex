@@ -196,7 +196,7 @@ class corpus:
             for line in linkDefs:
                 regex = r"\[(.*?)\]: (.*?) \"(.*?)\""
                 match = re.match(regex, line)
-                print(f"line is {line}")
+#                print(f"line is {line}")
                 if match:
                     #-- extract the link text, link, and description
                     text = match.group(1)
@@ -204,7 +204,7 @@ class corpus:
                     text = text.split("|")[0].strip()
                     link = match.group(2)
                     description = match.group(3)
-                    print( f"  -- link {link} text {text} description {description}" )
+#                    print( f"  -- link {link} text {text} description {description}" )
                     #-- add the link definition to the dictionary
                     if link not in pageData['linkDefs']:
                         pageData['linkDefs'][link] = {}
