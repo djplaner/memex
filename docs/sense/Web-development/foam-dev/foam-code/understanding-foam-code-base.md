@@ -6,7 +6,7 @@ tags:
 title: Understanding the Foam Code Base
 type: note
 ---
-Combining the [VSCode extension documentation](https://code.visualstudio.com/api) with the [Foam source code](https://foambubble.github.io/foam/) to gain some understanding of how VSCode extensions/Foam work.
+Combining the [VSCode extension documentation](https://code.visualstudio.com/api) with the [Foam source code](https://foam.md/) to gain some understanding of how VSCode extensions/Foam work.
 
 ## Questions to answer
 

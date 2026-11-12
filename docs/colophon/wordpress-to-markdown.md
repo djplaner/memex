@@ -32,7 +32,7 @@ Three issues
 
 ### Creating separate Foam instance
 
-Initial work intended to include blog content within this site, but as the thousands of blog posts/pages were added performance by [Foam](https://foambubble.github.io/foam/) significantly degraded. Hence a decision to make a blog specific Foam instance, which would
+Initial work intended to include blog content within this site, but as the thousands of blog posts/pages were added performance by [Foam](https://foam.md/) significantly degraded. Hence a decision to make a blog specific Foam instance, which would
 
 - Have a separate git repo.
 

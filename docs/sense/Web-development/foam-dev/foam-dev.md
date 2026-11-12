@@ -9,7 +9,7 @@ type: note
 
 ## About
 
-[Foam](https://foambubble.github.io/foam/) is a key tool used to maintain this site. Much of the design thinking and implementation of this site is covered in the [[colophon|About page]]. This page now documents experiments with various technologies that might be used with Foam/Mkdocs.
+[Foam](https://foam.md/) is a key tool used to maintain this site. Much of the design thinking and implementation of this site is covered in the [[colophon|About page]]. This page now documents experiments with various technologies that might be used with Foam/Mkdocs.
 
 !!! note "Original purpose - Svelte" 
 

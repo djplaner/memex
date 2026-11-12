@@ -11,7 +11,7 @@ type: note
 
     A PR has been submitted to the Foam repo
 
-Configuring a static-site generator (SSG) to publish your Foam provides access to functionality not available through Foam's default publishing mechanism.  For example, compare the [original Foam documentation site](https://foambubble.github.io/foam/) with a [Material for MkDocs version](https://djplaner.github.io/foam-with-material-for-mkdocs/) created using the simple configuration detailed below. Try out the search functionality on the Material for MkDocs version. This [digital garden](https://djon.es/memex) and this [blog](https://djon.es/blog/) provide more advanced examples of Foam content published using Material for MkDocs.
+Configuring a static-site generator (SSG) to publish your Foam provides access to functionality not available through Foam's default publishing mechanism.  For example, compare the [original Foam documentation site](https://foam.md/) with a [Material for MkDocs version](https://djplaner.github.io/foam-with-material-for-mkdocs/) created using the simple configuration detailed below. Try out the search functionality on the Material for MkDocs version. This [digital garden](https://djon.es/memex) and this [blog](https://djon.es/blog/) provide more advanced examples of Foam content published using Material for MkDocs.
 
 The following explains how to configure the [Material for MkDocs theme](https://squidfunk.github.io/mkdocs-material/) for the [MkDocs SSG](https://www.mkdocs.org) to publish your Foam.
 

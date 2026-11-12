@@ -23,7 +23,7 @@ Hence the idea of **some assemblage required**
 
     ---
 
-    Markdown files are created using VSCode and numerous extensions. Manual editing uses the [Foam knowledge management system](https://foambubble.github.io/foam/).
+    Markdown files are created using VSCode and numerous extensions. Manual editing uses the [Foam knowledge management system](https://foam.md/).
 
     The real value comes from the [orchestration](#orchestration) of numerous other assemblages/[[computational-components]] used to gather, weave, and augment content.
 

@@ -12,7 +12,7 @@ Bush's (1945) article comes from the perspective of a person who directed the wo
 
 A key contribution is the idea of _associative trails_. The ability for people to create and share sequences of related resources that are usefully associated with each other.
 
-The [[colophon]] for this site identifies the technologies that are orchestrated to enable associative trails for this site. First, [Foam](https://foambubble.github.io/foam/) provides an authoring environment for easily creating associative links between bubbles (aka notes). When publishing a [[computational-components|computation component]] extracts and adds the "related" links (aka back links) to each bubble to make associated trails more visible/navigable.
+The [[colophon]] for this site identifies the technologies that are orchestrated to enable associative trails for this site. First, [Foam](https://foam.md/) provides an authoring environment for easily creating associative links between bubbles (aka notes). When publishing a [[computational-components|computation component]] extracts and adds the "related" links (aka back links) to each bubble to make associated trails more visible/navigable.
 
 ## Orchestration of technologies
 

@@ -10,7 +10,7 @@ link="https://djon.es/blog/2020/07/07/getting-started-with-memex/"
 category="memex"
 ```
 
-My [last post](https://djon.es/blog/2020/07/06/designing-a-personal-memex-with-foam/) was an exploration of [Foam](https://foambubble.github.io/foam/) (a nascent personal knowledge management and sharing system) and how I might use it. This post documents two steps toward implementation
+My [last post](https://djon.es/blog/2020/07/06/designing-a-personal-memex-with-foam/) was an exploration of [Foam](https://foam.md/) (a nascent personal knowledge management and sharing system) and how I might use it. This post documents two steps toward implementation
 
 1. Writing blog posts using Foam and syncing to my blog (e.g. this post)
 2. Converting almost 100 notes from [my wikity](http://wikity.djon.es/) into Foam
