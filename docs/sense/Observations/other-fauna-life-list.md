@@ -17,6 +17,7 @@ I currently have three life lists: [[plant-life-list]], [[bird-life-list]] and [
 
 
 
+
 <!-- observations() -->
 
 
@@ -40,6 +41,8 @@ I currently have three life lists: [[plant-life-list]], [[bird-life-list]] and [
 | [[white-antennae-wasp-moth]] | Amata nigriceps | 08:40 AM Friday, 28 November 2025<br /> | 
 
 <!-- /observations -->
+
+
 
 
 

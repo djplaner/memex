@@ -18,6 +18,8 @@ I currently have three life lists: [[plant-life-list]], [[bird-life-list]] and [
 
 
 
+
+
 <!-- observations() -->
 
 
@@ -83,6 +85,8 @@ I currently have three life lists: [[plant-life-list]], [[bird-life-list]] and [
 | [[yellowhammer]] | Emberiza citrinella | Wednesday, 23 July 2025<br />Wednesday, 23 July 2025<br /> | 
 
 <!-- /observations -->
+
+
 
 
 

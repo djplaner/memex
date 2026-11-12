@@ -7,30 +7,61 @@ tags:
 description: Computational component to gather observations of animals, birds, insects, etc and weave and augment that information on this site.
 ---
 
-!!! info "🚧 Under construction 🚧 Current work"
+!!! info "Current status"
 
-    Still a WIP. Currently figuring out what to do with `importObservations.py` and macros required for generating lists of content and how this impacts connections to the network graph.
+    **11 Nov 2026** Initial version finally fully working. Still much to do to make it "nice"
 
-??? note "To do"
+
+??? note "Current To do"
 
     1. [ ] Update importObservations.py to add table of observations to plant-life-list (as initial test case)
 
-        1. [ ] Trying to save the updated file 
+        1. [x] Trying to save the updated file 
         
-            Currently adding existing linkDefs to the bottom of existing linkDefs.
-
-            - [ ] plant and bird life lists linkDefs are not generating the right link
-
-                - creating linkDefs when reading bubble seems to create a broken link if the link is to the current file
-
-                    e.g. in the plant-life-list.md file and a linkDef that starts [plant-life-list] **FIX THIS**
-                    `corpus.py::_extract_link_defs`
-
         2. [ ] Will need (probably) to add link data to linkDefs (currently working because I'm manually saving the life list files after the Python code updates - Foam is updating linkDefs)
 
             Probably add this displayObservationsIndex - generates the markdown, should generate the linkdefs as it has all the knowledge about where these files will be. Then just a question of adding to 
+        
+    3. [ ] Add some statistics before the tables on the life lists
             
     2. [x] Remove observation bubbles from graphing 
+
+??? note "Further ideas"
+
+    1. Individual observations can be updated both manually and automatically 
+
+       - Automatically - as changes happen to host observations (e.g. iNaturalist observation has new data)
+       - Manually - via an edit to the observation page through Foam
+
+    2. Refinements to individual observation pages
+
+       - [x] remove from title "iNaturalist|eBird observation"
+       - [ ] provide an observation macro that provides the boilerplate intro text for observations, drawing from frontmatter
+       - [ ] Add details about status of iNaturalist observations (e.g. needs ID, research grade, etc)
+       - [ ] Support updating of iNaturalist observation pages (e.g. as status changes)
+
+          - iNaturalist observations can be updated, need to check existing observation markdowns and update as necessary 
+          - compare existing frontmatter with new and update as necessary from iNaturalist, don't update if frontmatter new
+       - [x] change plant life list title to Plant life list - check other life lists
+       - [ ] [[rhodosphaera]] - is a genus, not a species. Need to see if we can get specific - esp. with H&K's deep yellowwood
+
+    3. Thinking about the nice to haves
+
+       - [ ] iNaturalist pages that include confirmation counts
+       - [x] Turn off life list generator and update documentation 
+       - [ ] implement a `lifeListGallery` macro for different observations: extract relevant bubbles, extract images, construct gallery page content
+       - [ ] Need to look into merging old plants that don't have observations, but have entries in the plants folder - adding observation macros to the bottom of each page
+       - [ ] Ditto for the link to `individual-plants` and how [[individual-plants]] links with the species
+
+           - individual plants arranged by zones
+           - ways to link plant observations to zones
+       - [ ] update species pages to include scientific name (in brackets)
+
+    4. Replace/modify photo existing scripts to create observations with photos
+
+       - [ ] `addBirdPhoto` 
+       - [ ] `addPlantPhoto` 
+       - [ ] Figure out whether to use the `add<Observation>` scripts to create observations for existing photos - or leave as is (probably leave)
 
 
 
@@ -43,15 +74,23 @@ Initially, this takes the form of various [life lists](https://en.wikipedia.org/
 - similar life list galleries showing just the images; and,
 - a variety of methods of organising the life list (e.g. plants into invasive, native, trees, shrubs etc).
 
-## How it all works
+## Usage
 
-1. Observations are made via common/public applications (e.g. [iNaturalist](https://www.inaturalist.org/) and [Merlin](https://www.merlinbirds.org))
-2. Observation data from these sources are (currently) manually downloaded to a local computer.
-3. Python scripts integrate this data into Memex.
+??? note "A reminder for self"
 
-    This is where the magic happens. More detail below.
-4. Modifications can be made via the normal Memex authoring process.
-5. The normal Memex publishing process converts Memex into a website.
+    Included here only to help me remember how if I get out of the habit.
+
+1. Download latest observation data from external sources ([iNaturalist](https://www.inaturalist.org), [eBird](https://ebird.org)) into `~/memex_data`
+
+    Yep, it's manual. A couple of CSV files: `ebirdData.csv` and `iNaturalist.csv`
+
+2. Run the `importObservations` script within Memex
+
+    `python util/generators/importObservations.py`
+
+3. Make additional edits via Foam
+
+4. Publish the site as per usual
 
 ### The weaver scripts
 
@@ -86,94 +125,7 @@ Data files stored in `memex_data` folder locally.
 
 *Life lists*
 
-Implement as macros.
-
-!!! warning "Reason for graphing"
-
-    Life lists - the primary way observations/species - are linked by the graph are implement by macros that don't work with graphing.
-
-Possible solutions
-
-1. Manually generate life lists via `importObservations.py`.
-
-   But that requires Python code that will add/replace the generated text. Simple solution might be to have placeholders for start/end 
-
-2. The "generators" in the Markdown pipeline are run before/modify how Markdown generates backlinks
-
-    Not sure this would be possible and there's an increasing chance mkdocs will need to be replaced.
-
-
-Manually generating adding "lists" would require
-
-- Manually (in source code or via data file) identifying the specific and/or types of files that need to have lists added, what is included in the list, and what is added to it 
-
-    Hard coded in the `importObservations.py` script
-
-    - plant species, life lists, and maybe eventually regions
-    - code for each specifies the content of the list and its representation
-    - always replaces the (possibly empty) list as its run after any files are replaced
-    - knows how to find the bubbles that should be part of the list
-
-## Task list
-
-Current status
-
-- [x] Initial import (`importObservations.py`) of iNaturalist and eBird data into individual observations 
-- [x] Initial life lists for birds, plants and other fauna
-
-To do
-
-- [ ] Move life lists to be generated by `importObservations.py` rather than as a macro
-- Refinements to individual observation pages
-    - [x] remove from title "iNaturalist|eBird observation"
-    - [ ] provide an observation macro that provides the boilerplate intro text for observations, drawing from frontmatter
-    - [ ] Add details about status of iNaturalist observations (e.g. needs ID, research grade, etc)
-    - [ ] Support updating of iNaturalist observation pages (e.g. as status changes)
-        - iNaturalist observations can be updated, need to check existing observation markdowns and update as necessary 
-            - compare existing frontmatter with new and update as necessary from iNaturalist, don't update if frontmatter new
-    - [x] change plant life list title to Plant life list - check other life lists
-    - [ ] Update bird life list to add linkdefs - merging eBird and iNaturalist observations.
-        - create bird life list in `importObservations.py` 
-        - eBird and iNaturalist return the data with the view being done in importObservations.py
-        - iNaturalist currently has a view, eBird does not relying on macros
-        - 
-
-    - [ ] [[rhodosphaera]] - is a genus, not a species. Need to see if we can get specific - esp. with H&K's deep yellowwood
-    - [x] plant observation MD still mentions eBird
-    - [x] remove (or reduce the priority) the indvidual observation pages from pagefind search - see [this](https://pagefind.app/docs/indexing/) - will likely need a new template for the observation type
-  - Thinking about the nice to haves
-    - [ ] iNaturalist pages that include confirmation counts
-    - [x] Turn off life list generator and update documentation 
-    - [ ] implement a `lifeListGallery` macro for different observations
-        - extract relevant bubbles, extract images, construct gallery page content
-    - [ ] Need to look into merging old plants that don't have observations, but have entries in the plants folder
-      - adding observation macros to the bottom of each page
-    - [ ] Ditto for the link to `individual-plants` and how [[individual-plants]] links with the species
-      - individual plants arranged by zones
-      - ways to link plant observations to zones
-    - [ ] Anyway to solve the issue with species pages not having back links (due to life lists relying on macros to have those links) -- perhaps add a "See also" link on species pages to the relevant life list?
-    - [ ] update species pages to include scientific name (in brackets)
-
-
-- Replace/modify photo existing scripts to create observations with photos
-  - [ ] `addBirdPhoto` 
-  - [ ] `addPlantPhoto` 
-- [ ] Figure out whether to use the `add<Observation>` scripts to create observations for existing photos - or leave as is (probably leave)
-- [ ] Update [[plants]] (both index and note bubbles) to use observations (essentially add a macro)
-
-
-## Questions and tasks
-
-- What purpose(s) do we need to support - somewhat open ended, but need one or two to get going
-    - bird life list
-        - Update [[life-list-generator]] to not work on the CSV file and photographs. Replace photographs with markdown files that include images? Work with both?
-    - plants and individual plants
-        - observations are linked to individual plants
-        - plant pages will need to link to individual plants of same species
-- Converters will probably have to draw on downloaded CSV - no live data feed? 
-- Where do the converters fit within the pipeline
-    - before mkdocs as with current eBird?
-    - implemented into mkdocs pipeline - where?
+Life lists ([[plant-life-list]], [[other-fauna-life-list]], and [[bird-life-list]]) are manually updated by `importObservations.py`. It only updates content in the body of the Bubble between a couple of "macros" (`<!-- observations() -->` and `<!-- /observation -->` )
 
 ## Conceptual Design
 
@@ -299,9 +251,6 @@ Existing practice
 [other-fauna-life-list]: ../sense/Observations/other-fauna-life-list "Other-Fauna life list"
 [bubbles-as-objects]: bubbles-as-objects "Bubbles as objects"
 [acacia-salicina]: ../sense/landscape-garden/plants/acacia-salicina "Willow Acacia"
-[rhodosphaera]: ../sense/landscape-garden/plants/rhodosphaera "Rhodosphaera (deep yellowwood, yellow cedar)"
-[individual-plants]: ../sense/landscape-garden/individual-plants/individual-plants "Individual plants"
-[plants]: ../sense/landscape-garden/plants/plants "Plants"
-[life-list-generator]: life-list-generator "Life list generator"
 [computational-components]: computational-components "Computational components"
+[life-list-generator]: life-list-generator "Life list generator"
 [//end]: # "Autogenerated link references"

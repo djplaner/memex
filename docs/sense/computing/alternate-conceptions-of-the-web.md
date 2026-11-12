@@ -67,14 +67,14 @@ Principles including
 
 [Indieweb is punk](https://indiewebispunk.net) with echoes of [Edupunk](https://en.wikipedia.org/wiki/Edupunk). "Pretty" distillation of discussions about how the Indieweb principles are punk
 
-    - I. We Are the DIY Kids
-    - We Own the Masters Now
-    - No A&R, No Venture Capital, No Gatekeepers
-    - The Zine Never Died, It Just Got a Domain
-    - Make What You Need, Not What "Everyone" Needs
-    - Weird Is a Feature
-    - It's an All-Ages Show
-    - This Is the Counterculture Now
+- We Are the DIY Kids
+- We Own the Masters Now
+- No A&R, No Venture Capital, No Gatekeepers
+- The Zine Never Died, It Just Got a Domain
+- Make What You Need, Not What "Everyone" Needs
+- Weird Is a Feature
+- It's an All-Ages Show
+- This Is the Counterculture Now
 
 ### Conceptual ideas with a [[pkm|Personal Knowledge Management]] focus
 

@@ -380,19 +380,22 @@ class corpus:
         #if path_from.samefile(path_to):
         relative_path = path_from.relative_to( path_to, walk_up=True)
 #        if path_from.samefile(path_to):
+        print(f' --- relative_path **{str(relative_path)}** comparison {str(relative_path)== "."}')
         if str(relative_path) == ".":
-            print(f"--- same file .. stem is {relative_path.stem}")
-            relative_path = pathlib.Path(relative_path.stem)
+            # Suggests that fromPath and toPath are the same file
+            # Set relative path to just the filename of one of them
+            relative_path = path_from.stem
+#            print(f"--- same file .. stem is {relative_path}")
         else:
             # remove the leading ../ as for some reason it's providing one too many
             parentRe = re.compile('^\.\.\/')
             relative_path = pathlib.Path(parentRe.sub( '', str(relative_path)))
 
-        print(f""" 
-    from {path_from} 
-    to   {path_to}
-    relative {relative_path}
-""")
+#        print(f""" 
+#    from {path_from} 
+#    to   {path_to}
+#    relative {str(relative_path)}
+#""")
 
         return relative_path
         
@@ -454,7 +457,7 @@ class corpus:
                 print(f" relativePath was {relativePath} becoming", end=" ")
                 relativePath = removeMd.sub( '', str(relativePath))
                 print(f" **{relativePath}**")
-                input( "relative path (generate relative path) >")
+#                input( "relative path (generate relative path) >")
 
                 f.write(f"[{linkDef['text']}]: {relativePath} \"{linkDef['description']}\"\n")
 
