@@ -1,5 +1,6 @@
 ---
 title: Consistency, scale, templates, design systems and beyond
+type: post
 ---
 ```toml
 post_title="Consistency, scale, templates, design systems and beyond"

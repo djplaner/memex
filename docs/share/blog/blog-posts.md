@@ -1,5 +1,6 @@
 ﻿---
 title: Blog posts
+type: note
 ---
 I'm no longer writing posts for my [blog](https://djon.es/blog/) directly in Wordpress. Instead, the are being written using [Foam](https://foam.md/) which is used to maintain this site. Doing this unifies my writing process into one tool ([Visual Studio Code](https://en.wikipedia.org/wiki/Visual_Studio_Code)), avoids the schmozzle that is Wordpress editing, and lets me leverage the VSCode/Foam ecosystem of tools and practices. 
 

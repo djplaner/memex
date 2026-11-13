@@ -1,5 +1,6 @@
 ---
 title: Integrating Zotero into Foam
+type: post
 ---
 ```toml
 post_title='Integrating Zotero into Foam'

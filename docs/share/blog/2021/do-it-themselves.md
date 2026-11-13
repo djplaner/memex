@@ -1,5 +1,6 @@
 ---
 title: '"Do it themselves" and technology/purpose mismatch'
+type: post
 ---
 Or perhaps the "invisibility of purpose"
 

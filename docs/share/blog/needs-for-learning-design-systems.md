@@ -1,5 +1,6 @@
 ---
 title: Needs for Learning Design Systems
+type: post
 ---
 The 2020 rush to emergency online teaching...
 - We got thru it.

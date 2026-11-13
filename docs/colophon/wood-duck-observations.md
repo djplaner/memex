@@ -73,9 +73,7 @@ Currently, this includes the generation of
 
 1. [life lists](https://en.wikipedia.org/wiki/Life_list) (e.g. [[bird-life-list]], [[plant-life-list]], and [[other-fauna-life-list]]) which list all the relevant species included in the observations and which point to...
 2. Pages for each species (e.g. [[australasian-grebe]], [[brachychiton-rupestris]]) including background information and summaries of all the obervations.
-3. Individual pages acting as a data container for each observation (e.g. [observation](https://djon.es/memex/sense/Observations/bird-observations/australianIbis/S191595567.html) of an Australian Ibis), but not typically viewed directly (yet).
-
-[[S191595567]]
+3. Individual pages acting as a data container for each observation (e.g. [[S191595567|observation]] of an Australian Ibis), but not typically viewed directly (yet).
 
 Future work
 
@@ -84,9 +82,12 @@ Future work
     - Provide summary statistics of the various life lists (not just a long list)
     - Group lists into different categories (e.g. invasive, native, trees, shrubs etc)
 
-- making the 
-     
+- refining the species and observation pages
 
+    - have both be (safely) updatable, both from the original observation data source and via local Foam edits
+    - refine the observation data added to the page and how it is presented.
+    - figure out if the observation pages should include backlinks to species page (and if they should appear in the network graph)
+    - individual observation pages should use [[open-graph-per-page]]
 
 ## Usage
 
@@ -102,48 +103,28 @@ Future work
 
     `python util/generators/importObservations.py`
 
-3. Make additional edits via Foam
+3. Edit and publish with Foam
 
-4. Publish the site as per usual
+    - Make additional edits using VsCode and Foam
+    - Publish as normal
 
 ### The weaver scripts
 
 The "weaver" scripts take the external data and weave into the Memex structure with two primary tasks
 
 1. Convert each observation into a bubble (single markdown file) which links with the [[bubbles-as-objects]] idea.
+
+    Observation bubbles are currently excluded from backlink generation and thus network graph.
+
 2. Update "index" markdown files as required, including
 
     - individual species pages (e.g. [[acacia-salicina]]) grouping together all the observations of that species.
     - Life lists (e.g. [[bird-life-list]], [[plant-life-list]], and [[other-fauna-life-list]]) grouping together plants and observations thereof (maybe), but also providing additional information about that species.
     - regional lists (maybe) grouping together lists of plants 
 
-!!! success "What is successful weaving?"
-
-    A key measure will be how effectively the result works the way Memex should work, including
-
-    - using Foam to edit bubbles
-    - backlinks ([[integrate-backlinks-automatically-onto-pages]])
-    - graph visualisation ([[publishing-graph-interface]]) ❌ ❌ 
-
-        Species and observation bubbles not connected to the broader network.
-
-### Current implementation details
-
-*Data files*
-
-Data files stored in `memex_data` folder locally.
-
-*Importation and observation/species bubbles*
-
-`importObservations.py` intended to import both iNaturalist and eBird data. Essentially a harness that uses a source specific library to do the work.
-
-*Life lists*
-
-Life lists ([[plant-life-list]], [[other-fauna-life-list]], and [[bird-life-list]]) are manually updated by `importObservations.py`. It only updates content in the body of the Bubble between a couple of "macros" (`<!-- observations() -->` and `<!-- /observation -->` )
-
 ## Conceptual Design
 
-- Built on [[bubbles-as-objects]] practice
+Built on [[bubbles-as-objects]] practice.
 
 ### Data entry and storage
 
@@ -156,26 +137,16 @@ Life lists ([[plant-life-list]], [[other-fauna-life-list]], and [[bird-life-list
 - Each observation type has its own index (`docs/sense/Observations/bird-observations/bird-observations.md`) in a folder into which Markdown files are created for each observation.
     - **TODO** 
     
-### Display
-
-- The individual markdown file for an observation is visible/searchable/shareable
-    - **TODO** Where possible include open graph metadata for sharing on social media
-    - **TODO** `type` is having to do double duty. Indicating it's an observation, but type is also used for display????? (Maybe not)
-- [[computational-components]] esp. macro versions are used to display lists of all observations of a= type or to show the content of all observations of a given type
-    - `observationsIndex( <other-metadata> )` - generates an index of all observations matching provided metadata
-    - `observations( <other-metadata> ) ` - concatenate all the content from matching observations
-
-After implementation
-
-- [[life-list-generator]] (not a [[computational-components]]) generates life list, life list gallery and individual bird species pages
-
-
-- Provide a macro that allows grouping together observations of a specific type into another page
-    - Species page (for flora or fauna) that lists all observations of that species
-    - Region page that lists all observations made in that region
-    - Individual plant pages that list all observations made of that plant
-
 ## Data design
+
+!!! warning "Major re-design looming"
+
+    What follows is very much an early exploration. Needs revisiting.
+
+    - Include more source observation data in the front matter
+    - Add open graph data to front matter
+    - Consider replacing macros for observations with Python updating 
+
 
 Each observation has a markdown file with following possible front matter fields that can be used for searching and filtering:
 
@@ -268,9 +239,10 @@ Existing practice
 [other-fauna-life-list]: ../sense/Observations/other-fauna-life-list "Other-Fauna life list"
 [australasian-grebe]: ../sense/birdwatching/bird-species/australasian-grebe "Australasian Grebe"
 [brachychiton-rupestris]: ../sense/landscape-garden/plants/brachychiton-rupestris "Brachychiton rupestris (Queensland Bottle Tree)"
-[S191595567]: ../sense/Observations/bird-observations/australianIbis/S191595567 "Australian Ibis (Threskiornis molucca) - 2024-03-21"
+[S191595567|observation]: ../sense/Observations/bird-observations/australianIbis/S191595567 "Australian Ibis (Threskiornis molucca) - 2024-03-21"
+[open-graph-per-page]: open-graph-per-page "Open graph per page"
 [bubbles-as-objects]: bubbles-as-objects "Bubbles as objects"
 [acacia-salicina]: ../sense/landscape-garden/plants/acacia-salicina "Willow Acacia"
-[computational-components]: computational-components "Computational components"
 [life-list-generator]: life-list-generator "Life list generator"
+[computational-components]: computational-components "Computational components"
 [//end]: # "Autogenerated link references"

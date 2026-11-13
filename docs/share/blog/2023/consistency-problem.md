@@ -1,5 +1,6 @@
 ﻿---
 title: Templates and the scale problem
+type: post
 ---
 ```toml
 post_title='Templates and the problem scale'

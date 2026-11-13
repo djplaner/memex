@@ -1,6 +1,6 @@
 ---
 title: Exploring Dron's definition of educational technology
-type: note
+type: post
 tags:
   - nodt
   - dron

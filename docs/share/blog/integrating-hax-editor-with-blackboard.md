@@ -1,5 +1,6 @@
 ---
 title: Integrating Hax Editor with Blackboard
+type: post
 ---
 ```toml
 post_title='Integrating the HEX editor with Blackboard content items'

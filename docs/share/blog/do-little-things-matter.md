@@ -1,5 +1,6 @@
 ﻿---
 title: Do the little things matter in design for learning?
+type: post
 ---
 ```toml
 post_title='Do the little things matter in design for learning?'

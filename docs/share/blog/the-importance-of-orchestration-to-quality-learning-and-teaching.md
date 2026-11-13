@@ -1,5 +1,6 @@
 ---
 title: The importance of orchestration to quality learning and teaching
+type: post
 ---
 ??Is it orchestration or assembly/re-aranging, participative orchestration, find a word and replace "re-arrange" below with that word
 

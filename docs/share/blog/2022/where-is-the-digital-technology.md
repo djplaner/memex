@@ -1,5 +1,6 @@
 ---
 title: Where is the digital technology?
+type: post
 ---
 ```toml
 post_title='Where is the digital technology?'

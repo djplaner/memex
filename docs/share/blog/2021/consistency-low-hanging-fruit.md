@@ -1,5 +1,6 @@
 ---
 title: Consistency is the low-hanging fruit solution to a more complex problem
+type: post
 ---
 ```toml
 post_title='Consistency is the low-hanging fruit solution to a more complex problem'

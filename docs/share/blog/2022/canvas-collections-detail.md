@@ -1,5 +1,6 @@
 ---
 title: 'Canvas Collection: Purpose, How, and Functionality'
+type: post
 ---
 ```toml
 post_title='Canvas Collections: why, how and what'

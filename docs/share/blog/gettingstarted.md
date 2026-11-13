@@ -1,5 +1,6 @@
 ---
 title: Getting started with memex
+type: post
 ---
 ```toml
 post_title='Getting started with memex'

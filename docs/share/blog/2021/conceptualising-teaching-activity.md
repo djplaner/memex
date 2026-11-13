@@ -1,5 +1,6 @@
 ---
 title: Conceptutalising the complexity of teaching activity
+type: post
 ---
 Big picture thinking.
 

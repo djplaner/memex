@@ -1,5 +1,6 @@
 ---
 title: Digital education and the conservation of complexity
+type: post
 ---
 Pondering whether [Tesler's "Law of Conservation of Complexity"](http://www.nomodes.com/Larry_Tesler_Consulting/Complexity_Law.html) (Tesler’s law from now on) applies to digital (e-)learning, and if so, what implications might arise, especially given the great 
 

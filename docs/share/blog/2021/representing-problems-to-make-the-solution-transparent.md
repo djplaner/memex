@@ -1,5 +1,6 @@
 ---
 title: Representing problems to make the solution transparent
+type: post
 ---
 ```toml
 post_title='Representing problems to make the solution transparent'

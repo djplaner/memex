@@ -1,5 +1,6 @@
 ﻿---
 title: Supporting the design of discipline-specific digital learning activities
+type: post
 ---
 ```toml
 post_title='Supporting the design of discipline-specific digital learning activities'

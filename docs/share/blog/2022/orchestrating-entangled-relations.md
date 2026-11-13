@@ -1,6 +1,6 @@
 ﻿---
-title: 'Orchestrating entangled relations to break the iron triangle: examples from
-  a LMS migration'
+title: 'Orchestrating entangled relations to break the iron triangle: examples from a LMS migration'
+type: post
 ---
 ```toml
 post_title='Orchestrating entangled relations to break the iron triangle: examples from a LMS migration'

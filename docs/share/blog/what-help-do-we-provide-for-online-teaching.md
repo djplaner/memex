@@ -1,5 +1,6 @@
 ---
 title: What Help Do We Provide for Online Teaching
+type: post
 ---
 ```toml
 post_title='What help do we provide for moving to online teaching?'

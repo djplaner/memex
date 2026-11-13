@@ -1,5 +1,6 @@
 ---
 title: Broader Implications Hax Web Compontents
+type: post
 ---
 ## Broader implications: the NGDLE and the VLE 
 

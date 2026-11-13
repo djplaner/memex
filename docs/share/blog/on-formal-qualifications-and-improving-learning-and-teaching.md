@@ -1,5 +1,6 @@
 ---
 title: On formal qualifications and improving learning and teaching
+type: post
 ---
 ```toml
 post_title='On formal qualifications and improving learning and teaching'

@@ -1,5 +1,6 @@
 ---
 title: Conceptualising education design practice - where do we fit?
+type: post
 ---
 ## Chat with Emma 
 

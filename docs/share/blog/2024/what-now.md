@@ -1,5 +1,6 @@
 ---
 title: What now?
+type: post
 ---
 ```toml
 post_title='What now?'

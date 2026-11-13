@@ -1,5 +1,6 @@
 ---
 title: Announcing (finally) Canvas Collections
+type: post
 ---
 ```toml
 post_title='Announcing (finally) Canvas Collections'

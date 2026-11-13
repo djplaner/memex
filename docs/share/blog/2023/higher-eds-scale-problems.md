@@ -1,5 +1,6 @@
 ---
 title: Higher ed L&T's scale problem?
+type: post
 ---
 ```toml
 post_title="Higher ed L&T's scale problem?"

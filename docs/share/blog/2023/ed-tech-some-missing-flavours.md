@@ -1,5 +1,6 @@
 ﻿---
 title: Ed tech - some missing flavours
+type: post
 ---
 ## Introduction
 
