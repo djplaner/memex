@@ -109,20 +109,11 @@ def replaceListForLifeLists():
         # - linkDefs will need to be merged into existing linkDefs for the bubble
         [ lifeListMarkdown, lifeListLinkDefs ] = displayObservationsIndex( observations, { 'observation-type': species} )
 
-#        pprint(lifeListLinkDefs)
-#        input(" > linkDefs ")
-
-#        print(lifeListMarkdown)
-#        print()
-#        print(f"Found bubble for {LIFE_LIST_DETAILS[species]['title']}")
-#        input("Press enter to continue...")
-
         ##-- update the life list file by replacing the life list markdown
         lifeListBubble = bubbles.get_bubbles_by_frontmatter( { "title": LIFE_LIST_DETAILS[species]['title'] } )
         if len(lifeListBubble) == 0:
             print(f"No bubble found for {LIFE_LIST_DETAILS[species]['title']}")
             continue
-        #pprint(lifeListBubble[0],indent=4)
         #-- update the life list markdown (in lifeListBubble[0]) replacing anything between
         #     <!-- observations(species) -->
         #     <!-- /observation -->
@@ -137,26 +128,14 @@ def replaceListForLifeLists():
 """
         observationRe = re.compile(r"<!-- observations\(\) -->.*<!-- \/observations -->", flags=re.DOTALL)
 
-#        print("****** content")
-#        content = lifeListBubble[0]['content']
-#        print(content)
-#        input("Press enter to continue (to replace observations)...")
         #-- update the string
         lifeListBubble[0]['content'] = observationRe.sub( observationContent, lifeListBubble[0]['content'], count=1) 
-######        lifeListBubble[0]['content'] = content
-#        print(content)
-#        input("Press enter to continue (to replace observations)...")
 
         # **TODO** Do I need to (probably yes) add information to the linkDefs for the bubble for all
         # the links that have just been added in lifeListMarkdown ???
 
         #-- save the updated lifeListBubble[0]
-#        print("##########3")
-#        pprint(lifeListBubble[0])
-#        input("before save > ")
         bubbles.saveBubble( lifeListBubble[0] )
-#        lifeListBubble[0].saveBubble()
-#        input("Check it Press enter to continue (to replace observations)...")
 
         #-- need to add linkdefs (probably - without removing existing)
         # linkDefs are stored in the bubble's dictionary's linkDefs key. It's a dict keyed on
@@ -164,20 +143,13 @@ def replaceListForLifeLists():
 
 if __name__ == "__main__":
 
-    ## import and generate individual observation files from eBird and iNaturalist
+    # import eBird observations and generate any new observations and species pages required
     eBirdObs = importeBird()
+    # import iNaturalist observations and generate any new observations and species pages required
+    iNatObs = importiNaturalist()
     iNatObs = importiNaturalist()
 
-    #-- new method/naming for replace list macros with generation via Python
+    # update the list list files based on bubble contents 
+    #   ignore data imported from CSV files, rely just on bubble contents
     replaceListForLifeLists()
-#   replaceListForObservations()
-    
 
-
-        #-- based on params, call a different view
-
-        
-
-    ## combine eBirdObs and iNatObs
-#    observations = mergeObservations( { "ebird": eBirdObs, "inat": iNatObs })
-#    generateBirdLifeList(birdObservations)
