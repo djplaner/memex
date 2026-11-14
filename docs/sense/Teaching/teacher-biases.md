@@ -1,5 +1,6 @@
 ---
 title: Teacher Biases
+type: note
 ---
 
 - [[train-to-overcome-biases]]

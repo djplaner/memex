@@ -1,5 +1,6 @@
 ﻿---
 title: Breaking the iron triangle
+type: note
 ---
 [[iron-triangle]]
 ## Submission 

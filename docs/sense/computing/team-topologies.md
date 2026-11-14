@@ -1,5 +1,6 @@
 ---
 title: Team Topologies
+type: note
 ---
 References: [Atlassian on Team Topologies](https://www.atlassian.com/devops/frameworks/team-topologies)
 

@@ -1,5 +1,6 @@
 ﻿---
 title: Reflective mathematical homework
+type: note
 ---
 Boaler (2015) citers working with two teachers to develop "a set of home reflection questions that they choose from each day to help their students process and understand the mathematics that they have met that day" (p. 46)
 

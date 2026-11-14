@@ -1,6 +1,6 @@
 ﻿---
-title: 'Learning technology as contested terrain: Insights from teaching academics
-  and learning designers in Australian higher education'
+title: 'Learning technology as contested terrain: Insights from teaching academics and learning designers in Australian higher education'
+type: note
 ---
 Tay, A. Z., Huijser, H., Dart, S., & Cathcart, A. (2022). Learning technology as contested terrain: Insights from teaching academics and learning designers in Australian higher education. *Australasian Journal of Educational Technology*, 56--70. <https://doi.org/10.14742/ajet.8179>
 

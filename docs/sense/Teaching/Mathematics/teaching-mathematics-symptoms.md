@@ -1,5 +1,6 @@
 ﻿---
 title: Symptoms of the state of mathematics teaching
+type: note
 ---
 ## Misc reports
 

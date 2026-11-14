@@ -1,5 +1,6 @@
 ﻿---
 title: ASCILITE 2022
+type: note
 ---
 ## Presentations
 

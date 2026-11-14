@@ -1,5 +1,6 @@
 ﻿---
 title: The Red Queen Trap
+type: note
 ---
 Reflections on [The Red Queen Trap](https://www.tedmitew.net/2020/11/the-red-queen-trap/) by [Teodor Mitew](https://www.tedmitew.net/about-teodor-mitew/)
 

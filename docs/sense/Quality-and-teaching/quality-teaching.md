@@ -1,5 +1,6 @@
 ﻿---
 title: Quality teaching
+type: note
 ---
 **See also**: [[quality]] [[teaching-quality]] 
 

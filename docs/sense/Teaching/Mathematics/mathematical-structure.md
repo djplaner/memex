@@ -1,6 +1,7 @@
 ﻿---
 template: math.html
 title: Mathematical structure
+type: note
 ---
 Nascent idea about the importance of understanding mathematical structures to being able to teach it effectively. But begs the question which mathematical structure? There's probably not one?
 

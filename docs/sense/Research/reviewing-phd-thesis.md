@@ -1,5 +1,6 @@
 ---
 title: Reviewing PhD Thesis
+type: note
 ---
 Misc thoughts re: reviewing PhD thesis
 

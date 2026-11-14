@@ -1,5 +1,6 @@
 ﻿---
 title: Four levels of computer skills (and how little most people know)
+type: note
 ---
 # Four levels of computer skills (and how little most people know)
 

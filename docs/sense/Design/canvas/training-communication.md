@@ -1,5 +1,6 @@
 ---
 title: Canvas training communication
+type: note
 ---
 - Communicating for online learning
 

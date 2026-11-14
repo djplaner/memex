@@ -1,4 +1,5 @@
 ---
+type: note
 title: Concrete examples
 ---
 Abstract concepts are harder to learn than concrete. Using concrete examples (in various ways) to complement abstract concepts helps improve learning.

@@ -1,4 +1,5 @@
 ---
+type: note
 title: '# 001 - Exploring Australian Curriculum - Dev log'
 ---
 ## 001 - Exploring Australian Curriculum - Dev log

@@ -1,5 +1,6 @@
 ---
 title: Recipes
+type: note
 ---
 ## Gra's recipes - via Mum's book
 

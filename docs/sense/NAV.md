@@ -1,5 +1,6 @@
 ---
 title: No title found
+type: navigation
 ---
 * [Sense](sense.md)
    * Abstractions:

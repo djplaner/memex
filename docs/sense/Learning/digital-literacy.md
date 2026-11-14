@@ -1,4 +1,5 @@
 ﻿---
+type: note
 title: Digital Literacy
 ---
 ## Path

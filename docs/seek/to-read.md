@@ -2,7 +2,7 @@
 tags:
 - seek
 title: To Read
-types: note
+type: note
 ---
 Collection of articles, web pages etc that I've at some stage marked to read.
 

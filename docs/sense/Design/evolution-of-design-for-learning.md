@@ -1,5 +1,6 @@
 ﻿---
 title: Evolution of design for learning
+type: note
 ---
 Carvahlo et al (2023) provide the following timeline of the evolution of "stuff" leading to design for learning.
 

@@ -1,5 +1,6 @@
 ---
 title: Narrated Powerpoint transcripts
+type: note
 ---
 ## Problem
 

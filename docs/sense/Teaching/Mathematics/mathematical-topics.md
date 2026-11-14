@@ -1,5 +1,6 @@
 ﻿---
 title: Mathematical Topics
+type: note
 ---
 Misc. ways to summarise broad topics/themes in mathematics
 

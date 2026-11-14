@@ -1,5 +1,6 @@
 ﻿---
 title: My Teaching Philosophy
+type: note
 ---
 Nascent attempt to articulate my teaching philosophy. Initially focused on listing ideas that resonate.
 

@@ -1,4 +1,5 @@
 ---
+type: note
 title: Generativity
 ---
 ## Zittrain (2006)

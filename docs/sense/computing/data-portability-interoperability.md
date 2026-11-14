@@ -1,5 +1,6 @@
 ---
 title: Data portability and interoperability
+type: note
 ---
 Widely seen as key structural changes/requirements to ensure effective competition between digital services/platforms. 
 

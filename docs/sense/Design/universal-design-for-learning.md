@@ -1,5 +1,6 @@
 ---
 title: Universal Design for Learning
+type: note
 ---
 ## Does it improve learning outcomes? Is that the right question? 
 

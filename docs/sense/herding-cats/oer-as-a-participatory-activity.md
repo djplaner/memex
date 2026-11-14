@@ -1,4 +1,5 @@
 ﻿---
+type: note
 title: OER as a participatory activity
 ---
 If OER is participatory, then the environment should support and encourage participation

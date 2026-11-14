@@ -1,5 +1,6 @@
 ﻿---
 title: First experiments with LLM APIs
+type: note
 ---
 Early explorations into using LLMs via APIs. Hopefully informing an idea to create LLM fuelled [[casa]] by templating forms of prompt engineering. Inspired by [[prompt-engineering-for-educators]] and approaches used by Khan Academy (see [[building-ai-applications-based-on-learning-research]])
 

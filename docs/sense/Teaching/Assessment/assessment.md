@@ -1,5 +1,6 @@
 ---
 title: Assessment
+type: note
 ---
 
 ## Perspectives on assessment

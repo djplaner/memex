@@ -1,5 +1,6 @@
 ---
 title: Math Facts
+type: note
 ---
 e.g. 8 x 4 = 32 is a mathematical fact.
 

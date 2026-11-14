@@ -1,4 +1,5 @@
 ﻿---
+type: note
 title: Kafkaesque and Orwellian Technology Design
 ---
 [Post](https://jondron.ca/kafkaesque-and-orwellian-technology-design/) from Jon Dron starts off with pointers to examples of hard technologies from the Romanian legal system and moves ito talking about

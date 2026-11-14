@@ -1,4 +1,5 @@
 ---
+type: note
 title: Carpentaries training course
 ---
 Software Carpentaries [instructor training course](https://carpentries.github.io/instructor-training/) gives a good overview

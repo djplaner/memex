@@ -1,5 +1,6 @@
 ﻿---
 title: Design for a mathematical mindset
+type: note
 ---
 Nascent set of ideas about how to go about designing interventions that support the development of a [[mathematical-mindset]]
 

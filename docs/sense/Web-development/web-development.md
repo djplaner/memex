@@ -1,5 +1,6 @@
 ﻿---
 title: Web development
+type: note
 ---
 Resources on all things developing web applications
 

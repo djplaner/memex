@@ -1,5 +1,6 @@
 ---
 title: Education 4.0
+type: note
 ---
 ## Core elements
 

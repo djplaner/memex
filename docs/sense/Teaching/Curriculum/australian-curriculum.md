@@ -1,5 +1,6 @@
 ﻿---
 title: Australian Curriculum
+type: note
 ---
 For much of my teaching I'll be using [version 9 of the Australian Curriculum](https://v9.australiancurriculum.edu.au/) which I've added here under [[v9-learning-areas]]
 

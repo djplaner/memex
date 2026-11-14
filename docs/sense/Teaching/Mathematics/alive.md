@@ -1,5 +1,6 @@
 ﻿---
 title: ALIVE
+type: note
 ---
 De Geest & Lee (2019) define ALIVE teaching as 
 

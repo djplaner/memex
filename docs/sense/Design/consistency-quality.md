@@ -1,5 +1,6 @@
 ﻿---
 title: Consistency vs quality?
+type: note
 ---
 # Consistency vs quality?
 

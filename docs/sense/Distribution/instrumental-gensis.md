@@ -1,5 +1,6 @@
 ---
 title: Instrumental Genesis
+type: note
 ---
 How does a tool become something that is used by someone to achieve a meaningful task? How does a tool become an instrument?
 

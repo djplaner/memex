@@ -1,5 +1,6 @@
 ---
 title: 'Python for teaching mathematics '
+type: note
 ---
 ## Research 
 

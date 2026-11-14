@@ -1,5 +1,6 @@
 ﻿---
 title: Herding Cats
+type: note
 ---
 Resources around how to encourage people (teachers) undergo change
 

@@ -1,5 +1,6 @@
 ﻿---
 title: Mathematical problem solving
+type: note
 ---
 A collection of insights/perspectives on problem solving in mathematics - particularly related pedagogies.
 

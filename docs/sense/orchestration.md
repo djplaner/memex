@@ -1,5 +1,6 @@
 ﻿---
 title: Orchestration
+type: note
 ---
 - [[evaluating-orchestration]]
 

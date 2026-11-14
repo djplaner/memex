@@ -1,5 +1,6 @@
 ﻿---
 title: Notice and wonder
+type: note
 ---
 Method for prompting students to generate and explore mathematical questions of their own choosing. An example of a [[mathematically-productive-tasks]]
 

@@ -1,5 +1,6 @@
 ﻿---
 title: ASCILITE 2022 - Day 2
+type: note
 ---
 See [[ascilite-2022]]
 

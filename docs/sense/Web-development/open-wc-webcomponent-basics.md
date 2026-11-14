@@ -1,5 +1,6 @@
 ﻿---
 title: Open Wc Webcomponent Basics
+type: note
 ---
 Working through [this CodeLab](https://open-wc.org/codelabs/basics/web-components.html?index=/codelabs/#0)
 

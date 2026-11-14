@@ -1,5 +1,6 @@
 ---
 title: local-canvas-dev
+type: note
 ---
 ## docker - mac 
 

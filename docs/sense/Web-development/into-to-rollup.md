@@ -1,5 +1,6 @@
 ---
 title: Into to Rollup
+type: note
 ---
 ## [rollup-starter-app](https://github.com/rollup/rollup-starter-app)
 

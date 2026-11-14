@@ -1,5 +1,6 @@
 ﻿---
 title: Prompt engineering
+type: note
 ---
 ## Types of prompts?
 

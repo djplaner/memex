@@ -1,5 +1,6 @@
 ---
 title: Planning for behaviour management
+type: note
 ---
 Dunk (2020) suggests the follow strategies to increase engagement
 

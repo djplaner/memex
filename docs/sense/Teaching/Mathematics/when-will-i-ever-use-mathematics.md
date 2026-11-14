@@ -1,5 +1,6 @@
 ﻿---
 title: When will I ever use mathematics
+type: note
 ---
 Resources: [Sir, when are we going to use this?](https://djon.es/blog/2011/05/03/sir-when-are-we-going-to-use-this/)
 

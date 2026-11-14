@@ -1,5 +1,6 @@
 ---
 title: Three gaps caused by friction
+type: note
 ---
 The challenges/problems/friction for most project management.  i.e. why the project management approach to the LMS migration project (and so much) failed. 
 

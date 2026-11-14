@@ -1,5 +1,6 @@
 ---
 title: '# Lived complexity'
+type: note
 ---
 ## Lived complexity
 

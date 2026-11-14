@@ -1,5 +1,6 @@
 ﻿---
 title: Mathematical Mindset
+type: note
 ---
 Related: [[mathematical-mindsets]] - vague notes from reading Boaler (2015)
 

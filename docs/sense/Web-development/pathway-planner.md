@@ -1,5 +1,6 @@
 ﻿---
 title: Pathway planner
+type: note
 ---
 Docs for the development of the pathway-planner component.
 

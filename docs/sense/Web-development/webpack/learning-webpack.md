@@ -1,5 +1,6 @@
 ---
 title: Learning Webpack
+type: note
 ---
 Finally grok Webpack.  ~/code/2021/webpack
 

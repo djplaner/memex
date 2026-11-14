@@ -1,5 +1,6 @@
 ---
 title: Inquiry Learning
+type: note
 ---
 ## Guided inquiry
 

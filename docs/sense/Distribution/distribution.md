@@ -1,5 +1,6 @@
 ﻿---
 title: Distribution
+type: note
 ---
 - [[evaluating-orchestration]]
 - [[hacker-ethos-collective-intelligence]]

@@ -1,5 +1,6 @@
 ﻿---
 title: H-A-X as CASA?
+type: note
 ---
 ## Introduction 
 

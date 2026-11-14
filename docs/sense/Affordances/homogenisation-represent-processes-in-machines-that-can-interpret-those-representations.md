@@ -1,7 +1,10 @@
 ﻿---
 title: Homogenisation - represent processes in machines that can interpret those representations
+type: note
 ---
+
 In comment 11 on [this blog post](https://computinged.wordpress.com/2019/01/21/standards-are-limiting-and-long-lasting-alan-kay-was-right/) Alan Kay (also has other comments) writes about the "earliest ideas about the 'essence' of computing"
+
 > are all about being able to represent processes in machines that can interpret the representations. So this is a kind of “dynamic math and dynamic reading and writing and a dynamic parts of thinking“, and the study of this and making ideas and theories about this is a science. They decided to call it “computer science” as an aspiration for the future.
 
 ## Link with programming languages

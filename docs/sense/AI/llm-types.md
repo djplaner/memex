@@ -1,5 +1,6 @@
 ---
 title: LLM Types
+type: note
 ---
 ## Choice between proprietary or open source foundation models
 

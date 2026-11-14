@@ -1,5 +1,6 @@
 ﻿---
 title: ASCILITE 2022 - Day 1
+type: note
 ---
 See [[ascilite-2022]] Monday 5 December 2022
 

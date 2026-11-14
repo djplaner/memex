@@ -1,4 +1,5 @@
 ---
+type: note
 title: 'Ponderings on AI '
 ---
 The rise of chatGPT has seen various ponderings, here's mine.

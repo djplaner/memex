@@ -1,6 +1,6 @@
 ﻿---
-title: 'Exploring digital literacy: moving from buzzwords towards a social construction
-  of competency'
+title: 'Exploring digital literacy: moving from buzzwords towards a social construction of competency'
+type: note
 ---
 ## Abstract
 

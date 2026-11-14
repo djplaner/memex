@@ -1,5 +1,6 @@
 ---
 title: algebra
+type: note
 ---
 ## Summary of learning
 

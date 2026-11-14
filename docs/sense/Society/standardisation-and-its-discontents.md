@@ -1,5 +1,6 @@
 ﻿---
 title: Standardisation and its discontents
+type: note
 ---
 Summary and thoughts of
 

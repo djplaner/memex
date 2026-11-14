@@ -1,4 +1,5 @@
 ---
+type: note
 title: JISC Learning Design Guide
 ---
 [Designing learning and assessment in a digital age](https://www.jisc.ac.uk/guides/designing-learning-and-assessment-in-a-digital-age) apparently published in 2018

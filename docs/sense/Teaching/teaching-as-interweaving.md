@@ -1,5 +1,6 @@
 ﻿---
 title: Teaching as interweaving
+type: note
 ---
 Nascent idea that teaching is usefully conceptualised as focusing on the interweaving of (very) different strands together. Echoing some of the [[gatherers-weavers-augmenters]] work and [[casa]] idea.
 

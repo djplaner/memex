@@ -1,5 +1,6 @@
 ---
 title: Creating learning paths
+type: note
 ---
 Summary of training session with Instructor - "Creating Learning Paths"
 

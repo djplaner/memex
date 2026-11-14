@@ -1,5 +1,6 @@
 ---
 title: Design Science Research
+type: note
 ---
 ## Definitions
 

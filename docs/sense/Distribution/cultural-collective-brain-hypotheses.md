@@ -1,5 +1,6 @@
 ---
 title: Cultural and Collective Brain Hypotheses
+type: note
 ---
 Henrich et al (2023)
 

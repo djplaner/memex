@@ -1,5 +1,6 @@
 ﻿---
 title: Canvas Development
+type: note
 ---
 Placeholder for all sorts of information related to developing for //community.canvaslms.com/t5/Canvas
 

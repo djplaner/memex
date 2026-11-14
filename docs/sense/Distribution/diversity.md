@@ -1,5 +1,6 @@
 ﻿---
 title: Diversity
+type: note
 ---
 - [[cultural-collective-brain-hypotheses]]
 

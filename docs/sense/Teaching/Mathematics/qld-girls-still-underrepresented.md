@@ -1,6 +1,6 @@
 ---
-title: Queensland girls still underrepresented in specialist maths despite push to
-  increase participation - ABC News
+title: Queensland girls still underrepresented in specialist maths despite push to increase participation - ABC News
+type: note
 ---
 #### [www.abc.net.au](https://www.abc.net.au/news/2023-04-24/girls-participation-in-stem-subjects-dwindling-new-data-shows/102252532) ▪ Monday, April 24, 2023, 5:45 AM
 

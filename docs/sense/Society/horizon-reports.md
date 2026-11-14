@@ -1,5 +1,6 @@
 ---
 title: Horizon Repors
+type: note
 ---
 ## Value and criticism
 

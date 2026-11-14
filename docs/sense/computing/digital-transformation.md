@@ -1,5 +1,6 @@
 ﻿---
 title: Digital Transformation
+type: note
 ---
 ## Views on Digital Transformation
 

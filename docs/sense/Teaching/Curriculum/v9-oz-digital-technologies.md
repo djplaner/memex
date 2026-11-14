@@ -1,5 +1,6 @@
 ---
 title: v9-oz-digital-technologies
+type: note
 ---
 [Digitial Technologies](https://v9.australiancurriculum.edu.au/f-10-curriculum/learning-areas/digital-technologies/year-7_year-8_year-9_year-10?view=quick&detailed-content-descriptions=0&hide-ccp=0&hide-gc=0&side-by-side=1&strands-start-index=0&subjects-start-index=0)
 

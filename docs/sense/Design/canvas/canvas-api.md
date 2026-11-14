@@ -1,5 +1,6 @@
 ﻿---
 title: '# Canvas LMS API'
+type: note
 ---
 ## Canvas LMS API
 

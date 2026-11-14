@@ -1,4 +1,5 @@
 ﻿---
+type: note
 title: Effective learning strategies
 ---
 Sources: [Learning Scientists site](https://www.learningscientists.org/downloadable-materials), references below.

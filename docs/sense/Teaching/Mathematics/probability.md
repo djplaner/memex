@@ -1,5 +1,6 @@
 ---
 title: Probability
+type: note
 ---
 ## Resources
 

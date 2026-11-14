@@ -1,5 +1,6 @@
 ---
 title: LangChain
+type: note
 ---
 Resources
 

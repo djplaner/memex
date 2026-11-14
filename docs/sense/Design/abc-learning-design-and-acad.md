@@ -1,5 +1,6 @@
 ﻿---
 title: ABC Learning Design and ACAD
+type: note
 ---
 Pondering the relationship between ABC Learning Design and ACAD.  
 

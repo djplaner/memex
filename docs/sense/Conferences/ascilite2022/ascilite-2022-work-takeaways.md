@@ -1,5 +1,6 @@
 ﻿---
 title: ASCILITE 2022 - misc work takeaways
+type: note
 ---
 See [[ascilite-2022]]
 

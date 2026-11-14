@@ -1,4 +1,5 @@
 ﻿---
+type: note
 title: Overcoming algorithm aversion (by making it protean)
 ---
 # Overcoming algorithm aversion (by making it protean)

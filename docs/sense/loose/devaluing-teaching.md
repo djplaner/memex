@@ -1,5 +1,6 @@
 ---
 title: Devaluing teaching
+type: note
 ---
 Quinn (2012, p. 78) quotes (Weimer 1997, 52)
 > Teaching continues to be devalued – the question is why? It is argued here that the devaluing is the result of five assumptions held about teaching: teaching excellence is nothing more than a matter of technique; teaching requires no training or ongoing professional development; pedagogical practice and scholarship can exist without standards; the wisdom of teaching practice entails no real worthwhile knowledge; and content (not students and learning) should drive instructional decision making.

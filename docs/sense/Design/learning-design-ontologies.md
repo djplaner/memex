@@ -1,5 +1,6 @@
 ---
 title: Learning Design Ontologies
+type: note
 ---
 ## Overview 
 

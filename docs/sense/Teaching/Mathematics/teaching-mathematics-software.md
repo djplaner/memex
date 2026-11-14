@@ -1,5 +1,6 @@
 ---
 title: Software for teaching mathematics
+type: note
 ---
 ## [Code4Math](http://code4math.org/)
 

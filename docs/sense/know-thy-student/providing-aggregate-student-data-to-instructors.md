@@ -1,5 +1,6 @@
 ﻿---
 title: Providing aggregate student data to instructors
+type: note
 ---
 Provide some nice rationale for [[know-thy-student]] and links somewhat to PAM but doesn't touch on the more contextualised/orchestration focus of [[know-thy-student]] 
 

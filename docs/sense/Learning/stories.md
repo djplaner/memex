@@ -1,4 +1,5 @@
 ---
+type: note
 title: Stories
 ---
 From Michelle's Module 1 for EDM5000

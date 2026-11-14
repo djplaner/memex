@@ -1,4 +1,5 @@
 ---
+type: note
 title: Characteristics of successful Professional Development/Learning
 ---
 Desimone (2009) argues that there is some consensus around the characteristics of PD (of teachers) that improves outcomes

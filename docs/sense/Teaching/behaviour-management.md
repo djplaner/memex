@@ -1,5 +1,6 @@
 ﻿---
 title: Behaviour management
+type: note
 ---
 ## Strategies
 

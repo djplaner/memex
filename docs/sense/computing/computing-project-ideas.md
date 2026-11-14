@@ -1,5 +1,6 @@
 ﻿---
 title: Computing project ideas
+type: note
 ---
 Storage space for misc. ideas for computing projects.
 

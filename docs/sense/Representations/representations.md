@@ -1,5 +1,6 @@
 ﻿---
 title: Representations 
+type: note
 ---
 
 - [[number-scrabble]]

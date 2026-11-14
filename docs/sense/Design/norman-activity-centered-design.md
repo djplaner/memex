@@ -1,5 +1,6 @@
 ---
-title: norman-activity-centered-design
+title: Activity centered design (Norman)
+type: note
 ---
 ## Norman
 

@@ -1,4 +1,5 @@
 ---
+type: note
 title: Emergence
 ---
 [This youtube video on emergence](https://www.youtube.com/watch?v=iHBF72lVVrc) cropped up in my YouTube feed.

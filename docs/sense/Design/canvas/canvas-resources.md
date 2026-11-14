@@ -1,5 +1,6 @@
 ﻿---
 title: Canvas resources
+type: note
 ---
 Collection point for misc Canvas resources - see also [[canvas-models]] and [[canvas-api]]
 

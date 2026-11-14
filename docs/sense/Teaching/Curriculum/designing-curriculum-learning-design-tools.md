@@ -1,5 +1,6 @@
 ﻿---
 title: Designing Curriculum Learning Design Tools
+type: note
 ---
 
 Design space for early exploration into ideas for designing tools to help a teacher engage with [[australian-curriculum]] (and the like) and apply it to every day activies, possibly including

@@ -1,5 +1,6 @@
 ---
 title: Class observations
+type: note
 ---
 ## Talk
 

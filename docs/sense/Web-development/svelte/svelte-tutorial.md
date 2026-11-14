@@ -1,5 +1,6 @@
 ﻿---
 title: Svelte tutorial
+type: note
 ---
 See [[svelte]]
 

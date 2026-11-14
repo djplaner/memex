@@ -1,5 +1,6 @@
 ﻿---
 title: Growth Mindset
+type: note
 ---
 ## Comparing growth and fixed mindsets
 

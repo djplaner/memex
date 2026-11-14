@@ -1,5 +1,6 @@
 ﻿---
 title: The fundamental challenge to teaching
+type: note
 ---
 An attempt to conceptualise (and gather together different conceptualisations of) the core challenge of teaching. An attempt to develop a [[transparent-representation]] which will enable better approaches at design.  
 

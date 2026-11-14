@@ -1,5 +1,6 @@
 ﻿---
 title: Roadmaps for web development
+type: note
 ---
 [Original website](https://roadmap.sh) offers annotated roadmaps for
 

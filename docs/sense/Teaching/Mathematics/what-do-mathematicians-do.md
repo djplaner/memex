@@ -1,5 +1,6 @@
 ﻿---
 title: What do mathematicians do?
+type: note
 ---
 # What do mathematicians do?
 

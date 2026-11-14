@@ -1,4 +1,5 @@
 ---
+type: note
 title: Representing learning designs
 ---
 ## Example tools 

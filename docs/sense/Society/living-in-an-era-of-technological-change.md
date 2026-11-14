@@ -1,5 +1,6 @@
 ---
 title: Living in an era of technological change?
+type: note
 ---
 # Living in an era of technological change?
 

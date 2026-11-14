@@ -1,5 +1,6 @@
 ---
 title: Predatory Inclusion
+type: note
 ---
 ## First experience with the concept
 

@@ -1,5 +1,6 @@
 ---
 title: vite-plugin-monkey
+type: note
 ---
 [Vite plugin server](https://github.com/lisonge/vite-plugin-monkey) to build userscripts, including support for svelte
 

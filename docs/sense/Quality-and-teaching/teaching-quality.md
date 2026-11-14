@@ -1,5 +1,6 @@
 ---
 title: Teaching quality
+type: note
 ---
 Raban (2007)
 > most universities’ quality management systems employ annual monitoring and periodic review procedures that are retrospective and provision focused. These systems are weakly integrated with an institution’s decisions on resource allocation and longer term strategic planning.....The CNAA-derived systems employed by most universities were designed for the purpose of securing accountability of (and within) institutions that were, at that time, working in more stable environments. Today, when the agility of institutions is at a premium, they seem unhelpfully dirigiste and burdensome.

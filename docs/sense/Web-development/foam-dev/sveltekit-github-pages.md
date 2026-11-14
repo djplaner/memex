@@ -1,5 +1,6 @@
 ﻿---
 title: 'SvelteKit and Github pages '
+type: note
 ---
 !!! warning "Deprecated"
 

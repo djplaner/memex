@@ -1,5 +1,6 @@
 ﻿---
 title: Early LLMm value thoughts
+type: note
 ---
 See: [[AI]]
 

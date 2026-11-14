@@ -1,5 +1,6 @@
 ﻿---
 title: Mathematics Conceptual Knowledge for Teaching (MCKT)
+type: note
 ---
 # Mathematics Conceptual Knowledge for Teaching (MCKT)
 

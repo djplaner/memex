@@ -1,6 +1,7 @@
 ---
 template: math.html
 title: Fibonacci sequence
+type: note
 ---
 References:  [Wikipedia](https://en.wikipedia.org/wiki/Fibonacci_sequence), [Math is fun](https://www.mathsisfun.com/numbers/fibonacci-sequence.html)
 

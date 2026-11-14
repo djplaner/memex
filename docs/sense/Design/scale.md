@@ -1,5 +1,6 @@
 ﻿---
 title: Scale and learning, teaching & education
+type: note
 ---
 ## Scale and education need 
 

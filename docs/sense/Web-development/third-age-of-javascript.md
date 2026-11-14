@@ -1,5 +1,6 @@
 ﻿---
 title: Third age of Javascript
+type: note
 ---
 [Blog post](https://www.swyx.io/js-third-age/) suggesting that we're about to head into a 3rd age of Javascript.
 

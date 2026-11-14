@@ -1,4 +1,5 @@
 ---
+type: note
 title: Self Regulated Learning
 ---
 ## Zimmerman

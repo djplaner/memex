@@ -1,4 +1,5 @@
 ﻿---
+type: note
 title: Python
 ---
 Misc resources re: Python

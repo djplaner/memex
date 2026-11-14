@@ -1,5 +1,6 @@
 ﻿---
 title: Homework
+type: note
 ---
 Boaler (2015)
 > There is a lot of evidence that homework, of any form, is unnecessary or damaging;...But there is hope: schools that decide to end homework see no reductions in students’ achievement and significant increases in the quality of home life (Kohn, 2008).

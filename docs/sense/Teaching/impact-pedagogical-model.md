@@ -1,5 +1,6 @@
 ---
 title: Impact pedagogical model
+type: note
 ---
 Queensland (GU) based model - as a form of [golden circle]
 

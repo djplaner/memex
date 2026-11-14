@@ -1,4 +1,5 @@
 ---
+type: note
 title: Data Transfer Project (Initiative)
 ---
 The [Data Transfer Project](https://dtinit.org/documentation) has three components  (sadly Java)

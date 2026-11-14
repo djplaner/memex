@@ -1,5 +1,6 @@
 ﻿---
 title: Changing interactions to improve L&T
+type: note
 ---
 ## Spark
 

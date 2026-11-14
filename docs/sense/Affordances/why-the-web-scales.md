@@ -1,5 +1,6 @@
 ﻿---
 title: Why the web scales
+type: note
 ---
 The [citation for Tim Berners-Lee's Turing award](https://amturing.acm.org/award_winners/berners-lee_8087960.cfm) reads (emphasis added)
 

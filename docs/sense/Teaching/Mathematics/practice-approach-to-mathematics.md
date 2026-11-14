@@ -1,5 +1,6 @@
 ﻿---
 title: Practice approach to mathematics
+type: note
 ---
 Boaler (2015)
 > I followed students for three years through a practice approach to mathematics—students were shown isolated examples in math class, which they practiced over and over again

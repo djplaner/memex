@@ -1,5 +1,6 @@
 ﻿---
 title: Differentiation
+type: note
 ---
 Main (2020)
 

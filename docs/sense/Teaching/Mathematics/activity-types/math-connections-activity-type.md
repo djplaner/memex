@@ -1,5 +1,6 @@
 ﻿---
 title: Mathematical Connections Activity Type
+type: note
 ---
 Early start on ideas for an activity type to be use when [[teaching-mathematics]]
 

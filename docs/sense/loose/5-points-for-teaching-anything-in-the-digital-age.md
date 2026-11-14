@@ -1,4 +1,5 @@
 ---
+type: note
 title: 5 points for teaching anything in the digital age
 ---
 5 points

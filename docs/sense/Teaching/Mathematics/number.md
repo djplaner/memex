@@ -1,5 +1,6 @@
 ---
 title: Number
+type: note
 ---
 ## Summary
 

@@ -1,5 +1,6 @@
 ﻿---
 title: 'Dealing with bad relationships by turning BAD: An LMS migration case study'
+type: note
 ---
 Breaking the iron triangle is a key strategic need for contemporary higher education. Increasingly every institution is trying to figure out how to offer better quality learning opportunitites to more people in more ways at a cheaper cost. But such attempts challenge the widely accepted project management maxim that there exists "iron" constraints between quality, cost, and access. A maxim that suggests any change in one - expanding access - inevitably requires a change in the other two.
 

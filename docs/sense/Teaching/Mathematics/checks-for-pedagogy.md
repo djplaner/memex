@@ -1,5 +1,6 @@
 ﻿---
 title: Checks for pedagogy
+type: note
 ---
 Checklist for pedagogy in mathematics teaching offered by Grant Sanderson in a talk titled [_Math's pedagogical curse_](https://www.youtube.com/watch?v=UOuxo6SA8Uc)
 

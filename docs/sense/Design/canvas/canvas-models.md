@@ -1,5 +1,6 @@
 ﻿---
 title: Canvas models
+type: note
 ---
 Attempt to distill the models that underpin Canvas
 

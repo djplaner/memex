@@ -1,5 +1,6 @@
 ---
 title: Mathematical Memes
+type: note
 ---
 Collections of mathematical memes intended for eventually use in teaching.
 

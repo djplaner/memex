@@ -1,5 +1,6 @@
 ---
 title: No title found
+type: navigation
 ---
 * [Wood Duck Meadows](wood-duck-meadows.md)
     * [House](house.md)

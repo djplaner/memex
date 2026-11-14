@@ -1,4 +1,5 @@
 ---
+type: note
 title: 'Coherent Pluralism '
 ---
 To read: Jackson (1999)

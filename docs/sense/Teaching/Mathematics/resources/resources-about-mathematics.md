@@ -1,5 +1,6 @@
 ---
 title: Resources delving deeper into mathematics
+type: note
 ---
 ## Other resources 
 

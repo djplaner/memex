@@ -1,5 +1,6 @@
 ---
 title: 'Postmodern systems: Intersubjectivity through dialog'
+type: note
 ---
 - Quinn Wilton
 - @quinn@ocotodon.social

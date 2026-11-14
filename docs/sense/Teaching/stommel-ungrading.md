@@ -1,5 +1,6 @@
 ﻿---
 title: Jesse Stommel on ungrading
+type: note
 ---
 Summary and reflections on [a twitter thread on ungrading](https://twitter.com/Jessifer/status/1655763679437266944) from Jesse Stommel
 

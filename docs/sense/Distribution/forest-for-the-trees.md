@@ -1,4 +1,5 @@
 ﻿---
+type: note
 title: Forest for the trees
 ---
 One of two initial observations ([[trees-for-the-forest]] being the other) of an education system's attempts to improve learning and teaching at scale. Both are side effects of using a standardised, top-down, reductionist approach to a complex problem. 

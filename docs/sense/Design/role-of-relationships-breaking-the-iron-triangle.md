@@ -1,6 +1,6 @@
 ﻿---
-title: 'Orchestrating entangled relations to break the iron triangle: Observations
-  from an LMS migration'
+title: 'Orchestrating entangled relations to break the iron triangle: Observations from an LMS migration'
+type: note
 ---
 Evolved into a poster abstract and submission
  

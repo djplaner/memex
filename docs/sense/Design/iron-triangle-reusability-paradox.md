@@ -1,5 +1,6 @@
 ﻿---
 title: Links between Iron Triangle and the Reusability Paradox
+type: note
 ---
 Explore the idea that the [[iron-triangle]] and [[reusability-paradox]] cover some of the same ground i.e. that there is some link between them. e.g. the reason people wish to reduce context and become more general is to increase scale/scope.  But by moving that you inextricably move the other.
 

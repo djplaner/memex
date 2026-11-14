@@ -1,5 +1,6 @@
 ---
 title: Quality
+type: note
 ---
 "learning our lesson" cites Biggs statement that quality can be defined as an outcome, a property, or a process.
 

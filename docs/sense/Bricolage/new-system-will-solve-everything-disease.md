@@ -1,5 +1,6 @@
 ﻿---
 title: New System Will Solve Everything Disease
+type: note
 ---
 Eventually when problems with existing organisational information systems became sufficiently troubling for sufficiently important people it is important that it get solved. The [[set-mindset]] underpinning organisational information systems is based on the assumption that smart people can come design the solution, typically another, better system.
 

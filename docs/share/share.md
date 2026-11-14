@@ -1,5 +1,6 @@
 ﻿---
 title: Share
+type: note
 ---
 What do I want to share with the world?
 

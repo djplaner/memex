@@ -1,4 +1,5 @@
 ﻿---
+type: note
 title: Canvas Learning Journal
 ---
 Document exploration and design of a [[learning-journal]] [[casa]] for Canvas.

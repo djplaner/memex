@@ -1,5 +1,6 @@
 ---
 title: 2 Sigma Problem
+type: note
 ---
 Experiments using three types of learning methods
 

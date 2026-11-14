@@ -1,5 +1,6 @@
 ---
 title: Quality enhancement
+type: note
 ---
 ## Quality assurance and quality enhancement in e-learning
 

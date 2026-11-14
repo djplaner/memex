@@ -1,4 +1,5 @@
 ﻿---
+type: note
 title: Relational
 ---
 Thinking about the term *relational*

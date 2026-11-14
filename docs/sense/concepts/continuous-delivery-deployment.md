@@ -1,5 +1,6 @@
 ---
 title: Continuous Delivery and Deployment
+type: note
 ---
 ## Continuous delivery 
 

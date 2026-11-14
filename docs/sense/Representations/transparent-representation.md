@@ -1,5 +1,6 @@
 ﻿---
 title: Transparent representation
+type: note
 ---
 Simon (1996) argues that problem representation is an important part of problem solving and design. He identifies the extreme (perhaps not always possible) version of this view as 
 

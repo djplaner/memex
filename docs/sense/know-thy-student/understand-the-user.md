@@ -1,5 +1,6 @@
 ---
 title: Understand the user
+type: note
 ---
 Alan Kay in comment 27 on [this post](https://computinged.wordpress.com/2019/01/21/standards-are-limiting-and-long-lasting-alan-kay-was-right/) writes
 

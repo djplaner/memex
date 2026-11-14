@@ -1,5 +1,6 @@
 ---
 title: Normal (Gaussian) distribution
+type: note
 ---
 ## Why it seems everywhere and why under closer inspection it is almost nowhere.
 

@@ -1,5 +1,6 @@
 ---
 title: Technology
+type: note
 ---
 ## Quotes about technology
 

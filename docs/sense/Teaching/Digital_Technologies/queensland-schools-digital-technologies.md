@@ -1,5 +1,6 @@
 ﻿---
 title: Queensland schools and digital technologies
+type: note
 ---
 ## 2023
 

@@ -1,5 +1,6 @@
 ﻿---
 title: Ethical and Critical considerations 
+type: note
 ---
 
 ## Education etc.

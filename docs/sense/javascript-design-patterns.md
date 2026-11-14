@@ -1,5 +1,6 @@
 ---
 title: javascript-design-patterns
+type: note
 ---
 ## Resources
 

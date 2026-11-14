@@ -1,5 +1,6 @@
 ﻿---
 title: Society
+type: note
 ---
 Insights and opinions into the nature of Society.
 

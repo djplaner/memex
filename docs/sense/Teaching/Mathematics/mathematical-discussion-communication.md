@@ -1,5 +1,6 @@
 ﻿---
 title: Mathematical discussion and communication (in the classroom)
+type: note
 ---
 # Mathematical discussion and communication (in the classroom)
 

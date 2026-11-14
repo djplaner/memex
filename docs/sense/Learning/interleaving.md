@@ -1,4 +1,5 @@
 ﻿---
+type: note
 title: Interleaving
 ---
 Like [[spaced-practice]], interleaving is a scheduling technique shown to increase learning. The distinction between interleaving and [[spaced-practice]] can be blurry.

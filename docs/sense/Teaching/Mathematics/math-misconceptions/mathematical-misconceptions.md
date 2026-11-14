@@ -1,5 +1,6 @@
 ﻿---
 title: Mathematical misconceptions and difficulties
+type: note
 ---
 A list of various types of mathematical misconceptions, grouped into two categories 
 

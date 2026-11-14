@@ -1,5 +1,6 @@
 ---
 title: Low Floor, High Ceiling, Wide Walls
+type: note
 ---
 Resnick and Silverman (2005) offer
 

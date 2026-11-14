@@ -1,5 +1,6 @@
 ﻿---
 title: Law of Requisite Variety
+type: note
 ---
 Related: [[law-of-requisite-complexity]]
 

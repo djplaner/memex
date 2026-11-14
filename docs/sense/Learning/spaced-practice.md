@@ -1,4 +1,5 @@
 ﻿---
+type: note
 title: Spaced practice (aka Distributed Practice)
 ---
 ## Definition

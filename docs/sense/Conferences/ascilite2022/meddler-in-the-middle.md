@@ -1,5 +1,6 @@
 ﻿---
 title: Meddler in the middle
+type: note
 ---
 Also mentioned in [[the-last-mile-meddler-in-the-middle]]
 

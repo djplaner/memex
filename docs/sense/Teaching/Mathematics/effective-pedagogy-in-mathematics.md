@@ -1,5 +1,6 @@
 ﻿---
 title: Effective pedagogy in mathematics
+type: note
 ---
 A collection of suggestions from literature etc about what makes for effective mathematics pedagogy.
 

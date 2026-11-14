@@ -1,5 +1,6 @@
 ﻿---
 title: ABC learning design explained
+type: note
 ---
 [ABC Learning Design](https://abc-ld.org/) is
 

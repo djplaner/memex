@@ -1,5 +1,6 @@
 ﻿---
 title: Automation
+type: note
 ---
 - [[rpa-suitable-tasks]]
 

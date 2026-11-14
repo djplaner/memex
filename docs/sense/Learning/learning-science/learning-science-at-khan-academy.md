@@ -1,4 +1,5 @@
 ---
+type: note
 title: Learning Sciences at Khan Academy
 ---
 [Source](https://blog.khanacademy.org/an-introduction-to-learning-science-at-khan-academy/)

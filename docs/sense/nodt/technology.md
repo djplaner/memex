@@ -1,4 +1,5 @@
 ---
+type: note
 title: Technology
 ---
 ## Invented after you were born

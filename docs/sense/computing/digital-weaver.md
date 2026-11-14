@@ -1,5 +1,6 @@
 ---
 title: Digital Weaver
+type: note
 ---
 A digital weaver is someone within an environment that enables the use of digital technology to automate and augment the weaving together of different phenomena for personal purposes.
 

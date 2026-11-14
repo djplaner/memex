@@ -1,5 +1,6 @@
 ---
 title: Educational developers contribution to the COVID response
+type: note
 ---
 Summary and rough working for ASCILITE paper
 

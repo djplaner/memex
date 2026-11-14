@@ -1,5 +1,6 @@
 ---
 title: Web Components
+type: note
 ---
 Definition from [open-wc Web Components basics](https://open-wc.org/codelabs/basics/web-components.html?index=/codelabs/#0)
 

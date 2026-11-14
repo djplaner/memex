@@ -1,5 +1,6 @@
 ---
 title: Mind Tools (and Mindstorms)
+type: note
 ---
 # Mind Tools (and Mindstorms)
 

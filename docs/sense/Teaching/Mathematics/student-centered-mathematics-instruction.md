@@ -1,5 +1,6 @@
 ---
 title: Student Centred Mathematics instruction
+type: note
 ---
 Defined by Thanheiser & Melhuish (2023) as instruction where
 

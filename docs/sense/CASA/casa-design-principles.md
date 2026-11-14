@@ -1,4 +1,5 @@
 ---
+type: note
 title: Design principles for Context-Appropriate Scaffolding Assemblages (CASA)
 ---
 # Design principles for Context-Appropriate Scaffolding Assemblages (CASA)

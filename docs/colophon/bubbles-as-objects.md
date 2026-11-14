@@ -23,9 +23,13 @@ All this makes it possible to write code that can [[gather-weave-augment]] the d
     On revising this page, I rediscovered the macro that generated the following table. It showed that there were almost 500 bubbles of `unknown` type. What I wanted to know was what proportion of all the bubbles this was? So, I modified the macro to show it. 495 was (at that stage) 30.6% of all the bubbles.  However, I'd just finished initial work on [[wood-duck-observations]] which added 229 (14.2%) bubbles of the `observation` type.
 
     Being able to quickly make this change and improve my understand of this site is great, but that benefit only arises if
-
+be more 
     1. I've the discipline and design intent to identify and consistently use `type` for bubbles.
+
+        Which I've now fixed, no more unknown types
     2. I've got the ability and opportunity to write the code.
+
+    But as a benefit, now that I'm currently more disciplined, I can see that the [[wood-duck-observation]] work is helping be more disciplined as I see changes/benefits emerge. i.e. about 8% of bubbles are either plant or bird species. Giving me a rough idea of how many different species I'm observing.
 
 
 {{ showBubbleTypes() }}

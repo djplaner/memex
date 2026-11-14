@@ -1,4 +1,5 @@
 ---
+type: note
 title: Concrete Lounges
 ---
 Originally expressed [in a blog post](https://djon.es/blog/2014/12/18/concrete-lounge/).

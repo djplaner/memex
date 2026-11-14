@@ -1,5 +1,6 @@
 ﻿---
 title: Three acts of a mathematical story
+type: note
 ---
 Dan Meyer's idea for ["The three acts of a mathematical story"](https://blog.mrmeyer.com/2011/the-three-acts-of-a-mathematical-story/). Also available is a [list of three act tasks](https://docs.google.com/spreadsheets/u/0/d/1jXSt_CoDzyDFeJimZxnhgwOVsWkTQEsfqouLWNNC6Z4/pub?output=html) and [another list](https://tapintoteenminds.com/3act-math/)
 

@@ -1,5 +1,6 @@
 ﻿---
 title: Ungrading
+type: note
 ---
 - [[stommel-ungrading]]
 

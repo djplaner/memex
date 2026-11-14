@@ -1,5 +1,6 @@
 ﻿---
 title: Strategic Planning
+type: note
 ---
 Need to specify the strategic goals of the institution and the methods to be used.
 

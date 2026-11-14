@@ -1,5 +1,6 @@
 ﻿---
 title: High impact teaching strategies
+type: note
 ---
 Sources: [Victorian DoE](https://www.education.vic.gov.au/school/teachers/teachingresources/practice/improve/Pages/hits.aspx) and related [full PDF](https://www.education.vic.gov.au/Documents/school/teachers/support/high-impact-teaching-strategies.pdf)
 

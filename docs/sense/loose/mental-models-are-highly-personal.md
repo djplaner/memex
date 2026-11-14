@@ -1,5 +1,6 @@
 ---
 title: Mental models are highly personal
+type: note
 ---
 Talking about web/internet and how people perceive these terms and how is this linked to [[nodt]].
 

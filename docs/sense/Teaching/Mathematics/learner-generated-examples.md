@@ -1,5 +1,6 @@
 ﻿---
 title: Learner Generated Examples
+type: note
 ---
 Watson and Shipman (2008) 
 > ...learners being asked to generate examples of new mathematical concepts, thus developing and exploring example spaces.....experience can be oragnised in such a way that shifts of understanding take place as a result of learners' own actions.

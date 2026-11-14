@@ -1,5 +1,6 @@
 ---
 title: Teaching as design science
+type: note
 ---
 ## Laurillard, 2012
 

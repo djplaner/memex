@@ -1,5 +1,6 @@
 ﻿---
 title: My First LitElement Web Component
+type: note
 ---
 Description and reflections of create a very simple web component using [LitElement's live tutorial](https://lit-element.polymer-project.org/try)
 

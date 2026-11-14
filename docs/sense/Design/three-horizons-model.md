@@ -1,5 +1,6 @@
 ---
 title: Three Horizons Model
+type: note
 ---
 Way of thinking about future thinking...lot more
 

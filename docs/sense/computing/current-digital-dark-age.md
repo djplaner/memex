@@ -1,11 +1,13 @@
 ---
 title: Current Digital Dark Age
+type: note
 ---
 Dave Lane wrote [_The current (digital) Dark age](https://davelane.nz/current-digital-dark-age) arguing "that we're in the midst of a new Dark Age" (also [written about previously](https://davelane.nz/midnight-musing-history-repeats-only-time-its-digital))
 
 Comparing the "old" dark age with its three layers (my phrasing) with current day
 
 | Label | Old Dark Age | New Dark Age | Description |
+| --- | --- | --- | --- |
 | Power | The Church | [Tech's Frightful Five](https://www.nytimes.com/2017/05/10/technology/techs-frightful-five-theyve-got-us.html) | the power, the source of exploitation, the autocrats |
 | Enablers | Literate monks | Technical folk | standing above the commoners through use of Latin. The literate monks - writing, translating - were the "studious, high-aptitude socially awkward nerds of their day - beavered away on tasks assigned them by their anointed masters" |
 | Exploited | Illiterate serfs | Computer users | Digitally illiterate | 

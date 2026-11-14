@@ -1,5 +1,6 @@
 ---
 title: Design Systems
+type: note
 ---
 ## Misc quotes
 

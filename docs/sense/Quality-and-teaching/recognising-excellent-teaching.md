@@ -1,5 +1,6 @@
 ---
 title: Recognising excellent teaching
+type: note
 ---
 Pointing to practices to be adopted and also a potential role for learning analytics to identify world-best practice
 

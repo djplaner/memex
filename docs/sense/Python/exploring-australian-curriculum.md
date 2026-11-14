@@ -1,4 +1,5 @@
 ---
+type: note
 title: Exploring australian curriculum
 ---
 ## Development log

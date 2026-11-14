@@ -1,5 +1,6 @@
 ---
 title: Pedagogy before technology
+type: note
 ---
 Numerous authors (Ascough, 2002; Leijen et al, 2008; Glover et al, 2016; Cowling & Birt, 2018; Sankey et al, 2020) suggest that thinking of the "pedagogy before the technology" is a good approach to designing learning and teaching experiences.
 

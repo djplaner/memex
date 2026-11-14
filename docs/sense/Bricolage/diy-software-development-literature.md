@@ -1,5 +1,6 @@
 ---
 title: Literature of DIY software development
+type: note
 ---
 ## Shell and DIY/Citizen development
 

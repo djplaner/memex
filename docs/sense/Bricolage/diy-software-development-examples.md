@@ -1,5 +1,6 @@
 ---
 title: Examples of DIY Software Development
+type: note
 ---
 ## Commerical, platforms etc 
 

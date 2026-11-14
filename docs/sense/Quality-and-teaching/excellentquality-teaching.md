@@ -1,5 +1,6 @@
 ---
 title: Excellent/quality teaching
+type: note
 ---
 ## The problem
 

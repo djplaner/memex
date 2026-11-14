@@ -1,5 +1,6 @@
 ---
 title: Activity focused mathematics teaching (design for learning)
+type: note
 ---
 
 Nascent idea to underpin [[my-approach-to-teaching-mathematics]] on an activity centered design for learning approach. i.e. moving the focus beyond learning outcomes, curriculum, direct instruction, etc. and other reductionist assumptions toward are more socio-cultural ([[bad-mindset]]) approach.

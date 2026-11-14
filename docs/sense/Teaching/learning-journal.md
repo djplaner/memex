@@ -1,5 +1,6 @@
 ﻿---
 title: Learning Journal
+type: note
 ---
 Notes on the learning journal learning activity design.
 

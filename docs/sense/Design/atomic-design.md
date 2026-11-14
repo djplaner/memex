@@ -1,5 +1,6 @@
 ---
 title: Atomic Design
+type: note
 ---
 [Book](https://atomicdesign.bradfrost.com/table-of-contents/) by Brad Frost
 

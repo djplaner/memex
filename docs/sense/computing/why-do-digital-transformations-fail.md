@@ -1,5 +1,6 @@
 ﻿---
 title: Why do digital transformations fail? 
+type: note
 ---
 
 - See also [[digital-transformation]]

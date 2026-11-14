@@ -1,5 +1,6 @@
 ---
 title: COVID Response outcomes
+type: note
 ---
 ## From Bellaby et al
 

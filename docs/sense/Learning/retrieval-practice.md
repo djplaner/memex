@@ -1,4 +1,5 @@
 ---
+type: note
 title: Retrieval Practice
 ---
 Initially identified as a side effect of testing. Engaging in more retrieval improves the minds _retrieval strength_.

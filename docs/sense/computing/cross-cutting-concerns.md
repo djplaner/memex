@@ -1,5 +1,6 @@
 ---
 title: Cross cutting concerns
+type: note
 ---
 Resources 
 

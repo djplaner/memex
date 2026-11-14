@@ -1,5 +1,6 @@
 ---
 title: ASCILITE 2022 - interesting stuff on the socials
+type: note
 ---
 ## Dashboards and the tension with learning is hard
 

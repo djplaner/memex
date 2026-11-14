@@ -1,4 +1,5 @@
 ﻿---
+type: note
 title: Developer automation
 ---
 Ideas about how, why, and perspectives on software developers automating tasks.

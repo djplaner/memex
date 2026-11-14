@@ -1,5 +1,6 @@
 ---
 title: Situated cognition
+type: note
 ---
 Brown, J. S., Collins, A., & Duguid, P. (1989). [Situated cognition and the culture of learning.](https://people.ucsc.edu/~gwells/Files/Courses_Folder/ED%20261%20Papers/Situated%20Cognition.pdf) Educational Researcher, 18(1), 32-42.
 

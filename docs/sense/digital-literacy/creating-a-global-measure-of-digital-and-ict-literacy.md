@@ -1,5 +1,6 @@
 ﻿---
 title: Creating a global measure of digital and ICT literacy
+type: note
 ---
 The question I have is whether or not what they are measuring is a useful thing to measure. An ill-informed prejudice I have is that the focus tends to be too much on being able to use contemporary digital technologies, rather than having a fundamental understanding of what digital technologies are and how to (re-)learn how to use **and** manipulate/program them.
 

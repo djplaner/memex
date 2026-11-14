@@ -1,4 +1,5 @@
 ﻿---
+type: note
 title: Dual coding
 ---
 Multiple representations of the same information enhances learning and memory. Some information automatically evokes other representations (e.g. _dog_ evokes a visual etc) which also has the same benefit. Other work suggest adding motor movements also provides benefit.

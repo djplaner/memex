@@ -1,4 +1,5 @@
 ﻿---
+type: note
 title: Exploring Oz Curriculum - Dev log 2
 ---
 ## Tasks 

@@ -1,5 +1,6 @@
 ---
 title: Community Governance
+type: note
 ---
 ## [CommunityRule](https://communityrule.info/)
 

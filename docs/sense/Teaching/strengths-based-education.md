@@ -1,5 +1,6 @@
 ---
 title: strengths-based-education
+type: note
 ---
 id Jones
  

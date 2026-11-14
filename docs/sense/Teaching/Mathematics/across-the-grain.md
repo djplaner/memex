@@ -1,5 +1,6 @@
 ﻿---
 title: Across the grain
+type: note
 ---
 Based on the idea that mathematics has inherent structure. That learning mathematics is best achieved by engaging with and learning to use that structure. Something not often achieved. Watson (2001) suggests that good mathematicians are aware of this structure. They see global similarities in local examples. 
 

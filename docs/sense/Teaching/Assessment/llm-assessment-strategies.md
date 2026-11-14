@@ -1,5 +1,6 @@
 ---
 title: LLM Assessment Strategies
+type: note
 ---
 Place to think out loud and develop ideas. Goal being to be
 >  helping to produce assessment design that is intellectually robust, manageable, and resistant to AI technologies.

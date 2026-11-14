@@ -1,5 +1,6 @@
 ﻿---
 title: Design
+type: note
 ---
 Bubble holding misc. thoughts about design.
 

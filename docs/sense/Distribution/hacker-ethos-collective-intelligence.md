@@ -1,5 +1,6 @@
 ---
 title: Hacker Ethos as Collective Intelligence
+type: note
 ---
 ## Spark from _Coding Democracy_ 
 

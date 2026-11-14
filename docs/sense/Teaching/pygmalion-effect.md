@@ -1,5 +1,6 @@
 ---
 title: Pygmalion Effect (aka "Rosenthal effect")
+type: note
 ---
 # Pygmalion Effect (aka "Rosenthal effect")
 

@@ -1,5 +1,6 @@
 ﻿---
 title: Teaching mathematics for a growth mindset
+type: note
 ---
 See als: [[teaching-mathematics]], [[design-for-mathematical-mindset]], [[growth-mindset]]
 

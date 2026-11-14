@@ -1,6 +1,7 @@
 ﻿---
 tags: mathematics, v9ozCurriculum
 title: Algebra - for version 9 of the Australian Curriculum
+type: note
 ---
 ## Year 10
 

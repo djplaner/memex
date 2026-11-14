@@ -1,5 +1,6 @@
 ﻿---
 title: Canvas work arounds
+type: note
 ---
 Collecting various existing workarounds for Canvas
 

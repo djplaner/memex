@@ -1,5 +1,6 @@
 ﻿---
 title: Shaping Spaces - Peter Goodyear ALTC 2017 Keynote
+type: note
 ---
 Related resources
 

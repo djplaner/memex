@@ -1,5 +1,6 @@
 ---
 title: Questioning for retrieval
+type: note
 ---
 ## Questioning for retrieval: five mistakes to avoid
 

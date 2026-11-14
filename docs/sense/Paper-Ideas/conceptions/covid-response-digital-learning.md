@@ -1,5 +1,6 @@
 ---
 title: 'COVID response what unis did '
+type: note
 ---
 - COVID and broad economic, societal and personal impacts...but also L&T
 - Universities had to adjust rapidly to COVID moving the bulk online

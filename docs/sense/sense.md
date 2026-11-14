@@ -1,4 +1,5 @@
 ---
+type: note
 title: Sense
 ---
 See: [[pkm]]

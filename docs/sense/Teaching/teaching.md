@@ -1,5 +1,6 @@
 ﻿---
 title: 'Teaching '
+type: note
 ---
 Collection of resources, ideas etc around secondary teaching.
 

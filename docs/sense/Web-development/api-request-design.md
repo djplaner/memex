@@ -1,5 +1,6 @@
 ---
 title: Designing API request mechanisms
+type: note
 ---
 ## Purpose
 

@@ -1,5 +1,6 @@
 ---
 title: Freedom and the Learning Management System (LMS)
+type: note
 ---
 # Freedom and the Learning Management System (LMS)
 

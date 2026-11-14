@@ -1,5 +1,6 @@
 ---
 title: '# Higher education use of cloud systems'
+type: note
 ---
 ## Higher education use of cloud systems
 

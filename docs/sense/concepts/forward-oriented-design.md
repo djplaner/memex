@@ -1,5 +1,6 @@
 ﻿---
 title: Forward-oriented design
+type: note
 ---
 Idea first suggested in [Dimitriadis & Goodyear (2013)](https://petergoodyear.files.wordpress.com/2017/07/dimitriadis-goodyear-2013-forward-oriented-design.pdf) and [Goodyear and Dimitriadis (2013)](https://petergoodyear.files.wordpress.com/2017/07/goodyear-dimitriadis-2013-in-medias-res.pdf)
 

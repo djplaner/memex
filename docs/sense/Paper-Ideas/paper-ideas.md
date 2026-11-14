@@ -1,5 +1,6 @@
 ﻿---
 title: Paper Ideas
+type: note
 ---
 And some earlier [[published-papers]]
 

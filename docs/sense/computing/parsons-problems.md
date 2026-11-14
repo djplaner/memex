@@ -1,5 +1,6 @@
 ---
 title: Parson's problems
+type: note
 ---
 ## ChatGPT 
 

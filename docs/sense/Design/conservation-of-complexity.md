@@ -1,4 +1,5 @@
 ﻿---
+type: note
 title: The Law of Conservation of Complexity
 ---
 A draft blog post - [[digital-education-conservation-complexity]] - expands further on the following.

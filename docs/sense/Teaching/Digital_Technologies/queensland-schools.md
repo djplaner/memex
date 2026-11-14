@@ -1,5 +1,6 @@
 ---
 title: Queensland Schools
+type: note
 ---
 Misc melting pot of resources/info re: Queensland schools.
 

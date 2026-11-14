@@ -1,5 +1,6 @@
 ---
 title: Tasks, activities and student learning
+type: note
 ---
 [Peter Goodyear talk](https://petergoodyear.net/2019/11/06/tasks-activities-and-student-learning/)
 

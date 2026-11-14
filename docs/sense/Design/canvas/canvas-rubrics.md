@@ -1,5 +1,6 @@
 ---
 title: Canvas Rubrics
+type: note
 ---
 ## Misc resources
 

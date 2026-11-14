@@ -1,5 +1,6 @@
 ---
 title: 'Tweaks, templates and the LMS: exploring how to improve the learning environment'
+type: paper
 ---
 ## Published
 

@@ -1,5 +1,6 @@
 ﻿---
 title: 'Decomposition '
+type: note
 ---
 ## Problems/challenges 
 

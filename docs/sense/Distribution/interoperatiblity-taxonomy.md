@@ -1,4 +1,5 @@
 ---
+type: note
 title: Interoperability Taxonomy
 ---
 

@@ -1,4 +1,5 @@
 ---
+type: note
 title: "Education and the future of software freedom \u2014 GNU MediaGoblin"
 ---
 Talk presented at [libreplanet.org](https://libreplanet.org).

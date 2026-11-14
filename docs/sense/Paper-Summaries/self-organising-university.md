@@ -1,5 +1,6 @@
 ---
 title: Self-organising university
+type: note
 ---
 Summary of
 

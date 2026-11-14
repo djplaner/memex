@@ -1,5 +1,6 @@
 ﻿---
 title: Teaching Digital Technologies
+type: note
 ---
 <div class="grid cards" markdown>
 

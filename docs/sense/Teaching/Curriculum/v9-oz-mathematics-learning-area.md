@@ -1,5 +1,6 @@
 ﻿---
 title: Mathematics learning area - Australian Curriculum v9
+type: note
 ---
 ## Strands
 

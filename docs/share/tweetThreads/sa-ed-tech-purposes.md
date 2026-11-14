@@ -1,6 +1,8 @@
 ---
 title: DSA and Ed Tech
+type: note
 ---
+
 Reading about "Distributed situation awareness" (DSA) https://www.sciencedirect.com/science/article/pii/S0003687021002465 (HT: @beerc) & pondering its utility in explaining apparent limitations with L&T #entangledPedagogy #tel. In particular, institutional tendencies toward shared, rather than compatible awareness. 
 
 > Distributed situation awareness is "activated knowledge for a specific task within a system ....  use of appropriate knowledge (held by individuals, captured by devices, etc.) which relates to the state of the environment and the changes as the situation develops" 

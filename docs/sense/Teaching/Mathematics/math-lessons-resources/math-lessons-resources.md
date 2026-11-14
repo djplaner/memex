@@ -1,6 +1,7 @@
 ---
 title: "Mathematics: lessons and resources"
 tags: teaching, mathematics
+type: note
 ---
 
 Collection of planning, resources and reflections on lessons I have taught.

@@ -1,5 +1,6 @@
 ---
 title: Canvas API dev
+type: note
 ---
 Resources and approaches to using the Canvas API.
 

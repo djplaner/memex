@@ -1,5 +1,6 @@
 ---
 title: Cognitive Strategies
+type: note
 ---
 ## Three groups
 

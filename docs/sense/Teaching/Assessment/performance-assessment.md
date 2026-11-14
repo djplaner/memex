@@ -1,5 +1,6 @@
 ---
 title: Performance Assessment
+type: note
 ---
 While there are numerous definitions of performance assessment, Eisner (1999, p. 659) suggests that performance assessment is
 

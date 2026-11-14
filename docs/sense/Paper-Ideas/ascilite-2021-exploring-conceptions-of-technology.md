@@ -1,6 +1,6 @@
 ﻿---
-title: 'Exploring conceptions of technology: Implications for learning, teaching,
-  and meso-level practitioners'
+title: 'Exploring conceptions of technology: Implications for learning, teaching, and meso-level practitioners'
+type: note
 ---
 ## Abstract
 

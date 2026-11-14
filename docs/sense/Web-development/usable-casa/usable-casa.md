@@ -1,5 +1,6 @@
 ﻿---
 title: Usable CASA
+type: note
 ---
 ## See also
 

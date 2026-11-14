@@ -1,4 +1,5 @@
 ---
+type: note
 title: On limits of explicit instruction - pedagogical explanations
 ---
 Beyond the following prosaic quote, the source offers an accessible discussion of the limits of any specific type of teaching.

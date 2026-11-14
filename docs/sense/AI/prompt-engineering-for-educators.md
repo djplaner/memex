@@ -1,5 +1,6 @@
 ---
 title: prompt-engineering-for-educators
+type: note
 ---
 ## Designing effective AI Prompts (for Primary and High School Teachers)
 

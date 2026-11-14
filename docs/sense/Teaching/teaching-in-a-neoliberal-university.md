@@ -1,5 +1,6 @@
 ---
 title: Teaching in a neo-liberal university
+type: note
 ---
 ## Overview 
 

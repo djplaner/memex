@@ -1,6 +1,7 @@
 ﻿---
 template: math.html
 title: Number talks
+type: note
 ---
 References: [QCAA _Number talks_ fact sheet](https://www.qcaa.qld.edu.au/downloads/aciq/general-resources/ac_gc_factsheet_number_talks.pdf), [Math for love](https://mathforlove.com/lesson/number-talks/)
 

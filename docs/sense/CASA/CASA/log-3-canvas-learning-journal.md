@@ -1,4 +1,5 @@
 ﻿---
+type: note
 title: Log 3 - Canvas learning journal
 ---
 Implementation of a [[canvas-learning-journal]] [[casa]].

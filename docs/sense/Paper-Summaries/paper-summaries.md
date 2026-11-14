@@ -1,4 +1,5 @@
 ﻿---
+type: note
 title: Paper Summaries
 ---
 [[summary-template]]

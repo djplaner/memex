@@ -1,5 +1,6 @@
 ---
 title: Data Structures and Algorithms
+type: note
 ---
 ## Data Structures and Algorithms in Python
 

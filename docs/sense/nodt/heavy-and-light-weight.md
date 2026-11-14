@@ -1,4 +1,5 @@
 ---
+type: note
 title: Heavy Weight and Light Weight Information Technology
 ---
 Idea generated from Bygstad (2017, p. 180)

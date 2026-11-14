@@ -1,5 +1,6 @@
 ﻿---
 title: Differentiation - Mathematics
+type: note
 ---
 ## Mathematics Strategies that promote equity and achievement 
 

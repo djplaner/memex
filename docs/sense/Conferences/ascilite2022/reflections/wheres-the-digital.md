@@ -1,5 +1,6 @@
 ---
 title: Where's the digital?
+type: note
 ---
 # Where's the digital?
 

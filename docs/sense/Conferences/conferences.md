@@ -1,5 +1,6 @@
 ﻿---
 title: Conferences
+type: note
 ---
 ## 2022
 

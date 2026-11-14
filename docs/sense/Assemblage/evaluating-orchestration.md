@@ -1,5 +1,6 @@
 ﻿---
 title: Evaluating orchestration
+type: note
 ---
 Nascent attempt to extract meaning from [[role-of-relationships-breaking-the-iron-triangle]]
 

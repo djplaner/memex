@@ -1,5 +1,6 @@
 ﻿---
 title: When to use accordions
+type: note
 ---
 [detailed look at when](https://www.nngroup.com/articles/accordions-complex-content/) to use accordions
 

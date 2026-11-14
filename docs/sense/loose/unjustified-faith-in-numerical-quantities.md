@@ -1,6 +1,6 @@
 ---
 title: Unjustified faith in numerical quantities
-type: quote
+type: note
 ---
 Labels metricophilia as
 

@@ -1,5 +1,6 @@
 ﻿---
 title: Assemblage (Jones, 2015)
+type: note
 ---
 # Assemblage (Jones, 2015)
 

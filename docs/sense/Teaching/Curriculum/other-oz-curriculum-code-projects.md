@@ -1,5 +1,6 @@
 ﻿---
 title: other-oz-curriculum-code-projects
+type: note
 ---
 Collection of projects from GitHub that mention the [[australian-curriculum]].  Most seem one-off explorations/experiments. Nothing particularly active.
 

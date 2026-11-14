@@ -1,5 +1,6 @@
 ﻿---
 title: Computing related ethics
+type: note
 ---
 ## Applications - teachable moments 
 

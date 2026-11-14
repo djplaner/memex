@@ -1,5 +1,6 @@
 ﻿---
 title: mathematical-resilience-classroom-environment
+type: note
 ---
 De Geest & Lee (2019) introduce _mathematical resilience_ as "a positive stance towards mathematics" (echoing [[mathematical-mindset]]) which helps be able to (and believe they can) persist in becoming a successful learner of mathematics.
 

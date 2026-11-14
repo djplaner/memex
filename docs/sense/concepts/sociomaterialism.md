@@ -1,5 +1,6 @@
 ﻿---
 title: Sociomaterialism
+type: note
 ---
 [Fawns](https://timfawns.com/expanding-the-unit-of-analysis-of-learning/) offers this definition
 

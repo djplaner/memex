@@ -1,5 +1,6 @@
 ---
 title: Meta Occam
+type: note
 ---
 ## Source 
 

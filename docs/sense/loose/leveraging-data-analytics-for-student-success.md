@@ -1,4 +1,5 @@
 ---
+type: note
 title: Leveraging Data Analytics for Student Success
 ---
 Webinar ran by UTS. Titled - Arizona State University: Leveraging Data Analytics for Student Success.

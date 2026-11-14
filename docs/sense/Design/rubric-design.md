@@ -1,5 +1,6 @@
 ---
 title: Rubric Design
+type: note
 ---
 ## Designing an assessment rubric
 

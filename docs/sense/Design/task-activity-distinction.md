@@ -1,5 +1,6 @@
 ﻿---
 title: The distinction between task and activity
+type: note
 ---
 My current take
 

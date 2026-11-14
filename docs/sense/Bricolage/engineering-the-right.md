@@ -1,5 +1,6 @@
 ﻿---
 title: Engineering the Right
+type: note
 ---
 Why are so many followers of radical strains of Islam engineers? A new work searches for (and finds) some answers. Roughly, the traits of engineers and extremists overlap.
 > What the book finds is that engineers are also significantly represented among far right groups, while humanities and social sciences graduates dominate the far left; and the authors argue that the ideology of Islamist radicals, stripped of its religious components, overlaps far more with that of extreme right-wingers than with that of radical left-wingers.

@@ -1,5 +1,6 @@
 ---
 title: Possible ideas for a SvelteKit Foam site
+type: note
 ---
 Random collection of thoughts about if and how this might work.
 

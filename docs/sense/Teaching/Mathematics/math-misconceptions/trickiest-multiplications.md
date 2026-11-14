@@ -1,5 +1,6 @@
 ---
 title: Trickiest Multiplications
+type: note
 ---
 Heatmap showing the trickiest multiplications for students to learn. 
 

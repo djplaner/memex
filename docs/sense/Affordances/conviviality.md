@@ -1,5 +1,6 @@
 ﻿---
 title: Convivality
+type: note
 ---
 Ivan Illich - _Tools for Convivality_
 

@@ -1,5 +1,6 @@
 ---
 title: Problem prompts
+type: note
 ---
 A sample of prompts that cause problems with LLMS/demonstrate their limitations.
 

@@ -1,5 +1,6 @@
 ---
 title: Intro to Webpack
+type: note
 ---
 ## Possible steps for pathway-planner
 

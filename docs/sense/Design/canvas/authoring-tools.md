@@ -1,5 +1,6 @@
 ---
 title: Authoring tools
+type: note
 ---
 Collections of various content authoring tools
 

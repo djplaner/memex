@@ -1,5 +1,6 @@
 ﻿---
 title: Unbundled web components
+type: note
 ---
 ## TODO
 

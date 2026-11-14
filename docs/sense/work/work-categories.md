@@ -1,5 +1,6 @@
 ﻿---
 title: Work categories
+type: note
 ---
 Collection of resources related to work.
 

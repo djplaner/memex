@@ -1,5 +1,6 @@
 ---
 title: Exploring the Messy Realities of Post-Digital Education
+type: note
 ---
 ## Background
 

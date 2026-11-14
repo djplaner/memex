@@ -1,5 +1,6 @@
 ﻿---
 title: Automating instructional design
+type: note
 ---
 ## Background
 

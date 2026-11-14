@@ -1,4 +1,5 @@
 ﻿---
+type: note
 title: 'Average Canvas quiz results '
 ---
 See [[casa-gallery]]

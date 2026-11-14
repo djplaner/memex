@@ -1,5 +1,6 @@
 ---
 title: Iterative Practices and Academic Development
+type: note
 ---
 Looks like [editor's introduction to special issue](https://www-tandfonline-com.libraryproxy.griffith.edu.au/doi/full/10.1080/1360144X.2018.1485626)
 

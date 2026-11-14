@@ -1,5 +1,6 @@
 ---
 title: Assessment of process
+type: note
 ---
 ## Lodge - won't be easy 
 

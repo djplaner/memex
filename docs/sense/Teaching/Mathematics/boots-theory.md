@@ -1,5 +1,6 @@
 ---
 title: Boots theory
+type: note
 ---
 The **Sam Vimes "Boots" theory of socioeconomic unfairness**
 

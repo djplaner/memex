@@ -1,5 +1,6 @@
 ﻿---
 title: Quality and teaching
+type: note
 ---
 
 How to identify and encourage good learning and teaching.

@@ -1,5 +1,6 @@
 ﻿---
 title: Concepts
+type: note
 ---
 Holding space
 

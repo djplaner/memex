@@ -1,5 +1,6 @@
 ﻿---
 title: Svelte
+type: note
 ---
 [Svelte](https://svelte.dev/) an open-source, declarative web development framework that works as a compiler to vanilla JS.
 
