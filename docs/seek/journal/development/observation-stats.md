@@ -10,9 +10,8 @@ tags:
 
     Generating early observation stats for life lists. 
 
-    Issue with eBird and iNaturalist observations not include the same data for each observation, in particular `wikilinks-scientific-name` - making it difficult to do simple stats e.g. # obs / # species
+    Generation of life lists - especially macro replacement (<observations>) is adding extra blank lines before and after the macro - need to remove/prevent this from happening
 
-    Adding `wikilink-scientific-name` to `eBird.py`
 
 ## Purpose
 
