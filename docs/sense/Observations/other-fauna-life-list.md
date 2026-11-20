@@ -18,7 +18,28 @@ I currently have three life lists: [[plant-life-list]], [[bird-life-list]] and [
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!-- observations() -->
+
+| Statistic | Value |
+| --- | --- |
+| # Species, # Observations | 14, 15 (1.1 observations/species) |
+| First observation | 10:47 AM Saturday, 31 January 2026 |
+| Last observation | 07:14 PM Friday, 28 November 2025  |
 
 
 | Common Name | Scientific Name | Observations |
@@ -32,15 +53,43 @@ I currently have three life lists: [[plant-life-list]], [[bird-life-list]] and [
 | [[green-tree-frog]] | Pelodryas caerulea | 07:14 PM Friday, 28 November 2025<br /> | 
 | [[green-head-ant]] | Rhytidoponera metallica | 09:38 AM Thursday, 08 January 2026<br /> | 
 | [[lace-monitor]] | Varanus varius | 10:22 AM Tuesday, 02 September 2025<br /> | 
-| [[open-litter-rainbow-skink]] | Carlia pectoralis | 09:32 AM Tuesday, 20 January 2026<br /> | 
 | [[rainbow-skinks]] | Carlia | 09:32 AM Tuesday, 20 January 2026<br /> | 
 | [[robust-gecko]] | Amalosia robusta | 06:05 PM Monday, 13 October 2025<br /> | 
-| [[small-brown-paper-wasps]] | Ropalidia | 04:02 PM Wednesday, 07 January 2026<br /> | 
 | [[small-paper-wasps]] | Ropalidia | 04:02 PM Wednesday, 07 January 2026<br /> | 
 | [[spider-ants]] | Leptomyrmex tibialis | 08:16 AM Monday, 15 September 2025<br /> | 
 | [[white-antennae-wasp-moth]] | Amata nigriceps | 08:40 AM Friday, 28 November 2025<br /> | 
 
 <!-- /observations -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

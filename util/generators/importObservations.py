@@ -42,7 +42,7 @@ from pprint import pprint
 
 from lib.eBird import importeBird
 from lib.iNaturalist import importiNaturalist
-from lib.observations import filterObservations, displayObservationsIndex
+from lib.observations import filterObservations, displayObservationsIndex, generateLifeListStats
 from corpus import corpus
 
 HOME_FOLDER="/Users/davidjones"
@@ -93,8 +93,10 @@ def mergeEBirdAndINatObservations(eBirdBirds, iNatBirds):
 
 def replaceListForLifeLists():
     """
-    Generate the life lists for all of the LIFE_LIST_PATHS by extract all the observations for
-    each species type from the markdown files (bubbles)
+    Generate the life lists for all of the LIFE_LIST_PATHS 
+    - extract all the observations for each species type from the markdown files (bubbles)
+    - extract and display statistics from those observations
+    - generate a list (table) of those observations
     """
 
     #-- get all the memex bubbles
@@ -108,6 +110,9 @@ def replaceListForLifeLists():
         # - displayObservationsIndex will return a tuple [ markdown, linkDefs]
         # - linkDefs will need to be merged into existing linkDefs for the bubble
         [ lifeListMarkdown, lifeListLinkDefs ] = displayObservationsIndex( observations, { 'observation-type': species} )
+        lifeListStats = generateLifeListStats( observations )
+#        pprint(lifeListStats)
+#        input( " replaceListForLifeLists >> ")
 
         ##-- update the life list file by replacing the life list markdown
         lifeListBubble = bubbles.get_bubbles_by_frontmatter( { "title": LIFE_LIST_DETAILS[species]['title'] } )
@@ -121,6 +126,12 @@ def replaceListForLifeLists():
 
         observationContent = f"""
 <!-- observations() -->
+
+| Statistic | Value |
+| --- | --- |
+| # Species / # Observations | {lifeListStats["numSpecies"]} / {lifeListStats["numObservations"]} ({round( lifeListStats["numObservations"]/lifeListStats["numSpecies"], 1)} observations/species) |
+| First observation | {lifeListStats["firstDate"]} |
+| Last observation | {lifeListStats["lastDate"]}  |
 
 {lifeListMarkdown}
 

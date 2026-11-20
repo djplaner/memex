@@ -20,7 +20,28 @@ I currently have three life lists: [[plant-life-list]], [[bird-life-list]] and [
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!-- observations() -->
+
+| Statistic | Value |
+| --- | --- |
+| # Species, # Observations | 58, 79 (1.4 observations/species) |
+| First observation | 08:05 AM Monday, 04 August 2025 |
+| Last observation | 2025-07-23  |
 
 
 | Common Name | Scientific Name | Observations |
@@ -85,6 +106,36 @@ I currently have three life lists: [[plant-life-list]], [[bird-life-list]] and [
 | [[yellowhammer]] | Emberiza citrinella | Wednesday, 23 July 2025<br />Wednesday, 23 July 2025<br /> | 
 
 <!-- /observations -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
