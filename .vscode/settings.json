@@ -17,7 +17,10 @@
   "files.exclude": {
       "**/_site" : true
   }, 
-  "watcher.exclude" : {
-      "**/_site" : true
+  "files.watcherExclude" : {
+      "**/_site" : true,
+      ".venv/*": true,
+      ".vscode": true,
+      "**/node_modules/*": true
   }
 }

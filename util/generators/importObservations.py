@@ -124,8 +124,7 @@ def replaceListForLifeLists():
         #     <!-- /observation -->
         #  with lifeListMarkdown
 
-        observationContent = f"""
-<!-- observations() -->
+        observationContent = f"""<!-- observations() -->
 
 | Statistic | Value |
 | --- | --- |
@@ -135,8 +134,7 @@ def replaceListForLifeLists():
 
 {lifeListMarkdown}
 
-<!-- /observations -->
-"""
+<!-- /observations -->"""
         observationRe = re.compile(r"<!-- observations\(\) -->.*<!-- \/observations -->", flags=re.DOTALL)
 
         #-- update the string

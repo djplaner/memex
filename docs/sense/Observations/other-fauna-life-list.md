@@ -33,11 +33,12 @@ I currently have three life lists: [[plant-life-list]], [[bird-life-list]] and [
 
 
 
+
 <!-- observations() -->
 
 | Statistic | Value |
 | --- | --- |
-| # Species, # Observations | 14, 15 (1.1 observations/species) |
+| # Species / # Observations | 14 / 15 (1.1 observations/species) |
 | First observation | 10:47 AM Saturday, 31 January 2026 |
 | Last observation | 07:14 PM Friday, 28 November 2025  |
 
@@ -60,6 +61,10 @@ I currently have three life lists: [[plant-life-list]], [[bird-life-list]] and [
 | [[white-antennae-wasp-moth]] | Amata nigriceps | 08:40 AM Friday, 28 November 2025<br /> | 
 
 <!-- /observations -->
+
+
+
+
 
 
 

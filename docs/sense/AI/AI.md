@@ -7,7 +7,9 @@ tags:
 
 !!! note "Informed by a skeptical perspective and little detailed engagement"
 
-	__Disclaimer__: I'm skeptical of LLMs (see below). I've made almost no direct use of LLMs, though engage somewhat through CoPilot and "AI" identification tools in services like iNaturalist. I read/listen occasionally to various takes on LLMs.
+	__Disclaimer__: I'm skeptical of LLMs (see below). I've made almost no direct use of LLMs, though engage somewhat through CoPilot and "AI" identification tools in services like iNaturalist. I read/listen occasionally to various takes on LLMs, but don't give it a lot of thought (at least as of late 2026).
+
+	Thus the following is likely far from useful or insightful.
 
 	
 
@@ -21,6 +23,7 @@ There is a small chance that LLMs may have some surprising emergent capabilities
 
 Sources that have influenced my thinking, include:
 
+- [The colonisation of confidence](https://sightlessscribbles.com/posts/the-colonization-of-confidence/) - a short "story" by [Robert Kingett](https://sightlessscribbles.com/about/)
 - [AI and Software Quality](https://softwarecrisis.dev/letters/ai-and-software-quality/)
 - [Ayyyyy Eyeeeee](https://doctorow.medium.com/ayyyyyy-eyeeeee-4ac92fa2eed) - from Cory Doctorow that uses prior tech experience ([criti-hype](https://sts-news.medium.com/youre-doing-it-wrong-notes-on-criticism-and-technology-hype-18b08b4307e5)) and current LLM happenings to explore how they'll be used for [enshittification](https://pluralistic.net/2023/01/21/potemkin-ai/#hey-guys) to argue the idea that rather than posing an existential risk, LLMs "a product of limited utility that has been shoehorned into high-stakes applicaions that it is unsuited to perform"
 - [[the-algorithm-everyone-thinks-they-understand]] - summary of and thinking sparked by a post from Chris Bigum
